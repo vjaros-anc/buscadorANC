@@ -70,6 +70,9 @@ SECTORES: dict[str, list[str]] = {
         # --- nuevo ---
         r"exploracion y produccion de hidrocarburos", r"produccion de hidrocarburos",
         r"pozos petroleros", r"estimulacion.*pozos", r"empresas petroleras",
+        # --- ampliacion cobertura ---
+        r"hidrocarburos", r"fractura hidraulica", r"yacimiento",
+        r"distribucion minorista de combustibles", r"lubricantes",
     ],
     "Energía eléctrica": [
         r"energia electrica", r"potencia instalada", r"infraestructura electrica",
@@ -77,7 +80,12 @@ SECTORES: dict[str, list[str]] = {
         r"sistema electrico", r"alta( y extra alta)? tension", r"generacion de energia",
         # --- nuevo ---
         r"alquiler de generadores", r"suministro de electricidad",
+        r"eolica", r"solar", r"renovable", r"hidraulica", r"geotermica", r"mareomotriz",
         r"energia eolica", r"energia solar", r"energia renovable",
+        r"energia hidraulica", r"energia geotermica", r"energia mareomotriz",
+        # --- ampliacion cobertura ---
+        r"parque eolico", r"planta eolica", r"transporte de electricidad",
+        r"transporte de energia electrica", r"generacion electrica", r"central hidroelectrica",
     ],
     "Gases industriales": [
         r"oxigeno", r"oxigeno liquido",
@@ -89,9 +97,12 @@ SECTORES: dict[str, list[str]] = {
         r"\bsoja\b", r"\bmaiz\b", r"\btrigo\b", r"granos", r"semillas", r"oleaginosa",
         r"molienda", r"harina", r"acopio", r"agricola-ganadero", r"uso agricola",
         r"maquinaria agricola", r"agricultura de precision", r"tierras", r"biocombustible",
-        r"ganado bovino", r"cria y recria",r"ingenio azucarero", r"azucar", r"melaza", r"bagazo", r"cachaza",
+        r"ganado bovino", r"cria y recria", r"ingenio azucarero", r"azucar", r"melaza", r"bagazo", r"cachaza",
         # --- nuevo ---
         r"actividad forestal", r"plantacion de", r"eucalipto", r"\bpino\b",
+        r"fertilizante",
+        # --- ampliacion cobertura ---
+        r"\briego\b", r"irrigacion", r"frutas?", r"peras|manzanas|ciruelas|duraznos",
     ],
     "Agroquímicos y fitosanitarios": [
         # --- nuevo sector ---
@@ -101,9 +112,12 @@ SECTORES: dict[str, list[str]] = {
     "Alimentos y bebidas": [
         r"\bmani\b", r"postres", r"caramelos", r"chocolate", r"panificados", r"\bpan\b",
         r"panaderia", r"bebidas sin alcohol", r"biscochos", r"alimentos",
+        r"vino", r"bebidas alcoholicas", r"bebidas gaseosas", r"jugos",
         # --- nuevo ---
         r"bebidas con alcohol", r"cerveza", r"leche", r"manteca", r"queso", r"yogur", r"dulce de leche",
         r"crema de leche", r"tambo", r"lacteo", r"suero(s)? de leche",
+        # --- ampliacion cobertura ---
+        r"pastas?", r"empanadas", r"helados", r"salsas",
     ],
     "Salud y farmacéutico": [
         r"sanatorial", r"servicios sanatoriales", r"medicina prepaga", r"analisis clinicos",
@@ -114,6 +128,8 @@ SECTORES: dict[str, list[str]] = {
         # --- nuevo ---
         r"ensayos clinicos", r"hormona", r"principio activo", r"somatropina",
         r"gonadotrofina",
+        # --- ampliacion cobertura ---
+        r"dispositivos? medicos?",
     ],
     "Química, cosmética y limpieza": [
         r"cosmetic", r"perfumeria", r"tocador", r"limpieza e higiene",
@@ -124,9 +140,14 @@ SECTORES: dict[str, list[str]] = {
         r"resinas fenolicas", r"surfactante", r"monoetilenglicol", r"\bmeg\b",
         r"etanolamina", r"\beoa\b", r"detergente", r"jabon(es)? para lavar",
         r"productos de belleza", r"cuidado personal", r"recubrimientos",
+        # --- ampliacion cobertura ---
+        r"revestimientos de alto rendimiento", r"repintado automotor",
+        r"revestimientos en polvo", r"productos quimicos",
     ],
     "Minería": [
         r"mineria", r"\bminera\b", r"actividad minera", r"litio",
+        # --- ampliacion cobertura ---
+        r"minerales? de", r"\bcobre\b", r"molibdeno", r"oro y plata", r"extraccion de minerales",
     ],
     "Metalurgia y siderurgia": [
         # --- nuevo sector ---
@@ -142,6 +163,8 @@ SECTORES: dict[str, list[str]] = {
         # --- nuevo sector ---
         r"envases de carton", r"carton corrugado", r"papeles? para corruga",
         r"bag-in-box", r"envases flexibles",
+        # --- ampliacion cobertura ---
+        r"papel(es)?\b", r"\btissue\b", r"pulpa de", r"celulosa",
     ],
     "Madera y muebles": [
         # --- nuevo sector ---
@@ -154,15 +177,21 @@ SECTORES: dict[str, list[str]] = {
     "Electrodomésticos y climatización": [
         # --- nuevo sector ---
         r"aires acondicionados", r"electrodomestic",
+        # --- ampliacion cobertura ---
+        r"climatizacion", r"\bhvac\b", r"calefaccion", r"aire acondicionado",
+        r"articulos para el hogar",
     ],
     "Servicios financieros y seguros": [
         r"bancaria", r"entidades bancarias", r"fondos comunes de inversion", r"seguros",
         r"garantia reciproca", r"\bsgr\b", r"avales", r"garantias a mipymes",
         r"activos virtuales", r"psav",
+        r"financieros", r"financiera", r"banca", r"aseguradora", r"finanzas",
         # --- nuevo ---
         r"tarjetas de credito", r"procesamiento transaccional",
         r"agente de liquidacion y compensacion", r"\balyc\b",
         r"riesgos del trabajo", r"actividad financiera",
+        # --- ampliacion cobertura ---
+        r"mercado de capitales", r"\balyc",
     ],
     "Inmobiliario, retail y shoppings": [
         r"inmobiliari", r"espacios comerciales", r"shopping", r"centros comerciales",
@@ -176,6 +205,8 @@ SECTORES: dict[str, list[str]] = {
         r"logistic", r"transporte aereo", r"\bcargas\b", r"linea regular",
         # --- nuevo ---
         r"lineas aereas", r"transporte de caudales",
+        # --- ampliacion cobertura ---
+        r"\bcaudales\b", r"transporte.*pasajeros", r"aerea|aereo",
     ],
     "Seguridad privada": [
         # --- nuevo sector ---
@@ -186,6 +217,8 @@ SECTORES: dict[str, list[str]] = {
         r"entradas para evento", r"eventos en vivo", r"recintos", r"promocion de eventos",
         # --- nuevo ---
         r"señales de tv", r"licenciamiento.*propiedad intelectual", r"\bott\b", r"\bsvod\b",
+        # --- ampliacion cobertura ---
+        r"casino", r"juegos de azar", r"\bestadio\b", r"canal de emision",
     ],
     "Publicidad y marketing": [
         # --- nuevo sector ---
@@ -196,15 +229,22 @@ SECTORES: dict[str, list[str]] = {
         r"autopartes", r"automotriz", r"concesionarias",
         # --- nuevo ---
         r"tanques.*combustible", r"vehiculos automotores", r"sistemas de propulsion",
+        r"combustibles", r"vehiculos", r"\bautos\b",
+        # --- ampliacion cobertura ---
+        r"repintado automotor",
     ],
     "Construcción y materiales": [
         r"cemento", r"portland", r"hormigon", r"premoldeados", r"vidrio plano",
         r"para la construccion",
         # --- nuevo ---
         r"impermeabilizantes", r"membranas solidas",
+        # --- ampliacion cobertura ---
+        r"obras de infraestructura", r"obra publica", r"tratamiento de aguas?",
     ],
     "Pesca": [
         r"\bpesca\b", r"langostino",
+        # --- ampliacion cobertura ---
+        r"merluza", r"calamar", r"pesquer",
     ],
     "Tecnología y telecomunicaciones": [
         r"tecnologicos", r"satelital", r"infraestructura satelital",
@@ -212,10 +252,18 @@ SECTORES: dict[str, list[str]] = {
         # --- nuevo ---
         r"desarrollo de software", r"integracion de sistemas", r"solucion(es)? como servicio",
         r"copiadoras", r"impresoras laser", r"facsimiles",
+        # --- ampliacion cobertura ---
+        r"\bsoftware\b", r"call center", r"contact center", r"\bbpo\b",
+        r"business process outsourcing", r"television por cable",
     ],
     "Textiles no tejidos": [
         # --- nuevo sector ---
         r"materiales no tejidos",
+    ],
+    "Hotelería": [
+        # --- nuevo sector ---
+        r"\bhotel", r"apart hotel", r"apartamentos amoblados",
+        r"alojamiento", r"residencial", r"residencias",
     ],
     "Reorganización societaria (sin mercado definido)": [
         # --- nuevo sector: casos art. 7, sin overlap de mercado ---
