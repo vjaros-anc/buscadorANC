@@ -23,7 +23,7 @@ from pathlib import Path
 
 import pandas as pd
 
-ARCHIVO = Path(__file__).with_name("Res_firmadas_2026.xlsx")
+ARCHIVO = Path(__file__).with_name("firm.xlsx")
 HOJA = "firmadas"
 
 
