@@ -104,11 +104,14 @@ def build_records() -> list[dict]:
         except Exception:
             pass
 
-        # clasificacion: V1 manda cuando existe; si no, V2. Sumamos caratula.
+        # Clasificacion por sector. La V1 manda cuando esta disponible; si esta
+        # vacia, se usa la V2. Ademas, si la V1 esta pero no permite clasificar
+        # (no matchea ningun sector) y existe V2, se reintenta con la V2.
         merc_ref = merc_v1 if merc_v1 else merc_v2
         base_norm = nm.norm(merc_ref + " " + caratula)
-
         sectores = nm.clasificar_sectores(base_norm)
+        if not sectores and merc_v1 and merc_v2:
+            sectores = nm.clasificar_sectores(nm.norm(merc_v2 + " " + caratula))
         if not sectores:
             sectores = ["Otros / sin clasificar"]
 
@@ -239,8 +242,8 @@ TEMPLATE = r"""<!doctype html>
   .bm-header p { margin: 0; font-size: .9rem; color: #555; max-width: 70ch; }
   .bm-main { max-width: 1100px; margin: 0 auto; padding: 0 1.2rem 2rem; }
 
-  .bm-controls { position: sticky; top: 0; background: #f7f8fa; padding: .9rem 0 .7rem;
-    z-index: 10; border-bottom: 1px solid #e6e6e6; }
+  .bm-controls { background: #f7f8fa; padding: .9rem 0 .7rem;
+    border-bottom: 1px solid #e6e6e6; }
   .bm-search { width: 100%; font-size: 1.1rem; padding: .7rem .9rem; border: 2px solid var(--azul2);
     border-radius: 8px; }
   .bm-search:focus { outline: none; border-color: var(--azul); box-shadow: 0 0 0 3px rgba(8,81,156,.15); }
@@ -273,11 +276,9 @@ TEMPLATE = r"""<!doctype html>
   .bm-count { font-size: .85rem; color: #555; margin: .7rem 0 .4rem; }
   .bm-count b { color: var(--azul); }
 
-  /* contenedor con scroll: ~50 tarjetas a primera vista, resto scrolleando */
-  .bm-scroll { max-height: 78vh; overflow-y: auto; padding-right: .4rem;
-    border: 1px solid #e6e6e6; border-radius: 10px; background: #fdfdfd; }
-  .bm-scroll::-webkit-scrollbar { width: 12px; }
-  .bm-scroll::-webkit-scrollbar-thumb { background: #c3ccd6; border-radius: 6px; border: 3px solid #fdfdfd; }
+  /* resultados: fluyen en la pagina (sin caja con scroll propio); ~50 a primera
+     vista y el resto se carga al bajar con el scroll normal de la pagina. */
+  .bm-scroll { }
 
   .bm-card { border: 1px solid #e2e2e2; border-left: 4px solid var(--azul2); border-radius: 8px;
     padding: .75rem .9rem; margin: .6rem; background: #fff; }
@@ -560,24 +561,30 @@ TEMPLATE = r"""<!doctype html>
     }
   }
 
+  // ¿la pagina esta cerca del fondo? (scroll normal de la ventana)
+  function nearBottom(){
+    return window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 400;
+  }
+  // carga lotes mientras haga falta para llenar la vista actual o al bajar
+  function maybeFill(){
+    let guard = 0;
+    while(rendered < filtered.length && nearBottom() && guard++ < 50) appendBatch();
+  }
+
   function render(){
     filtered = compute();
     rendered = 0;
     cont.innerHTML = '';
-    scroll.scrollTop = 0;
     countEl.innerHTML = '<b>'+filtered.length+'</b> resultado(s) de '+DATA.length+' expedientes firmados';
     if(!filtered.length){
       cont.innerHTML = '<div class="bm-none">Sin resultados. Probá otro término o quitá filtros.</div>';
       return;
     }
     appendBatch();
+    maybeFill();
   }
 
-  scroll.addEventListener('scroll', () => {
-    if(rendered < filtered.length && scroll.scrollTop + scroll.clientHeight >= scroll.scrollHeight - 300){
-      appendBatch();
-    }
-  });
+  window.addEventListener('scroll', maybeFill, { passive: true });
 
   // eventos
   q.addEventListener('input', render);
