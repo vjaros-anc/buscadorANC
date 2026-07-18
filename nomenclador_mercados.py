@@ -153,12 +153,6 @@ SECTORES: dict[str, list[str]] = {
         # --- nuevo sector ---
         r"aceros?\b", r"acero inoxidable", r"fraccionamiento.*acero",
     ],
-    "Cerámica y revestimientos": [
-        # --- nuevo sector ---
-        r"fritas", r"esmaltes", r"baldosas ceramicas", r"revestimientos.*ceramic",
-        r"colores de alta calidad", r"colores de baja calidad", r"tintas digitales",
-        r"caolin", r"corindon", r"wollastonita",
-    ],
     "Papel, cartón y envases": [
         # --- nuevo sector ---
         r"envases de carton", r"carton corrugado", r"papeles? para corruga",
@@ -239,7 +233,10 @@ SECTORES: dict[str, list[str]] = {
         # --- nuevo ---
         r"impermeabilizantes", r"membranas solidas",
         # --- ampliacion cobertura ---
-        r"obras de infraestructura", r"obra publica", r"tratamiento de aguas?",
+        r"obras de infraestructura", r"obra publica", r"tratamiento de aguas?",        # --- nuevo sector ---
+        r"fritas", r"esmaltes", r"baldosas ceramicas", r"revestimientos.*ceramic",
+        r"colores de alta calidad", r"colores de baja calidad", r"tintas digitales",
+        r"caolin", r"corindon", r"wollastonita",
     ],
     "Pesca": [
         r"\bpesca\b", r"langostino",
