@@ -23,6 +23,7 @@ from __future__ import annotations
 
 import html as htmllib
 import json
+import re
 from collections import Counter
 from pathlib import Path
 
@@ -41,6 +42,9 @@ SALIDA = AQUI / "index.html"
 # --------------------------------------------------------------------------- #
 PDF_DIR = "pdf"
 
+# Carpeta de PDFs en GitHub para el boton "Archivo" (se abre en pestaña nueva).
+ARCHIVO_URL = "https://github.com/vjaros-anc/buscadorANC/tree/main/pdf"
+
 # nombres reales de columnas en firm.xlsx
 C_CARPETA = "Carpeta"
 C_CARATULA = "Carátula"
@@ -54,6 +58,53 @@ C_REL_V1 = "Relaciones económicas"
 C_REL_V2 = "relaciones_econ_V2"
 C_GRUPO = "Grupo/Empresa"
 C_EMPRESAS = "Empresas involucradas"
+C_TIPO = "tipo"
+
+# --------------------------------------------------------------------------- #
+# Categorias del filtro por TIPO. La columna `tipo` del Excel mezcla codigos
+# numericos (1..6) y texto ("CONC"/"OPI"), y a veces viene vacia; clasificar_tipo
+# la unifica en UNA sola categoria por expediente. Editar aca los codigos/labels.
+# --------------------------------------------------------------------------- #
+TIPO_LABELS = {
+    "1": "Conc. ordinaria",
+    "2": "DP",
+    "3": "Otros",
+    "4": "PROSUM",
+    "5": "OPI",
+    "6": "Conc. condicionada",
+}
+# orden en que aparecen los chips (los que no esten se agregan al final)
+TIPO_ORDEN = ["Conc. ordinaria", "Conc. condicionada", "PROSUM", "DP", "OPI", "Otros"]
+
+
+def clasificar_tipo(tipo_raw, carpeta: str) -> str:
+    """Unifica la columna `tipo` (numeros 1-6 y/o texto) en una sola categoria."""
+    t = nm.clean(tipo_raw).strip()
+    # los enteros pueden venir como "1.0" desde pandas
+    if re.fullmatch(r"\d+(\.0+)?", t):
+        code = t.split(".")[0]
+        if code in TIPO_LABELS:
+            return TIPO_LABELS[code]
+    tl = t.lower()
+    if tl.startswith("opi"):
+        return "OPI"
+    if tl.startswith("dp"):
+        return "DP"
+    if tl.startswith("inc"):
+        return "Otros"
+    if tl.startswith("conc"):
+        return "Conc. ordinaria"
+    # tipo vacio/desconocido -> inferir de la carpeta
+    c = (carpeta or "").upper()
+    if "PROSUM" in c:
+        return "PROSUM"
+    if "OPI" in c:
+        return "OPI"
+    if re.search(r"\bDP\b", c):
+        return "DP"
+    if re.search(r"\bINC\b", c):
+        return "Otros"
+    return "Conc. ordinaria"
 
 
 def _parse_empresas(val) -> tuple[list[str], list[str]]:
@@ -142,6 +193,7 @@ def build_records() -> list[dict]:
             "id": int(i),
             "carpeta": carpeta,
             "tipo": tipo,
+            "tipo_cat": clasificar_tipo(row.get(C_TIPO), carpeta),
             "numero": numero,
             "prosum": bool(prosum),
             "excluible": nm.clean(row.get("Excluible")).upper() == "SI",
@@ -201,15 +253,35 @@ def main() -> None:
     sectores = sorted({s for r in recs for s in r["sectores"]})
     relaciones = ["Horizontal", "Vertical", "Conglomerado", "Efectos de cartera"]
 
-    # decisiones (articulo de la ley) ordenadas por frecuencia, con conteo
-    dec_cont = Counter(r["decision"] for r in recs if r["decision"])
-    decisiones = [[d, n] for d, n in dec_cont.most_common()]
+    # tipos presentes, en el orden preferido; los inesperados van al final
+    tipo_cont = Counter(r["tipo_cat"] for r in recs if r["tipo_cat"])
+    tipos = [[t, tipo_cont[t]] for t in TIPO_ORDEN if t in tipo_cont]
+    tipos += [[t, tipo_cont[t]] for t in sorted(tipo_cont) if t not in TIPO_ORDEN]
+
+    # decisiones (articulo de la ley) agrupadas ignorando may/min, acentos y
+    # espacios: la clave es norm(decision); la etiqueta visible es la variante
+    # mas frecuente del grupo. En el HTML se filtra comparando norm(r.decision).
+    dec_groups: dict[str, dict] = {}
+    for r in recs:
+        d = r["decision"]
+        if not d:
+            continue
+        g = dec_groups.setdefault(nm.norm(d), {"labels": Counter(), "total": 0})
+        g["labels"][d] += 1
+        g["total"] += 1
+    decisiones = [
+        [k, g["labels"].most_common(1)[0][0], g["total"]]
+        for k, g in dec_groups.items()
+    ]
+    decisiones.sort(key=lambda x: -x[2])
 
     html = TEMPLATE
     html = html.replace("__DATA__", json.dumps(recs, ensure_ascii=False))
     html = html.replace("__SEC__", json.dumps(sectores, ensure_ascii=False))
     html = html.replace("__REL__", json.dumps(relaciones, ensure_ascii=False))
+    html = html.replace("__TIPO__", json.dumps(tipos, ensure_ascii=False))
     html = html.replace("__DEC__", json.dumps(decisiones, ensure_ascii=False))
+    html = html.replace("__ARCHIVO__", ARCHIVO_URL)
     html = html.replace("__TABLA__", tabla_nomenclador(recs))
     html = html.replace("__TOTAL__", str(len(recs)))
 
@@ -218,13 +290,14 @@ def main() -> None:
     cont = Counter(s for r in recs for s in r["sectores"])
     print(f"OK -> {SALIDA.name}  ({len(recs)} expedientes)")
     print(f"  {len(decisiones)} decisiones distintas | PDFs esperados en ./{PDF_DIR}/")
+    print("  Tipos:", ", ".join(f"{t}={n}" for t, n in tipos))
     for s, n in cont.most_common():
         print(f"  {n:3d}  {s}")
 
 
 # --------------------------------------------------------------------------- #
-# Plantilla HTML (self-contained). Tokens: __DATA__ __SEC__ __REL__ __DEC__
-#                                           __TABLA__ __TOTAL__
+# Plantilla HTML (self-contained). Tokens: __DATA__ __SEC__ __REL__ __TIPO__
+#                             __DEC__ __ARCHIVO__ __TABLA__ __TOTAL__
 # --------------------------------------------------------------------------- #
 TEMPLATE = r"""<!doctype html>
 <html lang="es">
@@ -256,10 +329,12 @@ TEMPLATE = r"""<!doctype html>
   .bm-field.dec select { flex: 1; font-size: .9rem; padding: .45rem .5rem; border: 1px solid #6a51a3;
     border-radius: 6px; min-width: 0; max-width: 100%; background: #fff; }
   .bm-btn { cursor: pointer; font-size: .85rem; font-weight: 600; padding: .45rem .8rem;
-    border: none; border-radius: 6px; background: var(--azul); color: #fff; white-space: nowrap; }
+    border: none; border-radius: 6px; background: var(--azul); color: #fff; white-space: nowrap;
+    text-decoration: none; display: inline-block; }
   .bm-btn:hover { background: #063a70; }
   .bm-btn.emp { background: #1a7a3a; } .bm-btn.emp:hover { background: #12572a; }
   .bm-btn.ghost { background: #eee; color: #333; } .bm-btn.ghost:hover { background: #ddd; }
+  .bm-btn.arch { background: #08807e; } .bm-btn.arch:hover { background: #05605e; }
 
   .bm-dates { display: flex; gap: .35rem; align-items: center; font-size: .85rem; color: #555; }
   .bm-dates input[type=date] { font-size: .85rem; padding: .35rem .4rem; border: 1px solid #bbb; border-radius: 6px; }
@@ -272,6 +347,7 @@ TEMPLATE = r"""<!doctype html>
   .bm-chip:hover { background: #e8f0f7; }
   .bm-chip.on { background: var(--azul2); color: #fff; border-color: var(--azul2); }
   .bm-chip.rel.on { background: var(--naranja); border-color: var(--naranja); }
+  .bm-chip.tipo.on { background: #08807e; color: #fff; border-color: #08807e; }
 
   .bm-count { font-size: .85rem; color: #555; margin: .7rem 0 .4rem; }
   .bm-count b { color: var(--azul); }
@@ -381,8 +457,11 @@ TEMPLATE = r"""<!doctype html>
         </select>
       </div>
       <button class="bm-btn ghost" id="bm-reset">Limpiar filtros</button>
+      <a class="bm-btn arch" id="bm-archivo" href="__ARCHIVO__" target="_blank"
+        rel="noopener" title="Abrir la carpeta de PDFs en GitHub">📁 Archivo (PDFs)</a>
     </div>
 
+    <div class="bm-filtros" id="bm-tipos"><span class="bm-lbl">TIPO:</span></div>
     <div class="bm-filtros" id="bm-sectores"><span class="bm-lbl">SECTOR:</span></div>
     <div class="bm-filtros" id="bm-relaciones"><span class="bm-lbl">RELACIÓN:</span></div>
   </div>
@@ -404,6 +483,7 @@ TEMPLATE = r"""<!doctype html>
   const DATA = JSON.parse(document.getElementById('bm-data').textContent);
   const SECTORES = __SEC__;
   const RELACIONES = __REL__;
+  const TIPOS = __TIPO__;
   const DECISIONES = __DEC__;
   const BATCH = 50;
 
@@ -414,15 +494,25 @@ TEMPLATE = r"""<!doctype html>
   const q = el('bm-q'), empI = el('bm-emp'), decI = el('bm-dec');
   const desdeI = el('bm-desde'), hastaI = el('bm-hasta'), ordenI = el('bm-orden');
   const cont = el('bm-resultados'), scroll = el('bm-scroll'), countEl = el('bm-count');
-  const selSec = new Set(), selRel = new Set();
+  const selSec = new Set(), selRel = new Set(), selTipo = new Set();
 
   let filtered = [], rendered = 0;
 
-  // desplegable de decisiones (articulo de la ley)
-  DECISIONES.forEach(([d, n]) => {
+  // desplegable de decisiones (articulo de la ley). El value es la clave
+  // normalizada del grupo (norm) y el texto es la variante mas frecuente; asi el
+  // desplegable agrupa opciones que solo difieren en may/min, acentos o espacios.
+  DECISIONES.forEach(([k, label, n]) => {
     const o = document.createElement('option');
-    o.value = d; o.textContent = d + '  (' + n + ')';
+    o.value = k; o.textContent = label + '  (' + n + ')';
     decI.appendChild(o);
+  });
+
+  // chips de TIPO (categoria unica por expediente)
+  TIPOS.forEach(([t, n]) => {
+    const c = document.createElement('span');
+    c.className = 'bm-chip tipo'; c.textContent = t + ' (' + n + ')';
+    c.onclick = () => { c.classList.toggle('on'); selTipo.has(t)?selTipo.delete(t):selTipo.add(t); render(); };
+    el('bm-tipos').appendChild(c);
   });
 
   // chips
@@ -467,7 +557,8 @@ TEMPLATE = r"""<!doctype html>
     let res = DATA.filter(r => {
       if(mTerms.length && !mTerms.every(t => r.search.includes(t))) return false;
       if(eTerms.length && !eTerms.every(t => r.search_emp.includes(t))) return false;
-      if(dec && r.decision !== dec) return false;
+      if(dec && norm(r.decision) !== dec) return false;
+      if(selTipo.size && !selTipo.has(r.tipo_cat)) return false;
       if(selSec.size && !r.sectores.some(s=>selSec.has(s))) return false;
       if(selRel.size && !r.rel_tags.some(x=>selRel.has(x))) return false;
       if((dDesde || dHasta) && !r.fsort) return false;
@@ -597,7 +688,7 @@ TEMPLATE = r"""<!doctype html>
   empI.addEventListener('search', render);  // limpiar con la X
   el('bm-reset').addEventListener('click', () => {
     q.value=''; empI.value=''; decI.value=''; desdeI.value=''; hastaI.value=''; ordenI.value='desc';
-    selSec.clear(); selRel.clear();
+    selSec.clear(); selRel.clear(); selTipo.clear();
     document.querySelectorAll('.bm-chip.on').forEach(c=>c.classList.remove('on'));
     render();
   });
