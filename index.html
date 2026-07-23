@@ -98,7 +98,8 @@
     border-top: 1px dashed #ddd; padding-top: .45rem; }
   .bm-ids code { background: #f2f2f2; padding: .05rem .3rem; border-radius: 4px; color: #b30000; }
   .bm-none { padding: 1.6rem; text-align: center; color: #999; }
-  .bm-more { padding: .7rem; text-align: center; color: #888; font-size: .82rem; }
+  .bm-more { padding: 1rem .7rem 1.6rem; text-align: center; color: #888; font-size: .82rem; }
+  .bm-more .bm-btn { margin-top: .45rem; font-size: .95rem; padding: .6rem 1.6rem; }
   mark { background: #fff3b0; padding: 0 .05rem; }
 
   /* Nomenclador por sector */
@@ -342,23 +343,36 @@
     wrap.innerHTML = slice.map(cardHTML).join('');
     while(wrap.firstChild) cont.appendChild(wrap.firstChild);
     rendered += slice.length;
+    updateMore();
+  }
+
+  // pie de la lista: contador + boton "Mostrar todo" (queda antes del nomenclador)
+  function updateMore(){
     let more = el('bm-more'); if(more) more.remove();
     if(rendered < filtered.length){
+      const restan = filtered.length - rendered;
       const m = document.createElement('div');
       m.id = 'bm-more'; m.className = 'bm-more';
-      m.textContent = 'Mostrando '+rendered+' de '+filtered.length+' — seguí bajando para ver más…';
+      const info = document.createElement('div');
+      info.textContent = 'Mostrando ' + rendered + ' de ' + filtered.length;
+      const btn = document.createElement('button');
+      btn.className = 'bm-btn'; btn.id = 'bm-showall';
+      btn.textContent = 'Mostrar todo (' + restan + ' restantes)';
+      btn.onclick = showAll;
+      m.appendChild(info);
+      m.appendChild(btn);
       cont.appendChild(m);
     }
   }
 
-  // ¿la pagina esta cerca del fondo? (scroll normal de la ventana)
-  function nearBottom(){
-    return window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 400;
-  }
-  // carga lotes mientras haga falta para llenar la vista actual o al bajar
-  function maybeFill(){
-    let guard = 0;
-    while(rendered < filtered.length && nearBottom() && guard++ < 50) appendBatch();
+  // muestra de una vez todos los resultados restantes
+  function showAll(){
+    const slice = filtered.slice(rendered);
+    const wrap = document.createElement('div');
+    wrap.innerHTML = slice.map(cardHTML).join('');
+    while(wrap.firstChild) cont.appendChild(wrap.firstChild);
+    rendered = filtered.length;
+    updateMore();
   }
 
   function render(){
@@ -371,10 +385,7 @@
       return;
     }
     appendBatch();
-    maybeFill();
   }
-
-  window.addEventListener('scroll', maybeFill, { passive: true });
 
   // eventos
   q.addEventListener('input', render);
