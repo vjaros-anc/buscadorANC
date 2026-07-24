@@ -23,7 +23,7 @@ from pathlib import Path
 
 import pandas as pd
 
-ARCHIVO = Path(__file__).with_name("firm.xlsx")
+ARCHIVO = Path(__file__).with_name("firm4.xlsx")
 HOJA = "firmadas"
 
 
@@ -107,7 +107,7 @@ SECTORES: dict[str, list[str]] = {
     "Agroquímicos y fitosanitarios": [
         # --- nuevo sector ---
         r"agroquimic", r"herbicida", r"insecticida", r"fungicida",
-        r"fitosanitario", r"fosanitario", r"coadyuvante",
+        r"fitosanitario", r"fotosanitarios", r"coadyuvante",
     ],
     "Alimentos y bebidas": [
         r"\bmani\b", r"postres", r"caramelos", r"chocolate", r"panificados", r"\bpan\b",
