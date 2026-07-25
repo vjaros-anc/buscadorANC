@@ -44,6 +44,8 @@ Dependencias: pip install pymupdf openpyxl
 """
 import os, re, sys, glob, json, importlib.util
 
+import fitz
+
 # --- Importar el extractor original como base de utilidades ------------------
 SCRIPT_ORIG = r"C:\Users\Admin\Documents\ANC\descargas_cndc\extraer_firmadas2.py"
 
@@ -64,6 +66,132 @@ def _limpiar_pua(s):
         return s
     s = _RE_PUA.sub(" ", s)
     return re.sub(r"\s+", " ", s).strip(" -–·•\t")
+
+
+# --------------------------------------------------------------------------- #
+# FIX 7: tabla de empresas dibujada con TEXTO (formato nuevo de los dictamenes/
+# disposiciones: "Empresa | Actividad", agrupada por "Grupo X", con celdas que
+# se parten en varios renglones).  find_tables() de PyMuPDF NO ve estas tablas
+# (no tienen lineas vectoriales) -> el extractor por tablas las pierde.  Aca se
+# lee la capa de texto con coordenadas: se separa la columna izquierda (Empresa)
+# de la derecha (Actividad) por posicion X y se reconstruye cada nombre uniendo
+# sus renglones (los nombres van en MAYUSCULAS; la actividad en minusculas).
+# --------------------------------------------------------------------------- #
+_TT_LEGAL_END = re.compile(
+    r"(S\.?\s?A\.?(\.?U|\.?S|\.?I\.?C\.?)?|S\.?R\.?L\.?|S\.?A\.?S\.?|S\.?C\.?A\.?|"
+    r"S\.?\s*EN\s*C\.?|L\.?L\.?C\.?|GMBH|(&\s*CO\.?\s*)?KG|B\.?V\.?|N\.?V\.?|"
+    r"LTDA?\.?|LTD\.?|INC\.?|CORP\.?|PLC|"
+    r"S\.?\s*DE\s*R\.?L\.?(\s*DE\s*C\.?V\.?)?|C\.?V\.?|S\.?A\.?P\.?I\.?)\s*$",
+    re.I,
+)
+_TT_HEADER = re.compile(r"^(empresas?|actividad(es)?|raz[oó]n\s+social|rubro|nombre)\s*$", re.I)
+_TT_STOP = re.compile(r"^(IF-\d|P[aá]gina\s+\d|[IVX]{1,4}\.?$|\d{1,3}\.?\s*$)", re.I)
+
+
+def _tt_activity_left(words, y0):
+    """x0 de la columna Actividad = min x0 de palabras de prosa (minusculas, largas)."""
+    xs = [w[0] for w in words if w[1] > y0 and re.fullmatch(r"[a-záéíóúñ]{6,}[.,]?", w[4])]
+    return (min(xs) - 15) if xs else 300.0
+
+
+def _tt_filas(words, y0, y1):
+    filas = {}
+    for w in words:
+        if y0 - 1 <= w[1] <= y1 + 1:
+            filas.setdefault(round(w[1] / 2.0), []).append(w)
+    return [sorted(filas[k]) for k in sorted(filas)]
+
+
+def _tt_celda_izq(row_words, x_thresh):
+    """Texto de la celda IZQUIERDA (Empresa); corta la columna Actividad."""
+    if not row_words or row_words[0][0] > x_thresh:
+        return ""
+    tomar = [row_words[0]]
+    for prev, w in zip(row_words, row_words[1:]):
+        gap = w[0] - prev[2]
+        if gap > 28 and w[0] >= x_thresh - 10:
+            break
+        if re.match(r"[a-záéíóúñ]", w[4]):        # minuscula = empieza la actividad
+            break
+        tomar.append(w)
+    return re.sub(r"\s+", " ", " ".join(w[4] for w in tomar)).strip()
+
+
+def _tt_join(buf):
+    return re.sub(r"\s+", " ", " ".join(buf)).strip(" ,;-")
+
+
+def empresas_desde_tabla_texto(path):
+    """[{grupo, nombre}] leyendo la tabla 'Empresa|Actividad' de texto. Vacio si no hay."""
+    doc = fitz.open(path)
+    npag = doc.page_count
+    resultados, pag = [], 0
+    while pag < npag:
+        words = doc[pag].get_text("words")
+        hdr = None
+        emp = [w for w in words if re.fullmatch(r"empresas?", w[4].strip(), re.I)]
+        act = [w for w in words if re.fullmatch(r"actividad(es)?", w[4].strip(), re.I)]
+        for e in emp:
+            for a in act:
+                if abs(e[1] - a[1]) < 4 and e[0] < a[0]:
+                    hdr = (e, a)
+        if not hdr:
+            pag += 1
+            continue
+        e, a = hdr
+        y_start = a[1] + 4
+        x_thresh = _tt_activity_left(words, y_start)
+        grupo, buffer, prev_y = "", [], None
+
+        def emitir():
+            if buffer:
+                resultados.append({"grupo": grupo, "nombre": _tt_join(buffer)})
+
+        p, detener = pag, False
+        while p < npag and not detener:
+            ws = doc[p].get_text("words")
+            y0 = y_start if p == pag else 0
+            for row in _tt_filas(ws, y0, doc[p].rect.height):
+                txt = _tt_celda_izq(row, x_thresh)
+                if not txt or _TT_HEADER.match(txt):
+                    continue
+                y = row[0][1]
+                fin_prosa = (re.match(r"(Fuente|An[aá]lisis|Nota)\b", txt, re.I)
+                             or (len(txt) > 55 and not _TT_LEGAL_END.search(txt)
+                                 and re.search(r"\b(que|de|en|los|las|se|una|por)\b", txt)))
+                if (_TT_STOP.match(txt) or fin_prosa) and not _TT_LEGAL_END.search(txt):
+                    emitir(); buffer = []; detener = True; break
+                gm = re.match(r"Grupo\s+(.+)", txt, re.I)
+                if gm:
+                    emitir(); buffer = []; grupo = txt.strip(); prev_y = None
+                    continue
+                if re.match(r"[a-záéíóúñ]|\d", txt):
+                    continue
+                gap = (y - prev_y) if prev_y is not None else 999
+                if buffer and (gap > 24 or _TT_LEGAL_END.search(buffer[-1])):
+                    emitir(); buffer = []
+                buffer.append(txt); prev_y = y
+                if _TT_LEGAL_END.search(txt):
+                    emitir(); buffer = []; prev_y = None
+            p += 1
+        emitir(); buffer = []
+        pag = p
+    doc.close()
+    vistos, out = set(), []
+    for r in resultados:
+        n = re.sub(r"^[^A-ZÁÉÍÓÚÑ]+", "", r["nombre"]).strip()
+        letras = [c for c in n if c.isalpha()]
+        if len(n) < 6 or not letras or sum(c.isupper() for c in letras) / len(letras) < 0.7:
+            continue
+        if _TT_HEADER.match(n) or re.search(
+            r"\bLEY\b|\bART[ÍI]CULO\b|\bANEXO\b|EFECTOS|OPERACI[ÓO]N|RELACI[ÓO]N|"
+            r"DESCRIPCI[ÓO]N|AN[ÁA]LISIS|ENCUADR|PROCEDIMIENTO|CONSIDER|MERCADO|"
+            r"CONCENTRACI[ÓO]N|ECON[ÓO]MIC|NOTIFICAC", n):
+            continue
+        k = re.sub(r"[^a-z0-9]", "", n.lower())
+        if k and k not in vistos:
+            vistos.add(k); out.append({"grupo": r["grupo"], "nombre": n})
+    return out
 
 
 # --- Extracción unificada empresas + actividades -----------------------------
@@ -133,8 +261,16 @@ def _empresas_y_actividades(ctx):
 
 def ex_empresas3(ctx):
     """FIX 3: se listan TODAS las empresas de la tabla, con rol si se conoce
-    (rol=null si no)."""
+    (rol=null si no).  FIX 7: si la extraccion por tablas (con lineas) queda
+    vacia, se reintenta con el parser de la tabla dibujada con texto."""
     emp = ctx.get("_empresas") or _empresas_y_actividades(ctx)
+    if not emp and ctx.get("path"):
+        try:
+            tt = empresas_desde_tabla_texto(ctx["path"])
+        except Exception:
+            tt = []
+        # rol desconocido en este formato -> null; se conserva el grupo economico
+        emp = [{"rol": None, "nombre": e["nombre"], "grupo": e["grupo"]} for e in tt]
     return json.dumps([{"rol": e["rol"], "nombre": e["nombre"]} for e in emp],
                       ensure_ascii=False) if emp else None
 
@@ -224,6 +360,7 @@ def procesar_pdf(path):
         "dict_raw": dict_raw, "dict_flat": ext.flat(dict_raw),
         "tablas": tablas, "geo": geo,
         "archivo": os.path.basename(path),
+        "path": path,
     }
     # se calcula UNA sola vez y lo comparten empresas y mercados
     ctx["_empresas"] = _empresas_y_actividades(ctx)
