@@ -72,23 +72,22 @@ SECTORES: dict[str, list[str]] = {
         r"pozos petroleros", r"estimulacion.*pozos", r"empresas petroleras",
         # --- ampliacion cobertura ---
         r"hidrocarburos", r"fractura hidraulica", r"yacimiento",
-        r"distribucion minorista de combustibles", r"lubricantes",
+        r"distribucion minorista de combustibles", r"lubricantes",r"GLP",r"GNL",r"gas licuado de petroleo",
+        r"gas natural licuado",r"gas natural comprimido",r"diésel",
+
     ],
     "Energía eléctrica": [
         r"energia electrica", r"potencia instalada", r"infraestructura electrica",
         r"energia nuclear", r"transformadores", r"autotransformadores",
-        r"sistema electrico", r"alta( y extra alta)? tension", r"generacion de energia",
+        r"sistema electrico", r"alta( y extra alta)? tension", r"generacion de energia",r"distribución de energía",
         # --- nuevo ---
         r"alquiler de generadores", r"suministro de electricidad",
         r"eolica", r"solar", r"renovable", r"hidraulica", r"geotermica", r"mareomotriz",
-        r"energia eolica", r"energia solar", r"energia renovable",
+        r"energia eolica", r"energia solar", r"energia renovable",r"Interconexión Eléctrica",
         r"energia hidraulica", r"energia geotermica", r"energia mareomotriz",
         # --- ampliacion cobertura ---
         r"parque eolico", r"planta eolica", r"transporte de electricidad",
-        r"transporte de energia electrica", r"generacion electrica", r"central hidroelectrica",
-    ],
-    "Gases industriales": [
-        r"oxigeno", r"oxigeno liquido",
+        r"transporte de energia electrica", r"generacion electrica", r"central hidroelectrica",r"distribución de energía",
     ],
     "Carne y avicultura": [
         r"carne aviar", r"\bpollo\b", r"avicola", r"menudencias", r"carne",
@@ -100,7 +99,7 @@ SECTORES: dict[str, list[str]] = {
         r"ganado bovino", r"cria y recria", r"ingenio azucarero", r"azucar", r"melaza", r"bagazo", r"cachaza",
         # --- nuevo ---
         r"actividad forestal", r"plantacion de", r"eucalipto", r"\bpino\b",
-        r"fertilizante",
+        r"fertilizante",r"agropecuaria", r"agroindustria", r"agroalimentario", r"agroindustrial",
         # --- ampliacion cobertura ---
         r"\briego\b", r"irrigacion", r"frutas?", r"peras|manzanas|ciruelas|duraznos",
     ],
@@ -109,54 +108,60 @@ SECTORES: dict[str, list[str]] = {
         r"agroquimic", r"herbicida", r"insecticida", r"fungicida",
         r"fitosanitario", r"fotosanitarios", r"coadyuvante",
     ],
+    "Consultoría economica": [
+     r"consultor", r"consulting", r"consultancy", r"asesor(?:ía|amiento)?", r"advisory",
+    r"servicios profesionales", r"consultor(?:es)?",
+    r"consultoría estratégica", r"consultoría empresarial", r"consultoría de gestión", r"consultoría económica",
+    r"consultoría financiera",r"consultoría tecnológica", r"consultoría informática", r"consultoría en negocios",
+    r"servicios de consultoría",r"estudios de mercado",r"trabajo cooperativo",r"Servicios IT",
+],
     "Alimentos y bebidas": [
         r"\bmani\b", r"postres", r"caramelos", r"chocolate", r"panificados", r"\bpan\b",
-        r"panaderia", r"bebidas sin alcohol", r"biscochos", r"alimentos",
-        r"vino", r"bebidas alcoholicas", r"bebidas gaseosas", r"jugos",
+        r"panaderia", r"bebidas sin alcohol", r"biscochos", r"alimentos",r"embutidos",r"bebidas", r"bebidas sin alcohol",
+        r"vino", r"bebidas alcoholicas", r"bebidas gaseosas", r"jugos",r"fiambres", r"snacks", r"golosinas", r"confiteria", r"helados",
         # --- nuevo ---
         r"bebidas con alcohol", r"cerveza", r"leche", r"manteca", r"queso", r"yogur", r"dulce de leche",
-        r"crema de leche", r"tambo", r"lacteo", r"suero(s)? de leche",
+        r"crema de leche", r"tambo", r"lacteo", r"suero(s)? de leche",r"frutos",
         # --- ampliacion cobertura ---
-        r"pastas?", r"empanadas", r"helados", r"salsas",
+        r"pastas?", r"empanadas", r"helados", r"salsas",r"alimentación", r"alimentos y bebidas",r"aperitivo",
+
     ],
     "Salud y farmacéutico": [
         r"sanatorial", r"servicios sanatoriales", r"medicina prepaga", r"analisis clinicos",
         r"diagnostico por imagenes", r"dialisis", r"medicament", r"farmaceutic",
         r"especialidades medicinales", r"laboratorio", r"\batc", r"inmunosupresores",
         r"antiepilepticos", r"equipamiento medico", r"salud", r"nutrientes",
-        r"polivitaminicos", r"reguladores del calcio",
+        r"polivitaminicos", r"reguladores del calcio",r"cicatrices",
         # --- nuevo ---
-        r"ensayos clinicos", r"hormona", r"principio activo", r"somatropina",
+        r"ensayos clinicos", r"hormona", r"principio activo", r"somatropina",r"estudios genéticos",
         r"gonadotrofina",
         # --- ampliacion cobertura ---
-        r"dispositivos? medicos?",
+        r"dispositivos? medicos?",r"médico",r"médicos",r"hospitales",r"hospitalaria",r"hospitalario",r"hospitalización",r"hospitalización domiciliaria",
     ],
     "Química, cosmética y limpieza": [
         r"cosmetic", r"perfumeria", r"tocador", r"limpieza e higiene",
         r"productos de limpieza", r"cuidado de la ropa", r"cuidado del aire",
         r"cuidado de superficies", r"control de plagas", r"sustancias quimicas",
-        r"envases flexibles",
+        r"envases flexibles",r"ácidos",r"bases",r"solventes",r"resinas",r"resinas epoxi",r"resinas poliester",r"resinas poliéster",
+        r"oxigeno", r"oxigeno liquido",
         # --- nuevo ---
         r"resinas fenolicas", r"surfactante", r"monoetilenglicol", r"\bmeg\b",
         r"etanolamina", r"\beoa\b", r"detergente", r"jabon(es)? para lavar",
         r"productos de belleza", r"cuidado personal", r"recubrimientos",
         # --- ampliacion cobertura ---
-        r"revestimientos de alto rendimiento", r"repintado automotor",
-        r"revestimientos en polvo", r"productos quimicos",
+        r"revestimientos de alto rendimiento", r"repintado automotor",r"fosfatos",
+        r"revestimientos en polvo", r"productos quimicos",r"petroquímicos",r"petroquimicos",r"petroquimica",r"petroquímica",
+
     ],
     "Minería": [
         r"mineria", r"\bminera\b", r"actividad minera", r"litio",
         # --- ampliacion cobertura ---
         r"minerales? de", r"\bcobre\b", r"molibdeno", r"oro y plata", r"extraccion de minerales",
     ],
-    "Metalurgia y siderurgia": [
-        # --- nuevo sector ---
-        r"aceros?\b", r"acero inoxidable", r"fraccionamiento.*acero",
-    ],
     "Papel, cartón y envases": [
         # --- nuevo sector ---
         r"envases de carton", r"carton corrugado", r"papeles? para corruga",
-        r"bag-in-box", r"envases flexibles",
+        r"bag-in-box", r"envases flexibles",r"papelería",r"papelera",r"papel y cartón",
         # --- ampliacion cobertura ---
         r"papel(es)?\b", r"\btissue\b", r"pulpa de", r"celulosa",
     ],
@@ -173,12 +178,12 @@ SECTORES: dict[str, list[str]] = {
         r"aires acondicionados", r"electrodomestic",
         # --- ampliacion cobertura ---
         r"climatizacion", r"\bhvac\b", r"calefaccion", r"aire acondicionado",
-        r"articulos para el hogar",
+        r"articulos para el hogar",r"acondicionamiento climático",
     ],
     "Servicios financieros y seguros": [
         r"bancaria", r"entidades bancarias", r"fondos comunes de inversion", r"seguros",
         r"garantia reciproca", r"\bsgr\b", r"avales", r"garantias a mipymes",
-        r"activos virtuales", r"psav",
+        r"activos virtuales", r"psav",r"leasing", r"factoring", r"financiamiento", r"tarjetas de credito",
         r"financieros", r"financiera", r"banca", r"aseguradora", r"finanzas",
         # --- nuevo ---
         r"tarjetas de credito", r"procesamiento transaccional",
@@ -190,21 +195,23 @@ SECTORES: dict[str, list[str]] = {
     "Inmobiliario, retail y shoppings": [
         r"inmobiliari", r"espacios comerciales", r"shopping", r"centros comerciales",
         r"hipermercados", r"supermercados", r"comercializacion minorista",
-        r"abastecimiento minorista", r"venta al por menor",
+        r"abastecimiento minorista", r"venta al por menor", r"venta online",
         # --- nuevo ---
-        r"alquiler de inmuebles", r"oficinas.*clase a",
+        r"alquiler de inmuebles", r"oficinas.*clase a",r"centro comercial", r"centros comerciales", r"retail", r"comercio minorista",
     ],
     "Logística y transporte": [
         r"agenciamiento", r"gestion de cargas", r"transporte maritimo", r"contenedores",
-        r"logistic", r"transporte aereo", r"\bcargas\b", r"linea regular",
+        r"logistic", r"transporte aereo", r"\bcargas\b", r"linea regular",r"aerolíneas",r"transporte de mercaderias",r"transporte de pasajeros",
         # --- nuevo ---
         r"lineas aereas", r"transporte de caudales",
         # --- ampliacion cobertura ---
-        r"\bcaudales\b", r"transporte.*pasajeros", r"aerea|aereo",
+        r"\bcaudales\b", r"transporte.*pasajeros", r"aerea|aereo",r"remolque", r"transporte de mercaderias",
+        r"recoleccion de residuos", r"transporte de residuos", r"transporte de carga", r"transporte de valores",r"Remolque",
     ],
     "Seguridad privada": [
         # --- nuevo sector ---
-        r"seguridad y vigilancia", r"guardias especializados", r"monitoreo y alarmas",
+        r"seguridad y vigilancia", r"guardias especializados", r"monitoreo y alarmas",r"custodia",
+        r"monitoreo para hogares",r"monitoreo de alarmas",r"monitoreo de seguridad",r"seguridad informática",
     ],
     "Audiovisual, medios y entretenimiento": [
         r"pelicula", r"distribucion de peliculas", r"audiovisual", r"contenido multimedia",
@@ -212,7 +219,11 @@ SECTORES: dict[str, list[str]] = {
         # --- nuevo ---
         r"señales de tv", r"licenciamiento.*propiedad intelectual", r"\bott\b", r"\bsvod\b",
         # --- ampliacion cobertura ---
-        r"casino", r"juegos de azar", r"\bestadio\b", r"canal de emision",
+        r"casino", r"juegos de azar", r"\bestadio\b", r"canal de emision",r"telecomunicaciones",
+        r"Agencia de Medios", r"medios de comunicación", r"medios de comunicación masiva", r"medios de comunicación digital",
+        r"Entretenimiento para el hogar",
+        r"television por cable", r"streaming", r"contenido", r"cine",r"TV",r"redes sociales",r"Medios de comunicación",
+
     ],
     "Publicidad y marketing": [
         # --- nuevo sector ---
@@ -229,14 +240,17 @@ SECTORES: dict[str, list[str]] = {
     ],
     "Construcción y materiales": [
         r"cemento", r"portland", r"hormigon", r"premoldeados", r"vidrio plano",
-        r"para la construccion",
+        r"para la construccion",r"morteros industriales",r"plástico",r"fibra de carbono",r"fibra de vidrio",r"plásticos",
+        r"plásticos reforzados con fibra de vidrio",r"revestimientos industriales",
+        r"aceros?\b", r"acero inoxidable", r"fraccionamiento acero",r"aluminio",r"impermeabilización",r"caucho",
+        r"revestimientos",r"construcción",
         # --- nuevo ---
         r"impermeabilizantes", r"membranas solidas",
         # --- ampliacion cobertura ---
         r"obras de infraestructura", r"obra publica", r"tratamiento de aguas?",        # --- nuevo sector ---
         r"fritas", r"esmaltes", r"baldosas ceramicas", r"revestimientos.*ceramic",
         r"colores de alta calidad", r"colores de baja calidad", r"tintas digitales",
-        r"caolin", r"corindon", r"wollastonita",
+        r"caolin", r"corindon", r"wollastonita",r"placa de yeso", r"yeso", r"yesera", r"yeso en polvo", r"yeso para la construccion",
     ],
     "Pesca": [
         r"\bpesca\b", r"langostino",
@@ -245,17 +259,21 @@ SECTORES: dict[str, list[str]] = {
     ],
     "Tecnología y telecomunicaciones": [
         r"tecnologicos", r"satelital", r"infraestructura satelital",
-        r"servicios tecnologicos",
+        r"servicios tecnologicos",r"telecomunicaciones", r"telefonía", r"telefonia", r"telefonia movil", r"telefonia fija",
         # --- nuevo ---
         r"desarrollo de software", r"integracion de sistemas", r"solucion(es)? como servicio",
-        r"copiadoras", r"impresoras laser", r"facsimiles",
+        r"copiadoras", r"impresoras laser", r"facsimiles",r"marketplace",r"plataforma de comercio electronico",r"plataforma de e-commerce",
         # --- ampliacion cobertura ---
-        r"\bsoftware\b", r"call center", r"contact center", r"\bbpo\b",
-        r"business process outsourcing", r"television por cable",
+        r"\bsoftware\b", r"call center", r"contact center", r"\bbpo\b",r"monitoreo electrónico",r"comunicaciones",
+        r"business process outsourcing", r"television por cable",r"telecomunicaciones",r"hardware",
+        r"redes móviles",r"redes de telecomunicaciones",r"telefonía móvil",r"telefonía fija",r"telefonía celular",r"telefonía por internet",
+        r"monitoreo para hogares",r"monitoreo de alarmas",r"monitoreo de seguridad",
+        r"monitoreo de sistemas de seguridad",r"monitoreo de sistemas de alarma",r"seguridad informática",
     ],
-    "Textiles no tejidos": [
+    "Textiles": [
         # --- nuevo sector ---
-        r"materiales no tejidos",
+        r"materiales no tejidos",r"ropa",r"vestimenta",r"tejidos",r"telas",r"fibra textil",r"fibra de algodón",r"fibra de lana",
+        r"fibra de poliéster",
     ],
     "Hotelería": [
         # --- nuevo sector ---
