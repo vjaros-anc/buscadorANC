@@ -16,83 +16,37 @@
 
   .bm-controls { background: #f7f8fa; padding: .9rem 0 .7rem;
     border-bottom: 1px solid #e6e6e6; }
+  .bm-search { width: 100%; font-size: 1.1rem; padding: .7rem .9rem; border: 2px solid var(--azul2);
+    border-radius: 8px; }
+  .bm-search:focus { outline: none; border-color: var(--azul); box-shadow: 0 0 0 3px rgba(8,81,156,.15); }
 
-  /* ===== Zonas de búsqueda claramente identificables ===== */
-  .bm-group { border: 1px solid #dfe3e8; border-radius: 10px; background: #fff;
-    padding: .5rem .7rem .6rem; margin-top: .6rem; }
-  .bm-group-lbl { display: inline-flex; align-items: center; gap: .35rem;
-    font-size: .72rem; font-weight: 800; letter-spacing: .4px; text-transform: uppercase;
-    margin-bottom: .4rem; }
-  .bm-ic { font-size: 1rem; }
-  .bm-group-body { display: flex; gap: .45rem; align-items: center; flex-wrap: wrap; }
-
-  /* Principal — azul suave, protagonista */
-  .bm-group.principal { border: 1.5px solid #b6c9de; border-top: 4px solid #6f8fb3;
-    background: #f2f6fb; }
-  .bm-group.principal .bm-group-lbl { color: #486590; }
-  .bm-search { width: 100%; font-size: 1.15rem; padding: .75rem .95rem;
-    border: 1.5px solid #9db6d3; border-radius: 8px; background: #fff; }
-  .bm-search:focus { outline: none; border-color: #6f8fb3; box-shadow: 0 0 0 3px rgba(111,143,179,.2); }
-
-  /* Empresa — verde suave */
-  .bm-group.empresa { border: 1px solid #cfe0d4; border-top: 4px solid #7ba888; background: #f2f8f4; flex: 1 1 320px; }
-  .bm-group.empresa .bm-group-lbl { color: #4d7a5b; }
-  .bm-group.empresa input { flex: 1; font-size: .95rem; padding: .5rem .65rem;
-    border: 1.5px solid #97bda2; border-radius: 6px; min-width: 0; background: #fff; }
-  .bm-group.empresa input:focus { outline: none; border-color: #7ba888; box-shadow: 0 0 0 3px rgba(123,168,136,.22); }
-
-  /* Decisión — violeta suave */
-  .bm-group.decision { border: 1px solid #d9d3e6; border-top: 4px solid #9a90b6; background: #f5f3f9; flex: 1 1 320px; }
-  .bm-group.decision .bm-group-lbl { color: #6b6194; }
-  .bm-group.decision select { flex: 1; width: 100%; font-size: .92rem; padding: .5rem .55rem;
-    border: 1.5px solid #b3aac9; border-radius: 6px; min-width: 0; background: #fff; }
-  .bm-group.decision select:focus { outline: none; border-color: #9a90b6; box-shadow: 0 0 0 3px rgba(154,144,182,.22); }
-
-  /* Fecha de firma — ámbar suave */
-  .bm-group.fecha { border: 1px solid #ecdcc4; border-top: 4px solid #d1b183; background: #f9f4ec; flex: 1 1 auto; }
-  .bm-group.fecha .bm-group-lbl { color: #8a6a34; }
-  .bm-group.fecha input[type=date], .bm-group.fecha select { font-size: .88rem; padding: .44rem .5rem;
-    border: 1.5px solid #d8bf95; border-radius: 6px; background: #fff; }
-  .bm-group.fecha input[type=date]:focus, .bm-group.fecha select:focus { outline: none; border-color: #cba36a; box-shadow: 0 0 0 3px rgba(203,163,106,.25); }
-  .bm-group.fecha label { font-size: .85rem; color: #555; display: inline-flex; gap: .3rem; align-items: center; }
-  .bm-dsep { width: 1px; height: 24px; background: #e6d3b8; margin: 0 .25rem; }
-
-  .bm-actions { display: flex; gap: .5rem; align-items: center; margin-left: auto; margin-top: .6rem; }
-
-  .bm-row { display: flex; flex-wrap: wrap; gap: .55rem; margin-top: 0; align-items: stretch; }
+  .bm-row { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .55rem; align-items: center; }
   .bm-field { display: flex; gap: .3rem; align-items: center; flex: 1 1 260px; }
-  .bm-btn { cursor: pointer; font-size: .85rem; font-weight: 600; padding: .5rem .85rem;
+  .bm-field input[type=search], .bm-field input[type=text] { flex: 1; font-size: .92rem;
+    padding: .45rem .6rem; border: 1px solid #bbb; border-radius: 6px; min-width: 0; }
+  .bm-field.emp input { border-color: #1a7a3a; }
+  .bm-field.dec select { flex: 1; font-size: .9rem; padding: .45rem .5rem; border: 1px solid #6a51a3;
+    border-radius: 6px; min-width: 0; max-width: 100%; background: #fff; }
+  .bm-btn { cursor: pointer; font-size: .85rem; font-weight: 600; padding: .45rem .8rem;
     border: none; border-radius: 6px; background: var(--azul); color: #fff; white-space: nowrap;
-    text-decoration: none; display: inline-block; transition: background .12s; }
+    text-decoration: none; display: inline-block; }
   .bm-btn:hover { background: #063a70; }
   .bm-btn.emp { background: #1a7a3a; } .bm-btn.emp:hover { background: #12572a; }
   .bm-btn.ghost { background: #eee; color: #333; } .bm-btn.ghost:hover { background: #ddd; }
   .bm-btn.arch { background: #08807e; } .bm-btn.arch:hover { background: #05605e; }
 
-  /* Limpiar filtros: apagado cuando no hay filtros, resaltado cuando sí los hay */
-  #bm-reset { background: #eef0f3; color: #8a909a; border: 1.5px solid #dce0e6; }
-  #bm-reset:hover { background: #e3e6ea; color: #6b717b; }
-  #bm-reset.active { background: #c0492c; color: #fff; border-color: #a63c22; font-weight: 700;
-    box-shadow: 0 0 0 3px rgba(192,73,44,.25); }
-  #bm-reset.active:hover { background: #a63c22; color: #fff; }
-  .bm-reset-n { font-weight: 700; }
-
   .bm-dates { display: flex; gap: .35rem; align-items: center; font-size: .85rem; color: #555; }
+  .bm-dates input[type=date] { font-size: .85rem; padding: .35rem .4rem; border: 1px solid #bbb; border-radius: 6px; }
+  .bm-dates select { font-size: .85rem; padding: .38rem .4rem; border: 1px solid #bbb; border-radius: 6px; }
 
   .bm-filtros { display: flex; flex-wrap: wrap; gap: .3rem; margin-top: .5rem; align-items: center; }
   .bm-lbl { font-size: .75rem; color: #666; margin-right: .2rem; font-weight: 700; letter-spacing: .3px; }
-  /* etiquetas de categoría de filtro, con su colorcito tenue */
-  .bm-filtros > .bm-lbl { padding: .18rem .5rem; border-radius: 6px; margin-right: .35rem; }
-  #bm-tipos > .bm-lbl { background: #e6efee; color: #4a7a78; }
-  #bm-sectores > .bm-lbl { background: #e8eef6; color: #4a6a90; }
-  #bm-relaciones > .bm-lbl { background: #f4ece0; color: #8a6a34; }
   .bm-chip { cursor: pointer; user-select: none; font-size: .78rem; padding: .16rem .55rem;
-    border-radius: 999px; border: 1px solid #cbcbcb; background: #fff; color: #333; white-space: nowrap;
-    transition: background .12s, border-color .12s, color .12s; }
-  .bm-chip:hover { background: #eef2f6; }
-  .bm-chip.on { background: #7093ba; color: #fff; border-color: #7093ba; }
-  .bm-chip.rel.on { background: #c99a5f; color: #fff; border-color: #c99a5f; }
-  .bm-chip.tipo.on { background: #5f918f; color: #fff; border-color: #5f918f; }
+    border-radius: 999px; border: 1px solid #bbb; background: #fff; color: #333; white-space: nowrap; }
+  .bm-chip:hover { background: #e8f0f7; }
+  .bm-chip.on { background: var(--azul2); color: #fff; border-color: var(--azul2); }
+  .bm-chip.rel.on { background: var(--naranja); border-color: var(--naranja); }
+  .bm-chip.tipo.on { background: #08807e; color: #fff; border-color: #08807e; }
 
   .bm-count { font-size: .85rem; color: #555; margin: .7rem 0 .4rem; }
   .bm-count b { color: var(--azul); }
@@ -162,9 +116,7 @@
 
   @media (max-width: 640px) {
     .bm-field { flex-basis: 100%; }
-    .bm-group.empresa, .bm-group.decision, .bm-group.fecha { flex-basis: 100%; }
     .bm-dates { flex-wrap: wrap; }
-    .bm-actions { flex-wrap: wrap; }
   }
 </style>
 </head>
@@ -179,47 +131,32 @@
 
 <div class="bm-main">
   <div class="bm-controls" id="bm-top">
-
-    <div class="bm-group principal">
-      <span class="bm-group-lbl"><span class="bm-ic">🔍</span>Barra principal · Mercado / sector / producto</span>
-      <input id="bm-q" class="bm-search" type="search" autocomplete="off"
-        placeholder="Buscar mercado… (ej: leche, eléctrica, audiovisual, petróleo, farma, agro)">
-    </div>
+    <input id="bm-q" class="bm-search" type="search" autocomplete="off"
+      placeholder="Buscar mercado… (ej: leche, eléctrica, audiovisual, petróleo, farma, agro)">
 
     <div class="bm-row">
-      <div class="bm-group empresa">
-        <span class="bm-group-lbl"><span class="bm-ic">🏢</span>Buscar por empresa</span>
-        <div class="bm-group-body">
-          <input id="bm-emp" type="search" autocomplete="off" placeholder="Nombre de la empresa involucrada…">
-          <button class="bm-btn emp" id="bm-emp-btn">Buscar</button>
-        </div>
+      <div class="bm-field emp">
+        <input id="bm-emp" type="search" autocomplete="off" placeholder="Buscar por empresa involucrada…">
+        <button class="bm-btn emp" id="bm-emp-btn">Buscar empresa</button>
       </div>
-      <div class="bm-group decision">
-        <span class="bm-group-lbl"><span class="bm-ic">⚖️</span>Buscar por decisión (artículo de la ley)</span>
-        <div class="bm-group-body">
-          <select id="bm-dec"><option value="">Todas las decisiones (artículo de la ley)</option></select>
-        </div>
+      <div class="bm-field dec">
+        <span class="bm-lbl">DECISIÓN:</span>
+        <select id="bm-dec"><option value="">Todas las decisiones (artículo de la ley)</option></select>
       </div>
     </div>
 
     <div class="bm-row">
-      <div class="bm-group fecha">
-        <span class="bm-group-lbl"><span class="bm-ic">📅</span>Buscar por fecha de firma</span>
-        <div class="bm-group-body bm-dates">
-          <label>desde <input type="date" id="bm-desde"></label>
-          <label>hasta <input type="date" id="bm-hasta"></label>
-          <span class="bm-dsep"></span>
-          <span class="bm-lbl">ORDEN:</span>
-          <select id="bm-orden">
-            <option value="desc">Más reciente primero</option>
-            <option value="asc">Más antigua primero</option>
-          </select>
-        </div>
+      <div class="bm-dates">
+        <span class="bm-lbl">FIRMA:</span>
+        <label>desde <input type="date" id="bm-desde"></label>
+        <label>hasta <input type="date" id="bm-hasta"></label>
+        <span class="bm-lbl" style="margin-left:.4rem">ORDEN:</span>
+        <select id="bm-orden">
+          <option value="desc">Más reciente primero</option>
+          <option value="asc">Más antigua primero</option>
+        </select>
       </div>
-    </div>
-
-    <div class="bm-actions">
-      <button class="bm-btn ghost" id="bm-reset"><span class="bm-ic">🧹</span> Limpiar filtros<span class="bm-reset-n" id="bm-reset-n"></span></button>
+      <button class="bm-btn ghost" id="bm-reset">Limpiar filtros</button>
       <a class="bm-btn arch" id="bm-archivo" href="https://github.com/vjaros-anc/buscadorANC/tree/main/pdf" target="_blank"
         rel="noopener" title="Abrir la carpeta de PDFs en GitHub">📁 Archivo (PDFs)</a>
     </div>
@@ -438,22 +375,7 @@
     updateMore();
   }
 
-  // resalta "Limpiar filtros" y muestra cuántos filtros hay activos
-  function updateResetState(){
-    let n = 0;
-    if(q.value.trim()) n++;
-    if(empI.value.trim()) n++;
-    if(decI.value) n++;
-    if(desdeI.value) n++;
-    if(hastaI.value) n++;
-    n += selTipo.size + selSec.size + selRel.size;
-    el('bm-reset').classList.toggle('active', n > 0);
-    const nEl = el('bm-reset-n');
-    if(nEl) nEl.textContent = n > 0 ? ' (' + n + ')' : '';
-  }
-
   function render(){
-    updateResetState();
     filtered = compute();
     rendered = 0;
     cont.innerHTML = '';
