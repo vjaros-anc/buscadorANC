@@ -28,6 +28,19 @@ más fallaban. Diagnóstico y correcciones (ver informe):
   FIX 5 — Limpieza de glifos de la Private Use Area (U+E000..U+F8FF), típicos de
           viñetas Wingdings ("") que se colaban al texto de mercados/empresas.
 
+  FIX 8 (v3.1) — Empresas involucradas en el formato NUEVO (dictámenes/
+          resoluciones/informes/disposiciones 2024-2026). El parser
+          `empresas_afectadas` lee la tabla "Actividades de las empresas
+          afectadas" por capa de texto: une nombres partidos en varios
+          renglones (sufijo societario + salto vertical), toma el ROL de los
+          rótulos de sección ("Grupo comprador", "Objeto", "Empresa Objeto",
+          "Grupo vendedor"), descarta palabras de la actividad que se colaban al
+          nombre y corta la tabla en Fuente/Conclusiones. Un suplemento por
+          prosa (`_af_partes_prosa`) agrega las partes citadas en la frase de la
+          operación (objeto adquirido, vendedora) que ninguna tabla lista. Un
+          gate por cobertura de rol adopta el parser nuevo sólo en el formato
+          moderno; el resto conserva el comportamiento anterior (sin regresión).
+
   Formato viejo en prosa (0 tablas, dictámenes ~pre-2015): NO se intenta
   adivinar por prosa. Se deja vacío y esos casos se listan aparte en un .txt
   ("*_no_extraibles.txt") para revisión manual.
@@ -194,6 +207,293 @@ def empresas_desde_tabla_texto(path):
     return out
 
 
+# --------------------------------------------------------------------------- #
+# FIX 8 (v3.1): parser role-aware de la tabla "Actividades de las empresas
+# afectadas" (formato moderno de dictámenes/resoluciones/informes/disposiciones).
+# Resuelve los errores concretos observados en los CONC nuevos:
+#   * nombres partidos en varios renglones ("TERMINAL INVESTMENTS" + "LIMITED
+#     S.A.", "PAREXEL INTERNATIONAL (MA)" + "CORPORATION", "NEW PGA S.R.L. (EX
+#     PROCTER" + "& GAMBLE ARGENTINA" + "S.R.L.)") -> se unen por sufijo
+#     societario + salto vertical.
+#   * rol nulo -> se toma de los rótulos de sección ("Grupo comprador", "Objeto",
+#     "Empresa Objeto", "Grupo vendedor", "Grupo Comprador AISA", etc.).
+#   * palabras de la actividad que se colaban al nombre ("Prestación DEUTSCHE...")
+#     -> la celda de nombre descarta tokens Title-case fuera de paréntesis.
+#   * corte de la tabla (Fuente / Conclusiones / segunda sub-tabla).
+# Un suplemento por prosa agrega las partes que sólo figuran en el texto (el
+# objeto adquirido, la vendedora), que ninguna tabla lista.
+# El gate en ex_empresas3 sólo activa esto cuando hay tabla moderna, dejando el
+# comportamiento anterior intacto para el corpus histórico (sin regresión).
+# --------------------------------------------------------------------------- #
+_AF_LEGAL_END = re.compile(
+    r"(?:S\.?\s?A\.?(?:\.?[UICF])*\.?|S\.?R\.?L\.?|S\.?A\.?S\.?|S\.?C\.?A\.?|"
+    r"S\.?A\.?P\.?I\.?(?:\.?\s*DE\s*C\.?V\.?)?|S\.?\s*EN\s*C\.?|"
+    r"L\.?L\.?C\.?|GMBH(?:\s*&\s*CO\.?\s*KG)?|(?:&\s*CO\.?\s*)?KG|"
+    r"B\.?V\.?|N\.?V\.?|LTDA\.?|LTD\.?|INC\.?|CORP(?:ORATION)?\.?|PLC|"
+    r"A\.?B\.?|A/S|\bOY\b|APS|PTE\.?(?:\s*LTD\.?)?|S\.?L\.?U?\.?|S\.?p\.?A\.?|"
+    r"S\.?[àa]\s*r\.?l\.?|SARL|SAS|BHD|SPA)\s*[\.,)]*\s*$",
+    re.I)
+_AF_CONECTOR = re.compile(r"^(y|e|de|del|la|las|los|en|&|-|–|/|al|el)$", re.I)
+_AF_HDR   = re.compile(r"^(empresas?|actividad(es)?|raz[oó]n\s+social|nombre|rubro)\s*$", re.I)
+_AF_FUENTE = re.compile(r"^fuente\b", re.I)
+_AF_STOPH = re.compile(
+    r"^(an[aá]lisis\b|referencias?\b|conclusion|IV\b|V\b|VI\b|III\.\s*\d|"
+    r"el\s+presente\s+informe|en\s+consecuencia)", re.I)
+_AF_SKIP = re.compile(
+    r"^(IF-|RE-|DI-|RESFC-|RESOL|EX-|P[aá]gina\b|Rep[uú]blica Argentina|"
+    r"A[nñ]o de|CIUDAD DE|\d{1,3}\s*$)", re.I)
+
+
+def _af_rol_seccion(txt):
+    """rol si la línea ES un rótulo de sección; None si no."""
+    t = ext.strip_acentos(txt or "").lower().strip(" .:-–")
+    if not t or len(t) > 55:
+        return None
+    if not re.match(r"^(grupo|empresas?|parte|lado|activos?|bienes|objeto|sociedad)\b", t):
+        return None
+    if "vendedor" in t:                                              return "vendedor"
+    if "objeto" in t or "adquirid" in t or "transferid" in t:       return "objeto"
+    if "comprador" in t or "adquirent" in t or "adquirient" in t:   return "comprador"
+    if re.match(r"^grupo\b", t):                                     return "comprador"
+    return None
+
+
+def _af_activity_x(words, y0, a_x0):
+    """Borde izquierdo de la columna Actividad, medido con palabras de prosa
+    (minúsculas) CERCA del encabezado -> ignora la prosa del margen izquierdo
+    (notas al pie) que contaminaba el corte."""
+    xs = [w[0] for w in words
+          if w[1] > y0 and w[0] > a_x0 - 55
+          and re.fullmatch(r"[a-záéíóúñü]{5,}[.,;)]?", w[4])]
+    return (min(xs) - 12) if len(xs) >= 4 else a_x0 - 6
+
+
+def _af_anchor(doc):
+    """(page, y_start, a_x0) del encabezado 'Empresa | Actividad' validado
+    exigiendo una razón social (o rótulo) en la columna izquierda debajo."""
+    for p in range(doc.page_count):
+        words = doc[p].get_text("words")
+        W = doc[p].rect.width
+        emp = [w for w in words if re.fullmatch(r"empresas?", w[4], re.I)]
+        act = [w for w in words if re.fullmatch(r"actividad(es)?", w[4], re.I)]
+        cands = []
+        for e in emp:
+            for a in act:
+                if abs(e[1] - a[1]) < 6 and a[0] > e[0] + 40 \
+                   and e[0] < W * 0.55 and a[0] > W * 0.30:
+                    cands.append((min(e[1], a[1]), a))
+        cands.sort()
+        for y, a in cands:
+            xt = a[0] - 6
+            for w in words:
+                if y + 6 < w[1] < y + 95 and w[0] < xt:
+                    linea = " ".join(x[4] for x in words
+                                     if abs(x[1] - w[1]) < 3 and x[0] < xt)
+                    if ext._RE_LEGAL.search(linea) or _af_rol_seccion(linea):
+                        return p, a[1] + 4, a[0]
+    return None
+
+
+def _af_raw_izq(row, x_thresh):
+    toks = [w[4] for w in sorted(row, key=lambda w: w[0])
+            if (w[0] + w[2]) / 2 < x_thresh]
+    return re.sub(r"\s+", " ", " ".join(toks)).strip()
+
+
+def _af_raw_full(row):
+    toks = [w[4] for w in sorted(row, key=lambda w: w[0])]
+    return re.sub(r"\s+", " ", " ".join(toks)).strip()
+
+
+def _af_celda_izq(row, x_thresh):
+    """Columna Empresa: descarta palabras de la actividad (Title-case a nivel 0
+    de paréntesis).  Conserva MAYÚSCULAS, conectores y todo lo que va dentro de
+    paréntesis, p.ej. '(anteriormente, FIELDFARE ARGENTINA S.R.L.)'."""
+    toks, depth = [], 0
+    for w in sorted(row, key=lambda w: w[0]):
+        if (w[0] + w[2]) / 2 >= x_thresh:
+            continue
+        t = w[4]
+        if depth > 0:
+            toks.append(t)
+        else:
+            up = [c for c in t if c.isalpha()]
+            es_may = up and all(c.isupper() for c in up)
+            if es_may or _AF_CONECTOR.match(t) \
+               or re.fullmatch(r"[\d.,;:&/()\-–\"'°ºNª]+", t) or re.match(r"^[(\"']", t):
+                toks.append(t)
+        depth = max(0, depth + t.count("(") - t.count(")"))
+    return re.sub(r"\s+", " ", " ".join(toks)).strip()
+
+
+_AF_KW_BLACK = re.compile(
+    r"\bLEY\b|\bART[ÍI]CULO\b|\bANEXO\b|EFECTOS|OPERACI[ÓO]N|RELACI[ÓO]N|"
+    r"DESCRIPCI[ÓO]N|AN[ÁA]LISIS|ENCUADR|PROCEDIMIENTO|CONSIDER|MERCADO|"
+    r"CONCENTRACI[ÓO]N|NOTIFICAC|FUENTE|TABLA|PESOS|D[óo]lar", re.I)
+
+
+def _af_es_junk(n):
+    """True si el ítem es ruido (referencia de sección, alias suelto '(EDET)',
+    o fragmento de prosa con varias palabras en minúscula).  NUNCA descarta algo
+    con forma societaria (para no perder nombres reales con una fuga pegada)."""
+    if re.match(r"^[IVX]{1,4}[.\)]", n) or re.match(r"^\d+\.\d", n):
+        return True
+    if ext._RE_LEGAL.search(n):
+        return False
+    # alias/acrónimo suelto: pocas letras, sin forma societaria
+    if len(n.split()) <= 2 and re.fullmatch(r"\(?[A-ZÁÉÍÓÚÑ0-9&.\- ]{1,10}\)?", n):
+        return True
+    # varias palabras en minúscula FUERA de paréntesis -> fragmento de prosa
+    fuera = re.sub(r"\([^)]*\)", "", n)
+    if len(re.findall(r"\b[a-záéíóúñ]{2,}\b", fuera)) >= 2:
+        return True
+    return False
+
+
+def empresas_afectadas(path):
+    """[{rol, grupo, nombre}] leyendo la tabla moderna 'Actividades de las
+    empresas afectadas'.  [] si el PDF no la tiene (formato viejo)."""
+    doc = fitz.open(path)
+    anc = _af_anchor(doc)
+    if not anc:
+        doc.close(); return []
+    p0, y_start, a_x0 = anc
+
+    rol, grupo = None, ""
+    buffer, prev_y = [], None
+    resultados = []
+    fuentes, objeto_visto, stop = 0, False, False
+
+    def emitir():
+        nonlocal buffer, objeto_visto
+        if buffer:
+            resultados.append({"rol": rol, "grupo": grupo,
+                               "nombre": re.sub(r"\s+", " ", " ".join(buffer)).strip(" ,;-")})
+            if rol == "objeto":
+                objeto_visto = True
+        buffer = []
+
+    for p in range(p0, doc.page_count):
+        if stop:
+            break
+        ws = doc[p].get_text("words")
+        y0 = y_start if p == p0 else 0
+        x_thresh = _af_activity_x(ws, y0, a_x0)
+        for row in _tt_filas(ws, y0, doc[p].rect.height):
+            raw = _af_raw_izq(row, x_thresh)
+            full = _af_raw_full(row)
+            if _AF_SKIP.match(raw) or _AF_SKIP.match(full):
+                continue
+            if raw and _AF_STOPH.match(raw):
+                emitir(); stop = True; break
+            if raw and _AF_FUENTE.match(raw):
+                emitir(); fuentes += 1
+                if objeto_visto or fuentes >= 2:
+                    stop = True; break
+                rol = None; prev_y = None; continue
+            rs = _af_rol_seccion(full) if len(full) < 45 else None
+            if rs:
+                # una palabra-clave de rol (no aparece en nombres de empresas)
+                # confirma el rótulo aunque el tag de grupo termine tipo "...SA"
+                # (p.ej. "Grupo Comprador AISA"); si es sólo "Grupo X" se exige
+                # que no parezca una razón social.
+                kw = re.search(r"comprador|adquirent|adquirient|vendedor|objeto|"
+                               r"adquirid|transferid", ext.strip_acentos(full).lower())
+                if kw or not _AF_LEGAL_END.search(full):
+                    emitir(); rol = rs; grupo = full.strip(); prev_y = None
+                    continue
+            if not raw or _AF_HDR.match(raw):
+                continue
+            txt = _af_celda_izq(row, x_thresh)
+            if not txt or re.match(r"[a-záéíóúñü]", txt):
+                continue
+            y = row[0][1]
+            gap = (y - prev_y) if prev_y is not None else 999
+            if buffer and (gap > 22 or _AF_LEGAL_END.search(buffer[-1])):
+                emitir()
+            buffer.append(txt); prev_y = y
+            if _AF_LEGAL_END.search(txt):
+                emitir(); prev_y = None
+    emitir()
+    doc.close()
+
+    vistos, out = set(), []
+    for r in resultados:
+        n = r["nombre"]
+        # fuga de nota al pie pegada al inicio: monto/porcentaje ("AR$ 1450,05).")
+        n = re.sub(r"^(?:AR\$|US\$|\$)\s?[\d.,]+\)?\.?\s+", "", n)
+        # conector suelto en minúscula al final (", la", " en", ...) de una fuga
+        n = re.sub(r"[\s,]+(?:la|el|en|de|del|y|e|las|los|al)\s*$", "", n, flags=re.I)
+        n = re.sub(r"^[^A-ZÁÉÍÓÚÑ0-9]+", "", n).strip()
+        n = _limpiar_pua(ext._limpiar_empresa(n))
+        if not n or len(n) < 4:
+            continue
+        letras = [c for c in n if c.isalpha()]
+        if not letras or sum(c.isupper() for c in letras) / len(letras) < 0.55:
+            continue
+        if _AF_HDR.match(n) or _AF_KW_BLACK.search(n) or not ext._parece_empresa(n):
+            continue
+        if _af_es_junk(n):
+            continue
+        k = (r["rol"], re.sub(r"[^a-z0-9]", "", ext.strip_acentos(n).lower()))
+        if k[1] and k not in vistos:
+            vistos.add(k)
+            out.append({"rol": r["rol"], "grupo": r["grupo"], "nombre": n})
+    return out
+
+
+# --- Suplemento por prosa: partes nombradas en la frase de la operación -------
+_AF_LEGAL_TOK = (r"(?:S\.?A\.?(?:\.?[UICF])*|S\.?R\.?L|S\.?A\.?S|"
+                 r"L\.?L\.?C|LTDA?|LTD|INC|GMBH|N\.?V|B\.?V|PLC|"
+                 r"S\.?p\.?A|S\.?[àa]\s*r\.?l|CORPORATION|HOLDINGS?)\.?")
+_AF_NOMBRE = re.compile(
+    r"[A-ZÁÉÍÓÚÑ][\wÁÉÍÓÚÑÜáéíóúñü.&/\-]*"
+    r"(?:\s+(?:[A-ZÁÉÍÓÚÑ0-9][\wÁÉÍÓÚÑÜáéíóúñü.&/\-]*|de|del|la|las|los|y|e|en|&))*?"
+    r"\s+" + _AF_LEGAL_TOK + r"(?![A-Za-zÁÉÍÓÚÑáéíóúñ])",
+    re.U)
+
+
+def _af_nombres(span):
+    out = []
+    for m in _AF_NOMBRE.finditer(span or ""):
+        n = re.sub(r"\s+", " ", ext._limpiar_empresa(m.group(0))).strip(" ,;")
+        if n and ext._parece_empresa(n) and len(n) >= 5:
+            out.append(n)
+    return out
+
+
+def _af_partes_prosa(flat):
+    """[(rol, nombre)] de comprador/objeto/vendedor citados en el texto."""
+    res = []
+    m = re.search(
+        r"adquisici[óo]n\s+(?:del?\s+)?"
+        r"(?:control\s+\w+(?:\s+e?\s*indirecto)?\s+|"
+        r"(?:del?\s+)?100\s*%\s+de\s+las\s+acciones\s+(?:de\s+)?|"
+        r"del\s+inmueble\s+|de\s+determinados\s+[^,]*?\s+de\s+)?"
+        r"(?:sobre\s+|de\s+)?(?P<obj>.{5,220}?)\s+"
+        r"por\s+parte\s+(?:del?\s+grupo\s+econ[óo]mico\s+que\s+integran\s+|de\s+)"
+        r"(?P<comp>.{5,220}?)"
+        r"(?:[\.,]|\s+instrumentad|\s+mediante|\s+celebr|\s+\(|\s+La\s+venta|"
+        r"\s+Se\s+instrument|\s+en\s+virtud|$)",
+        flat, re.I)
+    if m:
+        res += [("objeto", n) for n in _af_nombres(m.group("obj"))]
+        res += [("comprador", n) for n in _af_nombres(m.group("comp"))]
+    for mm in re.finditer(r"([A-ZÁÉÍÓÚÑ][^.;]{3,120}?)\s*(?:\([^)]*\)\s*)?,?\s+"
+                          r"(?:una\s+de\s+las\s+vendedoras|la\s+vendedora|"
+                          r"es\s+la\s+vendedora)\b", flat, re.I):
+        res += [("vendedor", n) for n in _af_nombres(mm.group(1))]
+    m2 = re.search(r"[Ll]a\s+venta\s+fue\s+realizada\s+por\s+(.{5,160}?)[\.,]\s", flat)
+    if m2:
+        res += [("vendedor", n) for n in _af_nombres(m2.group(1))]
+    vistos, out = set(), []
+    for rol, n in res:
+        k = re.sub(r"[^a-z0-9]", "", ext.strip_acentos(n).lower())
+        if k and k not in vistos:
+            vistos.add(k); out.append((rol, n))
+    return out
+
+
 # --- Extracción unificada empresas + actividades -----------------------------
 def _empresas_y_actividades(ctx):
     """Recorre las tablas UNA vez y devuelve [{rol, nombre, actividad}].
@@ -260,17 +560,50 @@ def _empresas_y_actividades(ctx):
 
 
 def ex_empresas3(ctx):
-    """FIX 3: se listan TODAS las empresas de la tabla, con rol si se conoce
-    (rol=null si no).  FIX 7: si la extraccion por tablas (con lineas) queda
-    vacia, se reintenta con el parser de la tabla dibujada con texto."""
-    emp = ctx.get("_empresas") or _empresas_y_actividades(ctx)
-    if not emp and ctx.get("path"):
+    """FIX 8: si el PDF trae la tabla moderna "Actividades de las empresas
+    afectadas" con secciones de rol, se usa el parser role-aware
+    (`empresas_afectadas`).  Si no (formato viejo / tabla sin roles), se conserva
+    EXACTAMENTE el comportamiento anterior (tablas vectoriales -> tabla-texto),
+    sin regresión.  En AMBOS casos se agregan, si faltan, las partes citadas en
+    la frase de la operación (objeto/vendedor/comprador) vía `_af_partes_prosa`
+    —de alta precisión y aditivas— que ninguna tabla lista (p.ej. el objeto
+    adquirido o la vendedora extranjera)."""
+    tab = []
+    if ctx.get("path"):
         try:
-            tt = empresas_desde_tabla_texto(ctx["path"])
+            tab = empresas_afectadas(ctx["path"])
         except Exception:
-            tt = []
-        # rol desconocido en este formato -> null; se conserva el grupo economico
-        emp = [{"rol": None, "nombre": e["nombre"], "grupo": e["grupo"]} for e in tt]
+            tab = []
+
+    # Gate de calidad: sólo se adopta el parser nuevo cuando asignó rol a la
+    # mayoría de los ítems.  Esa cobertura de rol es la firma del formato moderno
+    # (secciones "Grupo comprador"/"Objeto"); los dictámenes viejos usan
+    # marcadores inline y el parser nuevo les daría rol nulo -> se conserva el
+    # comportamiento anterior (sin regresión sobre el corpus histórico).
+    roled = (sum(1 for e in tab if e["rol"]) / len(tab)) if tab else 0.0
+    if len(tab) >= 2 and roled >= 0.6:        # --- tabla moderna con roles ---
+        emp = [dict(e) for e in tab]
+    else:                                     # --- formato viejo: intacto ---
+        emp = ctx.get("_empresas") or _empresas_y_actividades(ctx)
+        if not emp and ctx.get("path"):
+            try:
+                tt = empresas_desde_tabla_texto(ctx["path"])
+            except Exception:
+                tt = []
+            emp = [{"rol": None, "nombre": e["nombre"], "grupo": e["grupo"]} for e in tt]
+
+    # Suplemento por prosa (aditivo, no pisa lo ya listado por nombre).
+    nombres = {re.sub(r"[^a-z0-9]", "", ext.strip_acentos(e["nombre"]).lower()) for e in emp}
+    try:
+        prosa = _af_partes_prosa(ctx.get("flat") or "")
+    except Exception:
+        prosa = []
+    for rol, n in prosa:
+        k = re.sub(r"[^a-z0-9]", "", ext.strip_acentos(n).lower())
+        if k and k not in nombres:
+            emp.append({"rol": rol, "nombre": n, "grupo": ""})
+            nombres.add(k)
+
     return json.dumps([{"rol": e["rol"], "nombre": e["nombre"]} for e in emp],
                       ensure_ascii=False) if emp else None
 
