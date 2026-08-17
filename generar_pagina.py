@@ -481,10 +481,7 @@ TEMPLATE = r"""<!doctype html>
 <body>
 <div class="bm-header">
   <h1>Buscador de Mercados Relevantes</h1>
-  <p>Nomenclador de resoluciones y dictámenes firmados — ANC. Encontrá en qué expediente se
-  definió un mercado a partir de un término coloquial (sector, producto, servicio), las
-  empresas involucradas o el artículo de la ley. Hacé clic en la carpeta de un expediente
-  para abrir su PDF. Búsqueda insensible a acentos y mayúsculas.</p>
+  <p>Nomenclador de resoluciones y dictámenes firmados — ANC.</p>
 </div>
 
 <div class="bm-main">
