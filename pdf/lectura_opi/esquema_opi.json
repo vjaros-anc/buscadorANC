@@ -1,0 +1,69 @@
+{
+  "opi": "350",
+  "expediente": "EX-2023-01811829- -APN-DR#CNDC",
+  "ley_aplicable": "27.442",
+
+  "empresas": {
+    "consultante": "Quién hizo la presentación (puede ser la compradora o un tercero).",
+    "compradoras": [
+      {"nombre": "AMERICAN AIRLINES, INC.", "pais": "Estados Unidos",
+       "actividad": "Transporte aerocomercial de pasajeros",
+       "grupo_economico": "Controlante última, si el texto la identifica."}
+    ],
+    "objeto": [
+      {"nombre": "JETSMART HOLDINGS LIMITED", "pais": "Chile",
+       "actividad": "Holding de aerolíneas low cost",
+       "grupo_economico": null}
+    ],
+    "vendedoras": [
+      {"nombre": "INDIGO ANDEAN PARTNERS LP", "pais": null,
+       "actividad": null, "grupo_economico": null}
+    ]
+  },
+
+  "pregunta_partes": {
+    "texto": "Cita textual o paráfrasis fiel de qué preguntó el consultante.",
+    "tipo": [
+      "obligacion_de_notificar", "encuadre_como_concentracion",
+      "aplicacion_de_excepcion", "plazo_o_computo", "confidencialidad",
+      "notificacion_tardia", "aclaratoria", "otro"
+    ],
+    "argumento_central_consultante": "El fundamento principal invocado por la parte."
+  },
+
+  "respuesta_cndc": {
+    "sentido": ["no_sujeta_a_notificacion", "sujeta_a_notificacion",
+                "abstracta_o_desistida", "archivo", "no_ha_lugar",
+                "sujeta_con_salvedades", "otro"],
+    "texto": "Párrafo dispositivo de la CONCLUSIÓN, textual.",
+    "medidas_accesorias": ["confidencialidad_concedida", "multa", "remision", "..."]
+  },
+
+  "causa": {
+    "ratio_decidendi": "1-3 oraciones: POR QUÉ se decidió así. No qué se decidió.",
+    "fundamento_normativo": [
+      {"norma": "Ley 27.442", "articulo": "11", "inciso": "a"}
+    ],
+    "criterio": [
+      "ausencia_de_control_o_influencia_sustancial",
+      "participacion_minoritaria_pasiva",
+      "excepcion_primera_entrada_al_pais",
+      "umbral_de_volumen_no_alcanzado",
+      "monto_de_activos_bajo_umbral",
+      "reorganizacion_intragrupo_sin_cambio_de_control",
+      "operacion_no_perfeccionada_o_desistida",
+      "control_ya_preexistente",
+      "adquisicion_de_acciones_para_reventa",
+      "otro"
+    ],
+    "hecho_determinante": "El hecho concreto del caso que activó ese criterio.",
+    "precedentes_citados": ["OPI 372", "CONC 1234"]
+  },
+
+  "trazabilidad": {
+    "seccion_fuente_causa": "analisis",
+    "parrafos": [44, 45, 46],
+    "confianza": "alta|media|baja",
+    "requiere_revision_humana": false
+  }
+}

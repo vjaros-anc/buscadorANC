@@ -1,0 +1,1761 @@
+[
+    {
+        "type": "text",
+        "text": "Expte. N° S01: 0228293/2017 (Conc.1470) CQ-RG",
+        "text_level": 1,
+        "bbox": [
+            406,
+            180,
+            818,
+            201
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BUENOS AIRES, 27 JUL 2017",
+        "bbox": [
+            403,
+            235,
+            731,
+            260
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SEÑOR SECRETARIO",
+        "text_level": 2,
+        "bbox": [
+            142,
+            258,
+            346,
+            277
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Elevamos para su consideración el presente dictamen referido a la operación de concentracion económica que tramita bajo el Expediente N° S01: 0228293/2017 del registro del MINISTERIO DE PRODUCCIÓN, caratulado“DEUTSCHE BANK AKTIENGESELLSCHAFT, SÜDDEUTSCHE VERMÖGENSVERWALTUNG GESELLSCHAFT MIT BESCHRÄNKTER HAFTUNG Y BANCO COMAEI S A S/ NOTIFICACION ART. 8 DE LA LEY 25.156 (CONC. 1470)”, en trámite ante esta COMISIÓN NACIONAL DE DEFENSA DE LA COMPETENCIA",
+        "bbox": [
+            137,
+            289,
+            875,
+            439
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. DESCRIPCIÓN DE LA OPERACIÓN Y ACTIVIDAD DE LAS PARTES",
+        "text_level": 2,
+        "bbox": [
+            136,
+            451,
+            776,
+            476
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.1.La Operación",
+        "text_level": 2,
+        "bbox": [
+            136,
+            486,
+            280,
+            503
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. El dia 16 de junio de 2017, esta Comisión Nacional recibió la notificación de una operacion de concentración económica, consistente en la adquisición por parte de BANCO COMAFI S.A. (en adelante “BANCO COMAFI”) a DEUTSCHE BANK AKTIENGESELLSCHAFT (en adelante “DEUTSCHE\") y a SÜDDEUTSCHE VERMOGENSVERWALTUNG GESELLSCHAFT MIT BESCHRÄNKTER HAFTUNG (en adelante \"SUDDEUTSCHE”) del 100% del capital social y votos de DEUTSCHE BANK S.A. (en adelante “DEUTSCHE BANK”)",
+        "bbox": [
+            134,
+            515,
+            868,
+            662
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. La operación se instrumentó a través de un contrato de compraventa de fecha 26 de agosto de 2016, quedando perfeccionada en fecha 2 de junio de 20171 momento en el cual los vendedores notificaron a DEUTSCHE BANK, en los términos del artículo 215 do la Ley N° 19550, la venta de las acciones a favor de la compradora ². La oneración fue notificada en tiempo y forma, dentro del primer día hábil posterior al cierre³",
+        "bbox": [
+            129,
+            669,
+            863,
+            777
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            289,
+            30,
+            349,
+            89
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "\"2017 — Año de las Energías Renovables\"",
+        "bbox": [
+            687,
+            27,
+            936,
+            42
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Ministerio de Producción Secretaria deComercio Comisión Nacional de Defensa de la Competencia",
+        "bbox": [
+            127,
+            91,
+            510,
+            152
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "MARIA VALERIA HERMOSOIOAOAL DEDEFENSA",
+        "bbox": [
+            601,
+            99,
+            796,
+            137
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "",
+        "bbox": [
+            605,
+            887,
+            719,
+            934
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "1 ARGEnirato se suscribió ad referéndum de la aprobación del BANCO CENTRAI DE LA PEpRuCA ARGENTINA, quien se expidió mediante Resolución N° 184 de fecha 24 de mavo de 2017 ² Las partes acompañaron en fecha 3 de julo de 2017",
+        "bbox": [
+            124,
+            796,
+            858,
+            830
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "Las pares acompañaron en fecha 3 de julo de 2017 copia de las notificaciones previstas en el artículo 215 de de tey sf 19.550 y copia de libro de registro de acciones de la firma DEUTSCHE BANK en la aee artictlo 215 de de transferencia de las acciones objeto de la presente oneración 3Resolución 423-E/2017 del SECRETARIO DE COM 1",
+        "bbox": [
+            122,
+            826,
+            858,
+            865
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "esolución 423-E/2017 del SECRETARIO DE COMERCIO del MINISTERIO DE PRODUCCIÓN (Publicada en el Boletin Oficial en fecha 29/05/2017) se dispuso la suspensión de los todos los plazos procedimuntcaes en 1",
+        "bbox": [
+            122,
+            862,
+            857,
+            901
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ef703b19cf736594cf2485e2d8f27e7a502026cc99c1409c97ff414c38a82a8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            554,
+            54,
+            771,
+            98
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ministerio de Producción",
+        "text_level": 1,
+        "bbox": [
+            201,
+            91,
+            433,
+            110
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "I.2. Las partes y la actividad de las empresas involucradas en la operación.",
+        "bbox": [
+            144,
+            172,
+            779,
+            187
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "I.2.1. La compradora",
+        "text_level": 2,
+        "bbox": [
+            144,
+            200,
+            322,
+            216
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. BANCO COMAFI, una sociedadconstituida, conforme las leyes de la República Argentina, dedicada a la actividad financiera, debidamente inscripta en laInspección General de Justicia. Controla en forma directa a COMAFI FIDUCIARIO FINANCIERO S.A. y posee participaciones directas en GRAMIT S.A., sociedades involucradas en esta operación cuya actividad se detalla más adelante.",
+        "bbox": [
+            142,
+            226,
+            878,
+            331
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. Sus accionistas sonCOMAFI S.A. titular del 76,35% de las acciones, FAMICER PARTICIPACIONES S.A. titular del 7,32% y la firma PASMAN S.A. que posee el 6,94% de las acciones. COMAFI S.A., es controlada en forma directa por el Sr. Guillermo Alejandro CERVIÑO quien posee el55,54% de sus acciones. En relación con la actividad financiera, el Sr. CERVIÑO, controla directamente oindirectamenteen la República Argentina las siguientes empresas cuyas actividades se detallan más adelante: a COMAFI BURSÁTIL S.A. SOCIEDAD DE BOLSA (83,05%), TCC LEASING S.A. (83,71%), FAMICER PARTICIPACIONES S.A., FLIACER PARTICIPACIONES S.A. (95%), CFC PARTICIPACIONESS.A.,PVCRED S.A., PRESTAMOSDIRIGIDOSS.A., GRAMIT S.A.; FINASIST S.A.y a NUBI S.A. (48,54%).",
+        "bbox": [
+            144,
+            342,
+            880,
+            552
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2. La vendedora",
+        "text_level": 2,
+        "bbox": [
+            147,
+            562,
+            314,
+            578
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. DEUTSCHE es una sociedad por acciones constituida conforme las leyes de la República Federal de Alemania, inscripta en el Registro Público de Comercio en los términos delArt.123de la Ley19.550, suCUIT es 30709410179. El único accionista informado es BLACKROCK, INC., quien posee el 5.95 % de las acciones,",
+        "bbox": [
+            146,
+            590,
+            882,
+            671
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. SÜDDEUTSCHE es una sociedad de responsabilidad limitada constituida conforme las leyes de la República Federal de Alemania, inscripta en el Registro Público de Comercio en los términos del Art. 123 de la Ley 19.550, su CUIT 30715607928. Su único accionista es la firma DB FINANZ-HOLDING GMBH que posee el 100% de sus acciones.",
+        "bbox": [
+            146,
+            680,
+            884,
+            781
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 El objeto",
+        "text_level": 2,
+        "bbox": [
+            149,
+            793,
+            268,
+            808
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. DEUTSCHEBANKes una sociedad constituida conforme las leyesde laRepública procesales en todos los expedientes y/o actuaciones administrativas en trámite ante esta COMISIÓ NACIONAL desde el día 2 de junio de 2017 y por el lapso de DIEZ (10) días hábiles admihistrativos.",
+        "bbox": [
+            149,
+            819,
+            910,
+            883
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7988f2ddc9d376564b035cf11835e79961713152b27f92017e7972437b124735.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            605,
+            881,
+            675,
+            931
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "\"2017 — Año de las Energías Renovables\"",
+        "bbox": [
+            680,
+            20,
+            927,
+            32
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            282,
+            30,
+            342,
+            89
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2",
+        "bbox": [
+            867,
+            881,
+            882,
+            893
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Argentina, dedicada a brindar servicios de la banca mayorista.",
+        "bbox": [
+            179,
+            172,
+            675,
+            188
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8. En la Tabla 1 se consignan las compañías involucradas en la operación, junto a una descripción de la actividad comercial que permite identificar una relación horizontal en la actividad de servicios bancarios.",
+        "bbox": [
+            146,
+            199,
+            880,
+            258
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7fc2b9a6745aace08cb2ed57fd86f586eacdacdfbf592df7d28406d9a9224e3.jpg",
+        "table_caption": [
+            "Tabla 1 - Actividad de la Firmas Involucradas"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Empresas</td><td rowspan=1 colspan=1>Actividad</td></tr><tr><td rowspan=1 colspan=1>BANCO COMAFI S.A.(Grupo comprador)</td><td rowspan=1 colspan=1>Servicios de banca mayorista yminorista.</td></tr><tr><td rowspan=1 colspan=1>COMAFI FIDUCIARIO FINANCIEROS.A.(Grupo comprador)</td><td rowspan=1 colspan=1>Prestador de servicios fiduciarios</td></tr><tr><td rowspan=1 colspan=1>COMAFI S.A.(Grupo comprador)</td><td rowspan=1 colspan=1>Actividades de inversión</td></tr><tr><td rowspan=1 colspan=1>COMAFI BURSÀTIL S.A. SOCIEDADDE BOLSA(Grupo comprador)</td><td rowspan=1 colspan=1>Agente de bolsa</td></tr><tr><td rowspan=1 colspan=1>TCC LEASING S.A.(Grupo comprador)</td><td rowspan=1 colspan=1>Asesoramiento de leasing</td></tr><tr><td rowspan=1 colspan=1>FAMICER PARTICIPACIONES S.A.(Grupo comprador)</td><td rowspan=1 colspan=1>Actividades de inversión</td></tr><tr><td rowspan=1 colspan=1>FLIACER PARTICIPACIONES S.A.(Grupo comprador)</td><td rowspan=1 colspan=1>Actividades de inversión</td></tr><tr><td rowspan=1 colspan=1>CFC PARTICIPACIONES S.A.(Grupo comprador)</td><td rowspan=1 colspan=1>Actividades de inversión</td></tr><tr><td rowspan=1 colspan=1>PVCRED S.A.(Grupo comprador)</td><td rowspan=1 colspan=1>Actividades complementarias a laactividad financiera</td></tr><tr><td rowspan=1 colspan=1>PRÈSTAMOS DIRIGIDOS S.A.(Grupo comprador)</td><td rowspan=1 colspan=1>Comercializa créditos de consumo</td></tr><tr><td rowspan=1 colspan=1>GRAMIT S.A.(Grupo comprador)</td><td rowspan=1 colspan=1>Comercializa la tarjeta de créditopara consumo CREDIAL</td></tr><tr><td rowspan=1 colspan=1>FINASIST S.A.(Grupo comprador)</td><td rowspan=1 colspan=1>Comercializa, a través de la web,préstamos de BANCO COMAFIS.A.</td></tr><tr><td rowspan=1 colspan=1>NUBI S.A.(Grupo comprador)</td><td rowspan=1 colspan=1>Servicios empresariales deintermediación para cobro y cargade saldos virtuales registrados enlas redes de medios electrónicosde pago</td></tr><tr><td rowspan=1 colspan=1>DEUTSCHE BANK S.A.(Objeto)</td><td rowspan=1 colspan=1>Servicios de banca mayorista4.</td></tr></table>",
+        "bbox": [
+            174,
+            298,
+            852,
+            819
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "\"2017 — Año de las Energías Renovables\"",
+        "bbox": [
+            684,
+            21,
+            934,
+            34
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            287,
+            30,
+            347,
+            90
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Ministerio de Producción",
+        "bbox": [
+            205,
+            91,
+            438,
+            110
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Comisión Nacional de Defensa de la Competencia",
+        "bbox": [
+            129,
+            130,
+            512,
+            150
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "MARIA VALERIA HERMOSO COMISION NACIONAL DE DEFENSA DE LA COMPETENCIA",
+        "bbox": [
+            539,
+            108,
+            739,
+            142
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_footnote",
+        "text": "4 Sin perjuicio de que la actividad central del objeto son servicios de bança mayorista también seinforma una minima actividad en la captación de depósitos y otorgamiento de préstamos",
+        "bbox": [
+            146,
+            855,
+            880,
+            884
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. EFECTOS DE LA OPERACIÓN DE CONCENTRACIÓN NOTIFICADA",
+        "text_level": 2,
+        "bbox": [
+            144,
+            171,
+            788,
+            187
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Il.1. Efectos Económicos de la Operación",
+        "text_level": 2,
+        "bbox": [
+            146,
+            205,
+            499,
+            222
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. En ocasiones anteriores5, esta COMISIÓN NACIONAL a la hora de analizar los servicios bancarios ha tenido en cuenta cuatro variables fundamentales que hacen al posicionamiento de cada entidad: depósitos, préstamos, patrimonio neto y otros activos. El Banco Central de la República Argentina publica un ranking sobre la base de estas cuatro variables. Asimismo, esta COMISIÓN NACIONAL en lo que respecta al alcance geográfico de la actividad de servicios bancarios ha realizado su análisis tanto a nivel nacional como a nivel local, en función de las posibilidades de sustitución desde el punto de vista de la oferta y de la demanda.",
+        "bbox": [
+            144,
+            235,
+            882,
+            402
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10. Considerando la información provista por la Superintendencia de Entidades Financieras y Cambiarias publicada por el BANCO CENTRAL DE LA REPÚBLICA ARGENTINA(en adelante “BCRA”) con fecha 31de enero de 2017, la participación conjunta a nivel nacional de las empresas involucradas en lo que respecta a depósitos, préstamos, patrimonio neto y otros activos es inferior al 1,5% en todos los casos.",
+        "bbox": [
+            146,
+            413,
+            880,
+            516
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11. Puede observarse que dentro del mercado de servicios bancarios en la República Argentina, los principales bancos ordenados en función de su patrimonio neto, operan en los dos segmentos, el minorista y mayorista. Entre ellos podemos mencionar a los banCOS NACIÓN,PROVINCIA DE BUENOS AIRES, SANTANDER RIO, CITIBANK, ICBC, BANCO DE GALICIA Y BUENOSAIRES, BBVA, HSBC6, etc. Por consiguiente, la competencia que deberá enfrentar la entidad resultante será significativa.",
+        "bbox": [
+            146,
+            527,
+            880,
+            650
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12. Por su parte, indagando el mercado geográfico local de la Ciudad Autónoma de Buenos Aires, que es la única localidad en la que DEUTSCHE BANK tiene presencia, según el Informe de Información de Entidades Financieras del BCRA a febrero de 20177, existen 813sucursales bancarias y17sucursales de compañías financierasè",
+        "bbox": [
+            146,
+            660,
+            907,
+            741
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Secretaria de Comercio",
+        "bbox": [
+            225,
+            111,
+            413,
+            129
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "\"2017—Año de las Energias Renovables\"",
+        "bbox": [
+            682,
+            20,
+            932,
+            33
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            284,
+            29,
+            346,
+            90
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            613,
+            36,
+            811,
+            66
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Ministerio de Producción",
+        "bbox": [
+            203,
+            91,
+            438,
+            109
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Comisión Nacional de Defensa de la Competencia",
+        "bbox": [
+            127,
+            130,
+            510,
+            149
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "MARIA VALERIA HERMOSO COMISION NACIOUAL DE DEFENSA",
+        "bbox": [
+            569,
+            106,
+            769,
+            152
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_footnote",
+        "text": "5 Dictamen CNDC N° 664, correspondiente a Resolución SCI N°73 DEL 6-06-2008 Expediente N° S01:507867/2007 (Conc. 680), caratulado: \"BANCO SUPERVIELLE Y OTROS S/ NOTIFICACIÓN ARTICULO 8° LEY 25.156\". Dictamen CNDC N° 851, correspondiente a Resolución SCI N°15 DEL 3-02-2011 Expediente N° S01:0154217/2010 (Conc. 818), caratulado: \"BANCO PATAGONIA S.A. Y BANCO DO BRASIL S.A. S/ NOTIFICACIÓN ART. 8 LEY 25.156\". Dictamen CNDC N° 940, correspondiente a Resolución SCI N°77 DEL 15- 08-2012 Expediente N° S01:0173260/2010 (Conc. 822), caratulado: “BANCO MACRO S.A. Y OTROS S/ NOTIFICACIÓN ART. 8 LEY 25.156\".",
+        "bbox": [
+            144,
+            764,
+            880,
+            847
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_footnote",
+        "text": "4",
+        "bbox": [
+            863,
+            883,
+            877,
+            894
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_footnote",
+        "text": "tvasconstaca de AFpar os bancs",
+        "bbox": [
+            146,
+            845,
+            880,
+            871
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_footnote",
+        "text": "7 http://www.bcra.gob.ar/Pdfs/PublicacionesEstadisticas/Entidades/201702e.pdf",
+        "bbox": [
+            146,
+            868,
+            663,
+            883
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Comisión Nacional de Defensa de la Competencia",
+        "bbox": [
+            131,
+            131,
+            514,
+            149
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "reguladas por el BCRA. DEUTSCHEBANK junto a BANCO COMAFI poseen 18 sucursales en CABA (1 y 17 sucursales respectivamente) lo que representa el 2% de la totalidad de sucursales financieras presentes en el mercado local.",
+        "bbox": [
+            191,
+            171,
+            884,
+            231
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13. En función de lo expuesto, analizada la presente operación no se encontraron elementos que indiquen que la misma permita disminuir, restringir o distorsionar la competencia, de modo que pueda resultar en un perjuicio para el interés económico general.",
+        "bbox": [
+            149,
+            242,
+            885,
+            323
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Il.2. Cláusulas de Restricciones Accesorias",
+        "text_level": 2,
+        "bbox": [
+            151,
+            333,
+            519,
+            350
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14. Habiendo analizado la documentación aportada en la presente operación, esta Comisión Nacional advierte la presencia de dos cláusulas en el documento denominado Oferta Irrevocable N°001-2016 de fecha 26 de agosto de 2016, identificadas como “6.16 Prohibición de competir\" y “6.17 Prohibición de contratar personal\" en las que se prevén, por el plazo de dos (2) años a partir de la fecha de cierre de la operación, una serie de prohibiciones dirigidas a los vendedores tendientes a impedir que estos realicen la actividad que desarrolla el objeto como así también la captación de empleados de la misma.",
+        "bbox": [
+            151,
+            362,
+            885,
+            528
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "15. En principio, las partes tienen la facultad de arribar a acuerdos que regulen recíprocamente sus derechos y obligaciones, incluso en esta materia, y lo acordado constituiría la expresión del ejercicio de su libertad de comerciar libremente. No obstante, las restricciones accesorias que pueden encontrarse alcanzadas por el Artículo 7 de la Ley, son aquellas que se constituyen en barreras a la entrada al mercado y siempre que dicha barrera tenga la potencialidad de resultar perjuicio para el interés económico general.",
+        "bbox": [
+            151,
+            534,
+            887,
+            676
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "16. Tal como se desprende de la Sección IV de la Resolución SCyDC N° 164/2001 “Lineamientos para el Control de las Concentraciones Económicas”, las barreras a la entrada cobran importancia en el análisis de una operación notificada cuando la misma produce o fortalece una posición de dominancia en el mercado, por cuanto se entiende que la amenaza del ingreso de nuevos competidores constituye un freno a la capacidad de las empresas existentes en el mercado de subir sus precios.",
+        "bbox": [
+            152,
+            680,
+            887,
+            804
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "17. Por ello, las cláusulas con restricciones accesorias deben considerarse en el marco de la evaluación integral de los efectos que la operación notificada tendría sobre la competencia, tal como ha sido explícitamente recogido comolfundamento de/la decisión",
+        "bbox": [
+            152,
+            807,
+            905,
+            876
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            623,
+            43,
+            830,
+            80
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "\"2017— Año de las Energías Renovables\"",
+        "bbox": [
+            685,
+            19,
+            934,
+            32
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            289,
+            30,
+            349,
+            89
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Ministerio de Producción",
+        "bbox": [
+            206,
+            91,
+            440,
+            110
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "CARIA VALERIA HERMOSO",
+        "bbox": [
+            589,
+            98,
+            786,
+            122
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Comisión Nacional de Defensa de la. Competencia",
+        "bbox": [
+            131,
+            130,
+            514,
+            149
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "revocatoria de la Resolución SC N° 63/2012 realizada por la Cámara Civil y Comercial Federal – Sala 1 en la Causa 25.240/15/CA.",
+        "bbox": [
+            176,
+            171,
+            884,
+            209
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18. En este contexto es en el cual la autoridad debe analizar y considerar los criterios de necesidad, vinculación, duración, partes involucradas y las respectivas definiciones de los mercados geográficos y del producto afectados por la operación notificada.",
+        "bbox": [
+            151,
+            213,
+            884,
+            273
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "19. No obstante, los lineamientos establecidos en los puntos precedentes, y tal como lo ha señalado reiteradamente esta Comisión Nacional, el análisis de este tipo de restricciones debe efectuarse a la luz de las condiciones en que se desenvuelve la competencia en cada mercado y sobre la base de un análisis caso por caso.",
+        "bbox": [
+            151,
+            277,
+            885,
+            359
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. Asimismo, las objeciones contra las restricciones accesorias deben fundarse con la misma rigurosidad con que se fundamente cualquier objeción al acuerdo que instrumenta la operación notificada, quedando a cargo de esta Comisión proveer evidencia suficiente para encuadrar el acuerdo y/o las cláusulas de restricciones accesorias en el Artículo 7 de la Ley, al atribuirles por objeto o efecto restringir o distorsionar la competencia, de modo que pueda resultar perjuicio para el interés económico general. En ese mismo sentido también se ha expresado el fallo precitado.",
+        "bbox": [
+            149,
+            363,
+            885,
+            509
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. En este caso, y según se ha expuesto en la sección precedente, esta Comisión Nacional no ha encontrado elementos de preocupación sobre los efectos en la competencia de la operación notificada.",
+        "bbox": [
+            151,
+            513,
+            885,
+            572
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. En referencia a la cláusula 6.5 confidencialidad8, esta Comisión considera que la misma no constituye una cláusula que pueda importar una restricción accesoria a la operación notificada dentro de los términos del Artículo 7° de la Ley 25.156 9.",
+        "bbox": [
+            151,
+            577,
+            885,
+            635
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "23. Por tanto, siguiendo con la línea de razonamiento descripta en los párrafos precedentes, en el caso bajo análisis, la operación notificada no presenta ningún elemento de preocupación desde el punto de vista de defensa de la competencia, por lo cual, las restricciones accesorias a dicha operación acordada por las partes contratantes, por sí mismas no tienen potencial entidad como para restringir o distorsionar la competencia de modo que pueda resultar en perjuicio para el interés económico general.",
+        "bbox": [
+            151,
+            640,
+            887,
+            763
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            621,
+            42,
+            820,
+            74
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "\"2017 — Año de las Energías Renovables\"",
+        "bbox": [
+            685,
+            19,
+            934,
+            32
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            287,
+            30,
+            349,
+            90
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Ministerio de Producción",
+        "bbox": [
+            206,
+            91,
+            440,
+            109
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Secretaria de Comercio",
+        "bbox": [
+            228,
+            111,
+            418,
+            129
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "MARIA VALERIA HERMOSO",
+        "bbox": [
+            574,
+            112,
+            769,
+            135
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            77,
+            793,
+            117,
+            834
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_footnote",
+        "text": "8 complementada por el Acuerdo de Confidencialidad acompañado en copia por las partes en fecha 7 de julio de 2017 en su idioma original.",
+        "bbox": [
+            151,
+            808,
+            885,
+            834
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_footnote",
+        "text": "9 El acuerdo es a los fines de mantener la confidencialidad de la información de la sociedad y el negocio obtenida por la compradora con motivo de evaluar una posible transacción, nótese gue el documento se suscribió en marzo de 2016, previamente a la suscripción del contrato de compraventa ytuvo vigencia hastael cierre de la operación.",
+        "bbox": [
+            151,
+            833,
+            885,
+            881
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            625,
+            874,
+            749,
+            920
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Comisión Nacional de Defensa de la Competencia",
+        "bbox": [
+            132,
+            130,
+            515,
+            149
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "III. ENCUADRAMIENTO JURÍDICO Y PROCEDIMIENTO",
+        "text_level": 2,
+        "bbox": [
+            151,
+            168,
+            653,
+            185
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "24. Finalmente, debe destacarse que la transacción analizada en apartados anteriores constituye una concentración económica en los términos del Artículo 6° inciso c) de la Ley N° 25.156 de Defensa de la Competencia y que las firmas intervinientes en la misma la han notificado en tiempo y forma, de acuerdo a lo previsto en el Artículo 8º de la misma norma.1º",
+        "bbox": [
+            151,
+            204,
+            887,
+            307
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25. Con fecha 16 de junio de 2017, las partes notificaron la operación mediante la presentación conjunta del Formulario F1 correspondiente yel 7 de julio de 2017, aportaron información complementaria a dicho formulario, el cual se tuvo por completo el día hábil posterior a la última fecha reseñada.",
+        "bbox": [
+            152,
+            318,
+            887,
+            400
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "26. Con fecha 16 de junio de 2017 esta COMISIÓN NACIONAL recibióuna nota del BANCO CENTRAL DE LA REPÚBLICA ARGENTINA emitida con fecha 1°de junio de 207 donde el organismo informa, en virtud de la intervención que le compete conforme establece el artículo 16 de la Ley N° 25.156, que no formuló objeciones a la adquisición de la totalidad del paquete accionario de DEUTSCHE BANK, acompañado copia de Resolución N° 184 de fecha 24 de mayo de 2017.",
+        "bbox": [
+            152,
+            409,
+            890,
+            535
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ill.1. Dispensa solicitada por las consultantes",
+        "text_level": 2,
+        "bbox": [
+            156,
+            546,
+            544,
+            562
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "27. Con fecha 7 de julio de 2017 las partes acompañaron copia del acuerdo de confidencialidad de fecha 8 de marzo de 2016 suscripto en idioma inglés, afirmando que el mismo no limita la competencia y solicitando se las eximiera de acompañar la traducción al idioma nacional en los términos del punto b) del apartado C de la Resolución SDCyC 40/01.",
+        "bbox": [
+            154,
+            573,
+            892,
+            674
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "28. En este sentido y considerando gue en el acuerdo se regulan deberes y obligaciones de confidencialidad sobre información de la sociedad obtenida por la compradora con motivo de evaluar la transacción. que finalmente se concretó mediante el contrato de compra de fecha 26 de agosto de 2016, esta COMISIÓN NACIONAL considera que se ha cumplido con lo previsto en el artículo 2 inciso f. de la ResoluciónSC 40/01 por resultar suficiente la información acompañada a efectos de analizar la operación",
+        "bbox": [
+            157,
+            686,
+            904,
+            808
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "MARIA VALEBIA HERMOSO COMISION NAONAL DE DEFENSA",
+        "bbox": [
+            623,
+            100,
+            818,
+            131
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "\"2017 — Año de las Energías Renovables\"",
+        "bbox": [
+            684,
+            15,
+            934,
+            29
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            289,
+            30,
+            349,
+            89
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "ES COPIA FIEL",
+        "bbox": [
+            591,
+            46,
+            801,
+            84
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Ministerio de Producción",
+        "bbox": [
+            208,
+            90,
+            442,
+            109
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Secretaria de Comercio",
+        "bbox": [
+            228,
+            111,
+            418,
+            129
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            62,
+            824,
+            115,
+            859
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_footnote",
+        "text": "1º La obligación de efectuar la notificación obedece a que el volumen de negociosyde las firmas involucradas y los objetos de las operaciones,a nivel nacional supera el umbral de PESOS DOSCIENTOS/MILLONES(\\$ 200.000,000.-) establecido en el Artículo 8° de la Ley N° 25.156, y no se encuentta alcanzada pør ninguna de las excepciones previstas en dicha norma.",
+        "bbox": [
+            157,
+            819,
+            894,
+            869
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ministerio de Producción Secretaria de Comercio Comisión Nacional de Defensa de la Competencia",
+        "bbox": [
+            129,
+            92,
+            510,
+            150
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ES COPIAFIEL",
+        "bbox": [
+            591,
+            60,
+            801,
+            97
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "notificada. Por lo tanto se considera que el acuerdo de confidencialidad en su versión en su idioma original resulta satisfactoria, de acuerdo a lo dispuesto en la normativa citada, y se aconseja que la autoridad de aplicación conceda la dispensa solicitada por las partes respecto de la traducción del documento mencionado.",
+        "bbox": [
+            188,
+            172,
+            880,
+            254
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29. Por lo expuesto, se recomienda al SR. SECRETARIO DE COMERCIO dispensar a los consultantes de acompañar la traducción oportunamente solicitada.",
+        "bbox": [
+            146,
+            263,
+            880,
+            302
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSIONES",
+        "text_level": 2,
+        "bbox": [
+            146,
+            319,
+            341,
+            336
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "30. De acuerdo a lo expuesto precedentemente, esta COMISIÓN NACIONAL DE DEFENSA DE LA COMPETENCIA concluye que la operación de concentración económica notificada no infringe el Artículo 7º de la Ley Nº 25.156, al no disminuir, restringir o distorsionar la competencia de modo que pueda resultar perjuicio al interés económico general.",
+        "bbox": [
+            146,
+            355,
+            880,
+            459
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "31. Por ello, esta COMISIN NACIONAL DE DEFENSA DE LA COMPETENCIA aconseja al SEÑOR SECRETARIO DE COMERCIO: a) autorizar la operación notificada consistente en la adquisición por parte de BANCO COMAFI S.A. a DEUTSCHE BANK AKTIENGESELLSCHAFT y a SÜDDEUTSCHE VERMÖGENSVERWALTUNG GESELLSCHAFTMIT BESCHRÄNKTERHAFTUNG del 100%delcapitalsocial y votos de DEUTSCHE BANK S.A., todo ello en virtud de lo establecido en el Artículo 13 inc. (a) de la Ley N°25.156 y b) Dispensar a las consultantes de acompañar la traducciónal idioma nacional del documento acompañado con fecha 7 de julio de 2017.",
+        "bbox": [
+            146,
+            469,
+            882,
+            655
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "32. Elévese el presente Dictamnery al Señor Secretario de Comercio, previo paso por la DIRECCIÓN GENERALE ASUNTOS JURÍDICOS deI MINISTERIO DE PRODUCCIÓN para su conócimiento.",
+        "bbox": [
+            147,
+            665,
+            880,
+            726
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b7856fecca389f4edbfc52a4656f65cf397d62e39ccbc15a8643815021f4e25.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            132,
+            710,
+            786,
+            940
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8",
+        "bbox": [
+            867,
+            883,
+            878,
+            894
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "\"2017 — Año de las Energias Renovables\"",
+        "bbox": [
+            684,
+            21,
+            932,
+            34
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            285,
+            32,
+            347,
+            90
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "1uso de Licenda. DE DEFENSA TECTEMOU",
+        "bbox": [
+            16,
+            935,
+            986,
+            989
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Hoja Adicional de Firmas Anexo",
+        "text_level": 1,
+        "bbox": [
+            411,
+            203,
+            622,
+            236
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Número:",
+        "bbox": [
+            111,
+            253,
+            186,
+            270
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Referencia: S01:0228293/2017 CONC.1470",
+        "bbox": [
+            109,
+            340,
+            450,
+            358
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "El documento fue importado por el sistema GEDO con un total de 8 pagina/s.",
+        "bbox": [
+            109,
+            390,
+            732,
+            409
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Digitally signed by GESTION DOCUMENTAL ELECTRONICA - GDE",
+        "bbox": [
+            111,
+            439,
+            372,
+            450
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DN: cn=GESTION DOCUMENTAL ELECTRONICA - GDE, c=AR, o=MINISTERIO DE MODERNIZACION,",
+        "bbox": [
+            111,
+            446,
+            508,
+            458
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ou=SECRETARIA DE MODERNIZACION ADMINISTRATIVA, serialNumber=CUIT 30715117564",
+        "bbox": [
+            111,
+            455,
+            477,
+            465
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Date: 2017.07.28 09:24:26 -03'00",
+        "bbox": [
+            112,
+            463,
+            245,
+            474
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            482,
+            77,
+            550,
+            155
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "República Argentina - Poder Ejecutivo Nacional 2017 - Año de las Energías Renovables",
+        "bbox": [
+            333,
+            155,
+            699,
+            189
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "Digital y signed by GESTION DOCUMENTAL ELECTRONICA - GDE DN: cn=GESTION DOCUMENTAL ELECTRONICA - GDE, c=AR, o=MINISTERIO DE MODERNIZACION, ou=SECRETARIA DE MODERNIZACION ADMINISTRATIVA, serialNumber=CUIT 30715117564 Date: 2017.07.28 09:24:26 -03'00",
+        "bbox": [
+            733,
+            936,
+            939,
+            984
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "República Argentina - Poder Ejecutivo Nacional 2017 - Año de las Energías Renovables",
+        "text_level": 1,
+        "bbox": [
+            321,
+            155,
+            712,
+            189
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Resolución",
+        "text_level": 1,
+        "bbox": [
+            470,
+            203,
+            562,
+            220
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Número:",
+        "text_level": 2,
+        "bbox": [
+            109,
+            237,
+            187,
+            253
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Referencia: EXP-S01:0228293/2017 - OPERACIÓN DE CONCENTRACIÓN ECONÓMICA (CONC. 1470)",
+        "bbox": [
+            109,
+            324,
+            892,
+            359
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "VISTO el Expediente Nº S01:0228293/2017 del Registro del MINISTERIO DE PRODUCCIÓN, y",
+        "bbox": [
+            107,
+            388,
+            905,
+            410
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CONSIDERANDO:",
+        "text_level": 2,
+        "bbox": [
+            107,
+            453,
+            276,
+            472
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Que, en las operaciones de concentración económica en las que intervengan empresas cuya envergadura determine que deban realizar la notificación prevista en el Artículo 8° de la Ley Nº 25.156, procede su presentación y tramitación por los obligados ante la COMISIÓN NACIONAL DE DEFENSA DE LA COMPETENCIA, organismo desconcentrado en el ámbito de la SECRETARÍA DE COMERCIO del MINISTERIO DE PRODUCCIÓN, en virtud de lo dispuesto y por la integración armónica de los Artículos 6° a 16 y 58 de dicha ley.",
+        "bbox": [
+            106,
+            486,
+            977,
+            592
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Que la operación, que se notifica el día 16 de junio 2017 consiste en la adquisición por parte de la firma BANCO COMAFI SOCIEDAD ANÓNIMA a la firma DEUTSCHE BANK AKTIENGESELLSCHAFT y a la firma SÜDDEUTSCHE VERMÖGENSVERWALTUNG GESELLSCHAFT MIT BESCHRӒNKTER HAFTUNG del CIEN POR CIENTO (100 %) del capital social y voto de la firma DEUTSCHE BANK S.A.",
+        "bbox": [
+            106,
+            603,
+            977,
+            690
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Que la operación se instrumentó a través de un Contrato de Compraventa de fecha 26 de agosto de 2016, quedando perfeccionada el día 2 de junio de 2017.",
+        "bbox": [
+            107,
+            704,
+            975,
+            741
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Que, con fecha 7 de julio de 2017, las partes presentaron en el expediente de la referencia, copia del acuerdo de confidencialidad de fecha 8 de marzo de 2016 suscripto en idioma inglés, afirmando que el mismo no limita la competencia y solicitando que se les eximiera de acompañar la traducción al idioma nacional.",
+        "bbox": [
+            106,
+            753,
+            978,
+            823
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Que, asimismo, la citada Comisión Nacional considera que se ha cumplido con lo previsto en el inciso f) del punto 2 del Formulario F1 del Anexo I de la Resolución N° 40 de fecha 22 de febrero de 2001 de la ex SECRETARÍA DE DEFENSA DE LA COMPETENCIA Y DEL CONSUMIDOR del ex MINISTERIO DE ECONOMÍA, por lo que resulta suficiente la información acompañada por las partes.",
+        "bbox": [
+            106,
+            837,
+            978,
+            909
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Que la operación notificada constituye una concentración económica en los términos del inciso c) del Artículo $\\bar { 6 ^ { \\circ } }$ de la Ley N° 25.156.",
+        "bbox": [
+            106,
+            919,
+            978,
+            955
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            482,
+            77,
+            550,
+            154
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Que la obligación de efectuar la notificación obedece a que el volumen de negocios de las firmas involucradas y el objeto de la operación en la REPÚBLICA ARGENTINA supera el umbral la suma de PESOS DOSCIENTOS MILLONES (\\$ 200.000.000) establecido en el Artículo 8° de la Ley N° 25.156, y no se encuentra alcanzada por ninguna de las excepciones previstas en dicha norma.",
+        "bbox": [
+            106,
+            46,
+            978,
+            118
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Que, en virtud del análisis realizado, la COMISIÓN NACIONAL DE DEFENSA DE LA COMPETENCIA concluye que la operación de concentración económica notificada no infringe el Artículo $7 ^ { \\circ }$ de la Ley N° 25.156, toda vez que de los elementos reunidos en el expediente citado en el Visto no se desprende que tenga entidad suficiente para restringir o distorsionar la competencia de modo que pueda resultar perjuicio al interés económico general.",
+        "bbox": [
+            106,
+            130,
+            977,
+            218
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Que, la mencionada Comisión Nacional emitió el Dictamen N° 163 de fecha 27 de julio de 2017, donde aconseja al señor Secretario de Comercio autorizar la operación notificada, consistente en la adquisición por parte de la firma BANCO COMAFI SOCIEDAD ANÓNIMA a la firma DEUTSCHE BANK AKTIENGESELLSCHAFT y a la firma SÜDDEUTSCHE VERMÖGENSVERWALTUNG GESELLSCHAFT MIT BESCHRӒNKTER HAFTUNG del CIEN POR CIENTO (100 %) del capital social y voto de la firma DEUTSCHE BANK S.A., todo ello en virtud de lo establecido en el inciso a) del Artículo 13 de la Ley N° 25.156; y dispensar a las consultantes de acompañar la traducción al idioma nacional del documento presentado con fecha 7 de julio de 2017 en el expediente citado en el Visto.",
+        "bbox": [
+            106,
+            231,
+            980,
+            371
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Que el suscripto comparte los términos del mencionado dictamen, al cual cabe remitirse en honor a la brevedad, incluyéndose como Anexo de la presente resolución.",
+        "bbox": [
+            106,
+            382,
+            978,
+            419
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Que la Dirección General de Asuntos Jurídicos del MINISTERIO DE PRODUCCIÓN ha tomado la intervención que le compete.",
+        "bbox": [
+            107,
+            430,
+            975,
+            468
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Que el infrascripto resulta competente para el dictado del presente acto en virtud de lo establecido en los Artículos 13, 18, 21 y 58 de la Ley N° 25.156 y los Decretos Nros. 89 de fecha 25 de enero de 2001, 357 de fecha 21 de febrero de 2002 y sus modificaciones y 718 de fecha 27 de mayo de 2016.",
+        "bbox": [
+            106,
+            481,
+            977,
+            535
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Por ello,",
+        "bbox": [
+            107,
+            579,
+            184,
+            597
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "EL SECRETARIO DE COMERCIO",
+        "text_level": 2,
+        "bbox": [
+            392,
+            611,
+            691,
+            628
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "RESUELVE:",
+        "text_level": 2,
+        "bbox": [
+            483,
+            642,
+            596,
+            661
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ARTÍCULO 1°.- Autorízase la operación de concentración económica consistente en la adquisición por parte de la firma BANCO COMAFI SOCIEDAD ANÓNIMA a la firma DEUTSCHE BANK AKTIENGESELLSCHAFT y a la firma SÜDDEUTSCHE VERMÖGENSVERWALTUNG GESELLSCHAFT MIT BESCHRӒNKTER HAFTUNG del CIEN POR CIENTO (100 %) del capital social y voto de la firma DEUTSCHE BANK S.A., todo ello en virtud de lo establecido en el inciso a) del Artículo 13 de la Ley N° 25.156.",
+        "bbox": [
+            106,
+            674,
+            977,
+            780
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ARTÍCULO 2°.- Dispénsese a las consultantes de acompañar la traducción pública al idioma nacional del documento presentado con fecha 7 de julio de 2017 en el expediente de la referencia.",
+        "bbox": [
+            106,
+            791,
+            975,
+            830
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ARTÍCULO 3°.- Considérase al Dictamen N° 163 de fecha 27 de julio de 2017 emitido por la COMISIÓN NACIONAL DE DEFENSA DE LA COMPETENCIA, organismo desconcentrado en el ámbito de la SECRETARÍA DE COMERCIO del MINISTERIO DE PRODUCCIÓN, que como Anexo, IF-2017- 15650889-APN-DR#CNDC, forma parte integrante de la presente medida.",
+        "bbox": [
+            106,
+            840,
+            978,
+            912
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ARTÍCULO 4°.- Notifíquese a las partes interesadas.",
+        "bbox": [
+            107,
+            924,
+            539,
+            945
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ARTÍCULO 5°.- Comuníquese y archívese.",
+        "bbox": [
+            109,
+            34,
+            462,
+            54
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Digitally signed by BRAUN Migue Date: 2017.08.30 19:05:43 ART Location: Ciudad Autónoma de Buenos Aires",
+        "bbox": [
+            112,
+            98,
+            305,
+            125
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "Digital y signed by GESTION DOCUMENTAL ELECTRONICA - GDE DN: cn=GESTION DOCUMENTAL ELECTRONICA - GDE, c=AR, o=MINISTERIO DE MODERNIZACION, ou=SECRETARIA DE MODERNIZACION ADMINISTRATIVA, serialNumber=CUIT 30715117564 Date: 2017.08.30 19:05:50 -03'00'",
+        "bbox": [
+            732,
+            936,
+            939,
+            984
+        ],
+        "page_idx": 11
+    }
+]

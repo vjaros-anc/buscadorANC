@@ -3,21 +3,25 @@
 Genera un index.html AUTOCONTENIDO (self-contained) para GitHub Pages a partir
 de firm.xlsx. Reutiliza la logica de clasificacion del nomenclador existente
 (nomenclador_mercados.py) -> ese archivo .py es el unico lugar donde se editan
-sectores/sinonimos; el HTML no contiene logica de clasificacion.
+sectores/sinonimos/productos; el HTML no contiene logica de clasificacion.
 
 Uso:
     python generar_pagina.py            # escribe index.html
 
-Caracteristicas:
-  - 50 tarjetas a primera vista, resto por scroll (carga incremental).
-  - Filtro por DECISION (articulo de la ley) via desplegable.
-  - Dos definiciones de mercado diferenciadas (V1 vigente / V2 referencial) y
-    las dos relaciones economicas (V1 / V2).
-  - Empresas involucradas agrupadas: Compradoras (primero) y Objeto, con
-    buscador dedicado por empresa (boton).
-  - Filtro por rango de fecha de firma y orden por fecha (asc/desc).
-  - Tabla "Nomenclador por sector" al final (generada en Python).
-  - Al hacer clic en la carpeta del expediente se abre su PDF (ver PDF_DIR).
+Caracteristicas (ademas de las del generador original):
+  - Panel colapsable "Busqueda avanzada por producto": elegis un mercado
+    (sector) y aparecen los productos de ese mercado en checkboxes; se pueden
+    tildar varios (OR) y filtra los expedientes que tengan alguno cargado.
+
+Productos y sectores NO se recalculan aca: se leen de las columnas `productos`
+y `productos_sector` de firm.xlsx, que genera extraer_productos.py y se
+pueden corregir a mano desde Excel. Si una fila no las tiene cargadas, se cae
+al calculo del nomenclador para no perder ese expediente.
+
+Circuito completo:
+    python extraer_productos.py    # completa las columnas vacias del Excel
+    (edicion manual en Excel)      # opcional: corregir productos/sectores
+    python generar_pagina.py       # escribe index.html
 """
 from __future__ import annotations
 
@@ -31,8 +35,15 @@ import pandas as pd
 
 import nomenclador_mercados as nm
 
+# Guarda: durante la unificacion hubo dos nomencladores (el de la raiz, sin
+# catalogo de productos, y el de "productos buscador"). Si un __pycache__ viejo
+# sombrea el bueno, esto lo dice en vez de generar un index sin productos.
+if not hasattr(nm, "PRODUCTOS"):
+    raise SystemExit("nomenclador_mercados.py sin catalogo PRODUCTOS: se esta "
+                     "importando el viejo. Borra los __pycache__ y reintenta.")
+
 AQUI = Path(__file__).parent
-ARCHIVO = AQUI / "firm4.xlsx"
+ARCHIVO = AQUI / "firm.xlsx"
 SALIDA = AQUI / "index.html"
 
 # --------------------------------------------------------------------------- #
@@ -59,6 +70,9 @@ C_REL_V2 = "relaciones_econ_V2"
 C_GRUPO = "Grupo/Empresa"
 C_EMPRESAS = "Empresas involucradas"
 C_TIPO = "tipo"
+# columnas generadas por extraer_productos.py (editables a mano en el Excel)
+C_PRODUCTOS = nm.C_PRODUCTOS
+C_PROD_SECTOR = nm.C_PROD_SECTOR
 
 # --------------------------------------------------------------------------- #
 # Categorias del filtro por TIPO. La columna `tipo` del Excel mezcla codigos
@@ -155,14 +169,21 @@ def build_records() -> list[dict]:
         except Exception:
             pass
 
-        # Clasificacion por sector. La V1 manda cuando esta disponible; si esta
-        # vacia, se usa la V2. Ademas, si la V1 esta pero no permite clasificar
-        # (no matchea ningun sector) y existe V2, se reintenta con la V2.
+        # Productos: salen de la columna `productos` del Excel (extraer_productos.py
+        # + correcciones manuales). Sin fallback: lo que no este cargado ahi, no
+        # existe para la busqueda avanzada.
+        productos = nm.parse_lista(row.get(C_PRODUCTOS))
+
+        # Clasificacion por sector: manda la columna `productos_sector` del Excel.
+        # Si esa celda esta vacia (fila nueva, o Excel sin pasar por el extractor)
+        # se calcula con el mismo criterio que usa extraer_productos.py: V1 + V2
+        # unidas + caratula, para que el index muestre lo mismo se haya corrido o
+        # no el extractor.
         merc_ref = merc_v1 if merc_v1 else merc_v2
         base_norm = nm.norm(merc_ref + " " + caratula)
-        sectores = nm.clasificar_sectores(base_norm)
-        if not sectores and merc_v1 and merc_v2:
-            sectores = nm.clasificar_sectores(nm.norm(merc_v2 + " " + caratula))
+        sectores = nm.parse_lista(row.get(C_PROD_SECTOR))
+        if not sectores:
+            sectores = nm.clasificar_sectores(nm.norm(" ".join([merc_v1, merc_v2, caratula])))
         if not sectores:
             sectores = ["Otros / sin clasificar"]
 
@@ -181,13 +202,18 @@ def build_records() -> list[dict]:
         # blobs de busqueda normalizados
         search = nm.norm(" ".join([
             carpeta, caratula, merc_v1, merc_v2,
-            " ".join(sectores), " ".join(rel_tags),
+            " ".join(sectores), " ".join(productos), " ".join(rel_tags),
             " ".join(cadena), " ".join(geografia), " ".join(sinonimos),
         ]))
         search_emp = nm.norm(" ".join(compradores + objeto + [grupo]))
 
         # ruta al PDF (relativa a index.html). Vacia si no hay numero de expte.
+        # Solo se enlaza el PDF si esta realmente en pdf/. Los expedientes
+        # que todavia esperan el archivo se publican con todos sus datos,
+        # pero sin un link que de 404.
         pdf = f"{PDF_DIR}/{tipo}-{numero}.pdf" if numero else ""
+        if pdf and not (AQUI / pdf).exists():
+            pdf = ""
 
         registros.append({
             "id": int(i),
@@ -214,6 +240,7 @@ def build_records() -> list[dict]:
             "cadena": cadena,
             "geografia": geografia,
             "sectores": sectores,
+            "productos": productos,
             "pdf": pdf,
             "search": search,
             "search_emp": search_emp,
@@ -252,6 +279,10 @@ def main() -> None:
     recs = build_records()
     sectores = sorted({s for r in recs for s in r["sectores"]})
     relaciones = ["Horizontal", "Vertical", "Conglomerado", "Efectos de cartera"]
+    # sector -> productos: la lista sale de lo cargado en el Excel (asi ninguna
+    # opcion del desplegable da cero resultados) y el mercado bajo el que se
+    # agrupa cada producto lo fija el catalogo PRODUCTOS del nomenclador.
+    productos_sector = nm.productos_por_sector(recs)
 
     # tipos presentes, en el orden preferido; los inesperados van al final
     tipo_cont = Counter(r["tipo_cat"] for r in recs if r["tipo_cat"])
@@ -281,6 +312,7 @@ def main() -> None:
     html = html.replace("__REL__", json.dumps(relaciones, ensure_ascii=False))
     html = html.replace("__TIPO__", json.dumps(tipos, ensure_ascii=False))
     html = html.replace("__DEC__", json.dumps(decisiones, ensure_ascii=False))
+    html = html.replace("__PROD__", json.dumps(productos_sector, ensure_ascii=False))
     html = html.replace("__ARCHIVO__", ARCHIVO_URL)
     html = html.replace("__TABLA__", tabla_nomenclador(recs))
     html = html.replace("__TOTAL__", str(len(recs)))
@@ -288,8 +320,12 @@ def main() -> None:
     SALIDA.write_text(html, encoding="utf-8")
 
     cont = Counter(s for r in recs for s in r["sectores"])
+    n_prod = len({p for r in recs for p in r["productos"]})
+    n_con_prod = sum(1 for r in recs if r["productos"])
     print(f"OK -> {SALIDA.name}  ({len(recs)} expedientes)")
     print(f"  {len(decisiones)} decisiones distintas | PDFs esperados en ./{PDF_DIR}/")
+    print(f"  {n_prod} productos distintos (columna `productos` del Excel) en "
+          f"{len(productos_sector)} sectores | {n_con_prod} expedientes con productos cargados")
     print("  Tipos:", ", ".join(f"{t}={n}" for t, n in tipos))
     for s, n in cont.most_common():
         print(f"  {n:3d}  {s}")
@@ -297,7 +333,7 @@ def main() -> None:
 
 # --------------------------------------------------------------------------- #
 # Plantilla HTML (self-contained). Tokens: __DATA__ __SEC__ __REL__ __TIPO__
-#                             __DEC__ __ARCHIVO__ __TABLA__ __TOTAL__
+#                       __DEC__ __PROD__ __ARCHIVO__ __TABLA__ __TOTAL__
 # --------------------------------------------------------------------------- #
 TEMPLATE = r"""<!doctype html>
 <html lang="es">
@@ -366,6 +402,29 @@ TEMPLATE = r"""<!doctype html>
   .bm-group.fecha input[type=date]:focus, .bm-group.fecha select:focus { outline: none; border-color: #cba36a; box-shadow: 0 0 0 3px rgba(203,163,106,.25); }
   .bm-group.fecha label { font-size: .85rem; color: #555; display: inline-flex; gap: .3rem; align-items: center; }
   .bm-dsep { width: 1px; height: 24px; background: #e6d3b8; margin: 0 .25rem; }
+
+  /* Búsqueda avanzada por producto — celeste, colapsable */
+  .bm-group.producto { border: 1px solid #c8dde6; border-top: 4px solid #4f9bb0; background: #f0f8fa; }
+  .bm-group.producto .bm-group-lbl { color: #2a6d7d; cursor: pointer; user-select: none; width: 100%;
+    justify-content: space-between; }
+  .bm-group.producto .bm-group-lbl .bm-toggle-ic { transition: transform .15s; }
+  .bm-group.producto.open .bm-group-lbl .bm-toggle-ic { transform: rotate(90deg); }
+  .bm-prod-body { display: none; flex-direction: column; gap: .55rem; margin-top: .3rem; }
+  .bm-group.producto.open .bm-prod-body { display: flex; }
+  .bm-prod-row { display: flex; gap: .5rem; flex-wrap: wrap; align-items: flex-start; }
+  #bm-prod-sector { font-size: .92rem; padding: .5rem .55rem; border: 1.5px solid #9ec7d1;
+    border-radius: 6px; background: #fff; min-width: 260px; }
+  #bm-prod-sector:focus { outline: none; border-color: #4f9bb0; box-shadow: 0 0 0 3px rgba(79,155,176,.22); }
+  .bm-prod-list { display: flex; flex-wrap: wrap; gap: .3rem .4rem; max-height: 220px; overflow-y: auto;
+    padding: .4rem; background: #fff; border: 1px solid #dceaee; border-radius: 8px; flex: 1 1 100%; }
+  .bm-prod-empty { color: #888; font-size: .82rem; font-style: italic; padding: .2rem; }
+  .bm-prod-chk { display: inline-flex; align-items: center; gap: .3rem; font-size: .8rem;
+    padding: .16rem .5rem; border-radius: 999px; border: 1px solid #cfe0e5; background: #f5fbfc;
+    cursor: pointer; user-select: none; }
+  .bm-prod-chk input { margin: 0; accent-color: #2a6d7d; }
+  .bm-prod-chk.checked { background: #4f9bb0; border-color: #4f9bb0; color: #fff; }
+  .bm-prod-sel { display: flex; flex-wrap: wrap; gap: .3rem; }
+  .bm-prod-sel .bm-chip { background: #dcedf1; border-color: #a9cdd6; color: #2a6d7d; }
 
   .bm-actions { display: flex; gap: .5rem; align-items: center; margin-left: auto; margin-top: .6rem; }
 
@@ -481,7 +540,10 @@ TEMPLATE = r"""<!doctype html>
 <body>
 <div class="bm-header">
   <h1>Buscador de Mercados Relevantes</h1>
-  <p>Nomenclador de resoluciones y dictámenes firmados — ANC.</p>
+  <p>Nomenclador de resoluciones y dictámenes firmados — ANC. Encontrá en qué expediente se
+  definió un mercado a partir de un término coloquial (sector, producto, servicio), las
+  empresas involucradas o el artículo de la ley. Hacé clic en la carpeta de un expediente
+  para abrir su PDF. Búsqueda insensible a acentos y mayúsculas.</p>
 </div>
 
 <div class="bm-main">
@@ -491,6 +553,21 @@ TEMPLATE = r"""<!doctype html>
       <span class="bm-group-lbl"><span class="bm-ic">🔍</span>Barra principal · Mercado / sector / producto</span>
       <input id="bm-q" class="bm-search" type="search" autocomplete="off"
         placeholder="Buscar mercado… (ej: leche, eléctrica, audiovisual, petróleo, farma, agro)">
+    </div>
+
+    <div class="bm-group producto" id="bm-prod-group">
+      <span class="bm-group-lbl" id="bm-prod-toggle"><span><span class="bm-ic">🧩</span>Búsqueda avanzada por producto</span><span class="bm-toggle-ic">▶</span></span>
+      <div class="bm-prod-body">
+        <div class="bm-prod-row">
+          <select id="bm-prod-sector">
+            <option value="">Elegí un mercado / sector…</option>
+          </select>
+        </div>
+        <div class="bm-prod-list" id="bm-prod-list">
+          <span class="bm-prod-empty">Elegí primero un mercado para ver sus productos.</span>
+        </div>
+        <div class="bm-prod-sel" id="bm-prod-sel"></div>
+      </div>
     </div>
 
     <div class="bm-row">
@@ -555,6 +632,7 @@ TEMPLATE = r"""<!doctype html>
   const RELACIONES = __REL__;
   const TIPOS = __TIPO__;
   const DECISIONES = __DEC__;
+  const PRODUCTOS_SECTOR = __PROD__;
   const BATCH = 50;
 
   const norm = s => (s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
@@ -566,38 +644,63 @@ TEMPLATE = r"""<!doctype html>
   const cont = el('bm-resultados'), scroll = el('bm-scroll'), countEl = el('bm-count');
   const selSec = new Set(), selRel = new Set(), selTipo = new Set();
 
-  let filtered = [], rendered = 0;
+  // ---- Búsqueda avanzada por producto ----
+  const prodGroup = el('bm-prod-group'), prodSectorSel = el('bm-prod-sector');
+  const prodList = el('bm-prod-list'), prodSelWrap = el('bm-prod-sel');
+  const selProd = new Set(); // productos tildados (tal cual vienen del Excel)
 
-  // desplegable de decisiones (articulo de la ley). El value es la clave
-  // normalizada del grupo (norm) y el texto es la variante mas frecuente; asi el
-  // desplegable agrupa opciones que solo difieren en may/min, acentos o espacios.
-  DECISIONES.forEach(([k, label, n]) => {
+  el('bm-prod-toggle').addEventListener('click', () => prodGroup.classList.toggle('open'));
+
+  Object.keys(PRODUCTOS_SECTOR).sort().forEach(sector => {
     const o = document.createElement('option');
-    o.value = k; o.textContent = label + '  (' + n + ')';
-    decI.appendChild(o);
+    o.value = sector; o.textContent = sector + ' (' + PRODUCTOS_SECTOR[sector].length + ')';
+    prodSectorSel.appendChild(o);
   });
 
-  // chips de TIPO (categoria unica por expediente)
-  TIPOS.forEach(([t, n]) => {
-    const c = document.createElement('span');
-    c.className = 'bm-chip tipo'; c.textContent = t + ' (' + n + ')';
-    c.onclick = () => { c.classList.toggle('on'); selTipo.has(t)?selTipo.delete(t):selTipo.add(t); render(); };
-    el('bm-tipos').appendChild(c);
-  });
+  function renderProdList(){
+    const sector = prodSectorSel.value;
+    prodList.innerHTML = '';
+    if(!sector){
+      prodList.innerHTML = '<span class="bm-prod-empty">Elegí primero un mercado para ver sus productos.</span>';
+      return;
+    }
+    const items = PRODUCTOS_SECTOR[sector] || [];
+    if(!items.length){
+      prodList.innerHTML = '<span class="bm-prod-empty">Este mercado no tiene productos definidos.</span>';
+      return;
+    }
+    items.forEach(prod => {
+      const lab = document.createElement('label');
+      lab.className = 'bm-prod-chk' + (selProd.has(prod) ? ' checked' : '');
+      const cb = document.createElement('input');
+      cb.type = 'checkbox'; cb.checked = selProd.has(prod);
+      cb.addEventListener('change', () => {
+        if(cb.checked) selProd.add(prod); else selProd.delete(prod);
+        lab.classList.toggle('checked', cb.checked);
+        renderProdSel(); render();
+      });
+      lab.appendChild(cb);
+      lab.appendChild(document.createTextNode(prod));
+      prodList.appendChild(lab);
+    });
+  }
 
-  // chips
-  SECTORES.forEach(s => {
-    const c = document.createElement('span');
-    c.className = 'bm-chip'; c.textContent = s;
-    c.onclick = () => { c.classList.toggle('on'); selSec.has(s)?selSec.delete(s):selSec.add(s); render(); };
-    el('bm-sectores').appendChild(c);
-  });
-  RELACIONES.forEach(s => {
-    const c = document.createElement('span');
-    c.className = 'bm-chip rel'; c.textContent = s;
-    c.onclick = () => { c.classList.toggle('on'); selRel.has(s)?selRel.delete(s):selRel.add(s); render(); };
-    el('bm-relaciones').appendChild(c);
-  });
+  function renderProdSel(){
+    prodSelWrap.innerHTML = '';
+    selProd.forEach(prod => {
+      const c = document.createElement('span');
+      c.className = 'bm-chip on';
+      c.textContent = prod + ' ✕';
+      c.title = 'Quitar producto de la búsqueda avanzada';
+      c.onclick = () => {
+        selProd.delete(prod);
+        renderProdSel(); renderProdList(); render();
+      };
+      prodSelWrap.appendChild(c);
+    });
+  }
+
+  prodSectorSel.addEventListener('change', renderProdList);
 
   function toInt(dstr){ return dstr ? parseInt(dstr.replace(/-/g,''),10) : 0; }
 
@@ -631,6 +734,7 @@ TEMPLATE = r"""<!doctype html>
       if(selTipo.size && !selTipo.has(r.tipo_cat)) return false;
       if(selSec.size && !r.sectores.some(s=>selSec.has(s))) return false;
       if(selRel.size && !r.rel_tags.some(x=>selRel.has(x))) return false;
+      if(selProd.size && !(r.productos||[]).some(p => selProd.has(p))) return false;
       if((dDesde || dHasta) && !r.fsort) return false;
       if(dDesde && r.fsort < dDesde) return false;
       if(dHasta && r.fsort > dHasta) return false;
@@ -745,6 +849,39 @@ TEMPLATE = r"""<!doctype html>
     updateMore();
   }
 
+  let filtered = [], rendered = 0;
+
+  // desplegable de decisiones (articulo de la ley). El value es la clave
+  // normalizada del grupo (norm) y el texto es la variante mas frecuente; asi el
+  // desplegable agrupa opciones que solo difieren en may/min, acentos o espacios.
+  DECISIONES.forEach(([k, label, n]) => {
+    const o = document.createElement('option');
+    o.value = k; o.textContent = label + '  (' + n + ')';
+    decI.appendChild(o);
+  });
+
+  // chips de TIPO (categoria unica por expediente)
+  TIPOS.forEach(([t, n]) => {
+    const c = document.createElement('span');
+    c.className = 'bm-chip tipo'; c.textContent = t + ' (' + n + ')';
+    c.onclick = () => { c.classList.toggle('on'); selTipo.has(t)?selTipo.delete(t):selTipo.add(t); render(); };
+    el('bm-tipos').appendChild(c);
+  });
+
+  // chips
+  SECTORES.forEach(s => {
+    const c = document.createElement('span');
+    c.className = 'bm-chip'; c.textContent = s;
+    c.onclick = () => { c.classList.toggle('on'); selSec.has(s)?selSec.delete(s):selSec.add(s); render(); };
+    el('bm-sectores').appendChild(c);
+  });
+  RELACIONES.forEach(s => {
+    const c = document.createElement('span');
+    c.className = 'bm-chip rel'; c.textContent = s;
+    c.onclick = () => { c.classList.toggle('on'); selRel.has(s)?selRel.delete(s):selRel.add(s); render(); };
+    el('bm-relaciones').appendChild(c);
+  });
+
   // resalta "Limpiar filtros" y muestra cuántos filtros hay activos
   function updateResetState(){
     let n = 0;
@@ -753,7 +890,7 @@ TEMPLATE = r"""<!doctype html>
     if(decI.value) n++;
     if(desdeI.value) n++;
     if(hastaI.value) n++;
-    n += selTipo.size + selSec.size + selRel.size;
+    n += selTipo.size + selSec.size + selRel.size + selProd.size;
     el('bm-reset').classList.toggle('active', n > 0);
     const nEl = el('bm-reset-n');
     if(nEl) nEl.textContent = n > 0 ? ' (' + n + ')' : '';
@@ -784,7 +921,9 @@ TEMPLATE = r"""<!doctype html>
   el('bm-reset').addEventListener('click', () => {
     q.value=''; empI.value=''; decI.value=''; desdeI.value=''; hastaI.value=''; ordenI.value='desc';
     selSec.clear(); selRel.clear(); selTipo.clear();
+    selProd.clear(); prodSectorSel.value='';
     document.querySelectorAll('.bm-chip.on').forEach(c=>c.classList.remove('on'));
+    renderProdList(); renderProdSel();
     render();
   });
 

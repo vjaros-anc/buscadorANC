@@ -1,0 +1,1752 @@
+from pathlib import Path
+
+out = Path("/mnt/data")
+p1 = out / "protocolo_01_radar_concentraciones_sin_api.qmd"
+p2 = out / "protocolo_02_radar_concentraciones_ia_bajo_costo.qmd"
+
+protocol_1 = r'''---
+title: "Protocolo 01 — Radar de Concentraciones Económicas sin API paga"
+subtitle: "Especificación técnica para implementación en VS Code / Codex"
+author: "Vladimir Jaroszewski"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+    code-fold: true
+execute:
+  echo: true
+  warning: false
+  message: false
+lang: es
+---
+
+# 1. Objetivo
+
+Construir un sistema local, ejecutable desde VS Code en Windows, para detectar, consolidar, investigar y priorizar operaciones de concentración económica con posible vínculo con Argentina, con costo monetario de uso igual o cercano a cero.
+
+El sistema debe identificar, entre otras:
+
+- fusiones;
+- adquisiciones de empresas;
+- adquisiciones de activos;
+- compras de participaciones;
+- cambios de control;
+- joint ventures;
+- tomas de control conjunto;
+- suscripciones de acciones que alteren el control;
+- reorganizaciones societarias con potencial efecto de control;
+- farm-ins, cesiones de concesiones o activos productivos cuando puedan constituir una concentración.
+
+El propósito no es determinar automáticamente si una operación debió ser notificada. El sistema debe funcionar como **radar de screening** y producir una lista de casos para revisión humana.
+
+# 2. Principios de diseño
+
+El sistema debe cumplir los siguientes principios:
+
+1. **Costo cero de modelos de IA:** no usar APIs pagas de modelos de lenguaje.
+2. **Ejecución local:** Python + SQLite + archivos CSV/Excel.
+3. **Trazabilidad:** toda afirmación relevante debe conservar la URL y la fuente original.
+4. **No duplicación:** varias noticias sobre la misma operación deben consolidarse en un único caso.
+5. **Separación entre hechos y evaluación:** distinguir datos observados de reglas de screening.
+6. **Prudencia regulatoria:** “no encontrada en el Registro ANC” nunca debe transformarse automáticamente en “no notificada”.
+7. **Reproducibilidad:** las reglas de inclusión, exclusión y prioridad deben quedar parametrizadas.
+8. **Revisión humana:** ningún caso debe cerrarse de forma definitiva sin intervención del analista.
+
+# 3. Entorno de ejecución
+
+El proyecto debe estar preparado para:
+
+- Windows 10/11.
+- VS Code.
+- Python 3.11 o 3.12.
+- Entorno virtual `.venv`.
+- PowerShell como terminal principal.
+
+Comandos esperados:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+python main.py
+```
+
+El sistema también debe poder ejecutarse por módulos:
+
+```powershell
+python main.py recolectar
+python main.py detectar
+python main.py deduplicar
+python main.py enriquecer
+python main.py comprobar-anc
+python main.py priorizar
+python main.py reporte
+```
+
+# 4. Arquitectura general
+
+```text
+Fuentes públicas
+    ↓
+Recolector
+    ↓
+Base de noticias crudas
+    ↓
+Filtro de candidatos
+    ↓
+Normalización de empresas
+    ↓
+Deduplicación por operación
+    ↓
+Enriquecimiento local
+    ↓
+Comprobación en Registro ANC
+    ↓
+Scoring / priorización
+    ↓
+Bandeja de revisión humana
+    ↓
+Reporte quincenal
+```
+
+# 5. Estructura del proyecto
+
+```text
+radar_concentraciones/
+│
+├── .venv/
+├── config/
+│   ├── fuentes.yaml
+│   ├── keywords.yaml
+│   ├── reglas.yaml
+│   ├── empresas_argentina.csv
+│   ├── alias_empresas.csv
+│   └── sectores.csv
+│
+├── data/
+│   ├── radar.db
+│   ├── raw/
+│   ├── processed/
+│   └── exports/
+│
+├── src/
+│   ├── collectors/
+│   │   ├── rss.py
+│   │   ├── html.py
+│   │   ├── cnv.py
+│   │   └── argentina_gob.py
+│   ├── detection/
+│   │   ├── keyword_filter.py
+│   │   ├── entity_rules.py
+│   │   └── transaction_rules.py
+│   ├── normalization/
+│   │   ├── companies.py
+│   │   └── text.py
+│   ├── dedup/
+│   │   └── deduplicator.py
+│   ├── enrichment/
+│   │   ├── argentina_presence.py
+│   │   ├── corporate_history.py
+│   │   └── transaction_status.py
+│   ├── anc/
+│   │   ├── registry_search.py
+│   │   └── name_variants.py
+│   ├── scoring/
+│   │   └── prioritizer.py
+│   ├── reports/
+│   │   ├── excel_report.py
+│   │   └── qmd_report.py
+│   └── utils/
+│       ├── logging.py
+│       └── dates.py
+│
+├── tests/
+│   ├── test_lim_crownpoint.py
+│   ├── test_dedup.py
+│   └── test_anc_search.py
+│
+├── logs/
+├── main.py
+├── requirements.txt
+└── README.md
+```
+
+# 6. Dependencias permitidas
+
+Priorizar librerías gratuitas y estables:
+
+```text
+pandas
+requests
+beautifulsoup4
+feedparser
+lxml
+rapidfuzz
+pyyaml
+openpyxl
+python-dateutil
+tenacity
+```
+
+`sqlite3` forma parte de la biblioteca estándar de Python.
+
+Opcionales:
+
+```text
+trafilatura
+newspaper3k
+playwright
+```
+
+Playwright debe utilizarse solo si una fuente no puede ser consultada razonablemente con `requests`.
+
+# 7. Fuentes
+
+El archivo `config/fuentes.yaml` debe permitir agregar o quitar fuentes sin modificar código.
+
+Ejemplo:
+
+```yaml
+fuentes:
+  - nombre: Ambito
+    tipo: rss
+    prioridad: alta
+    activo: true
+
+  - nombre: Infobae Economia
+    tipo: rss
+    prioridad: alta
+    activo: true
+
+  - nombre: CNV
+    tipo: html
+    prioridad: muy_alta
+    activo: true
+
+  - nombre: Registro ANC
+    tipo: registro
+    prioridad: obligatoria
+    activo: true
+    url: "https://www.argentina.gob.ar/defensadelacompetencia/registro-nacional/registro-de-operaciones-de-concentracion-economica-notificadas"
+```
+
+Tipos de fuentes a contemplar:
+
+- prensa económica argentina;
+- prensa internacional;
+- medios especializados en M&A;
+- medios especializados en defensa de la competencia;
+- comunicados corporativos;
+- CNV;
+- sitios de bolsas;
+- sitios de estudios jurídicos;
+- autoridades de competencia extranjeras;
+- sitios sectoriales de energía, minería, finanzas, tecnología, salud, alimentos, telecomunicaciones, etc.
+
+# 8. Palabras clave
+
+El archivo `keywords.yaml` debe separar palabras por categoría.
+
+Ejemplo:
+
+```yaml
+adquisicion:
+  - adquiere
+  - adquirió
+  - adquisición
+  - compra
+  - compró
+  - to acquire
+  - acquires
+  - acquired
+  - acquisition
+  - buys
+
+control:
+  - toma el control
+  - controlante
+  - cambio de control
+  - participación de control
+  - majority stake
+  - controlling stake
+
+joint_venture:
+  - joint venture
+  - empresa conjunta
+  - control conjunto
+
+activos:
+  - compra de activos
+  - adquisición de activos
+  - activos estratégicos
+  - concesiones
+  - planta industrial
+  - unidad de negocio
+
+estado:
+  - anunció
+  - signed
+  - agreement
+  - cerró
+  - completed
+  - closing
+  - pending closing
+```
+
+# 9. Base de datos
+
+Usar SQLite.
+
+## 9.1 Tabla `news_raw`
+
+Campos mínimos:
+
+```text
+id_news
+source
+source_type
+title
+url
+published_at
+detected_at
+raw_text
+content_hash
+processed
+```
+
+## 9.2 Tabla `operations`
+
+Campos mínimos:
+
+```text
+id_operation
+first_detected_at
+last_updated_at
+operation_date
+buyer
+target
+seller
+buyer_group
+target_group
+percentage_before
+percentage_after
+transaction_type
+control_change
+sector
+subsector
+country
+argentina_link
+argentina_link_description
+transaction_status
+primary_source
+source_count
+anc_status
+anc_case_number
+anc_checked_at
+priority
+review_status
+analyst_notes
+```
+
+## 9.3 Tabla `operation_sources`
+
+```text
+id
+id_operation
+source
+url
+published_at
+title
+reliability_level
+```
+
+## 9.4 Tabla `company_aliases`
+
+```text
+canonical_name
+alias
+country
+group_name
+argentina_presence
+notes
+```
+
+# 10. Detección inicial
+
+Primera etapa: aplicar filtros determinísticos.
+
+Una noticia es candidata si:
+
+- contiene al menos una palabra clave de transacción; y
+- contiene una o más entidades empresarias potenciales; o
+- proviene de una fuente regulatoria/corporativa prioritaria.
+
+Ejemplo conceptual:
+
+```python
+def is_candidate(text, keywords):
+    t = text.lower()
+    return any(k.lower() in t for k in keywords)
+```
+
+No descartar automáticamente una noticia solo porque no contenga “Argentina”.
+
+# 11. Nexo con Argentina
+
+La detección de vínculo argentino debe considerar:
+
+1. Mención explícita de Argentina.
+2. Subsidiarias argentinas.
+3. Activos ubicados en Argentina.
+4. Concesiones o licencias en Argentina.
+5. Ventas o actividad comercial relevante en Argentina.
+6. Comprador o target perteneciente a un grupo con presencia local.
+7. Operación global entre empresas que tengan actividad local.
+8. Operaciones en sectores especialmente sensibles a activos físicos o concesiones locales.
+
+Debe existir una tabla local:
+
+`config/empresas_argentina.csv`
+
+Ejemplo:
+
+```csv
+empresa,grupo,presencia_argentina,sector,alias
+Crown Point Energy,Crown Point,1,Oil & Gas,Crown Point Energia
+Carmeuse,Carmeuse,1,Materiales,
+Constellation Software,Constellation Software,1,Software,Vesta Software
+```
+
+# 12. Normalización de nombres
+
+El sistema debe convertir variantes a un nombre canónico.
+
+Ejemplo:
+
+```text
+Crown Point Energy Inc.
+Crown Point Energy
+Crown Point Energía
+CPE
+```
+
+→
+
+```text
+CROWN POINT ENERGY
+```
+
+Usar:
+
+- limpieza de sufijos legales;
+- minúsculas/mayúsculas;
+- eliminación de signos;
+- tabla de alias;
+- RapidFuzz para coincidencias aproximadas.
+
+No fusionar empresas solo por similitud de nombre si existe ambigüedad.
+
+# 13. Deduplicación
+
+Objetivo: diez noticias sobre la misma operación deben convertirse en un único caso.
+
+Variables relevantes para la deduplicación:
+
+- buyer;
+- target;
+- seller;
+- fecha;
+- sector;
+- porcentaje;
+- tipo de operación.
+
+Reglas sugeridas:
+
+```text
+buyer similar + target similar + fecha ± 30 días
+```
+
+= probable misma operación.
+
+Usar una combinación de:
+
+- coincidencia exacta;
+- aliases;
+- fuzzy matching;
+- similitud de títulos;
+- ventana temporal.
+
+Toda fusión automática debe registrar un `dedup_score`.
+
+Si el score está debajo del umbral, dejar como “posible duplicado” para revisión.
+
+# 14. Enriquecimiento
+
+Una vez identificado un candidato, el programa debe:
+
+1. buscar otras fuentes sobre la misma operación;
+2. priorizar fuentes primarias;
+3. registrar porcentaje adquirido;
+4. identificar participación previa;
+5. identificar vendedor;
+6. identificar estado de la transacción;
+7. identificar activos argentinos;
+8. registrar antecedentes relacionados.
+
+Fuentes primarias preferidas:
+
+1. CNV;
+2. comunicado de comprador;
+3. comunicado de target;
+4. bolsa de valores;
+5. autoridad regulatoria;
+6. documento societario.
+
+Luego fuentes secundarias.
+
+# 15. Estados de operación
+
+Valores estándar:
+
+```text
+RUMOR
+ANUNCIADA
+ACUERDO_FIRMADO
+PENDIENTE_CIERRE
+CERRADA
+EJECUTADA
+DESISTIDA
+INDETERMINADA
+```
+
+No mezclar “anunciada” con “cerrada”.
+
+# 16. Comprobación obligatoria en Registro ANC
+
+URL base:
+
+```text
+https://www.argentina.gob.ar/defensadelacompetencia/registro-nacional/registro-de-operaciones-de-concentracion-economica-notificadas
+```
+
+Para cada operación candidata se deben generar variantes de búsqueda.
+
+Ejemplo Liminar/Crown Point:
+
+```text
+Liminar
+Liminar Energía
+Crown Point
+Crown Point Energy
+Crown Point Energía
+Liminar Crown Point
+```
+
+La función debe devolver uno de:
+
+```text
+MATCH_CONFIRMADO
+MATCH_POSIBLE
+NO_ENCONTRADA
+ERROR_CONSULTA
+REVISION_MANUAL
+```
+
+Nunca usar el texto:
+
+```text
+NO NOTIFICADA
+```
+
+como salida automática.
+
+Texto estándar de reporte:
+
+> No se identificó una coincidencia en el Registro público de operaciones de concentración económica notificadas consultado en la fecha indicada.
+
+# 17. Priorización
+
+No debe intentar reemplazar el análisis jurídico o económico.
+
+Propuesta de score inicial:
+
+```python
+score = 0
+
+if control_change:
+    score += 3
+
+if argentina_link == "directo":
+    score += 3
+
+if argentina_link == "indirecto":
+    score += 2
+
+if transaction_status in ["CERRADA", "EJECUTADA"]:
+    score += 2
+
+if transaction_status in ["ACUERDO_FIRMADO", "PENDIENTE_CIERRE"]:
+    score += 1
+
+if target_has_argentine_assets:
+    score += 2
+
+if buyer_and_target_have_argentina_presence:
+    score += 2
+
+if anc_status == "NO_ENCONTRADA":
+    score += 2
+
+if source_is_primary:
+    score += 1
+```
+
+Clasificación:
+
+```text
+0–3   BAJA
+4–6   MEDIA
+7+    ALTA
+```
+
+Los umbrales deben estar en `config/reglas.yaml`.
+
+# 18. Bandeja de investigación
+
+Exportar:
+
+```text
+data/exports/casos_para_revision.xlsx
+```
+
+Columnas recomendadas:
+
+```text
+Prioridad
+Fecha
+Adquirente
+Target
+Vendedor
+Tipo
+% antes
+% después
+Estado
+Sector
+Nexo Argentina
+Descripción del nexo
+Registro ANC
+Posible expediente
+Fuente principal
+Número de fuentes
+URL
+Observaciones
+```
+
+# 19. Reporte quincenal
+
+Generar automáticamente:
+
+```text
+data/exports/reporte_YYYY-MM-DD.qmd
+data/exports/reporte_YYYY-MM-DD.xlsx
+```
+
+Secciones:
+
+1. Resumen ejecutivo.
+2. Nuevas operaciones.
+3. Casos de prioridad alta.
+4. Casos con coincidencia en ANC.
+5. Casos sin coincidencia identificada.
+6. Operaciones pendientes de cierre.
+7. Posibles duplicados.
+8. Casos descartados y motivo.
+9. Fuentes consultadas.
+10. Errores de scraping o fuentes inaccesibles.
+
+# 20. Caso de prueba obligatorio: Liminar Energía / Crown Point
+
+El sistema debe incluir un test construido sobre el ejemplo real aportado por el usuario.
+
+Hechos esperados:
+
+```text
+buyer = Liminar Energía
+target = Crown Point Energy
+percentage_after = 91.04
+transaction_type = cambio/adquisición de control
+sector = petróleo y gas
+argentina_link = directo
+transaction_status = cerrada/ejecutada
+```
+
+El material de referencia indica que Liminar pasó a controlar 91,04% del capital de Crown Point Energy mediante la suscripción de nuevas acciones, y que Crown Point mantiene operaciones en Argentina.
+
+El test debe comprobar:
+
+1. Que varias notas sobre la operación no generen múltiples casos.
+2. Que “Crown Point Energy”, “Crown Point Energía” y variantes se reconozcan como la misma empresa.
+3. Que se detecte adquisición/cambio de control.
+4. Que se detecte vínculo directo con Argentina.
+5. Que se genere una consulta al Registro ANC usando varias variantes.
+6. Que el sistema no concluya automáticamente “no notificada”.
+7. Que se incorporen operaciones antecedentes como contexto y no como duplicados del cambio de control 2026.
+
+# 21. Historial de operaciones por grupo
+
+El sistema debe permitir consultar:
+
+```text
+Empresa / Grupo
+    ├── Operación 2024
+    ├── Operación 2025
+    └── Operación 2026
+```
+
+Esto permite detectar patrones de adquisición.
+
+Crear tabla:
+
+```text
+corporate_history
+```
+
+con:
+
+```text
+company
+related_operation_id
+date
+transaction_type
+notes
+```
+
+# 22. Automatización local
+
+Una vez estable, ejecutar diariamente mediante Windows Task Scheduler.
+
+Ejemplo:
+
+```powershell
+cd "C:\ruta\radar_concentraciones"
+.\.venv\Scripts\python.exe main.py recolectar
+```
+
+Luego:
+
+```powershell
+.\.venv\Scripts\python.exe main.py pipeline
+```
+
+La ejecución diaria no debe requerir que VS Code esté abierto.
+
+# 23. Logs
+
+Crear:
+
+```text
+logs/radar_YYYY-MM-DD.log
+```
+
+Registrar:
+
+- fuente;
+- fecha;
+- número de noticias;
+- errores HTTP;
+- duplicados;
+- candidatos;
+- nuevos casos;
+- resultados ANC;
+- duración.
+
+# 24. Manejo de errores
+
+El pipeline no debe detenerse porque una fuente falle.
+
+Ejemplo:
+
+```python
+try:
+    collect_source(source)
+except Exception as e:
+    log_error(source, e)
+    continue
+```
+
+Implementar reintentos para HTTP 429, 500, 502, 503 y 504.
+
+# 25. Reglas de scraping
+
+- respetar robots.txt cuando corresponda;
+- establecer `User-Agent`;
+- limitar frecuencia;
+- cachear páginas;
+- no descargar repetidamente contenido idéntico;
+- preferir RSS y endpoints estructurados antes que scraping HTML.
+
+# 26. Criterios de aceptación
+
+El proyecto se considera funcional cuando:
+
+- puede ejecutarse desde VS Code;
+- crea automáticamente `radar.db`;
+- recolecta fuentes configuradas;
+- detecta noticias candidatas;
+- elimina duplicados;
+- agrupa múltiples fuentes por operación;
+- reconoce aliases;
+- asigna nexo argentino;
+- consulta el Registro ANC;
+- diferencia `NO_ENCONTRADA` de `NO_NOTIFICADA`;
+- produce Excel;
+- produce reporte Quarto;
+- guarda logs;
+- supera el test Liminar/Crown Point.
+
+# 27. Entregables solicitados a Codex
+
+Codex debe generar:
+
+1. estructura completa del proyecto;
+2. `requirements.txt`;
+3. `README.md`;
+4. base SQLite y migración inicial;
+5. archivos de configuración de ejemplo;
+6. colectores;
+7. deduplicador;
+8. normalizador;
+9. módulo ANC;
+10. scoring;
+11. exportación Excel;
+12. reporte `.qmd`;
+13. tests;
+14. instrucciones de Windows Task Scheduler.
+
+# 28. Restricciones explícitas
+
+Codex NO debe:
+
+- incorporar APIs pagas;
+- depender de servicios cloud obligatorios;
+- guardar secretos en el repositorio;
+- afirmar jurídicamente que una operación debió notificarse;
+- afirmar que una operación no fue notificada solo porque no aparece en el registro;
+- eliminar casos dudosos sin conservar trazabilidad;
+- reemplazar una fuente primaria por una secundaria si la primaria está disponible.
+
+# 29. Evolución futura
+
+La arquitectura debe permitir añadir posteriormente:
+
+- un módulo LLM opcional;
+- Google Sheets;
+- dashboards;
+- redes de grupos económicos;
+- extracción avanzada de sociedades;
+- detección de control indirecto;
+- análisis de operaciones históricas;
+- integración con bases internas, siempre que exista autorización para ello.
+'''
+
+protocol_2 = r'''---
+title: "Protocolo 02 — Radar de Concentraciones Económicas con IA de bajo costo"
+subtitle: "Especificación técnica para implementación en VS Code / Codex con presupuesto máximo de US$2–5 mensuales"
+author: "Vladimir Jaroszewski"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+    code-fold: true
+execute:
+  echo: true
+  warning: false
+  message: false
+lang: es
+---
+
+# 1. Objetivo
+
+Construir una versión híbrida del Radar de Concentraciones Económicas que utilice el mismo núcleo local del Protocolo 01, pero incorpore modelos de lenguaje únicamente en etapas de alto valor agregado.
+
+El gasto total de IA debe mantenerse dentro de un presupuesto configurable, con tope mensual duro de entre **US$2 y US$5**.
+
+La IA no se debe utilizar para:
+
+- descargar noticias;
+- leer RSS;
+- guardar URLs;
+- realizar tareas mecánicas;
+- buscar duplicados evidentes;
+- consultar diariamente fuentes completas.
+
+La IA se debe reservar para:
+
+- extraer datos complejos desde textos ya filtrados;
+- interpretar estructuras de transacción;
+- distinguir adquisición de control de operaciones ambiguas;
+- resumir múltiples fuentes;
+- identificar nexo argentino indirecto;
+- generar variantes societarias;
+- priorizar casos dudosos.
+
+# 2. Principio central
+
+El pipeline debe ser:
+
+```text
+2.000 noticias
+    ↓ reglas locales
+200 candidatas
+    ↓ deduplicación local
+60 operaciones
+    ↓ nexo argentino local
+15–25 candidatas relevantes
+    ↓ IA solo cuando agrega valor
+5–15 análisis LLM
+    ↓
+revisión humana
+```
+
+Nunca enviar el universo completo de noticias al modelo.
+
+# 3. Arquitectura
+
+```text
+Fuentes públicas
+    ↓
+Recolector local
+    ↓
+Filtros locales
+    ↓
+Normalización local
+    ↓
+Deduplicación local
+    ↓
+Pre-screening argentino local
+    ↓
+┌───────────────────────────────┐
+│ ¿Caso suficientemente claro?  │
+└───────────────────────────────┘
+       ↓ sí              ↓ no
+ reglas locales       módulo IA
+       ↓                 ↓
+       └───────┬─────────┘
+               ↓
+       Registro ANC
+               ↓
+        scoring final
+               ↓
+       revisión humana
+```
+
+# 4. Relación con Protocolo 01
+
+Este protocolo no debe crear un proyecto distinto.
+
+Debe reutilizar el mismo repositorio y añadir:
+
+```text
+src/
+└── ai/
+    ├── client.py
+    ├── extractor.py
+    ├── transaction_classifier.py
+    ├── argentina_link.py
+    ├── summarizer.py
+    ├── budget.py
+    └── prompts.py
+```
+
+Modos de ejecución:
+
+```powershell
+python main.py --mode local
+```
+
+y:
+
+```powershell
+python main.py --mode ai
+```
+
+El modo `ai` debe degradar automáticamente a `local` cuando se alcance el presupuesto.
+
+# 5. Presupuesto
+
+Configurar en:
+
+```text
+config/ai_budget.yaml
+```
+
+Ejemplo:
+
+```yaml
+monthly_budget_usd: 3.00
+hard_limit_usd: 5.00
+warning_threshold_usd: 2.50
+max_calls_per_day: 20
+max_calls_per_operation: 2
+```
+
+El sistema debe registrar:
+
+```text
+fecha
+modelo
+operacion
+tokens_input
+tokens_output
+costo_estimado
+costo_acumulado_mes
+```
+
+Crear tabla:
+
+```text
+ai_usage
+```
+
+# 6. Corte duro de gasto
+
+Antes de cualquier llamada:
+
+```python
+if monthly_spend >= hard_limit:
+    return local_fallback()
+```
+
+Nunca permitir una llamada si el costo máximo estimado puede superar el límite.
+
+Ejemplo conceptual:
+
+```python
+remaining = hard_limit - monthly_spend
+
+if estimated_call_cost > remaining:
+    skip_ai_call = True
+```
+
+# 7. Estrategia para minimizar tokens
+
+## 7.1 No enviar HTML completo
+
+Extraer primero localmente:
+
+- título;
+- fecha;
+- párrafos relevantes;
+- nombres;
+- fragmentos que contienen keywords.
+
+## 7.2 Limitar contexto
+
+Máximo recomendado por operación:
+
+```text
+Fuente 1: 1.500–2.500 caracteres
+Fuente 2: 1.000–2.000 caracteres
+Fuente 3: solo si aporta algo nuevo
+```
+
+## 7.3 Resumen incremental
+
+Si hay 10 fuentes:
+
+```text
+10 fuentes
+↓ ranking local por confiabilidad
+3 fuentes
+↓
+LLM
+```
+
+## 7.4 Cache
+
+El mismo texto nunca debe analizarse dos veces.
+
+Hash:
+
+```python
+sha256(normalized_text)
+```
+
+Guardar respuesta en:
+
+```text
+ai_cache
+```
+
+# 8. Cuándo usar IA
+
+Crear función:
+
+```python
+needs_ai(operation)
+```
+
+IA se usa solo si ocurre alguna de estas condiciones:
+
+- comprador o target no se identifican con reglas;
+- existen más de dos empresas y la estructura es ambigua;
+- hay participaciones antes/después complejas;
+- posible adquisición indirecta;
+- posible control conjunto;
+- joint venture;
+- farm-in;
+- emisión/suscripción de acciones;
+- reorganización societaria;
+- no está claro si existe cambio de control;
+- Argentina no aparece explícitamente, pero existen señales indirectas;
+- fuentes contradictorias;
+- múltiples operaciones relacionadas en un mismo artículo;
+- resultado de deduplicación ambiguo.
+
+No usar IA si:
+
+```text
+“Empresa A adquirió 100% de Empresa B”
+```
+
+está explícito y el parser local lo resolvió con alta confianza.
+
+# 9. Salida estructurada de IA
+
+La IA debe responder siempre en JSON validable.
+
+Schema conceptual:
+
+```json
+{
+  "buyer": "",
+  "target": "",
+  "seller": "",
+  "transaction_type": "",
+  "percentage_before": null,
+  "percentage_after": null,
+  "control_change": null,
+  "transaction_status": "",
+  "operation_date": "",
+  "sector": "",
+  "argentina_link": "",
+  "argentina_link_reason": "",
+  "confidence": 0.0,
+  "needs_human_review": true,
+  "uncertainties": []
+}
+```
+
+Validar con Pydantic.
+
+Si falla:
+
+```text
+retry una sola vez
+```
+
+Luego:
+
+```text
+REVISION_MANUAL
+```
+
+# 10. Prompt de extracción
+
+Prompt mínimo recomendado:
+
+```text
+Sos un extractor estructurado de operaciones de concentración económica.
+
+A partir exclusivamente del texto provisto:
+1. identificá comprador, target y vendedor;
+2. porcentaje antes y después si aparece;
+3. clasificá la operación;
+4. indicá si el texto describe un cambio de control;
+5. indicá estado de la operación;
+6. identificá vínculo con Argentina;
+7. explicitá incertidumbres.
+
+No determines obligación legal de notificar.
+No inventes datos.
+Devolvé únicamente JSON válido.
+```
+
+# 11. Clasificación de operación
+
+Valores posibles:
+
+```text
+ACQUISITION_COMPANY
+ACQUISITION_ASSETS
+SHARE_ACQUISITION
+MERGER
+JOINT_VENTURE
+CONTROL_CHANGE
+JOINT_CONTROL
+FARM_IN
+CAPITAL_INCREASE
+CORPORATE_REORGANIZATION
+OTHER
+UNKNOWN
+```
+
+# 12. Clasificación de control
+
+Valores:
+
+```text
+YES
+NO
+POSSIBLE
+UNKNOWN
+```
+
+La IA no debe emitir una conclusión jurídica final.
+
+Ejemplo:
+
+```text
+control_change = POSSIBLE
+reason = "la participación sube de 35% a 51%"
+```
+
+# 13. Fuentes y confiabilidad
+
+Cada fuente debe tener un nivel:
+
+```text
+5 = regulatoria / filing / CNV
+4 = comunicado corporativo
+3 = medio económico reconocido
+2 = medio sectorial
+1 = agregador / fuente débil
+```
+
+El contexto enviado a IA debe priorizar 5 → 4 → 3.
+
+# 14. Detección de contradicciones
+
+Ejemplo:
+
+```text
+Fuente A: 80%
+Fuente B: 85%
+```
+
+El sistema debe marcar:
+
+```text
+CONFLICT
+```
+
+y no elegir automáticamente una cifra salvo que exista fuente primaria.
+
+# 15. Registro ANC
+
+La consulta al registro se realiza localmente igual que en Protocolo 01.
+
+La IA puede ayudar únicamente a generar variantes societarias.
+
+Ejemplo:
+
+```json
+[
+  "Liminar",
+  "Liminar Energía",
+  "Crown Point",
+  "Crown Point Energy",
+  "Crown Point Energía"
+]
+```
+
+La búsqueda real debe ser realizada por código.
+
+Resultados permitidos:
+
+```text
+MATCH_CONFIRMADO
+MATCH_POSIBLE
+NO_ENCONTRADA
+ERROR_CONSULTA
+REVISION_MANUAL
+```
+
+Prohibido concluir automáticamente:
+
+```text
+NO NOTIFICADA
+```
+
+# 16. Verificación temporal
+
+Guardar siempre:
+
+```text
+anc_checked_at
+```
+
+porque el registro puede actualizarse con posterioridad.
+
+Una operación puede pasar de:
+
+```text
+NO_ENCONTRADA
+```
+
+a:
+
+```text
+MATCH_CONFIRMADO
+```
+
+en una ejecución futura.
+
+# 17. Watchlist de operaciones
+
+Si una operación está:
+
+```text
+ANUNCIADA
+ACUERDO_FIRMADO
+PENDIENTE_CIERRE
+```
+
+debe quedar en:
+
+```text
+watchlist
+```
+
+y ser revisada en ejecuciones posteriores sin nueva llamada a IA salvo que aparezca información material nueva.
+
+# 18. Watchlist de empresas
+
+Mantener:
+
+```text
+company_watchlist
+```
+
+para grupos con historial de adquisiciones.
+
+Campos:
+
+```text
+company
+group
+sector
+argentina_presence
+last_operation
+operation_count_24m
+priority
+```
+
+# 19. Caso obligatorio Liminar / Crown Point
+
+Usar como regression test.
+
+Datos esperados:
+
+```text
+buyer = Liminar Energía
+target = Crown Point Energy
+percentage_after = 91.04
+transaction_type = CONTROL_CHANGE o SHARE_ACQUISITION
+control_change = YES
+sector = Oil & Gas
+argentina_link = DIRECT
+```
+
+El documento de referencia muestra:
+
+- adquisición/consolidación de 91,04%;
+- suscripción de nuevas acciones;
+- operación comunicada a CNV;
+- actividad de Crown Point en Argentina;
+- antecedentes de compra de concesiones.
+
+La IA debe:
+
+1. distinguir la capitalización 2026 de las adquisiciones de activos 2025;
+2. no mezclar ambas como una única transacción;
+3. reconocer su relación histórica;
+4. identificar la toma de control como el evento principal de 2026;
+5. generar variantes correctas para consulta ANC.
+
+# 20. Prompt para análisis de casos ambiguos
+
+```text
+Analizá exclusivamente la estructura de la transacción descripta.
+
+Objetivo:
+determinar si el texto aporta señales de:
+- adquisición de control;
+- control conjunto;
+- compra minoritaria;
+- adquisición de activos;
+- JV;
+- reorganización interna.
+
+No evalúes obligación legal de notificar.
+No concluyas sobre infracciones.
+Indicá hechos, inferencias y dudas por separado.
+
+Devolvé JSON.
+```
+
+# 21. Scoring híbrido
+
+El score base sigue siendo local.
+
+La IA solo puede añadir:
+
+```text
+ai_confidence
+ai_control_signal
+ai_argentina_signal
+```
+
+Ejemplo:
+
+```python
+if ai_control_signal == "strong":
+    score += 2
+
+if ai_argentina_signal == "strong":
+    score += 2
+```
+
+Pero estos valores nunca sustituyen una regla objetiva basada en hechos.
+
+# 22. Revisión humana
+
+Cada caso debe mostrar:
+
+```text
+HECHOS
+INFERENCIAS AUTOMÁTICAS
+RESULTADO ANC
+INCERTIDUMBRES
+FUENTES
+```
+
+No presentar inferencia como hecho.
+
+# 23. Informe quincenal
+
+Reporte esperado:
+
+```text
+Radar de Concentraciones
+Período: 1–15 septiembre
+
+Nuevas operaciones detectadas: 22
+Con nexo argentino: 11
+Alta prioridad: 5
+Encontradas en ANC: 3
+Sin coincidencia identificada: 5
+Pendientes de cierre: 3
+Revisión manual: 2
+Costo IA acumulado del mes: US$ 0,84
+```
+
+# 24. Dashboard de costos
+
+Exportar:
+
+```text
+data/exports/ai_usage.xlsx
+```
+
+Columnas:
+
+```text
+date
+operation
+model
+input_tokens
+output_tokens
+estimated_cost
+monthly_total
+```
+
+# 25. Alertas de presupuesto
+
+A 80%:
+
+```text
+ADVERTENCIA
+```
+
+A 100%:
+
+```text
+AI_DISABLED_FOR_MONTH
+```
+
+El pipeline debe seguir funcionando en modo local.
+
+# 26. Política de reanálisis
+
+No volver a gastar IA cuando:
+
+- operación ya analizada;
+- texto idéntico;
+- solo cambia un artículo duplicado;
+- fuente nueva no agrega información.
+
+Sí reanalizar cuando:
+
+- se confirma cierre;
+- cambia porcentaje;
+- aparece nuevo comprador;
+- se identifica nuevo target;
+- aparece una fuente primaria;
+- cambia control;
+- se detecta activo argentino nuevo.
+
+# 27. Modelos
+
+El código no debe quedar atado a un único proveedor.
+
+Crear interfaz:
+
+```python
+class LLMClient:
+    def extract(...)
+    def classify(...)
+    def summarize(...)
+```
+
+Permitir proveedores intercambiables.
+
+La selección concreta del modelo debe configurarse en `.env` o YAML.
+
+# 28. Variables de entorno
+
+`.env.example`:
+
+```text
+AI_PROVIDER=
+AI_API_KEY=
+AI_MODEL=
+MONTHLY_BUDGET_USD=3.00
+HARD_LIMIT_USD=5.00
+```
+
+`.env` debe estar en `.gitignore`.
+
+# 29. Seguridad
+
+No enviar a APIs externas:
+
+- información confidencial ANC;
+- F0/F1 internos;
+- documentos no públicos;
+- expedientes internos;
+- datos personales no necesarios.
+
+El módulo IA debe trabajar únicamente con información pública salvo autorización específica.
+
+# 30. Scheduler
+
+La captura puede correr diariamente sin IA.
+
+Ejemplo:
+
+```text
+08:00 recolectar
+08:10 detectar
+08:15 deduplicar
+08:20 enriquecer localmente
+```
+
+La IA puede ejecutarse:
+
+```text
+1 vez por día
+```
+
+solo sobre candidatos no resueltos.
+
+El reporte:
+
+```text
+1 y 15 de cada mes
+```
+
+# 31. Comandos
+
+```powershell
+python main.py pipeline --mode local
+```
+
+```powershell
+python main.py pipeline --mode ai
+```
+
+```powershell
+python main.py reporte
+```
+
+```powershell
+python main.py costos
+```
+
+```powershell
+python main.py revisar-watchlist
+```
+
+# 32. Criterios de aceptación
+
+El sistema híbrido se considera aprobado si:
+
+- funciona completamente sin IA cuando la API está desactivada;
+- usa IA solo en casos ambiguos;
+- registra cada llamada;
+- calcula gasto;
+- corta automáticamente al superar presupuesto;
+- tiene cache;
+- no reanaliza casos innecesariamente;
+- conserva trazabilidad;
+- diferencia hechos e inferencias;
+- consulta ANC de forma local;
+- produce Excel y Quarto;
+- supera el test Liminar/Crown Point;
+- puede ejecutarse desde VS Code;
+- puede automatizarse con Windows Task Scheduler.
+
+# 33. Meta económica
+
+Objetivo normal:
+
+```text
+US$ 0,50–2,00 / mes
+```
+
+Tope operativo:
+
+```text
+US$ 5 / mes
+```
+
+Si el sistema necesita más gasto para funcionar, el diseño debe considerarse incorrecto y revisarse.
+
+# 34. Orden recomendado de implementación
+
+## Fase 1
+
+Implementar completo Protocolo 01.
+
+## Fase 2
+
+Añadir:
+
+- `ai/budget.py`;
+- `ai/client.py`;
+- cache;
+- logging de tokens y costo.
+
+## Fase 3
+
+Añadir solo extracción estructurada.
+
+## Fase 4
+
+Añadir clasificación de operaciones ambiguas.
+
+## Fase 5
+
+Evaluar si el módulo de nexo argentino con IA realmente mejora resultados.
+
+No añadir nuevas llamadas de IA sin demostrar mejora respecto al sistema local.
+
+# 35. Entregables solicitados a Codex
+
+Codex debe generar:
+
+1. integración completa con Protocolo 01;
+2. abstracción de proveedor de IA;
+3. control presupuestario;
+4. cache;
+5. schemas Pydantic;
+6. prompts;
+7. módulo de extracción;
+8. módulo de clasificación;
+9. logging de uso;
+10. dashboard de costos;
+11. tests de presupuesto;
+12. tests de cache;
+13. test Liminar/Crown Point;
+14. README actualizado;
+15. ejemplo `.env.example`.
+
+# 36. Restricciones explícitas
+
+Codex NO debe:
+
+- enviar todas las noticias al modelo;
+- usar IA en tareas resolubles localmente;
+- llamar al modelo sin registrar costo;
+- superar el presupuesto;
+- enviar documentos internos/confidenciales;
+- convertir “NO_ENCONTRADA” en “NO_NOTIFICADA”;
+- cerrar automáticamente casos jurídicamente ambiguos;
+- inventar facts faltantes;
+- usar resultados del modelo sin validar JSON;
+- eliminar la posibilidad de funcionamiento 100% local.
+
+# 37. Resultado esperado
+
+El producto final debe ser un único Radar de Concentraciones con dos modos:
+
+```text
+LOCAL
+```
+
+Costo:
+
+```text
+US$ 0
+```
+
+y
+
+```text
+AI
+```
+
+Costo esperado:
+
+```text
+US$ 0,50–2 / mes
+```
+
+tope:
+
+```text
+US$ 5 / mes
+```
+
+Ambos deben compartir:
+
+- fuentes;
+- base SQLite;
+- normalización;
+- deduplicación;
+- historial;
+- Registro ANC;
+- scoring;
+- reportes;
+- tests;
+- interfaz de revisión.
+'''
+
+p1.write_text(protocol_1, encoding="utf-8")
+p2.write_text(protocol_2, encoding="utf-8")
+
+print(str(p1))
+print(str(p2))

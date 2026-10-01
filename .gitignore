@@ -1,0 +1,39 @@
+# --- Secretos: NUNCA versionar ---
+api_key.txt
+*api_key*
+.env
+*.key
+secrets*
+
+# --- Salidas del pipeline OPI ---
+pdf/lectura_opi/opi_segmentado.jsonl
+pdf/lectura_opi/opi_extraido.jsonl
+pdf/lectura_opi/*.xlsx
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+.venv-*/
+
+# --- Salidas de extraer_empresas_ia.py ---
+empresas_ia_segmentado.jsonl
+empresas_ia.jsonl
+empresas_ia_reporte.txt
+respaldos/
+
+# --- Insumos internos: el repo es publico (GitHub Pages) ---
+# Res_firmadas.xlsm trae la hoja evol_conc con expedientes SIN firmar.
+Res_firmadas.xlsm
+cotejo_buscador_vs_res_firmadas.xlsx
+conc_sin_empresas.csv
+
+# --- Intermedios del circuito mensual ---
+firmadas3.xlsx
+*_no_extraibles.txt
+listado_archivos*.xlsx
+viejas/
+
+# --- Salidas de unificar_maestro.py (uso unico) ---
+firm_unificado.xlsx
+unificacion_reporte.txt
