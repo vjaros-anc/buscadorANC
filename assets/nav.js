@@ -97,8 +97,17 @@
     }
     var act = inner.querySelector('[aria-current="page"]');
     if (act && inner.scrollWidth > inner.clientWidth) {
-      var r = act.getBoundingClientRect(), b = inner.getBoundingClientRect();
-      if (r.right > b.right - 36) inner.scrollLeft += r.right - b.right + 36;
+      var b = inner.getBoundingClientRect(), r = act.getBoundingClientRect();
+      var x = r.right - b.right + 36;                       // cuanto correr para ver entera la seccion activa
+      if (x > 0) {
+        var pad = parseFloat(getComputedStyle(inner).paddingLeft) || 0;
+        var tope = r.left - b.left - pad;                   // sin pasarse de la seccion activa
+        for (var i = 0; i < inner.children.length; i++) {   // y empezar justo en el borde de un item: nada cortado a la izquierda
+          var left = inner.children[i].getBoundingClientRect().left - b.left - pad;
+          if (left >= x && left <= tope) { x = left + pad; break; }
+        }
+        inner.scrollLeft = x;
+      }
     }
     inner.addEventListener('scroll', more, { passive: true });
     window.addEventListener('resize', more);

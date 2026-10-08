@@ -127,6 +127,7 @@ body.anc {
 }
 .anc-legend { display: flex; flex-wrap: wrap; gap: .25rem 1.1rem; font-size: .82rem; color: var(--anc-ink2); margin: .1rem 0 .5rem; }
 .anc-legend:empty { display: none; }
+.anc-empty { margin: .4rem 0 .2rem; padding: 1.1rem 0; color: var(--anc-ink2); font-size: .88rem; }
 .anc-legend span { white-space: nowrap; }
 @media (max-width: 480px) { .anc-legend span { white-space: normal; } }
 .anc-legend b { color: var(--anc-ink); font-weight: 600; }
@@ -184,6 +185,21 @@ body.anc {
 .anc-table th, .anc-table td { padding: .32rem .55rem; border-bottom: 1px solid var(--anc-grid); text-align: left; }
 .anc-table th { font-weight: 600; color: var(--anc-ink2); background: #f4f3ef; }
 .anc-table td.num, .anc-table th.num { text-align: right; font-variant-numeric: tabular-nums; }
+
+/* ---------- filtros ---------- */
+.anc-filters {
+  display: flex; flex-wrap: wrap; align-items: flex-end; gap: .6rem .9rem;
+  background: var(--anc-surface); border: 1px solid var(--anc-border); border-radius: 10px; padding: .75rem .9rem;
+}
+.anc-field { display: flex; flex-direction: column; gap: .25rem; font-size: .78rem; font-weight: 600; color: var(--anc-ink2); min-width: 0; }
+.anc-field select, .anc-field input {
+  font: inherit; font-size: .9rem; font-weight: 400; color: var(--anc-ink); background: #fff; max-width: 100%;
+  min-height: 38px; padding: .4rem .55rem; border: 1px solid var(--anc-axis); border-radius: 6px;
+}
+.anc-field-wide { flex: 1 1 220px; }
+.anc-filters .anc-btn { min-height: 38px; }
+.anc-filter-status { margin: .5rem 0 0; font-size: .85rem; color: var(--anc-ink2); min-height: 1.3em; }
+@media (max-width: 560px) { .anc-field { flex: 1 1 100%; } .anc-field select, .anc-field input { width: 100%; } }
 
 /* ---------- avisos, etiquetas y botones ---------- */
 .anc-banner {

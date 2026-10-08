@@ -6,6 +6,8 @@
      · leyenda siempre que haya 2 o más series, con el total de cada una (etiquetas visibles),
      · tooltip en hover Y en foco de teclado, y una vista en tabla equivalente de cada gráfico.
    Los textos de los datos entran siempre con textContent (nunca con innerHTML).
+   Se puede volver a llamar sobre el mismo contenedor (por ejemplo al cambiar un filtro): suelta el observador
+   anterior y conserva si el gráfico estaba en vista de tabla. Sin datos muestra spec.emptyMsg en vez de ejes vacíos.
 
    API:  ANCCharts.stackedColumns(host, spec)   columnas apiladas por categoría
          ANCCharts.lines(host, spec)            líneas con puntos (valores null = sin dato)
@@ -69,8 +71,11 @@
 
   /* ---------- figura base: título, leyenda, escenario, tooltip y vista en tabla ---------- */
   function makeFigure(host, spec) {
+    var prev = host._anc;
+    if (prev && prev.stopObserving) prev.stopObserving();
     host.textContent = '';
-    var b = { spec: spec };
+    var b = { spec: spec, tableOn: !!(prev && prev.tableOn) };
+    host._anc = b;
     b.btn = h('button', { type: 'button', class: 'anc-btn-link', 'aria-pressed': 'false' }, ['Ver como tabla']);
     b.legend = h('div', { class: 'anc-legend' });
     b.stage = h('div', { class: 'anc-stage' });
@@ -89,16 +94,23 @@
       spec.note ? h('p', { class: 'anc-fig-n' }, [spec.note]) : null
     ]);
     host.appendChild(b.fig);
-    b.btn.addEventListener('click', function () {
-      var on = b.btn.getAttribute('aria-pressed') !== 'true';
+    function setView(on) {
+      b.tableOn = on;
       b.btn.setAttribute('aria-pressed', on ? 'true' : 'false');
       b.btn.textContent = on ? 'Ver gráfico' : 'Ver como tabla';
       b.plot.hidden = on;
       b.legend.hidden = on;
       b.tablewrap.hidden = !on;
       hideTip(b);
-    });
+      if (!on && b.redraw) b.redraw();   // se dibujó (o cambió el ancho) mientras estaba oculto
+    }
+    b.btn.addEventListener('click', function () { setView(!b.tableOn); });
+    if (b.tableOn) setView(true);
     return b;
+  }
+
+  function empty(b, spec) {
+    b.stage.appendChild(h('p', { class: 'anc-empty' }, [spec.emptyMsg || 'Sin datos para esta selección.']));
   }
 
   function setTable(b, caption, headers, rows) {
@@ -155,8 +167,15 @@
       last = w;
       draw(w);
     }
-    if (typeof ResizeObserver !== 'undefined') new ResizeObserver(run).observe(b.stage);
-    else global.addEventListener('resize', run);
+    b.redraw = function () { last = -1; run(); };
+    if (typeof ResizeObserver !== 'undefined') {
+      var ro = new ResizeObserver(run);
+      ro.observe(b.stage);
+      b.stopObserving = function () { ro.disconnect(); };
+    } else {
+      global.addEventListener('resize', run);
+      b.stopObserving = function () { global.removeEventListener('resize', run); };
+    }
     run();
   }
 
@@ -181,8 +200,9 @@
     var seriesTotal = series.map(function (se) {
       return se.values.reduce(function (a, v) { return a + (v || 0); }, 0);
     });
+    var vacio = !totals.some(function (t) { return t > 0; });
 
-    series.forEach(function (se, k) {
+    if (!vacio) series.forEach(function (se, k) {
       b.legend.appendChild(h('span', null, [
         h('i', { class: 'anc-sw', style: 'background:' + se.color }), se.label + ' ', h('b', null, [fmt(seriesTotal[k])])
       ]));
@@ -192,6 +212,7 @@
       cats.map(function (_, i) {
         return [names[i]].concat(series.map(function (se) { return se.values[i] || 0; }), [totals[i]]);
       }));
+    if (vacio) { empty(b, spec); return b; }
 
     function draw(W) {
       var H = spec.height || 300, m = { l: 42, r: 6, t: 24, b: 28 };
@@ -257,8 +278,11 @@
     var b = makeFigure(host, spec);
     var cats = spec.categories, series = spec.series, n = cats.length;
     var suf = spec.valueSuffix || '';
+    var vacio = !series.some(function (se) {
+      return se.values.some(function (v) { return v !== null && v !== undefined; });
+    });
 
-    series.forEach(function (se) {
+    if (!vacio) series.forEach(function (se) {
       b.legend.appendChild(h('span', null, [
         h('i', { class: 'anc-sw line', style: 'background:' + se.color }), se.label,
         se.legendExtra ? h('b', null, [' ' + se.legendExtra]) : null
@@ -273,6 +297,7 @@
           return fmt(se.values[i]) + suf + (nn ? ' (n = ' + nn + ')' : '');
         }));
       }));
+    if (vacio) { empty(b, spec); return b; }
 
     function draw(W) {
       var H = spec.height || 280, m = { l: 42, r: 44, t: 14, b: 28 };
@@ -347,10 +372,11 @@
   }
 
   /* ---------- barras horizontales (categorías nominales: una sola serie, un solo color) ----------
-     spec: { title, subtitle, note, items:[{ label, value, pct, muted, note }], unit, tableHeaders } */
+     spec: { title, subtitle, note, items:[{ label, value, pct, muted, note }], unit, pctLabel ('del total'), emptyMsg, tableHeaders } */
   function hbars(host, spec) {
     var b = makeFigure(host, spec);
     var items = spec.items;
+    if (!items.length) { empty(b, spec); return b; }
     var max = Math.max.apply(null, items.map(function (it) { return it.value; }).concat([1]));
     var list = h('div', { class: 'anc-hb', role: 'list' });
     // en la barra: sin decimales, salvo que el porcentaje sea menor a 1 %; en tooltip y tabla: 1 decimal
@@ -369,7 +395,7 @@
       ]);
       function enter(cx, cy) {
         var rows = [tipTitle(it.label), tipRow(it.muted ? 'var(--anc-other)' : 'var(--anc-s1)', fmt(it.value), spec.unit || '')];
-        if (it.pct !== undefined && it.pct !== null) rows.push(tipRow(null, pct(it.pct, decTip(it)), 'del total'));
+        if (it.pct !== undefined && it.pct !== null) rows.push(tipRow(null, pct(it.pct, decTip(it)), spec.pctLabel || 'del total'));
         if (it.note) rows.push(tipNote(it.note));
         showTip(b, rows, cx, cy);
       }

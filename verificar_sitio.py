@@ -27,6 +27,7 @@ from __future__ import annotations
 
 import argparse
 import fnmatch
+import hashlib
 import json
 import os
 import re
@@ -102,6 +103,21 @@ def _destino(raiz: Path, pagina: Path, ref: str):
     return rel
 
 
+def huella_corpus(registros) -> str:
+    """Huella de un corpus del buscador: (carpeta, fecha de firma, decision) de cada expediente, en orden.
+    No depende del resto del HTML: sirve para saber si data/conc.json corresponde al index.html publicado."""
+    h = hashlib.sha256()
+    for r in registros:
+        h.update(("%s|%s|%s\n" % (r.get("carpeta") or "", r.get("fsort") or "", r.get("decision") or "")).encode("utf-8"))
+    return h.hexdigest()
+
+
+def corpus_del_buscador(index_html: Path):
+    """Registros embebidos en <script id="bm-data"> de un index.html del buscador (None si no se encuentran)."""
+    m = re.search(r'<script id="bm-data"[^>]*>(.*?)</script>', index_html.read_text(encoding="utf-8"), re.S)
+    return json.loads(m.group(1)) if m else None
+
+
 def archivos_publicables(raiz: Path):
     """Archivos que se publicarian. Si es un repo git, los versionados; si no, todo lo que hay."""
     try:
@@ -175,6 +191,23 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False):
                 continue
             if not isinstance(obj, dict) or "schema_version" not in obj:
                 err("%s/%s: falta schema_version" % (carpeta, f.name))
+
+    # 3b. el tablero (data/conc.json y conc/index.html) corresponde al index.html publicado del buscador
+    conc, idx = raiz / "data" / "conc.json", raiz / "index.html"
+    if conc.exists() and idx.exists():
+        try:
+            d = json.loads(conc.read_text(encoding="utf-8"))
+            corpus = corpus_del_buscador(idx)
+            huella = (d.get("corpus") or {}).get("huella")
+            if len(d.get("detalle") or []) != d.get("registros"):
+                err("data/conc.json: 'detalle' no tiene tantas filas como 'registros'")
+            if corpus is not None and huella != huella_corpus(corpus):
+                avi("data/conc.json no corresponde al index.html publicado (otro corpus): correr 'python -B generar_tablero.py'")
+            pagina = raiz / "conc" / "index.html"
+            if huella and pagina.exists() and huella not in pagina.read_text(encoding="utf-8"):
+                avi("conc/index.html no corresponde a data/conc.json: correr 'python -B generar_tablero.py'")
+        except ValueError:
+            pass  # el JSON invalido ya se informo en el punto 3
 
     # 4. demo del monitor: marcada como ejemplo y sin datos reales
     for f in raiz.glob("**/monitor*.json"):
