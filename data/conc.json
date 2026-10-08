@@ -1,0 +1,453 @@
+{
+ "schema_version": 1,
+ "generado": "2026-10-08",
+ "fuente": "firm.xlsx (hoja 1) vía generar_pagina.build_records()",
+ "registros": 1045,
+ "firmas": {
+  "primera": "2016-11-14",
+  "ultima": "2026-08-31",
+  "con_fecha": 992,
+  "sin_fecha": 53,
+  "anio_parcial": true
+ },
+ "por_tipo": {
+  "Conc. ordinaria": 813,
+  "OPI": 98,
+  "PROSUM": 128,
+  "Conc. condicionada": 2,
+  "Otros": 4
+ },
+ "kpi": {
+  "pct_decision": 71.4,
+  "pct_empresas": 87.3,
+  "mediana_dias": 313,
+  "n_dias": 566,
+  "cobertura_dias_pct": 54.2
+ },
+ "anio_tipo": {
+  "categorias": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025",
+   "2026*",
+   "s/f"
+  ],
+  "nombres": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025",
+   "2026 (parcial: hasta 31/08/2026)",
+   "Sin fecha de firma"
+  ],
+  "series": [
+   {
+    "clave": "ordinaria",
+    "nombre": "Conc. ordinaria",
+    "valores": [
+     22,
+     210,
+     162,
+     86,
+     40,
+     54,
+     50,
+     28,
+     38,
+     48,
+     28,
+     47
+    ]
+   },
+   {
+    "clave": "prosum",
+    "nombre": "PROSUM",
+    "valores": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     56,
+     26,
+     46,
+     0
+    ]
+   },
+   {
+    "clave": "opi",
+    "nombre": "OPI",
+    "valores": [
+     0,
+     1,
+     4,
+     19,
+     9,
+     10,
+     2,
+     11,
+     14,
+     15,
+     7,
+     6
+    ]
+   },
+   {
+    "clave": "otros",
+    "nombre": "Otros (condicionadas, incidentes)",
+    "valores": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     5,
+     0
+    ]
+   }
+  ]
+ },
+ "decisiones": {
+  "grupos": [
+   {
+    "grupo": "Autoriza",
+    "n": 704,
+    "pct": 67.4,
+    "regla": "«Autoriza», Art. 13 a) Ley 25.156, Art. 14 a) Ley 27.442 o disposición PROSUM que autoriza.",
+    "sin_dato": false
+   },
+   {
+    "grupo": "Autoriza con multa",
+    "n": 8,
+    "pct": 0.8,
+    "regla": "Lo anterior, con multa (Art. 55 inc. d Ley 27.442 / Art. 46 inc. d Ley 25.156).",
+    "sin_dato": false
+   },
+   {
+    "grupo": "Subordina",
+    "n": 8,
+    "pct": 0.8,
+    "regla": "«Subordina», Art. 13 b) Ley 25.156 o Art. 14 b) Ley 27.442.",
+    "sin_dato": false
+   },
+   {
+    "grupo": "No sujeta a notificación",
+    "n": 7,
+    "pct": 0.7,
+    "regla": "«No sujeta a notificación».",
+    "sin_dato": false
+   },
+   {
+    "grupo": "Art. 10, primer párrafo",
+    "n": 6,
+    "pct": 0.6,
+    "regla": "Resoluciones del Art. 10, primer párrafo, Ley 27.442 (incluye «no notificar» y «ordena notificar»).",
+    "sin_dato": false
+   },
+   {
+    "grupo": "Incidentes y disposiciones",
+    "n": 5,
+    "pct": 0.5,
+    "regla": "Disposiciones TDC (Arts. 66 y 67) e incidentes dentro de una concentración.",
+    "sin_dato": false
+   },
+   {
+    "grupo": "Arts. 7 y 9",
+    "n": 4,
+    "pct": 0.4,
+    "regla": "Resoluciones sobre los Arts. 7 y 9 Ley 27.442 y «sujeta a notificación».",
+    "sin_dato": false
+   },
+   {
+    "grupo": "Archivo",
+    "n": 4,
+    "pct": 0.4,
+    "regla": "Cualquier texto que diga «archivo».",
+    "sin_dato": false
+   },
+   {
+    "grupo": "Sin dato",
+    "n": 299,
+    "pct": 28.6,
+    "regla": "Celda de decisión vacía en el Excel.",
+    "sin_dato": true
+   }
+  ],
+  "variantes_texto": 39
+ },
+ "sectores": {
+  "items": [
+   {
+    "sector": "Hidrocarburos (petroleo y gas)",
+    "n": 128,
+    "pct": 12.2,
+    "sin_dato": false
+   },
+   {
+    "sector": "Agroindustria, granos y semillas",
+    "n": 76,
+    "pct": 7.3,
+    "sin_dato": false
+   },
+   {
+    "sector": "Alimentos y bebidas",
+    "n": 71,
+    "pct": 6.8,
+    "sin_dato": false
+   },
+   {
+    "sector": "Energia electrica",
+    "n": 63,
+    "pct": 6.0,
+    "sin_dato": false
+   },
+   {
+    "sector": "Construccion y materiales",
+    "n": 61,
+    "pct": 5.8,
+    "sin_dato": false
+   },
+   {
+    "sector": "Salud y farmaceutico",
+    "n": 60,
+    "pct": 5.7,
+    "sin_dato": false
+   },
+   {
+    "sector": "Tecnologia y telecomunicaciones",
+    "n": 56,
+    "pct": 5.4,
+    "sin_dato": false
+   },
+   {
+    "sector": "Servicios financieros y seguros",
+    "n": 50,
+    "pct": 4.8,
+    "sin_dato": false
+   },
+   {
+    "sector": "Quimica, cosmetica y limpieza",
+    "n": 47,
+    "pct": 4.5,
+    "sin_dato": false
+   },
+   {
+    "sector": "Audiovisual, medios y entretenimiento",
+    "n": 46,
+    "pct": 4.4,
+    "sin_dato": false
+   },
+   {
+    "sector": "Inmobiliario, retail y shoppings",
+    "n": 45,
+    "pct": 4.3,
+    "sin_dato": false
+   },
+   {
+    "sector": "Logistica y transporte",
+    "n": 42,
+    "pct": 4.0,
+    "sin_dato": false
+   },
+   {
+    "sector": "Otros / sin clasificar",
+    "n": 406,
+    "pct": 38.9,
+    "sin_dato": true
+   }
+  ],
+  "total_sectores": 28,
+  "top": 12
+ },
+ "relaciones": [
+  {
+   "relacion": "Horizontal",
+   "n": 286,
+   "pct": 27.4,
+   "sin_dato": false
+  },
+  {
+   "relacion": "Vertical",
+   "n": 217,
+   "pct": 20.8,
+   "sin_dato": false
+  },
+  {
+   "relacion": "Conglomerado",
+   "n": 146,
+   "pct": 14.0,
+   "sin_dato": false
+  },
+  {
+   "relacion": "Efectos de cartera",
+   "n": 4,
+   "pct": 0.4,
+   "sin_dato": false
+  },
+  {
+   "relacion": "Sin dato",
+   "n": 548,
+   "pct": 52.4,
+   "sin_dato": true
+  }
+ ],
+ "tiempos": {
+  "anios": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025",
+   "2026*"
+  ],
+  "series": [
+   {
+    "clave": "ordinaria",
+    "nombre": "Conc. ordinaria",
+    "valores": [
+     null,
+     321,
+     375,
+     308,
+     449,
+     260,
+     306,
+     296,
+     422,
+     503,
+     335
+    ],
+    "n": [
+     3,
+     56,
+     81,
+     48,
+     27,
+     45,
+     39,
+     25,
+     35,
+     24,
+     28
+    ],
+    "n_total": 411,
+    "mediana_total": 348
+   },
+   {
+    "clave": "prosum",
+    "nombre": "PROSUM",
+    "valores": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     325,
+     190,
+     71
+    ],
+    "n": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     56,
+     26,
+     46
+    ],
+    "n_total": 128,
+    "mediana_total": 175
+   }
+  ],
+  "min_n": 5,
+  "mediana_global": 313,
+  "n_global": 566,
+  "cobertura_pct": 54.2,
+  "descartados_no_positivos": 0
+ },
+ "cobertura": [
+  {
+   "campo": "Número de resolución",
+   "n": 1031,
+   "pct": 98.7
+  },
+  {
+   "campo": "PDF enlazado",
+   "n": 1014,
+   "pct": 97.0
+  },
+  {
+   "campo": "Fecha de firma",
+   "n": 992,
+   "pct": 94.9
+  },
+  {
+   "campo": "Número de dictamen",
+   "n": 950,
+   "pct": 90.9
+  },
+  {
+   "campo": "Empresas involucradas",
+   "n": 912,
+   "pct": 87.3
+  },
+  {
+   "campo": "Decisión",
+   "n": 746,
+   "pct": 71.4
+  },
+  {
+   "campo": "Grupo / empresa",
+   "n": 723,
+   "pct": 69.2
+  },
+  {
+   "campo": "Mercado relevante",
+   "n": 623,
+   "pct": 59.6
+  },
+  {
+   "campo": "Fecha de ingreso",
+   "n": 591,
+   "pct": 56.6
+  },
+  {
+   "campo": "Relaciones económicas",
+   "n": 498,
+   "pct": 47.7
+  }
+ ]
+}

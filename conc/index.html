@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Estadísticas de concentraciones — Herramientas ANC</title>
+<meta name="description" content="Estadísticas agregadas de las resoluciones, dictámenes y opiniones consultivas publicados: firmas por año, decisiones, sectores y tiempos de trámite.">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="../assets/anc.css">
+</head>
+<body class="anc">
+<div id="anc-nav"></div>
+<header class="anc-head"><div class="anc-head-in">
+  <h1>Estadísticas de concentraciones</h1>
+  <p class="anc-lead">Resoluciones, dictámenes y opiniones consultivas del <a href="../">Buscador de Mercados Relevantes</a>, contados
+  sobre el mismo maestro de datos. Todo es agregado: no se muestran nombres de empresas. Los datos llegan hasta el
+  <b id="hasta"></b>.</p>
+</div></header>
+
+<main class="anc-main">
+  <section class="anc-section" aria-label="Indicadores"><div class="anc-tiles" id="tiles"></div></section>
+  <section class="anc-section"><div class="anc-card" id="ch-anio"></div></section>
+  <section class="anc-section anc-grid2"><div class="anc-card" id="ch-dec"></div><div class="anc-card" id="ch-sec"></div></section>
+  <section class="anc-section"><div class="anc-card" id="ch-tiempos"></div></section>
+  <section class="anc-section anc-grid2"><div class="anc-card" id="ch-rel"></div><div class="anc-card" id="ch-cob"></div></section>
+  <section class="anc-section">
+    <h2>Notas metodológicas</h2>
+    <div class="anc-card anc-note" id="notas"></div>
+  </section>
+  <p class="anc-foot" id="pie"></p>
+</main>
+
+<script id="anc-data" type="application/json">{"schema_version":1,"generado":"2026-10-08","fuente":"firm.xlsx (hoja 1) vía generar_pagina.build_records()","registros":1045,"firmas":{"primera":"2016-11-14","ultima":"2026-08-31","con_fecha":992,"sin_fecha":53,"anio_parcial":true},"por_tipo":{"Conc. ordinaria":813,"OPI":98,"PROSUM":128,"Conc. condicionada":2,"Otros":4},"kpi":{"pct_decision":71.4,"pct_empresas":87.3,"mediana_dias":313,"n_dias":566,"cobertura_dias_pct":54.2},"anio_tipo":{"categorias":["2016","2017","2018","2019","2020","2021","2022","2023","2024","2025","2026*","s/f"],"nombres":["2016","2017","2018","2019","2020","2021","2022","2023","2024","2025","2026 (parcial: hasta 31/08/2026)","Sin fecha de firma"],"series":[{"clave":"ordinaria","nombre":"Conc. ordinaria","valores":[22,210,162,86,40,54,50,28,38,48,28,47]},{"clave":"prosum","nombre":"PROSUM","valores":[0,0,0,0,0,0,0,0,56,26,46,0]},{"clave":"opi","nombre":"OPI","valores":[0,1,4,19,9,10,2,11,14,15,7,6]},{"clave":"otros","nombre":"Otros (condicionadas, incidentes)","valores":[0,0,0,0,0,0,0,0,0,1,5,0]}]},"decisiones":{"grupos":[{"grupo":"Autoriza","n":704,"pct":67.4,"regla":"«Autoriza», Art. 13 a) Ley 25.156, Art. 14 a) Ley 27.442 o disposición PROSUM que autoriza.","sin_dato":false},{"grupo":"Autoriza con multa","n":8,"pct":0.8,"regla":"Lo anterior, con multa (Art. 55 inc. d Ley 27.442 / Art. 46 inc. d Ley 25.156).","sin_dato":false},{"grupo":"Subordina","n":8,"pct":0.8,"regla":"«Subordina», Art. 13 b) Ley 25.156 o Art. 14 b) Ley 27.442.","sin_dato":false},{"grupo":"No sujeta a notificación","n":7,"pct":0.7,"regla":"«No sujeta a notificación».","sin_dato":false},{"grupo":"Art. 10, primer párrafo","n":6,"pct":0.6,"regla":"Resoluciones del Art. 10, primer párrafo, Ley 27.442 (incluye «no notificar» y «ordena notificar»).","sin_dato":false},{"grupo":"Incidentes y disposiciones","n":5,"pct":0.5,"regla":"Disposiciones TDC (Arts. 66 y 67) e incidentes dentro de una concentración.","sin_dato":false},{"grupo":"Arts. 7 y 9","n":4,"pct":0.4,"regla":"Resoluciones sobre los Arts. 7 y 9 Ley 27.442 y «sujeta a notificación».","sin_dato":false},{"grupo":"Archivo","n":4,"pct":0.4,"regla":"Cualquier texto que diga «archivo».","sin_dato":false},{"grupo":"Sin dato","n":299,"pct":28.6,"regla":"Celda de decisión vacía en el Excel.","sin_dato":true}],"variantes_texto":39},"sectores":{"items":[{"sector":"Hidrocarburos (petroleo y gas)","n":128,"pct":12.2,"sin_dato":false},{"sector":"Agroindustria, granos y semillas","n":76,"pct":7.3,"sin_dato":false},{"sector":"Alimentos y bebidas","n":71,"pct":6.8,"sin_dato":false},{"sector":"Energia electrica","n":63,"pct":6.0,"sin_dato":false},{"sector":"Construccion y materiales","n":61,"pct":5.8,"sin_dato":false},{"sector":"Salud y farmaceutico","n":60,"pct":5.7,"sin_dato":false},{"sector":"Tecnologia y telecomunicaciones","n":56,"pct":5.4,"sin_dato":false},{"sector":"Servicios financieros y seguros","n":50,"pct":4.8,"sin_dato":false},{"sector":"Quimica, cosmetica y limpieza","n":47,"pct":4.5,"sin_dato":false},{"sector":"Audiovisual, medios y entretenimiento","n":46,"pct":4.4,"sin_dato":false},{"sector":"Inmobiliario, retail y shoppings","n":45,"pct":4.3,"sin_dato":false},{"sector":"Logistica y transporte","n":42,"pct":4.0,"sin_dato":false},{"sector":"Otros / sin clasificar","n":406,"pct":38.9,"sin_dato":true}],"total_sectores":28,"top":12},"relaciones":[{"relacion":"Horizontal","n":286,"pct":27.4,"sin_dato":false},{"relacion":"Vertical","n":217,"pct":20.8,"sin_dato":false},{"relacion":"Conglomerado","n":146,"pct":14.0,"sin_dato":false},{"relacion":"Efectos de cartera","n":4,"pct":0.4,"sin_dato":false},{"relacion":"Sin dato","n":548,"pct":52.4,"sin_dato":true}],"tiempos":{"anios":["2016","2017","2018","2019","2020","2021","2022","2023","2024","2025","2026*"],"series":[{"clave":"ordinaria","nombre":"Conc. ordinaria","valores":[null,321,375,308,449,260,306,296,422,503,335],"n":[3,56,81,48,27,45,39,25,35,24,28],"n_total":411,"mediana_total":348},{"clave":"prosum","nombre":"PROSUM","valores":[null,null,null,null,null,null,null,null,325,190,71],"n":[0,0,0,0,0,0,0,0,56,26,46],"n_total":128,"mediana_total":175}],"min_n":5,"mediana_global":313,"n_global":566,"cobertura_pct":54.2,"descartados_no_positivos":0},"cobertura":[{"campo":"Número de resolución","n":1031,"pct":98.7},{"campo":"PDF enlazado","n":1014,"pct":97.0},{"campo":"Fecha de firma","n":992,"pct":94.9},{"campo":"Número de dictamen","n":950,"pct":90.9},{"campo":"Empresas involucradas","n":912,"pct":87.3},{"campo":"Decisión","n":746,"pct":71.4},{"campo":"Grupo / empresa","n":723,"pct":69.2},{"campo":"Mercado relevante","n":623,"pct":59.6},{"campo":"Fecha de ingreso","n":591,"pct":56.6},{"campo":"Relaciones económicas","n":498,"pct":47.7}]}</script>
+<script src="../assets/charts.js"></script>
+<script src="../assets/nav.js" defer></script>
+<script>
+(function () {
+  var D = JSON.parse(document.getElementById('anc-data').textContent);
+  var A = window.ANCCharts, h = A.h, fmt = A.fmt, pct = A.pct;
+  var COLOR = { ordinaria: 'var(--anc-s1)', prosum: 'var(--anc-s2)', opi: 'var(--anc-s3)', otros: 'var(--anc-other)' };
+  function dmy(iso) { var p = iso.split('-'); return p[2] + '/' + p[1] + '/' + p[0]; }
+  function $(id) { return document.getElementById(id); }
+
+  $('hasta').textContent = dmy(D.firmas.ultima);
+
+  /* ---- indicadores ---- */
+  var t = D.por_tipo, otros = (t['Otros'] || 0) + (t['Conc. condicionada'] || 0) + (t['DP'] || 0);
+  var tiles = [
+    { hero: true, l: 'Expedientes en el buscador', v: fmt(D.registros),
+      n: fmt(t['Conc. ordinaria'] || 0) + ' ordinarias · ' + fmt(t['PROSUM'] || 0) + ' PROSUM · ' + fmt(t['OPI'] || 0) + ' OPI · ' + fmt(otros) + ' otros' },
+    { l: 'Con fecha de firma', v: fmt(D.firmas.con_fecha),
+      n: dmy(D.firmas.primera) + ' a ' + dmy(D.firmas.ultima) + ' · ' + fmt(D.firmas.sin_fecha) + ' sin fecha' },
+    { l: 'Con decisión cargada', v: pct(D.kpi.pct_decision), n: 'El resto figura como «Sin dato»' },
+    { l: 'Con empresas identificadas', v: pct(D.kpi.pct_empresas), n: 'Compradores u objeto' },
+    { l: 'Mediana ingreso → firma', v: fmt(D.kpi.mediana_dias) + ' días', n: 'n = ' + fmt(D.kpi.n_dias) + ' · cobertura ' + pct(D.kpi.cobertura_dias_pct) }
+  ];
+  tiles.forEach(function (x) {
+    $('tiles').appendChild(h('div', { class: 'anc-tile' + (x.hero ? ' hero' : '') }, [
+      h('div', { class: 'anc-tile-l' }, [x.l]), h('div', { class: 'anc-tile-v' }, [x.v]), h('div', { class: 'anc-tile-n' }, [x.n])]));
+  });
+
+  /* ---- firmas por año y tipo ---- */
+  A.stackedColumns($('ch-anio'), {
+    title: 'Firmas por año y tipo de expediente',
+    subtitle: 'Cantidad según la fecha de firma' + (D.firmas.anio_parcial ? '. El último año llega hasta el ' + dmy(D.firmas.ultima) + '.' : '.'),
+    categories: D.anio_tipo.categorias, catNames: D.anio_tipo.nombres, catHeader: 'Año de firma', unit: 'expedientes',
+    series: D.anio_tipo.series.map(function (s) { return { label: s.nombre, color: COLOR[s.clave], values: s.valores }; }),
+    note: 'PROSUM (procedimiento simplificado) aparece recién desde 2024. «s/f» agrupa los expedientes sin fecha de firma cargada.'
+  });
+
+  /* ---- decisiones ---- */
+  A.hbars($('ch-dec'), {
+    title: 'Decisiones', unit: 'expedientes',
+    subtitle: 'El texto libre de la columna Decisión (' + D.decisiones.variantes_texto + ' variantes) se agrupa en categorías; la celda vacía cuenta como «Sin dato».',
+    items: D.decisiones.grupos.map(function (g) {
+      return { label: g.grupo, value: g.n, pct: g.pct, muted: g.sin_dato, note: g.regla };
+    })
+  });
+
+  /* ---- sectores ---- */
+  A.hbars($('ch-sec'), {
+    title: 'Sectores', unit: 'expedientes',
+    subtitle: 'Un expediente puede figurar en más de un sector. Se muestran los ' + D.sectores.top + ' con más expedientes (el catálogo tiene ' + D.sectores.total_sectores + ').',
+    items: D.sectores.items.map(function (x) {
+      return { label: x.sector, value: x.n, pct: x.pct, muted: x.sin_dato, note: x.sin_dato ? 'Sin clasificar en el nomenclador de mercados.' : null };
+    })
+  });
+
+  /* ---- tiempos ---- */
+  var T = D.tiempos;
+  A.lines($('ch-tiempos'), {
+    title: 'Tiempo entre ingreso y firma',
+    subtitle: 'Mediana de días corridos según el año de firma. Solo se dibujan los años con ' + T.min_n + ' o más expedientes.',
+    categories: T.anios, catHeader: 'Año de firma', valueSuffix: ' d', height: 290,
+    series: T.series.map(function (s) {
+      return { label: s.nombre, color: COLOR[s.clave], values: s.valores, n: s.n,
+        legendExtra: s.mediana_total === null ? '' : '· mediana total ' + fmt(s.mediana_total) + ' d (n = ' + fmt(s.n_total) + ')' };
+    }),
+    note: 'No es el plazo legal ni descuenta suspensiones: resta la fecha de ingreso a la de firma tal como están cargadas. Solo ' +
+      pct(T.cobertura_pct) + ' de los expedientes tiene ambas fechas; en PROSUM, todos.'
+  });
+
+  /* ---- relaciones y cobertura ---- */
+  A.hbars($('ch-rel'), {
+    title: 'Relaciones económicas', unit: 'expedientes',
+    subtitle: 'Un expediente puede tener más de una relación. Cuando falta el dato queda «Sin dato».',
+    items: D.relaciones.map(function (x) { return { label: x.relacion, value: x.n, pct: x.pct, muted: x.sin_dato }; })
+  });
+  A.hbars($('ch-cob'), {
+    title: 'Cobertura de datos', unit: 'expedientes',
+    subtitle: 'Porcentaje de expedientes con cada campo cargado en el maestro.',
+    items: D.cobertura.map(function (x) { return { label: x.campo, value: x.n, pct: x.pct }; })
+  });
+
+  /* ---- notas ---- */
+  var notas = $('notas');
+  var ul = h('ul', null, [
+    h('li', null, ['Fuente: maestro ', h('code', null, ['firm.xlsx']), ' (' + fmt(D.registros) + ' expedientes publicados en el buscador). Generado el ' + dmy(D.generado) + '.']),
+    h('li', null, ['Los datos son los que están cargados: los campos vacíos se muestran como «Sin dato» o como cobertura, nunca se completan.']),
+    h('li', null, ['La clasificación por sector y por relación económica sale del nomenclador del buscador (automática); verificar siempre en el documento original.']),
+    h('li', null, ['«Tipo» sigue la columna del Excel: ordinarias, PROSUM, OPI y otros (condicionadas, incidentes). Los incidentes y disposiciones cuentan como expedientes propios.'])
+  ]);
+  notas.appendChild(ul);
+  var tbody = D.decisiones.grupos.map(function (g) {
+    return h('tr', null, [h('th', { scope: 'row' }, [g.grupo]), h('td', null, [g.regla]), h('td', { class: 'num' }, [fmt(g.n)])]);
+  });
+  notas.appendChild(h('details', { class: 'anc-det' }, [
+    h('summary', null, ['Cómo se agrupan las decisiones (para revisar)']),
+    h('div', { class: 'anc-tablewrap' }, [h('table', { class: 'anc-table' }, [
+      h('caption', null, ['Reglas de agrupación de la columna Decisión']),
+      h('thead', null, [h('tr', null, [h('th', { scope: 'col' }, ['Grupo']), h('th', { scope: 'col' }, ['Regla']), h('th', { scope: 'col', class: 'num' }, ['Expedientes'])])]),
+      h('tbody', null, tbody)])])
+  ]));
+  $('pie').textContent = 'Herramienta de consulta basada en resoluciones y dictámenes publicados. Datos extraídos y clasificados de forma automática; no reemplazan el documento original.';
+})();
+</script>
+</body>
+</html>
