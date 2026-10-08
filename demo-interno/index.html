@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Área interna (demo) — Herramientas ANC</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="../assets/anc.css">
+</head>
+<body class="anc">
+<div id="anc-nav"></div>
+<header class="anc-head"><div class="anc-head-in">
+  <h1>Área interna <span class="anc-pill warn">demo</span></h1>
+  <p class="anc-lead">Herramientas para analistas y directores del área. Esto es una demostración con datos de ejemplo: la versión real
+  va en un proyecto aparte, con inicio de sesión, y trabaja con los datos internos.</p>
+</div></header>
+
+<main class="anc-main" id="contenido">
+  <section class="anc-section"><div class="anc-banner"><b>DATOS DE EJEMPLO.</b> Nada de lo que se ve en estas páginas es un expediente ni una operación real.</div></section>
+
+  <section class="anc-group">
+    <div class="anc-cards">
+      <a class="anc-tool" href="noticias/">
+        <h3>Monitor de concentraciones (M&amp;A)</h3>
+        <p>Operaciones detectadas en la prensa, con análisis de umbrales y casos a verificar ante la ANC.</p>
+        <div class="anc-meta"><span class="anc-pill warn">Demo</span><span>Datos de ejemplo</span></div>
+      </a>
+      <a class="anc-tool" href="seguimiento/">
+        <h3>Seguimiento de expedientes</h3>
+        <p>Carga por analista, estado y antigüedad de los expedientes en trámite, con las revisiones próximas y descarga en CSV.</p>
+        <div class="anc-meta"><span class="anc-pill warn">Demo</span><span>Datos de ejemplo</span></div>
+      </a>
+    </div>
+  </section>
+
+  <section class="anc-section">
+    <h2>Cómo será el área interna real</h2>
+    <div class="anc-card anc-note">
+      <ul>
+        <li>Un proyecto de Cloudflare Pages aparte, conectado a un repositorio privado, y acceso con Cloudflare Access (inicio de sesión del área).</li>
+        <li>Los datos reales —el Excel de seguimiento y el registro de operaciones— no van nunca a este repositorio público.</li>
+        <li>Antes de cargar datos reales hace falta la autorización institucional y probar el acceso, tanto en producción como en las vistas previas.</li>
+        <li>El detalle de cada paso está en <code>SITIO.md</code>, y los formatos de datos en <code>demo-interno/SCHEMA.md</code>.</li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<script src="../assets/nav.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "origen": "ejemplo",
+  "aviso": "DATOS DE EJEMPLO: los expedientes, las operaciones, los analistas y los estados son ficticios y sirven solo para probar la herramienta. Los datos reales (Res_firmadas.xlsm) van en el área interna, con acceso restringido.",
+  "corte": "2026-10-08",
+  "estados": ["Ingreso", "Análisis", "Requerimiento", "Dictamen", "Resolución"],
+  "expedientes": [
+    {"id": "EJ-01", "operacion": "Operación ficticia A (ejemplo)", "analista": "Analista A (ejemplo)", "tipo": "Ordinario", "estado": "Análisis",      "ingreso": "2025-12-10", "revision": "2026-10-12"},
+    {"id": "EJ-02", "operacion": "Operación ficticia B (ejemplo)", "analista": "Analista B (ejemplo)", "tipo": "PROSUM",    "estado": "Requerimiento", "ingreso": "2026-08-18", "revision": "2026-10-14"},
+    {"id": "EJ-03", "operacion": "Operación ficticia C (ejemplo)", "analista": "Analista C (ejemplo)", "tipo": "Ordinario", "estado": "Dictamen",      "ingreso": "2026-01-22", "revision": "2026-10-09"},
+    {"id": "EJ-04", "operacion": "Operación ficticia D (ejemplo)", "analista": "Analista A (ejemplo)", "tipo": "Ordinario", "estado": "Requerimiento", "ingreso": "2026-04-03", "revision": "2026-11-02"},
+    {"id": "EJ-05", "operacion": "Operación ficticia E (ejemplo)", "analista": "Analista D (ejemplo)", "tipo": "PROSUM",    "estado": "Análisis",      "ingreso": "2026-09-05", "revision": "2026-10-21"},
+    {"id": "EJ-06", "operacion": "Operación ficticia F (ejemplo)", "analista": "Analista B (ejemplo)", "tipo": "Ordinario", "estado": "Resolución",    "ingreso": "2026-02-15", "revision": "2026-10-10"},
+    {"id": "EJ-07", "operacion": "Operación ficticia G (ejemplo)", "analista": "Analista C (ejemplo)", "tipo": "Ordinario", "estado": "Análisis",      "ingreso": "2026-05-20", "revision": "2026-10-28"},
+    {"id": "EJ-08", "operacion": "Operación ficticia H (ejemplo)", "analista": "Analista D (ejemplo)", "tipo": "PROSUM",    "estado": "Ingreso",       "ingreso": "2026-10-01", "revision": "2026-10-19"},
+    {"id": "EJ-09", "operacion": "Operación ficticia I (ejemplo)", "analista": "Analista A (ejemplo)", "tipo": "Ordinario", "estado": "Dictamen",      "ingreso": "2025-11-20", "revision": "2026-10-15"},
+    {"id": "EJ-10", "operacion": "Operación ficticia J (ejemplo)", "analista": "Analista B (ejemplo)", "tipo": "Ordinario", "estado": "Ingreso",       "ingreso": "2026-09-25", "revision": "2026-10-30"},
+    {"id": "EJ-11", "operacion": "Operación ficticia K (ejemplo)", "analista": "Analista C (ejemplo)", "tipo": "PROSUM",    "estado": "Análisis",      "ingreso": "2026-07-18", "revision": "2026-10-20"},
+    {"id": "EJ-12", "operacion": "Operación ficticia L (ejemplo)", "analista": "Analista D (ejemplo)", "tipo": "Ordinario", "estado": "Requerimiento", "ingreso": "2026-03-11", "revision": "2026-11-05"},
+    {"id": "EJ-13", "operacion": "Operación ficticia M (ejemplo)", "analista": "Analista A (ejemplo)", "tipo": "Ordinario", "estado": "Requerimiento", "ingreso": "2025-08-04", "revision": "2026-10-06"},
+    {"id": "EJ-14", "operacion": "Operación ficticia N (ejemplo)", "analista": "Analista C (ejemplo)", "tipo": "Ordinario", "estado": "Análisis",      "ingreso": "2026-06-30", "revision": "2026-10-08"}
+  ]
+}

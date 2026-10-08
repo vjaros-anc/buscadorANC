@@ -11,13 +11,18 @@
   var root = src.replace(/assets\/nav\.js(?:\?.*)?$/, '');
   if (!root) root = '/';
 
+  // true: la barra muestra el área interna (la demo con datos de ejemplo). false: no existe (producción): la barra
+  // la oculta y las páginas esconden lo suyo (clase anc-sin-interno). build_site.py lo pone en false cuando
+  // CF_PAGES_BRANCH == "main"; a mano solo se cambia para sacar el área interna.
+  var INTERNO = true;
+
   // Grupos propuestos: Concentraciones (buscador, OPIs) · Estadísticas · Mercados · Área interna.
   var ITEMS = [
     { k: 'buscador',     t: 'Buscador',      h: '' },
     { k: 'opis',         t: 'OPIs',          h: 'opis/' },
     { k: 'estadisticas', t: 'Estadísticas',  h: 'conc/' },
     { k: 'mercados',     t: 'Mercados',      soon: true },
-    { k: 'interno',      t: 'Área interna 🔒', h: 'demo-interno/noticias/', tag: 'demo' },
+    { k: 'interno',      t: 'Área interna 🔒', h: 'demo-interno/', tag: 'demo' },
     { k: 'mapa',         t: 'Mapa',          h: 'herramientas/' }
   ];
 
@@ -33,6 +38,8 @@
     else if (rel.indexOf('mercados/') === 0) best = 'mercados';
     return best;
   }
+
+  if (!INTERNO) document.documentElement.classList.add('anc-sin-interno');
 
   function build() {
     var host = document.getElementById('anc-nav');
@@ -58,6 +65,7 @@
 
     ITEMS.forEach(function (it) {
       var node;
+      if (it.k === 'interno' && !INTERNO) return;
       if (it.soon) {
         node = document.createElement('span');
         node.className = 'anc-nl anc-soon';
@@ -85,7 +93,26 @@
 
     nav.appendChild(inner);
     host.appendChild(nav);
+    skip(host);
     compact(inner);
+  }
+
+  // «Saltar al contenido» para el teclado, solo si la pagina marca su contenido con id="contenido".
+  // No usa #contenido como direccion: algunas paginas guardan sus filtros en el hash de la URL.
+  function skip(host) {
+    var main = document.getElementById('contenido');
+    if (!main) return;
+    var a = document.createElement('a');
+    a.className = 'anc-skip';
+    a.href = '#contenido';
+    a.textContent = 'Saltar al contenido';
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      main.setAttribute('tabindex', '-1');
+      main.focus();
+      main.scrollIntoView();
+    });
+    host.insertBefore(a, host.firstChild);
   }
 
   // En pantallas angostas la barra es una sola fila que se desliza: se desplaza lo justo para que la

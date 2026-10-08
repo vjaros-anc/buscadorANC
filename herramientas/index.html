@@ -16,7 +16,7 @@
   con Python a partir de fuentes públicas; el sitio solo los publica.</p>
 </div></header>
 
-<main class="anc-main">
+<main class="anc-main" id="contenido">
   <section class="anc-group">
     <h2>Concentraciones</h2>
     <div class="anc-cards">
@@ -38,7 +38,7 @@
     <div class="anc-cards">
       <a class="anc-tool" href="../conc/">
         <h3>Tablero de resoluciones</h3>
-        <p>Firmas por año, decisiones, sectores y tiempos de trámite. Todo agregado desde el mismo maestro del buscador.</p>
+        <p>Firmas por año, decisiones, sectores y tiempos de trámite, con filtros por año, tipo y sector y descarga en CSV. Todo agregado desde el mismo maestro del buscador.</p>
         <div class="anc-meta"><span class="anc-pill ok">Público</span><span class="js-hasta2">Datos agregados</span></div>
       </a>
     </div>
@@ -55,19 +55,19 @@
     </div>
   </section>
 
-  <section class="anc-group">
-    <h2>Área interna <span aria-hidden="true">🔒</span></h2>
+  <section class="anc-group anc-interno">
+    <h2><a href="../demo-interno/" style="color:inherit;text-decoration:none">Área interna <span aria-hidden="true">🔒</span></a></h2>
     <div class="anc-cards">
       <a class="anc-tool" href="../demo-interno/noticias/">
         <h3>Monitor de concentraciones (M&amp;A)</h3>
         <p>Operaciones detectadas en la prensa, con análisis de umbrales y casos a verificar ante la ANC. Prototipo con <b>datos de ejemplo</b>; la versión real va en el área interna, con login.</p>
         <div class="anc-meta"><span class="anc-pill warn">Demo</span><span>Datos de ejemplo</span></div>
       </a>
-      <div class="anc-tool off">
+      <a class="anc-tool" href="../demo-interno/seguimiento/">
         <h3>Seguimiento de expedientes</h3>
-        <p>Stock, antigüedad, tiempos y vencimientos de los expedientes en trámite, calculados desde el Excel de seguimiento.</p>
-        <div class="anc-meta"><span class="anc-pill mute">Próximamente</span></div>
-      </div>
+        <p>Carga por analista, estado y antigüedad de los expedientes en trámite, con las revisiones próximas. Prototipo con <b>datos de ejemplo</b>; la versión real se alimentará con el Excel de seguimiento.</p>
+        <div class="anc-meta"><span class="anc-pill warn">Demo</span><span>Datos de ejemplo</span></div>
+      </a>
       <div class="anc-tool off">
         <h3>Redes societarias</h3>
         <p>Grupos económicos, participaciones y clases terapéuticas.</p>

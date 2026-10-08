@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Seguimiento de expedientes (demo) — Herramientas ANC</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="../../assets/anc.css">
+<style>
+  /* estilos propios del seguimiento (el resto sale de assets/anc.css) */
+  .tablebox { overflow-x: auto; border: 1px solid var(--anc-border); background: var(--anc-surface); border-radius: 8px; }
+  table.exp { width: 100%; border-collapse: collapse; font-size: .86rem; }
+  table.exp th, table.exp td { padding: .45rem .65rem; border-bottom: 1px solid var(--anc-grid); text-align: left; vertical-align: top; }
+  table.exp th { background: #f4f3ef; color: var(--anc-ink2); font-weight: 600; white-space: nowrap; }
+  table.exp td.num, table.exp th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  table.exp tr:last-child td { border-bottom: 0; }
+  table.exp .op { display: block; color: var(--anc-ink2); font-size: .8rem; }
+  table.exp .rev { white-space: nowrap; }
+  table.exp .rev small { display: block; color: var(--anc-ink2); }
+  table.exp .vencida small { color: #8a2a1d; font-weight: 600; }
+</style>
+</head>
+<body class="anc">
+<div id="anc-nav"></div>
+<header class="anc-head"><div class="anc-head-in">
+  <p class="anc-crumb"><a href="../">Área interna (demo)</a> › Seguimiento</p>
+  <h1>Seguimiento de expedientes <span class="anc-pill warn">demo</span></h1>
+  <p class="anc-lead">Carga de trabajo por analista, estado y antigüedad de los expedientes en trámite, con las revisiones próximas.
+  Hoy la página muestra expedientes ficticios; en el área interna se alimentará con el Excel de seguimiento.</p>
+</div></header>
+
+<main class="anc-main" id="contenido">
+  <noscript><div class="anc-banner" style="margin-top:1.2rem">Esta página necesita JavaScript para mostrar los indicadores y los filtros.</div></noscript>
+  <section class="anc-section" id="banners" aria-label="Avisos"></section>
+  <section class="anc-section" aria-label="Filtros">
+    <form class="anc-filters" id="filtros" autocomplete="off">
+      <label class="anc-field">Analista<select id="f-analista"></select></label>
+      <label class="anc-field">Estado<select id="f-estado"></select></label>
+      <label class="anc-field">Procedimiento<select id="f-tipo"></select></label>
+      <button type="button" class="anc-btn" id="f-limpiar">Limpiar filtros</button>
+      <button type="button" class="anc-btn" id="f-csv" title="CSV con separador ; y UTF-8, listo para abrir en Excel">Descargar CSV</button>
+    </form>
+    <p class="anc-filter-status" id="estado" role="status" aria-live="polite"></p>
+  </section>
+  <section class="anc-section" aria-label="Indicadores"><div class="anc-tiles" id="tiles"></div></section>
+  <section class="anc-section anc-grid2"><div class="anc-card" id="ch-analista"></div><div class="anc-card" id="ch-estado"></div></section>
+  <section class="anc-section"><div class="anc-card" id="ch-edad"></div></section>
+  <section class="anc-section">
+    <h2>Expedientes</h2>
+    <p class="anc-sub">Ordenados por la próxima revisión. La revisión es un hito de gestión, no un vencimiento legal.</p>
+    <div class="tablebox"><table class="exp">
+      <caption class="anc-sr">Expedientes de la selección</caption>
+      <thead><tr>
+        <th scope="col">Expediente</th><th scope="col">Analista</th><th scope="col">Procedimiento</th><th scope="col">Estado</th>
+        <th scope="col" class="num">Ingreso</th><th scope="col" class="num">Antigüedad (días)</th><th scope="col">Próxima revisión</th>
+      </tr></thead>
+      <tbody id="filas"></tbody>
+    </table></div>
+  </section>
+  <section class="anc-section">
+    <h2>Notas</h2>
+    <div class="anc-card anc-note" id="notas"></div>
+  </section>
+  <p class="anc-foot" id="pie"></p>
+</main>
+
+<script src="../../assets/charts.js"></script>
+<script src="../../assets/csv.js"></script>
+<script src="../../assets/nav.js" defer></script>
+<script>
+(function () {
+  'use strict';
+  var DATA_URL = '../data/seguimiento.sample.json';
+  // Esta página es la demo pública: se niega a mostrar datos que no estén marcados como de ejemplo.
+  // Al pasarla al área interna (con login) se pone en false y se apunta DATA_URL al JSON real.
+  var SOLO_EJEMPLO = true;
+
+  var A = window.ANCCharts, h = A.h, fmt = A.fmt, pct = A.pct;
+  var S = { rows: [], estados: [], corte: '', origen: '' };
+  var F = { analista: '', estado: '', tipo: '' };
+  var ISO = /^\d{4}-\d{2}-\d{2}$/;
+  var COHORTES = [['Hasta 90 días', 0, 90], ['91 a 180 días', 91, 180], ['181 a 365 días', 181, 365], ['Más de 365 días', 366, Infinity]];
+
+  function $(id) { return document.getElementById(id); }
+  function dmy(iso) { var p = iso.split('-'); return p[2] + '/' + p[1] + '/' + p[0]; }
+  // días corridos de a hasta b (ambas AAAA-MM-DD), en UTC para no depender de husos ni de horario de verano
+  function entre(a, b) {
+    var x = a.split('-'), y = b.split('-');
+    return Math.round((Date.UTC(+y[0], y[1] - 1, +y[2]) - Date.UTC(+x[0], x[1] - 1, +x[2])) / 86400000);
+  }
+  function mediana(xs) {
+    var a = xs.slice().sort(function (p, q) { return p - q; }), m = a.length >> 1;
+    return a.length % 2 ? a[m] : (a[m - 1] + a[m]) / 2;
+  }
+  function cmp(a, b) { return a < b ? -1 : a > b ? 1 : 0; }
+  function unicos(xs) { return xs.filter(function (x, i) { return x && xs.indexOf(x) === i; }); }
+
+  function seleccion() {
+    return S.rows.filter(function (r) {
+      return (!F.analista || r.analista === F.analista) && (!F.estado || r.estado === F.estado) && (!F.tipo || r.tipo === F.tipo);
+    });
+  }
+  function p1(n, t) { return t ? Math.round(1000 * n / t) / 10 : 0; }
+
+  function pintar() {
+    var sel = seleccion(), n = sel.length, filtrado = !!(F.analista || F.estado || F.tipo);
+    var partes = [];
+    if (F.analista) partes.push('analista ' + F.analista);
+    if (F.estado) partes.push('estado ' + F.estado);
+    if (F.tipo) partes.push('procedimiento ' + F.tipo);
+    $('estado').textContent = filtrado
+      ? 'Mostrando ' + fmt(n) + ' de ' + fmt(S.rows.length) + ' expedientes · ' + partes.join(' · ')
+      : 'Mostrando los ' + fmt(S.rows.length) + ' expedientes, sin filtros.';
+    $('f-csv').textContent = 'Descargar CSV (' + fmt(n) + ')';
+    $('f-csv').disabled = n === 0;
+    $('f-limpiar').disabled = !filtrado;
+
+    // indicadores
+    var edades = sel.map(function (r) { return r.edad; });
+    var viejos = sel.filter(function (r) { return r.edad > 180; }).length;
+    var prox = sel.filter(function (r) { return r.dias !== null && r.dias >= 0 && r.dias <= 15; }).length;
+    var venc = sel.filter(function (r) { return r.dias !== null && r.dias < 0; }).length;
+    var ord = sel.filter(function (r) { return r.tipo === 'Ordinario'; }).length, pro = sel.filter(function (r) { return r.tipo === 'PROSUM'; }).length;
+    var tiles = [
+      { hero: true, l: filtrado ? 'Expedientes en la selección' : 'Expedientes en trámite', v: fmt(n),
+        n: fmt(ord) + ' ordinarios · ' + fmt(pro) + ' PROSUM' + (filtrado ? ' · de ' + fmt(S.rows.length) + ' en total' : '') },
+      { l: 'Antigüedad mediana', v: n ? fmt(Math.floor(mediana(edades) + 0.5)) + ' días' : '—', n: 'Días corridos desde el ingreso, al ' + dmy(S.corte) },
+      { l: 'Más de 180 días', v: fmt(viejos), n: n ? pct(p1(viejos, n)) + ' de la selección' : '—' },
+      { l: 'Revisión en 15 días', v: fmt(prox), n: 'Hito de gestión, no vencimiento legal' },
+      { l: 'Revisión vencida', v: fmt(venc), n: 'La fecha de revisión es anterior al corte' }
+    ];
+    var box = $('tiles');
+    box.textContent = '';
+    tiles.forEach(function (x) {
+      box.appendChild(h('div', { class: 'anc-tile' + (x.hero ? ' hero' : '') }, [
+        h('div', { class: 'anc-tile-l' }, [x.l]), h('div', { class: 'anc-tile-v' }, [x.v]), h('div', { class: 'anc-tile-n' }, [x.n])]));
+    });
+
+    // gráficos
+    var vacio = 'Ningún expediente cumple estos filtros.';
+    var porAn = {}; sel.forEach(function (r) { porAn[r.analista] = (porAn[r.analista] || 0) + 1; });
+    A.hbars($('ch-analista'), {
+      title: 'Carga por analista', unit: 'expedientes', emptyMsg: vacio,
+      subtitle: 'Expedientes de la selección asignados a cada analista.',
+      items: Object.keys(porAn).sort(function (a, b) { return porAn[b] - porAn[a] || cmp(a, b); })
+        .map(function (a) { return { label: a, value: porAn[a], pct: p1(porAn[a], n) }; })
+    });
+    var porEs = {}; sel.forEach(function (r) { porEs[r.estado] = (porEs[r.estado] || 0) + 1; });
+    var ordenEs = S.estados.concat(Object.keys(porEs).filter(function (e) { return S.estados.indexOf(e) < 0; }).sort());
+    A.hbars($('ch-estado'), {
+      title: 'Estado de los expedientes', unit: 'expedientes', emptyMsg: vacio,
+      subtitle: 'En el orden del trámite. Los estados de esta demo son de ejemplo.',
+      items: n ? ordenEs.map(function (e) { return { label: e, value: porEs[e] || 0, pct: p1(porEs[e] || 0, n) }; }) : []
+    });
+    A.hbars($('ch-edad'), {
+      title: 'Antigüedad de los expedientes', unit: 'expedientes', emptyMsg: vacio,
+      subtitle: 'Días corridos desde el ingreso hasta el corte (' + dmy(S.corte) + '). No es el plazo legal del procedimiento.',
+      items: n ? COHORTES.map(function (c) {
+        var k = sel.filter(function (r) { return r.edad >= c[1] && r.edad <= c[2]; }).length;
+        return { label: c[0], value: k, pct: p1(k, n) };
+      }) : []
+    });
+
+    // tabla
+    var filas = sel.slice().sort(function (a, b) {
+      if ((a.revision === null) !== (b.revision === null)) return a.revision === null ? 1 : -1;
+      return cmp(a.revision || '', b.revision || '') || cmp(a.id, b.id);
+    });
+    var tb = $('filas');
+    tb.textContent = '';
+    if (!filas.length) tb.appendChild(h('tr', null, [h('td', { colspan: 7 }, [vacio])]));
+    filas.forEach(function (r) {
+      var rev;
+      if (r.dias === null) rev = h('td', { class: 'rev' }, ['—']);
+      else rev = h('td', { class: 'rev' + (r.dias < 0 ? ' vencida' : '') }, [dmy(r.revision),
+        h('small', null, [r.dias < 0 ? 'vencida hace ' + fmt(-r.dias) + (r.dias === -1 ? ' día' : ' días') : r.dias === 0 ? 'hoy' : 'en ' + fmt(r.dias) + (r.dias === 1 ? ' día' : ' días')])]);
+      tb.appendChild(h('tr', null, [
+        h('td', null, [r.id, h('span', { class: 'op' }, [r.operacion])]),
+        h('td', null, [r.analista]),
+        h('td', null, [r.tipo]),
+        h('td', null, [h('span', { class: 'anc-pill' + (r.estado === 'Resolución' ? ' ok' : r.estado === 'Requerimiento' ? ' warn' : r.estado === 'Ingreso' ? ' mute' : '') }, [r.estado])]),
+        h('td', { class: 'num' }, [dmy(r.ingreso)]),
+        h('td', { class: 'num' }, [fmt(r.edad)]),
+        rev
+      ]));
+    });
+  }
+
+  function csv() {
+    var sel = seleccion().sort(function (a, b) { return cmp(a.revision || '9', b.revision || '9') || cmp(a.id, b.id); });
+    ANCCsv.download('seguimiento' + (S.origen === 'ejemplo' ? '_EJEMPLO' : '') + '.csv', ANCCsv.build(
+      ['Expediente', 'Operación', 'Analista', 'Procedimiento', 'Estado', 'Ingreso', 'Antigüedad (días)', 'Próxima revisión', 'Días hasta la revisión', 'Corte'],
+      sel.map(function (r) { return [r.id, r.operacion, r.analista, r.tipo, r.estado, r.ingreso, r.edad, r.revision || '', r.dias === null ? '' : r.dias, S.corte]; })));
+  }
+
+  function opciones(sel, primero, lista) {
+    sel.appendChild(h('option', { value: '' }, [primero]));
+    lista.forEach(function (x) { sel.appendChild(h('option', { value: x }, [x])); });
+  }
+
+  function iniciar(d) {
+    if (!d || d.schema_version !== 1) throw new Error('formato de datos no compatible (schema_version distinto de 1)');
+    if (SOLO_EJEMPLO && d.origen !== 'ejemplo') throw new Error('esta página es la demo y solo muestra datos de ejemplo (origen = "ejemplo")');
+    if (!ISO.test(d.corte || '')) throw new Error('falta la fecha de corte (AAAA-MM-DD)');
+    S.corte = d.corte; S.origen = d.origen; S.estados = (d.estados || []).slice();
+    S.rows = (d.expedientes || []).filter(function (e) { return e && e.id && ISO.test(e.ingreso || ''); }).map(function (e) {
+      var rev = ISO.test(e.revision || '') ? e.revision : null;
+      return { id: String(e.id), operacion: String(e.operacion || ''), analista: String(e.analista || 'Sin asignar'), tipo: String(e.tipo || '—'),
+        estado: String(e.estado || '—'), ingreso: e.ingreso, revision: rev, edad: Math.max(0, entre(e.ingreso, d.corte)), dias: rev ? entre(d.corte, rev) : null };
+    });
+    var texto = String(d.aviso || '').replace(/^DATOS DE EJEMPLO:?\s*/, '');
+    var aviso = h('div', { class: 'anc-banner' }, [h('b', null, ['DATOS DE EJEMPLO. ']), texto.charAt(0).toUpperCase() + texto.slice(1)]);
+    $('banners').appendChild(aviso);
+    opciones($('f-analista'), 'Todos los analistas', unicos(S.rows.map(function (r) { return r.analista; })).sort());
+    opciones($('f-estado'), 'Todos los estados', S.estados.concat(unicos(S.rows.map(function (r) { return r.estado; })).filter(function (e) { return S.estados.indexOf(e) < 0; })));
+    opciones($('f-tipo'), 'Todos los procedimientos', unicos(S.rows.map(function (r) { return r.tipo; })).sort());
+    [['f-analista', 'analista'], ['f-estado', 'estado'], ['f-tipo', 'tipo']].forEach(function (k) {
+      $(k[0]).addEventListener('input', function () { F[k[1]] = $(k[0]).value; pintar(); });
+    });
+    $('f-limpiar').addEventListener('click', function () {
+      ['f-analista', 'f-estado', 'f-tipo'].forEach(function (id) { $(id).value = ''; });
+      F.analista = F.estado = F.tipo = '';
+      pintar();
+    });
+    $('filtros').addEventListener('submit', function (e) { e.preventDefault(); });
+    $('f-csv').addEventListener('click', csv);
+    $('notas').appendChild(h('ul', null, [
+      h('li', null, ['Antigüedad: días corridos entre la fecha de ingreso y el corte de los datos (' + dmy(S.corte) + '). No descuenta suspensiones ni es el plazo legal del procedimiento.']),
+      h('li', null, ['Próxima revisión: fecha de gestión interna; no es un vencimiento legal. Una revisión «vencida» solo indica que su fecha es anterior al corte.']),
+      h('li', null, ['Los estados, los analistas y los expedientes de esta demo son ficticios. Los estados reales saldrán de la columna de estado del Excel de seguimiento (por confirmar).']),
+      h('li', null, ['Qué falta para la versión real: los encabezados de ', h('code', null, ['Res_firmadas.xlsm']), ' (columna de analista, inicio del plazo y suspensiones) y la autorización institucional para mostrar datos de expedientes en trámite. Ver ', h('code', null, ['demo-interno/SCHEMA.md']), '.'])
+    ]));
+    $('pie').textContent = 'Demo con datos ficticios. Los filtros, los gráficos y el CSV se calculan en este navegador a partir de un archivo JSON.';
+    pintar();
+  }
+
+  fetch(DATA_URL, { cache: 'no-store' }).then(function (r) {
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    return r.json();
+  }).then(iniciar).catch(function (e) {
+    $('banners').appendChild(h('div', { class: 'anc-banner stale', role: 'alert' }, [h('b', null, ['No se pudieron mostrar los datos. ']), String(e.message || e)]));
+    $('estado').textContent = '';
+    Array.prototype.forEach.call($('filtros').querySelectorAll('select,button'), function (c) { c.disabled = true; });
+  });
+})();
+</script>
+</body>
+</html>

@@ -43,6 +43,13 @@ body.anc {
 }
 .anc-sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
+.anc-skip {
+  position: absolute; left: .6rem; top: -3.5rem; z-index: 50; background: #fff; color: var(--anc-azul);
+  padding: .45rem .8rem; border: 2px solid var(--anc-azul2); border-radius: 6px; font-size: .9rem;
+}
+.anc-skip:focus { top: .5rem; }
+#contenido:focus { outline: none; }
+
 /* ---------- barra de navegación común ---------- */
 /* nav.js dibuja la barra al terminar de cargar: se reserva su alto para que la página no salte */
 #anc-nav { min-height: 47px; }
@@ -88,6 +95,7 @@ body.anc {
 .anc-head-in, .anc-main { max-width: 1100px; margin: 0 auto; padding-left: 1.2rem; padding-right: 1.2rem; }
 .anc-main { padding-bottom: 3rem; }
 .anc-head h1 { margin: 0 0 .2rem; font-size: 1.5rem; color: var(--anc-azul); }
+.anc-crumb { margin: 0 0 .25rem; font-size: .82rem; color: var(--anc-ink2); }
 .anc-head .anc-lead { margin: 0; font-size: .92rem; color: #555; max-width: 74ch; }
 
 .anc-section { margin-top: 1.6rem; }
@@ -230,6 +238,9 @@ body.anc {
 .anc-foot { color: var(--anc-ink2); font-size: .8rem; margin-top: 2rem; border-top: 1px solid var(--anc-line); padding-top: .8rem; }
 details.anc-det > summary { cursor: pointer; color: var(--anc-azul); font-size: .86rem; }
 details.anc-det[open] > summary { margin-bottom: .4rem; }
+
+/* sin área interna (producción): se esconde lo que es solo de ella */
+.anc-sin-interno .anc-interno { display: none; }
 
 /* ---------- mapa de herramientas ---------- */
 .anc-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(255px, 1fr)); gap: .9rem; }
