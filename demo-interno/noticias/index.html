@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="../../assets/anc.css">
 <style>
   /* estilos propios del monitor (el resto sale de assets/anc.css) */
-  .docket { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+  .docket { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr)); gap: 14px; }
   .case { background: var(--anc-surface); border: 1px solid var(--anc-border); border-left: 4px solid #a33a2c; border-radius: 6px;
     padding: 14px 16px; display: grid; gap: 8px; min-width: 0; align-content: start; }
   .case.done { border-left-color: #2f7a4b; }

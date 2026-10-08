@@ -44,6 +44,8 @@ body.anc {
 .anc-sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
 /* ---------- barra de navegación común ---------- */
+/* nav.js dibuja la barra al terminar de cargar: se reserva su alto para que la página no salte */
+#anc-nav { min-height: 47px; }
 .anc-nav { background: #fff; border-bottom: 1px solid var(--anc-line); }
 .anc-nav-in {
   max-width: 1100px; margin: 0 auto; padding: 0 1.2rem;
@@ -60,14 +62,26 @@ body.anc {
 .anc-nav a.anc-nl:hover { color: var(--anc-azul); }
 .anc-nav a.anc-nl[aria-current="page"] { color: var(--anc-azul); border-bottom-color: var(--anc-azul); font-weight: 600; }
 .anc-nav .anc-soon { color: var(--anc-muted); cursor: default; }
-@media (max-width: 560px) {
-  .anc-brand { padding: .55rem .6rem .55rem 0; }
-  .anc-nav a.anc-nl, .anc-nav .anc-nl { padding: .5rem .45rem; font-size: .86rem; }
-}
+.anc-nav a:focus-visible { outline: 2px solid var(--anc-azul2); outline-offset: -3px; }
 .anc-nav .anc-tag {
   font-size: .64rem; font-weight: 600; letter-spacing: .02em; text-transform: uppercase;
   background: #eef1f5; color: var(--anc-ink2); border-radius: 99px; padding: .05rem .42rem; margin-left: .3rem;
 }
+/* pantallas angostas: una sola fila que se desliza (nav.js centra la seccion activa y marca el borde si hay mas) */
+@media (max-width: 900px) {
+  #anc-nav { min-height: 39px; }
+  .anc-nav-in { flex-wrap: nowrap; overflow-x: auto; padding: 0 .9rem; scrollbar-width: none; }
+  .anc-nav-in::-webkit-scrollbar { display: none; }
+  .anc-nav-in.anc-more {
+    -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent);
+    mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent);
+  }
+  .anc-brand, .anc-nav a.anc-nl, .anc-nav .anc-nl { flex: none; white-space: nowrap; }
+  .anc-brand { padding: .5rem .5rem .5rem 0; margin-right: 0; font-size: .9rem; }
+  .anc-nav a.anc-nl, .anc-nav .anc-nl { padding: .5rem .45rem; font-size: .86rem; }
+  .anc-nav .anc-tag { display: none; }
+}
+@media (scripting: none) { #anc-nav { min-height: 0; } }
 
 /* ---------- encabezado de página y contenedor ---------- */
 .anc-head { background: #fff; border-bottom: 1px solid var(--anc-line); padding: 1.1rem 0 .9rem; }
@@ -114,6 +128,7 @@ body.anc {
 .anc-legend { display: flex; flex-wrap: wrap; gap: .25rem 1.1rem; font-size: .82rem; color: var(--anc-ink2); margin: .1rem 0 .5rem; }
 .anc-legend:empty { display: none; }
 .anc-legend span { white-space: nowrap; }
+@media (max-width: 480px) { .anc-legend span { white-space: normal; } }
 .anc-legend b { color: var(--anc-ink); font-weight: 600; }
 .anc-sw { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: .38rem; vertical-align: -1px; }
 .anc-sw.line { width: 16px; height: 2px; border-radius: 1px; vertical-align: 3px; }

@@ -3,7 +3,8 @@
 Compuerta de publicacion del sitio (solo lectura: no modifica nada).
 
 Revisa lo que se va a publicar y devuelve codigo de salida 1 si hay algun ERROR:
-  - links y recursos locales de las paginas NUEVAS, con el nombre EXACTO (Cloudflare distingue mayusculas)
+  - links y recursos locales de las paginas del sitio (el buscador incluido), con el nombre EXACTO
+    (Cloudflare distingue mayusculas)
   - archivos de datos que las paginas piden con fetch / DATA_URL
   - destinos de la barra de navegacion (assets/nav.js)
   - ningun archivo > 20 MiB ni mas de 20.000 archivos (limites de Cloudflare Pages)
@@ -11,13 +12,15 @@ Revisa lo que se va a publicar y devuelve codigo de salida 1 si hay algun ERROR:
   - los JSON de data/ son validos y traen schema_version
   - la demo del monitor esta marcada como ejemplo y NO hay un monitor.json real en el arbol
   - las paginas del area interna no cargan Analytics y piden noindex
-  - (opcional, --aditivo) que la rama solo agregue archivos respecto de main
+  - que el buscador (index.html) lleve la barra comun (aviso si no)
+  - (opcional, --aditivo) que la rama solo agregue archivos respecto de main; unica excepcion: index.html y
+    generar_pagina.py pueden recibir lineas nuevas (la barra), nunca perder ninguna
 
 No usa nada fuera de la biblioteca estandar (Python 3.7+): sirve tambien como paso de build en Cloudflare.
 
 Uso:
     python -B verificar_sitio.py
-    python -B verificar_sitio.py --aditivo          # ademas: git diff main...HEAD solo con altas
+    python -B verificar_sitio.py --aditivo          # ademas: git diff main...HEAD solo con altas (ver arriba)
     python -B verificar_sitio.py --raiz dist        # verifica una carpeta ya armada (build_site.py)
 """
 from __future__ import annotations
@@ -35,8 +38,15 @@ from urllib.parse import unquote, urlsplit
 
 AQUI = Path(__file__).resolve().parent
 
-PAGINAS_NUEVAS = ["404.html", "herramientas/index.html", "opis/index.html", "conc/index.html",
-                  "demo-interno/noticias/index.html"]
+# Paginas cuyos links y recursos se revisan. index.html (el buscador) entra por la barra comun; sus links
+# a PDF los revisa comparar_index.py.
+PAGINAS = ["index.html", "404.html", "herramientas/index.html", "opis/index.html", "conc/index.html",
+           "demo-interno/noticias/index.html"]
+PUBLICAS = ("index.html", "conc/index.html", "opis/index.html", "herramientas/index.html")
+BARRA = ("assets/anc.css", 'id="anc-nav"', "assets/nav.js")
+# Unicos archivos que ya existian en main y esta rama puede cambiar, y solo agregando lineas: el buscador
+# recibe la barra comun (3 lineas en la plantilla y en su salida).
+MODIFICABLES = ("index.html", "generar_pagina.py")
 LIMITE_BYTES = 20 * 1024 * 1024        # Cloudflare Pages: 25 MiB por archivo; se avisa antes
 LIMITE_ARCHIVOS = 20000
 LISTA_NEGRA = ["*.xlsm", "Res_firmadas*", "cotejo_*", "evol_conc*", "api_key*", "*.key", ".env", "~$*", "*.db"]
@@ -115,10 +125,10 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False):
     err = lambda m: res.append(("ERROR", m))
     avi = lambda m: res.append(("AVISO", m))
 
-    # 1. links y recursos de las paginas nuevas
-    paginas = [p for p in PAGINAS_NUEVAS if (raiz / p).exists()]
+    # 1. links y recursos de las paginas del sitio
+    paginas = [p for p in PAGINAS if (raiz / p).exists()]
     if not paginas:
-        avi("no hay paginas nuevas para revisar")
+        avi("no hay paginas para revisar")
     for rel in paginas:
         pag = raiz / rel
         txt = pag.read_text(encoding="utf-8", errors="replace")
@@ -138,9 +148,11 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False):
                 err("%s: una página del área interna no debe cargar Analytics" % rel)
             if 'name="robots"' not in txt or "noindex" not in txt:
                 err("%s: falta <meta name=\"robots\" content=\"noindex…\">" % rel)
-        if rel in ("conc/index.html", "opis/index.html", "herramientas/index.html"):
+        if rel in PUBLICAS:
             if re.search(r"fetch\(\s*['\"][^'\"]*(interno|monitor)[^'\"]*['\"]", txt):
                 err("%s: una página pública no debe pedir datos del área interna" % rel)
+        if rel == "index.html" and not all(s in txt for s in BARRA):
+            avi("index.html no lleva la barra común (¿se regeneró con un generar_pagina.py anterior a la barra?)")
 
     # 2. destinos de la barra
     nav = raiz / "assets" / "nav.js"
@@ -212,13 +224,21 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False):
             except OSError:
                 pass
 
-    # 7. aditivo respecto de main (solo en un repo git)
+    # 7. aditivo respecto de main (solo en un repo git): todo es alta, salvo MODIFICABLES con 0 lineas borradas
     if aditivo and not solo_dist:
         try:
             out = subprocess.run(["git", "-C", str(raiz), "diff", "--name-status", "main...HEAD"],
                                  capture_output=True, check=True).stdout.decode("utf-8", "replace")
-            no_altas = [l for l in out.splitlines() if l and not l.startswith("A")]
-            for l in no_altas:
+            for l in out.splitlines():
+                if not l or l.startswith("A"):
+                    continue
+                estado, _, ruta = l.partition("\t")
+                if estado == "M" and ruta in MODIFICABLES:
+                    num = subprocess.run(["git", "-C", str(raiz), "diff", "--numstat", "main...HEAD", "--", ruta],
+                                         capture_output=True, check=True).stdout.decode("utf-8", "replace").split()
+                    if num[:2] and num[1] != "0":
+                        err("%s: la rama borra o reemplaza %s líneas de main (solo puede agregar)" % (ruta, num[1]))
+                    continue
                 err("la rama modifica o borra algo que ya existía en main: %s" % l)
         except (OSError, subprocess.CalledProcessError) as e:
             avi("no se pudo comparar con main (%s)" % e)

@@ -1,5 +1,5 @@
-/* nav.js — barra de navegación común de las páginas NUEVAS del sitio.
-   El buscador principal (index.html) no la lleva: no se modifica. Las páginas nuevas enlazan hacia él.
+/* nav.js — barra de navegación común del sitio: la llevan el buscador (index.html), las páginas nuevas
+   y la 404. En el buscador son 3 líneas de la plantilla de generar_pagina.py; nada más cambia ahí.
    Uso: <div id="anc-nav"></div> y <script src="…/assets/nav.js" defer></script>.
    Las rutas se calculan a partir de la ubicación de este mismo script, así funciona en la raíz del
    sitio, en un preview de Cloudflare o abriendo los archivos desde disco. */
@@ -25,7 +25,8 @@
     var here = location.href.split('#')[0].split('?')[0];
     var best = '';
     var rel = here.indexOf(root) === 0 ? here.slice(root.length) : '';
-    if (rel.indexOf('opis/') === 0) best = 'opis';
+    if (rel === '' || rel === 'index.html') best = 'buscador';
+    else if (rel.indexOf('opis/') === 0) best = 'opis';
     else if (rel.indexOf('conc/') === 0) best = 'estadisticas';
     else if (rel.indexOf('demo-interno/') === 0 || rel.indexOf('interno/') === 0) best = 'interno';
     else if (rel.indexOf('herramientas/') === 0) best = 'mapa';
@@ -84,6 +85,24 @@
 
     nav.appendChild(inner);
     host.appendChild(nav);
+    compact(inner);
+  }
+
+  // En pantallas angostas la barra es una sola fila que se desliza: se desplaza lo justo para que la
+  // seccion activa se vea entera y, mientras haya mas para ver, el borde derecho se difumina
+  // (clase anc-more, ver anc.css).
+  function compact(inner) {
+    function more() {
+      inner.classList.toggle('anc-more', inner.scrollWidth - inner.clientWidth - inner.scrollLeft > 4);
+    }
+    var act = inner.querySelector('[aria-current="page"]');
+    if (act && inner.scrollWidth > inner.clientWidth) {
+      var r = act.getBoundingClientRect(), b = inner.getBoundingClientRect();
+      if (r.right > b.right - 36) inner.scrollLeft += r.right - b.right + 36;
+    }
+    inner.addEventListener('scroll', more, { passive: true });
+    window.addEventListener('resize', more);
+    more();
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', build);
