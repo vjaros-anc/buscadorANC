@@ -17,8 +17,9 @@ Que se publica:
   - pdf:     los pdf/*.pdf de primer nivel (no los CSV, ni escaneados/, ni lectura_opi/)
   - legado:  URLs que hoy sirven y alguien puede usar: productos buscador/index.html,
              pdf/lectura_opi/buscador_opis.html   (--sin-legado las saca)
-  - demo:    demo-interno/ (prototipo con datos de ejemplo). NO entra cuando CF_PAGES_BRANCH == "main",
-             asi nunca llega a produccion.
+  - demo:    demo-interno/ (prototipos con datos de ejemplo). NO entra cuando CF_PAGES_BRANCH == "main",
+             asi nunca llega a produccion; en ese caso assets/nav.js se publica con INTERNO = false y la barra
+             y el mapa tampoco la mencionan.
 
 Antes de armar corre verificar_sitio.py y aborta si falla (en Cloudflare, un build fallido deja el deploy
 anterior). Solo biblioteca estandar, compatible con Python 3.7+.
@@ -58,6 +59,15 @@ def contiene(padre: Path, hijo: Path) -> bool:
         return True
     except ValueError:
         return False
+
+
+def parchar_nav(texto: str, interno: bool) -> str:
+    """assets/nav.js trae 'var INTERNO = true;'. Sin la demo (produccion) se publica con false: la barra y el mapa
+    no muestran un area interna que no esta publicada."""
+    viejo = "var INTERNO = true;"
+    if texto.count(viejo) != 1:
+        raise SystemExit("assets/nav.js no tiene exactamente un 'var INTERNO = true;': no se puede preparar la salida.")
+    return texto.replace(viejo, "var INTERNO = %s;" % ("true" if interno else "false"))
 
 
 def todos_los_archivos(raiz: Path, salida: Path):
@@ -148,6 +158,7 @@ def main() -> int:
     print("Rama de Cloudflare: %s | demo-interno: %s | legado: %s" % (rama or "(local)", "sí" if con_demo else "no",
                                                                     "no" if args.sin_legado else "sí"))
     print("Se publicarían %d archivos (%.0f MB): %s" % (len(sel), total_mb, ", ".join("%s %d" % kv for kv in sorted(cats.items()))))
+    print("Área interna en la barra y en el mapa: %s" % ("sí (demo)" if con_demo else "no (INTERNO = false en assets/nav.js)"))
     legado = [r for r, c in sel.items() if c == "legado"]
     if legado:
         print("  legado (se mantiene para no cortar URLs): " + ", ".join(legado))
@@ -177,6 +188,10 @@ def main() -> int:
     for rel in sorted(sel):
         dst = salida / rel
         dst.parent.mkdir(parents=True, exist_ok=True)
+        if rel == "assets/nav.js":
+            # se escribe aparte (nunca un hardlink: cambiaria tambien el archivo del repo)
+            dst.write_bytes(parchar_nav((AQUI / rel).read_bytes().decode("utf-8"), con_demo).encode("utf-8"))
+            continue
         if args.enlazar:
             try:
                 os.link(str(AQUI / rel), str(dst))

@@ -42,7 +42,7 @@ AQUI = Path(__file__).resolve().parent
 # Paginas cuyos links y recursos se revisan. index.html (el buscador) entra por la barra comun; sus links
 # a PDF los revisa comparar_index.py.
 PAGINAS = ["index.html", "404.html", "herramientas/index.html", "opis/index.html", "conc/index.html",
-           "demo-interno/noticias/index.html"]
+           "demo-interno/index.html", "demo-interno/noticias/index.html", "demo-interno/seguimiento/index.html"]
 PUBLICAS = ("index.html", "conc/index.html", "opis/index.html", "herramientas/index.html")
 BARRA = ("assets/anc.css", 'id="anc-nav"', "assets/nav.js")
 # Unicos archivos que ya existian en main y esta rama puede cambiar, y solo agregando lineas: el buscador
@@ -98,7 +98,7 @@ def _destino(raiz: Path, pagina: Path, ref: str):
         rel = ruta.lstrip("/")
     else:
         rel = os.path.relpath(str(pagina.parent / ruta), str(raiz)).replace(os.sep, "/")
-    if rel.endswith("/") or rel in ("", "."):
+    if ruta.endswith("/") or rel in ("", "."):        # un link a una carpeta sirve su index.html
         rel = rel.rstrip("/") + "/index.html" if rel not in ("", ".") else "index.html"
     return rel
 
@@ -141,6 +141,10 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False):
     err = lambda m: res.append(("ERROR", m))
     avi = lambda m: res.append(("AVISO", m))
 
+    # sin area interna (assets/nav.js con INTERNO = false, como en la salida para produccion) no se exigen sus paginas
+    nav_js = raiz / "assets" / "nav.js"
+    interno = not (nav_js.exists() and "var INTERNO = false;" in nav_js.read_text(encoding="utf-8"))
+
     # 1. links y recursos de las paginas del sitio
     paginas = [p for p in PAGINAS if (raiz / p).exists()]
     if not paginas:
@@ -155,7 +159,7 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False):
         refs += re.findall(r"DATA_URL\s*=\s*['\"]([^'\"]+)['\"]", txt)
         for ref in refs:
             d = _destino(raiz, pag, ref)
-            if d is None:
+            if d is None or (not interno and d.startswith("demo-interno/")):
                 continue
             if not existe_exacto(raiz, d):
                 err("%s: el link '%s' no existe (se buscó %s, respetando mayúsculas)" % (rel, ref, d))
@@ -175,6 +179,8 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False):
     if nav.exists():
         for h in re.findall(r"\bh:\s*'([^']*)'", nav.read_text(encoding="utf-8")):
             destino = "index.html" if h == "" else h.rstrip("/") + "/index.html"
+            if not interno and destino.startswith("demo-interno/"):
+                continue
             if not existe_exacto(raiz, destino):
                 err("assets/nav.js: el destino '%s' de la barra no existe" % (h or "/"))
 
@@ -226,6 +232,26 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False):
             sin_marca = [o.get("id") for o in obj.get("operaciones", []) if "(ejemplo)" not in (o.get("partes") or "")]
             if sin_marca:
                 err("%s: operaciones sin la marca '(ejemplo)' en partes: %s" % (rel, ", ".join(map(str, sin_marca))))
+
+    # 4b. demo del seguimiento: marcada como ejemplo (los expedientes reales no van en el repo publico)
+    for f in raiz.glob("**/seguimiento*.json"):
+        rel = f.relative_to(raiz).as_posix()
+        if ".git/" in rel:
+            continue
+        try:
+            obj = json.loads(f.read_text(encoding="utf-8"))
+        except ValueError as e:
+            err("%s: JSON inválido (%s)" % (rel, e))
+            continue
+        if obj.get("origen") != "ejemplo":
+            err("%s: es un seguimiento con datos reales (origen != 'ejemplo'): no puede estar en el repo ni en el sitio público" % rel)
+            continue
+        if "EJEMPLO" not in (obj.get("aviso") or ""):
+            err("%s: el fixture no trae el aviso de EJEMPLO" % rel)
+        sin_marca = [e.get("id") for e in obj.get("expedientes", [])
+                     if "(ejemplo)" not in (e.get("operacion") or "") or "(ejemplo)" not in (e.get("analista") or "")]
+        if sin_marca:
+            err("%s: expedientes sin la marca '(ejemplo)' en operación y analista: %s" % (rel, ", ".join(map(str, sin_marca))))
 
     # 5. 404.html
     if not (raiz / "404.html").exists():
