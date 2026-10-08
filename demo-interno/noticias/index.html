@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Monitor de concentraciones (demo) — Herramientas ANC</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="../../assets/anc.css">
+<style>
+  /* estilos propios del monitor (el resto sale de assets/anc.css) */
+  .docket { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+  .case { background: var(--anc-surface); border: 1px solid var(--anc-border); border-left: 4px solid #a33a2c; border-radius: 6px;
+    padding: 14px 16px; display: grid; gap: 8px; min-width: 0; align-content: start; }
+  .case.done { border-left-color: #2f7a4b; }
+  .case.discard { border-left-color: var(--anc-muted); }
+  .case h3 { margin: 0; font-size: 1rem; }
+  .case p { margin: 0; font-size: .88rem; }
+  .why { background: #fbe5e1; color: #4d1a12; padding: 8px 10px; font-size: .85rem; border-radius: 4px; }
+  .umb { border: 1px solid var(--anc-grid); border-radius: 4px; padding: 8px 10px; display: grid; gap: 6px; font-size: .84rem; }
+  .row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .row.end { justify-content: flex-end; }
+  .lbl { font: 600 .68rem/1.2 ui-monospace, Menlo, Consolas, monospace; letter-spacing: .06em; text-transform: uppercase; color: var(--anc-ink2); }
+  .date { font: .78rem ui-monospace, Menlo, Consolas, monospace; color: var(--anc-ink2); }
+  .links { margin: 0; padding-left: 18px; font-size: .84rem; display: grid; gap: 2px; }
+  .links li { overflow-wrap: anywhere; }
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+  .filters input, .filters select { font: inherit; font-size: .85rem; padding: 6px 8px; border: 1px solid var(--anc-axis); border-radius: 6px; background: #fff; color: var(--anc-ink); }
+  .filters input { flex: 1 1 240px; }
+  .tablebox { overflow-x: auto; border: 1px solid var(--anc-border); background: var(--anc-surface); border-radius: 8px; }
+  table.reg { border-collapse: collapse; width: 100%; min-width: 1180px; font-size: .86rem; }
+  table.reg th:nth-child(1), table.reg td:nth-child(1) { width: 88px; }
+  table.reg th:nth-child(2), table.reg td:nth-child(2) { min-width: 160px; }
+  table.reg th:nth-child(8), table.reg td:nth-child(8) { min-width: 215px; }
+  .reg .links li { overflow-wrap: break-word; }
+  table.reg th { text-align: left; font: 600 .7rem/1.2 ui-monospace, Menlo, Consolas, monospace; letter-spacing: .06em; text-transform: uppercase;
+    color: var(--anc-ink2); padding: 10px 12px; border-bottom: 1px solid var(--anc-grid); background: #f4f3ef; }
+  table.reg td { padding: 10px 12px; border-bottom: 1px solid var(--anc-grid); vertical-align: top; }
+  table.reg tr:last-child td { border-bottom: 0; }
+  .reg .links { padding-left: 14px; }
+  .empty { background: var(--anc-surface); border: 1px dashed var(--anc-axis); border-radius: 8px; padding: 22px; color: var(--anc-ink2); font-size: .9rem; }
+  .reports { display: grid; gap: 10px; }
+  .rep { background: var(--anc-surface); border: 1px solid var(--anc-border); border-radius: 8px; padding: 12px 16px; display: grid; grid-template-columns: auto 1fr; gap: 4px 16px; }
+  .rep .date { grid-row: span 2; }
+  .rep p { margin: 0; font-size: .88rem; min-width: 0; }
+  .thr .anc-tile-v { font-size: 1.2rem; }
+  .thr .anc-tile small { display: block; font: .74rem ui-monospace, Menlo, Consolas, monospace; color: var(--anc-ink2); margin: .1rem 0 .3rem; }
+  .toolbar { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; justify-content: space-between; margin: .2rem 0 .8rem; }
+  @media (max-width: 520px) { .rep { grid-template-columns: 1fr; } .rep .date { grid-row: auto; } }
+</style>
+</head>
+<body class="anc">
+<div id="anc-nav"></div>
+
+<header class="anc-head"><div class="anc-head-in">
+  <h1>Monitor de concentraciones</h1>
+  <p class="anc-lead">Operaciones de concentración con posible vínculo con Argentina, con el análisis de umbrales de notificación
+  (Ley 27.442). Espejo de <b>solo lectura</b>: la carga y la verificación se hacen en el artefacto de Claude.</p>
+</div></header>
+
+<main class="anc-main">
+  <div id="banners" style="display:grid;gap:.6rem;margin-top:1rem"></div>
+
+  <section class="anc-section" aria-label="Resumen"><div class="anc-tiles" id="stats"></div></section>
+
+  <section class="anc-section" aria-labelledby="h-thr">
+    <h2 id="h-thr">Umbrales de notificación vigentes</h2>
+    <p class="anc-sub" id="thr-sub"></p>
+    <div class="anc-tiles thr" id="thr"></div>
+    <p class="anc-note" id="thr-note" style="margin:.5rem 0 0"></p>
+  </section>
+
+  <section class="anc-section" aria-labelledby="h-dock">
+    <h2 id="h-dock">A verificar ante la ANC</h2>
+    <p class="anc-sub">Operaciones que el monitor marcó como posiblemente notificables, con su análisis de umbrales. El resultado de la verificación se registra en el artefacto.</p>
+    <div class="toolbar"><span class="anc-note" id="dock-count"></span>
+      <button type="button" class="anc-btn" id="btn-registrar" disabled aria-disabled="true"
+        title="En la versión interna este botón abre el artefacto de Claude, donde se registra la verificación.">Registrar verificación en Claude ↗</button></div>
+    <div id="docket" class="docket"></div>
+  </section>
+
+  <section class="anc-section" aria-labelledby="h-reg">
+    <h2 id="h-reg">Registro de operaciones</h2>
+    <p class="anc-sub">Todas las operaciones detectadas, de la más reciente a la más antigua.</p>
+    <div class="filters">
+      <input id="f-q" type="search" placeholder="Buscar partes, sector o fuente" aria-label="Buscar">
+      <select id="f-rep" aria-label="Informe"><option value="">Todos los informes</option></select>
+      <select id="f-tipo" aria-label="Tipo"><option value="">Todos los tipos</option></select>
+      <select id="f-est" aria-label="Estado"><option value="">Confirmadas y rumores</option><option value="confirmada">Solo confirmadas</option><option value="rumor">Solo rumores</option></select>
+      <button type="button" class="anc-btn" id="btn-csv" title="CSV con separador ; y UTF-8, listo para abrir en Excel">Descargar CSV</button>
+    </div>
+    <div id="tablebox"></div>
+  </section>
+
+  <section class="anc-section" aria-labelledby="h-inf">
+    <h2 id="h-inf">Informes</h2>
+    <p class="anc-sub">Un informe cada quince días, generado automáticamente.</p>
+    <div id="reports" class="reports"></div>
+  </section>
+
+  <p class="anc-foot" id="pie"></p>
+</main>
+
+<script src="../../assets/charts.js"></script>
+<script src="../../assets/nav.js" defer></script>
+<script>
+(function () {
+  'use strict';
+  var h = window.ANCCharts.h, fmt = window.ANCCharts.fmt;
+
+  /* En la versión interna (repo privado) cambian solo estas dos constantes. */
+  var DATA_URL = '../data/monitor.sample.json';
+  var ARTEFACTO_URL = '';            // p. ej. el enlace al artefacto de Claude donde se registra la verificación
+  var DIAS_VENCIDO = 20;             // el espejo se marca como viejo a partir de estos días
+
+  var VER = { pendiente: ['Pendiente', 'flag'], notificada: ['Notificada ante la ANC', 'ok'],
+              no_notificada: ['No notificada', 'warn'], descartada: ['Descartada (no notificable)', 'mute'] };
+  var VER_ORDEN = { pendiente: 0, notificada: 1, no_notificada: 1, descartada: 2 };
+  var PRI = { 'Alta': 0, 'Media/Alta': 1, 'Media': 2, 'Baja': 3 };
+  var S = { meta: {}, ops: [], reps: [], par: {} };
+
+  function $(id) { return document.getElementById(id); }
+  function val(x) { return x === null || x === undefined || x === '' ? '—' : String(x); }
+  function dmy(d) { var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(d || ''); return m ? m[3] + '/' + m[2] + '/' + m[1] : val(d); }
+  function safeUrl(u) { return /^https?:\/\//i.test(u || '') ? u : ''; }
+  // días de calendario entre una fecha ISO y hoy (nunca negativo, aunque cambie la zona horaria)
+  function diasDesde(iso) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(iso || '');
+    if (!m) return null;
+    var d0 = new Date(+m[1], +m[2] - 1, +m[3]), t = new Date();
+    return Math.max(0, Math.round((new Date(t.getFullYear(), t.getMonth(), t.getDate()) - d0) / 86400000));
+  }
+  function pill(text, cls) { return h('span', { class: 'anc-pill' + (cls ? ' ' + cls : '') }, [text]); }
+  function ars(n) { return '$ ' + fmt(n); }
+
+  function umbPill(v) {
+    if (!v) return pill('Sin analizar', 'mute');
+    var s = v.toLowerCase();
+    var cls = (s.indexOf('supera') === 0 || s.indexOf('no aplica') === 0) ? 'flag'
+            : (s.indexOf('no supera') === 0 || s.indexOf('aplica') === 0) ? 'ok' : 'warn';
+    return pill(v, cls);
+  }
+  function priPill(o) {
+    if (!o.prioridad) return null;
+    return pill('Prioridad ' + o.prioridad.toLowerCase(), o.prioridad === 'Alta' ? 'flag' : o.prioridad === 'Baja' ? 'ok' : 'warn');
+  }
+  function estadoPill(o) { return o.estado === 'rumor' ? pill('Rumor', 'warn') : pill('Confirmada', 'ok'); }
+
+  function linksOf(o) {
+    var L = Array.isArray(o.links) && o.links.length ? o.links : (o.url ? [{ fuente: o.fuente, url: o.url }] : []);
+    return L.map(function (l) { return { fuente: l.fuente || 'Fuente', url: safeUrl(l.url) }; }).filter(function (l) { return l.url; });
+  }
+  function linksNode(o) {
+    var L = linksOf(o);
+    if (!L.length) return h('span', { class: 'date' }, [val(o.fuente)]);
+    return h('ul', { class: 'links' }, L.map(function (l) {
+      return h('li', null, [h('a', { href: l.url, target: '_blank', rel: 'noopener noreferrer' }, [l.fuente + ' ↗'])]);
+    }));
+  }
+
+  /* ---------- secciones ---------- */
+  function renderBanners() {
+    var box = $('banners'); box.textContent = '';
+    if (S.meta.origen === 'ejemplo') {
+      box.appendChild(h('div', { class: 'anc-banner', role: 'note' }, [
+        h('b', null, ['DATOS DE EJEMPLO. ']),
+        'Las empresas, cifras y fuentes de esta página son ficticias y sirven para probar la interfaz. El monitor real vive en el área interna, con login.']));
+      return;
+    }
+    var exp = S.meta.exportado_el, dias = diasDesde(exp);
+    var viejo = dias !== null && dias > DIAS_VENCIDO;
+    box.appendChild(h('div', { class: 'anc-banner ' + (viejo ? 'stale' : 'info'), role: 'note' }, [
+      h('b', null, [viejo ? 'Datos desactualizados. ' : 'Espejo de solo lectura. ']),
+      'Sincronizado el ' + dmy(exp) + (dias !== null ? ' (hace ' + dias + ' días)' : '') + '. La verificación se registra en el artefacto de Claude.']));
+  }
+
+  function renderStats() {
+    var reps = S.reps.slice().sort(function (a, b) { return (b.fecha || '').localeCompare(a.fecha || ''); });
+    var last = reps[0];
+    var flagged = S.ops.filter(function (o) { return o.relevanteANC; });
+    var pend = flagged.filter(function (o) { return !o.verificacion || o.verificacion === 'pendiente'; }).length;
+    var items = [
+      ['Último informe', last ? dmy(last.fecha) : '—', last ? 'Período ' + dmy(last.desde) + ' – ' + dmy(last.hasta || last.fecha) : ''],
+      ['Operaciones en el último informe', last ? S.ops.filter(function (o) { return o.informe === last.id; }).length : 0, ''],
+      ['A verificar ante la ANC (pendientes)', pend, 'de ' + flagged.length + ' marcadas'],
+      ['Operaciones registradas', S.ops.length, '']
+    ];
+    var box = $('stats'); box.textContent = '';
+    items.forEach(function (x) {
+      box.appendChild(h('div', { class: 'anc-tile' }, [h('div', { class: 'anc-tile-l' }, [x[0]]), h('div', { class: 'anc-tile-v' }, [String(x[1])]),
+        x[2] ? h('div', { class: 'anc-tile-n' }, [x[2]]) : null]));
+    });
+  }
+
+  function renderThr() {
+    var p = S.par || {};
+    $('thr-sub').textContent = 'Ley 27.442 · unidad móvil ' + val(p.anio) + ': $ ' + fmt(p.unidadMovil, 2) + '.';
+    var tc = p.tipoCambio;
+    var defs = [
+      ['Art. 9 · 100 millones de UM', p.art9, 'Volumen de negocio conjunto de las empresas afectadas en el país'],
+      ['Art. 11 e) · 20 millones de UM', p.art11e12m, 'Exentas si el monto y los activos en el país no superan cada uno este valor (o lo acumulado en 12 meses en el mismo mercado)'],
+      ['Art. 11 e) · 60 millones de UM', p.art11e36m, 'Tope acumulado en 36 meses en el mismo mercado']
+    ];
+    var box = $('thr'); box.textContent = '';
+    defs.forEach(function (d) {
+      box.appendChild(h('div', { class: 'anc-tile' }, [
+        h('div', { class: 'anc-tile-l' }, [d[0]]),
+        h('div', { class: 'anc-tile-v' }, [d[1] ? ars(d[1]) : '—']),
+        h('small', null, [tc && d[1] ? '≈ US$ ' + fmt(d[1] / tc / 1e6, 1) + ' millones' : '']),
+        h('div', { class: 'anc-tile-n' }, [d[2]])]));
+    });
+    var note = $('thr-note'); note.textContent = '';
+    var nu = safeUrl(p.normaUrl);
+    note.appendChild(document.createTextNode('Fuente: '));
+    note.appendChild(nu ? h('a', { href: nu, target: '_blank', rel: 'noopener noreferrer' }, [val(p.norma)]) : document.createTextNode(val(p.norma)));
+    note.appendChild(document.createTextNode((tc ? ' · conversión a dólares con el mayorista del ' + dmy(p.tipoCambioFecha) + ' ($ ' + fmt(tc) + ')' : '') + '. ' + (p.nota || '')));
+  }
+
+  function caseCard(o) {
+    var v = o.verificacion || 'pendiente';
+    var ver = VER[v] || [v, 'mute'];
+    return h('article', { class: 'case ' + (v === 'descartada' ? 'discard' : v === 'pendiente' ? '' : 'done') }, [
+      h('div', { class: 'row' }, [h('span', { class: 'date' }, [dmy(o.fecha)]), pill(val(o.tipo)), estadoPill(o), priPill(o), o.seguimiento ? pill(o.seguimiento, 'mute') : null]),
+      h('h3', null, [val(o.partes)]),
+      h('p', null, [h('strong', null, ['Sector: ']), val(o.sector) + ' · ', h('strong', null, ['Alcance: ']), val(o.alcance)]),
+      h('p', null, [h('strong', null, ['Vínculo con Argentina: ']), val(o.vinculoAR)]),
+      o.motivoANC ? h('div', { class: 'why' }, [h('strong', null, ['Por qué verificar: ']), o.motivoANC]) : null,
+      h('div', { class: 'umb' }, [
+        h('div', { class: 'row' }, [h('span', { class: 'lbl' }, ['Art. 9']), umbPill(o.umbralArt9), h('span', { class: 'lbl' }, ['Exención 11 e)']), umbPill(o.excepcion11e)]),
+        o.analisisUmbral ? h('span', null, [o.analisisUmbral]) : null]),
+      h('div', null, [h('span', { class: 'lbl' }, ['Fuentes']), linksNode(o)]),
+      h('div', { class: 'row end' }, [o.verificadoEl ? h('span', { class: 'date' }, ['Verificado el ' + dmy(o.verificadoEl)]) : null, pill(ver[0], ver[1])])
+    ]);
+  }
+
+  function renderDocket() {
+    var dk = S.ops.filter(function (o) { return o.relevanteANC; }).sort(function (a, b) {
+      return ((VER_ORDEN[a.verificacion || 'pendiente'] || 0) - (VER_ORDEN[b.verificacion || 'pendiente'] || 0)) ||
+             ((PRI[a.prioridad] === undefined ? 9 : PRI[a.prioridad]) - (PRI[b.prioridad] === undefined ? 9 : PRI[b.prioridad])) ||
+             (b.fecha || '').localeCompare(a.fecha || '');
+    });
+    var box = $('docket'); box.textContent = '';
+    $('dock-count').textContent = dk.length + (dk.length === 1 ? ' operación marcada' : ' operaciones marcadas');
+    if (!dk.length) { box.appendChild(h('div', { class: 'empty' }, ['Todavía no hay operaciones marcadas. Cuando un informe detecte un caso posiblemente notificable, aparece acá con el motivo y el análisis de umbrales.'])); return; }
+    dk.forEach(function (o) { box.appendChild(caseCard(o)); });
+  }
+
+  function filtered() {
+    var q = $('f-q').value.trim().toLowerCase(), fr = $('f-rep').value, ft = $('f-tipo').value, fe = $('f-est').value;
+    return S.ops.slice().sort(function (a, b) { return (b.fecha || '').localeCompare(a.fecha || ''); }).filter(function (o) {
+      return (!fr || o.informe === fr) && (!ft || o.tipo === ft) && (!fe || (o.estado || 'confirmada') === fe) &&
+        (!q || [o.partes, o.sector, o.fuente, o.alcance, o.vinculoAR].concat(linksOf(o).map(function (l) { return l.fuente; })).join(' ').toLowerCase().indexOf(q) >= 0);
+    });
+  }
+
+  function renderRegister() {
+    var rows = filtered(), box = $('tablebox'); box.textContent = '';
+    if (!rows.length) { box.appendChild(h('div', { class: 'empty' }, [S.ops.length ? 'Ninguna operación coincide con los filtros.' : 'El registro está vacío.'])); return; }
+    var head = ['Fecha', 'Partes', 'Tipo', 'Sector', 'Vínculo con Argentina', 'Umbrales', 'Estado', 'Fuentes'];
+    box.appendChild(h('div', { class: 'tablebox' }, [h('table', { class: 'reg' }, [
+      h('caption', { class: 'anc-sr' }, ['Registro de operaciones']),
+      h('thead', null, [h('tr', null, head.map(function (t) { return h('th', { scope: 'col' }, [t]); }))]),
+      h('tbody', null, rows.map(function (o) {
+        return h('tr', null, [
+          h('td', null, [h('span', { class: 'date' }, [dmy(o.fecha)])]),
+          h('td', null, [h('strong', null, [val(o.partes)]), o.relevanteANC ? ' ' : null, o.relevanteANC ? pill('ANC', 'flag') : null]),
+          h('td', null, [val(o.tipo)]), h('td', null, [val(o.sector)]), h('td', null, [val(o.vinculoAR)]),
+          h('td', null, [h('div', { class: 'row' }, [h('span', { class: 'lbl' }, ['Art. 9']), umbPill(o.umbralArt9)]),
+                         h('div', { class: 'row', style: 'margin-top:4px' }, [h('span', { class: 'lbl' }, ['11 e)']), umbPill(o.excepcion11e)])]),
+          h('td', null, [h('div', { class: 'row' }, [estadoPill(o), priPill(o)]), o.etapa ? h('div', { class: 'date' }, [o.etapa]) : null,
+                         o.relevanteANC ? h('div', { class: 'row', style: 'margin-top:4px' }, [pill((VER[o.verificacion || 'pendiente'] || ['—', 'mute'])[0], (VER[o.verificacion || 'pendiente'] || ['', 'mute'])[1])]) : null]),
+          h('td', null, [linksNode(o)])
+        ]);
+      }))
+    ])]));
+  }
+
+  function renderReports() {
+    var box = $('reports'); box.textContent = '';
+    var reps = S.reps.slice().sort(function (a, b) { return (b.fecha || '').localeCompare(a.fecha || ''); });
+    if (!reps.length) { box.appendChild(h('div', { class: 'empty' }, ['Sin informes todavía.'])); return; }
+    reps.forEach(function (r) {
+      box.appendChild(h('div', { class: 'rep' }, [
+        h('span', { class: 'date' }, [dmy(r.fecha)]),
+        h('p', null, [h('strong', null, [(r.total === undefined ? 0 : r.total) + ' operaciones']), ' · ' + (r.relevantes === undefined ? 0 : r.relevantes) + ' a verificar · período ' + dmy(r.desde) + ' – ' + dmy(r.hasta || r.fecha)]),
+        h('p', null, [val(r.resumen)])]));
+    });
+  }
+
+  function fillSelect(sel, opts) {
+    opts.forEach(function (o) { sel.appendChild(h('option', { value: o[0] }, [o[1]])); });
+  }
+
+  /* ---------- CSV (separador ;, UTF-8 con BOM: se abre bien en Excel es-AR) ---------- */
+  var COLS = ['fecha', 'partes', 'tipo', 'sector', 'alcance', 'vinculoAR', 'estado', 'etapa', 'prioridad', 'relevanteANC',
+              'umbralArt9', 'excepcion11e', 'analisisUmbral', 'motivoANC', 'verificacion', 'verificadoEl', 'fuente', 'links'];
+  function csvCell(v) {
+    var s = v === null || v === undefined ? '' : String(v);
+    if (/^[=+\-@\t\r]/.test(s)) s = "'" + s;               // evita que Excel interprete texto de la prensa como fórmula
+    return /[";\n\r]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+  }
+  function toCsv(rows) {
+    var lines = [COLS.join(';')];
+    rows.forEach(function (o) {
+      lines.push(COLS.map(function (c) {
+        if (c === 'links') return csvCell(linksOf(o).map(function (l) { return l.fuente + ' <' + l.url + '>'; }).join(' | '));
+        if (c === 'relevanteANC') return o.relevanteANC ? 'sí' : 'no';
+        return csvCell(o[c]);
+      }).join(';'));
+    });
+    return '﻿' + lines.join('\r\n') + '\r\n';
+  }
+  function descargarCsv() {
+    var blob = new Blob([toCsv(filtered())], { type: 'text/csv;charset=utf-8' });
+    var a = h('a', { href: URL.createObjectURL(blob), download: 'monitor_operaciones' + (S.meta.origen === 'ejemplo' ? '_EJEMPLO' : '') + '.csv' });
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+    setTimeout(function () { URL.revokeObjectURL(a.href); }, 1000);
+  }
+
+  function init() {
+    var reps = S.reps.slice().sort(function (a, b) { return (b.fecha || '').localeCompare(a.fecha || ''); });
+    fillSelect($('f-rep'), reps.map(function (r) { return [r.id, 'Informe ' + dmy(r.fecha)]; }));
+    var tipos = []; S.ops.forEach(function (o) { if (o.tipo && tipos.indexOf(o.tipo) < 0) tipos.push(o.tipo); });
+    fillSelect($('f-tipo'), tipos.sort().map(function (t) { return [t, t]; }));
+    ['f-q', 'f-rep', 'f-tipo', 'f-est'].forEach(function (id) { $(id).addEventListener('input', renderRegister); });
+    $('btn-csv').addEventListener('click', descargarCsv);
+    var btn = $('btn-registrar');
+    if (ARTEFACTO_URL) {
+      btn.removeAttribute('disabled'); btn.setAttribute('aria-disabled', 'false');
+      btn.addEventListener('click', function () { window.open(ARTEFACTO_URL, '_blank', 'noopener'); });
+    }
+    $('pie').textContent = 'Las operaciones las carga una tarea programada de Claude a partir de prensa, comunicados y fuentes regulatorias públicas. ' +
+      'El análisis de umbrales es una estimación con datos públicos: verificar siempre contra la fuente y los estados contables antes de usar. ' +
+      '«No encontrada en el registro» nunca equivale a «no notificada».';
+    renderBanners(); renderStats(); renderThr(); renderDocket(); renderRegister(); renderReports();
+  }
+
+  fetch(DATA_URL, { cache: 'no-store' }).then(function (r) {
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    return r.json();
+  }).then(function (d) {
+    S.meta = { origen: d.origen, exportado_el: d.exportado_el, schema_version: d.schema_version };
+    S.ops = d.operaciones || []; S.reps = d.informes || []; S.par = d.parametros || {};
+    init();
+  }).catch(function (e) {
+    $('banners').appendChild(h('div', { class: 'anc-banner stale', role: 'alert' }, [h('b', null, ['No se pudo cargar el archivo de datos. ']), String(e.message || e)]));
+  });
+})();
+</script>
+</body>
+</html>
