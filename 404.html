@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>No encontramos esa página — Herramientas ANC</title>
+<link rel="icon" href="data:,">
+<!-- Esta página se sirve ante CUALQUIER ruta inexistente (por ejemplo /a/b/c), por eso los recursos van con ruta absoluta. -->
+<link rel="stylesheet" href="/assets/anc.css">
+</head>
+<body class="anc">
+<div id="anc-nav"></div>
+<header class="anc-head"><div class="anc-head-in">
+  <h1>No encontramos esa página</h1>
+  <p class="anc-lead">La dirección no existe o cambió de lugar.</p>
+</div></header>
+<main class="anc-main">
+  <section class="anc-section">
+    <div class="anc-card anc-note">
+      <p id="pdf-note" hidden style="margin-top:0"><b>Ese PDF no está disponible por ahora.</b> Si llegaste desde un expediente del buscador, puede que el archivo todavía no esté cargado.</p>
+      <ul>
+        <li><a href="/">Volver al Buscador de mercados relevantes</a></li>
+        <li><a href="/herramientas/">Ver todas las herramientas</a></li>
+      </ul>
+    </div>
+  </section>
+</main>
+<script src="/assets/nav.js" defer></script>
+<script>
+if (/^\/pdf\//i.test(location.pathname)) document.getElementById('pdf-note').hidden = false;
+</script>
+</body>
+</html>
