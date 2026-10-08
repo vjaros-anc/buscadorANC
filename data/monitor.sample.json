@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "demo": true,
+  "operaciones": [
+    {"id":"DEMO-01","fecha":"2026-09-28","comprador":"Grupo Ejemplo A","objeto":"Empresa Ejemplo B","sector":"Alimentos","operacion":"Adquisición de una empresa de alimentos","estado":"A verificar","fuente":"Fuente ficticia de demostración"},
+    {"id":"DEMO-02","fecha":"2026-09-25","comprador":"Grupo Ejemplo C","objeto":"Empresa Ejemplo D","sector":"Energía","operacion":"Compra de activos de generación","estado":"Notificada","fuente":"Fuente ficticia de demostración"},
+    {"id":"DEMO-03","fecha":"2026-09-22","comprador":"Grupo Ejemplo E","objeto":"Empresa Ejemplo F","sector":"Comercio","operacion":"Adquisición de una cadena comercial","estado":"En revisión","fuente":"Fuente ficticia de demostración"},
+    {"id":"DEMO-04","fecha":"2026-09-18","comprador":"Grupo Ejemplo G","objeto":"Empresa Ejemplo H","sector":"Tecnología","operacion":"Adquisición de una empresa de software","estado":"A verificar","fuente":"Fuente ficticia de demostración"},
+    {"id":"DEMO-05","fecha":"2026-09-14","comprador":"Grupo Ejemplo I","objeto":"Empresa Ejemplo J","sector":"Alimentos","operacion":"Constitución de una empresa conjunta","estado":"Notificada","fuente":"Fuente ficticia de demostración"},
+    {"id":"DEMO-06","fecha":"2026-09-09","comprador":"Grupo Ejemplo K","objeto":"Empresa Ejemplo L","sector":"Transporte","operacion":"Adquisición de activos logísticos","estado":"En revisión","fuente":"Fuente ficticia de demostración"},
+    {"id":"DEMO-07","fecha":"2026-09-05","comprador":"Grupo Ejemplo M","objeto":"Empresa Ejemplo N","sector":"Energía","operacion":"Adquisición de participación accionaria","estado":"A verificar","fuente":"Fuente ficticia de demostración"},
+    {"id":"DEMO-08","fecha":"2026-09-01","comprador":"Grupo Ejemplo O","objeto":"Empresa Ejemplo P","sector":"Comercio","operacion":"Compra de una unidad de negocios","estado":"A verificar","fuente":"Fuente ficticia de demostración"}
+  ]
+}

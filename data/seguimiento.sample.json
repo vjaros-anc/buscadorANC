@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "demo": true,
+  "corte": "2026-10-07",
+  "expedientes": [
+    {"id":"DEMO-CONC-01","operacion":"Operación ficticia A","analista":"Analista A","tipo":"Ordinario","estado":"Análisis","ingreso":"2025-12-10","revision":"2026-10-12"},
+    {"id":"DEMO-CONC-02","operacion":"Operación ficticia B","analista":"Analista B","tipo":"PROSUM","estado":"Requerimiento","ingreso":"2026-08-18","revision":"2026-10-14"},
+    {"id":"DEMO-CONC-03","operacion":"Operación ficticia C","analista":"Analista C","tipo":"Ordinario","estado":"Dictamen","ingreso":"2026-01-22","revision":"2026-10-09"},
+    {"id":"DEMO-CONC-04","operacion":"Operación ficticia D","analista":"Analista A","tipo":"Ordinario","estado":"Requerimiento","ingreso":"2026-04-03","revision":"2026-11-02"},
+    {"id":"DEMO-CONC-05","operacion":"Operación ficticia E","analista":"Analista D","tipo":"PROSUM","estado":"Análisis","ingreso":"2026-09-05","revision":"2026-10-21"},
+    {"id":"DEMO-CONC-06","operacion":"Operación ficticia F","analista":"Analista B","tipo":"Ordinario","estado":"Resolución","ingreso":"2026-02-15","revision":"2026-10-10"},
+    {"id":"DEMO-CONC-07","operacion":"Operación ficticia G","analista":"Analista C","tipo":"Ordinario","estado":"Análisis","ingreso":"2026-05-20","revision":"2026-10-28"},
+    {"id":"DEMO-CONC-08","operacion":"Operación ficticia H","analista":"Analista D","tipo":"PROSUM","estado":"Ingreso","ingreso":"2026-10-01","revision":"2026-10-19"},
+    {"id":"DEMO-CONC-09","operacion":"Operación ficticia I","analista":"Analista A","tipo":"Ordinario","estado":"Dictamen","ingreso":"2025-11-20","revision":"2026-10-15"},
+    {"id":"DEMO-CONC-10","operacion":"Operación ficticia J","analista":"Analista B","tipo":"Ordinario","estado":"Ingreso","ingreso":"2026-09-25","revision":"2026-10-30"},
+    {"id":"DEMO-CONC-11","operacion":"Operación ficticia K","analista":"Analista C","tipo":"PROSUM","estado":"Análisis","ingreso":"2026-07-18","revision":"2026-10-20"},
+    {"id":"DEMO-CONC-12","operacion":"Operación ficticia L","analista":"Analista D","tipo":"Ordinario","estado":"Requerimiento","ingreso":"2026-03-11","revision":"2026-11-05"}
+  ]
+}
