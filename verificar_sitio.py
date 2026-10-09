@@ -8,9 +8,12 @@ Revisa lo que se va a publicar y devuelve codigo de salida 1 si hay algun ERROR:
   - archivos de datos que las paginas piden con fetch / DATA_URL
   - destinos de la barra de navegacion (assets/nav.js)
   - ningun archivo > 20 MiB ni mas de 20.000 archivos (limites de Cloudflare Pages)
-  - nada de la lista negra (Res_firmadas, *.xlsm, cotejo_*, evol_conc*, claves de API)
+  - nada de la lista negra: claves de API siempre; los datos internos (Res_firmadas, *.xlsm, cotejo_*, evol_conc*)
+    y el seguimiento real (origen "interno") son ERROR en la rama main y en el dist/ que se publica, y solo una
+    nota (INFO) en la rama del area interna, que se publica detras de Cloudflare Access (ver SITIO.md)
   - los JSON de data/ son validos y traen schema_version
   - la demo del monitor esta marcada como ejemplo y NO hay un monitor.json real en el arbol
+  - el seguimiento es schema_version 2: el fixture esta marcado como ejemplo; uno real solo puede ser "interno"
   - las paginas del area interna no cargan Analytics y piden noindex
   - que el buscador (index.html) lleve la barra comun (aviso si no)
   - (opcional, --aditivo) que la rama solo agregue archivos respecto de main; unica excepcion: index.html y
@@ -50,7 +53,11 @@ BARRA = ("assets/anc.css", 'id="anc-nav"', "assets/nav.js")
 MODIFICABLES = ("index.html", "generar_pagina.py")
 LIMITE_BYTES = 20 * 1024 * 1024        # Cloudflare Pages: 25 MiB por archivo; se avisa antes
 LIMITE_ARCHIVOS = 20000
-LISTA_NEGRA = ["*.xlsm", "Res_firmadas*", "cotejo_*", "evol_conc*", "api_key*", "*.key", ".env", "~$*", "*.db"]
+LISTA_NEGRA_SIEMPRE = ["api_key*", "*.key", ".env", "~$*", "*.db"]
+# Datos internos: error en main y en lo que se publica (dist/); en la rama privada del area interna, solo una nota.
+LISTA_NEGRA_INTERNA = ["*.xlsm", "Res_firmadas*", "cotejo_*", "evol_conc*"]
+LISTA_NEGRA = LISTA_NEGRA_INTERNA + LISTA_NEGRA_SIEMPRE
+SEGUIMIENTO_SCHEMA = 2
 RX_CLAVE = re.compile(r"sk-ant-[A-Za-z0-9_\-]{20,}")
 ESQUEMAS_EXTERNOS = ("http:", "https:", "mailto:", "tel:", "data:", "javascript:", "blob:")
 
@@ -135,11 +142,30 @@ def archivos_publicables(raiz: Path):
     return todos, False
 
 
-def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False):
-    """Devuelve una lista de (nivel, mensaje); nivel = 'ERROR' o 'AVISO'."""
+def rama_actual(raiz: Path) -> str:
+    """Rama que se esta construyendo: CF_PAGES_BRANCH (Cloudflare), GITHUB_REF_NAME (Actions) o la de git ('' si no se sabe)."""
+    for var in ("CF_PAGES_BRANCH", "GITHUB_REF_NAME"):
+        if os.environ.get(var):
+            return os.environ[var]
+    try:
+        out = subprocess.run(["git", "-C", str(raiz), "rev-parse", "--abbrev-ref", "HEAD"],
+                             capture_output=True, check=True).stdout.decode("utf-8", "replace").strip()
+        return "" if out == "HEAD" else out
+    except (OSError, subprocess.CalledProcessError):
+        return ""
+
+
+def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False, rama=None):
+    """Devuelve una lista de (nivel, mensaje); nivel = 'ERROR', 'AVISO' o 'INFO'. `rama` fuerza la rama (por defecto, la actual)."""
     res = []
     err = lambda m: res.append(("ERROR", m))
     avi = lambda m: res.append(("AVISO", m))
+    info = lambda m: res.append(("INFO", m))
+    # los datos internos solo pueden vivir en una rama que se publica detras de Cloudflare Access, nunca en main
+    # (produccion publica). El seguimiento real (JSON) es lo que esa rama publica, asi que tambien puede estar en su
+    # dist/; los archivos fuente (Res_firmadas.xlsm, cotejos) no se publican jamas: en dist/ son error.
+    en_main = (rama_actual(raiz) if rama is None else rama) == "main"
+    fuentes_ok = not en_main and not solo_dist
 
     # sin area interna (assets/nav.js con INTERNO = false, como en la salida para produccion) no se exigen sus paginas
     nav_js = raiz / "assets" / "nav.js"
@@ -233,7 +259,8 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False):
             if sin_marca:
                 err("%s: operaciones sin la marca '(ejemplo)' en partes: %s" % (rel, ", ".join(map(str, sin_marca))))
 
-    # 4b. demo del seguimiento: marcada como ejemplo (los expedientes reales no van en el repo publico)
+    # 4b. seguimiento: el fixture esta marcado como ejemplo; el real (origen "interno", lo escribe generar_seguimiento.py)
+    #     solo puede estar fuera de main
     for f in raiz.glob("**/seguimiento*.json"):
         rel = f.relative_to(raiz).as_posix()
         if ".git/" in rel:
@@ -243,15 +270,24 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False):
         except ValueError as e:
             err("%s: JSON inválido (%s)" % (rel, e))
             continue
+        if obj.get("schema_version") != SEGUIMIENTO_SCHEMA:
+            err("%s: schema_version %r; la página de seguimiento lee la versión %d" % (rel, obj.get("schema_version"), SEGUIMIENTO_SCHEMA))
+        if obj.get("origen") == "interno":
+            if en_main:
+                err("%s: es un seguimiento con expedientes reales (origen 'interno'): no puede estar en la rama main ni en el sitio público" % rel)
+            else:
+                info("%s: seguimiento con expedientes reales (origen 'interno'): se publica solo detrás de Cloudflare Access; no mergear a main" % rel)
+            continue
         if obj.get("origen") != "ejemplo":
-            err("%s: es un seguimiento con datos reales (origen != 'ejemplo'): no puede estar en el repo ni en el sitio público" % rel)
+            err("%s: origen %r desconocido (solo 'ejemplo' o 'interno')" % (rel, obj.get("origen")))
             continue
         if "EJEMPLO" not in (obj.get("aviso") or ""):
             err("%s: el fixture no trae el aviso de EJEMPLO" % rel)
         sin_marca = [e.get("id") for e in obj.get("expedientes", [])
-                     if "(ejemplo)" not in (e.get("operacion") or "") or "(ejemplo)" not in (e.get("analista") or "")]
+                     if "(ejemplo)" not in (e.get("operacion") or "")
+                     or any("(ejemplo)" not in p for p in (e.get("abogados") or []) + (e.get("economistas") or []))]
         if sin_marca:
-            err("%s: expedientes sin la marca '(ejemplo)' en operación y analista: %s" % (rel, ", ".join(map(str, sin_marca))))
+            err("%s: expedientes sin la marca '(ejemplo)' en operación, abogados y economistas: %s" % (rel, ", ".join(map(str, sin_marca))))
 
     # 5. 404.html
     if not (raiz / "404.html").exists():
@@ -274,7 +310,10 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False):
         nombre = rel.rsplit("/", 1)[-1]
         for patron in LISTA_NEGRA:
             if fnmatch.fnmatch(nombre, patron) or fnmatch.fnmatch(rel, patron):
-                err("%s: coincide con la lista negra (%s)" % (rel, patron))
+                if patron in LISTA_NEGRA_INTERNA and fuentes_ok:
+                    info("%s: dato interno (%s): no se publica con build_site.py ni puede llegar a main" % (rel, patron))
+                else:
+                    err("%s: coincide con la lista negra (%s)" % (rel, patron))
                 break
         if tam < 2 * 1024 * 1024 and p.suffix.lower() in (".txt", ".md", ".py", ".json", ".html", ".js", ".csv", ".yml", ".yaml"):
             try:
@@ -314,7 +353,8 @@ def main() -> int:
     errores = [m for n, m in res if n == "ERROR"]
     for n, m in res:
         print("[%s] %s" % (n, m))
-    print("\nverificar_sitio: %d error(es), %d aviso(s) en %s" % (len(errores), len(res) - len(errores), raiz))
+    print("\nverificar_sitio: %d error(es), %d aviso(s), %d nota(s) en %s"
+          % (len(errores), sum(1 for n, _ in res if n == "AVISO"), sum(1 for n, _ in res if n == "INFO"), raiz))
     return 1 if errores else 0
 
 

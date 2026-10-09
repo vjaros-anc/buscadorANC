@@ -22,7 +22,7 @@
     { k: 'opis',         t: 'OPIs',          h: 'opis/' },
     { k: 'estadisticas', t: 'Estadísticas',  h: 'conc/' },
     { k: 'mercados',     t: 'Mercados',      soon: true },
-    { k: 'interno',      t: 'Área interna 🔒', h: 'demo-interno/', tag: 'demo' },
+    { k: 'interno',      t: 'Área interna 🔒', h: 'demo-interno/' },
     { k: 'mapa',         t: 'Mapa',          h: 'herramientas/' }
   ];
 

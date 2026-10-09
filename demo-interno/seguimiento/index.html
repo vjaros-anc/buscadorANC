@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>Seguimiento de expedientes (demo) — Herramientas ANC</title>
+<title>Seguimiento de expedientes — Herramientas ANC</title>
 <link rel="icon" href="data:,">
 <link rel="stylesheet" href="../../assets/anc.css">
 <style>
@@ -15,19 +15,17 @@
   table.exp th { background: #f4f3ef; color: var(--anc-ink2); font-weight: 600; white-space: nowrap; }
   table.exp td.num, table.exp th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
   table.exp tr:last-child td { border-bottom: 0; }
-  table.exp .op { display: block; color: var(--anc-ink2); font-size: .8rem; }
-  table.exp .rev { white-space: nowrap; }
-  table.exp .rev small { display: block; color: var(--anc-ink2); }
-  table.exp .vencida small { color: #8a2a1d; font-weight: 600; }
+  table.exp .op { display: block; color: var(--anc-ink2); font-size: .8rem; max-width: 46ch; }
+  table.exp td.eq { min-width: 9ch; }
 </style>
 </head>
 <body class="anc">
 <div id="anc-nav"></div>
 <header class="anc-head"><div class="anc-head-in">
-  <p class="anc-crumb"><a href="../">Área interna (demo)</a> › Seguimiento</p>
-  <h1>Seguimiento de expedientes <span class="anc-pill warn">demo</span></h1>
-  <p class="anc-lead">Carga de trabajo por analista, estado y antigüedad de los expedientes en trámite, con las revisiones próximas.
-  Hoy la página muestra expedientes ficticios; en el área interna se alimentará con el Excel de seguimiento.</p>
+  <p class="anc-crumb"><a href="../">Área interna</a> › Seguimiento</p>
+  <h1 id="titulo">Seguimiento de expedientes</h1>
+  <p class="anc-lead">Concentraciones en trámite: carga de trabajo por abogado y por economista, estado, procedimiento y antigüedad,
+  con descarga en CSV. Los datos salen del Excel de seguimiento del área.</p>
 </div></header>
 
 <main class="anc-main" id="contenido">
@@ -35,7 +33,8 @@
   <section class="anc-section" id="banners" aria-label="Avisos"></section>
   <section class="anc-section" aria-label="Filtros">
     <form class="anc-filters" id="filtros" autocomplete="off">
-      <label class="anc-field">Analista<select id="f-analista"></select></label>
+      <label class="anc-field">Abogado<select id="f-abogado"></select></label>
+      <label class="anc-field">Economista<select id="f-economista"></select></label>
       <label class="anc-field">Estado<select id="f-estado"></select></label>
       <label class="anc-field">Procedimiento<select id="f-tipo"></select></label>
       <button type="button" class="anc-btn" id="f-limpiar">Limpiar filtros</button>
@@ -44,16 +43,16 @@
     <p class="anc-filter-status" id="estado" role="status" aria-live="polite"></p>
   </section>
   <section class="anc-section" aria-label="Indicadores"><div class="anc-tiles" id="tiles"></div></section>
-  <section class="anc-section anc-grid2"><div class="anc-card" id="ch-analista"></div><div class="anc-card" id="ch-estado"></div></section>
-  <section class="anc-section"><div class="anc-card" id="ch-edad"></div></section>
+  <section class="anc-section anc-grid2"><div class="anc-card" id="ch-abogado"></div><div class="anc-card" id="ch-economista"></div></section>
+  <section class="anc-section anc-grid2"><div class="anc-card" id="ch-estado"></div><div class="anc-card" id="ch-edad"></div></section>
   <section class="anc-section">
     <h2>Expedientes</h2>
-    <p class="anc-sub">Ordenados por la próxima revisión. La revisión es un hito de gestión, no un vencimiento legal.</p>
+    <p class="anc-sub">Ordenados por antigüedad, del más antiguo al más reciente.</p>
     <div class="tablebox"><table class="exp">
       <caption class="anc-sr">Expedientes de la selección</caption>
       <thead><tr>
-        <th scope="col">Expediente</th><th scope="col">Analista</th><th scope="col">Procedimiento</th><th scope="col">Estado</th>
-        <th scope="col" class="num">Ingreso</th><th scope="col" class="num">Antigüedad (días)</th><th scope="col">Próxima revisión</th>
+        <th scope="col">Expediente</th><th scope="col">Abogados</th><th scope="col">Economistas</th><th scope="col">Procedimiento</th>
+        <th scope="col">Estado</th><th scope="col" class="num">Ingreso</th><th scope="col" class="num">Antigüedad (días)</th>
       </tr></thead>
       <tbody id="filas"></tbody>
     </table></div>
@@ -71,16 +70,18 @@
 <script>
 (function () {
   'use strict';
+  // Se pide primero DATA_REAL (lo escribe generar_seguimiento.py a partir de Res_firmadas.xlsm; solo existe en el sitio
+  // del area interna). Si no esta (404), se muestra DATA_URL, el fixture con datos de EJEMPLO, que siempre existe.
   var DATA_URL = '../data/seguimiento.sample.json';
-  // Esta página es la demo pública: se niega a mostrar datos que no estén marcados como de ejemplo.
-  // Al pasarla al área interna (con login) se pone en false y se apunta DATA_URL al JSON real.
-  var SOLO_EJEMPLO = true;
+  var DATA_REAL = '../data/seguimiento.json';
+  var DIAS_EXCEL_VIEJO = 7;      // si el Excel se calculo hace mas que esto, se avisa
 
   var A = window.ANCCharts, h = A.h, fmt = A.fmt, pct = A.pct;
-  var S = { rows: [], estados: [], corte: '', origen: '' };
-  var F = { analista: '', estado: '', tipo: '' };
+  var S = { rows: [], estados: [], corte: '', origen: '', excelCorte: null };
+  var F = { abogado: '', economista: '', estado: '', tipo: '' };
   var ISO = /^\d{4}-\d{2}-\d{2}$/;
   var COHORTES = [['Hasta 90 días', 0, 90], ['91 a 180 días', 91, 180], ['181 a 365 días', 181, 365], ['Más de 365 días', 366, Infinity]];
+  var CLASE_ESTADO = { 'Suspendida': ' warn', 'Para resolución': ' ok', 'Pendiente de presentación': ' mute' };
 
   function $(id) { return document.getElementById(id); }
   function dmy(iso) { var p = iso.split('-'); return p[2] + '/' + p[1] + '/' + p[0]; }
@@ -95,18 +96,41 @@
   }
   function cmp(a, b) { return a < b ? -1 : a > b ? 1 : 0; }
   function unicos(xs) { return xs.filter(function (x, i) { return x && xs.indexOf(x) === i; }); }
+  function lista(x) { return Array.isArray(x) ? x.map(String).filter(Boolean) : []; }
+  function nombres(xs) { return xs.length ? xs.join(', ') : '—'; }
+  function p1(n, t) { return t ? Math.round(1000 * n / t) / 10 : 0; }
+  function esEjemplo() { return S.origen === 'ejemplo'; }
 
   function seleccion() {
     return S.rows.filter(function (r) {
-      return (!F.analista || r.analista === F.analista) && (!F.estado || r.estado === F.estado) && (!F.tipo || r.tipo === F.tipo);
+      return (!F.abogado || r.abogados.indexOf(F.abogado) >= 0) && (!F.economista || r.economistas.indexOf(F.economista) >= 0) &&
+        (!F.estado || r.estado === F.estado) && (!F.tipo || r.tipo === F.tipo);
     });
   }
-  function p1(n, t) { return t ? Math.round(1000 * n / t) / 10 : 0; }
+
+  // cuántos expedientes de la selección tiene cada persona (un expediente suma a cada una de las asignadas)
+  function carga(sel, campo) {
+    var c = {};
+    sel.forEach(function (r) {
+      if (!r[campo].length) c['Sin asignar'] = (c['Sin asignar'] || 0) + 1;
+      r[campo].forEach(function (a) { c[a] = (c[a] || 0) + 1; });
+    });
+    return c;
+  }
+  function barrasEquipo(donde, titulo, singular, c, n, vacio) {
+    A.hbars($(donde), {
+      title: titulo, unit: 'expedientes', emptyMsg: vacio,
+      subtitle: 'Expedientes de la selección asignados a cada ' + singular + '. Un expediente suma a todos los asignados.',
+      items: Object.keys(c).sort(function (a, b) { return c[b] - c[a] || cmp(a, b); })
+        .map(function (a) { return { label: a, value: c[a], pct: p1(c[a], n) }; })
+    });
+  }
 
   function pintar() {
-    var sel = seleccion(), n = sel.length, filtrado = !!(F.analista || F.estado || F.tipo);
+    var sel = seleccion(), n = sel.length, filtrado = !!(F.abogado || F.economista || F.estado || F.tipo);
     var partes = [];
-    if (F.analista) partes.push('analista ' + F.analista);
+    if (F.abogado) partes.push('abogado ' + F.abogado);
+    if (F.economista) partes.push('economista ' + F.economista);
     if (F.estado) partes.push('estado ' + F.estado);
     if (F.tipo) partes.push('procedimiento ' + F.tipo);
     $('estado').textContent = filtrado
@@ -119,16 +143,14 @@
     // indicadores
     var edades = sel.map(function (r) { return r.edad; });
     var viejos = sel.filter(function (r) { return r.edad > 180; }).length;
-    var prox = sel.filter(function (r) { return r.dias !== null && r.dias >= 0 && r.dias <= 15; }).length;
-    var venc = sel.filter(function (r) { return r.dias !== null && r.dias < 0; }).length;
+    var muyViejos = sel.filter(function (r) { return r.edad > 365; }).length;
     var ord = sel.filter(function (r) { return r.tipo === 'Ordinario'; }).length, pro = sel.filter(function (r) { return r.tipo === 'PROSUM'; }).length;
     var tiles = [
       { hero: true, l: filtrado ? 'Expedientes en la selección' : 'Expedientes en trámite', v: fmt(n),
         n: fmt(ord) + ' ordinarios · ' + fmt(pro) + ' PROSUM' + (filtrado ? ' · de ' + fmt(S.rows.length) + ' en total' : '') },
       { l: 'Antigüedad mediana', v: n ? fmt(Math.floor(mediana(edades) + 0.5)) + ' días' : '—', n: 'Días corridos desde el ingreso, al ' + dmy(S.corte) },
       { l: 'Más de 180 días', v: fmt(viejos), n: n ? pct(p1(viejos, n)) + ' de la selección' : '—' },
-      { l: 'Revisión en 15 días', v: fmt(prox), n: 'Hito de gestión, no vencimiento legal' },
-      { l: 'Revisión vencida', v: fmt(venc), n: 'La fecha de revisión es anterior al corte' }
+      { l: 'Más de 365 días', v: fmt(muyViejos), n: n ? pct(p1(muyViejos, n)) + ' de la selección' : '—' }
     ];
     var box = $('tiles');
     box.textContent = '';
@@ -139,19 +161,14 @@
 
     // gráficos
     var vacio = 'Ningún expediente cumple estos filtros.';
-    var porAn = {}; sel.forEach(function (r) { porAn[r.analista] = (porAn[r.analista] || 0) + 1; });
-    A.hbars($('ch-analista'), {
-      title: 'Carga por analista', unit: 'expedientes', emptyMsg: vacio,
-      subtitle: 'Expedientes de la selección asignados a cada analista.',
-      items: Object.keys(porAn).sort(function (a, b) { return porAn[b] - porAn[a] || cmp(a, b); })
-        .map(function (a) { return { label: a, value: porAn[a], pct: p1(porAn[a], n) }; })
-    });
+    barrasEquipo('ch-abogado', 'Carga por abogado', 'abogado', carga(sel, 'abogados'), n, vacio);
+    barrasEquipo('ch-economista', 'Carga por economista', 'economista', carga(sel, 'economistas'), n, vacio);
     var porEs = {}; sel.forEach(function (r) { porEs[r.estado] = (porEs[r.estado] || 0) + 1; });
     var ordenEs = S.estados.concat(Object.keys(porEs).filter(function (e) { return S.estados.indexOf(e) < 0; }).sort());
     A.hbars($('ch-estado'), {
       title: 'Estado de los expedientes', unit: 'expedientes', emptyMsg: vacio,
-      subtitle: 'En el orden del trámite. Los estados de esta demo son de ejemplo.',
-      items: n ? ordenEs.map(function (e) { return { label: e, value: porEs[e] || 0, pct: p1(porEs[e] || 0, n) }; }) : []
+      subtitle: 'En el orden del trámite; se muestran solo los estados con expedientes.',
+      items: n ? ordenEs.filter(function (e) { return porEs[e]; }).map(function (e) { return { label: e, value: porEs[e], pct: p1(porEs[e], n) }; }) : []
     });
     A.hbars($('ch-edad'), {
       title: 'Antigüedad de los expedientes', unit: 'expedientes', emptyMsg: vacio,
@@ -163,35 +180,28 @@
     });
 
     // tabla
-    var filas = sel.slice().sort(function (a, b) {
-      if ((a.revision === null) !== (b.revision === null)) return a.revision === null ? 1 : -1;
-      return cmp(a.revision || '', b.revision || '') || cmp(a.id, b.id);
-    });
+    var filas = sel.slice().sort(function (a, b) { return b.edad - a.edad || cmp(a.id, b.id); });
     var tb = $('filas');
     tb.textContent = '';
     if (!filas.length) tb.appendChild(h('tr', null, [h('td', { colspan: 7 }, [vacio])]));
     filas.forEach(function (r) {
-      var rev;
-      if (r.dias === null) rev = h('td', { class: 'rev' }, ['—']);
-      else rev = h('td', { class: 'rev' + (r.dias < 0 ? ' vencida' : '') }, [dmy(r.revision),
-        h('small', null, [r.dias < 0 ? 'vencida hace ' + fmt(-r.dias) + (r.dias === -1 ? ' día' : ' días') : r.dias === 0 ? 'hoy' : 'en ' + fmt(r.dias) + (r.dias === 1 ? ' día' : ' días')])]);
       tb.appendChild(h('tr', null, [
         h('td', null, [r.id, h('span', { class: 'op' }, [r.operacion])]),
-        h('td', null, [r.analista]),
+        h('td', { class: 'eq' }, [nombres(r.abogados)]),
+        h('td', { class: 'eq' }, [nombres(r.economistas)]),
         h('td', null, [r.tipo]),
-        h('td', null, [h('span', { class: 'anc-pill' + (r.estado === 'Resolución' ? ' ok' : r.estado === 'Requerimiento' ? ' warn' : r.estado === 'Ingreso' ? ' mute' : '') }, [r.estado])]),
+        h('td', null, [h('span', { class: 'anc-pill' + (CLASE_ESTADO[r.estado] || '') }, [r.estado])]),
         h('td', { class: 'num' }, [dmy(r.ingreso)]),
-        h('td', { class: 'num' }, [fmt(r.edad)]),
-        rev
+        h('td', { class: 'num' }, [fmt(r.edad)])
       ]));
     });
   }
 
   function csv() {
-    var sel = seleccion().sort(function (a, b) { return cmp(a.revision || '9', b.revision || '9') || cmp(a.id, b.id); });
-    ANCCsv.download('seguimiento' + (S.origen === 'ejemplo' ? '_EJEMPLO' : '') + '.csv', ANCCsv.build(
-      ['Expediente', 'Operación', 'Analista', 'Procedimiento', 'Estado', 'Ingreso', 'Antigüedad (días)', 'Próxima revisión', 'Días hasta la revisión', 'Corte'],
-      sel.map(function (r) { return [r.id, r.operacion, r.analista, r.tipo, r.estado, r.ingreso, r.edad, r.revision || '', r.dias === null ? '' : r.dias, S.corte]; })));
+    var sel = seleccion().sort(function (a, b) { return b.edad - a.edad || cmp(a.id, b.id); });
+    ANCCsv.download('seguimiento_' + S.corte + (esEjemplo() ? '_EJEMPLO' : '') + '.csv', ANCCsv.build(
+      ['Expediente', 'Operación', 'Abogados', 'Economistas', 'Procedimiento', 'Estado', 'Ingreso', 'Antigüedad (días)', 'Corte'],
+      sel.map(function (r) { return [r.id, r.operacion, r.abogados.join(' / '), r.economistas.join(' / '), r.tipo, r.estado, r.ingreso, r.edad, S.corte]; })));
   }
 
   function opciones(sel, primero, lista) {
@@ -200,44 +210,68 @@
   }
 
   function iniciar(d) {
-    if (!d || d.schema_version !== 1) throw new Error('formato de datos no compatible (schema_version distinto de 1)');
-    if (SOLO_EJEMPLO && d.origen !== 'ejemplo') throw new Error('esta página es la demo y solo muestra datos de ejemplo (origen = "ejemplo")');
+    if (!d || d.schema_version !== 2) throw new Error('formato de datos no compatible (se esperaba schema_version 2)');
+    if (d.origen !== 'ejemplo' && d.origen !== 'interno') throw new Error('origen de datos desconocido (' + d.origen + ')');
     if (!ISO.test(d.corte || '')) throw new Error('falta la fecha de corte (AAAA-MM-DD)');
     S.corte = d.corte; S.origen = d.origen; S.estados = (d.estados || []).slice();
+    S.excelCorte = ISO.test(d.excel_corte || '') ? d.excel_corte : null;
     S.rows = (d.expedientes || []).filter(function (e) { return e && e.id && ISO.test(e.ingreso || ''); }).map(function (e) {
-      var rev = ISO.test(e.revision || '') ? e.revision : null;
-      return { id: String(e.id), operacion: String(e.operacion || ''), analista: String(e.analista || 'Sin asignar'), tipo: String(e.tipo || '—'),
-        estado: String(e.estado || '—'), ingreso: e.ingreso, revision: rev, edad: Math.max(0, entre(e.ingreso, d.corte)), dias: rev ? entre(d.corte, rev) : null };
+      return { id: String(e.id), operacion: String(e.operacion || ''), abogados: lista(e.abogados), economistas: lista(e.economistas),
+        tipo: String(e.tipo || '—'), estado: String(e.estado || '—'), ingreso: e.ingreso, edad: Math.max(0, entre(e.ingreso, d.corte)) };
     });
+
+    $('titulo').appendChild(document.createTextNode(' '));
+    $('titulo').appendChild(h('span', { class: 'anc-pill warn' }, [esEjemplo() ? 'datos de ejemplo' : 'uso interno']));
     var texto = String(d.aviso || '').replace(/^DATOS DE EJEMPLO:?\s*/, '');
-    var aviso = h('div', { class: 'anc-banner' }, [h('b', null, ['DATOS DE EJEMPLO. ']), texto.charAt(0).toUpperCase() + texto.slice(1)]);
-    $('banners').appendChild(aviso);
-    opciones($('f-analista'), 'Todos los analistas', unicos(S.rows.map(function (r) { return r.analista; })).sort());
-    opciones($('f-estado'), 'Todos los estados', S.estados.concat(unicos(S.rows.map(function (r) { return r.estado; })).filter(function (e) { return S.estados.indexOf(e) < 0; })));
+    var ban = $('banners');
+    ban.appendChild(h('div', { class: 'anc-banner' }, [h('b', null, [esEjemplo() ? 'DATOS DE EJEMPLO. ' : 'USO INTERNO. ']),
+      esEjemplo() ? texto.charAt(0).toUpperCase() + texto.slice(1) : String(d.aviso || '').replace(/^USO INTERNO:?\s*/, '')]));
+    if (!esEjemplo() && S.excelCorte && entre(S.excelCorte, S.corte) > DIAS_EXCEL_VIEJO) {
+      ban.appendChild(h('div', { class: 'anc-banner stale' }, [h('b', null, ['El Excel puede estar desactualizado. ']),
+        'Se calculó por última vez el ' + dmy(S.excelCorte) + ' y estos indicadores están medidos al ' + dmy(S.corte) + '.']));
+    }
+
+    opciones($('f-abogado'), 'Todos los abogados', unicos([].concat.apply([], S.rows.map(function (r) { return r.abogados; }))).sort());
+    opciones($('f-economista'), 'Todos los economistas', unicos([].concat.apply([], S.rows.map(function (r) { return r.economistas; }))).sort());
+    opciones($('f-estado'), 'Todos los estados', S.estados.filter(function (e) { return S.rows.some(function (r) { return r.estado === e; }); })
+      .concat(unicos(S.rows.map(function (r) { return r.estado; })).filter(function (e) { return S.estados.indexOf(e) < 0; })));
     opciones($('f-tipo'), 'Todos los procedimientos', unicos(S.rows.map(function (r) { return r.tipo; })).sort());
-    [['f-analista', 'analista'], ['f-estado', 'estado'], ['f-tipo', 'tipo']].forEach(function (k) {
+    [['f-abogado', 'abogado'], ['f-economista', 'economista'], ['f-estado', 'estado'], ['f-tipo', 'tipo']].forEach(function (k) {
       $(k[0]).addEventListener('input', function () { F[k[1]] = $(k[0]).value; pintar(); });
     });
     $('f-limpiar').addEventListener('click', function () {
-      ['f-analista', 'f-estado', 'f-tipo'].forEach(function (id) { $(id).value = ''; });
-      F.analista = F.estado = F.tipo = '';
+      ['f-abogado', 'f-economista', 'f-estado', 'f-tipo'].forEach(function (id) { $(id).value = ''; });
+      F.abogado = F.economista = F.estado = F.tipo = '';
       pintar();
     });
     $('filtros').addEventListener('submit', function (e) { e.preventDefault(); });
     $('f-csv').addEventListener('click', csv);
-    $('notas').appendChild(h('ul', null, [
-      h('li', null, ['Antigüedad: días corridos entre la fecha de ingreso y el corte de los datos (' + dmy(S.corte) + '). No descuenta suspensiones ni es el plazo legal del procedimiento.']),
-      h('li', null, ['Próxima revisión: fecha de gestión interna; no es un vencimiento legal. Una revisión «vencida» solo indica que su fecha es anterior al corte.']),
-      h('li', null, ['Los estados, los analistas y los expedientes de esta demo son ficticios. Los estados reales saldrán de la columna de estado del Excel de seguimiento (por confirmar).']),
-      h('li', null, ['Qué falta para la versión real: los encabezados de ', h('code', null, ['Res_firmadas.xlsm']), ' (columna de analista, inicio del plazo y suspensiones) y la autorización institucional para mostrar datos de expedientes en trámite. Ver ', h('code', null, ['demo-interno/SCHEMA.md']), '.'])
-    ]));
-    $('pie').textContent = 'Demo con datos ficticios. Los filtros, los gráficos y el CSV se calculan en este navegador a partir de un archivo JSON.';
+
+    var notas = [
+      h('li', null, ['Antigüedad: días corridos entre la fecha de ingreso y el corte de los indicadores (' + dmy(S.corte) + '). No descuenta suspensiones ni es el plazo legal del procedimiento.']),
+      h('li', null, ['En trámite: expedientes de la hoja ', h('code', null, ['evol_conc']), ' con estado ' + S.estados.join(', ') + '. Es la misma definición del tablero «General» del Excel.']),
+      h('li', null, ['Procedimiento: PROSUM cuando la columna «ES FT» del Excel dice SÍ; Ordinario cuando dice NO.']),
+      h('li', null, ['Abogados y economistas: un expediente cuenta una vez por cada persona asignada (hasta dos de cada rol), por eso las barras suman más que el total.'])
+    ];
+    if (esEjemplo()) notas.push(h('li', null, ['Los expedientes, los abogados y los economistas de esta página son ficticios. Los reales se muestran en el área interna, con acceso restringido, cuando existe ', h('code', null, ['demo-interno/data/seguimiento.json']), ' (lo escribe ', h('code', null, ['generar_seguimiento.py']), ').']));
+    (d.avisos || []).forEach(function (a) { notas.push(h('li', null, [h('b', null, ['Para revisar en el Excel: ']), String(a)])); });
+    $('notas').appendChild(h('ul', null, notas));
+    $('pie').textContent = esEjemplo()
+      ? 'Demo con datos ficticios. Los filtros, los gráficos y el CSV se calculan en este navegador a partir de un archivo JSON.'
+      : 'Fuente: ' + String(d.fuente || 'Excel de seguimiento') + (S.excelCorte ? ' (calculado el ' + dmy(S.excelCorte) + ')' : '') +
+        '. Los filtros, los gráficos y el CSV se calculan en este navegador a partir de un archivo JSON.';
     pintar();
   }
 
-  fetch(DATA_URL, { cache: 'no-store' }).then(function (r) {
-    if (!r.ok) throw new Error('HTTP ' + r.status);
-    return r.json();
+  function pedir(url) {
+    return fetch(url, { cache: 'no-store' }).then(function (r) {
+      if (!r.ok) { var e = new Error('HTTP ' + r.status); e.status = r.status; throw e; }
+      return r.json();
+    });
+  }
+  pedir(DATA_REAL).catch(function (e) {
+    if (e.status === 404) return pedir(DATA_URL);       // no hay datos reales en este sitio: se muestra el ejemplo
+    throw e;
   }).then(iniciar).catch(function (e) {
     $('banners').appendChild(h('div', { class: 'anc-banner stale', role: 'alert' }, [h('b', null, ['No se pudieron mostrar los datos. ']), String(e.message || e)]));
     $('estado').textContent = '';

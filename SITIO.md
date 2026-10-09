@@ -20,7 +20,7 @@ Se comprueba con: `python -B verificar_sitio.py --aditivo` (falla si la rama mod
 | `/conc/` | estadísticas de resoluciones firmadas, con filtros por año, tipo y sector y CSV | `python -B generar_tablero.py` |
 | `/demo-interno/` | portada del área interna (demo) | HTML estático |
 | `/demo-interno/noticias/` | prototipo del Monitor M&A con **datos de ejemplo** | HTML + `demo-interno/data/monitor.sample.json` |
-| `/demo-interno/seguimiento/` | prototipo del seguimiento de expedientes con **datos de ejemplo** | HTML + `demo-interno/data/seguimiento.sample.json` |
+| `/demo-interno/seguimiento/` | concentraciones **en trámite** del Excel `Res_firmadas.xlsm` (datos reales en esta rama; si no hay `seguimiento.json`, muestra ejemplos) | HTML + `demo-interno/data/seguimiento.json`, que escribe `python -B generar_seguimiento.py` |
 | `/mercados/ /participaciones/ /redes/ /informes/` | reservadas (un `README.md` cada una) | — |
 
 Piezas de apoyo: `assets/` (`anc.css`, `nav.js`, `charts.js`, `csv.js`), `data/conc.json`, `_headers`, `robots.txt`, `404.html`,
@@ -52,8 +52,9 @@ ramas están activos). Qué mirar:
 4. `/conc/`: elegir año, tipo o sector recalcula todo; **Descargar CSV (N)** baja la selección; la dirección guarda los filtros
    (probá `/conc/#a=2024&t=PROSUM`); pasar el mouse por las columnas y barras muestra el detalle; **Ver como tabla** cambia el gráfico
    por su tabla. Conviene revisar «Cómo se agrupan las decisiones» (al final): los 39 textos originales y el grupo de cada uno.
-5. `/demo-interno/noticias/` y `/demo-interno/seguimiento/`: filtros, **Descargar CSV** (se abre bien en Excel) y el cartel de datos
-   de ejemplo.
+5. `/demo-interno/noticias/` (datos de ejemplo) y `/demo-interno/seguimiento/` (datos reales del Excel): filtros por abogado, economista,
+   estado y procedimiento, **Descargar CSV** (se abre bien en Excel) y los carteles de uso interno. Sin `seguimiento.json` la página cae al
+   ejemplo con su cartel.
 6. Una ruta inexistente (`/cualquier/cosa`) debe mostrar `404.html` **con código 404**. Hoy responde 200 con el buscador:
    Pages trata el sitio como una SPA mientras no exista `404.html`. Esto cambia el comportamiento global (en un commit aparte).
 
@@ -72,7 +73,7 @@ ramas están activos). Qué mirar:
 Si borrás una carpeta, sacala también de `PAGINAS` en `verificar_sitio.py` y del arreglo `ITEMS` de `assets/nav.js`.
 
 **Si no usás `build_site.py`**, Pages publica la raíz tal cual y lo que mergees a `main` queda en producción, `demo-interno/` incluida
-(son datos de ejemplo, con `noindex`, pero igual no deberían estar en producción): borrala antes de mergear y poné `INTERNO = false`.
+(con `noindex`, pero trae datos reales del seguimiento y `Res_firmadas.xlsm`, y no deben estar en producción): borrala, y borrá el `.xlsm`, antes de mergear, y poné `INTERNO = false`.
 Con `build_site.py` eso se resuelve solo (ver abajo).
 
 ## Cómo regenerar
@@ -80,8 +81,9 @@ Con `build_site.py` eso se resuelve solo (ver abajo).
 ```
 python -B generar_tablero.py     # lee firm.xlsx -> conc/index.html y data/conc.json
 python -B integrar_opis.py       # copia pdf/lectura_opi/buscador_opis.html a opis/index.html (+barra)
+python -B generar_seguimiento.py # lee Res_firmadas.xlsm (solo lectura) -> demo-interno/data/seguimiento.json (solo en la rama del área interna)
 python -B verificar_sitio.py     # compuerta: links con mayúsculas exactas, tamaños, lista negra, ejemplo vs real, tablero al día
-python -B -m unittest discover -s tests -v   # pruebas de coherencia del sitio (14 pruebas, unos 10 s)
+python -B -m unittest discover -s tests -v   # pruebas de coherencia del sitio (23 pruebas, unos 10 s)
 ```
 
 Usá siempre `-B`: hay dos `.pyc` versionados que si no Python reescribiría y aparecerían como modificados.
@@ -130,55 +132,85 @@ Cada herramienta lee un JSON versionado (`schema_version`) y no depende de la fu
   `generar_tablero.py`, un expediente por línea (diffs legibles). `corpus.huella` identifica el corpus del buscador del que sale.
   La página `/conc/` recalcula todo en el navegador a partir del detalle; los agregados que escribe Python son la referencia con la
   que se comparan (`tests/test_sitio.py` y una prueba en el navegador con 10 combinaciones de filtros dieron lo mismo).
-- Monitor y seguimiento: `demo-interno/SCHEMA.md` define `operaciones` v1 y `seguimiento` v1 (campos, valores, CSV).
-  `demo-interno/monitor_merge.py` junta lo exportado con `ArtifactData` en `monitor.json` + `operaciones.csv`. **El `monitor.json` y el
-  seguimiento reales nunca van a este repo público**: `verificar_sitio.py` falla si aparece uno con `origen` distinto de `"ejemplo"`.
+- Monitor y seguimiento: `demo-interno/SCHEMA.md` define `operaciones` v1 y `seguimiento` v2 (campos, valores, CSV).
+  `demo-interno/monitor_merge.py` junta lo exportado con `ArtifactData` en `monitor.json` + `operaciones.csv`; `generar_seguimiento.py`
+  escribe `seguimiento.json`. **El `monitor.json` real sigue sin poder estar en este repo**: `verificar_sitio.py` falla si aparece uno con
+  `origen` distinto de `"ejemplo"`. El **seguimiento real** (`origen: "interno"`) solo puede estar en la rama del área interna (ver abajo):
+  en `main` es error.
 - Clave común de expediente: `tipo-número` normalizado (`nm.parse_carpeta`). Ojo: `(tipo, número)` no es único (OPI-232, INC-1663);
   `(tipo, número, resolución)` sí.
 
-## Área interna (cuando se haga)
+## Área interna: Cloudflare con Access, desde esta rama
 
-Lo que use datos internos (monitor real, seguimiento de `Res_firmadas.xlsm`) **no puede vivir en este repo**: es público y Pages sirve
-todo lo que hay en él. Camino previsto:
+**Decisión (9/10/2026).** El área interna se publica en **Cloudflare Pages detrás de Cloudflare Access**, desde una rama distinta de `main`
+(esta, `claude/dreamy-cray-mxaf3v`); `main` sigue siendo el sitio público (el buscador). Se aceptó que el repositorio de GitHub siga siendo
+**público**: Access protege la dirección de Cloudflare, **no** el repositorio, y la rama (con `Res_firmadas.xlsm` y `seguimiento.json`) se
+puede leer en GitHub. Quien quiera cerrar eso más adelante tiene el camino de siempre: repo privado aparte y segundo proyecto de Pages.
 
-1. Repo **privado** aparte (p. ej. `anc-interno`) y **segundo proyecto de Pages** conectado a él.
-2. Cloudflare Access sobre ese proyecto: *Enable access policy* del proyecto crea **dos** políticas, una para producción
-   (`<proyecto>.pages.dev`) y otra para los previews (`*.<proyecto>.pages.dev`). Se configuran y se prueban por separado.
-3. Probar en una ventana de incógnito: la página pide login, un mail no autorizado es rechazado y `/data/monitor.json` directo también.
-4. Recién ahí se sincroniza el monitor real (`monitor_merge.py`) al repo privado.
-5. Antes de cargar datos reales: autorización institucional del área para alojarlos en estos servicios, y un segundo administrador.
+**Qué hay en la rama y qué lo protege**
 
-No hace falta privatizar este repo: privatizarlo no oculta nada (Pages sirve la raíz) y rompería el botón "Archivo (PDFs)" del
-buscador, que apunta a GitHub (`generar_pagina.py:57`). Access por *ruta* dentro de `pages.dev` no está documentado para Pages:
-por eso se propone un proyecto aparte.
+| Pieza | Qué hace |
+|---|---|
+| `Res_firmadas.xlsm` (subido el 9/10) | fuente del seguimiento; `generar_seguimiento.py` lo abre en solo lectura |
+| `demo-interno/data/seguimiento.json` | lo que lee la página; trae carátulas resumidas y apellidos del equipo |
+| `build_site.py` | publica una lista blanca: el `.xlsm` **no** sale en `dist/`; el JSON sí |
+| `verificar_sitio.py` | corre antes de armar `dist/`. En `main` (o con `CF_PAGES_BRANCH=main`) es **ERROR** que exista el JSON real o un dato interno (`*.xlsm`, `Res_firmadas*`, `cotejo_*`, `evol_conc*`): el build falla y queda el sitio anterior. En la rama del área interna son solo notas (INFO). En un `dist/` armado, el `.xlsm` es siempre error |
+| `demo-interno/*` | `noindex`, `Cache-Control: no-store` y sin Analytics (`_headers`) |
 
-Sincronización del monitor: hoy a demanda (pedirle a Claude que exporte con `ArtifactData` y corra `monitor_merge.py`). Para
-automatizarla, la Rutina (días 1 y 15, 08:50) tendría que escribir el JSON en el repo privado; hay que probar si la sesión de la
-Rutina puede hacerlo (hoy no tiene repo adjunto).
+**Qué no hay que hacer.** Mergear esta rama a `main` con esos archivos: si el sitio público se sirve sin `build_site.py` (GitHub Pages desde
+`main`, o Cloudflare sin build), publica la raíz tal cual, `.xlsm` incluido. La compuerta lo frena solo si corre (`build_site.py`).
 
-Cuando exista el área interna real, `interno` en `ITEMS` de `assets/nav.js` apuntará a su dirección (otro proyecto de Pages) y el
-interruptor `INTERNO` quedará en `true` también en producción.
+**Pasos en Cloudflare** (no se pudo abrir su documentación: confirmar en el panel):
 
-## Seguimiento (etapa 3): demo hecha, versión real pendiente
+1. Un proyecto de Pages **aparte** conectado a este repo, con *Production branch* = `claude/dreamy-cray-mxaf3v`, *Build command*
+   `python3 build_site.py` y *Build output directory* `dist`. Un proyecto aparte, porque *Enable access policy* alcanza a **todo** el
+   proyecto: si se activa en el que sirve `main`, el buscador público pediría login.
+2. En ese proyecto: Settings → General → *Enable access policy*. Crea **dos** políticas, una para producción (`<proyecto>.pages.dev`) y otra
+   para las vistas previas (`*.<proyecto>.pages.dev`); se configuran y se prueban por separado, con la lista de mails autorizados.
+3. Probar en una ventana de incógnito: la página pide login, un mail no autorizado es rechazado, y `/data/seguimiento.json` y
+   `/demo-interno/data/seguimiento.json` directos también.
+4. **Revisar el proyecto que ya existe** (`buscadoranc`): si está conectado a este repo y tiene vistas previas de ramas, la rama ya pudo
+   desplegarse **sin lista blanca** (publica la raíz: `/Res_firmadas.xlsm` se descarga). Deployments → buscar la vista previa de esta rama;
+   borrar ese deployment, o desactivar las vistas previas de ramas (Settings → Builds → *Branch control*) hasta tener Access.
+5. Cuando exista el área interna definitiva, `interno` en `ITEMS` de `assets/nav.js` apuntará a su dirección y `INTERNO` quedará en `true`.
 
-Ya hay una demo (`/demo-interno/seguimiento/`, con expedientes ficticios): carga por analista, estados en el orden del trámite,
-antigüedad por tramos (hasta 90, 91 a 180, 181 a 365 y más de 365 días), revisiones en 15 días y vencidas, tabla y CSV. Mide la
-antigüedad al **corte** del archivo (no a «hoy») y aclara que ni la antigüedad ni la revisión son plazos legales. Lo que sigue es el
-diseño de la versión real: indicadores para dirección, calculados automáticamente desde `Res_firmadas.xlsm` (hojas `firmadas` y
-`evol_conc`, las mismas que ya lee `cotejar_res_firmadas.py`) con un `generar_seguimiento.py` local. Nada se carga a mano.
+Antes de mostrar datos reales a otras personas sigue valiendo la autorización institucional del área para alojarlos en estos servicios.
+
+Sincronización del monitor: hoy a demanda (pedirle a Claude que exporte con `ArtifactData` y corra `monitor_merge.py`). El monitor sigue con
+datos de ejemplo.
+
+## Seguimiento (etapa 3): versión real en la rama del área interna
+
+`/demo-interno/seguimiento/` ya trabaja con el Excel: `generar_seguimiento.py` lee la hoja `evol_conc` de `Res_firmadas.xlsm` y escribe
+`demo-interno/data/seguimiento.json` (contrato `seguimiento` v2, en `demo-interno/SCHEMA.md`). Cada vez que se actualiza el Excel:
+abrirlo y **guardarlo** (para que sus fórmulas estén calculadas), `python -B generar_seguimiento.py`, `python -B -m unittest discover -s tests`,
+commit y push de la rama del área interna.
+
+- **En trámite** = la definición del propio Excel (`General!C26`): Pendiente de presentación, Observado, En análisis, En instrucción,
+  Suspendida, IT circulando, Para resolución o TDC. Al 9/10/2026: **45** (35 En instrucción, 6 Suspendida, 4 TDC). El script compara con el
+  total que el Excel guardó y avisa si difieren.
+- **Procedimiento**: `ES FT` = SÍ → PROSUM (14), NO → Ordinario (31).
+- **Carátula resumida**: sin comillas, sin «S/ NOTIFICACIÓN ART. 9 DE LA LEY 27.442» (ni el art. 8 de la 25.156) ni «(CONC nnnn)»; se
+  conserva un paréntesis que aclare una parte y se corta en 120 caracteres.
+- **Equipo**: abogados (`Abogado_1/2`) y economistas (`Economista_1/2`) por separado, un expediente suma a cada persona asignada. Los
+  apellidos se unifican (tildes, mayúsculas) y `ALIAS_APELLIDOS` en `generar_seguimiento.py` corrige tipeos (`ROSOZKA` y `ROZOSKA` →
+  `ROSOSZKA`: **confirmar**).
+- **Antigüedad** al corte (por defecto, el día de la generación): días corridos desde `Fecha_Ingreso`; no es plazo legal. La página avisa
+  si el Excel se calculó hace más de 7 días (`excel_corte`: hoy 1/10/2026).
 
 | Indicador | Columnas | Estado |
 |---|---|---|
-| Stock de concentraciones activas y evolución mensual | `Fecha_Ingreso`, `Fecha_firma`, `ESTADO` | Disponible; confirmar los valores de ESTADO "en proceso" |
-| Antigüedad de los expedientes (0–3, 3–6, 6–12, >12 meses) | `Fecha_Ingreso`, `MESES` | Disponible |
-| Tiempos de resolución, ordinarios vs PROSUM | `tipo`, `Fecha_Ingreso`, `Fecha_firma` | Disponible (ya está en `/conc/`) |
-| Ingresos, resoluciones y productividad por período | `Fecha_Ingreso`, `Fecha_firma` | Disponible |
-| Expedientes por analista y por estado | columna de analista + `ESTADO` | **No confirmado**: ningún script nombra una columna de analista |
-| Próximos a vencer | inicio del plazo, procedimiento, suspensiones | **Falta**: `DIAS`/`meses` son tiempo corrido, no plazo legal; además desde el 17/11/2026 rige el control previo |
+| Concentraciones en trámite por estado | `ESTADO` | Hecho |
+| Antigüedad (hasta 90, 91-180, 181-365, más de 365 días) | `Fecha_Ingreso` | Hecho |
+| Carga por abogado y por economista | `Abogado_1/2`, `Economista_1/2` | Hecho |
+| Ordinario vs PROSUM en trámite | `ES FT` | Hecho |
+| Tiempos de resolución, ordinarios vs PROSUM | `tipo`, `Fecha_Ingreso`, `Fecha_firma` | Ya está en `/conc/` |
+| Evolución mensual del stock | `Fecha_Ingreso`, `Fecha_firma` | Pendiente: `evol_conc` guarda el estado de hoy, el histórico se reconstruye con ingreso y firma |
+| Próximos a vencer | inicio del plazo, suspensiones | **Falta**: no está estructurado (`Revisión` trae notas de auditoría, no una fecha; los vencimientos están como texto libre en `Dictamen a revisar (SI/NO)` y `Observaciones`, que no se publican) y desde el 17/11/2026 rige el control previo |
 
-Hacen falta los encabezados reales de `Res_firmadas.xlsm` (no están en el repo) para cerrar este diseño; el contrato `seguimiento` v1
-de `demo-interno/SCHEMA.md` ya tiene los campos que la demo necesita (`id`, `operacion`, `analista`, `tipo`, `estado`, `ingreso`,
-`revision`). Los estados de la demo son de ejemplo: los reales salen de la columna `ESTADO`.
+**Para revisar en el Excel** (la página y el script lo muestran en «Notas»): 4 filas sin `ESTADO` (CONC-748, 998, 1457 y 1663: el Excel no las
+cuenta); CONC-1955 figura En instrucción pero con fecha de firma (el Excel la cuenta); la columna `Dictamen a revisar (SI/NO)` se usa como
+nota libre (15 de las 45 activas); apellidos con variantes (`ZUVIRIA`/`ZUVIRÍA`, `ROSOSZKA`/`ROSOZKA`/`ROZOSKA`/`Rososzka`).
 
 ## Qué se tomó de la rama `test/portal-anc` (ChatGPT)
 

@@ -16,6 +16,7 @@ Uso (desde la raiz del repo):
     python -B -m unittest discover -s tests -v
 """
 import collections
+import datetime as dt
 import json
 import math
 import os
@@ -32,6 +33,7 @@ RAIZ = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(RAIZ))
 
 import build_site as bs             # noqa: E402
+import generar_seguimiento as gs    # noqa: E402
 import integrar_opis as io          # noqa: E402
 import verificar_sitio as vs        # noqa: E402
 
@@ -151,28 +153,67 @@ class DatosDeEjemploTest(unittest.TestCase):
             d = leer_json(ruta)
             self.assertEqual(d["origen"], "ejemplo", ruta)
             self.assertIn("EJEMPLO", d["aviso"], ruta)
-            self.assertEqual(d["schema_version"], 1, ruta)
+            self.assertEqual(d["schema_version"], 2 if "seguimiento" in ruta else 1, ruta)
         for e in leer_json("demo-interno/data/seguimiento.sample.json")["expedientes"]:
             self.assertIn("(ejemplo)", e["operacion"])
-            self.assertIn("(ejemplo)", e["analista"])
+            for persona in e["abogados"] + e["economistas"]:
+                self.assertIn("(ejemplo)", persona)
         for o in leer_json("demo-interno/data/monitor.sample.json")["operaciones"]:
             self.assertIn("(ejemplo)", o["partes"])
 
+    def sitio_chico(self, tmp):
+        raiz = Path(tmp)
+        (raiz / "data").mkdir()
+        (raiz / "demo-interno" / "data").mkdir(parents=True)
+        (raiz / "404.html").write_text("<!doctype html>", encoding="utf-8")
+        return raiz
+
+    def errores(self, res):
+        return " | ".join(m for n, m in res if n == "ERROR")
+
     def test_el_verificador_rechaza_datos_reales_y_la_lista_negra(self):
         with tempfile.TemporaryDirectory() as tmp:
-            raiz = Path(tmp)
-            (raiz / "data").mkdir()
-            (raiz / "demo-interno" / "data").mkdir(parents=True)
-            (raiz / "404.html").write_text("<!doctype html>", encoding="utf-8")
+            raiz = self.sitio_chico(tmp)
             (raiz / "demo-interno" / "data" / "seguimiento_real.json").write_text(
-                json.dumps({"schema_version": 1, "origen": "excel", "expedientes": []}), encoding="utf-8")
+                json.dumps({"schema_version": 2, "origen": "excel", "expedientes": []}), encoding="utf-8")
             (raiz / "demo-interno" / "data" / "monitor.json").write_text(
                 json.dumps({"schema_version": 1, "origen": "artefacto", "operaciones": []}), encoding="utf-8")
             (raiz / "Res_firmadas.xlsm").write_bytes(b"x")
             (raiz / "notas.txt").write_text("clave sk-ant-" + "a" * 30, encoding="utf-8")
-            errores = " | ".join(m for n, m in vs.verificar(raiz) if n == "ERROR")
-            for esperado in ("seguimiento_real.json", "monitor.json", "Res_firmadas.xlsm", "notas.txt"):
-                self.assertIn(esperado, errores)
+            # el origen desconocido, el monitor real y las claves son error en cualquier rama; el .xlsm, en main
+            for rama in ("main", "otra-rama"):
+                errores = self.errores(vs.verificar(raiz, rama=rama))
+                for esperado in ("seguimiento_real.json", "monitor.json", "notas.txt"):
+                    self.assertIn(esperado, errores, rama)
+            self.assertIn("Res_firmadas.xlsm", self.errores(vs.verificar(raiz, rama="main")))
+
+    def test_el_seguimiento_real_solo_puede_estar_fuera_de_main(self):
+        real = {"schema_version": 2, "origen": "interno", "expedientes": []}
+        with tempfile.TemporaryDirectory() as tmp:
+            raiz = self.sitio_chico(tmp)
+            (raiz / "demo-interno" / "data" / "seguimiento.json").write_text(json.dumps(real), encoding="utf-8")
+            (raiz / "Res_firmadas.xlsm").write_bytes(b"x")
+            # rama del area interna: pasa, y avisa con notas (INFO), no con errores ni avisos
+            res = vs.verificar(raiz, rama="area-interna")
+            self.assertEqual(self.errores(res), "")
+            notas = " | ".join(m for n, m in res if n == "INFO")
+            self.assertIn("seguimiento.json", notas)
+            self.assertIn("Res_firmadas.xlsm", notas)
+            # main: las dos cosas son error
+            errores = self.errores(vs.verificar(raiz, rama="main"))
+            self.assertIn("seguimiento.json", errores)
+            self.assertIn("Res_firmadas.xlsm", errores)
+            # dist/ armado (aunque no sea main): el JSON es lo que se publica detras de Access, el .xlsm jamas
+            errores = self.errores(vs.verificar(raiz, solo_dist=True, rama="area-interna"))
+            self.assertNotIn("seguimiento.json", errores)
+            self.assertIn("Res_firmadas.xlsm", errores)
+
+    def test_el_seguimiento_exige_la_version_que_lee_la_pagina(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raiz = self.sitio_chico(tmp)
+            (raiz / "demo-interno" / "data" / "seguimiento.json").write_text(
+                json.dumps({"schema_version": 1, "origen": "interno", "expedientes": []}), encoding="utf-8")
+            self.assertIn("schema_version", self.errores(vs.verificar(raiz, rama="area-interna")))
 
     def test_el_sitio_pasa_la_compuerta(self):
         res = vs.verificar(RAIZ)
@@ -205,6 +246,7 @@ class PublicacionTest(unittest.TestCase):
         sin = self.seleccion(con_demo=False)
         self.assertTrue(any(r.startswith("demo-interno/") for r in con))
         self.assertFalse(any(r.startswith("demo-interno/") for r in sin))
+        self.assertNotIn("demo-interno/data/seguimiento.json", sin)
 
     def test_sin_area_interna_en_produccion(self):
         nav = (RAIZ / "assets" / "nav.js").read_text(encoding="utf-8")
@@ -230,6 +272,113 @@ class PublicacionTest(unittest.TestCase):
             if (RAIZ / rel).exists():
                 self.assertIn(rel, sel)
         self.assertNotIn("pdf/lectura_opi/buscador_opis.html", self.seleccion(False, con_legado=False))
+
+
+class SeguimientoTest(unittest.TestCase):
+    """generar_seguimiento.py: lo que sale de la hoja evol_conc (casos ficticios; no se necesita el Excel)."""
+
+    def test_caratula_resumida(self):
+        casos = [
+            ('ACME S.A. y OTRA S.A. S/ NOTIFICACION ART. 8\u00b0 DE LA LEy 25.156 (CONC. N\u00b0 1169)', "ACME S.A. y OTRA S.A."),
+            ('"\xa0FOO S.A. S/NOTIFICACI\u00d3N ART.9 DE LA LEY 27.442\xa0" (CONC\xa02081)', "FOO S.A."),
+            ("CONC.1711 - FOO S.A. e YPF S.A., S/NOTIFICACI\u00d3N ART. 9 DE LA LEY N\u00b0 27.442", "FOO S.A. e YPF S.A."),
+            ('FOO ARGENTINA S.A.S/ NOTIFICACI\u00d3N ART.9 DE LA LEY 27.442 " (CONC 2118)', "FOO ARGENTINA S.A."),
+            ('VISA X S/NOTIFICACI\u00d3N ART.9 DE LA LEY 27.442 (VISA OPEN LIMITED) " (CONC 2146)', "VISA X (VISA OPEN LIMITED)"),
+            ("FOO S.A. S/NOTIF. ART. 8 LEY 25.156", "FOO S.A."),
+            ("FOO S.A. (CONC. 1000)", "FOO S.A."),
+            ("THE BAR\u2019S COMPANY S/NOTIFICACI\u00d3N ART.9 DE LA LEY 27.442", "THE BAR\u2019S COMPANY"),
+        ]
+        for original, esperado in casos:
+            self.assertEqual(gs.resumir_caratula(original), esperado, original)
+        largo = gs.resumir_caratula("EMPRESA NUMERO %s S.A. S/NOTIFICACI\u00d3N ART.9 DE LA LEY 27.442" % " ".join(["UNO"] * 60))
+        self.assertTrue(largo.endswith("\u2026") and len(largo) <= gs.MAX_CARATULA, largo)
+        self.assertEqual(gs.resumir_caratula(None), "")
+
+    def test_apellidos_unificados(self):
+        filas = [{"Abogado_1": "ZUVIRIA", "Abogado_2": "ROSOSZKA"}, {"Abogado_1": "ZUVIR\u00cdA", "Abogado_2": "ROSOZKA"},
+                 {"Abogado_1": "ZUVIRIA", "Abogado_2": "Rososzka"}, {"Abogado_1": "ROZOSKA", "Abogado_2": "ROZOSKA"}]
+        mostrar = gs.nombres_unicos(filas, ("Abogado_1", "Abogado_2"))
+        self.assertEqual(sorted(mostrar.values()), ["Rososzka", "Zuvir\u00eda"])
+        self.assertEqual(gs.equipo(filas[3], ("Abogado_1", "Abogado_2"), mostrar), ["Rososzka"])    # dos tipeos = una persona
+        self.assertEqual(gs.equipo(filas[0], ("Abogado_1", "Abogado_2"), mostrar), ["Zuvir\u00eda", "Rososzka"])
+
+    def test_en_tramite_es_la_definicion_del_excel(self):
+        self.assertEqual(len(gs.ESTADOS_ACTIVOS), 8)
+        for estado in ("En instrucci\u00f3n", "Suspendida", "TDC", "Para resoluci\u00f3n"):
+            self.assertIn(estado, gs.ESTADOS_ACTIVOS)
+        for estado in ("Firmada", "Apelada", "Subordinada en cumplimiento", "Archivo", "Desistida", "Acumulado"):
+            self.assertNotIn(estado, gs.ESTADOS_ACTIVOS)
+
+    def fila(self, **kw):
+        base = {"ESTADO": "En instrucci\u00f3n", "Clave": "CONC 9001", "Carpeta": "9001",
+                "Caratula": '"FOO S.A. S/NOTIFICACI\u00d3N ART.9 DE LA LEY 27.442" (CONC 9001)',
+                "Fecha_Ingreso": dt.datetime(2026, 1, 15), "Fecha_firma": None, "Abogado_1": "PEREZ", "Abogado_2": "P\u00e9rez",
+                "Economista_1": "GOMEZ", "Economista_2": None, "ES FT": "SI"}
+        base.update(kw)
+        return base
+
+    def test_construir(self):
+        filas = [
+            self.fila(),
+            self.fila(Clave="CONC 9002", ESTADO="TDC", Fecha_Ingreso=dt.datetime(2025, 5, 1), **{"ES FT": "NO"}),
+            self.fila(Clave="CONC 9003", ESTADO="Firmada"),
+            self.fila(Clave="CONC 9004", ESTADO="Apelada"),
+            self.fila(Clave="CONC 9005", ESTADO=None),
+            self.fila(Clave="CONC 9006", Fecha_Ingreso=None),
+            self.fila(Clave="CONC 9007", ESTADO="Suspendida", Fecha_firma=dt.datetime(2026, 6, 30), **{"ES FT": None}),
+        ]
+        d = gs.construir(filas, dt.date(2026, 10, 9), total_excel=3, corte_excel=dt.date(2026, 10, 1))
+        self.assertEqual((d["schema_version"], d["origen"], d["corte"], d["excel_corte"]), (2, "interno", "2026-10-09", "2026-10-01"))
+        self.assertEqual([e["id"] for e in d["expedientes"]], ["CONC-9002", "CONC-9001", "CONC-9007"])     # por ingreso
+        por_id = {e["id"]: e for e in d["expedientes"]}
+        self.assertEqual(por_id["CONC-9001"], {"id": "CONC-9001", "operacion": "FOO S.A.", "abogados": ["P\u00e9rez"],
+                                               "economistas": ["Gomez"], "tipo": "PROSUM", "estado": "En instrucci\u00f3n",
+                                               "ingreso": "2026-01-15"})
+        self.assertEqual(por_id["CONC-9002"]["tipo"], "Ordinario")
+        self.assertEqual(por_id["CONC-9007"]["tipo"], "Sin dato")
+        avisos = " | ".join(d["avisos"])
+        self.assertIn("CONC-9005", avisos)           # sin estado: no se cuenta, pero se avisa
+        self.assertIn("CONC-9006", avisos)           # sin fecha de ingreso: no se muestra, pero se avisa
+        self.assertIn("CONC-9007", avisos)           # en tramite con fecha de firma: se cuenta, pero se avisa
+        self.assertIn("guard\u00f3 3 activas", avisos)   # el Excel dice 3 y hay 4 con estado activo (9006 incluida)
+
+    def test_escribir_un_expediente_por_linea(self):
+        d = gs.construir([self.fila(), self.fila(Clave="CONC 9002")], dt.date(2026, 10, 9))
+        with tempfile.TemporaryDirectory() as tmp:
+            destino = Path(tmp) / "sub" / "seguimiento.json"
+            gs.escribir(d, destino)
+            texto = destino.read_text(encoding="utf-8")
+            self.assertEqual(json.loads(texto), json.loads(json.dumps(d)))
+            self.assertEqual(sum(1 for l in texto.splitlines() if '"operacion"' in l), 2)
+
+    def test_el_seguimiento_versionado_es_coherente(self):
+        ruta = RAIZ / "demo-interno" / "data" / "seguimiento.json"
+        if not ruta.exists():
+            self.skipTest("no hay seguimiento.json (solo existe en la rama del \u00e1rea interna)")
+        d = leer_json("demo-interno/data/seguimiento.json")
+        self.assertEqual((d["schema_version"], d["origen"]), (2, "interno"))
+        ids = [e["id"] for e in d["expedientes"]]
+        self.assertEqual(len(ids), len(set(ids)), "expedientes repetidos")
+        for e in d["expedientes"]:
+            self.assertIn(e["estado"], d["estados"], e["id"])
+            self.assertIn(e["tipo"], ("PROSUM", "Ordinario", "Sin dato"), e["id"])
+            self.assertRegex(e["ingreso"], r"^\d{4}-\d{2}-\d{2}$")
+            self.assertTrue(e["abogados"] or e["economistas"], e["id"] + " sin equipo")
+            self.assertLessEqual(len(e["operacion"]), gs.MAX_CARATULA, e["id"])
+            self.assertNotRegex(e["operacion"].upper(), r"NOTIF|LEY\s*\d|CONC\.?\s*\d", e["id"] + ": la car\u00e1tula conserva texto de la notificaci\u00f3n")
+            for persona in e["abogados"] + e["economistas"]:
+                self.assertEqual(persona, persona.strip())
+
+
+@unittest.skipUnless(__import__("importlib").util.find_spec("openpyxl")
+                     and (RAIZ / "Res_firmadas.xlsm").exists() and (RAIZ / "demo-interno" / "data" / "seguimiento.json").exists(),
+                     "requiere openpyxl, Res_firmadas.xlsm y demo-interno/data/seguimiento.json (rama del \u00e1rea interna)")
+class RegenerarSeguimientoTest(unittest.TestCase):
+    def test_el_seguimiento_versionado_es_el_que_sale_del_excel(self):
+        viejo = leer_json("demo-interno/data/seguimiento.json")
+        filas, total, corte_excel = gs.leer_excel(RAIZ / "Res_firmadas.xlsm")
+        nuevo = json.loads(json.dumps(gs.construir(filas, dt.date.fromisoformat(viejo["corte"]), total, corte_excel)))
+        self.assertEqual(nuevo, viejo, "Res_firmadas.xlsm cambi\u00f3: correr 'python -B generar_seguimiento.py'")
 
 
 @unittest.skipUnless(os.environ.get("ANC_TEST_REGENERAR") or __import__("importlib").util.find_spec("pandas"),

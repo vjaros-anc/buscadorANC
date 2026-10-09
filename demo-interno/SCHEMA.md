@@ -6,8 +6,9 @@ Claude, mañana una base. Hay dos contratos:
 1. [Monitor de concentraciones — `operaciones` v1](#1-monitor-de-concentraciones--operaciones-v1): lo lee `noticias/index.html`.
 2. [Seguimiento de expedientes — `seguimiento` v1](#2-seguimiento-de-expedientes--seguimiento-v1): lo lee `seguimiento/index.html`.
 
-En este repo público solo hay **fixtures de ejemplo** (`data/*.sample.json`, todo marcado como ejemplo). `verificar_sitio.py` falla
-si aparece un `monitor*.json` o un `seguimiento*.json` con `origen` distinto de `"ejemplo"`.
+Hay **fixtures de ejemplo** (`data/*.sample.json`, todo marcado como ejemplo). `verificar_sitio.py` falla si aparece un `monitor*.json`
+con `origen` distinto de `"ejemplo"`. El **seguimiento real** (`seguimiento.json`, `origen: "interno"`) es la excepción: puede estar en la
+rama del área interna, que se publica detrás de Cloudflare Access, y es **error en `main`** y en cualquier `dist/` de `main`.
 
 ## 1. Monitor de concentraciones — `operaciones` v1
 
@@ -100,54 +101,78 @@ prefijan con `'` para que Excel no los ejecute como fórmula.
 | El artefacto es el sistema de registro | El artefacto pasa a ser opcional |
 
 
-## 2. Seguimiento de expedientes — `seguimiento` v1
+## 2. Seguimiento de expedientes — `seguimiento` v2
 
-Es lo que lee `seguimiento/index.html`. La idea de fondo es la misma que en el monitor: la página no sabe de dónde salen los datos.
-Más adelante un script local (`generar_seguimiento.py`, etapa 3) lo escribirá a partir de `Res_firmadas.xlsm`; hoy solo existe
-`data/seguimiento.sample.json`, con expedientes ficticios.
+Es lo que lee `seguimiento/index.html` y lo que escribe `generar_seguimiento.py` a partir de la hoja `evol_conc` de
+`Res_firmadas.xlsm`. La página pide primero `data/seguimiento.json` (real) y, si no existe (404), muestra `data/seguimiento.sample.json`
+(ejemplo). Rechaza cualquier otra `schema_version`.
 
-> **Privacidad.** El seguimiento real son expedientes **en trámite**, con analista y estado. **No va nunca a este repo público**:
-> vive en el repo privado del área interna, y solo después de la autorización institucional.
+> **Privacidad.** El seguimiento real son concentraciones **en trámite**, con carátula y nombres del personal. Solo se publica detrás de
+> Cloudflare Access (ver «Área interna» en `SITIO.md`). Está en la rama del área interna; **no se mergea a `main`**: ahí
+> `verificar_sitio.py` lo rechaza.
 
 ### Archivo
 
 ```json
 {
-  "schema_version": 1,
-  "origen": "ejemplo",          // "ejemplo" en el fixture; la demo se niega a mostrar cualquier otro valor
-  "aviso": "DATOS DE EJEMPLO: …",
-  "corte": "AAAA-MM-DD",        // fecha a la que están medidos los datos (no es «hoy»: los números se pueden reproducir)
-  "estados": ["Ingreso", "Análisis", …],   // orden del trámite: ordena el gráfico de estados
+  "schema_version": 2,
+  "origen": "interno",            // "ejemplo" en el fixture
+  "aviso": "USO INTERNO: …",      // el fixture empieza con "DATOS DE EJEMPLO"
+  "fuente": "Res_firmadas.xlsm › evol_conc",
+  "corte": "AAAA-MM-DD",          // fecha a la que se mide la antigüedad (por defecto, el día de la generación)
+  "excel_corte": "AAAA-MM-DD",    // «Fecha de corte» que el Excel tenía guardada (General!C5); la página avisa si es >7 días anterior al corte
+  "estados": ["Pendiente de presentación", …, "TDC"],   // orden del trámite: ordena el gráfico de estados
+  "avisos": ["…"],                // problemas de carga del Excel que conviene revisar (se muestran en «Notas»)
   "expedientes": [ … ]
 }
 ```
 
 ### `expedientes[]`
 
-| Campo | Tipo | Obligatorio | Valores / formato |
+| Campo | Tipo | Obligatorio | Origen en `evol_conc` / formato |
 |---|---|---|---|
-| `id` | texto | sí | identificador; en datos reales, `tipo-número` normalizado (`CONC-2005`) |
-| `operacion` | texto | sí | nombre de la operación (en datos reales, decidir si corresponde mostrarlo) |
-| `analista` | texto | no | si falta, «Sin asignar». Hoy no se sabe qué columna del Excel lo trae |
-| `tipo` | texto | sí | Ordinario · PROSUM |
-| `estado` | texto | sí | uno de `estados`; si no está en la lista, la página lo agrega al final |
-| `ingreso` | texto | sí | `AAAA-MM-DD`; si no es una fecha válida el expediente se descarta |
-| `revision` | texto | no | `AAAA-MM-DD`: próxima revisión, un **hito de gestión, no un vencimiento legal** |
+| `id` | texto | sí | `Clave` con guion: `CONC-2005` |
+| `operacion` | texto | sí | `Caratula` **resumida**: sin comillas, sin «S/ NOTIFICACIÓN ART. 9 DE LA LEY 27.442» (ni el art. 8 de la ley 25.156), sin «(CONC nnnn)»; se conserva un paréntesis que aclare una parte, y se corta en 120 caracteres |
+| `abogados` | lista de texto | sí (puede ser `[]`) | `Abogado_1`, `Abogado_2`; apellido normalizado (sin duplicados, tildes unificadas, tipeos corregidos con `ALIAS_APELLIDOS`) |
+| `economistas` | lista de texto | sí (puede ser `[]`) | `Economista_1`, `Economista_2`, igual que los abogados |
+| `tipo` | texto | sí | `ES FT`: SI → `PROSUM`, NO → `Ordinario`; vacío → `Sin dato` |
+| `estado` | texto | sí | `ESTADO`; uno de `estados` (si no está en la lista, la página lo agrega al final) |
+| `ingreso` | texto | sí | `Fecha_Ingreso`, `AAAA-MM-DD`; si no es una fecha válida el expediente se descarta (y `avisos` lo dice) |
+
+### Qué es «en trámite»
+
+La misma definición del tablero `General` del Excel (celda `C26`, «TOTAL ACTIVAS»): `ESTADO` en **Pendiente de presentación, Observado,
+En análisis, En instrucción, Suspendida, IT circulando, Para resolución o TDC**. Las demás (Firmada, Subordinada en cumplimiento, Apelada,
+Acumulado, Archivo, Desistida) son «cerradas». El script compara su conteo con el que el Excel guardó y lo informa en `avisos` si difieren.
+Las filas sin `ESTADO` no se cuentan (se informan). Un expediente en trámite con `Fecha_firma` cargada se cuenta, como hace el Excel, y se informa.
 
 ### Qué calcula la página
 
 - **Antigüedad** = días corridos entre `ingreso` y `corte`. No descuenta suspensiones ni es el plazo legal.
 - **Cohortes**: hasta 90 · 91 a 180 · 181 a 365 · más de 365 días.
-- **Revisión en 15 días** = `0 ≤ revision − corte ≤ 15`; **vencida** = `revision < corte` (solo dice que la fecha es anterior al corte).
-- Filtros por analista, estado y procedimiento; todo se recalcula en el navegador, y el CSV baja la selección.
+- **Carga por abogado / economista**: un expediente suma a cada persona asignada (por eso las barras suman más que el total); sin nadie, «Sin asignar».
+- Filtros por abogado, economista, estado y procedimiento; todo se recalcula en el navegador, y el CSV baja la selección.
 
-### Qué falta para la versión real
+### Lo que el Excel no tiene (y por eso la página no lo muestra)
 
-Los encabezados reales de `Res_firmadas.xlsm`: qué columna trae el analista, cuáles son los valores de `ESTADO` que significan
-«en trámite», y desde cuándo corre el plazo legal (el ingreso no siempre es el inicio: hay suspensiones y, desde el 17/11/2026,
-rige el control previo). Con eso se cierra el contrato; ver «Diseño del seguimiento» en `SITIO.md`.
+- **Próxima revisión / vencimientos**: no hay una columna con esa fecha (`Revisión` trae notas de auditoría y está vacía en las activas). La
+  v1 de la demo la mostraba con datos de ejemplo; se sacó. Los vencimientos aparecen como texto libre en `Dictamen a revisar (SI/NO)` y
+  `Observaciones`; no se publican.
+- **Plazo legal**: ni el inicio del plazo ni las suspensiones están estructurados (y desde el 17/11/2026 rige el control previo). La
+  antigüedad es tiempo corrido.
+
+### Cómo se genera
+
+```
+python -B generar_seguimiento.py                      # lee Res_firmadas.xlsm (junto al script) → demo-interno/data/seguimiento.json
+python -B generar_seguimiento.py --corte 2026-10-09   # medir la antigüedad a otra fecha
+```
+
+Abre el Excel en solo lectura (sin ejecutar macros) y escribe un expediente por línea. Hay que abrir y guardar el Excel antes de generar para
+que sus fórmulas (`Clave`, `MESES`, `General`) estén calculadas; si `excel_corte` es anterior al corte, la página lo avisa. Después: commit en la
+rama del área interna; Cloudflare Pages despliega.
 
 ### CSV (botón **Descargar CSV**)
 
-Separador `;`, UTF-8 con BOM. Columnas: `Expediente, Operación, Analista, Procedimiento, Estado, Ingreso, Antigüedad (días),
-Próxima revisión, Días hasta la revisión, Corte`. Los textos que empiezan con `= + - @` se prefijan con `'`.
+Separador `;`, UTF-8 con BOM. Columnas: `Expediente, Operación, Abogados, Economistas, Procedimiento, Estado, Ingreso, Antigüedad (días), Corte`.
+Varios abogados o economistas se separan con ` / `. Los textos que empiezan con `= + - @` se prefijan con `'`.
