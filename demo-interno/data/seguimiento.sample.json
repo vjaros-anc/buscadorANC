@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "origen": "ejemplo",
+  "aviso": "DATOS DE EJEMPLO: los expedientes, las operaciones, los abogados y los economistas son ficticios y sirven solo para probar la herramienta. Los datos reales (Res_firmadas.xlsm) van en el área interna, con acceso restringido.",
+  "fuente": "Datos de ejemplo",
+  "corte": "2026-10-09",
+  "excel_corte": null,
+  "estados": ["Pendiente de presentación", "Observado", "En análisis", "En instrucción", "Suspendida", "IT circulando", "Para resolución", "TDC"],
+  "avisos": [],
+  "expedientes": [
+    {"id": "EJ-01", "operacion": "Operación ficticia A (ejemplo)", "abogados": ["Abogado A (ejemplo)", "Abogado B (ejemplo)"], "economistas": ["Economista A (ejemplo)"], "tipo": "Ordinario", "estado": "En instrucción", "ingreso": "2025-08-04"},
+    {"id": "EJ-02", "operacion": "Operación ficticia B (ejemplo)", "abogados": ["Abogado B (ejemplo)"], "economistas": ["Economista B (ejemplo)", "Economista C (ejemplo)"], "tipo": "PROSUM", "estado": "En instrucción", "ingreso": "2026-08-18"},
+    {"id": "EJ-03", "operacion": "Operación ficticia C (ejemplo)", "abogados": ["Abogado C (ejemplo)"], "economistas": ["Economista A (ejemplo)"], "tipo": "Ordinario", "estado": "TDC", "ingreso": "2026-01-22"},
+    {"id": "EJ-04", "operacion": "Operación ficticia D (ejemplo)", "abogados": ["Abogado A (ejemplo)"], "economistas": ["Economista C (ejemplo)"], "tipo": "Ordinario", "estado": "Suspendida", "ingreso": "2025-11-20"},
+    {"id": "EJ-05", "operacion": "Operación ficticia E (ejemplo)", "abogados": ["Abogado D (ejemplo)", "Abogado A (ejemplo)"], "economistas": ["Economista B (ejemplo)"], "tipo": "PROSUM", "estado": "En análisis", "ingreso": "2026-09-05"},
+    {"id": "EJ-06", "operacion": "Operación ficticia F (ejemplo)", "abogados": ["Abogado B (ejemplo)"], "economistas": ["Economista A (ejemplo)", "Economista B (ejemplo)"], "tipo": "Ordinario", "estado": "Para resolución", "ingreso": "2026-02-15"},
+    {"id": "EJ-07", "operacion": "Operación ficticia G (ejemplo)", "abogados": ["Abogado C (ejemplo)"], "economistas": [], "tipo": "Ordinario", "estado": "En instrucción", "ingreso": "2026-05-20"},
+    {"id": "EJ-08", "operacion": "Operación ficticia H (ejemplo)", "abogados": ["Abogado D (ejemplo)"], "economistas": ["Economista C (ejemplo)"], "tipo": "PROSUM", "estado": "Pendiente de presentación", "ingreso": "2026-10-01"},
+    {"id": "EJ-09", "operacion": "Operación ficticia I (ejemplo)", "abogados": ["Abogado A (ejemplo)", "Abogado C (ejemplo)"], "economistas": ["Economista A (ejemplo)"], "tipo": "Ordinario", "estado": "En instrucción", "ingreso": "2025-12-10"},
+    {"id": "EJ-10", "operacion": "Operación ficticia J (ejemplo)", "abogados": ["Abogado B (ejemplo)"], "economistas": ["Economista B (ejemplo)"], "tipo": "Ordinario", "estado": "Observado", "ingreso": "2026-09-25"},
+    {"id": "EJ-11", "operacion": "Operación ficticia K (ejemplo)", "abogados": ["Abogado C (ejemplo)"], "economistas": ["Economista C (ejemplo)"], "tipo": "PROSUM", "estado": "En instrucción", "ingreso": "2026-07-18"},
+    {"id": "EJ-12", "operacion": "Operación ficticia L (ejemplo)", "abogados": ["Abogado D (ejemplo)"], "economistas": ["Economista A (ejemplo)"], "tipo": "Ordinario", "estado": "Suspendida", "ingreso": "2026-03-11"},
+    {"id": "EJ-13", "operacion": "Operación ficticia M (ejemplo)", "abogados": ["Abogado A (ejemplo)"], "economistas": ["Economista B (ejemplo)"], "tipo": "Ordinario", "estado": "En instrucción", "ingreso": "2026-04-03"},
+    {"id": "EJ-14", "operacion": "Operación ficticia N (ejemplo)", "abogados": ["Abogado C (ejemplo)"], "economistas": ["Economista C (ejemplo)"], "tipo": "Ordinario", "estado": "TDC", "ingreso": "2026-06-30"}
+  ]
+}

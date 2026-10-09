@@ -1,0 +1,29 @@
+# Cloudflare Pages — encabezados SOLO para las rutas nuevas.
+# No hay ninguna regla para "/" (el buscador) ni para /pdf/*: esas respuestas quedan como hoy.
+
+/assets/*
+  Cache-Control: public, max-age=300
+  X-Content-Type-Options: nosniff
+
+/data/*
+  Cache-Control: public, max-age=300
+  X-Content-Type-Options: nosniff
+
+/conc/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/opis/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/herramientas/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+# Prototipo del monitor (datos de EJEMPLO): que no se indexe ni se guarde en caches
+/demo-interno/*
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: no-store
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer

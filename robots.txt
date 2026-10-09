@@ -1,0 +1,3 @@
+# Solo se excluye el prototipo con datos de ejemplo. El resto del sitio queda como estaba (sin restricciones).
+User-agent: *
+Disallow: /demo-interno/

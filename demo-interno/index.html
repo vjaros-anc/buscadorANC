@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Área interna — Herramientas ANC</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="../assets/anc.css">
+</head>
+<body class="anc">
+<div id="anc-nav"></div>
+<header class="anc-head"><div class="anc-head-in">
+  <h1>Área interna <span class="anc-pill warn">uso interno</span></h1>
+  <p class="anc-lead">Herramientas para analistas y directores del área. El seguimiento de expedientes muestra datos reales del Excel del área;
+  el monitor de concentraciones sigue siendo una demostración con datos de ejemplo. Por eso esta área se publica detrás de un inicio de sesión.</p>
+</div></header>
+
+<main class="anc-main" id="contenido">
+  <section class="anc-section"><div class="anc-banner"><b>USO INTERNO.</b> El seguimiento muestra expedientes en trámite reales. El monitor usa datos de ejemplo: ninguna operación que se ve ahí es real.</div></section>
+
+  <section class="anc-group">
+    <div class="anc-cards">
+      <a class="anc-tool" href="noticias/">
+        <h3>Monitor de concentraciones (M&amp;A)</h3>
+        <p>Operaciones detectadas en la prensa, con análisis de umbrales y casos a verificar ante la ANC.</p>
+        <div class="anc-meta"><span class="anc-pill warn">Demo</span><span>Datos de ejemplo</span></div>
+      </a>
+      <a class="anc-tool" href="seguimiento/">
+        <h3>Seguimiento de expedientes</h3>
+        <p>Concentraciones en trámite: carga por abogado y por economista, estado, procedimiento y antigüedad, con descarga en CSV.</p>
+        <div class="anc-meta"><span class="anc-pill ok">Datos reales</span><span>Res_firmadas.xlsm</span></div>
+      </a>
+    </div>
+  </section>
+
+  <section class="anc-section">
+    <h2>Cómo se publica el área interna</h2>
+    <div class="anc-card anc-note">
+      <ul>
+        <li>Un proyecto de Cloudflare Pages que publica la rama del área interna (nunca <code>main</code>) con Cloudflare Access: inicio de sesión del área.</li>
+        <li>El seguimiento real sale de <code>generar_seguimiento.py</code> y no se mergea a <code>main</code>; <code>verificar_sitio.py</code> lo rechaza ahí.</li>
+        <li>Probar el acceso en una ventana de incógnito, tanto en producción como en las vistas previas, antes de compartir la dirección.</li>
+        <li>El detalle de cada paso está en <code>SITIO.md</code>, y los formatos de datos en <code>demo-interno/SCHEMA.md</code>.</li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<script src="../assets/nav.js" defer></script>
+</body>
+</html>
