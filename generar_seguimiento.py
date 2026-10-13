@@ -18,8 +18,8 @@ Que muestra de cada expediente:
 El Excel se abre en SOLO LECTURA (las macros no se ejecutan). El unico archivo que se escribe es el JSON.
 El JSON trae expedientes en tramite: es de uso interno (ver SITIO.md, "Area interna").
 
-Uso:
-    python -B generar_seguimiento.py
+Uso (el Excel vive en Drive; actualizar_sitio.py lo corre con la ruta guardada, ver SITIO.md):
+    python -B generar_seguimiento.py --excel "G:/Mi unidad/.../Res_firmadas.xlsm"
     python -B generar_seguimiento.py --excel RUTA/Res_firmadas.xlsm --salida RUTA/seguimiento.json --corte 2026-10-09
 Necesita openpyxl (el resto del circuito ya lo usa).
 """
@@ -254,7 +254,7 @@ def escribir(datos: dict, destino: Path) -> None:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--excel", default=str(EXCEL), help="Res_firmadas.xlsm (por defecto, junto a este script)")
+    ap.add_argument("--excel", default=str(EXCEL), help="Res_firmadas.xlsm, p. ej. en Drive (por defecto, junto a este script)")
     ap.add_argument("--salida", default=str(SALIDA), help="JSON de salida")
     ap.add_argument("--corte", default=None, help="fecha para medir la antigüedad, AAAA-MM-DD (por defecto, hoy)")
     args = ap.parse_args()

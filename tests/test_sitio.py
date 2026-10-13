@@ -8,15 +8,19 @@ Responden "¿lo que se va a publicar es coherente?" y fallan con un mensaje que 
   - los agregados del tablero salen del detalle por expediente
   - /opis/ es el buscador de OPIs original mas tres fragmentos de la barra, nada mas
   - el buscador y su plantilla llevan la barra comun
-  - los datos de las demos estan marcados como ejemplo y el verificador rechaza datos reales
+  - los fixtures estan marcados como ejemplo; el seguimiento y el monitor reales solo pasan fuera de main
   - la lista blanca de build_site.py no deja pasar el Excel, los scripts ni los insumos internos
+  - actualizar_sitio.py: orden de los pasos, de donde sale el Excel (Drive) y que monitor.json acepta
+  - (si hay openpyxl y el Excel) regenerar el seguimiento desde Res_firmadas.xlsm da lo que esta versionado
   - (si hay pandas) regenerar el tablero desde firm.xlsx da lo que esta versionado
 
 Uso (desde la raiz del repo):
     python -B -m unittest discover -s tests -v
 """
 import collections
+import contextlib
 import datetime as dt
+import io as _io
 import json
 import math
 import os
@@ -32,6 +36,7 @@ sys.dont_write_bytecode = True      # los .pyc versionados no se reescriben
 RAIZ = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(RAIZ))
 
+import actualizar_sitio as aus      # noqa: E402
 import build_site as bs             # noqa: E402
 import generar_seguimiento as gs    # noqa: E402
 import integrar_opis as io          # noqa: E402
@@ -176,16 +181,32 @@ class DatosDeEjemploTest(unittest.TestCase):
             raiz = self.sitio_chico(tmp)
             (raiz / "demo-interno" / "data" / "seguimiento_real.json").write_text(
                 json.dumps({"schema_version": 2, "origen": "excel", "expedientes": []}), encoding="utf-8")
-            (raiz / "demo-interno" / "data" / "monitor.json").write_text(
-                json.dumps({"schema_version": 1, "origen": "artefacto", "operaciones": []}), encoding="utf-8")
+            (raiz / "demo-interno" / "data" / "monitor_raro.json").write_text(
+                json.dumps({"schema_version": 1, "origen": "inventado", "operaciones": []}), encoding="utf-8")
             (raiz / "Res_firmadas.xlsm").write_bytes(b"x")
             (raiz / "notas.txt").write_text("clave sk-ant-" + "a" * 30, encoding="utf-8")
-            # el origen desconocido, el monitor real y las claves son error en cualquier rama; el .xlsm, en main
+            # los origenes desconocidos y las claves son error en cualquier rama; el .xlsm, en main
             for rama in ("main", "otra-rama"):
                 errores = self.errores(vs.verificar(raiz, rama=rama))
-                for esperado in ("seguimiento_real.json", "monitor.json", "notas.txt"):
+                for esperado in ("seguimiento_real.json", "monitor_raro.json", "notas.txt"):
                     self.assertIn(esperado, errores, rama)
             self.assertIn("Res_firmadas.xlsm", self.errores(vs.verificar(raiz, rama="main")))
+
+    def test_el_monitor_real_solo_puede_estar_fuera_de_main(self):
+        real = {"schema_version": 1, "origen": "artefacto", "exportado_el": "2026-10-15", "operaciones": [], "informes": []}
+        with tempfile.TemporaryDirectory() as tmp:
+            raiz = self.sitio_chico(tmp)
+            (raiz / "demo-interno" / "data" / "monitor.json").write_text(json.dumps(real), encoding="utf-8")
+            res = vs.verificar(raiz, rama="area-interna")
+            self.assertEqual(self.errores(res), "")
+            self.assertIn("monitor.json", " | ".join(m for n, m in res if n == "INFO"))
+            self.assertIn("monitor.json", self.errores(vs.verificar(raiz, rama="main")))
+            # el dist/ de la rama del area interna lo publica (detras de Access)
+            self.assertNotIn("monitor.json", self.errores(vs.verificar(raiz, solo_dist=True, rama="area-interna")))
+            # la pagina lee la version 1
+            real["schema_version"] = 2
+            (raiz / "demo-interno" / "data" / "monitor.json").write_text(json.dumps(real), encoding="utf-8")
+            self.assertIn("schema_version", self.errores(vs.verificar(raiz, rama="area-interna")))
 
     def test_el_seguimiento_real_solo_puede_estar_fuera_de_main(self):
         real = {"schema_version": 2, "origen": "interno", "expedientes": []}
@@ -370,15 +391,96 @@ class SeguimientoTest(unittest.TestCase):
                 self.assertEqual(persona, persona.strip())
 
 
+# El Excel vive en Drive, fuera del repo: se busca igual que actualizar_sitio.py (variable ANC_RES_FIRMADAS,
+# ~/.anc_sitio.json o junto a los scripts).
+EXCEL_SEGUIMIENTO = aus.resolver_res_firmadas()[0]
+
+
 @unittest.skipUnless(__import__("importlib").util.find_spec("openpyxl")
-                     and (RAIZ / "Res_firmadas.xlsm").exists() and (RAIZ / "demo-interno" / "data" / "seguimiento.json").exists(),
-                     "requiere openpyxl, Res_firmadas.xlsm y demo-interno/data/seguimiento.json (rama del \u00e1rea interna)")
+                     and EXCEL_SEGUIMIENTO.is_file() and (RAIZ / "demo-interno" / "data" / "seguimiento.json").exists(),
+                     "requiere openpyxl, Res_firmadas.xlsm (ANC_RES_FIRMADAS o ~/.anc_sitio.json) y demo-interno/data/seguimiento.json")
 class RegenerarSeguimientoTest(unittest.TestCase):
     def test_el_seguimiento_versionado_es_el_que_sale_del_excel(self):
         viejo = leer_json("demo-interno/data/seguimiento.json")
-        filas, total, corte_excel = gs.leer_excel(RAIZ / "Res_firmadas.xlsm")
+        filas, total, corte_excel = gs.leer_excel(EXCEL_SEGUIMIENTO)
         nuevo = json.loads(json.dumps(gs.construir(filas, dt.date.fromisoformat(viejo["corte"]), total, corte_excel)))
         self.assertEqual(nuevo, viejo, "Res_firmadas.xlsm cambi\u00f3: correr 'python -B generar_seguimiento.py'")
+
+
+class ActualizarSitioTest(unittest.TestCase):
+    """actualizar_sitio.py: el orden de los pasos, de donde sale el Excel y que monitor acepta."""
+
+    def test_orden_de_los_pasos(self):
+        claves = [c for c, _, _ in aus.pasos(False, Path("x.xlsm"), monitor="m.json")]
+        self.assertEqual(claves, ["pagina", "tablero", "seguimiento", "monitor", "verificar", "pruebas", "comparar"])
+        claves = [c for c, _, _ in aus.pasos(False, Path("x.xlsm"), con_seguimiento=False)]
+        self.assertEqual(claves, ["pagina", "tablero", "verificar", "pruebas", "comparar"])
+        # en main no se generan datos internos, aunque se pida
+        claves = [c for c, _, _ in aus.pasos(True, Path("x.xlsm"), monitor="m.json")]
+        self.assertEqual(claves, ["pagina", "tablero", "verificar", "pruebas", "comparar"])
+        seg = [a for c, _, a in aus.pasos(False, Path("G:/Drive/Res.xlsm")) if c == "seguimiento"][0]
+        self.assertEqual(seg[-2:], ["--excel", str(Path("G:/Drive/Res.xlsm"))])
+
+    def test_de_donde_sale_el_excel(self):
+        cfg = {"res_firmadas": "/drive/config.xlsm"}
+        env = {"ANC_RES_FIRMADAS": "/drive/env.xlsm"}
+        defecto = Path("/repo/Res_firmadas.xlsm")
+        self.assertEqual(aus.resolver_res_firmadas("/drive/arg.xlsm", env, cfg, defecto)[0], Path("/drive/arg.xlsm"))
+        self.assertEqual(aus.resolver_res_firmadas(None, env, cfg, defecto)[0], Path("/drive/env.xlsm"))
+        self.assertEqual(aus.resolver_res_firmadas(None, {}, cfg, defecto)[0], Path("/drive/config.xlsm"))
+        self.assertEqual(aus.resolver_res_firmadas(None, {}, {}, defecto), (defecto, "junto al script"))
+
+    def monitor(self, **cambios):
+        doc = {"schema_version": 1, "origen": "artefacto", "exportado_el": "2026-10-15", "parametros": {},
+               "informes": [{"id": "2026-10-15", "fecha": "2026-10-15", "total": 1}],
+               "operaciones": [{"id": "a-b-2026", "fecha": "2026-10-10", "partes": "A / B", "tipo": "Adquisición",
+                                "estado": "confirmada", "relevanteANC": True, "verificacion": "pendiente"}]}
+        doc.update(cambios)
+        return doc
+
+    def test_que_monitor_acepta(self):
+        self.assertEqual(aus.validar_monitor(self.monitor()), ([], []))
+        for malo in (self.monitor(origen="ejemplo"), self.monitor(schema_version=2), self.monitor(exportado_el="15/10/2026"),
+                     self.monitor(operaciones=None), [1, 2]):
+            self.assertTrue(aus.validar_monitor(malo)[0], malo)
+        # campos faltantes o valores raros: se copia igual, con avisos (las mismas reglas que monitor_merge.py)
+        dudoso = self.monitor(operaciones=[{"id": "x", "fecha": "2026-10-10", "partes": "X", "tipo": "Otra",
+                                            "estado": "probable", "relevanteANC": True}])
+        errores, avisos = aus.validar_monitor(dudoso)
+        self.assertEqual(errores, [])
+        self.assertTrue(any("estado" in a for a in avisos) and any("verificacion" in a for a in avisos), avisos)
+
+    def test_copiar_monitor(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            origen, destino = Path(tmp) / "bajado.json", Path(tmp) / "data" / "monitor.json"
+            origen.write_text(json.dumps(self.monitor()), encoding="utf-8-sig")      # con BOM, como lo puede dejar Windows
+            with contextlib.redirect_stdout(_io.StringIO()):
+                self.assertEqual(aus.copiar_monitor(origen, destino), 0)
+            self.assertEqual(json.loads(destino.read_text(encoding="utf-8")), self.monitor())
+            origen.write_text(json.dumps(self.monitor(origen="ejemplo")), encoding="utf-8")
+            with contextlib.redirect_stdout(_io.StringIO()):
+                self.assertEqual(aus.copiar_monitor(origen, destino), 1)
+            self.assertEqual(json.loads(destino.read_text(encoding="utf-8"))["origen"], "artefacto", "no se pisa con uno malo")
+
+    def test_recordatorio_del_monitor(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            ruta = Path(tmp) / "monitor.json"
+            self.assertIn("ejemplo", aus.recordatorio_monitor(dt.date(2026, 10, 20), ruta))
+            ruta.write_text(json.dumps(self.monitor()), encoding="utf-8")
+            self.assertIsNone(aus.recordatorio_monitor(dt.date(2026, 10, 20), ruta))
+            self.assertIn("hace 17 días", aus.recordatorio_monitor(dt.date(2026, 11, 1), ruta))
+
+    def test_la_pagina_de_noticias_pide_el_monitor_real_y_cae_al_ejemplo(self):
+        txt = (RAIZ / "demo-interno" / "noticias" / "index.html").read_text(encoding="utf-8")
+        self.assertIn("var DATA_REAL = '../data/monitor.json';", txt)
+        self.assertIn("var DATA_URL = '../data/monitor.sample.json';", txt)
+        self.assertRegex(txt, r"pedir\(DATA_REAL\)\.catch\(function \(e\) \{\s*if \(e\.status === 404\) return pedir\(DATA_URL\);")
+
+    def test_el_monitor_versionado_es_coherente(self):
+        ruta = RAIZ / "demo-interno" / "data" / "monitor.json"
+        if not ruta.exists():
+            self.skipTest("todavía no se subió un monitor real")
+        self.assertEqual(aus.validar_monitor(leer_json("demo-interno/data/monitor.json"))[0], [])
 
 
 @unittest.skipUnless(os.environ.get("ANC_TEST_REGENERAR") or __import__("importlib").util.find_spec("pandas"),

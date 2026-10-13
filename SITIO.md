@@ -19,8 +19,8 @@ Se comprueba con: `python -B verificar_sitio.py --aditivo` (falla si la rama mod
 | `/opis/` | buscador de OPIs (96 dictámenes) | `python -B integrar_opis.py` |
 | `/conc/` | estadísticas de resoluciones firmadas, con filtros por año, tipo y sector y CSV | `python -B generar_tablero.py` |
 | `/demo-interno/` | portada del área interna (demo) | HTML estático |
-| `/demo-interno/noticias/` | prototipo del Monitor M&A con **datos de ejemplo** | HTML + `demo-interno/data/monitor.sample.json` |
-| `/demo-interno/seguimiento/` | concentraciones **en trámite** del Excel `Res_firmadas.xlsm` (datos reales en esta rama; si no hay `seguimiento.json`, muestra ejemplos) | HTML + `demo-interno/data/seguimiento.json`, que escribe `python -B generar_seguimiento.py` |
+| `/demo-interno/noticias/` | Monitor M&A: el último informe bajado del artefacto de Claude (si todavía no hay `monitor.json`, muestra ejemplos) | HTML + `demo-interno/data/monitor.json`, que copia `python -B actualizar_sitio.py --monitor RUTA` |
+| `/demo-interno/seguimiento/` | concentraciones **en trámite** del Excel `Res_firmadas.xlsm`, que vive en Drive (datos reales en esta rama; si no hay `seguimiento.json`, muestra ejemplos) | HTML + `demo-interno/data/seguimiento.json`, que escribe `python -B generar_seguimiento.py` |
 | `/mercados/ /participaciones/ /redes/ /informes/` | reservadas (un `README.md` cada una) | — |
 
 Piezas de apoyo: `assets/` (`anc.css`, `nav.js`, `charts.js`, `csv.js`), `data/conc.json`, `_headers`, `robots.txt`, `404.html`,
@@ -73,28 +73,82 @@ ramas están activos). Qué mirar:
 Si borrás una carpeta, sacala también de `PAGINAS` en `verificar_sitio.py` y del arreglo `ITEMS` de `assets/nav.js`.
 
 **Si no usás `build_site.py`**, Pages publica la raíz tal cual y lo que mergees a `main` queda en producción, `demo-interno/` incluida
-(con `noindex`, pero trae datos reales del seguimiento y `Res_firmadas.xlsm`, y no deben estar en producción): borrala, y borrá el `.xlsm`, antes de mergear, y poné `INTERNO = false`.
+(con `noindex`, pero trae datos reales del seguimiento y del monitor, y no deben estar en producción): borrala antes de mergear y poné `INTERNO = false`.
 Con `build_site.py` eso se resuelve solo (ver abajo).
+
+## Actualización semanal (en esta rama)
+
+Mientras las secciones nuevas están en prueba, **todo el trabajo semanal se hace en esta rama** (`claude/dreamy-cray-mxaf3v`). `main`
+(producción) queda como está hasta que se mergee.
+
+1. Pasos 0 a 7 del `PROTOCOLO.md`, como siempre. El paso 0 con el Excel de Drive: `python -B actualizar_sitio.py --cotejar`.
+2. Si hubo un informe nuevo del monitor (la Rutina corre los días 1 y 15), en el artefacto
+   «Monitor de concentraciones» (claude.ai, en tus artefactos): botón **Descargar monitor.json**.
+3. `python -B actualizar_sitio.py`, con `--monitor RUTA\monitor.json` si bajaste uno. Reemplaza los pasos 8 y 9: corre en orden
+   página → tablero → seguimiento (y monitor) → `verificar_sitio.py` → pruebas → `comparar_index.py`, y corta en el primer error.
+4. Si terminó en `OK`, los comandos que imprime: `git add -A`, `git commit -m "act DD-MM"`, `git push origin claude/dreamy-cray-mxaf3v`.
+
+| Si falla… | Qué mirar |
+|---|---|
+| antes de empezar: «no encuentro Res_firmadas.xlsm» | Drive para escritorio abierto y sincronizado; la ruta (`--res-firmadas`) |
+| `generar_pagina.py` / `generar_tablero.py` | `firm.xlsx` abierto en Excel o con una columna cambiada; pandas y openpyxl instalados |
+| `generar_seguimiento.py` | la hoja `evol_conc` o sus columnas cambiaron de nombre |
+| monitor | el archivo no es el que baja el botón (tiene que decir `"origen": "artefacto"`) |
+| `verificar_sitio.py` | el renglón `[ERROR]` dice qué archivo y por qué |
+| pruebas | cada prueba dice qué script volver a correr |
+| `comparar_index.py` (PERDIDOS > 0) | una `Carpeta` mal escrita en las filas nuevas: no subir |
+
+El script no toca git ni borra nada: guarda el `index.html` anterior en `respaldos/index_previo.html` (ignorada) para compararlo.
+
+### Res_firmadas en Drive
+
+Lo carga otra persona y vos actualizás el sitio. Se arma una sola vez:
+
+1. El archivo queda en una carpeta compartida de Google Drive **como `.xlsm`**. No hay que convertirlo a Hoja de Google: se perderían las
+   macros (`AltaEnFirmadas`, los avisos al editar, `GenerarInforme`).
+2. Las dos personas usan **Drive para escritorio** (Windows). Quien carga lo abre con **Excel de escritorio** desde `G:\`: las macros andan
+   y Excel deja las fórmulas calculadas al guardar. Drive para escritorio avisa si dos personas lo tienen abierto a la vez (preferencia
+   «Ver si alguien está editando un archivo de Microsoft Office compartido»). Mejor no editarlo en el navegador: ahí las macros no corren.
+3. Si la carpeta te la compartieron: en drive.google.com, **Compartidos conmigo** → clic derecho → **Agregar acceso directo a Mi unidad**.
+   Así aparece en `G:\Mi unidad\…`.
+4. La primera vez: `python -B actualizar_sitio.py --res-firmadas "G:\Mi unidad\…\Res_firmadas.xlsm"`. La ruta queda guardada en
+   `%USERPROFILE%\.anc_sitio.json` y las próximas veces no hace falta. La variable `ANC_RES_FIRMADAS` la pisa. Las pruebas usan la misma.
+5. **Antes de bajar esta versión de la rama**, mové a la carpeta de Drive cualquier `Res_firmadas.xlsm` que tengas dentro de la carpeta del
+   repo: desde el 13/10 la rama ya no lo trae (`git rm`) y git podría borrar esa copia al actualizar. Sigue en el historial de git.
+
+Por qué no una Hoja de Google: haría falta rehacer las macros en Apps Script, revisar la fórmula de `Clave` (usa matrices) y, como en
+`G:\` una hoja de Google es solo un acceso directo (`.gsheet`), bajarla con la API de Drive. Conviene solo si hace falta editar entre varios
+a la vez.
+
+### Monitor de noticias
+
+- La Rutina «Monitor de concentraciones» (días 1 y 15, 08:50) carga el informe en el artefacto.
+- El botón **Descargar monitor.json** del artefacto baja el contrato `operaciones` v1 completo (`demo-interno/SCHEMA.md`).
+- `actualizar_sitio.py --monitor RUTA` lo valida (versión 1, `origen: "artefacto"` y los campos, con las reglas de `monitor_merge.py`) y
+  lo copia a `demo-interno/data/monitor.json`. Si no lo pasás y el publicado tiene más de 15 días, te lo recuerda.
+- `/demo-interno/noticias/` lee `monitor.json`; si no existe, muestra el ejemplo con su cartel. Avisa si el monitor tiene más de 20 días.
+- Trae el análisis interno (umbrales, «relevante ANC», verificación): como el seguimiento, solo puede estar en esta rama
+  (`verificar_sitio.py` da error en `main`) y la rama se puede leer en GitHub (decisión del 9/10).
 
 ## Cómo regenerar
 
 ```
 python -B generar_tablero.py     # lee firm.xlsx -> conc/index.html y data/conc.json
 python -B integrar_opis.py       # copia pdf/lectura_opi/buscador_opis.html a opis/index.html (+barra)
-python -B generar_seguimiento.py # lee Res_firmadas.xlsm (solo lectura) -> demo-interno/data/seguimiento.json (solo en la rama del área interna)
+python -B actualizar_sitio.py    # todo lo de abajo en orden, más el seguimiento y el monitor (ver «Actualización semanal»)
+python -B generar_seguimiento.py --excel RUTA  # Res_firmadas.xlsm (solo lectura) -> demo-interno/data/seguimiento.json (solo en la rama del área interna)
 python -B verificar_sitio.py     # compuerta: links con mayúsculas exactas, tamaños, lista negra, ejemplo vs real, tablero al día
-python -B -m unittest discover -s tests -v   # pruebas de coherencia del sitio (23 pruebas, unos 10 s)
+python -B -m unittest discover -s tests -v   # pruebas de coherencia del sitio (31 pruebas, unos 12 s)
 ```
 
 Usá siempre `-B`: hay dos `.pyc` versionados que si no Python reescribiría y aparecerían como modificados.
 
-Para el circuito mensual, después del paso 8 (`generar_pagina.py`, que ahora ya escribe la barra en `index.html`) se corre
-`generar_tablero.py` (y, si regeneraste los OPIs, `integrar_opis.py`); el resto no cambia. El tablero lee el mismo `firm.xlsx`. Si te
-olvidás, `verificar_sitio.py` avisa («data/conc.json no corresponde al index.html publicado») y la prueba
+En el circuito semanal todo eso lo corre `actualizar_sitio.py` (si regeneraste los OPIs, `integrar_opis.py` va aparte). El tablero lee el
+mismo `firm.xlsx`. Si se corre a mano y te olvidás del tablero, `verificar_sitio.py` avisa («data/conc.json no corresponde al index.html publicado») y la prueba
 `test_el_tablero_versionado_es_el_que_sale_de_firm_xlsx` falla.
 
-Las pruebas (`tests/test_sitio.py`) usan solo la biblioteca estándar; la última (regenerar el tablero) necesita pandas y se saltea si
-no está. Cada una dice qué script volver a correr.
+Las pruebas (`tests/test_sitio.py`) usan solo la biblioteca estándar; regenerar el tablero necesita pandas, y regenerar el seguimiento,
+openpyxl y el Excel (`ANC_RES_FIRMADAS` o `~/.anc_sitio.json`): si falta algo, esas dos se saltean. Cada una dice qué script volver a correr.
 
 ## `build_site.py` y la lista blanca (opcional)
 
@@ -134,9 +188,9 @@ Cada herramienta lee un JSON versionado (`schema_version`) y no depende de la fu
   que se comparan (`tests/test_sitio.py` y una prueba en el navegador con 10 combinaciones de filtros dieron lo mismo).
 - Monitor y seguimiento: `demo-interno/SCHEMA.md` define `operaciones` v1 y `seguimiento` v2 (campos, valores, CSV).
   `demo-interno/monitor_merge.py` junta lo exportado con `ArtifactData` en `monitor.json` + `operaciones.csv`; `generar_seguimiento.py`
-  escribe `seguimiento.json`. **El `monitor.json` real sigue sin poder estar en este repo**: `verificar_sitio.py` falla si aparece uno con
-  `origen` distinto de `"ejemplo"`. El **seguimiento real** (`origen: "interno"`) solo puede estar en la rama del área interna (ver abajo):
-  en `main` es error.
+  escribe `seguimiento.json`. El **monitor real** (`origen: "artefacto"`, lo baja el botón del artefacto) y el **seguimiento real**
+  (`origen: "interno"`) solo pueden estar en la rama del área interna (ver abajo): en `main` son error, y un `origen` desconocido es error
+  en cualquier rama.
 - Clave común de expediente: `tipo-número` normalizado (`nm.parse_carpeta`). Ojo: `(tipo, número)` no es único (OPI-232, INC-1663);
   `(tipo, número, resolución)` sí.
 
@@ -144,21 +198,22 @@ Cada herramienta lee un JSON versionado (`schema_version`) y no depende de la fu
 
 **Decisión (9/10/2026).** El área interna se publica en **Cloudflare Pages detrás de Cloudflare Access**, desde una rama distinta de `main`
 (esta, `claude/dreamy-cray-mxaf3v`); `main` sigue siendo el sitio público (el buscador). Se aceptó que el repositorio de GitHub siga siendo
-**público**: Access protege la dirección de Cloudflare, **no** el repositorio, y la rama (con `Res_firmadas.xlsm` y `seguimiento.json`) se
-puede leer en GitHub. Quien quiera cerrar eso más adelante tiene el camino de siempre: repo privado aparte y segundo proyecto de Pages.
+**público**: Access protege la dirección de Cloudflare, **no** el repositorio, y la rama (con `seguimiento.json` y `monitor.json`) se
+puede leer en GitHub. `Res_firmadas.xlsm` salió de la rama el 13/10 (vive en Drive), pero sigue en el historial de git. Quien quiera cerrar eso más adelante tiene el camino de siempre: repo privado aparte y segundo proyecto de Pages.
 
 **Qué hay en la rama y qué lo protege**
 
 | Pieza | Qué hace |
 |---|---|
-| `Res_firmadas.xlsm` (subido el 9/10) | fuente del seguimiento; `generar_seguimiento.py` lo abre en solo lectura |
+| `Res_firmadas.xlsm` (en Drive, fuera del repo desde el 13/10) | fuente del seguimiento; `generar_seguimiento.py` lo abre en solo lectura |
 | `demo-interno/data/seguimiento.json` | lo que lee la página; trae carátulas resumidas y apellidos del equipo |
+| `demo-interno/data/monitor.json` | el monitor del artefacto, con el análisis de umbrales y la verificación |
 | `build_site.py` | publica una lista blanca: el `.xlsm` **no** sale en `dist/`; el JSON sí |
-| `verificar_sitio.py` | corre antes de armar `dist/`. En `main` (o con `CF_PAGES_BRANCH=main`) es **ERROR** que exista el JSON real o un dato interno (`*.xlsm`, `Res_firmadas*`, `cotejo_*`, `evol_conc*`): el build falla y queda el sitio anterior. En la rama del área interna son solo notas (INFO). En un `dist/` armado, el `.xlsm` es siempre error |
+| `verificar_sitio.py` | corre antes de armar `dist/`. En `main` (o con `CF_PAGES_BRANCH=main`) es **ERROR** que exista un JSON real (seguimiento o monitor) o un dato interno (`*.xlsm`, `Res_firmadas*`, `cotejo_*`, `evol_conc*`): el build falla y queda el sitio anterior. En la rama del área interna son solo notas (INFO). En un `dist/` armado, el `.xlsm` es siempre error |
 | `demo-interno/*` | `noindex`, `Cache-Control: no-store` y sin Analytics (`_headers`) |
 
 **Qué no hay que hacer.** Mergear esta rama a `main` con esos archivos: si el sitio público se sirve sin `build_site.py` (GitHub Pages desde
-`main`, o Cloudflare sin build), publica la raíz tal cual, `.xlsm` incluido. La compuerta lo frena solo si corre (`build_site.py`).
+`main`, o Cloudflare sin build), publica la raíz tal cual, los JSON reales incluidos. Pasó el 12/10 (PR #1) y se deshizo el 13/10. La compuerta lo frena solo si corre (`build_site.py`).
 
 **Pasos en Cloudflare** (no se pudo abrir su documentación: confirmar en el panel):
 
@@ -167,24 +222,24 @@ puede leer en GitHub. Quien quiera cerrar eso más adelante tiene el camino de s
    proyecto: si se activa en el que sirve `main`, el buscador público pediría login.
 2. En ese proyecto: Settings → General → *Enable access policy*. Crea **dos** políticas, una para producción (`<proyecto>.pages.dev`) y otra
    para las vistas previas (`*.<proyecto>.pages.dev`); se configuran y se prueban por separado, con la lista de mails autorizados.
-3. Probar en una ventana de incógnito: la página pide login, un mail no autorizado es rechazado, y `/data/seguimiento.json` y
-   `/demo-interno/data/seguimiento.json` directos también.
+3. Probar en una ventana de incógnito: la página pide login, un mail no autorizado es rechazado, y `/demo-interno/data/seguimiento.json` y
+   `/demo-interno/data/monitor.json` directos también.
 4. **Revisar el proyecto que ya existe** (`buscadoranc`): si está conectado a este repo y tiene vistas previas de ramas, la rama ya pudo
-   desplegarse **sin lista blanca** (publica la raíz: `/Res_firmadas.xlsm` se descarga). Deployments → buscar la vista previa de esta rama;
+   desplegarse **sin lista blanca** (publica la raíz: los JSON del seguimiento y del monitor se descargan sin login). Deployments → buscar la vista previa de esta rama;
    borrar ese deployment, o desactivar las vistas previas de ramas (Settings → Builds → *Branch control*) hasta tener Access.
 5. Cuando exista el área interna definitiva, `interno` en `ITEMS` de `assets/nav.js` apuntará a su dirección y `INTERNO` quedará en `true`.
 
 Antes de mostrar datos reales a otras personas sigue valiendo la autorización institucional del área para alojarlos en estos servicios.
 
-Sincronización del monitor: hoy a demanda (pedirle a Claude que exporte con `ArtifactData` y corra `monitor_merge.py`). El monitor sigue con
-datos de ejemplo.
+Sincronización del monitor: botón **Descargar monitor.json** del artefacto y `actualizar_sitio.py --monitor RUTA` (ver «Actualización
+semanal»). Pedirle a Claude que exporte con `ArtifactData` y corra `monitor_merge.py` sigue sirviendo.
 
 ## Seguimiento (etapa 3): versión real en la rama del área interna
 
 `/demo-interno/seguimiento/` ya trabaja con el Excel: `generar_seguimiento.py` lee la hoja `evol_conc` de `Res_firmadas.xlsm` y escribe
-`demo-interno/data/seguimiento.json` (contrato `seguimiento` v2, en `demo-interno/SCHEMA.md`). Cada vez que se actualiza el Excel:
-abrirlo y **guardarlo** (para que sus fórmulas estén calculadas), `python -B generar_seguimiento.py`, `python -B -m unittest discover -s tests`,
-commit y push de la rama del área interna.
+`demo-interno/data/seguimiento.json` (contrato `seguimiento` v2, en `demo-interno/SCHEMA.md`). El Excel vive en Drive y lo
+regenera `actualizar_sitio.py` cada semana (ver «Res_firmadas en Drive»). Quien lo carga lo tiene que **guardar** en Excel de escritorio
+para que sus fórmulas queden calculadas: la página avisa si el Excel se calculó hace más de 7 días.
 
 - **En trámite** = la definición del propio Excel (`General!C26`): Pendiente de presentación, Observado, En análisis, En instrucción,
   Suspendida, IT circulando, Para resolución o TDC. Al 9/10/2026: **45** (35 En instrucción, 6 Suspendida, 4 TDC). El script compara con el

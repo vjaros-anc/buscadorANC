@@ -4,22 +4,24 @@ Cada herramienta lee un JSON versionado (`schema_version`) y no depende de dónd
 Claude, mañana una base. Hay dos contratos:
 
 1. [Monitor de concentraciones — `operaciones` v1](#1-monitor-de-concentraciones--operaciones-v1): lo lee `noticias/index.html`.
-2. [Seguimiento de expedientes — `seguimiento` v1](#2-seguimiento-de-expedientes--seguimiento-v1): lo lee `seguimiento/index.html`.
+2. [Seguimiento de expedientes — `seguimiento` v2](#2-seguimiento-de-expedientes--seguimiento-v2): lo lee `seguimiento/index.html`.
 
-Hay **fixtures de ejemplo** (`data/*.sample.json`, todo marcado como ejemplo). `verificar_sitio.py` falla si aparece un `monitor*.json`
-con `origen` distinto de `"ejemplo"`. El **seguimiento real** (`seguimiento.json`, `origen: "interno"`) es la excepción: puede estar en la
-rama del área interna, que se publica detrás de Cloudflare Access, y es **error en `main`** y en cualquier `dist/` de `main`.
+Hay **fixtures de ejemplo** (`data/*.sample.json`, todo marcado como ejemplo). Los datos reales, el **monitor** (`monitor.json`,
+`origen: "artefacto"`) y el **seguimiento** (`seguimiento.json`, `origen: "interno"`), solo pueden estar en la rama del área interna, que
+se publica detrás de Cloudflare Access: `verificar_sitio.py` los da como **error en `main`** y en cualquier `dist/` de `main`, y un
+`origen` desconocido es error en cualquier rama.
 
 ## 1. Monitor de concentraciones — `operaciones` v1
 
-Es lo que lee `noticias/index.html` y lo que produce `monitor_merge.py`. La idea es que **bot, dashboard y
+Es lo que lee `noticias/index.html` (primero `data/monitor.json` y, si no existe, `data/monitor.sample.json`), lo que baja el botón
+**Descargar monitor.json** del artefacto y lo que produce `monitor_merge.py`. La idea es que **bot, dashboard y
 exportaciones usen una sola fuente**: un `monitor.json` versionado. Hoy esa fuente se genera a partir del
 artefacto de Claude; más adelante puede escribirla directamente la Rutina, o pasar a una base (D1), sin
 cambiar la página.
 
 > **Privacidad.** El `monitor.json` real contiene el análisis interno del área (qué operaciones conviene
-> verificar y el resultado). **No va nunca a este repo público.** Vive en el repo privado del área interna.
-> En este repo solo está `data/monitor.sample.json`, con datos ficticios.
+> verificar y el resultado). Igual que el seguimiento, está solo en la rama del área interna y **no se mergea a `main`**.
+> El repositorio es público: la rama se puede leer en GitHub (decisión del 9/10, ver `SITIO.md`).
 
 ### Archivo
 
@@ -84,19 +86,26 @@ Separador `;`, UTF-8 con BOM (se abre bien en Excel con configuración regional 
 analisisUmbral, motivoANC, verificacion, verificadoEl, fuente, links`. Los textos que empiezan con `= + - @` se
 prefijan con `'` para que Excel no los ejecute como fórmula.
 
-### Cómo se genera `monitor.json` (sincronización a demanda)
+### Cómo se genera `monitor.json`
 
-1. En una sesión de Claude con acceso al artefacto, exportar con `ArtifactData` (`action: "list"`) las colecciones
-   `operaciones`, `informes` y `parametros`, con `out_dir` en una carpeta de trabajo **fuera del repo**.
-2. `python -B demo-interno/monitor_merge.py CARPETA --salida RUTA_DEL_REPO_PRIVADO/data`
-   escribe `monitor.json` y `operaciones.csv` y avisa de campos faltantes o valores desconocidos.
-3. Commit en el repo privado; Cloudflare Pages despliega el área interna.
+Lo habitual (cada 15 días, después de la Rutina):
+
+1. En el artefacto, botón **Descargar monitor.json** (arriba, junto al período cubierto). Arma este mismo archivo con lo que hay en
+   la base del artefacto: `origen: "artefacto"`, `exportado_el` = hoy, operaciones e informes del más nuevo al más viejo y el documento
+   `umbrales` como `parametros`.
+2. `python -B actualizar_sitio.py --monitor RUTA\monitor.json`: lo valida (versión 1, origen, y los campos con las reglas de
+   `monitor_merge.py`), lo copia a `demo-interno/data/monitor.json` y sigue con la actualización del sitio.
+3. Commit y push de la rama del área interna; Cloudflare Pages despliega.
+
+Alternativa, en una sesión de Claude con acceso al artefacto: exportar con `ArtifactData` (`action: "list"`) las colecciones
+`operaciones`, `informes` y `parametros` a una carpeta **fuera del repo** y correr
+`python -B demo-interno/monitor_merge.py CARPETA --salida demo-interno/data` (escribe también `operaciones.csv`).
 
 ### Hacia una fuente única
 
 | Hoy | Después |
 |---|---|
-| La Rutina escribe en la base del artefacto; un export manual genera `monitor.json` | La Rutina escribe `monitor.json` en el repo privado |
+| La Rutina escribe en la base del artefacto; el botón del artefacto baja `monitor.json` | La Rutina escribe `monitor.json` en el repo |
 | La verificación se registra en el artefacto | La verificación se registra en el sitio (Workers + D1, solo si hace falta escribir desde el sitio) |
 | El artefacto es el sistema de registro | El artefacto pasa a ser opcional |
 
@@ -164,12 +173,13 @@ Las filas sin `ESTADO` no se cuentan (se informan). Un expediente en trámite co
 ### Cómo se genera
 
 ```
-python -B generar_seguimiento.py                      # lee Res_firmadas.xlsm (junto al script) → demo-interno/data/seguimiento.json
+python -B actualizar_sitio.py                         # lo corre junto con el resto, con el Excel de Drive (ver SITIO.md)
+python -B generar_seguimiento.py --excel RUTA         # lee Res_firmadas.xlsm → demo-interno/data/seguimiento.json
 python -B generar_seguimiento.py --corte 2026-10-09   # medir la antigüedad a otra fecha
 ```
 
-Abre el Excel en solo lectura (sin ejecutar macros) y escribe un expediente por línea. Hay que abrir y guardar el Excel antes de generar para
-que sus fórmulas (`Clave`, `MESES`, `General`) estén calculadas; si `excel_corte` es anterior al corte, la página lo avisa. Después: commit en la
+Abre el Excel en solo lectura (sin ejecutar macros) y escribe un expediente por línea. El Excel vive en Drive y quien lo carga lo tiene que guardar en
+Excel de escritorio para que sus fórmulas (`Clave`, `MESES`, `General`) queden calculadas; si `excel_corte` es anterior al corte, la página lo avisa. Después: commit en la
 rama del área interna; Cloudflare Pages despliega.
 
 ### CSV (botón **Descargar CSV**)

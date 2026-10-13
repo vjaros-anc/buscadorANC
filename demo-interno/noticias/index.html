@@ -110,8 +110,11 @@
   'use strict';
   var h = window.ANCCharts.h, fmt = window.ANCCharts.fmt;
 
-  /* En la versión interna (repo privado) cambian solo estas dos constantes. */
+  // Se pide primero DATA_REAL: el monitor.json que baja el botón «Descargar monitor.json» del artefacto y copia
+  // actualizar_sitio.py --monitor (solo existe en la rama del área interna). Si no está (404), se muestra DATA_URL,
+  // el fixture con datos de EJEMPLO, que siempre existe.
   var DATA_URL = '../data/monitor.sample.json';
+  var DATA_REAL = '../data/monitor.json';
   var ARTEFACTO_URL = '';            // p. ej. el enlace al artefacto de Claude donde se registra la verificación
   var DIAS_VENCIDO = 20;             // el espejo se marca como viejo a partir de estos días
 
@@ -327,9 +330,15 @@
     renderBanners(); renderStats(); renderThr(); renderDocket(); renderRegister(); renderReports();
   }
 
-  fetch(DATA_URL, { cache: 'no-store' }).then(function (r) {
-    if (!r.ok) throw new Error('HTTP ' + r.status);
-    return r.json();
+  function pedir(url) {
+    return fetch(url, { cache: 'no-store' }).then(function (r) {
+      if (!r.ok) { var e = new Error('HTTP ' + r.status); e.status = r.status; throw e; }
+      return r.json();
+    });
+  }
+  pedir(DATA_REAL).catch(function (e) {
+    if (e.status === 404) return pedir(DATA_URL);       // no hay monitor real en este sitio: se muestra el ejemplo
+    throw e;
   }).then(function (d) {
     S.meta = { origen: d.origen, exportado_el: d.exportado_el, schema_version: d.schema_version };
     S.ops = d.operaciones || []; S.reps = d.informes || []; S.par = d.parametros || {};

@@ -12,7 +12,8 @@ Revisa lo que se va a publicar y devuelve codigo de salida 1 si hay algun ERROR:
     y el seguimiento real (origen "interno") son ERROR en la rama main y en el dist/ que se publica, y solo una
     nota (INFO) en la rama del area interna, que se publica detras de Cloudflare Access (ver SITIO.md)
   - los JSON de data/ son validos y traen schema_version
-  - la demo del monitor esta marcada como ejemplo y NO hay un monitor.json real en el arbol
+  - la demo del monitor esta marcada como ejemplo; uno real (origen "artefacto", lo baja el boton del artefacto)
+    solo puede estar fuera de main, y es schema_version 1
   - el seguimiento es schema_version 2: el fixture esta marcado como ejemplo; uno real solo puede ser "interno"
   - las paginas del area interna no cargan Analytics y piden noindex
   - que el buscador (index.html) lleve la barra comun (aviso si no)
@@ -58,6 +59,7 @@ LISTA_NEGRA_SIEMPRE = ["api_key*", "*.key", ".env", "~$*", "*.db"]
 LISTA_NEGRA_INTERNA = ["*.xlsm", "Res_firmadas*", "cotejo_*", "evol_conc*"]
 LISTA_NEGRA = LISTA_NEGRA_INTERNA + LISTA_NEGRA_SIEMPRE
 SEGUIMIENTO_SCHEMA = 2
+MONITOR_SCHEMA = 1
 RX_CLAVE = re.compile(r"sk-ant-[A-Za-z0-9_\-]{20,}")
 ESQUEMAS_EXTERNOS = ("http:", "https:", "mailto:", "tel:", "data:", "javascript:", "blob:")
 
@@ -241,7 +243,8 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False, rama=N
         except ValueError:
             pass  # el JSON invalido ya se informo en el punto 3
 
-    # 4. demo del monitor: marcada como ejemplo y sin datos reales
+    # 4. monitor: el fixture esta marcado como ejemplo; el real (origen "artefacto", lo baja el boton del artefacto y lo
+    #    copia actualizar_sitio.py --monitor) solo puede estar fuera de main, como el seguimiento real
     for f in raiz.glob("**/monitor*.json"):
         rel = f.relative_to(raiz).as_posix()
         if ".git/" in rel:
@@ -249,9 +252,19 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False, rama=N
         try:
             obj = json.loads(f.read_text(encoding="utf-8"))
         except ValueError:
+            continue  # el JSON invalido ya se informo en el punto 3
+        if not isinstance(obj, dict):
+            err("%s: no es un objeto JSON" % rel)
             continue
-        if obj.get("origen") != "ejemplo":
-            err("%s: es un monitor con datos reales (origen != 'ejemplo'): no puede estar en el repo ni en el sitio público" % rel)
+        if obj.get("schema_version") != MONITOR_SCHEMA:
+            err("%s: schema_version %r; la página de noticias lee la versión %d" % (rel, obj.get("schema_version"), MONITOR_SCHEMA))
+        if obj.get("origen") == "artefacto":
+            if en_main:
+                err("%s: es un monitor con el análisis interno (origen 'artefacto'): no puede estar en la rama main ni en el sitio público" % rel)
+            else:
+                info("%s: monitor real (origen 'artefacto'): se publica solo en la rama del área interna; no mergear a main" % rel)
+        elif obj.get("origen") != "ejemplo":
+            err("%s: origen %r desconocido (solo 'ejemplo' o 'artefacto')" % (rel, obj.get("origen")))
         else:
             if "EJEMPLO" not in (obj.get("aviso") or ""):
                 err("%s: el fixture no trae el aviso de EJEMPLO" % rel)
