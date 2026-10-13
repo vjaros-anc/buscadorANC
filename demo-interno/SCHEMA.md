@@ -173,12 +173,12 @@ Las filas sin `ESTADO` no se cuentan (se informan). Un expediente en trámite co
 ### Cómo se genera
 
 ```
-python -B actualizar_sitio.py                         # lo corre junto con el resto, con el Excel de Drive (ver SITIO.md)
+python -B actualizar_sitio.py                         # lo corre junto con el resto, con el Excel del mail (ver SITIO.md)
 python -B generar_seguimiento.py --excel RUTA         # lee Res_firmadas.xlsm → demo-interno/data/seguimiento.json
 python -B generar_seguimiento.py --corte 2026-10-09   # medir la antigüedad a otra fecha
 ```
 
-Abre el Excel en solo lectura (sin ejecutar macros) y escribe un expediente por línea. El Excel vive en Drive y quien lo carga lo tiene que guardar en
+Abre el Excel en solo lectura (sin ejecutar macros) y escribe un expediente por línea. El Excel llega por mail y quien lo carga lo tiene que guardar en
 Excel de escritorio para que sus fórmulas (`Clave`, `MESES`, `General`) queden calculadas; si `excel_corte` es anterior al corte, la página lo avisa. Después: commit en la
 rama del área interna; Cloudflare Pages despliega.
 

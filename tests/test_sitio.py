@@ -10,7 +10,8 @@ Responden "¿lo que se va a publicar es coherente?" y fallan con un mensaje que 
   - el buscador y su plantilla llevan la barra comun
   - los fixtures estan marcados como ejemplo; el seguimiento y el monitor reales solo pasan fuera de main
   - la lista blanca de build_site.py no deja pasar el Excel, los scripts ni los insumos internos
-  - actualizar_sitio.py: orden de los pasos, de donde sale el Excel (Drive) y que monitor.json acepta
+  - actualizar_sitio.py: orden de los pasos, de donde sale el Excel (Descargas), que monitor.json acepta
+    y que frena si hay un Excel interno suelto en la carpeta del repo
   - (si hay openpyxl y el Excel) regenerar el seguimiento desde Res_firmadas.xlsm da lo que esta versionado
   - (si hay pandas) regenerar el tablero desde firm.xlsx da lo que esta versionado
 
@@ -391,8 +392,8 @@ class SeguimientoTest(unittest.TestCase):
                 self.assertEqual(persona, persona.strip())
 
 
-# El Excel vive en Drive, fuera del repo: se busca igual que actualizar_sitio.py (variable ANC_RES_FIRMADAS,
-# ~/.anc_sitio.json o junto a los scripts).
+# El Excel llega por mail y se guarda fuera del repo: se busca igual que actualizar_sitio.py (variable ANC_RES_FIRMADAS,
+# ~/.anc_sitio.json, el mas nuevo de Descargas o junto a los scripts).
 EXCEL_SEGUIMIENTO = aus.resolver_res_firmadas()[0]
 
 
@@ -418,17 +419,61 @@ class ActualizarSitioTest(unittest.TestCase):
         # en main no se generan datos internos, aunque se pida
         claves = [c for c, _, _ in aus.pasos(True, Path("x.xlsm"), monitor="m.json")]
         self.assertEqual(claves, ["pagina", "tablero", "verificar", "pruebas", "comparar"])
-        seg = [a for c, _, a in aus.pasos(False, Path("G:/Drive/Res.xlsm")) if c == "seguimiento"][0]
-        self.assertEqual(seg[-2:], ["--excel", str(Path("G:/Drive/Res.xlsm"))])
+        seg = [a for c, _, a in aus.pasos(False, Path("C:/Users/yo/Downloads/Res.xlsm")) if c == "seguimiento"][0]
+        self.assertEqual(seg[-2:], ["--excel", str(Path("C:/Users/yo/Downloads/Res.xlsm"))])
+
+    def bajados(self, carpeta, nombres):
+        """Crea archivos vacios con fechas de modificacion crecientes (el ultimo es el mas nuevo)."""
+        carpeta.mkdir(parents=True, exist_ok=True)
+        for i, nombre in enumerate(nombres):
+            f = carpeta / nombre
+            f.write_bytes(b"x")
+            os.utime(str(f), (1_700_000_000 + i * 3600,) * 2)
+        return carpeta
+
+    def test_el_excel_mas_nuevo_de_descargas(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            dl = self.bajados(Path(tmp) / "Downloads",
+                              ["Res_firmadas.xlsm", "res_firmadas (1).xlsm", "Res_firmadas_13-10.xlsx",
+                               "otro.xlsm", "Res_firmadas.pdf", "~$Res_firmadas.xlsm"])
+            self.assertEqual(aus.ultimo_descargado([dl]).name, "Res_firmadas_13-10.xlsx")
+            os.utime(str(dl / "res_firmadas (1).xlsm"), (1_800_000_000,) * 2)          # el adjunto de hoy
+            self.assertEqual(aus.ultimo_descargado([dl, Path(tmp) / "Descargas"]).name, "res_firmadas (1).xlsm")
+            self.assertIsNone(aus.ultimo_descargado([Path(tmp) / "no-existe"]))
+            vacia = Path(tmp) / "vacia"
+            vacia.mkdir()
+            self.assertIsNone(aus.ultimo_descargado([vacia]))
 
     def test_de_donde_sale_el_excel(self):
-        cfg = {"res_firmadas": "/drive/config.xlsm"}
-        env = {"ANC_RES_FIRMADAS": "/drive/env.xlsm"}
-        defecto = Path("/repo/Res_firmadas.xlsm")
-        self.assertEqual(aus.resolver_res_firmadas("/drive/arg.xlsm", env, cfg, defecto)[0], Path("/drive/arg.xlsm"))
-        self.assertEqual(aus.resolver_res_firmadas(None, env, cfg, defecto)[0], Path("/drive/env.xlsm"))
-        self.assertEqual(aus.resolver_res_firmadas(None, {}, cfg, defecto)[0], Path("/drive/config.xlsm"))
-        self.assertEqual(aus.resolver_res_firmadas(None, {}, {}, defecto), (defecto, "junto al script"))
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp = Path(tmp)
+            dl = self.bajados(tmp / "Downloads", ["Res_firmadas (2).xlsm"])
+            guardado = self.bajados(tmp / "ANC", ["Res_firmadas.xlsm"]) / "Res_firmadas.xlsm"
+            cfg = {"res_firmadas": str(guardado)}
+            env = {"ANC_RES_FIRMADAS": "/otra/env.xlsm"}
+            defecto = Path("/repo/Res_firmadas.xlsm")
+
+            def r(arg, env, cfg, descargas=(dl,)):
+                return aus.resolver_res_firmadas(arg, env, cfg, defecto, list(descargas))
+            self.assertEqual(r("/otra/arg.xlsm", env, cfg)[0], Path("/otra/arg.xlsm"))
+            self.assertEqual(r(None, env, cfg)[0], Path("/otra/env.xlsm"))
+            self.assertEqual(r(None, {}, cfg)[0], guardado)
+            self.assertEqual(r(None, {}, {}), (dl / "Res_firmadas (2).xlsm", "el más nuevo de Descargas"))
+            # la ruta guardada ya no existe: avisa y sigue con Descargas
+            ruta, fuente = r(None, {}, {"res_firmadas": str(tmp / "borrado.xlsm")})
+            self.assertEqual(ruta, dl / "Res_firmadas (2).xlsm")
+            self.assertIn("ya no existe", fuente)
+            self.assertEqual(r(None, {}, {}, descargas=()), (defecto, "junto al script"))
+            # un archivo de Descargas no se recuerda (taparía al próximo adjunto); uno de otra carpeta, sí
+            self.assertTrue(aus.en_descargas(dl / "Res_firmadas (2).xlsm", [dl]))
+            self.assertFalse(aus.en_descargas(guardado, [dl]))
+
+    def test_frena_datos_internos_sueltos_en_el_repo(self):
+        entradas = ["?? Res_firmadas (1).xlsm", "?? varios/cotejo_x.xlsx", "?? notas.txt", " M index.html",
+                    "?? res_firmadas_13-10.XLSM", "?? conc/index.html", ""]
+        self.assertEqual(aus.internos_sueltos(entradas),
+                         ["Res_firmadas (1).xlsm", "varios/cotejo_x.xlsx", "res_firmadas_13-10.XLSM"])
+        self.assertEqual(aus.internos_sueltos([" M Res_firmadas.xlsm", "A  evol_conc.csv"]), [], "solo los sin versionar")
 
     def monitor(self, **cambios):
         doc = {"schema_version": 1, "origen": "artefacto", "exportado_el": "2026-10-15", "parametros": {},

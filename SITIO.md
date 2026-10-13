@@ -20,7 +20,7 @@ Se comprueba con: `python -B verificar_sitio.py --aditivo` (falla si la rama mod
 | `/conc/` | estadísticas de resoluciones firmadas, con filtros por año, tipo y sector y CSV | `python -B generar_tablero.py` |
 | `/demo-interno/` | portada del área interna (demo) | HTML estático |
 | `/demo-interno/noticias/` | Monitor M&A: el último informe bajado del artefacto de Claude (si todavía no hay `monitor.json`, muestra ejemplos) | HTML + `demo-interno/data/monitor.json`, que copia `python -B actualizar_sitio.py --monitor RUTA` |
-| `/demo-interno/seguimiento/` | concentraciones **en trámite** del Excel `Res_firmadas.xlsm`, que vive en Drive (datos reales en esta rama; si no hay `seguimiento.json`, muestra ejemplos) | HTML + `demo-interno/data/seguimiento.json`, que escribe `python -B generar_seguimiento.py` |
+| `/demo-interno/seguimiento/` | concentraciones **en trámite** del Excel `Res_firmadas.xlsm`, que llega por mail (datos reales en esta rama; si no hay `seguimiento.json`, muestra ejemplos) | HTML + `demo-interno/data/seguimiento.json`, que escribe `python -B generar_seguimiento.py` |
 | `/mercados/ /participaciones/ /redes/ /informes/` | reservadas (un `README.md` cada una) | — |
 
 Piezas de apoyo: `assets/` (`anc.css`, `nav.js`, `charts.js`, `csv.js`), `data/conc.json`, `_headers`, `robots.txt`, `404.html`,
@@ -81,16 +81,18 @@ Con `build_site.py` eso se resuelve solo (ver abajo).
 Mientras las secciones nuevas están en prueba, **todo el trabajo semanal se hace en esta rama** (`claude/dreamy-cray-mxaf3v`). `main`
 (producción) queda como está hasta que se mergee.
 
-1. Pasos 0 a 7 del `PROTOCOLO.md`, como siempre. El paso 0 con el Excel de Drive: `python -B actualizar_sitio.py --cotejar`.
-2. Si hubo un informe nuevo del monitor (la Rutina corre los días 1 y 15), en el artefacto
+1. Guardá en Descargas el `Res_firmadas.xlsm` que te mandaron por mail (ver «Res_firmadas por mail»).
+2. Pasos 0 a 7 del `PROTOCOLO.md`, como siempre. El paso 0 con ese Excel: `python -B actualizar_sitio.py --cotejar`.
+3. Si hubo un informe nuevo del monitor (la Rutina corre los días 1 y 15), en el artefacto
    «Monitor de concentraciones» (claude.ai, en tus artefactos): botón **Descargar monitor.json**.
-3. `python -B actualizar_sitio.py`, con `--monitor RUTA\monitor.json` si bajaste uno. Reemplaza los pasos 8 y 9: corre en orden
+4. `python -B actualizar_sitio.py`, con `--monitor RUTA\monitor.json` si bajaste uno. Reemplaza los pasos 8 y 9: corre en orden
    página → tablero → seguimiento (y monitor) → `verificar_sitio.py` → pruebas → `comparar_index.py`, y corta en el primer error.
-4. Si terminó en `OK`, los comandos que imprime: `git add -A`, `git commit -m "act DD-MM"`, `git push origin claude/dreamy-cray-mxaf3v`.
+5. Si terminó en `OK`, los comandos que imprime: `git add -A`, `git commit -m "act DD-MM"`, `git push origin claude/dreamy-cray-mxaf3v`.
 
 | Si falla… | Qué mirar |
 |---|---|
-| antes de empezar: «no encuentro Res_firmadas.xlsm» | Drive para escritorio abierto y sincronizado; la ruta (`--res-firmadas`) |
+| antes de empezar: «no encuentro el Excel de seguimiento» | que el adjunto del mail esté en Descargas y se llame `Res_firmadas…`; si no, `--res-firmadas RUTA` |
+| antes de empezar: «datos internos sin versionar» | un Excel quedó dentro de la carpeta del repo: movelo a Descargas |
 | `generar_pagina.py` / `generar_tablero.py` | `firm.xlsx` abierto en Excel o con una columna cambiada; pandas y openpyxl instalados |
 | `generar_seguimiento.py` | la hoja `evol_conc` o sus columnas cambiaron de nombre |
 | monitor | el archivo no es el que baja el botón (tiene que decir `"origen": "artefacto"`) |
@@ -100,25 +102,31 @@ Mientras las secciones nuevas están en prueba, **todo el trabajo semanal se hac
 
 El script no toca git ni borra nada: guarda el `index.html` anterior en `respaldos/index_previo.html` (ignorada) para compararlo.
 
-### Res_firmadas en Drive
+### Res_firmadas por mail
 
-Lo carga otra persona y vos actualizás el sitio. Se arma una sola vez:
+El Excel no está en el repo (es público) ni en Drive: quien lo carga lo actualiza en su Excel y te lo **manda por mail**.
 
-1. El archivo queda en una carpeta compartida de Google Drive **como `.xlsm`**. No hay que convertirlo a Hoja de Google: se perderían las
-   macros (`AltaEnFirmadas`, los avisos al editar, `GenerarInforme`).
-2. Las dos personas usan **Drive para escritorio** (Windows). Quien carga lo abre con **Excel de escritorio** desde `G:\`: las macros andan
-   y Excel deja las fórmulas calculadas al guardar. Drive para escritorio avisa si dos personas lo tienen abierto a la vez (preferencia
-   «Ver si alguien está editando un archivo de Microsoft Office compartido»). Mejor no editarlo en el navegador: ahí las macros no corren.
-3. Si la carpeta te la compartieron: en drive.google.com, **Compartidos conmigo** → clic derecho → **Agregar acceso directo a Mi unidad**.
-   Así aparece en `G:\Mi unidad\…`.
-4. La primera vez: `python -B actualizar_sitio.py --res-firmadas "G:\Mi unidad\…\Res_firmadas.xlsm"`. La ruta queda guardada en
-   `%USERPROFILE%\.anc_sitio.json` y las próximas veces no hace falta. La variable `ANC_RES_FIRMADAS` la pisa. Las pruebas usan la misma.
-5. **Antes de bajar esta versión de la rama**, mové a la carpeta de Drive cualquier `Res_firmadas.xlsm` que tengas dentro de la carpeta del
-   repo: desde el 13/10 la rama ya no lo trae (`git rm`) y git podría borrar esa copia al actualizar. Sigue en el historial de git.
+1. Guardá el adjunto donde el navegador o Outlook lo guardan por defecto: **Descargas**. **Nunca dentro de la carpeta del repo**: el
+   `.gitignore` solo ignora el nombre exacto `Res_firmadas.xlsm`, y una copia como «Res_firmadas (1).xlsm» se subiría con `git add -A`.
+2. `python -B actualizar_sitio.py` toma el `Res_firmadas*.xlsm` (o `.xlsx`) **más nuevo** de Descargas, dice cuál usó y cuándo se guardó,
+   y avisa si tiene más de 7 días («¿te llegó uno nuevo?»). No hace falta renombrarlo ni borrar los anteriores.
+3. Si en la carpeta del repo hay un Excel interno suelto (sin versionar y sin ignorar), el script **frena antes de generar** y dice cuál
+   es, para que lo saques antes del `git add -A`.
 
-Por qué no una Hoja de Google: haría falta rehacer las macros en Apps Script, revisar la fórmula de `Clave` (usa matrices) y, como en
-`G:\` una hoja de Google es solo un acceso directo (`.gsheet`), bajarla con la API de Drive. Conviene solo si hace falta editar entre varios
-a la vez.
+Si preferís una carpeta fija fuera del repo: `--res-firmadas RUTA` la recuerda en `%USERPROFILE%\.anc_sitio.json` (si después ese
+archivo no existe, vuelve a Descargas; una ruta dentro de Descargas no se recuerda, porque se encuentra sola). La variable `ANC_RES_FIRMADAS` pisa todo. Las pruebas buscan el Excel igual.
+
+**Las macros del Excel.** No calculan nada: las métricas de `General` y las columnas calculadas (`MESES`, `Clave`, `Chequeo`, `meses`,
+`DIAS`) son fórmulas comunes, que Excel deja calculadas al guardar. Hay dos macros, en el módulo `modSCE`:
+
+- `AltaEnFirmadas`: al poner «Firmada» en la columna ESTADO de `evol_conc`, crea la fila en `firmadas` (copia Clave, Excluible,
+  Carátula y fechas, copia las fórmulas de `meses` y `DIAS`, pinta en ámbar lo que falta) y avisa si falta la fecha de firma.
+- `GenerarInforme`: corre `generar_informe.bat` (los informes `.qmd`). No tiene botón en el libro; se corre con Alt+F8.
+
+**Error a corregir (13/10):** la macro lee la clave de la columna 17 (`C_CLAVE As Long = 17 ' Q`), que en `evol_conc` es «Chequeo»; la
+clave está en la 16 (P). Al marcar una fila como Firmada crearía en `firmadas` una fila con «FALTA EN FIRMADAS» como clave y después
+bloquearía las altas siguientes. Todavía no pasó (no hay filas así). Se arregla en el Excel: Alt+F11 → `modSCE` → cambiar `17` por `16`
+→ guardar.
 
 ### Monitor de noticias
 
@@ -199,13 +207,13 @@ Cada herramienta lee un JSON versionado (`schema_version`) y no depende de la fu
 **Decisión (9/10/2026).** El área interna se publica en **Cloudflare Pages detrás de Cloudflare Access**, desde una rama distinta de `main`
 (esta, `claude/dreamy-cray-mxaf3v`); `main` sigue siendo el sitio público (el buscador). Se aceptó que el repositorio de GitHub siga siendo
 **público**: Access protege la dirección de Cloudflare, **no** el repositorio, y la rama (con `seguimiento.json` y `monitor.json`) se
-puede leer en GitHub. `Res_firmadas.xlsm` salió de la rama el 13/10 (vive en Drive), pero sigue en el historial de git. Quien quiera cerrar eso más adelante tiene el camino de siempre: repo privado aparte y segundo proyecto de Pages.
+puede leer en GitHub. `Res_firmadas.xlsm` salió de la rama el 13/10 (llega por mail y se guarda fuera del repo), pero sigue en el historial de git. Quien quiera cerrar eso más adelante tiene el camino de siempre: repo privado aparte y segundo proyecto de Pages.
 
 **Qué hay en la rama y qué lo protege**
 
 | Pieza | Qué hace |
 |---|---|
-| `Res_firmadas.xlsm` (en Drive, fuera del repo desde el 13/10) | fuente del seguimiento; `generar_seguimiento.py` lo abre en solo lectura |
+| `Res_firmadas.xlsm` (llega por mail; fuera del repo desde el 13/10) | fuente del seguimiento; `generar_seguimiento.py` lo abre en solo lectura |
 | `demo-interno/data/seguimiento.json` | lo que lee la página; trae carátulas resumidas y apellidos del equipo |
 | `demo-interno/data/monitor.json` | el monitor del artefacto, con el análisis de umbrales y la verificación |
 | `build_site.py` | publica una lista blanca: el `.xlsm` **no** sale en `dist/`; el JSON sí |
@@ -237,8 +245,8 @@ semanal»). Pedirle a Claude que exporte con `ArtifactData` y corra `monitor_mer
 ## Seguimiento (etapa 3): versión real en la rama del área interna
 
 `/demo-interno/seguimiento/` ya trabaja con el Excel: `generar_seguimiento.py` lee la hoja `evol_conc` de `Res_firmadas.xlsm` y escribe
-`demo-interno/data/seguimiento.json` (contrato `seguimiento` v2, en `demo-interno/SCHEMA.md`). El Excel vive en Drive y lo
-regenera `actualizar_sitio.py` cada semana (ver «Res_firmadas en Drive»). Quien lo carga lo tiene que **guardar** en Excel de escritorio
+`demo-interno/data/seguimiento.json` (contrato `seguimiento` v2, en `demo-interno/SCHEMA.md`). El Excel llega por mail y lo
+regenera `actualizar_sitio.py` cada semana (ver «Res_firmadas por mail»). Quien lo carga lo tiene que **guardar** en Excel de escritorio
 para que sus fórmulas queden calculadas: la página avisa si el Excel se calculó hace más de 7 días.
 
 - **En trámite** = la definición del propio Excel (`General!C26`): Pendiente de presentación, Observado, En análisis, En instrucción,

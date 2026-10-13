@@ -6,7 +6,7 @@ Corre en este orden y corta en el primer error (codigo de salida 1):
 
   1. generar_pagina.py        firm.xlsx -> index.html (el buscador)
   2. generar_tablero.py       firm.xlsx -> conc/index.html y data/conc.json (estadisticas)
-  3. generar_seguimiento.py   Res_firmadas.xlsm (la carpeta de Drive) -> demo-interno/data/seguimiento.json
+  3. generar_seguimiento.py   Res_firmadas.xlsm (el que llega por mail) -> demo-interno/data/seguimiento.json
      monitor (con --monitor)  el monitor.json que baja el artefacto -> demo-interno/data/monitor.json
   4. verificar_sitio.py       compuerta de publicacion
   5. pruebas                  tests/test_sitio.py
@@ -15,17 +15,20 @@ Corre en este orden y corta en el primer error (codigo de salida 1):
 Reemplaza los pasos 8 y 9 del PROTOCOLO.md; los pasos 0 a 7 (cargar filas, PDFs, extraer, mergear, empresas,
 productos, mover PDFs) siguen igual. No toca git: al final dice que cambio y con que comandos subirlo.
 
-Donde esta Res_firmadas.xlsm (gana el primero que este):
+Res_firmadas.xlsm llega por mail: se guarda el adjunto en Descargas (nunca en la carpeta del repo, que es publico).
+Donde se busca (gana el primero que este):
   --res-firmadas RUTA        y la recuerda en ~/.anc_sitio.json para las proximas veces
   variable ANC_RES_FIRMADAS
-  ~/.anc_sitio.json          {"res_firmadas": "G:\\Mi unidad\\...\\Res_firmadas.xlsm"}
+  ~/.anc_sitio.json          {"res_firmadas": "C:\\Users\\yo\\Documents\\ANC\\Res_firmadas.xlsm"} (si existe)
+  Descargas                  el Res_firmadas*.xlsm / .xlsx mas nuevo de ~/Downloads (o ~/Descargas)
   Res_firmadas.xlsm          junto a este script
+Antes de generar nada, frena si en la carpeta del repo hay un Excel interno suelto que git add -A subiria.
 
 Uso:
-  python -B actualizar_sitio.py --res-firmadas "G:\\Mi unidad\\ANC\\Res_firmadas.xlsm"   (la primera vez)
-  python -B actualizar_sitio.py                                                       (las siguientes)
+  python -B actualizar_sitio.py                                                       (toma el Excel de Descargas)
   python -B actualizar_sitio.py --monitor "C:\\Users\\yo\\Downloads\\monitor.json"     (con un monitor nuevo)
-  python -B actualizar_sitio.py --cotejar      paso 0 del protocolo (cotejar_res_firmadas.py) con el Excel de Drive
+  python -B actualizar_sitio.py --res-firmadas RUTA   otro Excel (y lo recuerda)
+  python -B actualizar_sitio.py --cotejar      paso 0 del protocolo (cotejar_res_firmadas.py) con ese mismo Excel
 
 En la rama main (cuando se mergee) no se generan el seguimiento ni el monitor: son datos internos.
 """
@@ -33,6 +36,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import fnmatch
 import importlib.util
 import json
 import os
@@ -49,6 +53,9 @@ import verificar_sitio as vs  # noqa: E402  (solo biblioteca estandar)
 
 CONFIG = Path.home() / ".anc_sitio.json"
 EXCEL_JUNTO = AQUI / "Res_firmadas.xlsm"
+DESCARGAS = [Path.home() / "Downloads", Path.home() / "Descargas"]
+RX_RES_FIRMADAS = re.compile(r"^res[ _-]?firmadas.*\.xls[xm]$", re.I)    # Res_firmadas (1).xlsm, res_firmadas_13-10.xlsx...
+DIAS_EXCEL_VIEJO = 7
 INDEX = AQUI / "index.html"
 INDEX_PREVIO = AQUI / "respaldos" / "index_previo.html"
 MONITOR = AQUI / "demo-interno" / "data" / "monitor.json"
@@ -83,16 +90,73 @@ def guardar_config(datos: dict, ruta: Path = CONFIG) -> None:
     ruta.write_text(json.dumps(datos, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
 
-def resolver_res_firmadas(arg=None, entorno=None, config=None, defecto: Path = EXCEL_JUNTO):
-    """-> (Path, de donde salio). Gana el argumento, despues la variable ANC_RES_FIRMADAS, despues ~/.anc_sitio.json
-    y por ultimo el Excel junto al script."""
+def ultimo_descargado(carpetas=None):
+    """El Res_firmadas*.xlsm / .xlsx mas nuevo (por fecha de modificacion) de esas carpetas; None si no hay ninguno.
+    No distingue mayusculas y descarta los archivos de bloqueo de Excel (~$Res_firmadas.xlsm)."""
+    candidatos = []
+    for carpeta in (DESCARGAS if carpetas is None else carpetas):
+        try:
+            candidatos += [f for f in Path(carpeta).iterdir() if f.is_file() and RX_RES_FIRMADAS.match(f.name)]
+        except OSError:
+            continue
+    return max(candidatos, key=lambda f: f.stat().st_mtime) if candidatos else None
+
+
+def resolver_res_firmadas(arg=None, entorno=None, config=None, defecto: Path = EXCEL_JUNTO, descargas=None):
+    """-> (Path, de donde salio). Gana el argumento, despues la variable ANC_RES_FIRMADAS, despues la ruta de
+    ~/.anc_sitio.json si el archivo existe, despues el mas nuevo de Descargas y por ultimo el Excel junto al script."""
     entorno = os.environ if entorno is None else entorno
     config = leer_config() if config is None else config
-    for valor, fuente in ((arg, "--res-firmadas"), (entorno.get("ANC_RES_FIRMADAS"), "variable ANC_RES_FIRMADAS"),
-                          (config.get("res_firmadas"), str(CONFIG))):
+    for valor, fuente in ((arg, "--res-firmadas"), (entorno.get("ANC_RES_FIRMADAS"), "variable ANC_RES_FIRMADAS")):
         if valor:
             return Path(valor).expanduser(), fuente
-    return defecto, "junto al script"
+    nota = ""
+    if config.get("res_firmadas"):
+        guardada = Path(config["res_firmadas"]).expanduser()
+        if guardada.is_file():
+            return guardada, str(CONFIG)
+        nota = "; la ruta guardada en %s ya no existe" % CONFIG
+    bajado = ultimo_descargado(descargas)
+    if bajado is not None:
+        return bajado, "el más nuevo de Descargas" + nota
+    return defecto, "junto al script" + nota
+
+
+def en_descargas(ruta: Path, carpetas=None) -> bool:
+    try:
+        padre = ruta.resolve().parent
+        return any(padre == Path(c).resolve() for c in (DESCARGAS if carpetas is None else carpetas))
+    except OSError:
+        return False
+
+
+def internos_sueltos(entradas) -> list:
+    """De `git status --porcelain -z --untracked-files=all`: los archivos SIN versionar (y no ignorados) que son datos
+    internos (vs.LISTA_NEGRA_INTERNA, por nombre y sin distinguir mayusculas). Con git add -A se subirian al repo
+    publico: el .gitignore solo ignora el nombre exacto Res_firmadas.xlsm, no 'Res_firmadas (1).xlsm'."""
+    sueltos = []
+    for e in entradas:
+        if not e.startswith("?? "):
+            continue
+        ruta = e[3:]
+        nombre = ruta.rsplit("/", 1)[-1].lower()
+        if any(fnmatch.fnmatchcase(nombre, patron.lower()) for patron in vs.LISTA_NEGRA_INTERNA):
+            sueltos.append(ruta)
+    return sueltos
+
+
+def datos_internos_sueltos(raiz: Path = AQUI) -> list:
+    try:
+        out = subprocess.run(["git", "-C", str(raiz), "status", "--porcelain", "-z", "--untracked-files=all"],
+                             capture_output=True, check=True).stdout.decode("utf-8", "replace")
+    except (OSError, subprocess.CalledProcessError):
+        return []
+    return internos_sueltos(out.split("\0"))
+
+
+def dias_desde(ruta: Path, hoy: dt.datetime = None) -> int:
+    hoy = hoy or dt.datetime.now()
+    return (hoy - dt.datetime.fromtimestamp(ruta.stat().st_mtime)).days
 
 
 # --------------------------------------------------------------------------- #
@@ -231,7 +295,7 @@ def correr(accion, entorno) -> int:
 
 
 def cotejar(excel: Path) -> int:
-    """Paso 0 del protocolo con el Excel de Drive, sin tocar cotejar_res_firmadas.py: el modulo lee SEGUIMIENTO al correr."""
+    """Paso 0 del protocolo con el Excel del mail, sin tocar cotejar_res_firmadas.py: el modulo lee SEGUIMIENTO al correr."""
     import cotejar_res_firmadas as cr
     cr.SEGUIMIENTO = excel
     cr.main()
@@ -254,7 +318,7 @@ def resumen(rama: str) -> None:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--res-firmadas", metavar="RUTA", help="Res_firmadas.xlsm (p. ej. en G:\\Mi unidad\\...); se recuerda")
+    ap.add_argument("--res-firmadas", metavar="RUTA", help="otro Res_firmadas.xlsm que el más nuevo de Descargas; se recuerda")
     ap.add_argument("--monitor", metavar="RUTA", help="monitor.json bajado con el botón del artefacto")
     ap.add_argument("--sin-seguimiento", action="store_true", help="no regenera el seguimiento")
     ap.add_argument("--cotejar", action="store_true", help="solo el paso 0: cotejar_res_firmadas.py con ese Excel")
@@ -264,13 +328,19 @@ def main() -> int:
     en_main = rama == "main"
     excel, fuente = resolver_res_firmadas(args.res_firmadas)
     necesita_excel = args.cotejar or (not en_main and not args.sin_seguimiento)
-    _p("Rama: %s | Res_firmadas: %s (%s)" % (rama or "?", excel, fuente))
-    if necesita_excel and not excel.is_file():
-        _p("ERROR: no encuentro %s.\n  ¿Está abierto Drive para escritorio y sincronizado? ¿La carpeta compartida tiene un acceso "
-           "directo en Mi unidad?\n  Indicá la ruta con --res-firmadas \"G:\\Mi unidad\\...\\Res_firmadas.xlsm\" "
-           "(o --sin-seguimiento para no regenerarlo)." % excel)
-        return 1
-    if args.res_firmadas:
+    _p("Rama: %s" % (rama or "?"))
+    if necesita_excel:
+        if not excel.is_file():
+            _p("ERROR: no encuentro el Excel de seguimiento (Res_firmadas*.xlsm en Descargas, ni %s).\n"
+               "  Guardá en Descargas el Excel que te mandaron por mail, o indicá la ruta con --res-firmadas RUTA\n"
+               "  (o --sin-seguimiento para no regenerar el seguimiento)." % excel)
+            return 1
+        guardado = dt.datetime.fromtimestamp(excel.stat().st_mtime)
+        _p("Excel de seguimiento: %s (%s), guardado el %s" % (excel, fuente, guardado.strftime("%d/%m/%Y %H:%M")))
+        dias = dias_desde(excel)
+        if dias > DIAS_EXCEL_VIEJO:
+            _p("AVISO: ese Excel se guardó hace %d días. ¿Te llegó uno nuevo por mail? Guardalo en Descargas y volvé a correr." % dias)
+    if args.res_firmadas and not en_descargas(excel):     # lo de Descargas se encuentra solo, y recordarlo taparía al próximo
         cfg = leer_config()
         if cfg.get("res_firmadas") != str(excel):
             cfg["res_firmadas"] = str(excel)
@@ -279,6 +349,14 @@ def main() -> int:
 
     if args.cotejar:
         return cotejar(excel)
+
+    sueltos = datos_internos_sueltos()
+    if sueltos:
+        _p("ERROR: en la carpeta del repo hay datos internos sin versionar que 'git add -A' subiría al repo público:")
+        for f in sueltos:
+            _p("   ", f)
+        _p("  Movelos fuera del repo (el Excel del mail va en Descargas) y volvé a correr.")
+        return 1
 
     if en_main:
         _p("En main no se generan el seguimiento ni el monitor (datos internos)%s."
