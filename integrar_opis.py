@@ -2,10 +2,11 @@
 """
 Publica el buscador de OPIs en /opis/ sin tocar el original ni su pipeline.
 
-Copia  pdf/lectura_opi/buscador_opis.html  ->  opis/index.html  insertando SOLO tres fragmentos:
+Copia  pdf/lectura_opi/buscador_opis.html  ->  opis/index.html  insertando cuatro fragmentos de presentación:
     1. <link> a assets/anc.css           (antes de </head>)
     2. <div id="anc-nav"></div>          (despues de <body>)
     3. <script> de assets/nav.js         (antes de </body>)
+    4. data-decision en la etiqueta      (para distinguir visualmente la notificación)
 Con --aviso agrega ademas un cartel "extraccion automatica, sin validar" (apagado por defecto).
 
 Despues comprueba que, quitando lo insertado, se recupera el original byte a byte: los registros
@@ -45,16 +46,21 @@ def integrar(html: str, rel_assets: str, aviso: bool) -> tuple[str, list[str]]:
     ins_head = f'<link rel="stylesheet" href="{rel_assets}/anc.css">\n'
     ins_nav = '<div id="anc-nav"></div>\n' + (AVISO if aviso else "")
     ins_script = f'<script src="{rel_assets}/nav.js" defer></script>\n'
+    ins_decision = ' data-decision="${encodeURIComponent(x)}"'
+    etiqueta_decision = '<span class="tag s"'
+    if html.count(etiqueta_decision) != 1:
+        raise SystemExit("No hay una única plantilla de etiqueta de decisión: revisar antes de integrar.")
     for ancla in ("</head>", "<body>\n", "</body>"):
         if html.count(ancla) != 1:
             raise SystemExit(f"El original no tiene exactamente un {ancla!r}: no se puede integrar sin riesgo.")
-    for ins in (ins_head, ins_nav, ins_script):
+    for ins in (ins_head, ins_nav, ins_script, ins_decision):
         if ins in html:
             raise SystemExit("El original ya contiene algo de lo que se iba a insertar.")
     out = html.replace("</head>", ins_head + "</head>", 1)
     out = out.replace("<body>\n", "<body>\n" + ins_nav, 1)
     out = out.replace("</body>", ins_script + "</body>", 1)
-    return out, [ins_head, ins_nav, ins_script]
+    out = out.replace(etiqueta_decision, etiqueta_decision + ins_decision, 1)
+    return out, [ins_head, ins_nav, ins_script, ins_decision]
 
 
 def main() -> None:

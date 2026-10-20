@@ -113,7 +113,7 @@ function render(){
         <div class="summary">
           <p class="preg">${hl(d.pregunta_texto,terms)}</p>
           <div class="tags">
-            ${split(d.respuesta_sentido).map(x=>`<span class="tag s">${esc(x)}</span>`).join('')}
+            ${split(d.respuesta_sentido).map(x=>`<span class="tag s" data-decision="${encodeURIComponent(x)}">${esc(x)}</span>`).join('')}
             ${split(d.pregunta_tipo).map(x=>`<span class="tag">${esc(x)}</span>`).join('')}
             ${split(d.ley).map(x=>`<span class="tag">Ley ${esc(x)}</span>`).join('')}
             ${d.expediente?`<span class="tag">${esc(d.expediente)}</span>`:''}

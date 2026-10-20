@@ -465,3 +465,28 @@ body:has(#list) select:focus-visible { outline: 3px solid #2873b5; outline-offse
   .anc-card, .anc-tile, .anc-tool, .bm-card, #list .card { box-shadow: none; }
   body:has(#list) > header { position: static; }
 }
+
+/* Decisión de las OPIs: contraste alto y coincidencia exacta de cada resultado.
+   Los demás sentidos de respuesta conservan su etiqueta azul neutral. */
+#list .tag.s {
+  font-size: 12px;
+  font-weight: 750;
+  padding: .28rem .7rem;
+  border: 1px solid #9bb5d2;
+  line-height: 1.5;
+}
+#list .tag.s[data-decision="sujeta_a_notificacion"] {
+  background: #9f252b;
+  color: #fff;
+  border-color: #9f252b;
+}
+#list .tag.s[data-decision="no_sujeta_a_notificacion"] {
+  background: #166544;
+  color: #fff;
+  border-color: #166544;
+}
+#list .tag.s[data-decision="sujeta_con_salvedades"] {
+  background: #805400;
+  color: #fff;
+  border-color: #805400;
+}
