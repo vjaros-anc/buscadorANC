@@ -2,12 +2,15 @@
 """
 Publica el buscador de OPIs en /opis/ sin tocar el original ni su pipeline.
 
-Copia el original a /opis/ con la barra común y la presentación de assets/opis-ui.js:
-decisión destacada, extracto literal de la respuesta, filtros etiquetados y enlace al PDF.
-Con --aviso agrega el cartel de extracción automática sin validar.
+Copia  pdf/lectura_opi/buscador_opis.html  ->  opis/index.html  insertando cuatro fragmentos de presentación:
+    1. <link> a assets/anc.css           (antes de </head>)
+    2. <div id="anc-nav"></div>          (despues de <body>)
+    3. <script> de assets/nav.js         (antes de </body>)
+    4. data-decision en la etiqueta      (para distinguir visualmente la notificación)
+Con --aviso agrega ademas un cartel "extraccion automatica, sin validar" (apagado por defecto).
 
-Deshace todos los cambios de presentación y comprueba que recupera el original byte a byte.
-Los registros (const DATA), los valores de los filtros y sus condiciones quedan idénticos.
+Despues comprueba que, quitando lo insertado, se recupera el original byte a byte: los registros
+(const DATA) quedan identicos, sin correcciones ni cambios de contenido.
 
 Si volves a generar el original con pdf/lectura_opi/04_html.py, corre este script de nuevo.
 
@@ -39,38 +42,25 @@ def contar_registros(html: str) -> int:
     return len(datos)
 
 
-# Cambios de presentación reversibles; const DATA y el filtrado se conservan.
-CAMBIOS_UI = [
-    ("  <div class=\"filters\">\n    <select id=\"f-sent\"><option value=\"\">Todos los sentidos de respuesta</option></select>\n    <select id=\"f-tipo\"><option value=\"\">Todos los tipos de pregunta</option></select>\n    <select id=\"f-crit\"><option value=\"\">Todos los criterios</option></select>\n    <select id=\"f-ley\"><option value=\"\">Todas las leyes</option></select>\n  </div>\n", "  <div class=\"filters opi-filters\">\n    <label class=\"opi-filter\">Sentido de la respuesta<select id=\"f-sent\"><option value=\"\">Todos los sentidos de respuesta</option></select></label>\n    <label class=\"opi-filter\">Tipo de consulta<select id=\"f-tipo\"><option value=\"\">Todos los tipos de pregunta</option></select></label>\n    <label class=\"opi-filter\">Criterio<select id=\"f-crit\"><option value=\"\">Todos los criterios</option></select></label>\n    <label class=\"opi-filter\">Ley<select id=\"f-ley\"><option value=\"\">Todas las leyes</option></select></label>\n  </div>\n"),
-    ("<input id=\"q\" type=\"search\"", "<input id=\"q\" type=\"search\" aria-label=\"Buscar opiniones consultivas\""),
-    ("<div id=\"count\"></div>", "<div id=\"count\" role=\"status\" aria-live=\"polite\"></div>"),
-    ("<main id=\"list\"></main>", "<main id=\"contenido\"><div id=\"list\"></div></main>"),
-    ("o.textContent=v;", "o.textContent=OPIUI.label(v);"),
-    ("res.map(d=>`\n    <div class=\"card\">\n      <div class=\"head\">\n        <div class=\"num\">OPI ${esc(d.OPI)}<small>${esc(d.confianza)}</small></div>\n        <div class=\"summary\">\n          <p class=\"preg\">${hl(d.pregunta_texto,terms)}</p>\n          <div class=\"tags\">\n            ${split(d.respuesta_sentido).map(x=>`<span class=\"tag s\">${esc(x)}</span>`).join('')}\n            ${split(d.pregunta_tipo).map(x=>`<span class=\"tag\">${esc(x)}</span>`).join('')}\n            ${split(d.ley).map(x=>`<span class=\"tag\">Ley ${esc(x)}</span>`).join('')}\n            ${d.expediente?`<span class=\"tag\">${esc(d.expediente)}</span>`:''}\n          </div>\n        </div>\n        <div class=\"chev\">▾</div>\n      </div>\n      <div class=\"body\">\n        ${field('Argumento del consultante', d.argumento_consultante, terms)}\n        ${field('Respuesta de la CNDC', d.respuesta_texto, terms)}\n        ${field('Medidas accesorias', d.medidas_accesorias.replace(/\\|/g,' · '), terms)}\n        ${field('Ratio decidendi', d.CAUSA_ratio_decidendi, terms)}\n        ${field('Criterio', d.causa_criterio.replace(/\\|/g,' · '), terms)}\n        ${field('Hecho determinante', d.hecho_determinante, terms)}\n        ${field('Fundamento normativo', d.fundamento_normativo.replace(/\\|/g,' · '), terms)}\n        ${listField('Precedentes citados', split(d.precedentes), terms)}\n        ${listField('Normas invocadas', d.normas_lista, terms)}\n        ${field('Párrafos fuente', d.parrafos.replace(/\\|/g,', '), terms)}\n        ${field('Archivo', d.archivo, terms)}\n      </div>\n    </div>`).join('')", "res.map(d=>OPIUI.card(d, terms, { split, esc, hl, field, listField })).join('')"),
-    ("$('#list').addEventListener('click', e=>{\n  const h = e.target.closest('.head'); if(h) h.parentElement.classList.toggle('open');\n});\n", "// Los detalles de cada ficha se abren con el elemento nativo <details>.\n"),
-]
-
-
 def integrar(html: str, rel_assets: str, aviso: bool) -> tuple[str, list[str]]:
     ins_head = f'<link rel="stylesheet" href="{rel_assets}/anc.css">\n'
     ins_nav = '<div id="anc-nav"></div>\n' + (AVISO if aviso else "")
     ins_script = f'<script src="{rel_assets}/nav.js" defer></script>\n'
-    ins_ui = f'<script src="{rel_assets}/opis-ui.js"></script>\n'
+    ins_decision = ' data-decision="${encodeURIComponent(x)}"'
+    etiqueta_decision = '<span class="tag s"'
+    if html.count(etiqueta_decision) != 1:
+        raise SystemExit("No hay una única plantilla de etiqueta de decisión: revisar antes de integrar.")
     for ancla in ("</head>", "<body>\n", "</body>"):
         if html.count(ancla) != 1:
-            raise SystemExit(f"El original no tiene exactamente un {ancla!r}: revisar antes de integrar.")
-    for ins in (ins_head, ins_nav, ins_script, ins_ui):
+            raise SystemExit(f"El original no tiene exactamente un {ancla!r}: no se puede integrar sin riesgo.")
+    for ins in (ins_head, ins_nav, ins_script, ins_decision):
         if ins in html:
             raise SystemExit("El original ya contiene algo de lo que se iba a insertar.")
-    out = html
-    for original, nuevo in CAMBIOS_UI:
-        if out.count(original) != 1:
-            raise SystemExit("Cambió una plantilla de presentación OPI: revisar antes de integrar.")
-        out = out.replace(original, nuevo, 1)
-    out = out.replace("</head>", ins_head + ins_ui + "</head>", 1)
+    out = html.replace("</head>", ins_head + "</head>", 1)
     out = out.replace("<body>\n", "<body>\n" + ins_nav, 1)
     out = out.replace("</body>", ins_script + "</body>", 1)
-    return out, [ins_head, ins_nav, ins_script, ins_ui]
+    out = out.replace(etiqueta_decision, etiqueta_decision + ins_decision, 1)
+    return out, [ins_head, ins_nav, ins_script, ins_decision]
 
 
 def main() -> None:
@@ -91,8 +81,6 @@ def main() -> None:
     chequeo = out
     for ins in insertados:
         chequeo = chequeo.replace(ins, "", 1)
-    for original, nuevo in reversed(CAMBIOS_UI):
-        chequeo = chequeo.replace(nuevo, original, 1)
     if chequeo != html:
         sys.exit("Control fallido: la copia difiere del original en algo mas que lo insertado.")
 

@@ -538,43 +538,6 @@ body:has(#list) select:focus-visible { outline: 3px solid #2873b5; outline-offse
 .anc-dashboard .anc-fig-t { font-size: 1.05rem; }
 .anc-dashboard .anc-fig-s { line-height: 1.6; margin-top: .5rem; }
 
-/* OPIs: resumen visible, decisión junto al número y detalles con teclado nativo. */
-body:has(#list) > main { max-width: none; margin: 0; padding: 0; }
-#list { margin: 1.4rem auto 3rem; }
-body:has(#list) .opi-filters {
-  display: grid; grid-template-columns: 1.1fr 1fr 1fr .7fr;
-}
-body:has(#list) .opi-filter {
-  display: flex; flex-direction: column; gap: .35rem;
-  font-size: .75rem; color: var(--anc-ink2); font-weight: 650; min-width: 0;
-}
-body:has(#list) .opi-filter select { width: 100%; max-width: 100%; font-weight: 400; }
-#list .opi-card { padding: 1.25rem; }
-#list .opi-card-top {
-  display: flex; flex-wrap: wrap; align-items: center; gap: .65rem 1rem;
-  padding-bottom: 1rem; margin-bottom: 1rem; border-bottom: 1px solid var(--anc-line);
-}
-#list h2.num { font-size: 1.15rem; margin: 0; min-width: 0; letter-spacing: -.025em; }
-#list .opi-decisions { display: flex; flex-wrap: wrap; gap: .4rem; }
-#list .opi-pdf { margin-left: auto; font-size: .8rem; font-weight: 650; text-underline-offset: 3px; }
-#list .opi-card > .preg { font-size: .97rem; margin: 0 0 1rem; }
-#list .opi-answer-preview {
-  padding: .85rem 1rem; margin: 0 0 .95rem;
-  background: #eef4fb; border-left: 3px solid #4e83b7; border-radius: 0 8px 8px 0;
-}
-#list .opi-eyebrow {
-  font-size: .68rem; font-weight: 750; text-transform: uppercase;
-  letter-spacing: .06em; color: #355b80;
-}
-#list .opi-answer-preview p { margin: .35rem 0 0; font-size: .88rem; line-height: 1.65; }
-#list .opi-tags { margin-bottom: 1rem; }
-#list .opi-details { border-top: 1px solid var(--anc-line); padding-top: .75rem; }
-#list .opi-details > summary { cursor: pointer; color: var(--anc-azul); font-weight: 650; font-size: .86rem; padding: .3rem 0; }
-#list .opi-details .body { display: block; border: 0; padding: .4rem 0 0; background: none; }
-#list .opi-details .f:first-child { padding: 1rem; border: 1px solid #c7d8e9; border-radius: 10px; background: #f3f7fc; }
-#list .opi-details .f { margin-top: 1.2rem; }
-#list .opi-pdf:focus-visible, #list summary:focus-visible { outline: 3px solid #2873b5; outline-offset: 4px; border-radius: 3px; }
-
 /* Monitor: cada estado conserva su significado y su texto. */
 .anc-monitor .case { border-radius: 14px; padding: 1.2rem; gap: .85rem; box-shadow: var(--anc-shadow); }
 .anc-monitor .case h3 { font-size: 1.14rem; line-height: 1.45; letter-spacing: -.02em; }
@@ -633,13 +596,8 @@ body:has(#list) .opi-filter select { width: 100%; max-width: 100%; font-weight: 
 @media (max-width: 760px) {
   :is(.anc-dashboard, .anc-tracking) .anc-filter-panel { position: static; }
   :is(.anc-dashboard, .anc-tracking) #tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  body:has(#list) .opi-filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 480px) {
-  body:has(#list) .opi-filters { grid-template-columns: 1fr; }
-  #list .opi-card { padding: 1rem; }
-  #list .opi-pdf { margin-left: 0; width: 100%; }
-  #list .opi-card-top { gap: .7rem; }
   .anc-tools .anc-internal-group { padding: 1rem; }
 }
 @media print {
