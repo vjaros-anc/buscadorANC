@@ -8,7 +8,7 @@
 <link rel="icon" href="data:,">
 <link rel="stylesheet" href="../assets/anc.css">
 </head>
-<body class="anc">
+<body class="anc anc-dashboard">
 <div id="anc-nav"></div>
 <header class="anc-head"><div class="anc-head-in">
   <h1>Estadísticas de concentraciones</h1>
@@ -19,20 +19,20 @@
 
 <main class="anc-main" id="contenido">
   <noscript><div class="anc-banner" style="margin-top:1.2rem">Esta página necesita JavaScript para mostrar los indicadores, los gráficos y los filtros.</div></noscript>
-  <section class="anc-section" aria-label="Filtros">
+  <section class="anc-section anc-filter-panel" aria-label="Filtros y descarga de la selección">
     <form class="anc-filters" id="filtros" autocomplete="off">
       <label class="anc-field">Año de firma<select id="f-anio"></select></label>
       <label class="anc-field">Tipo de expediente<select id="f-tipo"></select></label>
       <label class="anc-field anc-field-wide">Sector<select id="f-sector"></select></label>
       <button type="button" class="anc-btn" id="f-limpiar">Limpiar filtros</button>
-      <button type="button" class="anc-btn" id="f-csv" title="CSV con separador ; y UTF-8, listo para abrir en Excel">Descargar CSV</button>
+      <button type="button" class="anc-btn" id="f-csv" aria-describedby="estado" title="CSV con separador ; y UTF-8, listo para abrir en Excel">Descargar CSV</button>
     </form>
     <p class="anc-filter-status" id="estado" role="status" aria-live="polite"></p>
   </section>
-  <section class="anc-section" aria-label="Indicadores"><div class="anc-tiles" id="tiles"></div></section>
-  <section class="anc-section"><div class="anc-card" id="ch-anio"></div></section>
-  <section class="anc-section anc-grid2"><div class="anc-card" id="ch-dec"></div><div class="anc-card" id="ch-sec"></div></section>
-  <section class="anc-section"><div class="anc-card" id="ch-tiempos"></div></section>
+  <section class="anc-section" aria-labelledby="h-resumen"><h2 id="h-resumen">Resumen de la selección</h2><div class="anc-tiles" id="tiles"></div></section>
+  <section class="anc-section" aria-labelledby="h-evolucion"><h2 id="h-evolucion">Evolución de las firmas</h2><div class="anc-card" id="ch-anio"></div></section>
+  <section class="anc-section" aria-labelledby="h-distribucion"><h2 id="h-distribucion">Decisiones y sectores</h2><div class="anc-grid2"><div class="anc-card" id="ch-dec"></div><div class="anc-card" id="ch-sec"></div></div></section>
+  <section class="anc-section" aria-labelledby="h-tiempos"><h2 id="h-tiempos">Tiempos de trámite</h2><div class="anc-card" id="ch-tiempos"></div></section>
   <section class="anc-section anc-grid2"><div class="anc-card" id="ch-rel"></div><div class="anc-card" id="ch-cob"></div></section>
   <section class="anc-section">
     <h2>Notas metodológicas</h2>

@@ -56,6 +56,7 @@
     nav.setAttribute('aria-label', 'Herramientas ANC');
     var inner = document.createElement('div');
     inner.className = 'anc-nav-in';
+    inner.id = 'anc-nav-links';
 
     var brand = document.createElement('a');
     brand.className = 'anc-brand';
@@ -93,6 +94,11 @@
 
     nav.appendChild(inner);
     host.appendChild(nav);
+    var hint = document.createElement('p');
+    hint.className = 'anc-nav-hint';
+    hint.id = 'anc-nav-hint';
+    hint.textContent = 'Deslizá para ver las secciones ↔';
+    host.appendChild(hint);
     skip(host);
     compact(inner);
   }
@@ -121,6 +127,14 @@
   function compact(inner) {
     function more() {
       inner.classList.toggle('anc-more', inner.scrollWidth - inner.clientWidth - inner.scrollLeft > 4);
+      inner.classList.toggle('anc-more-left', inner.scrollLeft > 4);
+      var hint = document.getElementById('anc-nav-hint');
+      if (hint) {
+        var overflow = inner.scrollWidth - inner.clientWidth > 4;
+        hint.hidden = !overflow;
+        if (overflow) inner.setAttribute('aria-describedby', hint.id);
+        else inner.removeAttribute('aria-describedby');
+      }
     }
     var act = inner.querySelector('[aria-current="page"]');
     if (act && inner.scrollWidth > inner.clientWidth) {

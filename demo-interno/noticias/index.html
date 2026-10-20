@@ -49,7 +49,7 @@
   @media (max-width: 520px) { .rep { grid-template-columns: 1fr; } .rep .date { grid-row: auto; } }
 </style>
 </head>
-<body class="anc">
+<body class="anc anc-monitor">
 <div id="anc-nav"></div>
 
 <header class="anc-head"><div class="anc-head-in">
@@ -84,12 +84,13 @@
     <h2 id="h-reg">Registro de operaciones</h2>
     <p class="anc-sub">Todas las operaciones detectadas, de la más reciente a la más antigua.</p>
     <div class="filters">
-      <input id="f-q" type="search" placeholder="Buscar partes, sector o fuente" aria-label="Buscar">
-      <select id="f-rep" aria-label="Informe"><option value="">Todos los informes</option></select>
-      <select id="f-tipo" aria-label="Tipo"><option value="">Todos los tipos</option></select>
-      <select id="f-est" aria-label="Estado"><option value="">Confirmadas y rumores</option><option value="confirmada">Solo confirmadas</option><option value="rumor">Solo rumores</option></select>
-      <button type="button" class="anc-btn" id="btn-csv" title="CSV con separador ; y UTF-8, listo para abrir en Excel">Descargar CSV</button>
+      <label class="anc-field anc-field-wide">Buscar operaciones<input id="f-q" type="search" placeholder="Partes, sector o fuente"></label>
+      <label class="anc-field">Informe<select id="f-rep" aria-label="Informe"><option value="">Todos los informes</option></select></label>
+      <label class="anc-field">Tipo de operación<select id="f-tipo" aria-label="Tipo"><option value="">Todos los tipos</option></select></label>
+      <label class="anc-field">Estado de la noticia<select id="f-est" aria-label="Estado"><option value="">Confirmadas y rumores</option><option value="confirmada">Solo confirmadas</option><option value="rumor">Solo rumores</option></select></label>
+      <button type="button" class="anc-btn" id="btn-csv" aria-describedby="reg-status" title="CSV con separador ; y UTF-8, listo para abrir en Excel">Descargar CSV</button>
     </div>
+    <p id="reg-status" class="anc-filter-status" role="status" aria-live="polite"></p>
     <div id="tablebox"></div>
   </section>
 
@@ -191,8 +192,8 @@
       ['Operaciones registradas', S.ops.length, '']
     ];
     var box = $('stats'); box.textContent = '';
-    items.forEach(function (x) {
-      box.appendChild(h('div', { class: 'anc-tile' }, [h('div', { class: 'anc-tile-l' }, [x[0]]), h('div', { class: 'anc-tile-v' }, [String(x[1])]),
+    items.forEach(function (x, i) {
+      box.appendChild(h('div', { class: 'anc-tile' + (i === 2 ? ' attention' : '') }, [h('div', { class: 'anc-tile-l' }, [x[0]]), h('div', { class: 'anc-tile-v' }, [String(x[1])]),
         x[2] ? h('div', { class: 'anc-tile-n' }, [x[2]]) : null]));
     });
   }
@@ -224,8 +225,9 @@
   function caseCard(o) {
     var v = o.verificacion || 'pendiente';
     var ver = VER[v] || [v, 'mute'];
-    return h('article', { class: 'case ' + (v === 'descartada' ? 'discard' : v === 'pendiente' ? '' : 'done') }, [
+    return h('article', { class: 'case ' + (v === 'descartada' ? 'discard' : v === 'pendiente' ? '' : 'done'), 'data-verificacion': v }, [
       h('div', { class: 'row' }, [h('span', { class: 'date' }, [dmy(o.fecha)]), pill(val(o.tipo)), estadoPill(o), priPill(o), o.seguimiento ? pill(o.seguimiento, 'mute') : null]),
+      h('div', { class: 'case-status' }, [pill(ver[0], ver[1])]),
       h('h3', null, [val(o.partes)]),
       h('p', null, [h('strong', null, ['Sector: ']), val(o.sector) + ' · ', h('strong', null, ['Alcance: ']), val(o.alcance)]),
       h('p', null, [h('strong', null, ['Vínculo con Argentina: ']), val(o.vinculoAR)]),
@@ -234,7 +236,7 @@
         h('div', { class: 'row' }, [h('span', { class: 'lbl' }, ['Art. 9']), umbPill(o.umbralArt9), h('span', { class: 'lbl' }, ['Exención 11 e)']), umbPill(o.excepcion11e)]),
         o.analisisUmbral ? h('span', null, [o.analisisUmbral]) : null]),
       h('div', null, [h('span', { class: 'lbl' }, ['Fuentes']), linksNode(o)]),
-      h('div', { class: 'row end' }, [o.verificadoEl ? h('span', { class: 'date' }, ['Verificado el ' + dmy(o.verificadoEl)]) : null, pill(ver[0], ver[1])])
+      h('div', { class: 'row end' }, [o.verificadoEl ? h('span', { class: 'date' }, ['Verificado el ' + dmy(o.verificadoEl)]) : null])
     ]);
   }
 
@@ -260,8 +262,9 @@
 
   function renderRegister() {
     var rows = filtered(), box = $('tablebox'); box.textContent = '';
+    $('reg-status').textContent = 'Mostrando ' + rows.length + ' de ' + S.ops.length + ' operaciones. El CSV incluye esta selección.';
     if (!rows.length) { box.appendChild(h('div', { class: 'empty' }, [S.ops.length ? 'Ninguna operación coincide con los filtros.' : 'El registro está vacío.'])); return; }
-    var head = ['Fecha', 'Partes', 'Tipo', 'Sector', 'Vínculo con Argentina', 'Umbrales', 'Estado', 'Fuentes'];
+    var head = ['Fecha', 'Partes', 'Tipo', 'Sector', 'Vínculo con Argentina', 'Umbrales', 'Estado y verificación', 'Fuentes'];
     box.appendChild(h('div', { class: 'tablebox' }, [h('table', { class: 'reg' }, [
       h('caption', { class: 'anc-sr' }, ['Registro de operaciones']),
       h('thead', null, [h('tr', null, head.map(function (t) { return h('th', { scope: 'col' }, [t]); }))]),

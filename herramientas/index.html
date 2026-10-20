@@ -8,82 +8,86 @@
 <link rel="icon" href="data:,">
 <link rel="stylesheet" href="../assets/anc.css">
 </head>
-<body class="anc">
+<body class="anc anc-tools">
 <div id="anc-nav"></div>
 <header class="anc-head"><div class="anc-head-in">
-  <h1>Herramientas para concentraciones económicas</h1>
-  <p class="anc-lead">Buscadores, estadísticas y monitores para analistas y directores del área. Cada herramienta lee datos preparados
-  con Python a partir de fuentes públicas; el sitio solo los publica.</p>
+  <p class="anc-crumb">Herramientas ANC</p>
+  <h1>Una herramienta para cada consulta</h1>
+  <p class="anc-lead">Consultá antecedentes, explorá opiniones consultivas y analizá concentraciones económicas. Elegí una herramienta para empezar.</p>
 </div></header>
-
 <main class="anc-main" id="contenido">
-  <section class="anc-group">
-    <h2>Concentraciones</h2>
+  <section class="anc-group" aria-labelledby="h-consultas">
+    <h2 id="h-consultas">Consultas públicas</h2>
+    <p class="anc-sub">Los dos accesos principales a resoluciones y dictámenes.</p>
     <div class="anc-cards">
       <a class="anc-tool" href="../">
+        <span class="anc-tool-kind">Mercados y antecedentes</span>
         <h3>Buscador de mercados relevantes</h3>
-        <p>Encontrá en qué expediente se definió un mercado a partir de un término coloquial, las empresas involucradas o el artículo de la ley, con el PDF de cada resolución.</p>
+        <p>Encontrá expedientes por mercado, producto, empresa o artículo de la ley y consultá el PDF de cada resolución.</p>
         <div class="anc-meta"><span class="anc-pill ok">Público</span><span class="js-hasta">Resoluciones y dictámenes firmados</span></div>
+        <span class="anc-tool-cta">Abrir buscador <span aria-hidden="true">→</span></span>
       </a>
       <a class="anc-tool" href="../opis/">
+        <span class="anc-tool-kind">Opiniones consultivas</span>
         <h3>Buscador de OPIs</h3>
-        <p>Opiniones consultivas: la pregunta de las partes, la respuesta de la CNDC y la causa de la decisión. Extracción automática, en revisión.</p>
+        <p>Consultá la pregunta de las partes, la respuesta de la CNDC y el fundamento de la decisión. Extracción automática, en revisión.</p>
         <div class="anc-meta"><span class="anc-pill ok">Público</span><span>96 dictámenes</span></div>
+        <span class="anc-tool-cta">Consultar OPIs <span aria-hidden="true">→</span></span>
       </a>
     </div>
   </section>
-
-  <section class="anc-group">
-    <h2>Estadísticas</h2>
+  <section class="anc-group" aria-labelledby="h-analisis">
+    <h2 id="h-analisis">Análisis y estadísticas</h2>
     <div class="anc-cards">
       <a class="anc-tool" href="../conc/">
         <h3>Tablero de resoluciones</h3>
-        <p>Firmas por año, decisiones, sectores y tiempos de trámite, con filtros por año, tipo y sector y descarga en CSV. Todo agregado desde el mismo maestro del buscador.</p>
+        <p>Explorá firmas por año, decisiones, sectores y tiempos de trámite. Filtrá la selección y descargala en CSV.</p>
         <div class="anc-meta"><span class="anc-pill ok">Público</span><span class="js-hasta2">Datos agregados</span></div>
+        <span class="anc-tool-cta">Explorar estadísticas <span aria-hidden="true">→</span></span>
       </a>
     </div>
   </section>
-
-  <section class="anc-group">
-    <h2>Mercados</h2>
-    <div class="anc-cards">
-      <div class="anc-tool off">
-        <h3>Definiciones y antecedentes</h3>
-        <p>Vista propia por mercado y producto. Hoy se consulta dentro del buscador.</p>
-        <div class="anc-meta"><span class="anc-pill mute">Próximamente</span></div>
-      </div>
-    </div>
-  </section>
-
-  <section class="anc-group anc-interno">
-    <h2><a href="../demo-interno/" style="color:inherit;text-decoration:none">Área interna <span aria-hidden="true">🔒</span></a></h2>
+  <section class="anc-group anc-interno anc-internal-group" aria-labelledby="h-interno">
+    <h2 id="h-interno"><a href="../demo-interno/">Área interna</a> <span class="anc-pill warn">Uso interno</span></h2>
+    <p class="anc-sub">Herramientas de trabajo del área: monitoreo de operaciones y seguimiento de expedientes.</p>
     <div class="anc-cards">
       <a class="anc-tool" href="../demo-interno/noticias/">
         <h3>Monitor de concentraciones (M&amp;A)</h3>
-        <p>Operaciones detectadas en la prensa, con análisis de umbrales y casos a verificar ante la ANC. Se alimenta con el informe quincenal del artefacto de Claude.</p>
-        <div class="anc-meta"><span class="anc-pill ok">Uso interno</span><span>Datos reales</span></div>
+        <p>Operaciones detectadas en la prensa, análisis de umbrales y estado de la verificación ante la ANC.</p>
+        <div class="anc-meta"><span class="anc-pill warn">Uso interno</span><span>Noticias y verificaciones</span></div>
+        <span class="anc-tool-cta">Abrir monitor <span aria-hidden="true">→</span></span>
       </a>
       <a class="anc-tool" href="../demo-interno/seguimiento/">
         <h3>Seguimiento de expedientes</h3>
-        <p>Concentraciones en trámite: carga por abogado y por economista, estado, procedimiento y antigüedad, con descarga en CSV. Se alimenta con el Excel de seguimiento del área.</p>
-        <div class="anc-meta"><span class="anc-pill ok">Uso interno</span><span>Datos reales</span></div>
+        <p>Concentraciones en trámite por responsable, estado, procedimiento y antigüedad, con descarga de la selección en CSV.</p>
+        <div class="anc-meta"><span class="anc-pill warn">Uso interno</span><span>Carga de trabajo del área</span></div>
+        <span class="anc-tool-cta">Ver seguimiento <span aria-hidden="true">→</span></span>
       </a>
+    </div>
+  </section>
+  <section class="anc-group" aria-labelledby="h-proximas">
+    <h2 id="h-proximas">Próximamente</h2>
+    <p class="anc-sub">Estas herramientas todavía no están disponibles.</p>
+    <div class="anc-cards">
       <div class="anc-tool off">
+        <h3>Definiciones y antecedentes</h3>
+        <p>Una vista por mercado y producto. Por ahora, consultá los antecedentes en el buscador.</p>
+        <div class="anc-meta"><span class="anc-pill mute">Próximamente</span><span>Consulta pública</span></div>
+      </div>
+      <div class="anc-tool off anc-interno">
         <h3>Redes societarias</h3>
         <p>Grupos económicos, participaciones y clases terapéuticas.</p>
-        <div class="anc-meta"><span class="anc-pill mute">Próximamente</span></div>
+        <div class="anc-meta"><span class="anc-pill mute">Próximamente</span><span>Uso interno</span></div>
       </div>
-      <div class="anc-tool off">
+      <div class="anc-tool off anc-interno">
         <h3>Informes</h3>
         <p>Informes periódicos para dirección, armados a partir de los tableros.</p>
-        <div class="anc-meta"><span class="anc-pill mute">Próximamente</span></div>
+        <div class="anc-meta"><span class="anc-pill mute">Próximamente</span><span>Uso interno</span></div>
       </div>
     </div>
   </section>
-
   <p class="anc-foot">Herramientas de consulta basadas en resoluciones y dictámenes publicados y en fuentes públicas. Los datos se extraen y clasifican de forma automática y no reemplazan el documento original.</p>
 </main>
-
 <script src="../assets/nav.js" defer></script>
 <script>
 // Fecha de corte de los datos, tomada de data/conc.json (si no se puede leer, quedan los textos genéricos)

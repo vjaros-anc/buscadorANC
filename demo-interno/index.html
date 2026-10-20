@@ -8,7 +8,7 @@
 <link rel="icon" href="data:,">
 <link rel="stylesheet" href="../assets/anc.css">
 </head>
-<body class="anc">
+<body class="anc anc-internal-hub">
 <div id="anc-nav"></div>
 <header class="anc-head"><div class="anc-head-in">
   <h1>Área interna <span class="anc-pill warn">uso interno</span></h1>
@@ -34,8 +34,8 @@
     </div>
   </section>
 
-  <section class="anc-section">
-    <h2>Cómo se publica el área interna</h2>
+  <section class="anc-section"><details class="anc-det anc-maintenance">
+    <summary>Información para mantener el sitio</summary>
     <div class="anc-card anc-note">
       <ul>
         <li>Un proyecto de Cloudflare Pages que publica la rama del área interna (nunca <code>main</code>) con Cloudflare Access: inicio de sesión del área.</li>
@@ -44,7 +44,7 @@
         <li>El detalle de cada paso está en <code>SITIO.md</code>, y los formatos de datos en <code>demo-interno/SCHEMA.md</code>.</li>
       </ul>
     </div>
-  </section>
+  </details></section>
 </main>
 
 <script src="../assets/nav.js" defer></script>

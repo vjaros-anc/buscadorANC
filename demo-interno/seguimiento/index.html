@@ -19,7 +19,7 @@
   table.exp td.eq { min-width: 9ch; }
 </style>
 </head>
-<body class="anc">
+<body class="anc anc-tracking">
 <div id="anc-nav"></div>
 <header class="anc-head"><div class="anc-head-in">
   <p class="anc-crumb"><a href="../">Área interna</a> › Seguimiento</p>
@@ -31,24 +31,24 @@
 <main class="anc-main" id="contenido">
   <noscript><div class="anc-banner" style="margin-top:1.2rem">Esta página necesita JavaScript para mostrar los indicadores y los filtros.</div></noscript>
   <section class="anc-section" id="banners" aria-label="Avisos"></section>
-  <section class="anc-section" aria-label="Filtros">
+  <section class="anc-section anc-filter-panel" aria-label="Filtros y descarga de la selección">
     <form class="anc-filters" id="filtros" autocomplete="off">
       <label class="anc-field">Abogado<select id="f-abogado"></select></label>
       <label class="anc-field">Economista<select id="f-economista"></select></label>
       <label class="anc-field">Estado<select id="f-estado"></select></label>
       <label class="anc-field">Procedimiento<select id="f-tipo"></select></label>
       <button type="button" class="anc-btn" id="f-limpiar">Limpiar filtros</button>
-      <button type="button" class="anc-btn" id="f-csv" title="CSV con separador ; y UTF-8, listo para abrir en Excel">Descargar CSV</button>
+      <button type="button" class="anc-btn" id="f-csv" aria-describedby="estado" title="CSV con separador ; y UTF-8, listo para abrir en Excel">Descargar CSV</button>
     </form>
     <p class="anc-filter-status" id="estado" role="status" aria-live="polite"></p>
   </section>
-  <section class="anc-section" aria-label="Indicadores"><div class="anc-tiles" id="tiles"></div></section>
+  <section class="anc-section" aria-labelledby="h-resumen"><h2 id="h-resumen">Resumen de la selección</h2><div class="anc-tiles" id="tiles"></div></section>
   <section class="anc-section anc-grid2"><div class="anc-card" id="ch-abogado"></div><div class="anc-card" id="ch-economista"></div></section>
   <section class="anc-section anc-grid2"><div class="anc-card" id="ch-estado"></div><div class="anc-card" id="ch-edad"></div></section>
   <section class="anc-section">
     <h2>Expedientes</h2>
-    <p class="anc-sub">Ordenados por antigüedad, del más antiguo al más reciente.</p>
-    <div class="tablebox"><table class="exp">
+    <p class="anc-sub">Ordenados por antigüedad, del más antiguo al más reciente. La antigüedad mide días corridos y no implica un vencimiento del plazo legal.</p>
+    <div class="tablebox" tabindex="0" role="region" aria-label="Expedientes de la selección; desplazamiento horizontal"><table class="exp">
       <caption class="anc-sr">Expedientes de la selección</caption>
       <thead><tr>
         <th scope="col">Expediente</th><th scope="col">Abogados</th><th scope="col">Economistas</th><th scope="col">Procedimiento</th>
@@ -186,13 +186,13 @@
     if (!filas.length) tb.appendChild(h('tr', null, [h('td', { colspan: 7 }, [vacio])]));
     filas.forEach(function (r) {
       tb.appendChild(h('tr', null, [
-        h('td', null, [r.id, h('span', { class: 'op' }, [r.operacion])]),
+        h('td', null, [h('strong', null, [r.id]), h('span', { class: 'op' }, [r.operacion])]),
         h('td', { class: 'eq' }, [nombres(r.abogados)]),
         h('td', { class: 'eq' }, [nombres(r.economistas)]),
         h('td', null, [r.tipo]),
         h('td', null, [h('span', { class: 'anc-pill' + (CLASE_ESTADO[r.estado] || '') }, [r.estado])]),
         h('td', { class: 'num' }, [dmy(r.ingreso)]),
-        h('td', { class: 'num' }, [fmt(r.edad)])
+        h('td', { class: 'num age' }, [h('span', { class: 'age-value' }, [fmt(r.edad)]), h('span', { class: 'age-caption' }, [r.edad > 365 ? 'Más de 365 días' : r.edad > 180 ? 'Más de 180 días' : 'Hasta 180 días'])])
       ]));
     });
   }
