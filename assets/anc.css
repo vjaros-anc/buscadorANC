@@ -310,20 +310,20 @@ body:has(#anc-nav) {
 .anc-nav .anc-tag { background: #29425d; color: #c6d3e1; }
 .anc-nav a:focus-visible { outline-color: #a8d2ff; }
 .anc-head {
-  padding: 2.6rem 0 2.25rem; background: #fff;
+  padding: 1.4rem 0 1.2rem; background: #fff;
   border-bottom: 1px solid var(--anc-line);
 }
 .anc-head-in, .anc-main { max-width: 1168px; padding-left: 1.5rem; padding-right: 1.5rem; }
 .anc-head h1 {
-  max-width: 850px; font-size: clamp(1.8rem, 3.2vw, 2.65rem);
-  letter-spacing: -.045em; line-height: 1.14; color: var(--anc-ink); margin-bottom: .9rem;
+  max-width: 1000px; font-size: clamp(1.45rem, 2.2vw, 1.9rem);
+  letter-spacing: -.03em; line-height: 1.2; color: var(--anc-ink); margin-bottom: .5rem;
 }
-.anc-head .anc-lead { color: var(--anc-ink2); font-size: .98rem; line-height: 1.7; max-width: 80ch; }
-.anc-crumb { margin-bottom: .6rem; color: var(--anc-azul); }
+.anc-head .anc-lead { color: var(--anc-ink2); font-size: .9rem; line-height: 1.5; max-width: 100ch; }
+.anc-crumb { margin-bottom: .35rem; color: var(--anc-azul); }
 .anc-main { padding-bottom: 3.5rem; }
-.anc-group, .anc-section { margin-top: 2rem; }
+.anc-group, .anc-section { margin-top: 1.35rem; }
 .anc-group > h2, .anc-section > h2 {
-  font-size: 1.05rem; letter-spacing: -.02em; margin-bottom: .85rem;
+  font-size: 1rem; letter-spacing: -.02em; margin-bottom: .55rem;
 }
 .anc-cards { grid-template-columns: repeat(auto-fit, minmax(min(100%, 290px), 1fr)); gap: 1rem; }
 .anc-tool {
@@ -360,11 +360,11 @@ a.anc-tool:hover {
 
 /* Buscador de mercados: consulta principal destacada, filtros secundarios sobrios. */
 .bm-header {
-  padding: 2.2rem max(1.5rem, calc((100% - 1120px) / 2)) 1.8rem; background: #fff;
+  padding: 1.3rem max(1.5rem, calc((100% - 1120px) / 2)) 1.1rem; background: #fff;
   border-bottom-color: var(--anc-line);
 }
-.bm-header h1 { font-size: clamp(1.75rem, 3vw, 2.45rem); color: var(--anc-ink); letter-spacing: -.04em; line-height: 1.18; margin-bottom: .8rem; }
-.bm-header p { max-width: 85ch; color: var(--anc-ink2); line-height: 1.65; }
+.bm-header h1 { font-size: clamp(1.45rem, 2.2vw, 1.9rem); color: var(--anc-ink); letter-spacing: -.03em; line-height: 1.2; margin-bottom: .5rem; }
+.bm-header p { max-width: 100ch; color: var(--anc-ink2); line-height: 1.5; }
 .bm-main { max-width: 1168px; padding: 0 1.5rem 3rem; }
 .bm-controls { background: transparent; padding-top: 1rem; border-bottom-color: var(--anc-line); }
 .bm-group { padding: .85rem 1rem; border-radius: 12px; margin-top: .75rem; }
@@ -399,9 +399,9 @@ a.anc-tool:hover {
 }
 
 /* OPIs: se mantiene la apertura de fichas y todos los filtros existentes. */
-body:has(#list) > header { padding: 1.8rem 1.5rem 1.1rem; border-bottom-color: var(--anc-line); }
+body:has(#list) > header { padding: 1.1rem 1.5rem .75rem; border-bottom-color: var(--anc-line); }
 body:has(#list) .wrap { max-width: 1120px; }
-body:has(#list) h1 { font-size: clamp(1.7rem, 3vw, 2.35rem); letter-spacing: -.04em; color: var(--anc-ink); margin-bottom: 1.2rem; line-height: 1.2; }
+body:has(#list) h1 { font-size: clamp(1.45rem, 2.2vw, 1.85rem); letter-spacing: -.03em; color: var(--anc-ink); margin-bottom: .65rem; line-height: 1.2; }
 body:has(#list) h1 span { display: inline-block; font-size: .8rem; letter-spacing: 0; background: #edf2f8; border-radius: 99px; padding: .35rem .65rem; vertical-align: middle; }
 body:has(#list) #q { min-height: 52px; border-color: #a8c2de; border-radius: 10px; background: #f9fbfe; }
 body:has(#list) .filters { gap: .65rem; margin-top: .85rem; }
@@ -432,13 +432,13 @@ body:has(#list) select:focus-visible { outline: 3px solid #2873b5; outline-offse
   .anc-nav-in { padding: 0 1rem; }
   .anc-brand { margin-right: .5rem; font-size: .88rem; }
   .anc-brand::before { width: 20px; height: 20px; }
-  .anc-head { padding: 1.8rem 0 1.5rem; }
+  .anc-head { padding: 1rem 0 .85rem; }
   .anc-head-in, .anc-main, .bm-main, #list { padding-left: 1rem; padding-right: 1rem; }
   .anc-group:first-child .anc-cards { grid-template-columns: 1fr; }
   .anc-tool { padding: 1.2rem; }
   .anc-group:first-child .anc-tool h3 { font-size: 1.2rem; }
   .anc-tile.hero .anc-tile-v { font-size: 2.6rem; }
-  .bm-header { padding: 1.7rem 1rem 1.4rem; }
+  .bm-header { padding: 1rem 1rem .85rem; }
   .bm-group { padding: .85rem; }
   .bm-group.principal { padding: .9rem; }
   .bm-search { font-size: 1rem; min-width: 0; }
@@ -446,7 +446,7 @@ body:has(#list) select:focus-visible { outline: 3px solid #2873b5; outline-offse
   .bm-actions { margin-left: 0; }
   .bm-card { padding: 1rem; }
   #bm-prod-sector { min-width: 0; width: 100%; }
-  body:has(#list) > header { position: static; padding: 1.6rem 1rem 1rem; }
+  body:has(#list) > header { position: static; padding: 1rem 1rem .7rem; }
   body:has(#list) h1 span { margin: .55rem 0 0; }
   body:has(#list) select { max-width: 100%; width: 100%; }
   body:has(#list) .filters { display: grid; grid-template-columns: 1fr; }
@@ -507,7 +507,7 @@ body:has(#list) select:focus-visible { outline: 3px solid #2873b5; outline-offse
   font-size: .84rem; font-weight: 700; color: var(--anc-azul);
   border-top: 1px solid var(--anc-line); padding-top: .8rem; margin-top: .3rem;
 }
-.anc-group > .anc-sub { color: var(--anc-ink2); font-size: .9rem; line-height: 1.6; margin: -.3rem 0 1rem; }
+.anc-group > .anc-sub { color: var(--anc-ink2); font-size: .9rem; line-height: 1.5; margin: -.15rem 0 .65rem; }
 .anc-tools .anc-internal-group {
   border: 1px solid #d7dfeb; border-radius: 18px; padding: 1.35rem;
   background: #eaf0f7;
@@ -533,7 +533,7 @@ body:has(#list) select:focus-visible { outline: 3px solid #2873b5; outline-offse
 :is(.anc-dashboard, .anc-tracking) .anc-tile.hero {
   background: #eaf2fb; border-color: #bbd1e8;
 }
-.anc-dashboard .anc-section + .anc-section { margin-top: 2.2rem; }
+.anc-dashboard .anc-section + .anc-section { margin-top: 1.5rem; }
 .anc-dashboard .anc-card { height: 100%; }
 .anc-dashboard .anc-fig-t { font-size: 1.05rem; }
 .anc-dashboard .anc-fig-s { line-height: 1.6; margin-top: .5rem; }
