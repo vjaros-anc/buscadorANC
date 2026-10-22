@@ -85,6 +85,7 @@ CSV en UTF-8 con BOM (Excel lo abre con los acentos bien). Las columnas marcadas
 | `base_legal` | `6(1)(b)+6(2)` / `8(2)` | JSON |
 | `sector_nace` | Códigos NACE asignados por la Comisión | JSON |
 | `tipo_remedio_preliminar` | `estructural` / `conductual` / `mixto` | **Manual**, según el comunicado. Se confirma en la etapa 4 |
+| `resena_remedio` | Una línea sobre el remedio, orientativa | "Reseña orientativa del remedio" del inventario ANC en Excel (`importar_inventario_xlsx.py`) |
 | `eventos_posteriores` | Aprobación de comprador, implementación o revisión de remedios, modificaciones, multas, causas judiciales; con fecha | JSON |
 | `url_caso` | Ficha oficial del caso | Armada con el número |
 | `url_comunicado` | Comunicado de la autorización | Presscorner |

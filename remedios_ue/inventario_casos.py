@@ -125,6 +125,7 @@ COLUMNAS = [
     "base_legal",
     "sector_nace",
     "tipo_remedio_preliminar",
+    "resena_remedio",
     "eventos_posteriores",
     "url_caso",
     "url_comunicado",
@@ -355,11 +356,11 @@ def lista_c(descargar: bool) -> dict[str, dict]:
 
 # ------------------------------------------------------------- casos.csv --
 
-def leer_csv(ruta: Path) -> dict[str, dict]:
+def leer_csv(ruta: Path, clave: str = "caso_id") -> dict[str, dict]:
     if not ruta.exists():
         return {}
     with ruta.open(encoding="utf-8-sig", newline="") as f:
-        return {r["caso_id"]: r for r in csv.DictReader(f)}
+        return {r[clave]: r for r in csv.DictReader(f)}
 
 
 def escribir_csv(ruta: Path, filas: list[dict], columnas: list[str] = COLUMNAS) -> None:
