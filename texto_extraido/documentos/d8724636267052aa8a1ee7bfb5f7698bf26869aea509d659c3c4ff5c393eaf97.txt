@@ -2431,331 +2431,422 @@ Whereas:
                                      44
 
 [PÁGINA PDF 47 | texto OCR: verificar contra el PDF]
-        well  as  within  the broader market  for CRM  software, both  in  the EEA and
-        worldwide, for 2018, 2019 and 2020.?”6
+well as within the broader market for CRM software, both in the EEA and
 
-         Table 1: CRM software shares (Worldwide and EEA, value terms, 2018-2020)
+worldwide, for 2018, 2019 and 2020.76
 
+Table 1: CRM software shares (Worldwide and EEA, value terms, 2018-2020)
 
-                             CRM software
-        Partya                     Worldwide                  EEA”?
+Party CRM software
+Worldwide
 
-                         2018      2019      2020       2018      2019      2020
+2018 2019 2020 2018
+Meta (formerly - - - -
+Facebook)
+Kustomer [0-5%] [0-5%] [0-5%] [0-5%]
+Salesforce 19.5% 20.1% n.a. 15.3%
+SAP 8.3% 6.3% n.a. 10.3%
+Oracle 5.5% 5.1% n.a. 5.7%
+Adobe 5.1% 4.2% n.a. 4.5%
+Microsoft 2.7% 2.6% n.a. 3.2%
+Genesys 2.6% 2.3% n.a. 2.6%
+Epsilon 2.1% 1.9% n.a. 0.1%
+Zendesk 1.1% 1.3% n.a. 1.3%
+Others [50-60%] [50-60%] [90-100%] [50-60%]
+Total 100% 100% 100% 100%
 
-       Meta   (formerly         -                 -                 -                                    -                 -
-        Facebook)
+EEA’
+2019 2020
+[0-5%] [0-5%]
+17.8% n.a.
+10.2% n.a.
+5.1% n.a.
+4.9% n.a.
+3.0% n.a.
+2.4% n.a.
+0.1% n.a.
+1.5% n.a.
 
-       Kustomer         [0-5%]     [0-5%]     [0-5%]     [0-5%]     [0-5%]     [0-5%]
+[50-60%] [90-100%]
+100% 100%
 
-         Salesforce         19.5%     20.1%         n.a.       15.3%     17.8%         n.a.
+Source: Form CO, Tables 6.2-6.6, and Gartner (April 2020).7°8
 
-      SAP              8.3%      6.3%          n.a.       10.3%     10.2%         n.a.
+226
 
-        Oracle            5.5%      5.1%          n.a.       5.7%      5.1%          n.a.
+227
 
-       Adobe            5.1%      4.2%          n.a.       4.5%      4.9%          n.a.
+228
 
-        Microsoft         2.7%      2.6%          n.a.       3.2%      3.0%          n.a.
+The Notifying Party has not provided separate market share data for the market segments that are left
+open, i.e., segments based on (i) mode of deployment, (ii) business customer size, and (iii) industry
+sector. On the segments where Kustomer is active, i.e., potential segments for cloud-based CRM
+solutions, CRM software for SMBs and CRM software provided for the ecommerce sector, the market
+shares of Kustomer would be similar if not larger than on the market for the supply of customer service
+and support CRM software (and the broader market for CRM software overall).
+Competitors’ market shares cover the regions “Western Europe” and “Eastern Europe”. These two
+regions include one non-EEA country, as well as relatively small “Rest of Western Europe” and “Rest
+of Eastern Europe” categories (which may include both EEA and non-EEA countries), but are
+considered to be a sufficient approximation of EEA market sizes given that the vast majority of
 
-        Genesys           2.6%      2.3%          n.a.       2.6%      2.4%          n.a.
+countries included are EEA countries.
+Parties’ reply to RFI 5, question 1.
 
-        Epsilon           2.1%       1.9%          n.a.       0.1%      0.1%          n.a.
+45
 
-       Zendesk           1.1%      1.3%          n.a.       1.3%      1.5%          n.a.
-
-        Others           [50-60%]   [50-60%]   [90-100%]   [50-60%]   [50-60%]   [90-100%]
-
-        Total          100%     100%     100%     100%     100%     100%
-                           Source: Form CO, Tables 6.2-6.6, and Gartner (April 2020).778
-
-
-
-
-
-226     The Notifying Party has not provided separate market share data for the market segments that are left
-         open,  i.e., segments based on  (i) mode of deployment,  (ii) business customer size, and (iii) industry
-          sector. On the segments where Kustomer  is active,  i.e., potential segments  for cloud-based CRM
-          solutions, CRM software for SMBs and CRM software provided for the ecommerce sector, the market
-         shares of Kustomer would be similar if not larger than on the market for the supply of customer service
-        and support CRM software (and the broader market for CRM software overall).
-227      Competitors’ market shares cover the regions “Western Europe” and “Eastern Europe”. These two
-         regions include one non-EEA country, as well as relatively small “Rest of Western Europe” and “Rest
-        of Eastern Europe”  categories (which may include both EEA and non-EEA  countries),  but  are
-         considered to be a  sufficient approximation of EEA market sizes given that the vast majority of
-         countries included are EEA countries.
-28       Parties’ reply to RFI 5, question  1.
-
-
-
-
-
-                                       45
 
 [PÁGINA PDF 48 | texto OCR: verificar contra el PDF]
-         Table 2: Customer service and support CRM software shares (Worldwide and EEA,
-                                   value terms, 2018-2020)
+(174)
 
-                               Customer service and support CRM software
-       Party                   Worldwide                     EEA~”’
+(175)
 
-                         2018      2019      2020      2018       2019      2020
+Table 2: Customer service and support CRM software shares (Worldwide and EEA,
+value terms, 2018-2020)
 
-       Meta   (formerly          -                 -                 -                 -                 -                 -
-        Facebook)
+Customer service and support CRM software
 
-       Kustomer         [0-5%]     [0-5%]     [0-5%]     [0-5%]     [0-5%]     [0-5%]
+Party Worldwide EEA~”’
 
-         Salesforce         21.0%     22.5%         n.a.       16.5%     19.9%         n.a.
-        Oracle            7.8%      7.0%          n.a.       8.1%      6.9%       na.
+2018 2019 2020 2018 2019 2020
+Meta (formerly - - - - - -
+Facebook)
+Kustomer [0-5%] [0-5%] [0-5%] [0-5%] [0-5%] [0-5%]
+Salesforce 21.0% 22.5% n.a. 16.5% 19.9% n.a.
+Oracle 7.8% 7.0% n.a. 8.1% 6.9% na.
+Genesys 7.5% 6.7% n.a. 74% 7.0% 1.a.
+SAP 6.3% 5.3% n.a. 9.9% 8.5% n.a.
+Zendesk 3.0% 3.6% n.a. 3.6% 4.1% n.a.
+Verint 3.1% 2.9% n.a. 3.0% 2.9% n.a.
+NICE 2.7% 2.8% n.a. 2.1% 2.1% n.a.
+Cisco 2.6% 2.6% n.a. 2.8% 2.6% na.
+Microsoft 2.6% 2.5% n.a. 3.0% 2.9% n.a.
+Avaya 1.8% 1.7% na. 2.1% 1.8% 1.a.
+Others [40-50%] [40-50%] [90-100%] [40-50%] [40-50%] [90-100%]
+Total 100% 100% 100% 100% 100% 100%
 
-        Genesys           7.5%      6.7%         n.a.     74%      7.0%        na.
-      SAP              6.3%      5.3%          n.a.       9.9%      8.5%          n.a.
+Source: Form CO, Tables 6.2-6.5, and Gartner (April 2020).7*°
 
-       Zendesk          3.0%      3.6%          n.a.       3.6%      4.1%          n.a.
+The market share information shows that Kustomer is growing but is currently still a
+very small player in the broader market for the supply of CRM software overall and
+in the narrower customer service and support CRM software market, both globally
+and in the EEA. However, Meta (formerly Facebook)’s internal documents indicate
+that Meta (formerly Facebook) intends to [Meta’s growth projections for
+Kustomer]77!737,
 
-        Verint            3.1%      2.9%       na.       3.0%      2.9%          n.a.
+Regarding competitors, with a share of around 20%, Salesforce is the largest player
+in the broader market for the supply of CRM software overall and in the narrower
+customer service and support CRM software market both in the EEA and worldwide.
+SAP and Oracle (and Genesys in the narrower customer service and support CRM
+software market) are the next biggest players in these markets with shares between
+5-10%. The majority of the market is highly fragmented and split between a long tail
+of smaller competitors.
 
-      NICE             2.7%      2.8%          n.a.       2.1%      2.1%          n.a.
+229
 
-        Cisco             2.6%      2.6%          n.a.       2.8%      2.6%          1.a.
+230
+231
+232
 
-        Microsoft         2.6%      2.5%          n.a.       3.0%      2.9%          n.a.
+Competitors’ market shares cover the regions “Western Europe” and “Eastern Europe”. These two
+regions include one non-EEA country, as well as relatively small “Rest of Western Europe” and “Rest
+of Eastern Europe” categories (which may include both EEA and non-EEA countries), but are
+considered to be a sufficient approximation of EEA market sizes given that the vast majority of
+countries included are EEA countries.
 
-       Avaya             1.8%      1.7%         n.a.       2.1%       1.8%        na.
-        Others           [40-50%]   [40-50%]   [90-100%]   [40-50%]   [40-50%]   [90-100%]
-        Total           100%     100%     100%     100%     100%     100%
-                           Source: Form CO, Tables 6.2-6.5, and Gartner (April 2020).?9
+Parties’ reply to RFI 5, question 1.
 
-(174)   The market share information shows that Kustomer is growing but is currently still a
-        very small player in the broader market for the supply of  CRM software overall and
-          in the narrower customer service and support CRM software market, both globally
-        and in the EEA. However, Meta (formerly Facebook)’s internal documents indicate
-          that  Meta  (formerly  Facebook)  intends  to  [Meta’s  growth  projections   for
-         Kustomer]7?!?77,
+See Meta (formerly Facebook)’s internal document, Attachment E029 [...].
 
-(175)   Regarding competitors, with a share of around 20%, Salesforce is the largest player
-          in the broader market for the supply of CRM software overall and in the narrower
-        customer service and support  CRM software market both in the EEA and worldwide.
-      SAP and Oracle (and Genesys in the narrower customer service and support CRM
-         software market) are the next biggest players in these markets with shares between
-        5-10%. The majority of the market is highly fragmented and split between a long tail
-        of smaller competitors.
+See, e.g., Meta (formerly Facebook)’s internal document, [...], in which Meta (formerly Facebook)
+estimates [Business Plans]. See also Meta (formerly Facebook)’s internal document, [Business Plans].
 
+46
 
-
-229      Competitors’ market shares cover the regions “Western Europe” and “Eastern Europe”. These two
-         regions include one non-EEA country, as well as relatively small “Rest of Western Europe” and “Rest
-        of Eastern Europe”  categories (which may include both EEA and non-EEA  countries),  but  are
-         considered to be a  sufficient approximation of EEA market  sizes given that the vast majority of
-         countries included are EEA countries.
-230       Parties’ reply to RFI 5, question 1.
-231      See Meta (formerly Facebook)’s internal document, Attachment E029 [...].
-232       See,  e.g., Meta (formerly Facebook)’s internal document,  [...], in which Meta (formerly Facebook)
-         estimates [Business Plans]. See also Meta (formerly Facebook)’s internal document, [Business Plans].
-
-
-
-
-
-                                       46
 
 [PÁGINA PDF 49 | texto OCR: verificar contra el PDF]
- 7.2.2.  B2C communication services
+7.2.2.
+(176)
 
-(176)   Table 3, Table 4 and Table 5 set out the Parties’ and their main competitors’ market
-          shares, in value terms, within the overall market for B2C communication services as
-         well as within the market for asynchronous B2C communication services and, within
-          this narrower market, the narrower market for OTT B2C messaging services, both in
-         the EEA and worldwide, for 2018, 2019 and 2020.
+B2C communication services
 
-           Table 3: B2C communication services shares (Worldwide and EEA, value terms,
-                                        2018-2020)
+Table 3, Table 4 and Table 5 set out the Parties’ and their main competitors’ market
+shares, in value terms, within the overall market for B2C communication services as
+well as within the market for asynchronous B2C communication services and, within
+this narrower market, the narrower market for OTT B2C messaging services, both in
 
+the EEA and worldwide, for 2018, 2019 and 2020.
 
-                                B2C communication services
+Table 3: B2C communication services shares (Worldwide and EEA, value terms,
+2018-2020)
 
-       Party                  Worldwide                  EEA
+Party
 
-                        2018       2019       2020       2018       2019       2020
+Kustomer
 
-       Kustomer                  -                  -                  -                  -                  -                  -
+Meta
+(formerly
+Facebook)
 
-      Meta
-        (formerly        [0-5%]     [0-5%]     [5-10%]     [0-5%]     [0-5%]     [0-5%]
-       Facebook)
+Messenger
+WhatsApp
+Instagram
+Phone
+Email
+Other
+messaging”*?
 
-        Messenger      [0-5%]     [0-5%]     [0-5%]     [0-5%]     [0-5%]     [0-5%]
-        WhatsApp       [0-5%]     [0-5%]     [5-10%]     [0-5%]     [0-5%]     [0-5%]
-         Instagram       [0-5%]     [0-5%]     [0-5%]     [0-5%]     [0-5%]     [0-5%]
+Others
+letter, fax)
 
-       Phone          71%      67%      63%      67%      67%      67%
+Total
 
-        Email          20%      19%      18%      24%      24%      24%
+(e.g.,
 
-        Other 933    [5-10%]    [5-10%]    [10-20%]     [5-10%]    [5-10%]     [0-5%]
-        messaging
+2018
 
-        Others  (8.     504       1%       1%      2%      2%      2%
-           letter, fax)
+[0-5%]
 
-        Total          100%     100%     100%     100%     100%     100%
+[0-5%]
 
-                                       Source: Form CO, Tables 6.7 and 6.8.
+[0-5%]
 
+[0-5%]
+71%
+20%
 
+[5-10%]
+2%
 
+100%
 
+233
 
-233     The Notifying Party indicated that “Other messaging” includes other OTT providers, webchat (which
-         includes Google’s RCS and Apple Business Chat) and SMS, and that  it was unable to  separate
-         conversation volumes for those channels in a reliable manner. However, the Notifying Party did provide
-          the following breakdown on a worldwide basis for 2020 of “Other messaging” [10-20%]: Webchat [5-
-        10%], OTT [0-5%] and SMS [0-5%]. See Form CO, paragraph 6.1.
+The Notifying Party indicated that “Other messaging” includes other OTT providers, webchat (which
+includes Google’s RCS and Apple Business Chat) and SMS, and that it was unable to separate
+conversation volumes for those channels in a reliable manner. However, the Notifying Party did provide
+the following breakdown on a worldwide basis for 2020 of “Other messaging” [10-20%]: Webchat [5-
 
+B2C communication services
 
+Worldwide
+2019
 
+[0-5%]
 
+[0-5%]
 
-                                       47
+[0-5%]
+
+[0-5%]
+67%
+19%
+
+[5-10%]
+1%
+
+100%
+
+2020
+
+[5-10%]
+
+[0-5%]
+
+[5-10%]
+
+[0-5%]
+63%
+18%
+
+[10-20%]
+1%
+
+100%
+
+2018
+
+[0-5%]
+
+[0-5%]
+
+[0-5%]
+
+[0-5%]
+67%
+24%
+
+[5-10%]
+2%
+
+100%
+
+Source: Form CO, Tables 6.7 and 6.8.
+
+10%], OTT [0-5%] and SMS [0-5%]. See Form CO, paragraph 6.1.
+
+47
+
+EEA
+2019
+
+[0-5%]
+
+[0-5%]
+
+[0-5%]
+
+[0-5%]
+67%
+24%
+
+[5-10%]
+2%
+
+100%
+
+2020
+
+[0-5%]
+
+[0-5%]
+
+[0-5%]
+
+[0-5%]
+67%
+24%
+
+[0-5%]
+2%
+
+100%
+
 
 [PÁGINA PDF 50 | texto OCR: verificar contra el PDF]
-       Table 4: asynchronous B2C communication services shares (Worldwide and EEA, value
-                                      terms, 2018-2020)
+Table 4: asynchronous B2C communication services shares (Worldwide and EEA, value
+terms, 2018-2020)
 
-                               Asynchronous B2C communication services”**
+Asynchronous B2C communication services”**
 
-        Party                  Worldwide                  EEA
+Party Worldwide EEA
 
-                        2018       2019       2020       2018       2019       2020
+2018 2019 2020 2018 2019 2020
+Kustomer - - - - - -
+Meta
+(formerly [0-5%] [10-20%] [10-20%]  [5-10%] [5-10%] [5-10%]
+Facebook)
+Messenger [0-5%] [0-5%] [0-5%] [0-5%] [0-5%] [0-5%]
+WhatsApp [0-5%] [5-10%] [10-20%] [0-5%] [0-5%] [0-5%]
+Instagram [0-5%] [0-5%] [0-5%] [0-5%] [0-5%] [0-5%]
+Email 67.6% 56.8% 47.5% 72.5% 71.8% 71.2%
+Other . [20-30%] [20-30%] [20-30%] [10-20%] [10-20%] [10-20%]
+messaging
+Others (€8- 50% 4.2% 3.5% 6.1% 5.9% 5.4%
+letter, fax)
+Total 100% 100% 100% 100% 100% 100%
 
-       Kustomer                  -                  -                  -                  -                  -                  -
+Source: Form CO, Tables 6.7 and 6.8.
 
-      Meta
-        (formerly        [0-5%]    [10-20%]   [10-20%]     [5-10%]    [5-10%]    [5-10%]
-       Facebook)
+Table 5: OTT B2C messaging services shares (Worldwide and EEA, value terms,
 
-        Messenger      [0-5%]     [0-5%]     [0-5%]     [0-5%]     [0-5%]     [0-5%]
+2018-2020)
+OTT B2C messaging services”
+Party Worldwide EEA
+2018 2019 2020 2018 2019 2020
 
-        WhatsApp       [0-5%]     [5-10%]    [10-20%]    [0-5%]     [0-5%]     [0-5%]
+Kustomer - - - - - -
+Meta
+(formerly [10-20%] [30-40%] [40-50%] [30-40%] [30-40%] [40-50%]
+Facebook)
 
-         Instagram       [0-5%]     [0-5%]     [0-5%]     [0-5%]     [0-5%]     [0-5%]
+Messenger [5-10%]  [5-10%]  [5-10%] [10-20%] [10-20%] [10-20%]
+WhatsApp [0-5%] [10-20%] [30-40%]  [0-5%] [10-20%] [10-20%]
+Instagram [5-10%]  [5-10%] = [5-10%] [10-20%] [10-20%] [10-20%]
 
-        Email           67.6%     56.8%     47.5%     72.5%      71.8%      71.2%
+234
 
-        Other
-                                                                           .         [20-30%]   [20-30%]   [20-30%]   [10-20%]   [10-20%]   [10-20%]
-        messaging
+235
 
-        Others  (€8      50%       4.2%      3.5%      6.1%      5.9%      5.4%
-           letter, fax)
+These figures have been calculated by the Commission using figures for the overall B2C
+communications market provided by the Notifying Party in the Form CO, paragraph 6.54 Tables 6.7
+and 6.8. Market shares may therefore not sum to 100% due to rounding.
+These figures have been calculated by the Commission using figures for the overall B2C
+communications market provided by the Notifying Party in the Form CO, paragraph 6.54 Tables 6.7
+and 6.8. Market shares may therefore not sum to 100% due to rounding.
 
-        Total         100%     100%     100%     100%     100%     100%
+48
 
-                                       Source: Form CO, Tables 6.7 and 6.8.
-
-
-
-           Table 5: OTT B2C messaging services shares (Worldwide and EEA, value terms,
-                                        2018-2020)
-
-                            OTT B2C messaging services~*°
-
-       Party                  Worldwide                  EEA
-
-                         2018       2019       2020       2018       2019       2020
-
-       Kustomer                   -                 -                 -                 -                 -                 -
-
-      Meta
-        (formerly       [10-20%]   [30-40%]   [40-50%]   [30-40%]   [30-40%]   [40-50%]
-       Facebook)
-
-        Messenger      [5-10%]    [5-10%]    [5-10%]   [10-20%]   [10-20%]   [10-20%]
-        WhatsApp       [0-5%]    [10-20%]   [30-40%]    [0-5%]    [10-20%]   [10-20%]
-
-         Instagram      [5-10%]    [5-10%]    [5-10%]   [10-20%]   [10-20%]   [10-20%]
-
-
-
-
-
-234      These  figures  have  been  calculated by  the  Commission  using  figures  for  the  overall B2C
-        communications market provided by the Notifying Party in the Form CO, paragraph 6.54 Tables 6.7
-        and 6.8. Market shares may therefore not sum to 100% due to rounding.
-235      These  figures  have  been  calculated  by  the  Commission  using  figures  for  the  overall B2C
-        communications market provided by the Notifying Party in the Form CO, paragraph 6.54 Tables 6.7
-        and 6.8. Market shares may therefore not sum to 100% due to rounding.
-
-
-
-
-
-                                        48
 
 [PÁGINA PDF 51 | texto OCR: verificar contra el PDF]
-                            OTT B2C messaging services”
+(177)
 
-       Party                  Worldwide                  EEA
+(178)
 
-                        2018       2019       2020       2018       2019       2020
+OTT B2C messaging services”
 
-        Other
-        (excluding       [80-90%]   [60-70%]   [50-60%]   [70-80%]   [60-70%]   [50-60%]
-       SMs235)
+Party Worldwide EEA
 
-        Total          100%     100%     100%     100%     100%     100%
+2018 2019 2020 2018 2019 2020
+Other
+messagin
+(ex “inding [80-90%] [60-70%] [50-60%] [70-80%] [60-70%] [50-60%]
+SMS”*°)
+Total 100% 100% 100% 100% 100% 100%
 
-                                       Source: Form CO, Tables 6.7 and 6.8.
+Source: Form CO, Tables 6.7 and 6.8.
 
-(177)   The market share information shows that Meta (formerly Facebook)’s messaging
-        channels have a small share in the overall market for B2C communication services in
-        2020, [5-10%] globally and [0-5%] in the EEA. Meta (formerly Facebook)’s market
-         share has increased in the period from 2018 to 2020, both globally and in the EEA.
-       Phone and email account for the majority of B2C conversations in 2020, 63% and
-       18% respectively globally and 67% and 24% respectively in the EEA, and have both
-        been in decline globally between 2018 and 2020 in view of the shift away from more
-          traditional B2C communication channels such as phone and email towards more
-       modern channels, like the OTT B2C messaging channels offered by Meta (formerly
-        Facebook). This trend is expected to continue in the coming years.”7’ Moreover, it is
-         important to note that the overall market for B2C communication services is highly
-        fragmented since phone (63%), email (18%), as well as webchat [5-10%], other OTT
-        [0-5%] and SMS [0-5%] (each part of “Other Messaging’’) are in fact umbrella terms
-        and each one is comprised of a multitude of larger and smaller players (e.g., national
-        mobile network operators, different email providers, OTT messaging and webchat
-         applications, etc.) none of which the Commission expects to have a material share or
-        market power on the broad B2C communication service market at EEA or worldwide
-           level. In addition, “phone” comprises not only traditional calls but also OTT calls
-         (including OTT calls on Meta (formerly Facebook)’s channels).
+The market share information shows that Meta (formerly Facebook)’s messaging
+channels have a small share in the overall market for B2C communication services in
+2020, [5-10%] globally and [0-5%] in the EEA. Meta (formerly Facebook)’s market
+share has increased in the period from 2018 to 2020, both globally and in the EEA.
+Phone and email account for the majority of B2C conversations in 2020, 63% and
+18% respectively globally and 67% and 24% respectively in the EEA, and have both
+been in decline globally between 2018 and 2020 in view of the shift away from more
+traditional B2C communication channels such as phone and email towards more
+modem channels, like the OTT B2C messaging channels offered by Meta (formerly
+Facebook). This trend is expected to continue in the coming years.7?” Moreover, it is
+important to note that the overall market for B2C communication services is highly
+fragmented since phone (63%), email (18%), as well as webchat [5-10%], other OTT
+[0-5%] and SMS [0-5%] (each part of “Other Messaging”) are in fact umbrella terms
+and each one is comprised of a multitude of larger and smaller players (e.g., national
+mobile network operators, different email providers, OTT messaging and webchat
+applications, etc.) none of which the Commission expects to have a material share or
+market power on the broad B2C communication service market at EEA or worldwide
+level. In addition, “phone” comprises not only traditional calls but also OTT calls
+(including OTT calls on Meta (formerly Facebook)’s channels).
 
-(178)   Within the plausible narrower market for asynchronous B2C communication services
-         (excluding phone), Meta (formerly Facebook) had a market  share,  in 2020, of
-        [10-20%] worldwide and [5-10%] in the EEA. In the period from 2018 to 2020, the
-        market  shares of Meta  (formerly Facebook) were  increasing,  while  email  has
-         declined over the same period both globally and (to a lesser extent) in the EEA.”*®
-        Moreover, as mentioned, email, as well as webchat, other OTT and SMS (each part
-        of “Other Messaging”) are in fact umbrella terms and each one  is comprised of a
-         multitude of small players none of which the Commission expects to have a material
-         share or market power.
+Within the plausible narrower market for asynchronous B2C communication services
+(excluding phone), Meta (formerly Facebook) had a market share, in 2020, of
+[10-20%] worldwide and [5-10%] in the EEA. In the period from 2018 to 2020, the
+market shares of Meta (formerly Facebook) were increasing, while email has
+declined over the same period both globally and (to a lesser extent) in the EEA.?*8
+Moreover, as mentioned, email, as well as webchat, other OTT and SMS (each part
+of “Other Messaging”) are in fact umbrella terms and each one is comprised of a
+multitude of small players none of which the Commission expects to have a material
+share or market power.
 
+236
 
+237
 
-236      While the Notifying Party submitted that with regard to the category “Other messaging” it was unable
-          to separate conversation volumes for those channels in a reliable manner,  it did provide the following
-       breakdown on a worldwide basis for 2020 of “Other messaging” ([10-20%]): Webchat ([5-10%]), OTT
-         ([0-5%]) and SMS  ([0-5%]).  See Form CO, paragraph  6.1. On  the  basis of these  figures,  the
-       Commission excludes from all “Other messaging” for 2018 to 2020, worldwide and in the EEA, the
-         equivalent share occupied by SMS (i.e., [5-10%], representing [Market Shares] of SMS’ market share
-          for other messaging worldwide in 2020).
-237      Replies to questionnaire 1 to CRM software providers, questions 47.1 and 47.2; replies to questionnaire
-        4 to business customers, questions 58.1 and 58.2.
-238      See reply to questionnaire 4 to business customers, question 58.1  (ID:  768),  in which a business
-        customer indicated that they consider that “Email shifted to Chat” over the past five years.
+238
 
+While the Notifying Party submitted that with regard to the category “Other messaging” it was unable
+to separate conversation volumes for those channels in a reliable manner, it did provide the following
+breakdown on a worldwide basis for 2020 of “Other messaging” ([10-20%]): Webchat ([5-10%]), OTT
+([0-5%]) and SMS ([0-5%]). See Form CO, paragraph 6.1. On the basis of these figures, the
+Commission excludes from all “Other messaging” for 2018 to 2020, worldwide and in the EEA, the
+equivalent share occupied by SMS (i.e., [5-10%], representing [Market Shares] of SMS’ market share
+for other messaging worldwide in 2020).
 
+Replies to questionnaire 1 to CRM software providers, questions 47.1 and 47.2; replies to questionnaire
+4 to business customers, questions 58.1 and 58.2.
 
+See reply to questionnaire 4 to business customers, question 58.1 (ID: 768), in which a business
+customer indicated that they consider that “Email shifted to Chat’ over the past five years.
 
+49
 
-                                       49
 
 [PÁGINA PDF 52]
 (179)    Finally, within the potential market for OTT B2C messaging services, as a sub-
@@ -2817,337 +2908,277 @@ Whereas:
                                      50
 
 [PÁGINA PDF 53 | texto OCR: verificar contra el PDF]
-(182)   The result of this exercise for the years 2018, 2019 and 2020  is presented in the
-        Tables below. The market shares below reflect only display ads served on Meta
-         (formerly  Facebook)’s own  properties,  and  do  not  include  display  ads Meta
-        (formerly Facebook) served to third party publishers (via its intermediation service
-      MAN). Meta (formerly Facebook) does not serve display ads off-social networks on
-            its own properties, since Meta (formerly Facebook) has defined all of its properties
-         as social networks, therefore no table for this potential segment has been included.*“*
+(182) The result of this exercise for the years 2018, 2019 and 2020 is presented in the
+Tables below. The market shares below reflect only display ads served on Meta
+(formerly Facebook)’s own properties, and do not include display ads Meta
+(formerly Facebook) served to third party publishers (via its intermediation service
+MAN). Meta (formerly Facebook) does not serve display ads off-social networks on
+its own properties, since Meta (formerly Facebook) has defined all of its properties
+as social networks, therefore no table for this potential segment has been included.*“*
 
-  Table 6: Meta (formerly Facebook)’s market shares in online display advertising (2018-2020)
+Table 6: Meta (formerly Facebook)’s market shares in online display advertising (2018-2020)
 
-              EEA Country               Market share
-                                     2018          2019          2020
-                           Austria        [50-75]%       [50-75]%       [50-75]%
-                      Belgium       [75-100]%      [50-75]%       [50-75]%
-                         Bulgaria       [50-75]%       [50-75]%       [30-50]%
-                           Croatia        [50-75]%       [50-75]%       [50-75]%
-                       Cyprus        [0-10]%        [0-10]%        [0-10]%
-                        Czechia        [50-75]%       [50-75]%       [50-75]%
-                    Denmark       [50-75]%       [50-75]%       [50-75]%
-                          Estonia        [50-75]%       [50-75]%       [30-50]%
-                         Finland        [50-75]%       [50-75]%       [50-75]%
-                         France        [50-75]%       [50-75]%       [50-75]%
-                    Germany       [50-75]%       [50-75]%       [50-75]%
-                       Greece        [50-75]%       [50-75]%       [50-75]%
-                     Hungary       [50-75]%       [50-75]%       [50-75]%
+EEA Country Market share
+2018 2019 2020
+Austria [50-75]% [50-75]% [50-75]%
+Belgium [75-100]% [50-75]% [50-75]%
+Bulgaria [50-75]% [50-75]% [30-50]%
+Croatia [50-75]% [50-75]% [50-75]%
+Cyprus [0-10]% [0-10]% [0-10]%
+Czechia [50-75]% [50-75]% [50-75]%
+Denmark [50-75]% [50-75]% [50-75]%
+Estonia [50-75]% [50-75]% [30-50]%
+Finland [50-75]% [50-75]% [50-75]%
+France [50-75]% [50-75]% [50-75]%
+Germany [50-75]% [50-75]% [50-75]%
+Greece [50-75]% [50-75]% [50-75]%
+Hungary [50-75]% [50-75]% [50-75]%
+Iceland [50-75]% [50-75]% [50-75]%
+Ireland [30-50]% [30-50]% [30-50]%
+Italy [50-75]% [50-75]% [50-75]%
+Latvia [20-30]% [20-30]% [20-30]%
+Liechtenstein [20-30]% [10-20]% [20-30]%
+Lithuania [30-50]% [20-30]% [20-30]%
+Luxembourg [30-50]% [20-30]% [20-30]%
+Malta [30-50]% [20-30]% [10-20]%
+Netherlands [30-50]% [30-50]% [30-50]%
+Norway [50-75]% [50-75]% [50-75]%
+Poland [50-75]% [50-75]% [50-75]%
+Portugal [50-75]% [50-75]% [50-75]%
+Romania [50-75]% [50-75]% [50-75]%
+Slovakia [50-75]% [50-75]% [50-75]%
+244 Meta (formerly Facebook) does serve display ads off-social networks on third party properties, via its
 
-                          Iceland        [50-75]%       [50-75]%       [50-75]%
-                            Ireland        [30-50]%       [30-50]%       [30-50]%
+intermediation service MAN. See paragraph 184 below for further detail.
 
-                               Italy         [50-75]%       [50-75]%       [50-75]%
-                           Latvia        [20-30]%       [20-30]%       [20-30]%
-                       Liechtenstein     [20-30]%       [10-20]%       [20-30]%
-                         Lithuania       [30-50]%       [20-30]%       [20-30]%
-                   Luxembourg      [30-50]%       [20-30]%       [20-30]%
-                        Malta         [30-50]%       [20-30]%       [10-20]%
-                       Netherlands      [30-50]%       [30-50]%       [30-50]%
-                    Norway        [50-75]%       [50-75]%       [50-75]%
-                        Poland        [50-75]%       [50-75]%       [50-75]%
-                          Portugal        [50-75]%       [50-75]%       [50-75]%
-                     Romania       [50-75]%       [50-75]%       [50-75]%
-                         Slovakia       [50-75]%       [50-75]%       [50-75]%
+51
 
-
-
-
-
-244     Meta (formerly Facebook) does serve display ads off-social networks on third party properties, via its
-         intermediation service MAN. See paragraph 184 below for further detail.
-
-
-
-
-
-                                            51
 
 [PÁGINA PDF 54 | texto OCR: verificar contra el PDF]
-          EEA Country               Market share
-                                2018          2019          2020
+Market share
 
-                   Slovenia       [75-100]%      [75-100]%       [50-75 ]%
+EEA Country
+2018 2019 2020
+Slovenia [75-100]% [75-100]% [50-75 ]%
+Spain [50-75]% [50-75]% [50-75 ]%
+Sweden [50-75]% [50-75]% [50-75 ]%
 
-                    Spain          [50-75 ]%       [50-75]%       [50-75]%
-
-                Sweden        [50-75]%       [50-75]%        [50-75 ]%
-
-                               Source: Commission computation
+Source: Commission computation
 
 Table 7: Meta (formerly Facebook)’s market shares in online video display advertising
-                                    (2018-2020)
+(2018-2020)
 
-         EEA Country                 Market share
-                               2018           2019           2020
+EEA Country Market share
+2018 2019 2020
 
-                  Austria        [75-100]%        [50-75]%        [50-75]%
+Austria [75-100]% [50-75]% [50-75]%
+Belgium [75-100]% [5S0-75]% [50-75]%
+Bulgaria [75-100]% [50-75]% [30-50]%
+Croatia [75-100]% [S0-75]% [S0-75]%
 
-               Belgium       [75-100]%        [S0-75]%        [S0-75]%
+Cyprus [0-10]% [0-10]% [0-10]%
+Czechia [50-75]% [50-75]% [50-75]%
+Denmark [50-75]% [50-75]% [50-75]%
+Estonia [50-75]% [50-75]% [30-50]%
+Finland [S0-75]% [30-50]% [30-50]%
+France [S0-75]% [50-75]% [S0-75]%
+Germany [50-75]% [5S0-75]% [S0-75]%
+Greece [75-100]% [50-75]% [50-75]%
+Hungary [75-100]% [50-75]% [50-75]%
+Iceland [75-100]% [75-100]% [50-75]%
+Ireland [50-75]% [30-50]% [30-50]%
+Italy [75-100]% [5S0-75]% [50-75]%
+Latvia [50-75]% [30-50]% [10-20]%
+Liechtenstein [75-100]% [10-20]% [20-30]%
+Lithuania [10-20]% [0-10]% [0-10]%
+Luxembourg [50-75]% [20-30]% [20-30]%
+Malta [50-75]% [30-50]% [10-20]%
+Netherlands [50-75]% [30-50]% [30-50]%
+Norway [75-100]% [50-75]% [50-75]%
+Poland [S0-75]% [S0-75]% [S0-75]%
+Portugal [75-100]% [S0-75]% [50-75]%
+Romania [75-100]% [50-75]% [50-75]%
+Slovakia [75-100]% [50-75]% [50-75]%
+Slovenia [75-100]% [75-100]% [30-50]%
+Spain [50-75]% [5S0-75]% [50-75]%
+Sweden [S0-75]% [50-75]% [50-75]%
 
-                 Bulgaria        [75-100]%        [50-75]%        [30-50]%
+Source: Commission computation
 
-                  Croatia        [75-100]%        [S0-75]%        [S0-75]%
+52
 
-                Cyprus         [0-10]%         [0-10]%         [0-10]%
-
-                Czechia        [50-75]%        [50-75]%        [50-75]%
-
-              Denmark        [50-75]%        [50-75]%        [50-75]%
-
-                  Estonia        [50-75]%        [S0-75]%        [30-50]%
-
-                 Finland        [50-75]%        [30-50]%        [30-50]%
-
-                 France         [S0-75]%        [50-75]%        [S0-75]%
-
-              Germany        [S0-75]%        [50-75]%        [S0-75]%
-
-               Greece        [75-100]%        [50-75]%         [50-75 ]%
-
-              Hungary       [75-100]%        [50-75]%        [50-75]%
-
-                  Iceland        [75-100]%       [75-100]%        [50-75]%
-
-                  Ireland         [50-75]%        [30-50]%        [30-50]%
-
-                      Italy         [75-100]%        [S0-75]%        [S0-75]%
-
-                   Latvia         [S0-75]%        [30-50]%        [10-20]%
-
-               Liechtenstein      [75-100]%        [10-20]%        [20-30]%
-
-                 Lithuania        [10-20]%         [0-10]%         [0-10]%
-
-             Luxembourg      [50-75]%        [20-30]%        [20-30]%
-
-                 Malta         [50-75]%        [30-50]%        [10-20]%
-
-               Netherlands       [50-75]%        [30-50]%        [30-50]%
-
-              Norway        [75-100]%        [S0-75]%        [50-75]%
-
-                Poland         [S0-75]%        [S0-75]%        [S0-75]%
-
-                  Portugal        [75-100]%        [50-75]%        [S0-75]%
-
-              Romania       [75-100]%        [50-75]%         [50-75 ]%
-
-                 Slovakia        [75-100]%        [50-75]%        [50-75]%
-
-                 Slovenia       [75-100]%       [75-100]%        [30-50]%
-
-                 Spain         [50-75]%        [50-75]%        [50-75]%
-
-              Sweden        [S0-75]%        [50-75]%        [S0-75]%
-
-                               Source: Commission computation
-
-
-
-
-
-                                     52
 
 [PÁGINA PDF 55 | texto OCR: verificar contra el PDF]
 Table 8: Meta (formerly Facebook)’s market shares in online non-video display advertising
-                                      (2018-2020)
+(2018-2020)
 
-          EEA Country                 Market share
-                                2018            2019           2020
+EEA Country Market share
+2018 2019 2020
 
-                    Austria         [50-75]%        [50-75]%         [50-75]%
-                Belgium        [50-75]%        [75-100]%       [75-100]%
-                   Bulgaria        [30-50]%        [30-50]%         [30-50]%
-                    Croatia         [50-75]%        [50-75]%         [50-75]%
-                 Cyprus          [0-10]%          [0-10]%          [0-10]%
-                  Czechia         [50-75]%        [50-75]%         [50-75]%
-               Denmark        [50-75]%        [50-75]%         [50-75]%
-                    Estonia         [30-50]%        [50-75]%         [30-50]%
-                   Finland         [50-75]%        [50-75]%         [50-75]%
-                   France         [50-75]%        [50-75]%        [50-75]%
-              Germany        [30-50]%        [30-50]%         [30-50]%
-                 Greece         [50-75]%        [50-75]%        [75-100]%
-                Hungary        [50-75]%        [50-75]%        [75-100]%
+Austria [50-75]% [50-75]% [50-75]%
+Belgium [50-75]% [75-100]% [75-100]%
+Bulgaria [30-50]% [30-50]% [30-50]%
+Croatia [S0-75]% [50-75]% [50-75]%
+Cyprus [0-10]% [0-10]% [0-10]%
+Czechia [S0-75]% [S0-75]% [50-75]%
+Denmark [50-75]% [50-75]% [50-75]%
+Estonia [30-50]% [50-75]% [30-50]%
+Finland [50-75]% [50-75]% [50-75]%
+France [50-75]% [50-75]% [50-75]%
+Germany [30-50]% [30-50]% [30-50]%
+Greece [50-75]% [S0-75]% [75-100]%
+Hungary [S0-75]% [50-75]% [75-100]%
+Iceland [50-75]% [50-75]% [50-75]%
+Ireland [30-50]% [30-50]% [30-50]%
+Italy [50-75]% [50-75]% [50-75]%
+Latvia [20-30]% [20-30]% [20-30]%
+Liechtenstein [20-30]% [20-30]% [20-30]%
+Lithuania [30-50]% [30-50]% [30-50]%
+Luxembourg [20-30]% [20-30]% [20-30]%
+Malta [20-30]% [20-30]% [10-20]%
+Netherlands [30-50]% [30-50]% [30-50]%
+Norway [50-75]% [50-75]% [50-75]%
+Poland [50-75]% [50-75]% [50-75]%
+Portugal [S0-75]% [50-75]% [50-75]%
+Romania [S0-75]% [S0-75]% [50-75]%
+Slovakia [S0-75]% [S0-75]% [50-75]%
+Slovenia [50-75]% [75-100]% [75-100]%
+Spain [30-50]% [50-75]% [50-75]%
+Sweden [50-75]% [50-75]% [50-75]%
 
-                    Iceland         [50-75]%         [50-75]%         [50-75]%
-                    Ireland         [30-50]%        [30-50]%         [30-50]%
-                        Italy          [50-75]%        [50-75]%        [50-75]%
-                   Latvia         [20-30]%        [20-30]%         [20-30]%
-                 Liechtenstein      [20-30]%        [20-30]%         [20-30]%
-                   Lithuania        [30-50]%        [30-50]%         [30-50]%
-              Luxembourg      [20-30]%        [20-30]%         [20-30]%
-                  Malta          [20-30]%        [20-30]%         [10-20]%
-                 Netherlands       [30-50]%        [30-50]%         [30-50]%
-               Norway         [50-75]%        [50-75]%        [50-75]%
-                  Poland         [50-75]%        [50-75]%         [50-75]%
-                   Portugal        [50-75]%        [50-75]%         [50-75]%
-                Romania        [50-75]%        [50-75]%         [50-75]%
-                   Slovakia        [50-75]%        [50-75]%         [50-75]%
-                   Slovenia        [50-75]%        [75-100]%        [75-100]%
-                   Spain         [30-50]%        [50-75]%         [50-75]%
+Source: Commission computation
 
-                Sweden         [50-75]%         [50-75]%         [50-75]%
+53
 
-                                  Source: Commission computation
-
-
-
-
-
-                                        53
 
 [PÁGINA PDF 56 | texto OCR: verificar contra el PDF]
 Table 9: Meta (formerly Facebook)’s market shares in online display advertising on social-
-                              networks (2018-2020)
+networks (2018-2020)
 
-         EEA Country                  Market share
-                               2018            2019            2020
+EEA Country Market share
+2018 2019 2020
+Austria -100]% -100]% -100]%
+i 75-100]? 75-100]° 75-100
+elgium - %o - % - %o
+Belgi 75-100]? 75-100]° 75-100]?
+Bulgaria [50-75]% [50-75]% [50-75]%
+Croatia [50-75]% [75-100]% [75-100]%
+Cyprus [0-10]% [0-10]% [0-10]%
+Czechia [50-75]% [50-75]% [50-75]%
+Denmark [75-100]% [75-100]% [75-100]%
+Estonia [50-75]% [50-75]% [50-75]%
+Finland [75-100]% [75-100]% [75-100]%
+France [50-75]% [S0-75]% [50-75]%
+Germany [50-75]% [50-75]% [50-75]%
+Greece [75-100]% [75-100]% [75-100]%
+Hungary [75-100]% [75-100]% [75-100]%
+Iceland [75-100]% [75-100]% [75-100]%
+Ireland [50-75]% [50-75]% [50-75]%
+Italy [75-100]% [75-100]% [75-100]%
+Latvia [30-50]% [50-75]% [50-75]%
+Liechtenstein [30-50]% [50-75]% [50-75]%
+Lithuania [30-50]% [20-30]% [20-30]%
+Luxembourg [50-75]% [30-50]% [30-50]%
+Malta [50-75]% [50-75]% [50-75]%
+Netherlands [50-75]% [50-75]% [50-75]%
+Norway [75-100]% [75-100]% [75-100]%
+Poland [50-75]% [50-75]% [50-75]%
+Portugal [75-100]% [75-100]% [75-100]%
+Romania [50-75]% [75-100]% [75-100]%
+Slovakia [50-75]% [50-75]% [50-75]%
+Slovenia [75-100]% [75-100]% [50-75]%
+Spain [50-75]% [50-75]% [50-75]%
+Sweden [75-100]% [75-100]% [50-75]%
 
-                   Austria         [75-100]%        [75-100]%        [75-100]%
-               Belgium        [75-100]%        [75-100]%        [75-100]%
-                  Bulgaria         [50-75]%         [50-75]%         [50-75]%
-                   Croatia         [50-75]%        [75-100]%        [75-100]%
-                 Cyprus          [0-10]%          [0-10]%          [0-10]%
-                 Czechia         [50-75]%         [50-75]%         [50-75]%
-              Denmark        [75-100]%        [75-100]%        [75-100]%
-                   Estonia         [50-75]%         [50-75]%         [50-75]%
-                  Finland        [75-100]%        [75-100]%        [75-100]%
-                  France         [50-75]%         [50-75]%         [50-75]%
-              Germany        [50-75]%         [50-75]%         [50-75]%
-                Greece         [75-100]%        [75-100]%        [75-100]%
-              Hungary        [75-100]%        [75-100]%        [75-100]%
-                   Iceland         [75-100]%        [75-100]%        [75-100]%
-                   Ireland         [50-75]%         [50-75]%         [50-75]%
-                       Italy          [75-100]%        [75-100]%        [75-100]%
-                  Latvia          [30-50]%         [50-75]%         [50-75]%
-                Liechtenstein       [30-50]%         [50-75]%         [50-75]%
-                  Lithuania        [30-50]%         [20-30]%         [20-30]%
-             Luxembourg       [50-75]%         [30-50]%         [30-50]%
-                 Malta          [50-75]%         [50-75]%         [50-75]%
-                Netherlands       [50-75]%         [50-75]%         [50-75]%
-              Norway        [75-100]%        [75-100]%        [75-100]%
-                 Poland         [50-75]%         [50-75]%         [50-75]%
-                  Portugal        [75-100]%        [75-100]%        [75-100]%
-               Romania        [50-75]%        [75-100]%        [75-100]%
-                  Slovakia         [50-75]%         [50-75]%         [50-75]%
-                  Slovenia        [75-100]%        [75-100]%         [50-75]%
-                  Spain          [50-75]%         [50-75]%         [50-75]%
+Source: Commission computation
 
-               Sweden        [75-100]%        [75-100]%        [50-75]%
+54
 
-                                 Source: Commission computation
-
-
-
-
-
-                                     54
 
 [PÁGINA PDF 57 | texto OCR: verificar contra el PDF]
 Table 10: Meta (formerly Facebook)’s market shares in online display advertising on desktop
-                                       (2018-2020)
+(2018-2020)
 
-                  EEA  Country                Market share
-                                  2018           2019           2020
+EEA Country Market share
+2018 2019 2020
 
-                      Austria        [30-50]%        [30-50]%        [30-50]%
-                   Belgium        [50-75]%        [30-50]%        [30-50]%
-                     Bulgaria        [30-50]%        [30-50]%        [20-30]%
-                      Croatia        [30-50]%        [30-50]%        [30-50]%
-                    Cyprus         [0-10]%         [0-10]%         [0-10]%
-                    Czechia        [30-50]%        [30-50]%        [30-50]%
-                 Denmark        [30-50]%        [30-50]%        [30-50]%
-                      Estonia        [50-75]%        [50-75]%        [30-50]%
-                     Finland        [30-50]%        [30-50]%        [30-50]%
-                     France         [30-50]%        [20-30]%        [20-30]%
-                Germany        [10-20]%        [10-20]%        [10-20]%
+Austria [30-50]% [30-50]% [30-50]%
+Belgium [50-75]% [30-50]% [30-50]%
+Bulgaria [30-50]% [30-50]% [20-30]%
+Croatia [30-50]% [30-50]% [30-50]%
+Cyprus [0-10]% [0-10]% [0-10]%
+Czechia [30-50]% [30-50]% [30-50]%
+Denmark [30-50]% [30-50]% [30-50]%
+Estonia [50-75]% [50-75]% [30-50]%
+Finland [30-50]% [30-50]% [30-50]%
+France [30-50]% [20-30]% [20-30]%
+Germany [10-20]% [10-20]% [10-20]%
+Greece [50-75]% [50-75]% [30-50]%
+Hungary [50-75]% [30-50]% [30-50]%
+Iceland [30-50]% [30-50]% [20-30]%
+Ireland [10-20]% [0-10]% [0-10]%
+Italy [20-30]% [20-30]% [10-20]%
+Latvia [20-30]% [20-30]% [10-20]%
+Liechtenstein [0-10]% [0-10]% [0-10]%
+Lithuania [30-50]% [30-50]% [20-30]%
+Luxembourg [30-50]% [20-30]% [20-30]%
+Malta [30-50]% [30-50]% [20-30]%
+Netherlands [10-20]% [10-20]% [10-20]%
+Norway [30-50]% [30-50]% [30-50]%
+Poland [30-50]% [20-30]% [20-30]%
+Portugal [30-50]% [30-50]% [30-50]%
+Romania [30-50]% [30-50]% [30-50]%
+Slovakia [30-50]% [30-50]% [30-50]%
+Slovenia [50-75]% [50-75]% [50-75]%
+Spain [10-20]% [10-20]% [10-20]%
+Sweden [20-30]% [20-30]% [20-30]%
 
-                    Greece         [50-75]%        [50-75]%        [30-50]%
-                  Hungary        [50-75]%        [30-50]%        [30-50]%
-                      Iceland        [30-50]%        [30-50]%        [20-30]%
-                       Ireland         [10-20]%        [0-10]%         [0-10]%
+Source: Commission computation
 
-                           Italy          [20-30]%        [20-30]%        [10-20]%
-                     Latvia         [20-30]%        [20-30]%        [10-20]%
-                    Liechtenstein      [0-10]%         [0-10]%         [0-10]%
-                     Lithuania        [30-50]%        [30-50]%        [20-30]%
-                Luxembourg      [30-50]%        [20-30]%        [20-30]%
-                     Malta         [30-50]%        [30-50]%        [20-30]%
-                   Netherlands       [10-20]%        [10-20]%        [10-20]%
-                 Norway        [30-50]%        [30-50]%        [30-50]%
-                    Poland         [30-50]%        [20-30]%        [20-30]%
-                      Portugal        [30-50]%        [30-50]%        [30-50]%
-                  Romania        [30-50]%        [30-50]%        [30-50]%
-                     Slovakia        [30-50]%        [30-50]%        [30-50]%
-                     Slovenia        [50-75]%        [50-75]%        [50-75]%
-                      Spain         [10-20]%        [10-20]%        [10-20]%
+55
 
-                  Sweden        [20-30]%        [20-30]%        [20-30]%
-
-                                   Source: Commission computation
-
-
-
-
-
-                                        55
 
 [PÁGINA PDF 58 | texto OCR: verificar contra el PDF]
 Table 11: Meta (formerly Facebook)’s market shares in online display advertising on mobile
-                                      (2018-2020)
+(2018-2020)
 
-          EEA Country                  Market share
-                                2018            2019            2020
+EEA Country Market share
+2018 2019 2020
+Austria [75-100]% [50-75]% [50-75]%
+Belgium [75-100]% [75-100]% [75-100]%
+Bulgaria [50-75]% [50-75]% [30-50]%
+Croatia [50-75]% [50-75]% [50-75]%
+Cyprus [0-10]% [0-10]% [0-10]%
+Czechia [50-75]% [50-75]% [50-75]%
+Denmark [50-75]% [50-75]% [50-75]%
+Estonia [50-75]% [50-75]% [30-50]%
+Finland [50-75]% [50-75]% [50-75]%
+France [50-75]% [S0-75]% [50-75]%
+Germany [50-75]% [50-75]% [50-75]%
+Greece [75-100]% [50-75]% [75-100]%
+Hungary [75-100]% [75-100]% [75-100]%
+Iceland [75-100]% [75-100]% [75-100]%
+Ireland [30-50]% [30-50]% [30-50]%
+Italy [50-75]% [50-75]% [50-75]%
+Latvia [20-30]% [20-30]% [20-30]%
+Liechtenstein [30-50]% [20-30]% [20-30]%
+Lithuania [30-50]% [20-30]% [20-30]%
+Luxembourg [30-50]% [20-30]% [20-30]%
+Malta [20-30]% [20-30]% [10-20]%
+Netherlands [50-75]% [30-50]% [50-75]%
+Norway [75-100]% [50-75]% [50-75]%
+Poland [50-75]% [50-75]% [50-75]%
+Portugal [50-75]% [50-75]% [50-75]%
+Romania [50-75]% [50-75]% [75-100]%
+Slovakia [50-75]% [50-75]% [50-75]%
+Slovenia [75-100]% [75-100]% [50-75]%
+Spain [50-75]% [50-75]% [50-75]%
+Sweden [50-75]% [50-75]% [50-75]%
 
-                    Austria         [75-100]%         [50-75]%         [50-75]%
-                Belgium        [75-100]%        [75-100]%        [75-100]%
-                   Bulgaria         [50-75]%         [50-75]%         [30-50]%
-                    Croatia         [50-75]%         [50-75]%         [50-75]%
-                 Cyprus          [0-10]%          [0-10]%          [0-10]%
-                  Czechia         [50-75]%         [50-75]%         [50-75]%
-               Denmark        [50-75]%         [50-75]%         [50-75]%
-                    Estonia         [50-75]%         [50-75]%         [30-50]%
-                   Finland         [50-75]%         [50-75]%         [50-75]%
-                  France         [50-75]%         [50-75]%         [50-75]%
-               Germany        [50-75]%         [50-75]%         [50-75]%
-                 Greece         [75-100]%         [50-75]%         [75-100]%
-               Hungary        [75-100]%        [75-100]%        [75-100]%
-                    Iceland         [75-100]%        [75-100]%        [75-100]%
-                    Ireland         [30-50]%         [30-50]%         [30-50]%
-                        Italy          [50-75]%         [50-75]%         [50-75]%
-                   Latvia          [20-30]%         [20-30]%         [20-30]%
-                 Liechtenstein      [30-50]%         [20-30]%         [20-30]%
-                   Lithuania        [30-50]%         [20-30]%         [20-30]%
-              Luxembourg       [30-50]%         [20-30]%         [20-30]%
-                  Malta          [20-30]%         [20-30]%         [10-20]%
-                 Netherlands       [50-75]%         [30-50]%         [50-75]%
-               Norway        [75-100]%         [50-75]%         [50-75]%
-                  Poland         [50-75]%         [50-75]%         [50-75]%
-                   Portugal         [50-75]%         [50-75]%         [50-75]%
-                Romania        [50-75]%         [50-75]%         [75-100]%
-                  Slovakia         [50-75]%         [50-75]%         [50-75]%
-                   Slovenia        [75-100]%        [75-100]%         [50-75]%
-                   Spain          [50-75]%         [50-75]%         [50-75]%
+Source: Commission computation
 
-                Sweden         [50-75]%         [50-75]%         [50-75]%
+56
 
-                                  Source: Commission computation
-
-
-
-
-
-                                     56
 
 [PÁGINA PDF 59]
 (183)  As illustrated in the above Tables, in 2020 Meta (formerly Facebook)’s market
@@ -4302,70 +4333,82 @@ Table 11: Meta (formerly Facebook)’s market shares in online display advertisi
                                      76
 
 [PÁGINA PDF 79 | texto OCR: verificar contra el PDF]
-        or (11) the industry sector of the business customer, because OTT B2C messaging
-        channels would remain an equally important mput  irrespective of such  further
-         segmentation. This conclusion also remains the same irrespective of whether the
-         relevant upstream and downstream markets (and potential segments of such markets)
-         are defined as EEA-wide or worldwide in geographic scope.
+(a.ii)
 
-(aii)  | Meta (formerly Facebook) holds market power on the upstream market for OTT B2C
-        messaging
+(257)
 
-(257)   High and increasing market shared andpenetration rates. In the upstream market for
-      OTT B2C messaging services, Meta (formerly Facebook) has a share exceeding
-        [40-50%] both worldwide and in the EEA, and [...], as follows from Table 5 above.
+(258)
 
-(258)    Further, Meta  (formerly Facebook)’s messaging channels have very high EEA
-         penetration rates (c. [40-50%] for Messenger and Instagram, and over [50-60%] for
-       WhatsApp), and the penetration rate has also been increasing steadily year-on-year
-       between 2018 and 2020 across each of Meta (formerly Facebook)’s channels, as can
-        be seen from Table 12 below. In several individual Member States, the penetration
-          rates  are  significantly  higher, exceeding [70-80%]  or even [90-100%]  in some
-          cases.°**  Indeed,  market  participants  confirmed  that  the  importance  of Meta
-         (formerly Facebook)’s channels  for B2C communications  is linked to their high
-        market  penetration  rates.*??  In  this  regard,  a  leading CRM  software  provider
-         indicated  that “Zhe  importance  of Facebook messaging  channels  (Messenger,
-        WhatsApp, Instagram) depends on how widely they are used. In geographies where
-        one or more of these channels are used more widely,  it is more important to offer
-        such channels to customer service and support CRM customers.”*°® Google similarly
-        expressed the view, contrary to what is argued in the SO Response, that “having a
-         large user base in Person-to-Person (‘P2P’) messaging can help create an audience
-          in B2C messaging."
+or (iii) the industry sector of the business customer, because OTT B2C messaging
+channels would remain an equally important input wrespective of such further
+segmentation. This conclusion also remains the same urespective of whether the
+relevant upstream and downstream markets (and potential segments of such markets)
+are defined as EEA-wide or worldwide in geographic scope.
 
-     Table 12 — EEA Penetration Rate of Meta (formerly Facebook)’s Messaging Channels
-                                        (2018-2020)
+Meta (formerly Facebook) holds market power on the upstream market for OTT B2C
+messaging
 
-       Channel            2018               2019               2020
+High and increasing market shared and penetration rates. In the upstream market for
+OTT B2C messaging services, Meta (formerly Facebook) has a share exceeding
+[40-50%] both worldwide and in the EEA, and [...], as follows from Table 5 above.
 
-       WhatsApp           [40-50%]            [50-60%]            [50-60%]
+Further, Meta (formerly Facebook)’s messaging channels have very high EEA
+penetration rates (c. [40-50%] for Messenger and Instagram, and over [50-60%] for
+WhatsApp), and the penetration rate has also been increasing steadily year-on-year
+between 2018 and 2020 across each of Meta (formerly Facebook)’s channels, as can
+be seen from Table 12 below. In several individual Member States, the penetration
+rates are significantly higher, exceeding [70-80%] or even [90-100%] in some
+cases.°** Indeed, market participants confirmed that the importance of Meta
+(formerly Facebook)’s channels for B2C communications is linked to their high
+market penetration rates.**° In this regard, a leading CRM software provider
+indicated that “Zhe importance of Facebook messaging channels (Messenger,
+WhatsApp, Instagram) depends on how widely they are used. In geographies where
+one or more of these channels are used more widely, it is more important to offer
+such channels to customer service and support CRM customers.”*** Google similarly
+expressed the view, contrary to what is argued in the SO Response, that “having a
+large user base in Person-to-Person (‘P2P’) messaging can help create an audience
+in B2C messaging.”>*"
 
-        Instagram            [30-40%]            [30-40%]            [40-50%]
+Table 12 — EEA Penetration Rate of Meta (formerly Facebook)’s Messaging Channels
 
-        Messenger           [30-40%]            [30-40%]            [30-40%]
+(2018-2020)
 
-Source: Form CO, Annex 26 - Annex RFI.6.004. Note: Thefigures are percentages ofthe total EEA populations,
-                                    includingpeople aged below 18.
+Channel 2018 2019 2020
 
-(259)    Asaresult of their high (and increasing) market penetration rates across the EEA as
-          set out in Table 12 above, Meta (formerly Facebook)’s messaging channels therefore
-         benefit from strong network  effects, which, even  if primarily reflective of P2P
-       communication  trends  as  the Notifying Party  argues,  nonetheless  contribute  to
-         barriers to entry and expansion for competing OTT B2C messaging channels. As
+WhatsApp [40-50%] [50-60%] [50-60%]
+Instagram [30-40%] [30-40%] [40-50%]
+Messenger [30-40%] [30-40%] [30-40%]
 
+Source: Form CO, Annex 26 - Annex RFI.6.004. Note: The figures are percentages of the total EEA populations,
 
+(259)
 
-394     Form CO, Annex 26, RFI.6.004, Tab Q22. In multiple Member States, the penetration rate of Meta
-         (formerly  Facebook)’s  messaging  channels  is  (materially)  above 70%  (e.g.,  the  penetration of
-       WhatsApp in the Netherlands is over 90%).
-395      Replies to questionnaire 1 to CRM software providers, question 50.2.
-396      Reply to questionnaire 1 to CRM software providers, question 50.2.1 (ID: 846).
-397     Agreed minutes of the call of 20 September 2021 with Google, paragraph 15 (ID: 2127).
+including people aged below 18.
 
+As a result of their high (and increasing) market penetration rates across the EEA as
+set out in Table 12 above, Meta (formerly Facebook)’s messaging channels therefore
+benefit from strong network effects, which, even if primarily reflective of P2P
+communication trends as the Notifying Party argues, nonetheless contribute to
+barriers to entry and expansion for competing OTT B2C messaging channels. As
 
+394
 
+395
+396
+397
 
+Form CO, Annex 26, RFI.6.004, Tab Q22. In multiple Member States, the penetration rate of Meta
+(formerly Facebook)’s messaging channels is (materially) above 70% (e.g., the penetration of
+WhatsApp in the Netherlands is over 90%).
 
-                                         77
+Replies to questionnaire 1 to CRM software providers, question 50.2.
+
+Reply to questionnaire 1 to CRM software providers, question 50.2.1 (ID: 846).
+
+Agreed minutes of the call of 20 September 2021 with Google, paragraph 15 (ID: 2127).
+
+77
+
 
 [PÁGINA PDF 80]
          stated by one respondent to the market investigation, “WhatsApp and Facebook are
@@ -5639,155 +5682,106 @@ B. Additional data for online ads purposes
                                      99
 
 [PÁGINA PDF 102 | texto OCR: verificar contra el PDF]
-   e      @Qvvre Stidham                                                              a                      r               P-
- o  e )                                    a  AnnieB. Stidham              Z
+z22-acme-pete.kustomeraop.com
 
-                                                                                                                                                                                                                              8. Stidham         ®) ®     ia                                                                                                                                                                                                                   |     Name              Annie
+a Annie B. Stidham : ”
+& ’ ea Annie B. Stidham ,
 
+Name Annie B. Sidham
+# External id
+tmait a mre@example.com
+[7 Dene Phane +1564888 7878
+o =) Live Chat Created Dee 12, 2019 11:90 AM
+Last Activity Dec 27, 2099 2:20 PM
+a
+Total Conversations 7
+one
+° NS TimeZone
+Avg Sat Score
+é .
+Segment Gold
+£
+;
+ho =
+£ 7
+ae |
+0%
+Sie) vex Toon
 
+Source: Kustomer Timeline, Omnichannel Customer Service Product Overview video.*!”
 
+(333) Currently, Kustomer’s CRM software allows for the integration of the following
+B2C communication channels:
 
+= B2C Communication channel Provider
+1 Voice Amazon Web Services —
+(not including traditional telecommunication Amazon Connect
+ror" pee but rather voice over IP Aircall
+Dialpad
+Five9
+Genesys
+Masvoz
+Talkdesk
+Ujet
+8x8
+2 Email Google - Gmail
+Wildbit - Postmark
+317 Kustomer Timeline, Omnichannel Customer Service Product Overview video, available at:
 
-                                                                                               z                                                                                    y
+https://www.kustomer.com/demo-videos/, last accessed on 21 July 2021.
 
+100
 
-
-
-
-     °°          aiubeuk  iheneapan
-
-
-                                                                                                     é
-
-
-
-
-           Source: Kustomer Timeline, Omnichannel Customer Service Product Overview video.*!”
-
-(333)    Currently, Kustomer’s CRM software allows for the integration of the following
-      B2C communication channels:
-
-
-        #    B2C Communication channel                 Provider
-
-               1      Voice                                 Amazon  Web   Services  —
-                  (not  including  traditional  telecommunication  Amazon Connect
-               network providers  but  rather  voice  over IP  Aircall
-              (“VOIP”) solutions)
-
-                                                             Dialpad
-
-
-                                                              Five9
-
-
-                                                          Genesys
-
-
-                                                     Masvoz
-
-
-                                                            Talkdesk
-
-
-                                                                 Ujet
-
-
-                                                           8x8
-
-         2      Email                                      Google - Gmail
-
-
-                                                               Wildbit - Postmark
-
-
-
-
-
-a7     Kustomer  Timeline,  Omnichannel  Customer  Service  Product  Overview  video,  available   at:
-        https://www.kustomer.com/demo-videos/, last accessed on 21 July 2021.
-
-
-
-
-
-                                        100
 
 [PÁGINA PDF 103 | texto OCR: verificar contra el PDF]
-        a    B2C Communication channel                 Provider
+(334)
 
+(335)
 
-          3      Chat                                        Kustomer’s webchat
+# B2C Communication channel Provider
 
+3 Chat Kustomer’s webchat
+Olark
+Solvvy
+UJET
+4 SMS Messagebird
+Twilio
+Zipwhip
+5 Messenger Facebook — Messenger
+6 WhatsApp Messagebird
+Twilio
+7 Instagram comments Facebook — Instagram
+8 Instagram direct messages
+9 Twitter tweets Twitter
 
-                                                            Olark
+10 Twitter direct messages
+11 Form messages Kustomer’s Form messages
 
+Source: Form CO, Table 2.2.
 
-                                                            Solvvy
+The second type of data that Meta (formerly Facebook) identified as data it would
+obtain through Kustomer, “Other Event Data”, relates to other data on customer
+actions falling short of purchases (sometimes referred to as “mid-funnel” events).
+This includes website views, adds to cart, adds to wish-list, store visits, app
+downloads, or other “custom events” that a business may decide to record and share.
 
+As regards this Other Event Data that a business may decide to share with Kustomer,
+the Notifying Party clarified that Kustomer’s CRM software allows businesses to
+upload data in relation to their end customers, including data in relation to
+incomplete transactions so that it appears in their Kustomer CRM software interface.
+This is achieved through incorporating a snippet of code on the business’ website.?!®
+The data will be integrated into the relevant business’ account as custom object data.
+Moreover, according to a training video demonstrating Kustomer’s CRM software,
+what makes Kustomer "wzigue” is that it is able to bring into its CRM software data
+from other systems, such as, for example, e-commerce platforms (such as Shopify), a
 
-                                               UJET
+518
 
+Form CO, footnote 226. According to the Notifying Party, currently only around [Customer
+Information] of customers of Kustomer actually made use of this function
 
-        4    SMS                                         Messagebird
+101
 
-
-                                                               Twilio
-
-
-                                                         Zipwhip
-
-           5      Messenger                                 Facebook — Messenger
-
-         6     WhatsApp                                   Messagebird
-
-
-                                                               Twilio
-
-
-         7      Instagram comments                         Facebook — Instagram
-
-          8      Instagram direct messages
-
-
-        9      Twitter tweets                                    Twitter
-
-
-         10     Twitter direct messages
-
-          11    Form messages                               Kustomer’s Form messages
-
-
-                                       Source: Form CO, Table 2.2.
-
-(334)   The second type of data that Meta (formerly Facebook) identified as data  it would
-         obtain through Kustomer, “Other Event Data”, relates to other data on customer
-         actions falling short of purchases (sometimes referred to as “mid-funnel” events).
-        This  includes website  views, adds  to  cart, adds  to  wish-list,  store  visits, app
-        downloads, or other “custom events” that a business may decide to record and share.
-
-(335)   As regards this Other Event Data that a business may decide to share with Kustomer,
-         the Notifying Party clarified that Kustomer’s CRM software allows businesses to
-        upload  data  in  relation  to  their end  customers,  including  data  in  relation  to
-        incomplete transactions so that it appears in their Kustomer CRM software interface.
-        This is achieved through incorporating a snippet of code on the business’ website.°!®
-       The data will be integrated into the relevant business’ account as custom object data.
-        Moreover, according to a training video demonstrating Kustomer’s CRM software,
-       what makes Kustomer "wnique” is that it is able to bring into its CRM software data
-        from other systems, such as, for example, e-commerce platforms (such as Shopify), a
-
-
-
-
-
-318     Form CO,  footnote  226.  According  to  the  Notifying  Party,  currently  only around  [Customer
-         Information] of customers of Kustomer actually made use of this function
-
-
-
-
-
-                                           101
 
 [PÁGINA PDF 104]
          business’ back-end system, and through widgets that are included in for example e-
@@ -10939,119 +10933,126 @@ Commission
                duration.
 
 [PÁGINA PDF 199 | texto OCR: verificar contra el PDF]
-  Annex 3 - Core B2C Messaging Channel API Functionalities as at the Effective Date,
-  including of all B2C Messaging Channel APIs integrated by the Kustomer Service as at
-                                   the Effective Date
+Annex 3 - Core B2C Messaging Channel API Functionalities as at the Effective Date,
 
-
-
+including of all B2C Messaging Channel APIs integrated by the Kustomer Service as at
+the Effective Date
 
 Table 1: B2C Messaging Channel API functionalities on Messenger Platform (direct
 access)
 
+API Functionality
+
+Handover Protocol V2 e Pass control of a conversation between multiple
+apps
+
+Human Agent Tag e Send the HUMAN_AGENT message tag
+
+e Send a single message as a private reply to a public
+
+Private Replies .
+comment on the relevant business’s Facebook Page
+
+e Be notified of interactions or events, including when
+a B2C Messaging Channel User sends or reads a
+message, replies and reacts
+
+Receive API (webhooks)
+
+e Send text-based messages up to a maximum of
+
+Send API 2000 characters
+
+e Send image attachments up to 25MB in size and a
+maximum resolution of 85 megapixels
+
+e Send audio attachments up to 25MB in size
+
+e Send video attachments up to 25MB in size
+
+e Send file attachments up to 25MB in size
+
+User Profile API e Retrieve the profile name and picture of a B2C
+Messaging Channel User
 
 
-
-
- Handover Protocol V2                e  Pass control of  a conversation between multiple
-
-                                   apps
-
-
-
- Human Agent Tag                    e  Send the HUMAN_AGENT message tag
-
-
- Private Replies                       e  Send a single message as a private reply to a public
-                                comment on the relevant business’s Facebook Page
-
-
- Receive API (webhooks)             e  Be notified of interactions or events, including when
-                                       a B2C Messaging Channel User sends or reads a
-                                    message, replies and reacts
-
-
-                                       e  Send text-based messages up to a maximum of
- Send API                          2000 characters
-
-                                       e  Send image attachments up to 25MB in size and a
-                               maximum resolution of 85 megapixels
-                                       e  Send audio attachments up to 25MB in size
-                                       e  Send video attachments up to 25MB in size
-                                       e  Send file attachments up to 25MB in size
-
-
- User Profile API                      e   Retrieve the profile name and picture of   a B2C
-                                    Messaging Channel User
 
 [PÁGINA PDF 200 | texto OCR: verificar contra el PDF]
 Table 2: B2C Messaging Channel API functionalities on Instagram Messaging (direct
+
 access)
+API Functionality
+Human Agent Tag e Send the HUMAN_AGENT message tag
+
+Private Replies
+
+e Send a single message as a private reply to a public
+comment on the relevant business’s Instagram post
+
+Reaction webhook
+
+e Benotified of when a B2C Messaging Channel User
+reacts to a message
+
+Read webhook
+
+e Benotified of when a B2C Messaging Channel User
+reads a message
+
+Receive API (webhooks)
+
+e Be notified of interactions or events, including when
+a B2C Messaging Channel User sends or replies to
+a message
+
+Send API
+
+e Send text-based messages up to a maximum of
+2000 characters
+
+e Send jpg, png, ico and bmp image attachments up to
+8MB in size
+
+e Media share (image and video)
+
+e Send love reactions
+
+Story Mentions
+
+e Benotified of when a B2C Messaging Channel User
+mentions the business in a story
+
+User Profile API
+
+e Retrieve the profile name and picture of a B2C
+Messaging Channel User
 
 
-
-
-
- Human Agent Tag                    e  Send the HUMAN_AGENT message tag
-
- Private Replies                       e  Send a single message as a private reply to a public
-                                comment on the relevant business’s Instagram post
-
-
- Reaction webhook                   e   Benotified of when a B2C Messaging Channel User
-                                          reacts to    a message
-
- Read webhook                       e   Benotified of when a B2C Messaging Channel User
-                                       reads a message
-
- Receive API (webhooks)             e  Be notified of interactions or events, including when
-                                       a B2C Messaging Channel User sends or replies to
-
-                                       a message
-
- Send API                             e  Send text-based messages up to a maximum of
-                                   2000 characters
-                                       e  Send jpg, png, ico and bmp image attachments up to
-                             8MB in size
-                                       e  Media share (image and video)
-                                       e  Send love reactions
-
-
- Story Mentions                       e   Benotified of when a B2C Messaging Channel User
-                                      mentions the business in a story
-
- User Profile API                      e   Retrieve the profile name and picture of   a B2C
-                                    Messaging Channel User
 
 [PÁGINA PDF 201 | texto OCR: verificar contra el PDF]
 Table 3: B2C Messaging Channel API functionalities on WhatsApp Business Platform
 (indirectly accessed by Kustomer via a third party CPaaS provider)
 
+Functionality
 
- Functionality
+Be notified of an incoming message, including the profile name and WhatsApp ID of the B2C
+Messaging Channel User
 
+Send audio media messages up to 16MB in size
 
- Be notified of an incoming message, including the profile name and WhatsApp ID of the B2C
- Messaging Channel User
+Send document media messages up to 100MB in size
 
+Send H.264 video codec and AAC audio codec video media messages with a single audio
+stream, up to 16MB in size
 
- Send audio media messages up to 16MB in size
+Send jpeg and png image media messages up to 5MB in size
 
- Send document media messages up to 100MB in size
+Send text-based messages to a maximum of characters set by the relevant CPaaS provider
 
-
- Send H.264 video codec and AAC audio codec video media messages with a single audio
- stream, up to 16MB in size
-
-
- Send jpeg and png image media messages up to 5MB in size
-
-
- Send text-based messages to a maximum of characters set by the relevant CPaaS provider
+Send text-based messages with URL link to a maximum of characters set by the relevant
+CPaaS provider
 
 
- Send text-based messages with URL link to   a maximum of characters set by the relevant
- CPaasS provider
 
 [PÁGINA PDF 202]
  Annex 4 - B2C Messaging Channel API functionalities and improvements accessed by

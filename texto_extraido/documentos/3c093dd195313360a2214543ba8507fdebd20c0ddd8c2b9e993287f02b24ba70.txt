@@ -1027,233 +1027,247 @@ Source: Form CO, Figure 6.
                                                      18
 
 [PÁGINA PDF 20 | texto OCR: verificar contra el PDF]
-     Table  1: Market shares (volume) (*)  in the supply of LNG main refrigerant
-     compressor trains (all drivers) worldwide
+Table 1: Market shares (volume) (*) in the supply of LNG main refrigerant
+compressor trains (all drivers) worldwide
+2022 2023 2024 2025 2016-2025
+aS Volume Share Volume Share Volume Share Volume Share Volume Share
+(units) | (%) (units) | (%) (units) | (%) (units) | (%) (units) | (%)
+parte Fo TT os Le | oa Le] oa |S] ca BR,
+ae - - [...] | fo-sjo| - - [...] dos [...] | [o-s]%
+MHI - - - - - - - - 4 [0-5]%
+Other - - [...] | [0-5]% - - - - 4 [0-5]%
+Market size [...] 100% | [...] }| 100% | [...] | 100%] [...] | 100% | [...] | 100%
+
+Source: Form CO, Annex 195.
+
+(98)
+
+(99)
+
+(100)
+
+The market shares of BH and its competitors would not differ materially if
+separate product markets were considered by train capacity or driver technology.
+In almost all potential segments, (*°) BH’s aggregate market share in the past 10
+years is consistently above [90-100]%, with the remaining market share being
+split between Siemens Energy and Mitsubishi Heavy Industries (‘MHI’), and
+occasionally smaller players, like Solar. The only exceptions are the segment for
+large, electric motor-driven LNG compressor trains, where Siemens Energy’s
+share is [20-30]%, attributable to two units supplied in 2021, while BH retains the
+remaining [70-80]%, and small LNG compressor trains where BH is not active.
+
+On the basis of the above, and for the reasons further detailed in Section 6.2.4.1.3
+below, the Commission notes that BH holds a dominant position across LNG
+compressor trains worldwide. (°’)
+
+In the competitive assessment that follows, the Commission will refer to BH’s
+overall position in the supply of LNG compressor trains, noting that the same
+conclusions would apply (except for small LNG compressor trains, as explained
+in footnote 85 above) if each potential LNG compressor train segment were
+considered separately.
+
+@)
+
+os)
+
+@)
+
+The Commission considers in the present case that volume-based market shares are a more
+appropriate metric compared to value-based market shares, since third-party prices for compressor
+trains are not publicly available (see Form CO, paragraph 266). In any case, market shares in terms
+of volume and value do not differ materially (see Form CO, Annex 195).
+
+The potential subsegments include: (i) large LNG main refrigerant compressor trains (>=2 MTPA)
+(BH’s share:[90-100]%), which can be further subsegmented depending on driver technology into
+gas turbine-driven (BH’s share: [90-100]%) and electric-motor driven (BH’s share: [70-80]%); (ii)
+medium LNG main refrigerant compressor trains (0.5-2 MTPA) (BH’s share: [90-100]%), which
+can be further subsegmented depending on driver technology into gas turbine-driven (BH’s share:
+[90-100]%) and electric-motor driven (BH’s share: [90-100]%); and small LNG main refrigerant
+compressor trains (<0.5 MTPA), where BH is not active.
+
+The fact that BH is not active in small-scale LNG compressor trains does not detract from the fact
+that it is dominant in the supply of LNG compressor trains. As explained in footnote 84 above, in
+the past 10 years small-scale LNG main refrigerant compressor trains represented a de minimis
+share of the overall market.
+
+19
 
 
-
-
-              Volume | Share | Volume | Share | Volume | Share | Volume |} Share | Volume | Share
-                     (units)    (%)      (units)  | (%)      (units)  | (%)      (units)  | (%)      (units)  | (%)
-
- Baker Hughes                   [90-       [..]       [90-                 [90-                 [80-                 [90-
-                          100]%   —     100]%            100]%           90]%            100]%
-
-
- Siemens                                                                                      [10-
-
-ES ec)
-mpmwa         fea fom  fo      Source: |Form 1CO, [oweAnnex 195.[tr [om [a  [ows ft   [owe |  [os
-
-       (98)    The market shares of BH and  its competitors would not differ materially  if
-               separate product markets were considered by train capacity or driver technology.
-               In almost all potential segments, (*°) BH’s aggregate market share in the past 10
-               years is consistently above [90-100]%, with the remaining market share being
-                  split between Siemens Energy and Mitsubishi Heavy Industries (‘MHI’), and
-               occasionally smaller players, like Solar. The only exceptions are the segment for
-                 large, electric motor-driven LNG compressor trains, where Siemens Energy’s
-               share is [20-30]%, attributable to two units supplied in 2021, while BH retains the
-              remaining [70-80]%, and small LNG compressor trains where BH is not active.
-
-       (99)   On the basis of the above, and for the reasons further detailed in Section 6.2.4.1.3
-              below, the   Commission notes that BH holds a dominant position across LNG
-             compressor trains worldwide. (°’)
-
-      (100)   In the competitive assessment that follows, the Commission will refer to BH’s
-                overall position in the supply of LNG compressor trains, noting that the same
-              conclusions would apply (except for small LNG compressor trains, as explained
-                in footnote 85 above) if each potential LNG compressor train segment were
-              considered separately.
-
-
-
-
-
-       (®)     The Commission considers  in the present case that volume-based market shares are a more
-                appropriate metric compared to value-based market shares, since third-party prices for compressor
-                   trains are not publicly available (see Form CO, paragraph 266). In any case, market shares in terms
-              of volume and value do not differ materially (see Form CO, Annex 195).
-          (°°)     The potential subsegments include: (i) large LNG main refrigerant compressor trains (>=2 MTPA)
-              (BH’s share:[90-100]%), which can be further subsegmented depending on driver technology into
-                gas turbine-driven (BH’s share: [90-100]%) and electric-motor driven (BH’s share: [70-80]%); (ii)
-            medium LNG main refrigerant compressor trains (0.5-2 MTPA) (BH’s share: [90-100]%), which
-              can be further subsegmented depending on driver technology into gas turbine-driven (BH’s share:
-               [90-100]%) and electric-motor driven (BH’s share: [90-100]%); and small LNG main refrigerant
-              compressor trains (<0.5 MTPA), where BH is not active.
-       (a)     The fact that BH is not active in small-scale LNG compressor trains does not detract from the fact
-                  that it is dominant in the supply of LNG compressor trains. As explained in footnote 84 above, in
-                 the past 10 years small-scale LNG main refrigerant compressor trains represented a de minimis
-                share of the overall market.
-
-
-                                                                      19
 
 [PÁGINA PDF 21 | texto OCR: verificar contra el PDF]
-       6.1.2.  LNG Process technology
+6.1.2.
+(101)
 
-      (101)   The Parties’ and their competitors’ market shares in licensing of LNG process
-              technology worldwide are set out in Table 2 below. (°°)
+LNG Process technology
 
-     Table 2: Market shares (based on liquefaction capacity) in the licensing of LNG
-     process technologies worldwide
+The Parties’ and their competitors’ market shares in licensing of LNG process
+technology worldwide are set out in Table 2 below. (**)
 
-serie | Share           Share           Share           Share           Share
- Chart                                 [70-                [10-                [10-                [40-                [20-
-               LT   |} goje | bl  | 20%           20]%        50% | bd  | 303%
+Table 2: Market shares (based on liquefaction capacity) in the licensing of LNG
+process technologies worldwide
 
- Honeywell (Air                      [10-   [J      [80-               [60-                 [50-     [.]      [60-
- Products)                     201%   a     90]%          70]%           601% |         70]%
+2022 2023 2024 2025 2021-2025
+- Share Share Share Share Share
+Supplier MTPA (%) MTPA (%) MTPA (%) MTPA (%) MTPA (%)
+Chart [70- [10- [10- [40- [20-
+[...] 80]% [...] 20]% [...] 201% [...] 50]% [...] 301%
+Honeywell (Air [..] [10- [.] [80- [..] [60- [..] [50- [..] [60-
+Products) ~ 20]% a 90]% — 70]% “ 60]% -_ 70]%
+Conoco Phillips [o-
+- - - - - - - - [...] 51%
+Black & Veatch [10- [20- [5- [5-
+[...] 201% - - [...] 30]% [...] 10]% [...] 10]%
+Aragon [0- [0-
+- - [...] 51% - - - - [...] 51%
+Market size [...] 100% [...] 100% [...] 100% [...] 100% [...] 100%
+
+Source: Form CO, Annex 195.
+
+(102)
+
+(103)
+
+6.1.3.
+(104)
+
+As discussed in paragraph (97) above, only a limited number of high-value LNG
+plant projects are awarded each year. The suppliers’ market shares can therefore
+present significant annual fluctuations, making longer timeframes more relevant
+for the assessment of a supplier’s market presence. As discussed in paragraph (18)
+above, Chart patented its IPSMR technology in 2016 and first licensed it in 2021.
+Table 2 therefore provides the suppliers’ aggregate position over the period of
+2021-2025.
+
+Two other relevant licensors of LNG process technologies, namely Linde and
+Shell, are not listed in Table 2 above, since they have not made any sales in the
+period 2021-2025. When considering a 10-year timeframe (2016-2025), Linde
+has a market share of [5-10]% and Shell has a market share of [5-10]%. (®)
+
+ING MCHE
+
+The market shares of Chart and its competitors in the supply of MCHE worldwide
+are presented in Table 3 below. As for compressor trains and process technology,
+market shares present significant annual fluctuations, making longer timeframes
+more relevant for the assessment of a supplier’s market presence. Over the last 3
+years, Chart (supplying BAHX) and Honeywell (supplying both BAHX and
+CWHE) have been the main suppliers, while looking at a longer timeframe, Linde
+
+@)
+
+BH also provides LNG process technologies as part of its prefabricated LNG modules, but it does
+not license a proprietary process technology as a standalone offering.
+See Form CO, Annex 195.
+
+20
 
 
- Conoco Phillips                                                                                                                 [0-
-                                                                                    [1]   Sy
-
- Black & Veatch             [..]      [10-                          [..]      [20-                  [S-         [...]       [S-                =     20]%             =     30]%           1oj% |         10]%
-
- Aragon                                                        [0-                                                              [0-
-      Source: Form CO, Annex 195.        Fe  foo  [i  [oe [aw
-
-      (102)   As discussed in paragraph (97) above, only a limited number of high-value LNG
-               plant projects are awarded each year. The suppliers’ market shares can therefore
-              present significant annual fluctuations, making longer timeframes more relevant
-               for the assessment of a supplier’s market presence. As discussed in paragraph (18)
-              above, Chart patented its IPSMR technology in 2016 and first licensed it in 2021.
-             Table 2 therefore provides the suppliers’ aggregate position over the period of
-             2021-2025.
-
-      (103)  Two other relevant licensors of LNG process technologies, namely Linde and
-                Shell, are not listed in Table 2 above, since they have not made any sales in the
-              period 2021-2025. When considering a 10-year timeframe (2016-2025), Linde
-              has a market share of [5-10]% and Shell has a market share of [5-10]%. (°°)
-
-
-       6.1.3.  LNG MCHE
-
-      (104)   The market shares ofChart and its competitors in the supply ofMCHE worldwide
-               are presented in Table 3 below. As for compressor trains and process technology,
-             market shares present significant annual fluctuations, making longer timeframes
-            more relevant for the assessment of a supplier’s market presence. Over the last 3
-                years, Chart (supplying BAHX) and Honeywell (supplying both BAHX and
-         CWHE) have been the main suppliers, while looking at a longer timeframe, Linde
-
-
-
-
-       (8)   BH also provides LNG process technologies as part of its prefabricated LNG modules, but it does
-               not license a proprietary process technology as a standalone offering.
-       (®)     See Form CO, Annex 195.
-
-                                                               20
 
 [PÁGINA PDF 22 | texto OCR: verificar contra el PDF]
-             and Alfa Laval (formerly known as Fives) were also significant suppliers. Other
-                suppliers of BAHX, include Sumitomo Precision Products and Kobe Steel.
+and Alfa Laval (formerly known as Fives) were also significant suppliers. Other
+suppliers of BAHX, include Sumitomo Precision Products and Kobe Steel.
 
-     Table 3: Market shares (based on liquefaction capacity) in the supply of MCHE
-     worldwide
+Table 3: Market shares (based on liquefaction capacity) in the supply of MCHE
 
-serie  arora |Share |avena |Share Jaren |Share farts |"Share  area |Share
- Chart                            [90-                 [10-                 [30-                 [60-                 [30-
-            Ll  | yooj |  Gl)  |  aojoe | be  | aoqee            70]%            40]%
+worldwide
+2022 2023 2024 2025 2016-2025
+- Share Share Share Share Share
+Supplier MTPA (%) MTPA (%) MTPA (%) MTPA (%) MTPA (%)
+Chart [90- [10- [30- [60- [30-
+| yooje | GT | aoje | GT | oye | be} poyon | | dogo
+Honeywell (Air [.] [10- [.] [80- [.] [60- [.] [30- [.] [50-
+Products) 20]% = 90]% 70]% 40]% 60]%
+Linde [10-
+- : - : - - - - L-] | s0}%
+Alfa Laval (ex- ° . . . 7 _<10
+Fives) ° . [...] | [0-5]% [...] | [0-5]%
+Market size [...] }| 100% | [...] | 100% | [...] | 100%] [...] | 100% | [...] | 100%
 
- Honeywell (Air       [...]       [10-       [..]       [80-       [..]       [60-                 [30-                 [50-
- Products)       _      20]%   “     90]%   —     70]%           40]%            60]%
+(105)  Ifseparate markets were considered for CWHE and BAHX, Chart’s market share
+in BAHX in the period of 2016-2025 would be [80-90]%, followed by Linde with
+[10-20]% and Alfa Laval with a share of below [0-5]%. Chart has no presence in
+CWHE, where Honeywell is the market leader with[80-90]%, followed by Linde
+with [10-20]%. (°°)
+
+(106) To better reflect the economic reality, not least because CWHE suppliers were
+among the market participants expressing concerns about post-Transaction being
+foreclosed by the merged entity as explained in Section 6.2.4 below, the
+Commission will on a conservative basis conduct its assessment considering a
+market for MCHE that comprises both CWHE and BAHX.
+
+6.1.4. Prefabricated modules for the liquefaction of natural gas
+
+(107) BH’s and its competitors’ market shares in prefabricated modules for the
+liquefaction of natural gas are set out in Table 4 below. As for the other relevant
+product markets, market shares for prefabricated modules fluctuate considerably
+from year to year. A longer timeframe is therefore more appropriate to identify
+representative market shares.
+
+(108) Over the last decade, BH has been the largest supplier of prefabricated modules,
+with an average market share of approximately [60-70]% (°!). Its closest
+competitors during the same relevant period, Black & Veatch ({10-20]%), Wison
+({10-20]%) and Technip ([5-10]%), held substantially lower market shares.
+
+(eo) Form CO, Annex 195.
+
+(?) The Notifying Party stated that, as of the date of notification (21 May 2026), it had supplied
+
+prefabricated module solutions only to [...]. See Form CO, para. 687.
+21
 
 
- Linde                                                                                                                [10-
-                                                                                       20]%
-
-we |    from   |  cr foo    |  cr foo    | cr foo    |  cr fo
-
-      (105)   Ifseparate markets were considered for  CWHE and BAHX, Chart’s market share
-                 in BAHX in the period of 2016-2025 would be [80-90]%, followed by Linde with
-             [10-20]% and Alfa Laval with a share of below [0-5]%. Chart has no presence in
-          CWHE, where Honeywell is the market leader with[80-90]%, followed by Linde
-              with [10-20]%. (°°)
-
-      (106)   To better reflect the economic reality, not least because CWHE suppliers were
-           among the market participants expressing concerns about post-Transaction being
-               foreclosed by the merged  entity  as explained  in  Section  6.2.4 below,  the
-            Commission will on a conservative basis conduct its assessment considering a
-             market for MCHE that comprises both  CWHE and BAHX.
-
-       6.1.4.   Prefabricated modulesfor the liquefaction ofnatural gas
-
-      (107)   BH’s and  its  competitors’  market  shares  in prefabricated modules  for the
-               liquefaction of natural gas are set out in Table 4 below. As for the other relevant
-              product markets, market shares for prefabricated modules fluctuate considerably
-             from year to year. A longer timeframe is therefore more appropriate to identify
-               representative market shares.
-
-      (108)   Over the last decade, BH has been the largest supplier of prefabricated modules,
-              with an average market  share  of approximately  [60-70]% (*!).  Its  closest
-              competitors during the same relevant period, Black & Veatch ({10-20]%), Wison
-              ({10-20]%) and Technip ([5-10]%), held substantially lower market shares.
-
-
-
-
-
-        (°°)    Form CO, Annex 195.
-     ()     The Notifying Party stated that, as of the date of notification (21 May 2026),  it had supplied
-                prefabricated module solutions only to [...]. See Form CO, para. 687.
-
-                                                                      21
 
 [PÁGINA PDF 23 | texto OCR: verificar contra el PDF]
-     Table  4:  Market  shares  (based  on  liquefaction  capacity)  in  the  supply  of
-      prefabricated modules for liquefaction of natural gas worldwide
+Table 4: Market shares (based on liquefaction capacity) in the supply of
+prefabricated modules for liquefaction of natural gas worldwide
 
-set  Juma    | Shareye |ovmenMTP  | Shareir  [arenMTP    | Sharere faerMTP    | Share| ama |Share
+2022 2023 2024 2025 2016-2025
+- Share Share Share Share Share
+Supplier MTPA (%) MTPA (%) MTPA (%) MTPA (%) MTPA (%)
+Baker Hughes [80- [60- [60-
+L.] 90]% ° . ° ° L..] 70]% L..] 70]%
+Black & Veatch [5- [50- [10- [10-
+[..J 10}% - LT | goyo | 1 | ojos | El] roy
+Wison [5- [40- [5- [10-
+[1 | yoyo | FA - [1] soo | LT | aoye | bd | 20%
+Technip ; ; [60- ; ; cy | BO} pg [5-
+70]% a 20]% “ 10]%
+Fluor - - [.-.] - - - - - [...] | [0-5]%
+Technomak [20- °
+- - [1 | so - - - - [..-.] | [0-5]%
+Market size [...] }| 100% | [...] | 100% | [...] | 100% | [...] | 100% | [...] | 100%
+6.2. Conglomerate foreclosure
+6.2.1. _ Overview of possible strategies
+(109) Based on its investigation, the Commission has found a risk of foreclosure of
+Chart’s competitors in the supply of LNG process technologies and LNG MCHE.
+(110) Such foreclosure could be achieved through the leveraging of BH’s dominant
+position in the supply of LNG main refrigerant compressor trains into each of the
+markets for LNG process technologies and LNG MCHE. Such leveraging could
 
- Baker Hughes                   [80-                                                           [60-                 [60-
-                        L.-]     90]%                                             70]%            70]%
+take the form of various behaviours, including:
 
- Black & Veatch    [.]         [S-                             [..]       [50-                 [10-                 [10-
-            =      10]%              =     60]%            20]%            20]%
+(a) making BH compressor trains available for sale only if purchased together
+with Chart’s LNG process technologies and/or Chart’s LNG MCHE; or
+reducing interoperability of BH’s compressor trains with third party
+equipment (tying);
 
- Wison                              [S-                                       [40-                    [S-                  [10-
-                  ET}    oye | be             Ll}   soy             10]%            20]%
+(b) offering BH’s compressor trains and Chart’s process technologies and
+MCHE in discounted packages (bundling);
 
- Technip                                             [60-                                      [10-                    [S-
-m=Technomak [|-|-pey-[---[-70]%[20-           | 20]%- [a fom10]%°
-ee [ia  pow   |  or fom Po  [ow fo  [wow fo
+(c) applying various other, non-price exclusionary tactics vis-a-vis Chart’s
+rivals in the markets for process technology, such as withholding or
+delaying key technical compressor train information needed for rivals’ bids,
+reducing performance guarantees for LNG plants utilising non-Chart
+products, or delaying compressor train delivery to LNG plant projects
+utilising non-Chart products).
 
+(111) As discussed in paragraph (90) above, in order to reflect economic realities, the
 
-       6.2.    Conglomerate foreclosure
+Commission will assess the potential foreclosure practices arising from the
+leveraging of BH’s position in the supply of compressor trains into the supply of
 
-       6.2.1.   Overview ofpossible strategies
-
-      (109)   Based on its investigation, the Commission has found a risk of foreclosure of
-               Chart’s competitors in the supply ofLNG process technologies and LNG MCHE.
-
-      (110)   Such foreclosure could be achieved through the leveraging of BH’s dominant
-               position in the supply ofLNG main refrigerant compressor trains into each of the
-              markets for LNG process technologies and LNG MCHE. Such leveraging could
-               take the form of various behaviours, including:
-
-                  (a)   making BH compressor trains available for sale only if purchased together
-                   with Chart’s LNG process technologies and/or Chart’s LNG MCHE; or
-                    reducing  interoperability of BH’s compressor  trains  with  third party
-                  equipment (tying);
-
-                 (b)   offering BH’s compressor trains and Chart’s process technologies and
-            MCHE in discounted packages (bundling);
-
-                  (c)   applying various  other, non-price exclusionary tactics vis-a-vis Chart’s
-                       rivals  in the markets  for process technology, such as withholding or
-                    delaying key technical compressor train information needed for rivals’ bids,
-                    reducing performance  guarantees  for LNG  plants  utilising non-Chart
-                     products, or delaying compressor train delivery  to LNG plant projects
-                        utilising non-Chart products).
-
-      (111)   As discussed in paragraph (90) above, in order to reflect economic realities, the
-            Commission will assess the potential foreclosure practices  arising from the
-               leveraging of BH’s position in the supply of compressor trains into the supply of
+22
 
 
-
-                                                                 22
 
 [PÁGINA PDF 24]
      MCHE and process technologies jointly. This approach is justified by the fact that

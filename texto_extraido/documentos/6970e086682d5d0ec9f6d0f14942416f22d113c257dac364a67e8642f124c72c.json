@@ -1,16 +1,17 @@
 {
   "version_esquema": 1,
-  "version_extractor": "1.1.0",
+  "version_extractor": "1.2.0",
   "configuracion": {
-    "version_extractor": "1.1.0",
+    "version_extractor": "1.2.0",
     "pymupdf": "2.0",
     "metodo": "get_text(text, sort=True)",
     "min_caracteres": 30,
     "ocr": true,
-    "ocr_dpi": 300
+    "ocr_dpi": 300,
+    "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
   },
   "sha256_pdf": "6970e086682d5d0ec9f6d0f14942416f22d113c257dac364a67e8642f124c72c",
-  "extraido_utc": "2026-10-22T19:44:47+00:00",
+  "extraido_utc": "2026-10-22T21:36:16+00:00",
   "metadatos_pdf": {
     "format": "PDF 1.7",
     "title": "",
@@ -252,9 +253,9 @@
       "pagina_pdf": 15,
       "etiqueta_pdf": null,
       "origen_texto": "ocr",
-      "texto": "         coordinating their behaviour, are now significantly more likely to coordinate and\n         raise prices or otherwise harm effective competition. (’*) The Horizontal Merger\n        Guidelines identify four cumulative conditions to establish the likely emergence\n       and sustainability of coordinated conduct:  (a) firms have the ability to agree\n          tacitly on the terms of coordination, (b) there is sufficient transparency to monitor\n        any deviations;  (c) there are deterrence mechanisms and (d) outsider reactions\n        cannot undermine the coordinated outcome. (7°)\n\n(75)    The Horizontal Merger Guidelines also describe a number of factors that could\n         counteract any harmful effects of the merger on competition, including the\n         likelihood of buyer power, entry and efficiencies. (®°)\n\n6.2.    Market Dynamics\n\n(76)    The Italian banking sector is currently very fragmented and is characterised by a\n        small number of large banks (which typically operate across all Italian regions)\n       and a large number of smaller banks (some of which operate across all Italian\n         regions and some only in specific regions and provinces).\n\n(77)    Table 1 below shows the largest banks in terms ofthe number ofbranches in Italy.\n      By far the largest bank is Intesa Sanpaolo with nearly 3 000 branches, followed\n       by UniCredit, BPER, BPM and MPS. All these players all have a nation-wide\n\n         presence.\n\n(78)    As illustrated by the figures, the Transaction would create the largest bank in Italy\n       by the number of branches.\n\n                 Table 1: Italian banks by number of branches\n\n\n\n\n\n                    BPER                                           1 646\n\n\n\n\n\n                                 Source: Form CO, Table 10\n\n(79)    As mentioned above, in addition to the largest national banks, there is a belt of\n        mid-sized banks with a national presence or significant presence in some of the\n         larger regions of Italy. These include for example Banca Popolare di Sondrio,\n         Crédit Agricole, BNL, and Credem. There are also a number of large nationwide\n        cooperative banking groups operating, such as Iccrea and Cassa Centrale Banca.\n\n(80)    There are also many smaller banks with strong presence and history in many local\n        markets, as well as specialised players focused on specific products and client\n        segments. Table  1 above also demonstrates  this fragmentation of the Italian\n\n\n\n(8)      Horizontal Merger Guidelines, paragraph 39.\n(’)     Horizontal Merger Guidelines, paragraph 41.\n(°°)     Horizontal Merger Guidelines, paragraph 30.\n\n                                                             14",
-      "caracteres": 2729,
-      "caracteres_utiles": 1871,
+      "texto": "(75)\n\n6.2.\n(76)\n\n(77)\n\n(78)\n\n(79)\n\n(80)\n\ncoordinating their behaviour, are now significantly more likely to coordinate and\nraise prices or otherwise harm effective competition. (”*) The Horizontal Merger\nGuidelines identify four cumulative conditions to establish the likely emergence\nand sustainability of coordinated conduct: (a) firms have the ability to agree\ntacitly on the terms of coordination, (b) there is sufficient transparency to monitor\nany deviations; (c) there are deterrence mechanisms and (d) outsider reactions\ncannot undermine the coordinated outcome. (””)\n\nThe Horizontal Merger Guidelines also describe a number of factors that could\ncounteract any harmful effects of the merger on competition, including the\nlikelihood of buyer power, entry and efficiencies. (°°)\n\nMarket Dynamics\n\nThe Italian banking sector is currently very fragmented and is characterised by a\nsmall number of large banks (which typically operate across all Italian regions)\nand a large number of smaller banks (some of which operate across all Italian\nregions and some only in specific regions and provinces).\n\nTable 1 below shows the largest banks in terms of the number of branches in Italy.\nBy far the largest bank is Intesa Sanpaolo with nearly 3 000 branches, followed\nby UniCredit, BPER, BPM and MPS. All these players all have a nation-wide\npresence.\n\nAs illustrated by the figures, the Transaction would create the largest bank in Italy\nby the number of branches.\n\nTable 1: Italian banks by number of branches\nNo. of branches\n\nIntesa 2 946\nUniCredit 2 223\nBPER 1 646\nBPM 1 454\nMPS 1 366\nOthers 10 427\nTotal market size 25 767\n\nSource: Form CO, Table 10\n\nAs mentioned above, in addition to the largest national banks, there is a belt of\nmid-sized banks with a national presence or significant presence in some of the\nlarger regions of Italy. These include for example Banca Popolare di Sondrio,\nCrédit Agricole, BNL, and Credem. There are also a number of large nationwide\ncooperative banking groups operating, such as Iccrea and Cassa Centrale Banca.\n\nThere are also many smaller banks with strong presence and history in many local\nmarkets, as well as specialised players focused on specific products and client\nsegments. Table 1 above also demonstrates this fragmentation of the Italian\n\noy)\n(”)\n@)\n\nHorizontal Merger Guidelines, paragraph 39.\nHorizontal Merger Guidelines, paragraph 41.\nHorizontal Merger Guidelines, paragraph 30.\n\n14\n",
+      "caracteres": 2439,
+      "caracteres_utiles": 1951,
       "cobertura_imagen_maxima": 0.9995,
       "posible_ocr": true,
       "requiere_revision": true,

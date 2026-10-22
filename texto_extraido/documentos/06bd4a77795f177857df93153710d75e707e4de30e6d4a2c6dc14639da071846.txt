@@ -3174,838 +3174,914 @@ Source: Broadcom (the controller chip is underneath the black heat sink in the i
                                      60
 
 [PÁGINA PDF 63 | texto OCR: verificar contra el PDF]
- Table 1: IT Asset Management & Software Asset Management, worldwide
-a
-a
+Table 1: IT Asset Management & Software Asset Management, worldwide
+
+20193° 2020 2021
+USD M Share (%) USD M Share (%) USD M Share (%)
+Broadcom [..-] [0-5] [...] [0-5] [...] [0-5]
+VMware [..] [30-40] [...] [20-30] [...] [20-30]
+Combined [...] [30-40] [...] [20-30] [...] [20-30]
+Flexera [..-] [10-20] [...] [10-20] [..-] [10-20]
+Tanium [..-] [0-5] [...] [5-10] [...] [10-20]
+ServiceNow [..-] [0-5] [...] [5-10] [...] [5-10]
+Snow Software [...] [5-10] [...] [5-10] [..-] [5-10]
+IBM [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Others [..-] [30-40] [...] [20-30] [...] [20-30]
+Total [...] 100.0 [...] 100.0 [...] 100.0
+Source: Form CO, Table 35
+Table 2: IT Asset Management & Software Asset Management, EEA®!°
+20193! 2020 2021
+USD M Share (%) USD M Share (%) USD M Share (%)
+Broadcom [...] [0-5] [...] [0-5] [...] [0-5]
+VMware [.--] [20-30] [..-] [20-30] [..] [20-30]
+Combined [.--] [20-30] [..] [20-30] [...] [20-30]
+Snow Software [..-] [10-20] [...] [10-20] [...] [10-20]
+Flexera [...] [10-20] [L.-J [10-20] [..-] [10-20]
+ServiceNow [...] [0-5] [L.-J [5-10] [...J [5-10]
+Ivanti [.-.] [0-5] [L.J [5-10] [.J [5-10]
+Tanium [.--] [0-5] [.-J [0-5] [...] [0-5]
+Others [.--] [30-40] [.-J [20-30] [..] [20-30]
+Total [...] 100.0 [..-] 100.0 [...] 100.0
+
+Source: Form CO, Table 36
+(280) Based on Gartner’s 2021 data, the Parties’ combined market share exceeds 20% at
+
+the worldwide and EEA level in the Gartner segment for ITAM & SAM, giving rise
+to an affected market.”
+
+310
+
+311
+
+312
+
+2019 figures also include market data for IT Financial Management (“ITFM”). Gartner does not provide
+2019 data for ITAM & SAM only (without ITFM).
+
+Gartner ITOM Report provides shares only at regional level. Therefore, EEA in this particular dataset
+refers to regions Western and Eastern Europe. 2019 data follows the general definition of the EEA as
+explained in context of Gartner Annex 3 (Horizontals) to the Form CO.
+
+2019 figures also include market data for ITFM. Gartner does not provide 2019 data for ITAM & SAM
+only (without ITFM).
+
+The Parties’ combined market share for 2022 is [20-30]% Worldwide and [20-30]% in the EEA. This is
+based on the following report: Gartner Software data 2022 (Market Shares: All Software Markets,
+
+61
 
 
-
-
-
- Source: Form CO, Table 35
-
-
-
- Table 2: IT Asset Management & Software Asset Management, EEA?!”
-a
-a
-a
-a
-[eon[TTsews  [ET  mee Teer
-EO
-ESaA
-a
-a
-a
-
- Source: Form CO, Table 36
-
- (280)   Based on Gartner’s 2021 data, the Parties’ combined market share exceeds 20% at
-          the worldwide and EEA level in the Gartner segment for ITAM & SAM, giving rise
-           to an affected market.*!
-
-
-  309      2019 figures also include market data for IT Financial Management (“ITFM”). Gartner does not provide
-         2019 data for ITAM & SAM only (without ITFM).
-  310      Gartner ITOM Report provides shares only at regional level. Therefore, EEA in this particular dataset
-           refers to regions Western and Eastern Europe. 2019 data follows the general definition of the EEA as
-          explained in context of Gartner Annex 3 (Horizontals) to the Form CO.
-  311      2019 figures also include market data for ITFM. Gartner does not provide 2019 data for ITAM & SAM
-          only (without ITFM).
-  312     The Parties’ combined market share for 2022 is [20-30]% Worldwide and [20-30]% in the EEA. This is
-         based on the following report: Gartner Software data 2022 (Market Shares: All Software Markets,
-
-
-
-
-                                             61
 
 [PÁGINA PDF 64 | texto OCR: verificar contra el PDF]
-  8.2.2.   System Infrastructure software (IDC terminology)
+8.2.2. System Infrastructure software (IDC terminology)
+8.2.2.1. System and Service Management software
+8.2.2.1.1. ITACM software
 
-  8.2.2.1. System and Service Management software
+(281) Tables 3 and 4 below set out the Parties’ and their main competitors’ market shares
+for the years 2019, 2020 and 2021 extracted from the JDC Worldwide Semiannual
 
- 8.2.2.1.1.    ITACM software
+Software Tracker, 2022 (“IDC 2022”).31
 
- (281)   Tables 3 and 4 below set out the Parties’ and their main competitors’ market shares
-           for the years 2019, 2020 and 2021 extracted from the JDC Worldwide Semiannual
-         Software Tracker, 2022 (“IDC 2022”).
+Table 3: IT Automation and Configuration Management, worldwide
 
- Table 3: IT Automation and Configuration Management, worldwide
-SC
-Sa
-A
-SSaA
-A
-A
-peeerea AS
-a
-aAS
-peat
+2019 2020 2021
 
- Source: Form CO, Table 25
+USD M Share (%) USD M Share (%) USD M Share (%)
+Broadcom [...] [0-5] [...] [0-5] [...] [0-5]
+VMware [...] [10-20] [...] [10-20] [..-] [10-20]
+Combined [...] [20-30] [...] [20-30] [..-] [20-30]
+ServiceNow [...] [5-10] [...] [5-10] [...] [5-10]
+Microsoft [...] [5-10] [...] [5-10] [...] [5-10]
+BMC [..-] [5-10] [...] [5-10] [...] [5-10]
+IBM [..-] [5-10] [..-] [5-10] [...] [5-10]
+Hitachi [..-] [5-10] [...] [5-10] [...] [5-10]
+Others [..-] [30-40] [..-] [30-40] [...] [30-40]
+Total [..-] 100 [..-] 100 [...] 100
+Source: Form CO, Table 25
+Table 4: IT Automation and Configuration Management, EMEA
 
- Table 4: IT Automation and Configuration Management, EMEA
-a
-SS
-a
-ca
-a
-caa
-a
-ae aEnterprisea
-a
-a
+2019 2020 2021
 
- Source: Form CO, Table 26
+USD M Share (%) USD M Share (%) USD M Share (%)
+Broadcom [.-.] [5-10] [..-] [5-10] [...] [5-10]
+VMware [..-] [20-30] [...] [20-30] [...] [20-30]
+Combined [...] [20-30] [..-] [20-30] [...] [20-30]
+BMC [..-] [10-20] [..-] [10-20] [...] [10-20]
+Microsoft [..-] [5-10] [..-] [5-10] [...] [10-20]
+IBM [..-] [10-20] [..-] [5-10] [...] [5-10]
+Hewlett Packard [.--] [5-10] [.--] [5-10] [..-] [5-10]
+Enterprise
+ServiceNow _ [0-5] [..-] [0-5] ..] [0-5]
+Others [..-] [30-40] [..-] [30-40] [...] [30-40]
+Total [..-] 100 [..-] 100 [...] 100
+
+Source: Form CO, Table 26
+
+Worldwide) and Gartner ITOM software data 2022 (Market Shares: IT Operations Management
+Software, Worldwide).
+313 Form CO, Annex 7 (Horizontals).
+
+62
 
 
-
-
-
-         Worldwide) and Gartner ITOM software  data 2022 (Market  Shares:  IT Operations Management
-          Software, Worldwide).
-  313     Form CO, Annex 7 (Horizontals).
-
-
-
-
-                                          62
 
 [PÁGINA PDF 65 | texto OCR: verificar contra el PDF]
- (282)   IDC 2022 only includes EMEA and not EEA market shares. Notwithstanding, the
-         Notifying Party considers that the EEA shares for 2019, 2020 and 2021 would not be
-          substantially different from the EMEA shares.*!*
+(282)
 
- (283)   Based on IDC’s 2021 data, the Parties’ combined market share exceeds 20% at the
-         worldwide and EMEA/EEA level in the IDC segment for ITACM, giving rise to an
-          affected market.?!°
+IDC 2022 only includes EMEA and not EEA market shares. Notwithstanding, the
+Notifying Party considers that the EEA shares for 2019, 2020 and 2021 would not be
+substantially different from the EMEA shares.*!*
 
- 8.2.2.1.1.1.  _DSAC software
+(283) Based on IDC’s 2021 data, the Parties’ combined market share exceeds 20% at the
+worldwide and EMEA/EFEA level in the IDC segment for ITACM, giving rise to an
+affected market.*!°
 
- (284)   Table 5 below sets out the Parties’ and their main competitors’ market shares for the
-          years 2019, 2020 and 2021 extracted from IDC 2022 and IDC Worldwide Datacenter
-         System and Application Control Software Market Shares, 2021: Strong Growth on
-        Economic Rebound, published in July 2022 (“IDC DSAC”).
+8.2.2.1.1.1. _ DSAC software
 
- Table 5: Datacentre System and Application Control, worldwide
-a
-a
-poo ff ea  | ta   eas ta
-paresFS [ereee
-a
-ES
-paeee
-peace [aa
-peea   ee
-a
+(284) Table 5 below sets out the Parties’ and their main competitors’ market shares for the
 
- Source: Form CO, Table 24
+years 2019, 2020 and 2021 extracted from IDC 2022 and IDC Worldwide Datacenter
+System and Application Control Software Market Shares, 2021: Strong Growth on
+Economic Rebound, published in July 2022 (“IDC DSAC”).
 
- (285)   IDC 2022 and IDC DSAC do not provide EMEA (or EEA) shares for the DSAC
-         segment. DSAC accounts for 76% of worldwide and EMEA market size of DSAC’s
-         umbrella functional market ITACM in 2021. As such, the Notifying Party submits
-           that a comparison of the Parties’ shares for ITACM across different geographies give
-          the best possible indication on the differences between the Parties’ shares for DSAC
-            at the EEA level and worldwide. The Parties’ combined market share for ITACM
-          software is c. [5-10]% points higher in EMEA than worldwide. Broadcom’s share is
-             c. [0-5]%-points higher in EMEA than worldwide, and VMware’s share is c. [5-10]%
-          points higher in EMEA than worldwide. The combined worldwide shares are similar
-           for DSAC and ITACM  (ce. [0-5]%-point difference), though Broadcom’s share  is
+Table 5: Datacentre System and Application Control, worldwide
 
+2019 2020 2021
+USD M Share (%) USD M Share (%) USD M Share (%)
+Broadcom [..-] [0-5] [..-] [0-5] [..-] [0-5]
+VMware [...] [20-30] [...] [20-30] [...] [20-30]
+Combined [...] [20-30] [...] [20-30] [...] [20-30]
+ServiceNow [...] [5-10] [...] [10-20] [...] [10-20]
+Microsoft [...] [10-20] [...] [10-20] [...] [10-20]
+IBM [...] [5-10] [...] [5-10] [...] [5-10]
+HashiCorp [...] [0-5] [...] [0-5] [...] [0-5]
+BMC [...] [5-10] [...] [0-5] [...] [0-5]
+Others [...] [40-50] [...] [40-50] [...] [30-40]
+Total [...] 100 [...] 100 [...] 100
 
-  314     Form CO, footnote 83. The data provided by Gartner allows a calculation of EEA and EMEA shares
-         which indicate that for both Broadcom and VMware, overall, there are only limited differences in
-           shares for EEA versus EMEA (below 3% difference in share). For the Delivery Automation sub-
-          segment, VMware EEA share is c. [0-5]% smaller than EMEA share for each year of 2019 — 2021, and
-          otherwise differences between EEA and EMEA shares for either party are around or materially below
-         1%. Additionally, when comparing the relative proportions of Broadcom’s own revenues for each
-          segment, these proportions are broadly similar for EMEA as for EEA.
-  315     The Parties’ combined market share for 2022 is [20-30]% Worldwide and [20-30]% in the EEA. This is
-         based on the following reports: IDC Software data 2022 (IDC Semiannual Software Tracker) and
-        2022H1 IDC Infrastructure software data (IDC Semiannual Software-Defined Infrastructure Tracker).
+Source: Form CO, Table 24
 
+(285)
 
+IDC 2022 and IDC DSAC do not provide EMEA (or EEA) shares for the DSAC
+segment. DSAC accounts for 76% of worldwide and EMEA market size of DSAC’s
+umbrella functional market ITACM in 2021. As such, the Notifying Party submits
+that a comparison of the Parties’ shares for ITACM across different geographies give
+the best possible indication on the differences between the Parties’ shares for DSAC
+at the EEA level and worldwide. The Parties’ combined market share for ITACM
+software is c. [5-10]% points higher in EMEA than worldwide. Broadcom’s share is
+c. [0-5]%-points higher in EMEA than worldwide, and VMware’s share is c. [5-10]%
+points higher in EMEA than worldwide. The combined worldwide shares are similar
+for DSAC and ITACM (ce. [0-5]%-point difference), though Broadcom’s share is
 
+314
 
-                                          63
+Form CO, footnote 83. The data provided by Gartner allows a calculation of EEA and EMEA shares
+
+which indicate that for both Broadcom and VMware, overall, there are only limited differences in
+shares for EEA versus EMEA (below 3% difference in share). For the Delivery Automation sub-
+segment, VMware EEA share is c. [0-5]% smaller than EMEA share for each year of 2019 — 2021, and
+otherwise differences between EEA and EMEA shares for either party are around or materially below
+1%. Additionally, when comparing the relative proportions of Broadcom’s own revenues for each
+segment, these proportions are broadly similar for EMEA as for EEA.
+315 The Parties’ combined market share for 2022 is [20-30]% Worldwide and [20-30]% in the EEA. This is
+based on the following reports: IDC Software data 2022 (IDC Semiannual Software Tracker) and
+2022H1 IDC Infrastructure software data (IDC Semiannual Software-Defined Infrastructure Tracker).
+
+63
+
 
 [PÁGINA PDF 66 | texto OCR: verificar contra el PDF]
-         lower in DSAC than in ITACM, while VMware’s share in DSAC 1s higher than in
-       ITACM.  Further, when comparing the  relative proportions of Broadcom’s own
-         revenues for each of ITACM and DSAC, these proportions are [Information on EEA
-         market shares] for EMEA as for EEA. Overall, this suggests that the Parties’ market
-          shares in DSAC at the EEA level are [Information on EEA market shares] from the
-           Parties’ DSAC market shares worldwide.*!® Based on IDC’s 2021 data, the Parties’
-        combined  market  share  exceeds 20%  at  the  worldwide  and  (likely)  at  the
-      EMEA/EEA  level  in  the IDC segment  for DSAC,  giving  rise  to an  affected
-          market.*!”
+lower in DSAC than in ITACM, while VMware’s share in DSAC is higher than in
+ITACM. Further, when comparing the relative proportions of Broadcom’s own
+revenues for each of ITACM and DSAC, these proportions are [Information on EEA
+market shares] for EMEA as for EEA. Overall, this suggests that the Parties’ market
+shares in DSAC at the EEA level are [Information on EEA market shares] from the
+Parties’ DSAC market shares worldwide.*!® Based on IDC’s 2021 data, the Parties’
+combined market share exceeds 20% at the worldwide and (likely) at the
+EMEA/EEFA level in the IDC segment for DSAC, giving rise to an affected
+market.*!”
 
-  8.2.2.2. Network software
+8.2.2.2. Network software
 
- (286)   Tables 6 and 7 below set out the Parties’ and their main competitors’ market shares
-           for the years 2019, 2020 and 2021 extracted from IDC 2022.
+(286) Tables 6 and 7 below set out the Parties’ and their main competitors’ market shares
+for the years 2019, 2020 and 2021 extracted from IDC 2022.
 
- Table 6: Network Software, worldwide
-a
-SS OS
-SS
-pamee e  ee
-[conte ae  ee
-pe    ee ee
-panes  ee eee
-a
-fee  es es
-Poems  es es
-poses  er oo
-a
+Table 6: Network Software, worldwide
 
- Source: Form CO, table 41
+2019 2020 2021
+USD M Share (%) USD M Share (%) USD M Share (%)
+Broadcom [...] [0-5] [...] [0-5] [...] [0-5]
+VMware [..-] [20-30] [..-] [20-30] [..-] [20-30]
+Combined [..-] [20-30] [..-] [20-30] [..-] [20-30]
+IBM [..-] [5-10] [..-] [5-10] [..-] [5-10]
+SolarWinds [..-] [5-10] [..-] [5-10] [...] [5-10]
+F5 [..-] [5-10] [..-] [5-10] [..-] [5-10]
+Citrix [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Gigamon [...] [0-5] [...] [0-5] [...] [0-5]
+Others [..-] [40-50] [..-] [40-50] [..-] [40-50]
+Total [...] 100.0 [...] 100.0 [...] 100.0
 
+Source: Form CO, table 41
 
+316 Form CO, Annex 22 (Horizontals).
 
-
-
-  316     Form CO, Annex 22 (Horizontals).
-  317      Reply to RFI 32, question  1. The Notifying Party submits that IDC has not yet published the 2023
-         “Worldwide Datacenter System and Application Control Software Market Shares” report. Accordingly,
-         2022 market share data for the DSAC sub-segment is not available. As this is a narrower sub-segment
-         under the ITACM segment, Broadcom does not expect material differences between 2021 and 2022
-           data (as is the case for ITACM.
+317 Reply to RFI 32, question 1. The Notifying Party submits that IDC has not yet published the 2023
+“Worldwide Datacenter System and Application Control Software Market Shares” report. Accordingly,
+2022 market share data for the DSAC sub-segment is not available. As this is a narrower sub-segment
+under the ITACM segment, Broadcom does not expect material differences between 2021 and 2022
+data (as is the case for ITACM.
 
 
-
-
-                                       64
 
 [PÁGINA PDF 67 | texto OCR: verificar contra el PDF]
- Table 7: Network Software, EMEA
-po         2019                  2020                   2021
-po USDM |  Share(%) | USDM_ |  Share (%) | USDM_ |  Share (%)
-oie ft [es [ota fea ft [ta
-                         eo   |    pT  pt
-FS
-Ea
-    pt      po   aa
-  po  pd  pt
-fee
-a
-roar PT meee
- Source: Form CO, table 42
+Table 7: Network Software, EMEA
 
- (287)   IDC 2022 only includes EMEA and not EEA market shares. The Notifying Party
-         does  not  consider  that  the EEA  shares  for  2019, 2020 and 2021 would be
-           substantially  different  from  the EMEA  shares. When  comparing  the  relative
-          proportions of Broadcom’s own revenues for Network Software, the proportions
-          [Business secret — market shares] for EMEA [Business secret — market shares] for
-         EEA.*!8
+2019 2020 2021
+USDM | Share (%) | USDM | Share(%) | USDM | Share (%)
+Broadcom [...] [0-5] [.--] [0-5] [...] [0-5]
+VMware [J] [20-30] [J [20-30] [J] [30-40]
+Combined [...] [20-30] [...] [30-40] [...] [30-40]
+IBM [...] [10-20] [...] [10-20] [...] [10-20]
+SolarWinds [..-] [10-20] [..-] [10-20] [...] [5-10]
+F5 [J [0-5] [J [5-10] [J [5-10]
+HPE [...] [0-5] [...] [0-5] [...] [0-5]
+Citrix [...] [0-5] [...] [0-5] [...] [0-5]
+Others [...] [30-40] [...] [30-40] [...] [30-40]
+Total [...] 100.0 [.-] 100.0 [.-] 100.0
 
- (288)   Based on IDC’s 2021 data, the Parties’ combined market share exceeds 20% at the
-         worldwide and EMEA/EEA level in the IDC segment for Network software, giving
-           rise to an affected market.*!®
+Source: Form CO, table 42
 
- (289)   The Notifying Party submits that  all Broadcom products reported under the IDC
-         secondary market Network software are included in the functional market Network
-        Management software and all VMware’s products reported under IDC secondary
-         market Network software belong to the functional market Network Infrastructure
-          software. Therefore, IDC only reports revenue for both Parties in the secondary level.
-        Given  that  at  the  functional  level,  revenue  is  reported  to  either VMware  or
-        Broadcom, there is no horizontal overlap.
+(287)
 
-  8.2.3.    Virtualization software
+(288)
 
- (290)   Tables 8 to 14 set out VMware’s and its main competitors’ market shares for the
-          years 2019, 2020 and 2021. Tables 8 to 10 present shares by revenues (Gartner and
-         IDC), while Tables 11 to 14 present volume shares. There are some methodological
-          limitations to each of the different approaches.
+(289)
 
- (291)    First, with regard to the revenue shares, Gartner’s and IDC’s data  is based on
-          estimates of vendors’ revenues from server virtualization software. This means that
+8.2.3.
+(290)
+
+(291)
+
+IDC 2022 only includes EMEA and not EEA market shares. The Notifying Party
+does not consider that the EEA shares for 2019, 2020 and 2021 would be
+substantially different from the EMEA shares. When comparing the relative
+proportions of Broadcom’s own revenues for Network Software, the proportions
+
+[Business secret — market shares] for EMEA [Business secret — market shares] for
+EEA2'8
+
+Based on IDC’s 2021 data, the Parties’ combined market share exceeds 20% at the
+worldwide and EMEA/EEA level in the IDC segment for Network software, giving
+rise to an affected market.?!9
+
+The Notifying Party submits that all Broadcom products reported under the IDC
+secondary market Network software are included in the functional market Network
+Management software and all VMware’s products reported under IDC secondary
+market Network software belong to the functional market Network Infrastructure
+software. Therefore, IDC only reports revenue for both Parties in the secondary level.
+Given that at the functional level, revenue is reported to either VMware or
+Broadcom, there is no horizontal overlap.
+
+Virtualization software
+
+Tables 8 to 14 set out VMware’s and its main competitors’ market shares for the
+years 2019, 2020 and 2021. Tables 8 to 10 present shares by revenues (Gartner and
+IDC), while Tables 11 to 14 present volume shares. There are some methodological
+limitations to each of the different approaches.
+
+First, with regard to the revenue shares, Gartner’s and IDC’s data is based on
+estimates of vendors’ revenues from server virtualization software. This means that
+
+318
+319
+
+Form CO, footnote 83 and Reply to RFI 32, question 2.
+
+The Parties’ combined market share for 2022 is [20-30]% Worldwide and [20-30]% in the EEA. This is
+based on the following reports: Gartner Software data 2022 (Market Shares: IDC Software data 2022
+(IDC Semiannual Software Tracker) and 2022H1 IDC Infrastructure software data (IDC Semiannual
+Software-Defined Infrastructure Tracker).
+
+65
 
 
-  318     Form CO, footnote 83 and Reply to RFI 32, question 2.
-  319     The Parties’ combined market share for 2022 is [20-30]% Worldwide and [20-30]% in the EEA. This is
-         based on the following reports: Gartner Software data 2022 (Market Shares: IDC Software data 2022
-         (IDC Semiannual Software Tracker) and 2022H1 IDC Infrastructure software data (IDC Semiannual
-          Software-Defined Infrastructure Tracker).
-
-
-
-
-                                         65
 
 [PÁGINA PDF 68 | texto OCR: verificar contra el PDF]
-       some vendors (such as Microsoft and several other   CSPs) who do not separately
-        charge for their software because they either bundle  it with other products (such as
-          their cloud platform)  or because  they  offer open  source-based  software  while
-        monetizing their business by charging for (support) services, are not captured by the
-         data in Tables 8 to 10.*”° Furthermore, neither Gartner nor IDC provide data that
-          reflect the separate deployment models.
+some vendors (such as Microsoft and several other CSPs) who do not separately
+charge for their software because they either bundle it with other products (such as
+their cloud platform) or because they offer open source-based software while
+monetizing their business by charging for (support) services, are not captured by the
+data in Tables 8 to 10.*”° Furthermore, neither Gartner nor IDC provide data that
+reflect the separate deployment models.
 
-Table 8: Server Virtualization Infrastructure for x86 servers (worldwide, by revenues — Gartner)?!
+Table 8: Server Virtualization Infrastructure for x86 servers (worldwide, by revenues — Gartner)*”!
 
+2019 2020 2021
+Revenue Share (%) Revenue Share (%) Revenue Share (%)
+(USD M) (USD M) (USD M)
 
-                      Revenue    Share (%)    Revenue     Share (%)    Revenue    Share (%)
-                   (USD M)             (USD M)             (USD M)
+VMware [..-] [90-100] [..-] [90-100] [...] [90-100]
+IBM [..-] [0-5] [..-] [0-5] [...] [0-5]
+Huawei [..-] [0-5] [..-] [0-5] [...] [0-5]
+Citrix [..-] [0-5] [..-] [0-5] [...] [0-5]
+Inspur [..-] [0-5] [..-] [0-5] [...] [0-5]
+Oracle [..-] [0-5] [..-] [0-5] [...] [0-5]
+Virtuozzo [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Sugon [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Others [..-] [0-5] [.--] [0-5] [..-] [0-5]
+Total [..-] 100 [..-] 100 [..-] 100
 
+Source:
 
+(292)
 
+(293)
 
+Form CO, Annex 11 (Conglomerate)
 
- et ee eee
-Source: Form CO, Annex 11 (Conglomerate)
+With regard to the IDC-based revenue shares set out below in Table 9, the Parties
+presented IDC’s functional market for “Software-Defined Compute Software” in the
+Form CO.*?? However, these shares are not limited to server virtualization software
+in the on-premises and private cloud environment, but these also contain
+containerization software and cloud system software. Furthermore, these shares
 
-(292)   With regard to the IDC-based revenue shares set out below in Table 9, the Parties
-        presented IDC’s functional market for “Software-Defined  Compute Software” in the
-       Form CO.*” However, these shares are not limited to server virtualization software
-          in  the  on-premises  and  private  cloud  environment,  but  these  also  contain
-         containerization  software and cloud system  software. Furthermore,  these  shares
-       encompass server virtualization used in traditional datacentres, private and public
-         clouds.
+encompass server virtualization used in traditional datacentres, private and public
+clouds.
 
-(293)   Therefore, the Commission has also added Table 10 which sets out IDC’s submarket
-        of the functional market presented in Table  9. This  is the market  for “Virtual
-       Machine Software”  (also known as hypervisor software) which refers  to  server
-         virtualization and partitioning. These shares do not include containerization or cloud
-        system software. However, similarly to above, these shares are not limited to a
-         particular deployment environment but apply across all deployment environments.
+Therefore, the Commission has also added Table 10 which sets out IDC’s submarket
+of the functional market presented in Table 9. This is the market for “Virtual
+Machine Software” (also known as hypervisor software) which refers to server
+virtualization and partitioning. These shares do not include containerization or cloud
+system software. However, similarly to above, these shares are not limited to a
+particular deployment environment but apply across all deployment environments.
 
+320
+321
 
+322
 
+Commission decision of 29 February 2016 in case M.7861 — Del] / EMC, paragraph 157.
 
+These market shares are based on Gartner. Gartner defines the sub-segment “x86 Server Virtualization
+Infrastructure” as “includ[ing] the hypervisor, VM and virtual machine monitors (VMMs) for the x86
+processor family”. Gartner’s share estimates therefore only include virtualization software that runs on
+x86 CPUs. These shares are not limited to a particular deployment environment, x86-based servers are
+used across all environments.
 
-320     Commission decision of 29 February 2016 in case M.7861 — Dell /EMC, paragraph 157.
-321      These market shares are based on Gartner. Gartner defines the sub-segment “x86 Server Virtualization
-         Infrastructure” as “includ[ing] the hypervisor, VM and virtual machine monitors  (VMMs) for the x86
-        processor family”. Gartner’s share estimates therefore only include virtualization software that runs on
-       x86 CPUs. These shares are not limited to a particular deployment environment, x86-based servers are
-        used across all environments.
-322     Form CO, Annex 11 (Conglomerate).
+Form CO, Annex 11 (Conglomerate).
 
+66
 
-
-
-                                      66
 
 [PÁGINA PDF 69 | texto OCR: verificar contra el PDF]
-Table 9: Software-Defined Compute Software (worldwide, by revenues — IDC)**
+Table 9:
 
+Software-Defined Compute Software (worldwide, by revenues — IDC)***
+2019 2020 2021
+Revenue Share (%) Revenue Share (%) Revenue Share (%)
+(USD M) (USD M) (USD M)
 
-                      Revenue    Share (%)    Revenue     Share (%)    Revenue    Share (%)
-                   (USD M)             (USD M)             (USD M)
+VMware [..-] [60-70] [..-] [60-70] [.--] [60-70]
+IBM [..-] [5-10] [..-] [5-10] [..-] [5-10]
+Huawei [..-] [0-5] [..-] [5-10] [.--] [5-10]
+H3C [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Inspur [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Alibaba [..-] [0-5] [..-] [0-5] [.--] [0-5]
 
+Group
 
+Amazon [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Microsoft [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Oracle [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Google [..-] [0-5] [..-] [0-5] [..-] [0-5]
+SUSE [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Tencent [...] [0-5] [..-] [0-5] [...] [0-5]
+Mirantis [..-] [0-5] [..-] [0-5] [.--] [0-5]
+Canonical [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Digital Ocean [..-] [0-5] [.--] [0-5] [..-] [0-5]
+Hashicorp [..-] [0-5] [..-] [0-5] [..-] [0-5]
 
-
-
-           Alibaba              [...]           [0-5]             [..-]           [0-5]             [...]           [0-5]
-          Group
-
-
-
-
-
- a
+Others [..-] [5-10] [..-] [5-10] [.--] [10-20]
+Total [..-] 100.0 [..-] 100.0 [.--] 100.0
 
 Source: Form CO, Annex 11 (Conglomerate)
 
+323
 
+IDC’s functional market “Software-Defined Compute Software” also includes container infrastructure
+software (which relates to container software) and cloud system software (which is a combination of
+server abstraction, orchestration software, and controller software, often sold as part of a larger cloud
+infrastructure platform solution). These shares are not limited to a particular deployment environment
+but apply across all deployment environments.
 
+67
 
-
-323      IDC’s functional market “Software-Defined Compute Software” also includes container infrastructure
-         software (which relates to container software) and cloud system software (which is a combination of
-         server abstraction, orchestration software, and controller software, often sold as part of a larger cloud
-          infrastructure platform solution). These shares are not limited to a particular deployment environment
-         but apply across all deployment environments.
-
-
-
-
-                                        67
 
 [PÁGINA PDF 70 | texto OCR: verificar contra el PDF]
-Table 10: Virtual Machine Software (worldwide, by revenues - IDC)**
+Table 10: Virtual Machine Software (worldwide, by revenues - IDC)**4
 
+2019 2020 2021
+Revenue Share (%) Revenue Share (%) Revenue Share (%)
+(USD M) (USD M) (USD M)
+VMware [...] [80-90] [...] [80-90] [...] [70-80]
+IBM [...] [5-10] [...] [5-10] [...] [5-10]
+Huawei [...] [0-5] [...] [0-5] [...] [5-10]
+H3C [..-] [0-5] [...] [0-5] [...] [0-5]
+Microsoft [...] [0-5] [...] [0-5] [...] [0-5]
+Others [...] [5-10] [...] [5-10] [...] [5-10]
+Total [...] 100.0 [...] 100.0 [...] 100.0
 
-                      Revenue    Share (%)    Revenue     Share (%)    Revenue    Share (%)
-                   (USD M)             (USD M)             (USD M)
-
-
-
-
-        0    0    0
-
-                   ma          ma    0
-
-                   ma          ma          ma
-
-                   ma          ma          mI
-   Peat ee0 ear 0    0
 Source: Form CO, Annex 73 (Conglomerate)
 
-(294)   Second, with regard to the volume shares, IDC previously produced volume shares
-        of server virtualization hosts, which the  Commission relied on in De//   / EMC.** The
-        Notifying Party has indicated that IDC discontinued production of that particular data
-           set.376
+(294)
 
-(295)    Instead, the Notifying Party initially provided shares of the number of virtualized
-         server CPUs installed globally, which the Parties calculated themselves based on
-       VMware’s  internal  data  for VMware volumes  and IDC  data  for  third-party
-         volumes.*”’ These shares are now set out in Table 11.
+(295)
 
-(296)    Thereafter, the Parties commissioned IDC to prepare a market model to estimate
-         revised volume shares which rely solely on IDC data and do not use VMware
-         internal data. Tables 12 and 13 below provide IDC’s estimates of VMware’s and
-         competitors’  market  shares  in  server  virtualization  software,  both  in terms of
-         virtualized server CPUs  installed and new virtualization licenses shipped. These
-         shares  include CSPs’  on-premises  versions  of  their  public-cloud  virtualization
-         solutions. On the one hand, the installed base data measures sales in previous years
-         instead of sales in each year, i.e., ‘stock’ data, and as such reflects past competitive
-       dynamics (Table 12). On the other hand, the new virtualization licenses shipped-
-        based  data  tracks new  installations  (excluding new  installations  that  rely on
-        previously existing licenses) (Table 13).378
+(296)
 
+Second, with regard to the volume shares, IDC previously produced volume shares
+of server virtualization hosts, which the Commission relied on in De// / EMC.**> The
+Notifying Party has indicated that IDC discontinued production of that particular data
+set.376
 
+Instead, the Notifying Party initially provided shares of the number of virtualized
+server CPUs installed globally, which the Parties calculated themselves based on
+VMware’s internal data for VMware volumes and IDC data for third-party
+volumes.*”’ These shares are now set out in Table 11.
 
+Thereafter, the Parties commissioned IDC to prepare a market model to estimate
+revised volume shares which rely solely on IDC data and do not use VMware
+internal data. Tables 12 and 13 below provide IDC’s estimates of VMware’s and
+competitors’ market shares in server virtualization software, both in terms of
+virtualized server CPUs installed and new virtualization licenses shipped. These
+shares include CSPs’ on-premises versions of their public-cloud virtualization
+solutions. On the one hand, the installed base data measures sales in previous years
+instead of sales in each year, i.e., ‘stock’ data, and as such reflects past competitive
+dynamics (Table 12). On the other hand, the new virtualization licenses shipped-
+based data tracks new installations (excluding new installations that rely on
+previously existing licenses) (Table 13).*”°
 
+324
 
-324     As explained in Annex 5 (Horizontals) to the Form CO,   , within IDC’s functional software market
-        “Software-Defined Compute Software” (as presented in the Article 6(1)(c) Response and set out in
-       Annex  11  (Conglomerate)  to  the Form CO, and Form CO, paragraphs 500-502), IDC defines  a
-        submarket for “Virtual Machine Software” (also known as hypervisor software) which refers to server
-          virtualization and partitioning. These shares are not limited to a particular deployment environment but
-        apply across all deployment environments.
-325     Commission decision of 29 February 2016 in case M.7861 — Dell /EMC, tables 12-13.
-326     The final iteration of IDC’s server virtualization tracker was published in Q4 2015.
-327     Form CO, Table 62.
-328     The data set out in Table 12 and Table 13 do not correspond exactly to the IDC data that was used in
-        Dell / EMC, given that the methodology does not entirely muror the methodology that was used in
-        IDC’s former data set.
+325
+326
+327
+328
 
+As explained in Annex 5 (Horizontals) to the Form CO, , within IDC’s functional software market
+“Software-Defined Compute Software” (as presented in the Article 6(1)(c) Response and set out in
+Annex 11 (Conglomerate) to the Form CO, and Form CO, paragraphs 500-502), IDC defines a
+submarket for “Virtual Machine Software” (also known as hypervisor software) which refers to server
+virtualization and partitioning. These shares are not limited to a particular deployment environment but
+apply across all deployment environments.
 
+Commission decision of 29 February 2016 in case M.7861 — Dell / EMC, tables 12-13.
 
+The final iteration of IDC’s server virtualization tracker was published in Q4 2015.
 
-                                        68
+Form CO, Table 62.
+
+The data set out in Table 12 and Table 13 do not correspond exactly to the IDC data that was used in
+Dell / EMC, given that the methodology does not entirely mirror the methodology that was used in
+IDC’s former data set.
+
+68
+
 
 [PÁGINA PDF 71 | texto OCR: verificar contra el PDF]
 Table 11: Share of VMware's hypervisor in Worldwide Installed Base of Virtualized CPUs (Traditional
 Datacentre and Private Cloud)
 
-
-
-        VMware’s active                                                                                              [...]
-           licenses
-
-          Total Virtualized CPUs                                                                                      [...]
-           installed
-
-          Share (%)                        [40-50]                   [40-50]                   [40-50]
-
+2019 2020 2021
+VMware’s active [...] [...] [...]
+licenses
+Total Virtualized CPUs [.-.] [...] [...]
+installed
+Share (%) [40-50] [40-50] [40-50]
 
 Source: Form CO, Table 62
 
 Table 12: Shares of virtualized server CPUs installed worldwide (traditional datacentre and private cloud
-deployment)*”®
+deployment)*”
 
-
-
-                     CPUs      Share (%)     CPUs      Share (%)     CPUs      Share (%)
-                             Installed                     Installed                      Installed
-
-
-
-
-
-      IBM      (incl.                      [5-10]                      [10-20]                     [10-20]
-  RedHat)a
-
-a
-a
-a
-        Other                             [20-30]                      [20-30]                     [20-30]
-        Hypervisors
-
-
-
+2019 2020 2021
+CPUs Share (%) CPUs Share (%) CPUs Share (%)
+Installed Installed Installed
+VMware [..-] [40-50] [..-] [30-40] [..-] [30-40]
+Microsoft [...] [20-30] [...] [20-30] [...] [20-30]
+IBM (incl. [...] [5-10] [...] [10-20] [..-] [10-20]
+RedHat)
+Oracle [...] [0-5] [...] [0-5] [...] [0-5]
+SUSE [...] [0-5] [...] [0-5] [...] [0-5]
+AWS [...] [0-5] [...] [0-5] [...] [0-5]
+Google [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Alibaba [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Other [..-] [20-30] [..-] [20-30] [..-] [20-30]
+Hypervisors
+Total [...] 100.0 [...] 100.0 [...] 100.0
 
 Source: Annex 4 to Annex RFI 13 O1
 
+329
+
+These shares are based solely on IDC’s own data. The number of installed virtualized CPUs is the sum
+of all licenses shipped by each competitor in previous years that are still active.
+
+69
 
 
-
-
-329      These shares are based solely on IDC’s own data. The number of installed virtualized CPUs is the sum
-        of all licenses shipped by each competitor in previous years that are still active.
-
-
-
-
-                                        69
 
 [PÁGINA PDF 72 | texto OCR: verificar contra el PDF]
-     Table 13: Shares of new virtualization licenses shipped worldwide (traditional datacentre and private
-     cloud deployment)*”°
+Table 13: Shares of new virtualization licenses shipped worldwide (traditional datacentre and private
 
-                      2019                   2020                     2021
+cloud deployment)*°
+2019 2020 2021
+Number of | Share (%) Number of | Share (%) Number of | Share (%)
+licenses licenses licenses
+VMware [..-] [20-30] [.--] [20-30] [..-] [20-30]
+Microsoft [...] [20-30] [...] [20-30] [...] [20-30]
+IBM (incl. [...] [10-20] [...] [10-20] [...] [10-20]
+RedHat)
+Oracle [...] [0-5] [...] [0-5] [...] [5-10]
+SUSE [...] [0-5] [...] [0-5] [...] [0-5]
+AWS [...] [0-5] [...] [0-5] [...] [0-5]
+Google [...] [0-5] [...] [0-5] [...] [0-5]
+Alibaba [...] [0-5] [...] [0-5] [...] [0-5]
+Other [...] [20-30] [...] [20-30] [...] [20-30]
+Hypervisors
+Total [...] 100.0% [...] 100.0% [...] 100.0%
 
-           Number of | Share (%)  |Number of | Share (%)  |Number of| Share (%)
-                licenses                     licenses                     licenses
+Source: Annex I to Annex RFI 13 O1
 
+(297)
 
-EN a
- IBM   (incl.                       [10-20]                           [10-20]                            [10-20]
- RedHat)
-fons[eres
+The number of VMware’s active licenses estimated by IDC (Table 12) does not
 
-ES        a
+correspond to the figures from VMware’s own data (Table 11). To compute shares
+of virtualized server CPUs installed worldwide in traditional datacentre and private
+cloud deployments that are based on the most accurate data available, the
+Commission has combined VMware’s actual number of active licences (from Table
+11) with the IDC estimates for the total market size and for the estimated number of
+licences by identified competitors (from Table 12). These shares are presented in
+Table 14 below.
 
+330 These shares are based solely on IDC’s own data. New virtualization licenses shipped refers to all new
+hypervisor (or container host (bare-metal only) licenses obtained by customers). All new licenses are
+assumed to be priced per CPU. Reasons for new licenses being obtained include: 1. New server
+purchased/deployed with a hypervisor for new workloads (not replacing old servers). 2. New servers
+purchased/deployed with a hypervisor to replace retired servers — license required upgrade, migrated to
+a different platform, or retired servers were not virtualized. 3. Existing servers in the installed base
+required a hypervisor license — license required upgrade (new version), migrated to a different platform,
+or installed servers were not virtualized originally.
 
- Other                              [20-30]                          [20-30]                           [20-30]
- Hypervisors
-peat[eee
-     Source: Annex I to Annex RFI 13 O1
-
-    (297)   The number of VMware’s active licenses estimated by IDC (Table 12) does not
-            correspond to the figures from VMware’s own data (Table 11). To compute shares
-            of virtualized server CPUs installed worldwide in traditional datacentre and private
-            cloud  deployments  that  are  based on  the most  accurate  data  available,  the
-           Commission has combined VMware’s actual number of active licences (from Table
-             11) with the IDC estimates for the total market size and for the estimated number of
-              licences by identified competitors (from Table 12). These shares are presented in
-           Table 14 below.
-
-
-
-
-
-       330      These shares are based solely on IDC’s own data. New virtualization licenses shipped refers to all new
-              hypervisor (or container host (bare-metal only) licenses obtained by customers). All new licenses are
-            assumed  to be priced per CPU. Reasons  for new licenses being obtained include:   1. New server
-             purchased/deployed with a hypervisor for new workloads (not replacing old servers).  2. New servers
-             purchased/deployed with a hypervisor to replace retired servers — license required upgrade, migrated to
-              a different platform, or retired servers were not virtualized.  3. Existing servers in the installed base
-              required a hypervisor license — license required upgrade (new version), migrated to a different platform,
-              or installed servers were not virtualized originally.
-
-
+70
 
 
-                                            70
 
 [PÁGINA PDF 73 | texto OCR: verificar contra el PDF]
-  Table 14: Adjusted shares of virtualized server CPUs installed worldwide (traditional datacentre and
-  private cloud deployment)**?
+Table 14: Adjusted shares of virtualized server CPUs installed worldwide (traditional datacentre and
+private cloud deployment)**
 
-                          2019                2020                 2021
+2019 2020 2021
 
-                CPUs        Share    CPUs        Share    CPUs        Share
-                       Installed     (%)       Installed     (%)       Installed     (%)
+CPUs Share CPUs Share CPUs Share
 
-a
-peicosa—T  |T IBM            (incl.           [...]           [5-10]             [...]          [10-20]                       [10-20]
-RedHat)a
-asa ee
-[a
+Installed (%) Installed (%) Installed (%)
+VMware [...] [40-50] [...] [40-50] [...] [40-50]
+Microsoft [...] [20-30] [...] [20-30] [..] [20-30]
+IBM (incl. [...] [5-10] [...] [10-20] [...] [10-20]
+RedHat)
+Oracle [..-] [0-5] [..-] [0-5] [...] [0-5]
+SUSE [...] [0-5] [...] [0-5] [...] [0-5]
+AWS [..-] [0-5] [..-] [0-5] [...] [0-5]
+Google [...] [0-5] [...] [0-5] [...] [0-5]
+Alibaba [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Other Hypervisors [...] [20-30] [...] [10-20] [...] [10-20]
+Total [...] 100.0 [...] 100.0 [...] 100.0
+
+Source: Form CO, Table 62 and Annex 4 to Annex RFI 13 QO 1
+
+(298)
+
+(299)
+
+8.2.4.
+(300)
+
+(301)
+
+Similarly, according to the Parties, the number of VMware’s new virtualization
+licenses estimated by IDC (Table 13) does not correspond to the figures from
+VMware’s own data. To compute shares of new virtualization licenses worldwide in
+traditional datacentre and private cloud deployments that are based on the most
+accurate data available, the Parties adjusted VMware’s estimated number of new
+virtualized licenses provided by IDC (Table 13) to instead include VMware’s actual
+number of new virtualized licenses. As a result, VMware would have a market share
+of [30-40]% in 2019, [30-40]% in 2020 and [20-30]% in 2021.3** The Parties did not
+put forward adjusted shares for competitors (but it can be assumed that this would
+not significantly change the market shares of competitors).
+
+These market shares and VMware’s position in the server virtualization software
+market will be discussed further below in Section 8.4.3.2.1.2.
+
+FC HBAs
+
+Tables 15 to 16 set out Broadcom’s and its main competitors’ market shares for the
+years 2017-2022. Table 15 presents shares by revenues (Crehan Research) and
+Table 16 presents volume shares. Once again, there are some methodological
+differences between the various methods.
+
+First, with regard to the revenue shares, the market shares are based on Crehan
+Research’s estimates of vendors’ revenues and market size and includes sales to
+
+331
+
+332
+
+These shares are based on VMware’s internal data for VMware volumes and IDC data for third-party
+volumes. The number of installed virtualized CPUs is the sum of all licenses shipped by each
+competitor in previous years that are still active.
+
+SO Response, Table 3, page. 101.
+
+71
 
 
-a
-
-  Source: Form CO, Table 62 and Annex 4 to Annex RFI 13 O 1
-
-  (298)    Similarly, according to the  Parties, the number of VMware’s new virtualization
-           licenses estimated by IDC (Table  13) does not correspond  to the figures from
-        VMware’s own data. To compute shares of new virtualization licenses worldwide in
-           traditional datacentre and private cloud deployments that are based on the most
-          accurate data available, the Parties adjusted VMware’s estimated number of new
-           virtualized licenses provided by IDC (Table 13) to instead include VMware’s actual
-        number of new virtualized licenses. As a result, VMware would have a market share
-         of [30-40]% in 2019, [30-40]% in 2020 and [20-30]% in 2021.7” The Parties did not
-          put forward adjusted shares for competitors (but  it can be assumed that this would
-          not significantly change the market shares of competitors).
-
-  (299)   These market shares and VMware’s position in the server virtualization software
-         market will be discussed further below in Section 8.4.3.2.1.2.
-
-
-  8.2.4.  FC HBAs
-
-  (300)   Tables 15 to 16 set out Broadcom’s and its main competitors’ market shares for the
-          years 2017-2022. Table 15 presents shares by revenues (Crehan Research) and
-         Table 16  presents volume  shares. Once  again,  there  are some methodological
-          differences between the various methods.
-
-  (301)    First, with regard to the revenue shares, the market shares are based on Crehan
-          Research’s estimates of vendors’ revenues and market size and includes sales to
-
-
-
-
-   331      These shares are based on VMware’s internal data for VMware volumes and IDC data for third-party
-          volumes. The number of installed  virtualized CPUs  is the sum of all licenses shipped by each
-          competitor in previous years that are still active.
-   332     SO Response, Table 3, page. 101.
-
-
-
-
-                                               71
 
 [PÁGINA PDF 74 | texto OCR: verificar contra el PDF]
-          storage array customers. The Notifying Party adjusted the data to reflect Broadcom’s
-          actual revenues.
+storage array customers. The Notifying Party adjusted the data to reflect Broadcom’s
+actual revenues.
 
- Table 15: FC HBAs (stand-up and mezzanine type)*** (worldwide, by revenue)**4
-a
+Table 15: FC HBAs (stand-up and mezzanine type)**? (worldwide, by revenue)**4
+Broadcom Marvell Others Total
+
+2017 Revenue (USD M) [...] [.--] [.--] [.--]
+
+Share (%) [40-50] [50-60] [0-5] 100
+2018 Revenue (USD M) [...] [..-] [..-] [.-.]
+
+Share (%) [50-60] [40-50] [0-5] 100
+2019 Revenue [...] [.--] [...] [...]
+
+(USD M)
+
+Share (%) [60-70] [30-40] [0-5] 100
+2020 Revenue (USD M) [...] [.--] [.-.] [...]
+
+Share (%) [60-70] [30-40] [0-5] 100
+2021 Revenue (USD M) [...] [.-.] [.-.] [.-.]
+
+Share (%) [60-70] [30-40] [0-5] 100
+2022 Revenue (USD M) [...] [.--] [.-.] [.-.]
+(Q1-Q3) [Share (%) [60-70] [30-40] [0-5] 100
+
+Source: Form CO, Table 71 and Response to RFI 21, Annex Q1.
+
+(302)
+
+Second, with regard to the volume shares, the Notifying Party submitted that it does
+not have information regarding its market shares in terms of the volume of cards
+sold, which they submit is the most appropriate metric. Instead, the Notifying Party
+provided estimated shares of the number of ports sold globally, which it calculated
+based on Crehan Research’s data on FC HBA sales reported. These shares are now
+set out in Table 16 and include sales to storage array customers. While FC HBAs
+can have from one to four ports, FC HBAs used in storage arrays typically have a
+higher number of ports (e.g., four ports).
+
+333 Ss
+
+tand-up and mezzanine are form factors for PCI expansion cards. The difference between both cards is
+
+only related to the physical form factor of the underlying card, not the functionality.
+
+334 These market shares are based on Crehan Research’s estimates of vendors’ revenues and market size.
+Crehan’s data has been adjusted to reflect Broadcom’s actual revenues. The latest Crehan data reports
+only cover until 2022 Q3 and the Notifying Party therefore considers it is not possible to provide actual
+shares for the whole of year 2022.
+
+72
 
 
-
-
-
- 2019     Revenue                                  [...]                   [...]                 [...]                  [.-.]
-         (USD M)
-
-
-
-
-
-29 fee [eT                  er
- Source: Form CO, Table 71 and Response to RFI 21, Annex Q1.
-
- (302)   Second, with regard to the volume shares, the Notifying Party submitted that it does
-         not have information regarding  its market shares in terms of the volume of cards
-           sold, which they submit is the most appropriate metric. Instead, the Notifying Party
-         provided estimated shares of the number of ports sold globally, which it calculated
-         based on Crehan Research’s data on FC HBA sales reported. These shares are now
-           set out in Table 16 and include sales to storage array customers. While FC HBAs
-         can have from one to four ports, FC HBAs used in storage arrays typically have a
-         higher number of ports (e.g., four ports).
-
-
-
-
-
-  333      Stand-up and mezzanine are form factors for PCI expansion cards. The difference between both cards is
-          only related to the physical form factor of the underlying card, not the functionality.
-  334      These market shares are based on Crehan Research’s estimates of vendors’ revenues and market size.
-         Crehan’s data has been adjusted to reflect Broadcom’s actual revenues. The latest Crehan data reports
-         only cover until 2022 Q3 and the Notifying Party therefore considers it is not possible to provide actual
-          shares for the whole of year 2022.
-
-
-
-
-                                           72
 
 [PÁGINA PDF 75 | texto OCR: verificar contra el PDF]
- Table 16: FC HBAs (worldwide, by volume)
-[Bi                            Naet [esta
+Table 16:
+
+FC HBAs (worldwide, by volume)
+
+Broadcom Marvell Others Total
+
+2017 Ports (‘000s) [...] [...] [...] [.-.]
+
+Share (%) [50-60] [40-50] [0-5] 100
+
+2018 Ports (‘000s) [...] [...] [...] [.-.]
+
+Share (%) [50-60] [40-50] [0-5] 100
+2019 Ports (‘000s) [...] [...] [...] [...]
+Share (%) [60-70] [30-40] [0-5] 100
+2020 Ports (000s) [..-] [...] [...] [...]
+Share (%) [60-70] [30-40] [0-5] 100
+2021 Ports (000s) [...] [...] [...] [...]
+Share (%) [60-70] [30-40] [0-5] 100
+
+2022 Ports (‘000s) [...] [...] [...] [.-.]
+
+(Q1-Q3) Share (%) [60-70] [30-40] [0-5] 100
+
+Source: Response to RFI 21, Annex QO1 and Response to RFI 26.
+
+8.2.5. Storage adapters
+
+(303) Tables 17 and 18 set out Broadcom’s and its main competitors’ market shares for the
+years 2017 to 2022. Table 17 presents shares by revenues and Table 18 presents
+volume shares.
+
+(304) With regard to both the revenue and the volume shares, the Notifying Party submits
+that there is no third-party source available. It has provided estimated market shares
+on the assumption that the market for storage adapters is composed of: (i) ready-built
+storage adapters supplied by Broadcom, Microchip and Marvell (i.e., “boards”); and
+(ii) storage adapters built by third parties using Broadcom’s or Microchip’s storage
+controllers (i.e., “Broadcom and Microchip-based boards”). The Notifying Party
+believes that Broadcom-based storage adapters sold by third parties and can be
+viewed as competing with Broadcom’s own storage adapters.
+
+(305) Broadcom’s sales were estimated based on its own sales data, whereas competitors’
+
+sales were estimated based on Broadcom’s business intelligence.*?°
+
+335 For Broadcom’s shares, the Notifying Party used, as a first step, the amount of Broadcom’s storage
+
+controllers (value and volume). As a second step, it estimated sales of Broadcom-based storage
+adapters: (i) volume sales of storage adapters were considered equal to volume sales of storage
+controllers; value sales of storage adapters were estimated by multiplying by [Business secret — price
+structure] the average selling prices of Broadcom’s storage controllers.
+For Microchip’s share, as a first step, the Notifying Party provided its best estimate of volume sales of
+Microchip boards and Microchip-based boards by customer. As a second step, provided its best
+estimate for the average selling price of Microchip Boards and Microchip-based Boards, depending on
+the customer and year. Estimated value sales were obtained by multiplying estimated volume sales by
+the average selling price. Marvell’s shares were provided based on the Notifying Party’s best estimates.
+See Annex 21 (Conglomerate) to Form CO.
+
+73
 
 
-
-
-
-             Share (%)              [50-60]               [40-50]               [0-5]
-
-
-             Share (%)              [60-70]               [30-40]               [0-5]
-
-
-             Share (%)              [60-70]               [30-40]               [0-5]
-
-
-
-
-HO)  PSs 09
-
-
- Source: Response to RFI 21, Annex Q1 and Response to RFI 26.
-
- 8.2.5.   Storage adapters
-
- (303)   Tables 17 and 18 set out Broadcom’s and its main competitors’ market shares for the
-         years 2017 to 2022. Table 17 presents shares by revenues and Table 18 presents
-        volume shares.
-
- (304)   With regard to both the revenue and the volume shares, the Notifying Party submits
-           that there is no third-party source available. It has provided estimated market shares
-        on the assumption that the market for storage adapters is composed of: (i) ready-built
-          storage adapters supplied by Broadcom, Microchip and Marvell (i.e., “boards”); and
-              (11) storage adapters built by third parties using Broadcom’s or Microchip’s storage
-          controllers  (i.e.,  “Broadcom and Microchip-based boards”). The Notifying Party
-          believes  that Broadcom-based storage adapters sold by third parties and can be
-        viewed as competing with Broadcom’s own storage adapters.
-
- (305)   Broadcom’s sales were estimated based on its own sales data, whereas competitors’
-           sales were estimated based on Broadcom’s business intelligence.**°
-
-
-
-
-
-  335      For Broadcom’s shares, the Notifying Party used, as a first step, the amount of Broadcom’s storage
-           controllers  (value and volume). As  a second  step,  it estimated  sales of Broadcom-based storage
-           adapters:  (i) volume sales of storage adapters were considered equal to volume  sales of storage
-           controllers; value sales of storage adapters were estimated by multiplying by [Business secret — price
-           structure] the average selling prices of Broadcom’s storage controllers.
-         For Microchip’s share, as a first step, the Notifying Party provided its best estimate of volume sales of
-         Microchip boards and Microchip-based boards by customer. As a second  step, provided  its best
-          estimate for the average selling price of Microchip Boards and Microchip-based Boards, depending on
-          the customer and year. Estimated value sales were obtained by multiplying estimated volume sales by
-          the average selling price. Marvell’s shares were provided based on the Notifying Party’s best estimates.
-         See Annex 21 (Conglomerate) to Form CO.
-
-
-
-
-                                            73
 
 [PÁGINA PDF 76 | texto OCR: verificar contra el PDF]
-Table 17: Storage adapters (worldwide, by revenue)*”®
-                  Broadcom.  pace   Broadcom    Microchipand Microchip-boards      Marvellstorage      Total
-                                                                                  aseq    nat          ora          based boards        adapters
+Table 17: Storage adapters (worldwide, by revenue)**°
 
-2017 | Revenue             [...]                 [..-]                                         [...]                                    [...]
-     (USD M)
-
-
-2018 | Revenue             [...]                 [..-]                                         [...]                                    [...]
-     (USD M)
-
-
-2019 | Revenue             [...]                                                               [...]                                    [...]
-     (USD M)
-
-
-2020 | Revenue             [...]                                                               [...]                                    [...]
-     (USD M)
-
-
-2021 | Revenue             [...]                                                               [...]                                    [...]
-     (USD M)
-
-
-2022 | Revenue             [...]                 [..-]                                         [...]                                    [...]
-     (USD M)
-
-
-
+Microchip boards Marvell
+Broad Broadcom- Broad . .
+boards | basedboards | total | 4 Microchip | storage "| Total
+2017 | Revenue [...] [...] [...] [...] [...] [...]
+(USD M)
+Share (%) [20-30] [40-50] [60-70] [20-30] [5-10] [...]
+2018 | Revenue [...] [...] [...] [...] [...] [...]
+(USD M)
+Share (%) [20-30] [40-50] [60-70] [20-30] [5-10] [...]
+2019 | Revenue [...] [...] [...] [...] [..-] [...]
+(USD M)
+Share (%) [20-30] [40-50] [60-70] [20-30] [5-10] [..]
+2020 | Revenue [...] [...] [..-] [...] [..-] [...]
+(USD M)
+Share (%) [20-30] [40-50] [70-80] [20-30] [5-10] [...]
+2021 | Revenue [...] [...] [..-] [..-] [..-] [..-]
+(USD M)
+Share (%) [30-40] [40-50] [70-80] [20-30] [5-10] [..]
+2022 | Revenue [..-] [...] [..-] [..-] [...] [..-]
+(USD M)
+Share (%) [30-40] [40-50] [80-90] [10-20] [0-5] [..]
 
 Source: Form CO, Table 73 and Response to RFI 21, Annex QO.
 
+336
+
+These shares are based on the Parties’ best estimates. See Annex 20-21 (Conglomerate) to the Form CO
+for a methodology note. No third-party data is available.
+
+74
 
 
-
-
-336      These shares are based on the Parties’ best estimates. See Annex 20-21 (Conglomerate) to the Form CO
-         for a methodology note. No third-party data is available.
-
-
-
-
-                                        74
 
 [PÁGINA PDF 77 | texto OCR: verificar contra el PDF]
 Table 18: Storage adapters (worldwide, by volume)
 
-                  Broadcom    Broadcom-    Broadcom    Microchip     Marvell     Total
-                    boards        based boards |  total          boards   and| storage
-                                                                Microchip-     adapters
-                                                              based boards
+Broadcom Broadcom- Broadcom Microchip Marvell Total
+boards based boards | total boards and | storage
+Microchip- adapters
+based boards
 
-2017  |Volume            [...]                                     [...]                                   [...]              [...]
-      (Number
-       of
-        devices)
+2017 | Volume [...] [...] [..-] [...] [..-] [...
+(Number
+of
 
-       Share          [10-20]         [50-60]        [60-70]         [20-30]        [10-20]            [...]
-       (%)
+devices)
 
-2018  | Volume            [...]                [...]                [...]                                   [...]              [...]
-      (Number
-       of
-        devices)
-       Share          [10-20]         [50-60]        [60-70]         [20-30]        [10-20]            [...]
-       (%)
+Share [10-20] [50-60] [60-70] [20-30] [10-20] [...
+(%)
 
-2019  | Volume            [...]                [...]                [...]                                   [...]              [...]
-      (Number
-       of
-        devices)
-       Share          [10-20]         [40-50]        [60-70]         [20-30]        [10-20]            [...]
-       (%)
+2018 | Volume [...] [...] [J [J [...] [...
+(Number
+of
 
-2020  | Volume            [...]                [...]                [...]                                   [...]              [...]
-      (Number
-       of
-        devices)
-       Share          [10-20]         [50-60]        [60-70]         [10-20]        [10-20]            [...]
-       (%)
+devices)
 
-2021 | Volume            [...]                [...]                [...]                                   [...]              [...]
-      (Number
-       of
-        devices)
-       Share          [20-30]         [40-50]        [60-70]         [20-30]        [10-20]            [...]
-       (%)
+Share [10-20] [50-60] [60-70] [20-30] [10-20] [...
+(%)
 
-2022  | Volume            [...]                [...]                [...]                                   [...]              [...]
-      (Number
-       of
-        devices)
-       Share          [20-30]         [40-50]        [70-80]         [10-20]        [10-20]            [...]
-       (%)
+2019 | Volume [...] [...] [...] [..] [...] [...
+(Number
+of
+
+devices)
+
+Share [10-20] [40-50] [60-70] [20-30] [10-20] [...
+(%)
+
+Th [J [...] [...] [...] [J [...
+(Number
+of
+
+devices)
+
+Share [10-20] [50-60] [60-70] [10-20] [10-20] [...
+(%)
+
+2021 | Volume [...] [...] [..] [.-] [...] [...
+(Number
+of
+
+devices)
+
+Share [20-30] [40-50] [60-70] [20-30] [10-20] [...
+(%)
+
+2022 | Volume [..-] [...] [..-] [..-] [..-] [...
+(Number
+of
+
+devices)
+
+Share [20-30] [40-50] [70-80] [10-20] [10-20] [...
+(%)
+
+Source: Form CO, Table 74 and Response to RFI 21, Annex OO.
+
+75
 
 
-Source: Form CO, Table 74 and Response to RFI 21, Annex QO.
-
-
-
-
-
-                                          75
 
 [PÁGINA PDF 78 | texto OCR: verificar contra el PDF]
-8.2.6.   NICs
+8.2.6. NICs
 
-(306)   Tables 19 and 20  set out Broadcom’s and its main competitors’ market shares for
-         the years 2020-2022. Table 19 presents shares by revenues and Table 20  presents
-       volume shares.
+(306) Tables 19 and 20 set out Broadcom’s and its main competitors’ market shares for
+the years 2020-2022. Table 19 presents shares by revenues and Table 20 presents
+volume shares.
 
 Table 19: Ethernet NICs (worldwide, by revenue)**”
- ee2
 
-                  M) | (%)     (USD M) | (%)     (USD M)| (%)a               (USD   fal el
+2020 2021 2022
 
+Revenue | Share Revenue | Share Revenue | Share
 
+(USD M) | (%) (USD M) | (%) (USD M) | (%)
+Broadcom [..-] [5-10] [...] [10-20] [...] [10-20]
+Intel [..-] [40-50] [..-] [30-40] [.--] [20-30]
+NVIDIA [...] [30-40] [...] [40-50] [...] [50-60]
+Cisco [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Marvell [.--] [0-5] [...] [0-5] [...] [0-5]
+AMD [.-J [0-5] [...] [0-5] [...] [0-5]
+Chelsio [.--] [0-5] [...] [0-5] [...] [0-5]
+Myricom [..-] [0-5] [..-] [0-5] L..-] [0-5]
+Other [.--] [0-5] [...] [0-5] [...] [0-5]
+Total [..-] 100 [..-] 100 [.--] 100
 
-
-
-  rot | ed | too |              | to Fa | 100
 Source: Form CO, Table 66; Parties’ Response to RFI 31
-
 Table 20: Ethernet NICs (worldwide, by volume)
-   Ty                                         )Y
+2020 2021 2022
 
-                              (%)  — | ('000s)      (%) | (000s)      (%)ie('000s) Fe Fe    Broadcom | [J  {fio-29  p.) | o2 |  f.) | 10-20) |
+Ports Share | Ports Share | Ports Share
 
-   Ivins || rozoy} py | poz)|_|  20-30),
-    cisco | |  pos) |p| gos} |    oes
+('000s) (%) ('000s) (%) ('000s) (%)
+Broadcom [...] [10-20] [...] [10-20] [...] [10-20]
+Intel [...] [60-70] [...] [60-70] [...] [60-70]
+NVIDIA [...] [10-20] [...] [10-20] [..-] [20-30]
+Cisco [...] [0-5] [...] [0-5] [...] [0-5]
+Marvell [...] [0-5] [...] [0-5] [...] [0-5]
+AMD L.-J] [0-5] L...] [0-5] L..] [0-5]
+Chelsio [...] [0-5] [...] [0-5] [...] [0-5]
+Myricom [...] [0-5] [...] [0-5] [...] [0-5]
+Other [...] [0-5] [...] [0-5] [...] [0-5]
+Total [...] 100 [...] 100 [...] 100
 
-  amp |          |  ost | py  | os) |p| pos I
-     fchesio | ad | ost | py  | pos) |p| pos I
-     foimer | yf post | | pos) ||  os)
-   fro  |  ny Loo | py | 00 [py | 100_|
-Source: Parties’ Response to RFI 3]
+Source: Parties’ Response to RFI 31
 
+337 These market shares are based on Crehan Research’s estimates of vendors’ revenues and market size.
 
-337      These market shares are based on Crehan Research’s estimates of vendors’ revenues and market size.
-        Crehan’s data has been adjusted to reflect Broadcom’s actual revenues.
+Crehan’s data has been adjusted to reflect Broadcom’s actual revenues.
 
+76
 
-
-
-                                        76
 
 [PÁGINA PDF 79]
 8.3.    Assessment of horizontal effects
@@ -7927,71 +8003,90 @@ Partial foreclosure by delaying or degrading support in response to ad hoc reque
                                     147
 
 [PÁGINA PDF 150 | texto OCR: verificar contra el PDF]
-         experience, Dell will sell          a VMware integrated solution. Similarly, if the customer
-        wants to build themselves, we will sell the software and hardware separately.”*!°
+(701)
 
-(701)    <A few other server OEMs confirmed that the virtualization software selection was
-        determined by the end-customer, and that this choice in the majority of instances was
-       VMware. For instance, one server OEM stated: “Customers will determine which
-        server virtualization software they require. As indicated in response to Question 6
-        above, we estimate that a large majority of our server customers use ESXi on the
-        Cisco UCS servers they purchase. Cisco’s customers will typically also determine
-        whether they want to purchase the server virtualization software directlyfrom Cisco,
-        or through other channels.”*° Another server OEM stated: “Lenovo does not choose
-         the virtualization platform for our customers,  they choose the required software
-       based on the needs of their business. VMware is the market leader followed by the
-        competitors listed above.”®”}
+experience, Dell will sell a VMware integrated solution. Similarly, if the customer
+wants to build themselves, we will sell the software and hardware separately.”*!®
 
-8.4.3.2.2.2.4.  Server virtualization software represents a significant cost factor relative to the
-               price ofFC HBAs
+A few other server OEMs confirmed that the virtualization software selection was
+determined by the end-customer, and that this choice in the majority of instances was
+VMware. For instance, one server OEM stated: “Customers will determine which
+server virtualization software they require. As indicated in response to Question 6
+above, we estimate that a large majority of our server customers use ESXi on the
+Cisco UCS servers they purchase. Cisco’s customers will typically also determine
+whether they want to purchase the server virtualization software directly from Cisco,
+or through other channels.”®° Another server OEM stated: “Lenovo does not choose
+the virtualization platform for our customers, they choose the required software
+based on the needs of their business. VMware is the market leader followed by the
+competitors listed above.”*”}
 
-(702)   End-customers make large investments in their virtualization software infrastructure,
-       which dwarf their investment in FC HBAs.
+8.4.3.2.2.2.4. Server virtualization software represents a significant cost factor relative to the
 
-(703)    First, there is a significant pricing difference between these products. As part of the
-          Parties’ vertical arithmetic analysis,*”* they estimated the average per server price of
-        one   FC HBA®?, compared to the average per server price of a vSphere license and
-         associated support and services. These figures are set out in the Table below.
+(702)
+
+(703)
+
+price of FC HBAs
+
+End-customers make large investments in their virtualization software infrastructure,
+which dwarf their investment in FC HBAs.
+
+First, there is a significant pricing difference between these products. As part of the
+Parties’ vertical arithmetic analysis,*”* they estimated the average per server price of
+one FC HBA*®?, compared to the average per server price of a vSphere license and
+associated support and services. These figures are set out in the Table below.
 
 Table 21: Average price of VMware license, and FC HBA
 
-                                       Average      price.        (USD         Proportion.  ofVMware
-
-
-
-FCHBA                                          [0-56
-
+Average price (USD) a an il
+VMware license [...]®4 N/A
+FC HBA [...] [0-5]%
 
 Source: Form CO, table 82; footnote 1098.
 
-(704)   This is confirmed by server OEMs which indicated that, while FC HBAs perform
-       key functions as part of the server package, their proportion in the total cost of the
-         server is relatively small. For instance, one server OEM indicated: “FC HBAs and/or
-        storage adapters are important parts of the server and perform key functions, but
-         they are not a substantial proportion of the server sales cost.”**° Another server
+(704)
+
+This is confirmed by server OEMs which indicated that, while FC HBAs perform
+key functions as part of the server package, their proportion in the total cost of the
+server is relatively small. For instance, one server OEM indicated: “FC HBAs and/or
+storage adapters are important parts of the server and perform key functions, but
+they are not a substantial proportion of the server sales cost.”**° Another server
+
+819
+820
+821
+822
+
+824
+
+825
+
+Dell’s non-confidential reply to RFI 1, question 7 [ID 3556].
+
+Cisco’s non-confidential reply to RFI 1, question 7 [ID 4288].
+
+Replies to Q4 — questionnaire to customers of VMware and Broadcom, question 25.1 [ID 1912].
+
+Annex 55 (Conglomerate) to the Form CO.
+
+One storage adapter or one FC HBA per CPU.
+
+VMware indicates that the price of a licence for vSphere plus associated products (NSX, vVSAN, SDDC
+Manager and vRealize) is about USD [Business secret — price structure] per CPU. The average license
+is used for [Business secret — production process] years, so we conservatively estimate the price of a
+licence for five years (lifetime of the server) to be USD [Business secret — price structure] per CPU. The
+Parties' conclusions are robust to alternative values. VMware estimates that the price of associated
+support and services is about USD [Business secret — price structure] per CPU. This estimate reflects
+the penetration rates of these VMware products for customers that purchase vSphere, which VMware
+estimates to be [Business secret — price structure] for NSX, [Business secret — price structure] for
+vSAN, [Business secret — price structure] for SDDC and [Business secret — price structure] for
+vRealize. See Annex 56 (Conglomerate) to the Form CO for more details.
+
+HPE’s non-confidential reply to RFI 1, question 5 j) [ID 3507].
+
+148
 
 
-819       Dell’s non-confidential reply to RFI 1, question 7 [ID 3556].
-820      Cisco’s non-confidential reply to RFI 1, question 7 [ID 4288].
-821      Replies to Q4 — questionnaire to customers ofVMware and Broadcom, question 25.1 [ID 1912].
-822     Annex 55 (Conglomerate) to the Form CO.
-823     One storage adapter or one FC HBA per CPU.
-824     VMware indicates that the price of a licence for vSphere plus associated products (NSX, vVSAN, SDDC
-       Manager and vRealize) is about USD [Business secret — price structure] per CPU. The average license
-            is used for [Business secret — production process] years, so we conservatively estimate the price of a
-         licence for five years (lifetime of the server) to be USD [Business secret — price structure] per CPU. The
-          Parties' conclusions are robust to alternative values. VMware estimates that the price of associated
-         support and services is about USD [Business secret — price structure] per CPU. This estimate reflects
-         the penetration rates of these VMware products for customers that purchase vSphere, which VMware
-         estimates to be [Business secret — price structure] for NSX, [Business secret — price structure]  for
-       vSAN,  [Business  secret — price  structure]  for SDDC and [Business  secret — price  structure]  for
-         vRealize. See Annex 56 (Conglomerate) to the Form CO for more details.
-825     HPE’s non-confidential reply to RFI 1, question 5 j) [ID 3507].
-
-
-
-
-                                         148
 
 [PÁGINA PDF 151]
      OEM submitted: “Both FC HBAs and storage adapters typically do not represent a
@@ -8923,115 +9018,116 @@ Source: Form CO, table 82; footnote 1098.
                                     165
 
 [PÁGINA PDF 168 | texto OCR: verificar contra el PDF]
- Table 22: FC HBA market shares (revenue, worldwide)
+Table 22: FC HBA market shares (revenue, worldwide)
 
-              2017      2018      2019      2020      2021          2022
-               (%)       (%)       (%)       (%)       (%)       (Q1-Q3) (%)
-                [40-50]  |  [50-60]  |  [60-70]  |  [60-70]  |  [60-70]          [60-70]
-| Marvell      [50-60]  |  [40-50]  |  [30-40]  |  [30-40]  |  [30-40]          [30-40]
-|Others          [0-5]        [0-5]         [0-5]        [0-5]        [0-5]             [0-5]
-pret [ew fee
- Source: Form CO, Table 71 and Response to RFI 21, Annex Q1.
+2017 2018 2019 2020 2021 2022
 
- (795)   Broadcom’s  dominant,  or  at  least very  strong  position,  is  also confirmed by
-        Broadcom’s internal documents, which will be discussed below.
+(%) (%) (%) (%) (%) (Q1-Q3) (%)
+Broadcom | [40-50] | [50-60] | [60-70] | [60-70] | [60-70] [60-70]
+Marvell [50-60] | [40-50] | [30-40] | [30-40] | [30-40] [30-40]
+Others [0-5] [0-5] [0-5] [0-5] [0-5] [0-5]
+Total 100 100 100 100 100 100
 
- (796)   The Commission does not consider the Notifying Party’s argument credible that the
-        Commission should not take  into account  at  least [Business  secret — quantities
-         sold]% of Broadcom’s FC HBA sales for its assessment of Broadcom’s position on
-          the market for FC HBAs, because these FC HBAs are not mounted inside servers but
-          instead will be mounted into storage arrays, which do not run VMware.””’ As set out
-         above (see Section 7.5.7.5.2.3.), there is    a worldwide market for FC HBAs, which is
-          not segmented based on type of customer or end-use. On the contrary, the Notifying
-         Party also submitted in the Form CO that it considers there is     a worldwide market for
-       FC HBAs which requires no further segmentation.*°° The results of the market
-          investigation  did  not  bring  forth any  evidence  to  contradict  this  conclusion.
-         Furthermore, in Broadcom/Brocade,  it was indicated that only a minority of FC
-       HBAs (15%)  are used in storage devices  (i.e.,  storage  arrays), while  the  large
-          majority of FC HBAs are mounted in servers.
+Source: Form CO, Table 71 and Response to RFI 21, Annex Q1.
 
- (797)    Further,  the Notifying Party indicated  that, during the Covid-19 pandemic and
-          [Business  secret  —  details  of Broadcom  supply  agreements].7!  °?  33  The
-        Commission has looked at these [Business secret — number of customers] Broadcom
-         customers’ purchasing behaviour between 2017 and 2022, and notes  that these
-         purchases seem [Business secret — know-how: evolution of purchasing behavior of
-          certain Broadcom customers].  Therefore,  the Commission does not expect  that
-          [Business secret — know-how: discussion of Broadcom supply agreements] would
-          materially affect Broadcom’s growing FC HBA market share trend. See Table 23,
-         Figure 21, Table 23 and Figure 22 below.
+(795)
+
+(796)
+
+(797)
+
+Broadcom’s dominant, or at least very strong position, is also confirmed by
+Broadcom’s internal documents, which will be discussed below.
+
+The Commission does not consider the Notifying Party’s argument credible that the
+Commission should not take into account at least [Business secret — quantities
+sold]% of Broadcom’s FC HBA sales for its assessment of Broadcom’s position on
+the market for FC HBAs, because these FC HBAs are not mounted inside servers but
+instead will be mounted into storage arrays, which do not run VMware.®”’ As set out
+above (see Section 7.5.7.5.2.3.), there is a worldwide market for FC HBAs, which is
+not segmented based on type of customer or end-use. On the contrary, the Notifying
+Party also submitted in the Form CO that it considers there is a worldwide market for
+FC HBAs which requires no further segmentation.° The results of the market
+investigation did not bring forth any evidence to contradict this conclusion.
+Furthermore, in Broadcom/Brocade, it was indicated that only a minority of FC
+HBAs (15%) are used in storage devices (i.e., storage arrays), while the large
+majority of FC HBAs are mounted in servers.
+
+Further, the Notifying Party indicated that, during the Covid-19 pandemic and
+[Business secret — details of Broadcom supply agreements].%7! °? 3 The
+Commission has looked at these [Business secret — number of customers] Broadcom
+customers’ purchasing behaviour between 2017 and 2022, and notes that these
+purchases seem [Business secret — know-how: evolution of purchasing behavior of
+certain Broadcom customers]. Therefore, the Commission does not expect that
+[Business secret — know-how: discussion of Broadcom supply agreements] would
+materially affect Broadcom’s growing FC HBA market share trend. See Table 23,
+Figure 21, Table 23 and Figure 22 below.
+
+929
+930
+931
+932
+
+933
+
+Parties’ reply to RFI 21.
+
+Form CO, paragraphs 640-650.
+
+[Business secret - customers].
+
+Broadcom is a fabless company that outsources semiconductor manufacture to contract manufacturers
+including [Business secret — know-how].
+
+Parties’ reply to RFI 21.
+
+166
 
 
-
-
-
-  929       Parties’ reply to RFI 21.
-  930     Form CO, paragraphs 640-650.
-  931       [Business secret - customers].
-  932     Broadcom is a fabless company that outsources semiconductor manufacture to contract manufacturers
-          including [Business secret — know-how].
-  933       Parties’ reply to RFI 21.
-
-
-
-
-                                         166
 
 [PÁGINA PDF 169 | texto OCR: verificar contra el PDF]
 Table 23: Share of Broadcom FC HBA customers’ purchases with Broadcom
 
-      Broadcom          2017
+Broadcom 2017 2018 2019 2020 2021 2022
+customer
+[Business secret —| [0-5] [0-5] [0-5] [0-5] [0-5] [0-5]
+customer]
+[Business secret —} [20-30] | [20-30] | [20-30] | [10-20] | [20-30] | [20-30]
+customer]
+[Business secret —] [20-30] | [20-30] | [20-30] | [20-30] | [20-30] | [20-30]
+customer]
+[Business secret —| [0-5] [0-5] [0-5] [5-10] [5-10] [0-5]
+customer]
+[Business secret —| [0-5] [0-5] [0-5] [0-5] [0-5] [0-5]
+customer]
+[Business secret — - - - - - [10-20]
+customer]
+Total [50-60] | [50-60] | [50-60] | [50-60] | [50-60] | [60-70]
 
-       customer
-
-         [Business  secret  —|     [0-5]       [0-5]       [0-5]       [0-5]       [0-5]       [0-5]
-        customer]
-
-         [Business  secret  —|   [20-30] | [20-30]  | [20-30] |  [10-20]  | [20-30] |  [20-30]
-        customer]
-
-         [Business  secret    —]|   [20-30]  |  [20-30]  |  [20-30]  | [20-30]  |  [20-30]  |  [20-30]
-         customer]
-
-         [Business  secret  —|     [0-5]       [0-5]       [0-5]      [5-10]     [5-10]      [0-5]
-        customer]
-
-         [Business  secret  —|     [0-5]       [0-5]       [0-5]       [0-5]       [0-5]       [0-5]
-        customer]
-
-         [Business  secret —                                                           [10-20]
-        customer]
-                               [50-60] | [50-60] |  [50-60] | [50-60] | [50-60] |  [60-70]
-
-
-Source: Commission’s analysis ofBroadcom’s Transaction Data
-
-
+Source: Commission’s analysis of Broadcom’s Transaction Data
 
 Figure 21: Volume shares of Broadcom FC HBA customers’ purchases with Broadcom
 
-[...]
-
-Source: Commission’s analysis ofBroadcom’s Transaction Data
+Source: Commission’s analysis of Broadcom’s Transaction Data
 
 Figure 22: Volumes of Broadcom FC HBA customers’ purchases with Broadcom
 
 [...]
 
-Source: Commission’s analysis ofBroadcom’s Transaction Data
+Source: Commission’s analysis of Broadcom’s Transaction Data
 
-(798)   Second, new entry is unlikely. The Notifying Party indicated that there has not been
-        any significant entry in the markets for FC HBAs in the last five years.*4 This  is
-          later contradicted by the Notifying Party’s reply to RFI 21 which states: “[Business
-         secret — know-how concerning competitive conditions].”?*? °° However, none of
-       Broadcom’s hardware  rivals, including Marvell,  identified  this player as a new
+(798) Second, new entry is unlikely. The Notifying Party indicated that there has not been
+any significant entry in the markets for FC HBAs in the last five years.**4 This is
+later contradicted by the Notifying Party’s reply to RFI 21 which states: “[Business
+secret — know-how concerning competitive conditions].”?*? °° However, none of
+Broadcom’s hardware rivals, including Marvell, identified this player as a new
+entrant.
 
-          entrant.
+(799) Third, Broadcom internal documents confirm Broadcom’s dominant, or at least
+very strong, position in these markets.
 
-(799)    Third, Broadcom internal documents confirm Broadcom’s dominant, or at least
-        very strong, position in these markets.
-
-(800)   For mstance,   a Broadcom presentation from [Details of internal document describing
-       Broadcom’s FC HBA sales].*?”
+(800) For instance, a Broadcom presentation from [Details of internal document describing
+Broadcom’s FC HBA sales].?7”
 
 Figure 23: Broadcom’s sales of 32G FC HBAs
 
@@ -9039,17 +9135,14 @@ Figure 23: Broadcom’s sales of 32G FC HBAs
 
 Source: Broadcom
 
+934 Form CO, paragraph 943.
 
+935 Parties’ reply to RFI 21.
+936 Parties’ reply to RFI 21.
+937 Broadcom internal document, [Other confidential information — Broadcom’s internal documents].
 
-934     Form CO, paragraph 943.
-935       Parties’ reply to RFI 21.
-936       Parties’ reply to RFI 21.
-937     Broadcom internal document, [Other confidential information — Broadcom’s internal documents].
+167
 
-
-
-
-                                         167
 
 [PÁGINA PDF 170]
 (801)  A presentation containing a [Details on internal document describing evolution of
@@ -9702,64 +9795,61 @@ Source: Broadcom
                                     179
 
 [PÁGINA PDF 182 | texto OCR: verificar contra el PDF]
- Table 24: Storage adapters market shares (revenue, worldwide)?”
-Ss  2017 (%) | 2018(%) | 2019(%) | 2020(%) | 2021(%) | 2022 (%)
- Broadcom’s    [20-30]      [20-30]       [20-30]      [20-30]       [30-40]      [30-40]
+Table 24: Storage adapters market shares (revenue, worldwide)?”
+
+2017 (%) | 2018 (%) | 2019(%) | 2020(%) | 2021 (%) | 2022 (%)
+Broadcom’s
+Boards [20-30] [20-30] [20-30] [20-30] [30-40] [30-40]
+Broadcom-
+based [40-50] [40-50] [40-50] [40-50] [40-50] [40-50]
+boards
+Microchip
+boards and
+Microchip- [20-30] [20-30] [20-30] [20-30] [20-30] [10-20]
+based
+boards
+Marvell-
+based [5-10] [5-10] [5-10] [5-10] [5-10] [0-5]
+boards?”?
+Total 100 100 100 100 100 100
+Source: Form CO, Table 73 and Annex Q6 to RFI 21 response
+Table 25: Storage adapters market shares (volumes, worldwide)
+
+2017 (%) | 2018 (%) | 2019 (%) | 2020 (%) | 2021 (%) | 2022 (%
+
+Broadcom’s Boards [10-20] [10-20] [10-20] [10-20] [20-30] [20-30]
+eS [50-60] | [50-60] | [40-50] | [50-60] | [40-50] | [40-50]
+boards
+Microchip boards
+and Microchip- [20-30] [20-30] [20-30] | [10-20] | [20-30] [10-20]
+based boards
+pac ae [10-20] | [10-20] | [10-20] } [10-20] | [10-20] | [10-20]
+Total 100 100 100 100 100 100
+
+Source:Form CO, Table 73 and Annex Q6 to RFI 21 response
+
+1000
+
+These shares are based on the Parties’ best estimates. See Annexes (Conglomerate) 20-21 to the Form
+CO for a methodology note. No third-party data is available.
+
+Marvell supplies certain chip solutions (SATA controllers, SATA-to-PATA Bridges, SAS/SATA
+Controllers, and SAS to SATA Protocol Converts) to customers that then use the chip to create their
+own board-level storage adapters. Marvell does not build or sell any of these adapters. Marvell has a
+single production board solution (NVMe) that it sells to HPE, which relabels the card with their logo
+and sells to their end-customers. See e-mail exchange with Marvell between 3 and 17 February 2023
+[ID 3661].
+
+Marvell supplies certain chip solutions (SATA controllers, SATA-to-PATA Bridges, SAS/SATA
+Controllers, and SAS to SATA Protocol Converts) to customers that then use the chip to create their
+own board-level storage adapters. Marvell does not build or sell any of these adapters. Marvell has a
+single production board solution (NVMe) that it sells to HPE, which relabels the card with their logo
+and sells to their end-customers. See e-mail exchange with Marvell between 3 and 17 February and
+2023 [ID 3661].
+
+180
 
 
- Broadcom-
- based           [40-50]       [40-50]       [40-50]       [40-50]       [40-50]       [40-50]
- boards
-
- Microchip
- boards  and
- Microchip- |  [20-30]      [20-30]       [20-30]      [20-30]       [20-30]      [10-20]
- based
-
- boards
-
- Marvell-
- based            [5-10]        [5-10]        [5-10]        [5-10]        [5-10]         [0-5]
- boards?”
-a
-
- Source: Form CO, Table 73 and Annex Q6 to RFI 21 response
-
- Table 25: Storage adapters market shares (volumes, worldwide)
-|                  2017  (%)  | 2018  (%) | 2019  (%)  | 2020  (%) | 2021   (%) | 2022  (%
-
- Broadcom’s Boards      10-20      10-20      10-20      10-20     20-30     20-30
-
-ee        [50-60]  |  [50-60] |  [40-50] |  [50-60]  |  [40-50] |  [40-50] boards
-
- Microchip boards
- and Microchip-          [20-30] |  [20-30] |  [20-30] |  [10-20] |  [20-30] |  [10-20]
- based boards
- sear c           [10-20]  |  [10-20] |  [10-20] |  [10-20]  |  [10-20] |  [10-20]
-ford |  100 | 100 | 100 | 100 | 100 | 100 |
- Source:Form CO, Table 73 and Annex Q6 to RFI 21 response
-
-
-
- 998      These shares are based on the Parties’ best estimates. See Annexes (Conglomerate) 20-21 to the Form
-      CO for a methodology note. No third-party data is available.
- 999      Marvell  supplies  certain chip  solutions (SATA  controllers, SATA-to-PATA Bridges, SAS/SATA
-           Controllers, and SAS to SATA Protocol Converts) to customers that then use the chip to create their
-       own board-level storage adapters. Marvell does not build or sell any of these adapters. Marvell has a
-           single production board solution (NVMe) that it sells to HPE, which relabels the card with their logo
-         and sells to their end-customers. See e-mail exchange with Marvell between 3 and 17 February 2023
-         [ID 3661].
-  1000     Marvell  supplies  certain chip  solutions (SATA  controllers, SATA-to-PATA Bridges, SAS/SATA
-           Controllers, and SAS to SATA Protocol Converts) to customers that then use the chip to create their
-       own board-level storage adapters. Marvell does not build or sell any of these adapters. Marvell has a
-           single production board solution (NVMe) that it sells to HPE, which relabels the card with their logo
-         and sells to their end-customers. See e-mail exchange with Marvell between 3 and 17 February and
-         2023 [ID 3661].
-
-
-
-
-                                         180
 
 [PÁGINA PDF 183]
 (879)   There are two other companies that supply storage controllers for storage adapters:
@@ -10078,54 +10168,69 @@ ford |  100 | 100 | 100 | 100 | 100 | 100 |
                                     186
 
 [PÁGINA PDF 189 | texto OCR: verificar contra el PDF]
-8.4.5.2.3.     Impact on effective competition
+8.4.5.2.3. Impact on effective competition
 
-(926)   As set out above in Section 8.4.3.2.3., the Non-Horizontal Merger Guidelines set out
-          that bundling or tying may result in a significant reduction of sales prospects faced
-       by single-component rivals in the market. The reduction in sales by competitors is
-        not in and of itself a problem. Yet, in particular industries,  if this reduction  is
-         significant enough,   it may lead to  a reduction  in  rivals'  ability or incentive  to
-        compete. This may allow the merged entity to subsequently acquire market power (in
-         the market for the tied or bundled good) and/or to maintain market power (in the
-        market for the tying or leveraging good).!°? Furthermore, according to the Non-
-        Horizontal Merger Guidelines,  it is only when a sufficiently large fraction of market
-         output  is affected by foreclosure resulting from the merger that the merger may
-         significantly impede effective competition.!°*
+(926)
 
-(927)   In assessing Broadcom’s market power in the worldwide market  for NICs, the
-       Commission has considered Broadcom’s market position based on market shares,
-         internal documents and the results of the market investigation.
+(927)
 
-(928)   As set out in Table 26, the worldwide market for NICs  is fragmented. In 2022,
-       Broadcom held a share of [10-20]% in NICs  sales. Broadcom faces competition in
-          this market from several strong players, including NVIDIA (with a market share of
-        [40-50]%) and Intel (with a market share of [30-40]%).
+(928)
+
+As set out above in Section 8.4.3.2.3., the Non-Horizontal Merger Guidelines set out
+that bundling or tying may result in a significant reduction of sales prospects faced
+by single-component rivals in the market. The reduction in sales by competitors is
+not in and of itself a problem. Yet, in particular industries, if this reduction is
+significant enough, it may lead to a reduction in rivals' ability or incentive to
+compete. This may allow the merged entity to subsequently acquire market power (in
+the market for the tied or bundled good) and/or to maintain market power (in the
+market for the tying or leveraging good).'°? Furthermore, according to the Non-
+Horizontal Merger Guidelines, it is only when a sufficiently large fraction of market
+output is affected by foreclosure resulting from the merger that the merger may
+significantly impede effective competition.!°*
+
+In assessing Broadcom’s market power in the worldwide market for NICs, the
+Commission has considered Broadcom’s market position based on market shares,
+internal documents and the results of the market investigation.
+
+As set out in Table 26, the worldwide market for NICs is fragmented. In 2022,
+Broadcom held a share of [10-20]% in NICs sales. Broadcom faces competition in
+this market from several strong players, including NVIDIA (with a market share of
+[40-50]%) and Intel (with a market share of [30-40]%).
 
 Table 26: Ethernet NICs (worldwide, by revenue)
 
+2020 2021 2022
 
+Revenue | Share Revenue | Share Revenue | Share
 
-                 Revenue | Share    Revenue | Share    Revenue | Share
-                (USD M) | (%)     (USD M) | (%)     (USD M) | (%)
- finer|)[Broadcom| _(..) ||  (5-10)ao-soy ||[1 ||  so-so10-20) |py|p.|   [10-20 vipa                                                  |  20-30
-    cisco   | pt  |  po-4o |p.1|   pao-soy |p.1|   150-60    Marvel | py | ost | py | os) | op  | fos) |  amp  | 1 | pos) | pa | ost | pi  | os)     chetsio   | p.. | fos} | py | fos) | oy | fos)     IMyricom | py | os) | pr | fos) | py | fos) |  oer   | 1 | pos) | pa |  ost | pi | os   rot ||py ||  ostoo || pypy || 100os) || oypy || fost100 ||
+(USD M) | (%) (USD M) | (%) (USD M) | (%)
+Broadcom [...] [5-10] [...] [10-20] [...] [10-20]
+Intel [...] [40-50] [...] [30-40] [...] [20-30]
+NVIDIA [..-] [30-40] [..-] [40-50] [..-] [50-60]
+Cisco [...] [0-5] [...] [0-5] [..-] [0-5]
+Marvell L..-] [0-5] [..-] [0-5] [..-] [0-5]
+AMD [...] [0-5] [...] [0-5] [..-] [0-5]
+Chelsio [.--] [0-5] [.--] [0-5] [..-] [0-5]
+Myricom [..-] [0-5] [..-] [0-5] [..-] [0-5]
+Other [...] [0-5] [...] [0-5] [...] [0-5]
+Total [..-] 100 [..-] 100 [..-] 100
+
 Source: Form CO, Table 66; Parties’ Response to RFI 31
 
-(929)   Based  on  Broadcom’s  limited  market  share  and  the  presence  of  important
-        competitors in the NICs market, the  Commission therefore concludes that Broadcom
-        has no dominant or strong position in the market for NICs.
+(929)
 
+Based on Broadcom’s limited market share and the presence of important
+competitors in the NICs market, the Commission therefore concludes that Broadcom
+has no dominant or strong position in the market for NICs.
 
+1023
+1024
 
+Non-Horizontal Guidelines, paragraph 111.
+Non-Horizontal Guidelines, paragraph 113.
 
+187
 
-1023     Non-Horizontal Guidelines, paragraph 111.
-1024     Non-Horizontal Guidelines, paragraph 113.
-
-
-
-
-                                         187
 
 [PÁGINA PDF 190]
 (930)   Therefore, the Commission considers that a foreclosure strategy against Broadcom’s

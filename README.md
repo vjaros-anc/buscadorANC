@@ -55,8 +55,10 @@ python remedios_ue/extraer_texto.py --entrada descargas_anc                # tex
 
 ## Texto extraído (`texto_extraido/`)
 
-Salida de `extraer_texto.py` 1.1.0 con `--ocr` (PyMuPDF 2.0 y Tesseract 5.3.4, 22/10/2026),
-para no tener que repetir la extracción ni instalar Tesseract:
+Salida de `extraer_texto.py` 1.2.0 con `--ocr` (PyMuPDF 2.0 y Tesseract 5.3.4 con `--psm 3`
+y binarización de Sauvola, 22/10/2026), para no tener que repetir la extracción ni instalar
+Tesseract. La versión 1.2.0 reemplazó a la 1.1.0, cuyo OCR no leía las celdas de las tablas
+de cuotas:
 
 | Archivo | Qué es |
 |---|---|
@@ -66,8 +68,9 @@ para no tener que repetir la extracción ni instalar Tesseract:
 | `paginas.csv` | Una fila por página (9.100), con su origen y alertas |
 | `resumen.json`, `estado.json` | Conteos y caché de la corrida |
 
-505 páginas de decisiones son imagen y se leyeron por OCR. Esas páginas tienen errores de
-reconocimiento: **una cifra tomada de una página `ocr` se verifica contra el PDF**. La
+505 páginas de decisiones son imagen y se leyeron por OCR, con sus tablas. Esas páginas
+tienen errores de reconocimiento: **una cifra tomada de una página `ocr` se verifica contra
+la imagen del PDF**. La
 validación completa está en `remedios_ue/EXTRACCION_TEXTO.md` de la rama de trabajo.
 
 ## Fuente y reutilización

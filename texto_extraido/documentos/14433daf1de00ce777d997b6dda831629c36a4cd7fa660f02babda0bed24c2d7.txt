@@ -11337,632 +11337,1052 @@ PrimeTime)        (Siemens’ mPower)
                                                              6
 
 [PÁGINA PDF 199 | texto OCR: verificar contra el PDF]
-               Table 1. EDA Product Mapping (design-flow combinations).
+Table 1. EDA Product Mapping (design-flow combinations).
 
- Segment | Level 0                     Level 1       Level 2                          Level 3          Market
+Total EDA (USDM, 2023)
+
+Segment | Level 0 Level 1 Level 2 Level 3 war 303
+IDs Design flow or offering Presentation | Design Stage Function/Segment (USDI__)
+1-4 Front-end Architectural Design 4 functions
+5-11 Front-end Logic / Circuit Design 7 functions
+12-17 | Digital Design Flow Front-end Functional Verification 6 functions [...]
+18-20 Back-end Physical Design 3 functions
+21-31 Back-end Physical Verification & Sign-off 11 functions
+32 Front-end Schematic Design 1 function
+33-34 Front-end Pre-Layout Simulation 2 functions
+35-36 Back-end Layout 2 functions
+Analog Design Flow - - - [...]
+37 Back-end Physical Design 1 function
+38-49 Back-end Physical Verification & Sign-off 12 functions
+50-51 Back-end Post-Layout Simulation 2 functions
+52 Front-end Co-Simulation 1 function
+Mixed-signal Design Flow , ' [...]
+53 Back-end Co-Design 1 function
+54-56 Front-end Schematic Design 3 functions
+Photonic Design Flow ; ; - [...]
+57 Back-end Post-Layout Simulation 1 function
+58 Front-end Pre-Layout Simulation 1 function
+59-60 Front-end Architectural Design 2 functions
+61-63 Front-end Logic / Circuit Design 3 functions
+Multi-die chip Design Flow - - [..-]
+64-68 Front-end Functional Verification 5 functions
+69-76 Back-end Physical Verification & Sign-off | 8 functions
+77 Back-end Post-Layout Simulation 1 function
+78-79 | PCB Design Flow Back-end Verification 2 functions [...]
+80 Packaging Design Flow Back-end Verification 1 function [...]
+81-87 | Outside of Design Flow 7 functions [...]
+88 Revenue from legacy EDA products N/A [..-]
+89-97 | Design IP 9 segments [...]
+
+Total EDA+Design IP (USDM, 2023)
+
+Source: Reply to RFI 19, Annex Q.3.1, Commission assessment.
 
 
-
-
-
-           Analog Design Flow                                                                                                                      -                             -                                                                                                                       -                        [...]
-
-
-
-
-
-            Photonic Design Flow                                                                                                                                                   :                                                                                                                  :                        [.--]                  falat[mcisarsniie ieee]
-
-
-
-
-            Multi-die chip Design Flow                                                                                                -  —                                                                                              -                        [...]
-
-
-[20 |  Packaging  Design Flow | Back-nd | Verifcaon   (Afton [ood
-
-
-
-
-
-                Source: Reply to RFI 19, Annex Q.3.1, Commission assessment.
-
-
-
-
-
-                                                                      7
 
 [PÁGINA PDF 200 | texto OCR: verificar contra el PDF]
-            Table 2. Segments and tools in the Digital Design Flow.
+Table 2. Segments and tools in the Digital Design Flow.
 
-    sete] 11)     | caDENCEmn, SIEMENS (Camp
-           [oeamiyss [2 | tt      | SYNOPSYSee Si)(RTLSIEMENSArchitect);Unnn)CADENCE (RTL
-       Architectural    RTL Power                         SYNOPSYS (PrimePower RTL: SpyGlass         Design       Consumption.               3                        Power):(Joules RTL;ANSYSPalladium(PowerArtist);DPA); SIEMENSCADENCE
-                         Analysis                                   PowerPro::      Veloce Power;
-                            Early                           SYNOPSYS (Platform Architect): CADENCE
-                          Architectural        4                          (Interconnect Workbench); SIEMENS (Vista
-                          Exploration                                   Flow); KEYSIGHT (Unknown); MATHWORKS                                                                             nknown);: ZUKEN   (Unknown
+Level1 | Level 2 Level 3 a “USD tp List of tools
+ee 1 L-J CADENCE (Stratus), SIEMENS (Catapult)
+. SYNOPSYS (RTL Architect); CADENCE (RTL
+RTL Analysis 2 L.] Joules Studio): SIEMENS (Unknown) ®
+RTL Power SYNOPSYS (PrimePower RTL: SpyGlass
+Architectural Consumption 3 LJ Power): ANSYS (PowerArtist); CADENCE
+Design ‘Analysis 7 (Joules RTL; Palladium DPA); SIEMENS
+y (PowerPro: Veloce Power)
+Fark SYNOPSYS (Platform Architect); CADENCE
+Architecamal 4 J (Interconnect Workbench); SIEMENS (Vista
+Exploration ~ Flow); KEYSIGHT (Unknown): MATHWORKS
+(Unknown): ZUKEN (Unknown)
+SYNOPSYS (Design Compiler; Power
+RTL Synthesis 5 [...] Compiler); CADENCE (Genus); SIEMENS
+(Oasys RTL)
+. SYNOPSYS (Synplify); SIEMENS (Precision):
+FPGA Synthesis 6 U4 ALTERA (Quartus): AMD (Vivado)
+SYNOPSYS (VC SpyGlass); CADENCE
+Static - LJ (JasperLint); SIEMENS (Questa Lint/CDC);
+Verification ~ REAL INTENT (Ascent AutoFormal: Ascent
+Lint: Meridian CDC: Meridian RDC)
+Gate-level Power SYNOPSYS (PrimePower); CADENCE (Joules)
+Consumption 8 L-J
+Analysis
+SYNOPSYS (SpyGlass Constraints; Timing
+Logie / Timin Constraints Manager); CADENCE (Conformal
+Circuit Com. heats 9 [J Litmus); AUSDIA (TimeVision Platform);
+Design EXCELLION (ConCert; ConMan; ConStruct;
+z ConTree)
+§ SYNOPSYS (Synopsys SLM CDM IP; Synopsys
+5 qs . SLM HSAT IP: Synopsys SLM PMM IP:
+a Sicon Likeyos 10 L.-] Synopsys SLM PVT PP. Synopsys SLM XLBIST
+8 IP); SIEMENS (Tessent Embedded Analytics);
+PROTEANTECS (Agents)
+SYNOPSYS (DFT Compiler: Synopsys SLM
+SHS IP; Synopsys SLM SMS IP; TestMAX
+Design-for-Test / Access; TestMAX Advisor: TestMAX DFT;
+Test IP 11 L.--] TestMAX LBIST Add-on; TestMAX Manager:
+TestMAX SMS): CADENCE (Modus):
+SIEMENS (Tessent); SYNTEST (DFT-PRO;
+TurboBIST: TurboSCAN)
+Simulation SYNOPSYS (VCS; VIP: VSO.ai; ZO1X):;
+Verification 12 L-J CADENCE (VIP; Xcelium); SIEMENS (Questa:
+VIP); CAST (Unknown)
+Debu SYNOPSYS (Euclide; VC Execution Manager:
+v oifieation 13 L.] Verdi); CADENCE (Verisium (aka Indago));
+SIEMENS (Questa Visualizer)
+Formal SYNOPSYS (VC Formal); CADENCE
+Verification 14 L.-J (JasperGold): SIEMENS (Questa Formal &
+Functional OneSpin); VENNSA (Unknown)
+Verification ; SYNOPSYS (VC SpyGlass): CADENCE
+Static 15 LJ (JasperLint); SIEMENS (Questa Lint/CDC);
+Verification ~ REAL INTENT (Ascent AutoFormal: Ascent
+Lint; Meridian CDC: Meridian RDC)
+Emulation-Based 16 LJ SYNOPSYS (ZeBu Empower); CADENCE
+Power Analysis ~ (Palladium DPA)
+Hardware- SYNOPSYS (HAPS; Threadmill: ZeBu);
+‘Assi CADENCE (Palladium/Protium); SIEMENS
+ssisted 17 L.-J
 
-                                                 SYNOPSYS (Design Compiler; Power
-                RTL Synthesis         5                         Compiler); CADENCE (Genus); SIEMENS
-                                                                 Oasys RTL
-            jrpcasyiess.   | 6 | tt      | SYNOPSYSAtta (Quas)s(Synplify);AMDSIEMENS(Visa)(Precision);
+Verification
+
+(Veloce CS)
 
 
-                                                REAL INTENT (Ascent AutoFormal: Ascent     pscVerification  foo fo  Lint:GusperiniySYNOPSYSMeridian(VCSIEMENSCDC:SpyGlass);Meridian(GeeseRDCCADENCELaCDC)
-                        Gate-level Power                       SYNOPSYS (PrimePower); CADENCE (Joules)
-                      Consumption
-                          Analysis
-
-                                                 SYNOPSYS (SpyGlass Constraints; Timing
-         Logie /         Timin                                        Constraints Manager);  CADENCE  (Conformal
-           Circuit        Constra.                                      Litmus); AUSDIA (TimeVision Platform);
-         Design                                      EXCELLION (ConCert;  ConMan: ConStruct:
-3                                                              ConTree
-é                                                SYNOPSYS (Synopsys SLM CDM IP: Synopsys
-&6                   Siicon“4:  taser.                          SLMSynopsysHSATSLMIP: PVTiPSynopsysSynopsys SLM PMMSLMIP:XLBIST                      anagement                                            IP); SIEMENS (Tessent Embedded Analytics):
-                                                     PROTEANTECS   (Agents
-                                                 SYNOPSYS (DFT Compiler; Synopsys SLM
-                                                      SHS IP: Synopsys SLM SMS IP: TestMAX
-                       Design-for-Test /                                 Access; TestMAX Advisor: TestMAX DFT;
-                            Test IP                            TestMAX LBIST Add-on: TestMAX Manager:
-                                                      TestMAX SMS); CADENCE (Modus):
-                                                    SIEMENS (Tessent); SYNTEST (DFT-PRO:
-                                                                TurboBIST: TurboSCA
-                          Simulation                         SYNOPSYS (VCS; VIP: VSO.ai; ZO1X);
-                           Verification          12               CADENCE (VIP; Xcelium); SIEMENS (Questa:
-                                                                        VIP): CAST   (Unknown
-                       Debug                          SYNOPSYS (Euclide; ve Execution Manager:
-                           Vetification          13                          Verdi); CADENCE  (Verisium (aka Indago)):
-                                                    SIEMENS  (Questa Visualizer
-                         Formal                          SYNOPSYS (VC  Formal): CADENCE
-
-                                                                     OneSpin): VENNSA   (Unknown         Functional        Vetification          14                         (JasperGold): SIEMENS (Questa Formal &
-        Verification                                     SYNOPSYS (VC SpyGlass); CADENCE
-                                  Static              1s                           (JasperLint); SIEMENS (Questa Lint/CDC);
-                          Verification                        REAL INTENT (Ascent AutoFormal: Ascent
-                    Power Analysis                                 Palladium DPA asoerHardware-                                           Lint:SYNOPSYSMeridian(HAPS;CDC: MeridianRDCThreadmill; ZeBu):
-                           Assi                               CADENCE  (Palladium/Protium); SIEMENS                                 ssisted           17                       (Veloce CS)
-                           Verification
-
-
-
-
-
-                                                                   8
 
 [PÁGINA PDF 201 | texto OCR: verificar contra el PDF]
-                                                 SYNOPSYS (DSO; Fusion Compiler: IC
-                        Place & Route                                     Fusion).Compiler;CADENCEIC   Compiler(Innovus):Il; RedHawkSIEMENS.Analysis
-                                                          .                                                                      Aprisa):; EMPYREAN   (Unknown
-          Physical                                      SYNOPSYS (Timing  C                                                                                                    ints  M         Design     -                                                    uning   Constraints   anager);
-                        Timing                            CADENCE  (Conformal Litmus); AUSDIA
-                           Constraints                                 (TimeVision Platform); EXCELLION (ConCert;
+Segment
 
-                          Checking  =                        Conformal); SIEMENS  (OneSpin   Se                              ConMan:SYNOPSYSConStruct;(IC Validator);ConTree CADENCE
-                            Physical     1                          (Pegasus); SIEMENS (Calibre); KEYSIGHT
-                          Verification                                (Unknown); EMPYREAN (Argus); SILVACO
-                                                           nknown
+Market size
 
-                                                 SYNOPSYS (ICV PERC; PrimeESD); ANSYS
-                                                                         (PathFinder (+SC));  CADENCE (PVS-PERC;
-                                                                Pegasus-PERC; Voltus ESD): SIEMENS
-                 ESD Analysis        22                          (Calibre PERC); KEYSIGHT (Unknown):
-s
-§                                           ANGSTROM DESIGN AUTOMATION
-~                                                       (DECIMM): DASSAULT (CST Studio);
-a                                         MAGWEL  (ESDi): SILVACO   (Unknown
-                                                 SYNOPSYS (PrimeTime); CADENCE
+Level 1 Level 2 Level 3 ID (USD [__) List of tools
+SYNOPSYS (DSO; Fusion Compiler; IC
+Compiler: IC Compiler II; RedHawk Analysis
+Place & Route 18 C.J Fusion): CADENCE (Innovus): SIEMENS.
+Physical (Aprisa); EMPYREAN (Unknown)
+Design SYNOPSYS (Timing Constraints Manager):
+Timing 19 LJ] CADENCE (Conformal Litmus); AUSDIA
+Constraints ~ (TimeVision Platform); EXCELLION (ConCert;
+ConMan: ConStruct: ConTree)
+Equivalence 20 LJ] SYNOPSYS (Formality); CADENCE
+Checking ~ (Conformal); SIEMENS (OneSpin)
+SYNOPSYS (IC Validator); CADENCE
+Physical 1 J] (Pegasus); SIEMENS (Calibre); KEYSIGHT
+Verification ~ (Unknown): EMPYREAN (Argus); SILVACO
+(Unknown)
+SYNOPSYS (ICV PERC: PrimeESD); ANSYS
+(PathFinder (+SC)); CADENCE (PVS-PERC;
+Pegasus-PERC: Voltus ESD); SIEMENS
+< ESD Analysis 22 L.-] (Calibre PERC); KEYSIGHT (Unknown);
+5 ANGSTROM DESIGN AUTOMATION
+& (DECIMM): DASSAULT (CST Studio);
+a MAGWEL (ESDi): SILVACO (Unknown)
+SYNOPSYS (PrimeTime); CADENCE
+Timing Analysis 23 L.-J (Tempus); SIEMENS (Unknown); EMPYREAN
+Physical (XTime)
+Verification SYNOPSYS (PrimeClosure; Tweaker):
+& Sign-off ECO 24 L--] CADENCE (Tempus ECO): SIEMENS
+(Unknown): EMPYREAN (Xtop)
+Clock Jitter 5 LJ ANSYS (ClockFX); CADENCE (Tempus);
+Analysis = SIEMENS (Unknown)
+Parasitic SYNOPSYS (StarRC); CADENCE (Quantus
+Extraction 27 L.J Extraction); SIEMENS (Calibre xRC):
+EMPYREAN (Empyrean RCExplorer)
+Design SYNOPSYS (PrimeShield); CADENCE
+Rob 29 L.-J (Tempus Design Robustness); SIEMENS
+obustness
+(Unknown)
+Gate-level Power 30 LJ] ANSYS (RedHawk (+SC)); CADENCE
+Integrity Analysis — (Voltus); SIEMENS (mPower)
+Gate-level 31 LJ ANSYS (RedHawk-SC Security)
+Security Analysis ~
 
-          Physical                                          XTime
-        Verification                                    SYNOPSYS (PrimeClosure; Tweaker);
-     & Sign-off       ECO           24                  CADENCE  (Tempus ECO): SIEMENS
-                                                                    nknown): EMPYREAN  (Xtop
-  enAnalysis  ee eee ANSYSSIEMENS(ClockFX);(UnknownCADENCE (Tempus);
-                               Parasitic                          SYNOPSYS (StarRC); CADENCE (Quantus
-                           Extraction         27                          Extraction); SIEMENS (Calibre xRC);
-                                             EMPYREAN (Empyrean RCExplorer
-                         Design                          SYNOPSYS (PrimeShield); CADENCE
-                        Robustness         29                     (Tempus Design Robustness); SIEMENS
-                                                           nknown
+Source: Reply to RFI 19, Annex Q.3.1.
 
 
-                                  Integrity   Analysis                                           oltus); SIEMENS (mPower
-PoSecurity  Analysis
-
-                       Source: Reply to RFI 19, Annex Q.3.1.
-
-
-
-
-
-                                                              9
 
 [PÁGINA PDF 202 | texto OCR: verificar contra el PDF]
-                Table 3. Segments and tools in the Analog Design Flow.
+Table 3. Segments and tools in the Analog Design Flow.
 
- Level1 | Level 2       Level 3         ID            size (USD     List of toolsvas [ames [ows  | get [tin [emerSYNOPSYS (Custom Compiler); CADENCE
-                             Schematic          32                      (Virtuoso Schematic Editor); SIEMENS (Taner);
-                                 Editing                        KEYSIGHT (ADS); EMPYREAN (Aether):
-            Pre-Layout                                           SIGASI  nknown   : SILVACO  nknown
-   3     Simulation                                    SYNOPSYS (PrimeSim Continuum; PrimeSim    2                           Circuit                              HSPICE; PrimeSim SPICE); CADENCE
-     5                         Simulatimnnfanon          33                    (Golden(Spectre);Gate);SIEMENSEMPYREAN(AFS); KEYSIGHT(ALPS):
-     Be                                        MATHWORKS    (Unknown
-                                                   SYNOPSYS (PrimeWave Design Environment);
-            Schematic         Design                         CcADENCE (Virtuoso ADE Suite); SIEMENS
-           Design          Environment        34                      (Solido Design Environment); KEYSIGHT
-                                                                   (ADS); EMPYREAN (Aether): SIGASI
-                                                             nknown
+Level 1
 
-                                                   SYNOPSYS (Custom Compiler; Laker Layout);
-                                                CADENCE (Virtuoso Layout Editor); SIEMENS
-                             Layout           35                       (Taner); KEYSIGHT (ADS): EMPYREAN
-                                                                                 (Aether); SIGASI (Unknown); SILVACO
-              Layout                                          nknown                                                  ANSYS (Helic FSA: VeloceRF); CADENCE
-                            Electromagnetic                             (EMX;: EMX Designer); KEYSIGHT
-                         Device Synthesis       36                   (Unknown);  CEMWORKS (Unknown):
-                                                  LORENTZ (PeakView EMD); XPEEDIC
-                                                                      iModeler
+Level 2
 
-                Desig:          Integrity   Analysis                      SIEMENS (mPower
+Level 3
+
+Segment
+ID
+
+Market
+size (USD
+
+es)
+
+List of tools
+
+Front-end
+
+Pre-Layout
+Simulation
+
+Schematic
+Editing
+
+32
+
+L..
+
+]
+
+SYNOPSYS (Custom Compiler); CADENCE
+(Virtuoso Schematic Editor); SIEMENS (Taner);
+KEYSIGHT (ADS): EMPYREAN (Aether):
+SIGASI (Unknown); SILVACO (Unknown)
+
+Circuit
+Simulation
+
+33
+
+SYNOPSYS (PrimeSim Continuum: PrimeSim
+HSPICE; PrimeSim SPICE); CADENCE
+(Spectre); SIEMENS (AFS); KEYSIGHT
+(Golden Gate); EMPYREAN (ALPS);
+MATHWORKS (Unknown)
+
+Schematic
+Design
+
+Design
+Environment
+
+34
+
+SYNOPSYS (PrimeWave Design Environment);
+CADENCE (Virtuoso ADE Suite); SIEMENS
+(Solido Design Environment); KEYSIGHT
+(ADS); EMPYREAN (Aether); SIGASI
+(Unknown)
+
+Back-end
+
+Layout
+
+Layout
+
+35
+
+SYNOPSYS (Custom Compiler; Laker Layout);
+CADENCE (Virtuoso Layout Editor); SIEMENS
+(Taner); KEYSIGHT (ADS); EMPYREAN
+(Aether); SIGASI (Unknown); SILVACO
+(Unknown)
+
+Electromagnetic
+Device Synthesis
+
+36
+
+ANSYS (Helic FSA; VeloceRF); CADENCE
+(EMX; EMX Designer): KEYSIGHT
+(Unknown); CEMWORKS (Unknown);
+LORENTZ (PeakView EMD): XPEEDIC
+(iModeler)
+
+Physical
+Design
+
+Early Power
+Integrity Analysis
+
+37
+
+ANSYS (PrimeX); CADENCE (Virtuoso EAD);
+SIEMENS (mPower)
+
+Physical
+Verification
+& Sign-off
+
+Equivalence
+
+Checking
+
+38
+
+SYNOPSYS (ESP); CADENCE (Custom
+Conformal)
+
+Physical
+Verification
+
+39
+
+SYNOPSYS (IC Validator); CADENCE
+(Pegasus); SIEMENS (Calibre); KEYSIGHT
+(Unknown); EMPYREAN (Argus); SILVACO
+(Unknown)
+
+ESD Analysis
+
+40
+
+SYNOPSYS (ICV PERC; PrimeESD); ANSYS
+(PathFinder (+SC)); CADENCE (PVS-PERC:
+Pegasus-PERC;: Voltus ESD); SIEMENS
+(Calibre PERC); KEYSIGHT (Unknown);
+ANGSTROM DESIGN AUTOMATION
+(DECIMM): DASSAULT (CST Studio);
+MAGWEL (ESDi); SILVACO (Unknown)
+
+Transistor-level
+Power Integrity
+Analysis
+
+41
+
+SYNOPSYS (PrimeSim Reliability Analysis);
+ANSYS (Totem (+SC)); CADENCE (Voltus-Fi);
+SIEMENS (mPower); EMPYREAN (Patron);
+MATHWORKS (Unknown); SIGASI (Unknown)
+
+Power Device
+Analysis
+
+42
+
+SYNOPSYS (Power Device Workbench);
+ANSYS (PowerX); EMPYREAN (Polas);
+JEDAT (PowerVolt); MAGWEL (PTM):
+
+PRIMARIUS (PRM): SIGASI (Unknown)
+
+Electromagnetic
+Modelling
+
+43
+
+ANSYS (Electronics Enterprise; Electronics Pro;
+Helic FSA; RaptorH: RaptorQu: RaptorX):
+CADENCE (Clarity; EMX: EMX Planar 3D
+Solver); KEYSIGHT (Momentum; PathWave
+EM Design - EMPro; QuantumPro; RFPro);
+EMPYREAN (XModel; Xmodel); ALTIUM
+(Unknown); CEMWORKS (Unknown);
+LORENTZ (PeakView LEM); MATHWORKS
+(Unknown): XPEEDIC (IRIS: Metis); ZUKEN
+(Unknown)
+
+Electromagnetic
+Extraction
+
+ANSYS (Electronics Enterprise; Exalto; Helic
+FSA; Q3D Extractor); CADENCE (Clarity;
+EMX: QRC: Quantus); SIEMENS (Calibre
+3DSTACK; Calibre XRC; Calibre xACT):;
+
+10
 
 
-                             Checking                               Conformal   Se                    SYNOPSYS (IC Validator); CADENCE
-                                Physical          39                       (Pegasus); SIEMENS (Calibre); KEYSIGHT
-                                Verification                              (Unknown); EMPYREAN (Argus); SILVACO
-                                                            nknown
-                                                   SYNOPSYS (ICV PERC: PrimeESD); ANSYS
-                                                                           (PathFinder (+SC)); CADENCE (PVS-PERC:
-                                                                  Pegasus-PERC: Voltus ESD): SIEMENS
-   ~               ESD Analysis        40                       (Calibre PERC); KEYSIGHT (Unknown):
-     5                                         ANGSTROM DESIGN AUTOMATION
-   “                                                     (DECIMM); DASSAULT (CST Studio);
-   a                                       MAGWEL     (ESDi): SILVACO   (Unknown
-                               Transistor-level                      SYNOPSYS (PrimeSim Reliability Analysis):
-                        Power Integrity        4l              ANSYS (Totem (+SC)); CADENCE (Voltus-Fi);
-               Physical         Analysis¥                      MATHWORKSSIEMENS (mPower);(Unknown):EMPYREANSIGASI(Patron);(Unknown
-              Verification                                   SYNOPSYS (Power Device Workbench);
-        & Sign-off    Power Device        a2              ANSYS (PowerX); EMPYREAN (Polas);
-                              Analysis             ~               JEDAT (PowerVolt); MAGWEL (PTM):
-                                                     PRIMARIUS  (PRM): SIGASI   (Unknown
-                                                  ANSYS (Electronics Enterprise; Electronics Pro;
-                                                                            Helic FSA; RaptorH: RaptorQu: RaptorX):
-                                                CADENCE (Clarity; EMX: EMX Planar 3D
-                                                                                   Solver): KEYSIGHT (Momentum; PathWave
-                            Electromagnetic       4B            EM Design - EMPro: QuantumPro; RFPro):
-                            Modelling                     EMPYREAN (XModel: Xmodel); ALTIUM
-                                                                   (Unknown); CEMWORKS (Unknown);
-                                                 LORENTZ (Peak View LEM); MATHWORKS
-                                                                   (Unknown): XPEEDIC (IRIS; Metis); ZUKEN
-                                                            nknown
-                                                  ANSYS (Electronics Enterprise; Exalto; Helic
-                            Electromagnetic      4A                  FSA; Q3D Extractor); CADENCE   (Clarity;
-                                Extraction                              EMX:; QRC; Quantus); SIEMENS (Calibre
-                                                      3DSTACK: Calibre XRC: Calibre xACT):
-
-
-                                                                      10
 
 [PÁGINA PDF 203 | texto OCR: verificar contra el PDF]
- Level1 | Level 2       Level 3         ID            size (USD     List of tools
-                                                                                      [.--]pts [arises [re |S  mereKEYSIGHT (ADS; RFPro): CEMWORKS
+Level 1
+
+Level 2
+
+Level 3
+
+Segment
+
+ID
+
+Market
+size (USD
+[..-)
+
+List of tools
+
+KEYSIGHT (ADS; RFPro); CEMWORKS
+(Unknown); LORENTZ (PeakView HFD):
+MATHWORKS (Unknown)
+
+Parasitic
+Extraction
+
+45
+
+SYNOPSYS (F3D; Quick Cap; StarRC);
+CADENCE (Quantus Extraction; Quantus FS);
+SIEMENS (Calibre XACT 3D; Calibre xRC);
+EMPYREAN (Empyrean RCExplorer)
+
+Parasitic Analysis
+
+46
+
+SYNOPSYS (Pillar); ANSYS (ParagonX);
+CADENCE (I-DSPF; QRC: Quantus Smart
+View: Virtuoso EAD); SIEMENS (Calibre xRC);
+EMPYREAN (ADA); SIGASI (Unknown):
+SILVACO (Viso; edXact)
+
+Reliability
+Analysis
+
+47
+
+SYNOPSYS (P2P; PrimeSim Reliability
+Analysis); CADENCE (Legato Reliability);
+SIEMENS (Unknown)
+
+Thermal Analysis
+
+48
+
+SYNOPSYS (Ethan); CADENCE (Celsius);
+JEDAT (Thermal Analysis); MAGWEL
+(Thermal Analysis)
+
+Electromagnetic
+Simulation
+
+49
+
+ANSYS (Electronics Enterprise; HFSS (-IC));
+CADENCE (Clarity; EMX); KEYSIGHT
+(Path Wave EM Design - EMPro; RFPro);
+DASSAULT (CST Studio Suite)
+
+Post-Layout
+Simulation
+
+Circuit
+Simulation
+
+50
+
+SYNOPSYS (PrimeSim Continuum: PrimeSim
+HSPICE; PrimeSim Pro; PrimeSim SPICE:
+PrimeSim XA); CADENCE (Spectre);
+MATHWORKS (Unknown)
+
+Design
+Environment
+
+51
+
+[.-.]
+
+SYNOPSYS (WaveView); CADENCE (Virtuoso
+ADE Suite: Viva); SIEMENS (EasyWave):
+SIGASI (Unknown)
+
+Source: Reply to RFI 19, Annex Q.3.1.
+
+11
 
 
-                                            MATHWORKS   (Unknown
-                                                   SYNOPSYS (F3D: Quick Cap; StarRC);
-                                   Parasitic           45              CADENCE (Quantus Extraction; Quantus FS);
-                                Extraction                         SIEMENS (Calibre XACT  3D; Calibre xRC):
-                                              EMPYREAN (Empyrean RCExplorer
-                                                   SYNOPSYS (Pillar); ANSYS (ParagonX);
-                                                CADENCE (I-DSPF; QRC: Quantus Smart
-                               Parasitic Analysis      46                   View: Virtuoso EAD); SIEMENS (Calibre xRC);
-                                              EMPYREAN (ADA): SIGASI (Unknown):
-                                                     SILVACO      (Viso; edXact
-                                  Reliability     -    Be (P2P; PrimeSim Reliability
-                              Analysis                         SIEMENSlysis); CADENCE(Unknown (Legato Reliability):
-                                                   SYNOPSYS (Ethan); CADENCE (Celsius);
-                        Thermal Analysis      48               JEDAT (Thermal Analysis); MAGWEL
-                                                                             hermal Analysis
-                                                  ANSYS (Electronics Enterprise: HFSS (-IC));
-                            Electromagnetic       49              CADENCE (Clarity: EMX): KEYSIGHT
-                              Simulation                              (PathWave EM Design - EMPro: RFPro):
-                                                 DASSAULT (CST Studio Suite
-                                                   SYNOPSYS (PrimeSim Continuum; PrimeSim
-                                   Circuit           50                  HSPICE; PrimeSim Pro: PrimeSim SPICE:
-            Post-Layout       Simulation                             PrimeSim XA); CADENCE  (Spectre);
-             Simulation                              MATHWORKS   nknown,                                                                                    -
-                             Design                        SYNOPSYS (WaveView);  CADENCE  (Virtuoso
-                           Environment          51              ADE Suite; Viva); SIEMENS (EasyWave);
-                                                             SIGASI   (Unknown
-                           Source: Reply to RFI 19, Annex Q.3.1.
-
-
-
-
-
-                                                                            ll
 
 [PÁGINA PDF 204 | texto OCR: verificar contra el PDF]
-      Table 4. Segments and tools in the Mixed-signal & Photonic Design Flows.
+Table 4. Segments and tools in the Mixed-signal & Photonic Design Flows.
+
+Level
+
+Level
+
+1 Level 2
+
+Level 3
+
+Segment
+ID
+
+Market
+size (USD
+
+List of tools
+
+LD
+
+Mixed-signal Design Flow
+
+Co-Simulation
+Enabling Kit
+
+Co-
+Simulation
+
+Front end
+
+52 L.-
+
+SYNOPSYS (VCS PrimeSim Co-Simulation);
+CADENCE (AMSDesigner); SIEMENS
+(Symphony)
+
+Co-Design
+
+Co-Design Enabling Kit
+
+Back-end
+
+53 L.-
+
+SYNOPSYS (Custom Compiler); CADENCE
+(Innovus; Virtuoso); SIGASI (Unknown);
+SILVACO (Unknown)
+
+Photonic Design Flow
+
+Photonic
+Layout Design
+Implementation
+
+Schematic
+Design
+
+54 L.-
+
+SYNOPSYS (OptoCompiler); CADENCE
+(Virtuoso; Virtuoso Photonic Platform):
+SIEMENS (L-edit); LATITUDE (PIC Studio);
+LUCEDA PHOTONICS (IPKISS); SIGASI
+(Unknown): SILVACO (Unknown):
+WIEWEB (CleWin)
+
+Pre-
+Layout
+Simulation
+
+Photonic Chip
+Simulation
+
+Front-end
+
+55 L.-
+
+SYNOPSYS (OptSim); ANSYS (Lumerical
+Interconnect); CADENCE (Spectre);
+KEYSIGHT (Keysight Photonic Application
+Suite); DASSAULT (CST Studio Suite); IN-
+HOUSE SOLUTIONS (Unknown);
+OPTISYSTEM (OptiSPICE); OPTIWAVE
+(Unknown); PHOTON DESIGN (PIC Wave):
+SIGASI (Unknown); SILVACO (Unknown);
+VPI PHOTONICS (VIPItransmissionMaker;
+VPIcomponentMaker)
+
+Photonic
+Layout Design
+Implementation
+
+Layout
+
+56 L.-
+
+SYNOPSYS (OptoCompiler); CADENCE
+(Virtuoso; Virtuoso Photonic Platform):
+SIEMENS (L-edit); LATITUDE (PIC Studio);
+LUCEDA PHOTONICS (IPKISS): SIGASI
+(Unknown); SILVACO (Unknown):
+WIEWEB (CleWin)
+
+Post-
+Layout
+Simulation
+
+Photonic Chip
+Simulation
+
+Back-end
+
+57 L.-
+
+ANSYS (Lumerical Interconnect);
+CADENCE (Spectre); KEYSIGHT (Keysight
+Photonic Application Suite); DASSAULT
+(CST Studio Suite); IN-HOUSE SOLUTIONS
+(Unknown); OPTISYSTEM (OptiSPICE):
+OPTIWAVE (Unknown); PHOTON DESIGN
+(PIC Wave): SIGASI (Unknown): SILVACO
+(Unknown); VPI PHOTONICS
+(VIPItransmissionMaker;
+VPIcomponentMaker)
+
+Source: Reply to RFI 19, Annex Q.3.1.
+
+Table 5. Tools used within the Multi-die Design Flow.
+
+Level
+
+Segment
+
+Level 3 1D
+
+Level 2
+
+Market size
+
+(USD [__})
+
+List of tools
+
+Front-end
+
+Circuit
+Simulation
+
+Pre-Layout
+
+Simulation 58
+
+L.-J
+
+SYNOPSYS (PrimeSim Continuum; PrimeSim HSPICE:;
+PrimeSim SPICE); CADENCE (Spectre); SIEMENS
+(AFS): KEYSIGHT (Golden Gate); EMPYREAN
+(ALPS): MATHWORKS (Unknown)
+
+Early
+Architectural 59
+
+Architectural Exploration
+
+L.-J
+
+SYNOPSYS (Platform Architect); CADENCE
+(Interconnect Workbench); SIEMENS (Vista Flow):
+KEYSIGHT (Unknown); MATHWORKS (Unknown):
+ZUKEN (Unknown)
+
+Design Architectural
+
+Design & 60
+Implementation
+
+[-.]
+
+SYNOPSYS (3DIC Compiler); CADENCE (APD:
+Integrity 3D-IC); SIEMENS (Innovator 3D-IC; xPedition)
+
+12
 
 
-                                               Market
-
- 0        1                               ID          [--)
- zg                                               SYNOPSYS (VCS  PrimeSim Co-Simulation): iz    3    a                     CADENCE (AMSDesigner); SIEMENS
- &    25    SimulationCo-     | Co-SimulationEnabling Kit       52“                  (Symphony)
-  A    a
-  [a
- 3                                               SYNOPSYS (Custom Compiler);  CADENCE
- 3    3¢    Co-Design    EnablingCo-Desi Ki:       53               SILVACO(Innovus; Virtuoso):(Unknown)SIGASI (Unknown):
- Ss                faa]
-
-                                                 SYNOPSYS (OptoCompiler); CADENCE
-               Schematic       Photonic                                   (Virtuoso; Virtuoso Photonic Platform):
-                Design     Lavout Desi        54               SIEMENS (L-edit); LATITUDE (PIC Studio);                          Implementation                  LUCEDA PHOTONICS (IPKISS); SIGASI
-                                                                (Unknown); SILVACO (Unknown);
-                                             WIEWEB  (CleWin
-
-                                                 SYNOPSYS (OptSim); ANSYS (Lumerical
-                                                                               Interconnect);  CADENCE  (Spectre):
-                                                  KEYSIGHT (Keysight Photonic Application
-      z       Pre-                                                           Suite); DASSAULT (CST Studio Suite); IN-
-       2     Lavout     Photonic Chip      55             HOUSE SOLUTIONS (Unknown);
-  Zz       oaS    Sincetion     Simulation                      OPTISYSTEM(Unknown); PHOTON(OptiSPICE);DESIGNOPTIWAVE(PIC Wave):
- ea                                                         SIGASI (Unknown); SILVACO (Unknown):
- =                                                       VPI PHOTONICS  (VIPItransmissionMaker;
- Ei                                                          VPIcomponentMaker
-  >                                               SYNOPSYS (OptoCompiler); CADENCE
-  'g                            Photonic                                   (Virtuoso; Virtuoso Photonic Platform):
- 3             Lavout  | Lavou Desi        56       C4     SIEMENS (L-edit); LATITUDE (PIC Studio);
- =             ¥       ‘      en                   LUCEDA PHOTONICS (IPKISS); SIGASI
-                           Implementation                          (Unknown); SILVACO  (Unknown);
-                                             WIEWEB  (CleWin
-                                                ANSYS (Lumerical Interconnect);
-                                              CADENCE (Spectre); KEYSIGHT (Keysight
-                                                                       Photonic Application Suite); DASSAULT
-      z      Post                                        (CST Studio Suite); IN-HOUSE SOLUTIONS
-      3     Layout     Photonic Chip      57   J      (Unknown); OPTISYSTEM (OptiSPICE);
-         3  | simulation     Simulation             ~     OPTIWAVE (Unknown); PHOTON DESIGN
-      a                                                         (PIC Wave): SIGASI (Unknown): SILVACO
-                                                                 (Unknown); VPI PHOTONICS
-                                                                      (VIPItransmissionMaker;
-                                                             VPIcomponentMaker
-                         Source: Reply to RFI 19, Annex Q.3.1.
-
-
-               Table 5. Tools used within the Multi-die Design Flow.
-
-
-
-                                              SYNOPSYS (PrimeSim Continuum; PrimeSim HSPICE;
-       Pre-Layout         Circuit          58        LJ          PrimeSim SPICE);  CADENCE   (Spectre); SIEMENS
-       Simulation      Simulation              -             (AFS): KEYSIGHT (Golden Gate); EMPYREAN
-~                                                                 ALPS): MATHWORKS    (Unknown
-5                        Early                             SYNOPSYS (Platform Architect); CADENCE
-5                      Architectural       59        [J            (Interconnect Workbench); SIEMENS (Vista Flow);
-& | Architectural     Exploration              ~        KEYSIGHT (Unknown): ae    ORKS (Unknown):
-        Design       Architectural                                     ~  =
- Speenslementation                                    Integrity 3D-IC); SIEMENS (Innovator 3D-IC:  xPedition)
-
-                                                                   12
 
 [PÁGINA PDF 205 | texto OCR: verificar contra el PDF]
-                              Static                         SYNOPSYS (VC SpyGlass): CADENCE (JasperLint):
-                         Verification        61                L.-J      SIEMENS (Questa Lint/CDC): REAL INTENT (Ascent
-                                                              AutoFormal: Ascent Lint; Meridian CDC; Meridian RDC
-                           Silicon                         SYNOPSYS (Synopsys SLM CDM IP: Synopsys SLM
-        Logic /      ManagementLifecycle         62    J_           IP;HSATSynopsysIP; SynopsysSLM XLBISTSLM PMMIP): IP;SIEMENSSynopsys(TessentSLM PVT
-          Circuit            IP                               Embedded Analytics); PROTEANTECS   (Agents
-        Design                                    SYNOPSYS (Synopsys SLM SHS IP: Synopsys SLM
-                                              SMS IP; TestMAX Access; TestMAX Advisor; TesIMAX
-                       Design-for-        63        LJ       DFT: TestMAX LBIST Add-on; TestMAX Manager:
-                      Test / Test IP              _       TestMAX SMS); CADENCE (Modus); SIEMENS
-                                                                          (Tessent); SYNTEST (DFT-PRO; TurboBIST;
-                                                         TurboSCA
+rev el} Level 2 Level 3 Segment el List of tools
+Static SYNOPSYS (VC SpyGlass); CADENCE (JasperLint):
+Verification 61 L-.] SIEMENS (Questa Lint/CDC); REAL INTENT (Ascent
+AutoFormal: Ascent Lint; Meridian CDC; Meridian RDC)
+Silicon SYNOPSYS (Synopsys SLM CDM IP: Synopsys SLM
+Lifecycle 62 LJ HSAT IP; Synopsys SLM PMM IP; Synopsys SLM PVT
+Logie / Management ~ IP; Synopsys SLM XLBIST IP); SIEMENS (Tessent
+Circuit IP Embedded Analytics); PROTEANTECS (Agents)
+Design SYNOPSYS (Synopsys SLM SHS IP: Synopsys SLM
+SMS IP; TestMAX Access; TestMAX Advisor; TestMAX
+Design-for- 63 LJ DFT: TestMAX LBIST Add-on; TestMAX Manager:
+Test / Test IP ~ TestMAX SMS); CADENCE (Modus); SIEMENS
+(Tessent); SYNTEST (DFT-PRO; TurboBIST;
+TurboSCAN)
+Simulation 64 LJ SYNOPSYS (VCS; VSO.ai; Z01X); CADENCE
+Verification = (Xcelium): SIEMENS (Questa)
+Debug SYNOPSYS (Euclide; VC Execution Manager; Verdi);
+. : 65 L.-J CADENCE (Verisium (aka Indago)); SIEMENS (Questa
+Verification rr
+Visualizer)
+Formal SYNOPSYS (VC Formal); CADENCE (JasperGold);
+Functional Vetification 66 L.J SIEMENS (Questa Formal & OneSpin); VENNSA
+Verification (Unknown)
+Hardware- 67 14 SYNOPSYS (HAPS; ZeBu); CADENCE
+Verification (Palladium/Protium); SIEMENS (Veloce CS)
+Static SYNOPSYS (VC SpyGlass):; CADENCE (JasperLint):
+Verification 68 L-] SIEMENS (Questa Lint/CDC); REAL INTENT (Ascent
+AutoFormal: Ascent Lint; Meridian CDC; Meridian RDC)
+Physical SYNOPSYS ac Validator); CADENCE (Pegasus):
+Verification 69 L-] SIEMENS (Calibre); KEYSIGHT (Unknown):
+EMPYREAN (Argus): SILVACO (Unknown)
+SYNOPSYS (ICV PERC; PrimeESD); ANSYS
+(PathFinder (+SC)); CADENCE (Pegasus-PERC; Voltus
+. ESD); SIEMENS (Calibre PERC); KEYSIGHT
+ESD Analysis 70 tJ (Unknown); ANGSTROM DESIGN AUTOMATION
+(DECIMM): DASSAULT (CST Studio); MAGWEL
+(ESDi); SILVACO (Unknown)
+Timing a J SYNOPSYS (PrimeTime); CADENCE (Tempus):
+Analysis 7 SIEMENS (Unknown)
+Transistor-level SYNOPSYS (PrimeSim Reliability Analysis); ANSYS
+Power Integrity 2 J (Totem (+SC)); CADENCE (Voltus-Fi); SIEMENS
+Analysis (mPower): EMPYREAN (Patron); MATHWORKS
+(Unknown): SIGASI (Unknown)
+Parasitic SYNOPSYS (StarRC): CADENCE (Quantus Extraction):
+3 Physical Extraction 73 L-] nee (Calibre xRC); EMPYREAN (Empyrean
+a Verification xplorer)
+3 & Sign-off Reliability 74 J SYNOPSYS (PrimeSim Reliability Analysis); CADENCE
+a Analysis = (Legato Reliability); SIEMENS (Unknown)
+ANSYS (Electronics Enterprise; Icepak; RedHawk-SC
+Electrothermal); CADENCE (Celsius; Integrity 3D-IC):
+Structural and SIEMENS (Calibre 3DThermal; Flotherm XT);
+Thermal 75 L-J KEYSIGHT (PathWave Thermal Design); ALTAIR
+Analysis (ElectroFlo); ALTIUM (Unknown): CEMWORKS
+(Unknown): COSMOL (Heat Transfer Module):
+MATHWORKS (Unknown): ZUKEN (Unknown)
+ANSYS (Electronics Enterprise; HFSS (-IC); Helic FSA:
+Q3D Extractor; RaptorH:; RaptorQu; RaptorX; RedHawk
+(+SC); RedHawk-SC Electrothermal; SIwave):
+Signal and CADENCE (Clarity: EMX 3D Planar: Integrity 3D-IC:
+Power Integrity 76 [L.-J Sigrity; Voltus-Fi); SIEMENS (HyperLynx); KEYSIGHT
 
-                       Verification              LJ         Xcelium); SIEMENS  (Questa          _ventrin |        |  03 | chime SIEMENS Quen)
+(Momentum); EMPYREAN (Patron); ALTIUM
+(Unknown); CEMWORKS (Unknown); LORENTZ
+(Peak View LEM); MATHWORKS (Unknown); ZUKEN
+(Unknown)
 
-                                                                                                           .                  :          65                   [.-.]      CADENCE (Verisium (aka Indago)); SIEMENS (Questa
-                       Verification                                   Visualizerrr    wai | @ | ts [gai  i a
-                                         :               .        Verification.                  .                                L.-J      SIEMENS (Questa Formal & OneSpin); VENNSA       VerificationFunctional eam fe [oa  | SYNOPSYSnknown  (VC Formal); CADENCE (JasperGold);
-
-                        Verification                                  (Palladium/Protium); SIEMENS (Veloce CS)
-                              Static                         SYNOPSYS (VC SpyGlass):; CADENCE  (JasperLint):
-                        Verification                                    [.-.]      SIEMENS (Questa Lint/CDC): REAL INTENT (Ascent
-                                                              AutoFormal: Ascent Lint; Meridian CDC; Meridian RDC
-                         Physical                        SYNOPSYS ac Validator); CADENCE (Pegasus):
-                        Verification                                    [.-.J      SIEMENS (Calibre); KEYSIGHT (Unknown);
-                                          EMPYREAN  (Argus); SILVACO   (Unknown
-                                              SYNOPSYS (ICV PERC; PrimeESD): ANSYS
-                                                                   (PathFinder (+SC)); CADENCE (Pegasus-PERC; Voltus
-               ESD                               .                             ESD); SIEMENS (Calibre PERC); KEYSIGHT                          Auslysis      70        LJ        (Unknown); ANGSTROM DESIGN AUTOMATION
-                                                    (DECIMM): DASSAULT (CST Studio); MAGWEL
-                                                                 ESDi); SILVACO   (Unknown
-                                              SYNOPSYS (PrimeTime); CADENCE (Tempus);
-                        Analysis               _       SIEMENS   (Unknown
-                       Transistor-level                      SYNOPSYS (PrimeSim ReliabilityAnalysis); ANSYS
-                  Power Integrity   2        LJ        (Totem (+SC)); CADENCE (Voltus-Fi); SIEMENS
-                       Analysis                                (mPower);nknown):EMPYREANSIGASI   (Unknown(Patron); MATHWORKS
-z                           Parasitic                        SYNOPSYS (StarRC): CADENCE (Quantus Extraction):=      Physicalysica         Extractixtraction        73                 SIEMENS (Calibre xRC): EMPYREAN (Empyrean
-& |  Verification  —                                   RCExplorer) —__
-
-a                      Analysis                                 Legato Reliability); SIEMENS   (Unknown
-                                             ANSYS (Electronics Enterprise; Icepak; RedHawk-SC
-                                                                       Electrothermal): CADENCE (Celsius; Integrity 3D-IC):
-                        Structural and                       SIEMENS (Calibre 3DThermal: Flotherm XT):
-                     Thermal         75                   L.--]      KEYSIGHT (PathWave Thermal Design); ALTAIR
-                       Analysis                                       (ElectroFlo); ALTIUM (Unknown):  CEMWORKS
-                                                            (Unknown); COSMOL (Heat Transfer Module);
-                                        MATHWORKS    (Unknown): ZUKEN   (Unknown
-                                             ANSYS (Electronics Enterprise; HFSS (-IC); Helic FSA:
-                                              Q3D Extractor: RaptorH: RaptorQu; RaptorX; RedHawk
-                                                                  (+SC); RedHawk-SC Electrothermal: SIwave);
-                        Signal and                            CADENCE(Clarity: EMX 3D Planar; Integrity 3D-IC:
-                  Power Integrity      76                [.-J          Sigrity: Voltus-Fi); SIEMENS (HyperLynx); KEYSIGHT
-                                                          (Momentum); EMPYREAN (Patron); ALTIUM
-                                                            (Unknown); CEMWORKS (Unknown); LORENTZ
-                                                             (Peak View LEM); MATHWORKS (Unknown); ZUKEN
-                                                        nknown
+13
 
 
-                                                                      13
 
 [PÁGINA PDF 206 | texto OCR: verificar contra el PDF]
-      Post-Layout        Circuit                         SYNOPSYS (PrimeSim Continuum: PrimeSim HSPICE:
-                                    .                        :                                           .                               .          77                    L.--]       PrimeSim Pro; PrimeSim SPICE; PrimeSim XA);
-       Simulation      Simulation                      CADENCE  (Spectre); MATHWORKS   (Unknown
-                          Source: Reply to RFI 19, Annex Q.3.1.
+rev | Revel? Level 3 Segment el List of tools
+Post-Layout Circuit SYNOPSYS (PrimeSim Continuum: PrimeSim HSPICE:
+Simulation Simulation 77 L--] PrimeSim Pro; PrimeSim SPICE; PrimeSim XA);
+CADENCE (Spectre); MATHWORKS (Unknown)
+
+Source: Reply to RFI 19, Annex Q.3.1.
+
+Table 6. Segments and tools in the PCB and Packaging Design flows and Outside EDA
+
+Design Flows.
+
+Level 0/1 Level 2
+
+Level 3
+
+Segment ID
+
+|Market sizel
+(USD [__})
+
+List of tools
+
+Back-end
+
+Verification
+
+PCB
+Analysis
+
+79
+
+ANSYS (Electronics Enterprise; Electronics Pro; HFSS (-IC);
+Icepak; Maxwell; Q3D Extractor; SIwave); CADENCE
+(Sigrity, Celsius PowerDC, Clarity 3D Solver); SIEMENS
+tJ (HyperLynx, Xpedition, Calibre3D Thermal, Simcenter
+Flotherm); KEYSIGHT (ADS); ALTIUM (Altium Designer,
+PDN Analyzer); ZUKEN (CR-8000)
+
+Packaging
+Design F low
+
+Verification
+
+Packaging
+
+80
+
+ANSYS (Electronics Enterprise; Electronics Pro; HFSS (-IC);
+Icepak; Maxwell; Q3D Extractor; SIwave); CADENCE
+(Allegro, Sigrity, Clarity 3D Solver, Celsius PowerDC);
+
+tJ SIEMENS (Xpedition, HyperLynx, Calibre3D Thermal,
+Simcenter Flotherm); KEYSIGHT (ADS); ALTIUM (Altium
+Designer); ZUKEN (CR-8000)
+
+Outside of Design Flow
+
+Outside of Design Flow
+
+Characteriz
+ation
+
+81
+
+SYNOPSYS (NanoTime; PrimeLib; SiliconSmart); CADENCE
+[..]  |(Liberate); SIEMENS (Solido); EMPYREAN (Liberal);
+SILVACO (Library Platform (Cielo, Viola))
+
+Functional
+Safety &
+Specificatio
+n Analysis
+
+82
+
+SYNOPSYS (VC Functional Safety Manager): ANSYS
+(Medini Analyze for Semiconductors); CADENCE (Midas;
+Midas Platform); SIEMENS (Austemper); APIS (FTA; IQ-
+L.-J FMEA); C2A / VULTARA / ITEMIS (Cybersecurity analysis):
+IENCO SAFETY OFFICE (SoX); IN-HOUSE SOLUTIONS
+(N/A); ISOGRAPH (Reliability Workbench); PLATO (elns
+IFMEA); VECTOR (PREEVision Safety Extension)
+
+Mask Tools
+
+84
+
+SYNOPSYS (CATS; IC Validator; Proteus; S-Litho; Silicon
+[J |Workbench); CADENCE (PPC); SIEMENS (Calibre); ASML
+(ASL Computational Lithography)
+
+TCAD
+
+86
+
+SYNOPSYS (QuantumATK; Raphael: Sentaurus Calibration
+Workbench; Sentaurus Customer Product; Sentaurus Device;
+Sentaurus Interconnect; Sentaurus Parallel; Sentaurus Process;
+Sentaurus Process Explorer; Sentaurus Structure Editor;
+Sentaurus Topography; Sentaurus Visual; Sentaurus
+
+L.J Workbench; Simpleware AS Cardio; Simpleware Academic;
+Simpleware Apex: Simpleware Base; Simpleware CAD;
+Simpleware CAD Academic; Simpleware Elite; Simpleware
+ScanIP: TCAD to SPICE; Taurus Device; Taurus Medici:
+‘Taurus TSumprem4): LAM (Coventor); SILVACO (Utmost:
+Victory)
+
+Virtual
+Prototyping
+
+87
+
+Ld SYNOPSYS (Silver; Virtualizer); CADENCE (Helium):
+~ SIEMENS (Hycon); MATHWORKS (Unknown)
+
+Source: Reply to RFI 19, Annex Q.3.1.
+Segment ID 88 groups legacy products of the Parties and is omitted.
+
+14
 
 
- Table 6. Segments and tools in the PCB and Packaging Design flows and Outside EDA
-                                 Design Flows.
-
-
-
-                                       ANSYS (Electronics Enterprise; Electronics Pro; HFSS (-IC);
- z         =                                              Icepak; Maxwell; Q3D Extractor: SIwave): CADENCE *                B=|       PCB        70                     (Sigrity, Celsius PowerDC, Clarity 3D Solver); SIEMENS P=      35        Analysis                           Flotherm);(HyperLynx,KEYSIGHTXpedition, (ADS);Calibre3DALTIUMThermal,(AltiumSimcenterDesigner,
-        >                            PDN Analyzer); ZUKEN (CR-8000)
-
-
-                                       ANSYS (Electronics Enterprise; Electronics Pro: HFSS (-IC):
-2 z        <                                              Icepak; Maxwell; Q3D Extractor; SIwave); CADENCE
-2 =&          BI3        Packaginging                            (Allegro,SIEMENSSigrity,(Xpedition,ClarityHyperLynx,3D Solver, Calibre3DCelsius PowerDC);Thermal,
-3A     5                                          Simcenter Flotherm); KEYSIGHT (ADS); ALTIUM (Altium
-m4      >                                             Designer); ZUKEN (CR-8000)
-
-                       Characteriz                 SYNOPSYS (NanoTime; PrimeLib; SiliconSmart); CADENCE
-                            ation                                (Liberate); SIEMENS (Solido); EMPYREAN (Liberal);
-                                                  SILVACO   (Library Platform (Cielo, Viola))
-
-
-                                        SYNOPSYS (VC  Functional Safety Manager); ANSYS
-                       Functional                       (Medini Analyze for Semiconductors);  CADENCE  (Midas;
-                         Safety &                      Midas Platform); SIEMENS (Austemper);APIS (FTA; IQ-    ;
-                         Specificatio     82             FMEA); C2A / VULTARA   / ITEMIS (Cybersecurity analysis);
-                     n Analysis                     IENCO SAFETY OFFICE (SoX); IN-HOUSE SOLUTIONS
-                                                           (N/A); ISOGRAPH (Reliability Workbench); PLATO (elns
-                                                     IFMEA); VECTOR (PREEVision Safety Extension)
-
-zz
-==5,                                      SYNOPSYS (CATS; IC Validator; Proteus: S-Litho; Silicon B           §,     Mask Tools     84                Workbench); CADENCE (PPC); SIEMENS (Calibre); ASML
-                fs fs      Z                                   (ASL Computational Lithography)
-  5         3                              SYNOPSYS (QuantumATK; Raphael: Sentaurus Calibration
- 3      ¥                                      Workbench: Sentaurus Customer Product: Sentaurus Device;
- 3       5                                            Sentaurus Interconnect; Sentaurus Parallel; Sentaurus Process;
- o      0                                            Sentaurus Process Explorer; Sentaurus Structure Editor;
-                                                           Sentaurus Topography; Sentaurus Visual; Sentaurus
-                TCAD                        Workbench: Simpleware AS Cardio: Simpleware Academic:
-                                                      Simpleware Apex; Simpleware Base; Simpleware CAD:
-                                                      Simpleware CAD Academic; Simpleware Elite; Simpleware
-                                                           ScanIP; TCAD to SPICE; Taurus Device: Taurus Medici;
-                                                        Taurus TSumprem4); LAM (Coventor); SILVACO (Utmost;
-                                                            Victory)
-
-
-                      Prototyping                  SIEMENS (Hycon); MATHWORKS (Unknown)        pcan] 87 fT SYNOPSYS (Silver; Virtualizer);:CADENCE (Helium);
-                          Source: Reply to RFI 19, Annex Q.3.1.
-              Segment ID 88 groups legacy products ofthe Parties and is omitted.
-
-
-
-
-
-                                                                    14
 
 [PÁGINA PDF 207 | texto OCR: verificar contra el PDF]
-                    Table 7. Offerings and Segments in Design IP.
+Table 7. Offerings and Segments in Design IP.
 
-           EmbeddedMemories   Fos | ca  | MemorySynopsysCompiler);Memory Compilers;OTHERS ARM(Others(Arm Artisan); M31 (M31
-        M.emoryNVMCompilOther                           NeoEE,SynopsysNeoMTP,Non-VolatileNeoFlash);Memories:NSCOREEMEMORY(Others);(NeoFuse,OTHERSNeoBit,                    SOmpuers                                Others): SST  (SuperFlash
-           Physical Libraries Foo | ota | ARMSynopsys(Artisan):PhysicalOTHERSLibraries;(Others):ARAGIOVERISILICON(Aragio I/O Library(V.Libs IP);
-                                                     Synopsys Wired Interface IP Family; Cadence Protocol IP:
-         Wired Interface IP      92             ALPHAWAVE (PHY IP); OTHERS (Others); RAMBUS (Rambus
-                                                           Interconnect IP
-   7                             .                                         Synopsys Wireless Interface IP Family; ACTT (ACTT Interface
+revel Level 3 = ‘USD = Design IP offers
+Embedded 89 J Synopsys Memory Compilers; ARM (Arm Artisan); M31 (M31
+Memories Memory Compiler); OTHERS (Others)
+NVM Other Synopsys Non-Volatile Memories; EMEMORY (NeoFuse, NeoBit,
+Memory Compilers 90 L..] NeoEE, NeoMTP, NeoFlash): NSCORE (Others); OTHERS
+ory Som (Others): SST (SuperFlash)
+. “oo: Synopsys Physical Libraries; ARAGIO (Aragio I/O Library IP);
+Physical Libraries °1 tJ ARM (Artisan): OTHERS (Others); VERISILICON (V.Libs)
+Synopsys Wired Interface IP Family; Cadence Protocol IP:
+Wired Interface IP 92 tJ ALPHAWAVE (PHY IP); OTHERS (Others); RAMBUS (Rambus
+Interconnect IP)
+. Synopsys Wireless Interface IP Family; ACTT (ACTT Interface
+~ Warcless Interface 93 L.-J 1P). CEVA (Ceva-Waves): MINDTREE (uci BlueWix,
+& EtherMind): OTHERS (Others)
+2 Synopsys Security IP implementing cryptographic functions,
+. Physical Unclonable Function; ARM (TrustZone, SecurCore,
+Security IP 94 L.-J
 
-                                                       EtherMind): OTHERS  (Others  &    Warcless Interface      93                         IP); CEVA (Ceva-Waves); MINDTREE (BlueLit, BlueWix,
-    Aa                                               Synopsys Security IP implementing cryptographic functions,
-                    Security   IP         94                     Physical Unclonable Function; ARM (TrustZone, SecurCore,
-                ceurity                                 Cortex-M35P); OTHERS (Others); RAMBUS (Rambus Security IP
-                                                                       portfolio): SECURE IC  (Security   Silicon IP
-                                                     Synopsys ARC Processor IP Family; ANDES (AndesCore); ARM
-          CPU IP           95                      (Cortex, Neoverse); IMAGINATION (Catapult); OTHERS
-                                                              Others): SIFIVE  (SiFive Core IP
-           DSP IP                                Synopsys ARC DSP, ARC VPX DSP: Cadence Tensilica; CEVA
-                                                          SensPro, BX); OTHERS  (Others): VERISILICON (ZSP
-                    Other  Exel                              Synopsys Other IP products; ARM (Arm Other IP products):
-            Secu! *P         97                ARTERISIP (Arteris Other IP products); OTHERS (Others):           y                           VERISILICON    (Verisilicon Other IP products
-                           Source: Reply to RFI 19, Annex Q.3.1.
+Cortex-M35P); OTHERS (Others); RAMBUS (Rambus Security IP
+portfolio); SECURE IC (Security Silicon IP)
+
+Synopsys ARC Processor IP Family; ANDES (AndesCore); ARM
+CPU IP 95 L.-J (Cortex, Neoverse); IMAGINATION (Catapult); OTHERS
+(Others): SIFIVE (SiFive Core IP)
+
+Synopsys ARC DSP, ARC VPX DSP; Cadence Tensilica; CEVA
+
+DSP IP 96 t.] (SensPro, BX); OTHERS (Others): VERISILICON (ZSP)
+
+Synopsys Other IP products; ARM (Arm Other IP products):
+97 L.-J ARTERISIP (Arteris Other IP products); OTHERS (Others):
+VERISILICON (Verisilicon Other IP products)
+
+Other Excl
+Security IP
+
+Source: Reply to RFI 19, Annex Q.3.1.
+
+3.2. Product mapping — functional level (Functional ID level)
+
+(29)
+
+(30)
+
+(31)
+
+(32)
+
+As discussed in Section 4.2.1.3 of the Decision, the Commission concludes that it is
+appropriate to segment the EDA markets at the level of EDA functions. This has also
+been confirmed by the Product mapping exercise:
+
+First, in addition to the Parties, some market participants were also asked to map EDA
+tools to EDA design flow combinations. Their replies to the Commission’s Requests
+for Information revealed that market participants have slightly diverging views on
+market segmentation and the presence of tools in different market segments.
+
+Second, the Notifying Party was asked to reconcile these differences where they had an
+impact on the competitive assessment.” In that regard, the Notifying Party argues that
+there exists no universally agreed segmentation within EDA and that the product
+mapping provided by the Parties would reflect their best efforts to capture demand-side
+substitutability at the functional level (i.e. level 3) and would best capture competitive
+dynamics for purposes of a substantive assessment of the Transactions’ competitive
+impact. It would also be consistent with how the Parties analyse the relevant segments
+in their internal documents.”
+
+The segmentation at the functional level is therefore the most objective way to segment
+EDA markets and is in line with demand-side substitutability.”°
+
+RFI 18, Q1.
+Reply to RFI 18, para 1.1.
+Decision, Section 4.2.1.3.
+
+15
 
 
-3.2   Product mapping — functional level (Functional ID level)
-
-(29)    As discussed in Section 4.2.1.3 of the Decision, the Commission concludes that  it is
-         appropriate to segment the EDA markets at the level of EDA functions. This has also
-        been confirmed by the Product mapping exercise:
-
-(30)     First, in addition to the Parties, some market participants were also asked to map EDA
-         tools to EDA design flow combinations. Their replies to the   Commission’s Requests
-         for Information revealed that market participants have slightly diverging views on
-        market segmentation and the presence of tools in different market segments.
-
-(31)    Second, the Notifying Party was asked to reconcile these differences where they had an
-        impact on the competitive assessment.”* In that regard, the Notifying Party argues that
-         there exists no universally agreed segmentation within EDA and that the product
-       mapping provided by the Parties would reflect their best efforts to capture demand-side
-          substitutability at the functional level (i.e. level 3) and would best capture competitive
-        dynamics for purposes of a substantive assessment of the Transactions’ competitive
-         impact.  It would also be consistent with how the Parties analyse the relevant segments
-          in their internal documents.”°
-
-(32)    The segmentation at the functional level is therefore the most objective way to segment
-     EDA markets and is in line with demand-side substitutability.”°
-
-
-
-
-24      RFI 18, Q1.
-2%      Reply to RFI 18, para 1.1.
-26       Decision, Section 4.2.1.3.
-
-
-
-                                                                         15
 
 [PÁGINA PDF 208 | texto OCR: verificar contra el PDF]
-(33)    At the functional level, there are 59 EDA functions uniquely identified at L3 level and
-        indexed by a unique Functional ID.2’  This segmentation reflects  all possible EDA
-         functions, irrespective of whether the same EDA function appears in more than one
-        design flow and/or design stage.”* Including Design IP segments, there is a total of 68
-     EDA functions/Design IP segments.
+(33) At the functional level, there are 59 EDA functions uniquely identified at L3 level and
+indexed by a unique Functional ID.’ This segmentation reflects all possible EDA
+functions, irrespective of whether the same EDA function appears in more than one
+design flow and/or design stage.”* Including Design IP segments, there is a total of 68
+EDA functions/Design IP segments.
 
-(34)    Table 8  lists all EDA functions and Design IP segments identified by the Parties and
-         indicates where EDA functions appear in multiple design flows and or design stages.
+(34) Table 8 lists all EDA functions and Design IP segments identified by the Parties and
+indicates where EDA functions appear in multiple design flows and or design stages.
 
+Table 8. EDA functions and Design IP segments...
+Functional IDs Sensnent IDs EDA function or Design IP segment (Level 3) sp [1 2023)
+EDA functions [..-]
+1 1 High-Level Synthesis L..]
+2 2 RTL Analysis [..-
+3 3 RTL Power Consumption Analysis LJ
+4 4.59 Early Architectural Exploration [.]
+5 5 RTL Synthesis LJ]
+6 6 FPGA Synthesis [.]
+7 7: 15: 61: 68 Static Verification L..]
+8 8 Gate-level Power Consumption Analysis [..-]
+9 9:19 Timing Constraints [.]
+10 10; 62 Silicon Lifecycle Management IP [..-]
+11 11; 63 Design-for-Test / Test IP [..-]
+12 12; 64 Simulation Verification L.-J
+13 13; 65 Debug Verification [..-]
+14 14: 66 Formal Verification [...]
+16 16 Emulation-Based Power Analysis L..]
+17 17; 67 Hardware-Assisted Verification LJ
+18 18 Place & Route L]
+20 20: 38 Equivalence Checking [...]
+21 21; 39: 69 _| Physical Verification [J
+22 22:40:70 | ESD Analysis []
+23 23:71 Timing Analysis LJ
+24 24 ECO L]
+25 25 Clock Jitter Analysis LJ
+26 26; 43 Electromagnetic Modelling [.]
+27 27. 45; 73 Parasitic Extraction L.-J
+28 28: 46 Parasitic Analysis [...
+29 29 Design Robustness [...]
+30 30 Gate-level Power Integrity Analysis LJ
+31 31 Gate-level Security Analysis LJ]
+32 32 Schematic Editing [L.-J
+33 33: 50: 58: 77 | Circuit Simulation L.-J
+34 34:51 Design Environment [L.]
+35 35 Layout [...]
+36 36 Electromagnetic Device Synthesis [..-]
+37 37 Early Power Integrity Analysis [...]
+41 41: 72 Transistor-level Power Integrity Analysis [...]
+42 42 Power Device Analysis [..-]
+44 44 Electromagnetic Extraction L..J
+47 47:74 Reliability Analysis LJ
+48 48 Thermal Analysis LJ]
+49 49 Electromagnetic Simulation [LJ
+27 The Functional ID is defined as the minimum of Segment IDs with the same function. For example,
+“Circuit Simulation” appears twice in the Analog Flow and twice in the Multi-die Flow in stages Pre-
+Layout Simulation and Post-Layout Simulation, Segment IDs 33, 50, 58 and 77, and therefore is assigned
+Functional ID 33.
+28
 
+EDA functions are defined broadly, including the photonic design flow, PCB and packaging design and
+EDA tools outside design flows. In addition, the product mapping also includes Design IP. There are
+9 Design IP segments. Including Design IP, there is a total of 68 Functional IDs and 97 Segment IDs.
 
-                   Table 8. EDA functions and Design IP segments..
+16
 
-
- Po     Cid EDAX ffwnecttioms,  Cd
- Po                High-Level Synthesis   Cd
- Po              RTE Analysis
- Po   3  XRT  Power Consumption Analysis  Cd
- P4459 | Early ArchitecturalExploration
-PT       XFPGA Synthesis
- P7715: 61:68 | Static Verification
-P88P9819       Gatte-level Power Consumption Analysis |  CE) P10      | Timing Constraints  Po  1631062 | SiliconDesign-for-Test/TestIPLifecycle ManagementPO
- P1212 64 | Simulation Verification,
- P3813 65] Debug Verification
- PA  T1466 | Formal Verification
-  P16 | 16 | Emnullation-Based Power Analysis
- P7767 __|_Hardware-Assisted Verification
- P20PSS2038 | PlaceEquivalenceRouteChecking
- P2121; 39:69 | Physical Verification
- P2222 40:70 | ESDAnalysis
-
- P24  ECO
-  P25  25 | Clock Jitter Analysis
-  P26 |  26: 43 | Electromagnetic Modelling
- P2727 45:73   ParasiticExtracion
-  P28 |  28:46 | Parasitic Analysis,
- P29   29 | DesignRobustness   Cd
- P80   380     Gaate-level Power Integrity Analysis | Cd
-
- P82  82    SchematicEditing
-   | 33   | 33; 50; 58:77 | CircuitSimulation
-  p84   34:51 | DesignEnvironment
-  Po  8S 8S Layout
- P86 |  86 | Electromagnetic Device Synthesis
- P87  87    Early Power Integrity Analysis  Cd
-  Po 4a   4172‘  Transistor-level Power Integrity Analysis | Cd
- P44P424244 | CdElectromagneticExtractionPowerDeviceAnalysis
-  P47 |  47:74  | Reliability Analysis
- p49P4848|  49 | ElectromagneticThermalAnalysisSimulation Cd
-
-
-27      The Functional ID  is defined as the minimum of Segment IDs with the same function. For example,
-         “Circuit Simulation” appears twice in the Analog Flow and twice in the Multi-die Flow in stages Pre-
-        Layout Simulation and Post-Layout Simulation, Segment IDs 33, 50, 58 and 77, and therefore is assigned
-        Functional ID 33.
-28    EDA functions are defined broadly, including the photonic design flow, PCB and packaging design and
-     EDA tools outside design flows. In addition, the product mapping also includes Design IP. There are
-        9 Design IP segments. Including Design IP, there is a total of 68 Functional IDs and 97 Segment IDs.
-
-
-
-                                                                      16
 
 [PÁGINA PDF 209 | texto OCR: verificar contra el PDF]
-                                        .             Associated      EDA function;   or Design.   IP segment (Level 3)        WSDLMarket“], 2023)si
- PST  S22 | Co-SimulationEnabling Kit
-   | S353    CoDesignEnablingKit
-    |  54 |  54556 | Photonic Layout Design Implementation | Cd
-   | OC | |  Architectural Design & Implementation | Cd
- PS | 75    Structuraland Thermal Analysis
-   | 76 | 6 |TCSignaland Powerlntegnty
-  P78 | 8   PCBDesign
- P| 9    PCB Analysis
-   | OCT 80    Packaging
- Pot   T 8     Characterization
-                                           Functional Safety   & Specification            Analysis po
- Ec Ss > Os 7.a    OO          2
-   | 8484    Mask Tools
- PS |S     Symthesis
-      Pp 86TH TCAD
-   | 87 | 87     Virtual Prototyping
- P88 NA
- Po                Design TPsegments
-       P| 89 | 89 | EmbeddedMemories
-    | 90 | 90 | NVMOtherMemoryCompilers |
-P|        PhysicalLibranes
-                                     Wired
-   |  938 | 93    | WirelessInterfaceIPInterfaceIP     eeoe
-P|
- CPU PSS SecurityIP
- PG |GSP
-                                        Other Excl Security   IP
+Functional IDs —= EDA function or Design IP segment (Level 3) ESS
+52 52 Co-Simulation Enabling Kit [..-]
+53 53 Co-Design Enabling Kit [...]
+54 54- 56 Photonic Layout Design Implementation [...]
+55 55; 57 Photonic Chip Simulation [..-]
+60 60 Architectural Design & Implementation L.-J
+75 75 Structural and Thermal Analysis L.-]
+76 76 Signal and Power Integrity L.-J
+78 78 PCB Design L.-J
+79 79 PCB Analysis L.-J
+80 80 Packaging [L.-J
+81 81 Characterization L.-J
+82 82 Functional Safety & Specification Analysis L.-J
+83 83 HAT L.-J
+84 84 Mask Tools LJ]
+85 85 Synthesis L.-J
+86 86 TCAD L.-J
+87 87 Virtual Prototyping L.-J
+88 88 NA L--]
+Design IP segments L..]
+89 89 Embedded Memories L.-J
+90 90 NVM Other Memory Compilers [...]
+91 91 Physical Libraries [..-
+92 92 Wired Interface IP L.-J
+93 93 Wireless Interface IP L.-J
+94 94 Security IP [...]
+95 95 CPU IP [L.-J
+96 96 DSP IP L.-J
+97 97 Other Excl Security IP L.-J
 
-               Source: Reply to RFI 19, Annex Q.3.1, Commission assessment.
+Source: Reply to RFI 19, Annex Q.3.1, Commission assessment.
 
+3.3. Revenue and market size data
 
+(35)
 
-3.3  Revenue and market size data
+The following subsections describe the Parties’ methodology with regard to the
+allocation of (1) revenues for their own products, (ii) best estimates of segment sizes,
+(111) best estimates of rivals’ revenues, as well as (iv) granular information on
+interoperability flows between functions.”
 
-(35)    The  following  subsections  describe  the  Parties’ methodology with regard  to  the
-         allocation of (i) revenues for their own products,  (ii) best estimates of segment sizes,
-             (111)  best  estimates  of rivals’  revenues,  as  well  as  (iv)  granular  information on
-          interoperability flows between functions.”?
+3.3.1 The Parties’ revenues for their own products
 
+(36)
 
-3.3.1  The Parties’ revenuesfor their own products
+(37)
+(38)
 
-(36)    Synopsys provided  its internal revenue estimates based on  its own internal market
-          intelligence tracking data, [Synopsys’ market intelligence].*°
+Synopsys provided its internal revenue estimates based on its own internal market
+intelligence tracking data, [Synopsys’ market intelligence].*°
 
-(37)    Ansys explained that [information on Ansys revenue allocation].*!
+Ansys explained that [information on Ansys revenue allocation].*!
 
-(38)    The Parties excluded excel/homegrown solutions from their merchant market shares,
-        with the exception of the internal best estimates provided for the functional safety
-         specification and analysis category in the Draft Form CO.
+The Parties excluded excel/homegrown solutions from their merchant market shares,
+with the exception of the internal best estimates provided for the functional safety
+specification and analysis category in the Draft Form CO.
 
+31
 
+The Parties product mapping exercise is explained in Form CO, Chapter 2 — Annex 11.2 Methodology note
+accompanying the product and revenue mapping template. The latest versions of the product mapping and
+EDA functional shares were submitted in the Form CO, Chapter 2, Annex RFI 19 Q.3.1 and Annex RFI 18
+Q.4.1 respectively.
 
+Based on Synopsys’s internal view of [Synopsys’ market intelligence] data, which [description of
+Synopsys revenue allocation].
 
-29      The Parties product mapping exercise is explained in Form CO, Chapter 2 — Annex 11.2 Methodology note
-        accompanying the product and revenue mapping template. The latest versions of the product mapping and
-     EDA functional shares were submitted in the Form CO, Chapter 2, Annex RFI 19 Q.3.1 and Annex RFI 18
-         Q.4.1 respectively.
-30      Based on Synopsys’s  internal view of [Synopsys’  market  intelligence]  data, which  [description of
-        Synopsys revenue allocation].
-31      Based on Ansys’s [information on Ansys revenue  allocation], which allocates revenue over contract
-         duration for subscriptions.
+Based on Ansys’s [information on Ansys revenue allocation], which allocates revenue over contract
+duration for subscriptions.
 
+17
 
-
-                                                                      17
 
 [PÁGINA PDF 210]
 (39)    The Parties' products often have applications in multiple segments, making it difficult
@@ -12017,786 +12437,956 @@ P|
                                                             18
 
 [PÁGINA PDF 211 | texto OCR: verificar contra el PDF]
-         This  initial estimate was then reviewed and adjusted by the Parties to better reflect
-         commercial reality, with Synopsys assuming zero revenues for unreported rivals, and
-        Ansys estimating shares based on internal know-how and market intelligence.
+This initial estimate was then reviewed and adjusted by the Parties to better reflect
+commercial reality, with Synopsys assuming zero revenues for unreported rivals, and
+Ansys estimating shares based on internal know-how and market intelligence.
 
- (47)    During   its  investigation,  the Commission  requested  revenue  data  from  market
-          participants other than the Parties to verify the Parties’ best estimates.  This exercise
-          suggests that the Parties’ best estimates provide a good approximation of the EDA
-         market at the functional level and are the best attammable market share estimates at the
-         design-flow combination level.
+(47) During its investigation, the Commission requested revenue data from market
+participants other than the Parties to verify the Parties’ best estimates. This exercise
+suggests that the Parties’ best estimates provide a good approximation of the EDA
+market at the functional level and are the best attainable market share estimates at the
+design-flow combination level.
 
+3.4 Market shares at the functional level (Functional ID level)
 
- 3.4  Market shares at the functional level (Functional ID level)
+(48) Table 9 shows the market shares of the Parties’, Siemens and Cadence, based on the
+Parties’ estimates. Furthermore, the first column indicates which Segment IDs belong
+to each functional level, while the last columns indicate whether the functional level is
+horizontally or non-horizontally affected as well as the number of interoperability links
+(separately for the exporting and importing side).
 
- (48)    Table 9 shows the market shares of the Parties’, Siemens and Cadence, based on the
-           Parties’ estimates. Furthermore, the first column indicates which Segment IDs belong
-           to each functional level, while the last columns indicate whether the functional level is
-          horizontally or non-horizontally affected as well as the number of interoperability links
-          (separately for the exporting and umporting side).
+Table 9. Market shares segmented according to the functional (L3) level.
+Aff.
+c Aff. No.
 
-         Table 9. Market shares segmented according to the functional (L3) level.
+Functio Market Market shares (2023) horizo none interoperability
 
-                                                                                                                                     Aff.
-                   c                                                                                                      Aff.                   No.
-  Functio                                Market              Market shares (2023)                horizo    none     interoperability
-    nal-     Segment        Level 3             size                                                              ntally    horizo         links
-    level      IDs                 (sD                                                                    Y | ntally
+nal- Segment Level 3 size ntally horizo links
+level IDs (usD Y | ntally
+Ds [-D | snps | anss | cpns | sIE_ | Others Exporti | Impo
+ng rting
+High-Level [J
+1 1 Suathbenis ose | [sr | poto% | [10% | [osT%
+2 2 RTL Analysis L.] [90-100]% [0-S}% [0-5]% [0-5]% [0-5}% Yes 1
+RTL Power L--]
+3 3 Consumption [30-401% | [40-50% | [02% | fo20% | fos% | Yes | Yes 2 5
+Analysis
+4 4:59 Early Architectural tJ [10% | [ose | [o20% | [10% | [080%
+Exploration
+5 5 RTL Synthesis L.-J te0o-701% | fos | (0-40I% | [051% [0-5]% Yes 1
+6 6 FPGA Synthesis LJ] 060% | (o5r | fos | 020% | pos0r% Yes
+7 * an Static Verification CJ (o-70% | jose | fost | 10% | [020% Yes
+Gate-level Power L--]
+8 8 Consumption oso | fosre | poso% | fos% | [0st Yes 1 2
+Analysis
+9 9.19 | Timing Constraints [J wosor | tosre | poso% | tos% | 030% Yes
+Silicon Lifecycle [L.-J ‘ ‘ ‘ ‘ ‘
+10 10: 62 Manag P [50-60]% [0-S}% [0-5]% [10-20]% [30-40]% Yes
+ll 11: 63 Design forrest! tJ posg% | pose | po20% | poso% | [s10R6 Yes
+- Simulation L-]
+12 12: 64 Verification [30-40]% [0-5)% (30-40]% 220-30} (5-10P% Yes 3 1
+B 13,65 | Debug Verification LJ rose | sre | fo20% | fo2m | [0st Yes I
+14 14: 66 Formal Venfication [.-.] [10-20]% [0-S}% [60-70]}% | [10-20]% [0-S}%
+Emulation-Based L--] t
+16 16 Power Analven 030% | fosr | joso% | fos% | [0st NB 1
+17 17: 67 Hardware-Assisted L..] (40-50% | [ospe | [4oso% | o20j% | [ost Yes 1
+Verification
+18 18 Place & Route L..] [40-50]% [0-S)% [50-60]% [0-51% [0-5}% Yes 4
+20 20: 38 Equivalence L-.] (30-40% | [osr | soso. | [05% [0-5}% Yes
+- 20- Physical L-]
+21 21; 39; 69 Verification [10-20]% [0-S}% [1020}% | [60-70}% [0-5]%
+22 22: 40: 70 ESD Analysis LJ] [10-20]}% | [10-20]% | [5-10}% | [60-70% (osy% | No** Yes 5
+23 23:71 Timing Analysis L.] | woom | osm | sin [ os | osm Yes 2 2
+24 24 ECO [J soso | tosre [| to20% | ros% | (10r% Yes 1 i
+25 25 Clock Jitter t-.] josre | oso | pos. | Bos | losis Yes 8
+Analysis
 
-
-                                                                                                                                    ng       rting
-
-Po   RTL Analysis |]  | eto  | fore [tose | os  | fos [| Yes | 1 [|
-                    RTL Power            L--]
-      3            3         Consumption                          [30-407% | [40-50% | [020% | fo20% |  fost  |  Yes  |  Yes        2          5
-                               Analysis
-                                                                                                                                  , anExploration     Oc
-| 6 | 6 |  CFPGASynthesisRTL   Synthesis |.)| [J || te070%oso  || fosreosm |[ posfos  || fo2%os  || posefos  |[||  YesYes || 1|[|
-
-
-
-                            Gate-level Power         L--]
-                         Consumption                        [70-80]%      [0-5P%      [20-30]%       [0-5}%        [0-5}%             Yes                 2
-                               Analysis
-Po | 9:19 | Timing Constraints | [J | oso | osm  [ poso%  | os% | poso~ [ |  Yes | [|
-
-                   ManagementIP
-
-
-
-
-
-                                VerificationPe Po [gemsTest IP  [oT [ome [om  [oom for [om |  [ve [> [a                      13:65__|     Debug Venfication | [J  | (mo-sor% | f05r  | [020% | for  | fos  | |  Yes | |
-                      14:66__|     Formal Venification [ [J |  020% [sre | tco7ore  [ no2% |  osm TT
-
-                          Power Analysisps| te  | ecm                         | U7 [om [osm  | ooo  | ose | moe |      |  xe | ||
-
-
-                                      cation
-Pig | is]  Place & Route | [.] | oso  | osm | pos  | os  | osm [  |  Yes | 4 [|
-                                                                .           Equivalence            L--]
-
-            20.            Physical              L--]
-
-            22:40:70 |  ESD Analysis  [|  f..J | 020% | ro20% | tio  | (60-70% | os  | No** | Yes  [| | 5 |
-P24 te23:71 |  TimingCECOAnalysis | |[J | tao(80-90% || [osmose |[ (sio%oz || fosos  || simfos  |[||  YesYes  [|| 12 [1| 2 ||
-
-                               Analysis           raya |) | ex  [omer | over  | vowm | woe |  [ve | |e |
-
+19
 
 
-
-                                                                        19
 
 [PÁGINA PDF 212 | texto OCR: verificar contra el PDF]
-  Functi                                 Market                               an  | At          No.
-   unerro                                       ar                Market shares (2023)                horizo                 :      interoperability
-    nal-     Segment         Level 3             size                                                              ntally    horizo         links
-    level      IDs                      (USD                                                                                                                                                    ¥_ | ntally
+: Aff. No.
+Functio Market Market shares (2023) horizo non interoperability
+nal- Segment Level 3 size ntally horizo links
+level IDs (UsD Y | ntally
+IDs =p Exporti | Impo
+SNPS ANSS | CDNS SIE Oth .
+ers —- rting_|
+Electromagnetic L--] t
+26 26; 43 Modelling [0-S}% [10-20]% | [20-30]% [0-5}% [60-70}% NB 1 3
+27 27; 45: 73 | Parasitic Extraction [.--] [40-50]% [0-5}% [40-50]% [0-5]% [0-5}% Yes 9
+28 28: 46 Parasitic Analysis L.-J [0-SP% [70-80}% | [10-20}% | [10-20]}% [0-S}% Yes Yes 5
+29 29 Design Robustness L.-J [70-80]% [0-5)% [10-20]% | [5-10}% [0-5}% Yes 2
+Gate-level Power L--]
+30 30 Integrity Analysis [0-S}% [50-60]% | [30-40]% 5-10}% [0-S}% Yes 14
+Gate-level Securt _ 90-
+31 31 Analysis ty L.-] [0-S}% Ana [0-5]% [0-5]% [0-5}% Yes 1 ll
+32 32 Schematic Editing [...] [5-10]% fo-s% | (soso% | [0-5)% [o-5I%
+33 ma a Circuit Simulation | | posope | sre | posors | 10% | p030r Yes 4 9
+. Design L-.] +
+34 34:51 Enviro [10-20]% [0-5 [80-90]% [0-5]% [0-S}% NB 1 1
+35 35 Layout [...] [10-20]% [0-5)% [80-90]% [0-5]% [0-5}% Yes 4 3
+36 36 Electromagnetic LJ jsp | p020% | tosor | tos | poor. NBT 3
+Device Synthesis
+Early Power [--J t
+37 37 Inteority Analvsi [0-570 [0-5)% [70-80]}% [10-20}% [0-5}% NB 4
+Transistor-level L--]
+41 41; 72 Power Integrity [0-S}% [40-50]}% | [40-50]% 5-10}% [5-10] Yes Yes 3 6
+Analysis
+42 42 Power Device tJ oso | 10% | fost | fos | [soso | Yes Yes 6
+Analysis
+Electromagnetic L--] ‘ 101% ‘ ‘ ‘ t
+44 44 Extraction [0-S}% 5-10]% | [90-100}% [0-5}% [0-5}% NB 1 4
+47 47. 74 Reliability Analysis L.-J [20-30]% [0-S}% [0-5]% [70-80]% [0-5]%
+48 48 Thermal Analysis L.-J [0-5)% [0-5)% [40-50}% [0-5]% [40-50}%
+19 49 Electromagnetic [-.] jos. | psoso% | Boson | fos | Pozo. Yes 2 2
+Simulation
+Co-Sunulation L--] x, x, x,
+52 52 Enabling Kit [20-30]% [0-5 [40-50]}% | [20-30}% [0-5}%
+53 53 Co-Design Enabling L-] | fsiop. | ose | oro. | fos | tos NBT 1
+Photonic Layout [.--]
+54 54; 56 Design [20-30]% [0-S)% Bo-40}% [05% Bo-4o}% NB' 1
+Implementation
+55 55: 57 Photonic Chip [1 (10-20% | po20% | Bos | [10% | Bo4so% | Yes Yes 1
+Sinulation
+Architectural LJ
+60 60 Design & [20-30]% [0-S)% [40-50]}% | [20-30}% [0-5}% NBT 3 2
+Implementation
+Structural and L--] *
+75 75 Thermal Analysis (0-5) [70-80]% | [20-30]% | [10-20]% [0-5}% Yes Yes 3 1
+16 16 Signal and Power [J jsp. | oso | tosor | jose | to20% | Yes* | Yes 1 1
+itegrity
+78 78 PCB Design L..] [0-5)% [0-5)% [10-20]}% 50-60}% | [20-30}%
+79 79 PCB Analysis L..] [0-5 [10-20]% | [10-20]% | [40-50}% | [2030}% NB! 1 1
+80 80 Packaging [...] [0-S}% [10-20]% | [10-20}% | [40-50}% | [2030)% NB‘ 1 1
+81 81 Characterization L..] [40-50}% [0-5)% [40-50]}% [10-20}% [0-5]% Yes 4
+Functional Safety & L--]
+82 82 Specification [10-20]% | [10-20}% | [4050)% | [2030}% | [1020}% Yes NBT 5
+Analysis
+83 83 HAT [...] [90-100}% [0-5}% [0-5]% [10-20]% [0-5}% Yes
+84 84 Mask Tools L..] [20-30]% [0-5 [0-5]% (40-50]% | [20-30]}%
+85 85 Synthesis L.-J [30-40]% [0-5}% [60-70]% [0-5]% [0-5}% Yes
+86 86 TCAD L.-J [80-90]% [0-5 [0-5]% [0-5]% [20-30]% Yes
+87 87 Virtual Prototyping [...] [80-90]% [0-5}% [5-10}% [0-5]% [0-S}% Yes
+89 89 Nnbedded t-J [50-60}% [0-5}% [0-5}% [0-5]% [40-50}% Yes 10
+emores
+NVM Other LJ ;
+90 90 Memory Compilers [10-20]% [0-5}% [0-5]% [0-5]% [80-90]% NB 5
+
+20
 
 
-                                                                                                                                                                               ag       rting
-
-
-
-
-                                            ng
-               27; 45:73 | Parasitic Extraction | [J] | 050r% | (05r% | oso  | fos  | fos  |  |  Yes |  9 | |
-| 29 |  28:4629 || “DesignParasiticRobustnessAnalysis || [][] || (mosore(05%  || rosor%sre || fo20%(020% || fo20%10% || fos%fos  || Yes|| YesYes || 2 || 5 ||
-Ps [ef Gate-levelGate-levelSeekSecurityPower [tT [omYo [ron[90-  4 omYo fomYa [em%e  | pre p>  |Poe Pom [i  Pom fom [om [pep  a  |                          Schematic Editing | [.]  [| bom | om | wom | om | om] ~~  |  |
-
-
-
-
-
-                           Environment
-P35 | 85   Layout |]  | tor | ose | soso  | os  | fos |  |  Yes | 4 | 3 |
-    36         36      DeviceElectromagneticSynthesis                     fospe  | po20% | [oso | os | pos.          NBT                  3
-PfftEarly Power                    [0-5    0-5       0-80]%      10-20]%     OS}%                                                               tT                                Transistor-level   oT [om [om [oan [oom [em [fe    [
-    41       41:72      Power Integnity                 [0-5       [40-50]}% |  [40-50]%      [5-10}%       [5-10}%     Yes     Yes         3
-                               Analysis
-    42         42         Power Device-                              [40-50]%     5-10]%       [0-5]%        [0-5]%       [(50-60}%    Yes     Yes
- aExtractionOs                     Analysis
-[—4s__|  47,14 |  Relability  Analyses | [] | boom | oom | wom [momm | om) |   |  |
-
-
-                                imulationpe |e48 || ThermalSitioAnalysis || []2  || easm |[omersm || wosomomen  || msmsm || wosomwm || ||  ves|_|| 2  | 2 |
-                           Co-Sinulation                                 %e             %o             vo             Ye              %e
-       coer]   TT om  [om [won| om [om [ [we          |                           Photonic Layout
-    54         54: 56          Design                              [20-30]%      [0-S}%      [30-40]%      [0-5]%      [30-40]%           NB‘
-                           Implementation
-
-
-                              Sunulation
-
-                               Architectural
-                            Design &                            [20-30]%      [0-S}%      [40-S0]%     [20-30}%      [0-5]%          NB*        3         2
-                           Implementation
-                                Structural and
-
-
-| 7s | 78]  PCBDesign | of) | sr  | ose  | fo20% | po6% | pos  |  |  |
-P79 | 79 |  PCBAnalysis | C] | 5 | fio20% | [to20% | Moso% | Poors | |  NB’ | 1  | 1 |
-| 80  80  |  Packaging | OC] |     |  to-20% | 020% | woso% | pos  |  |  NB’ | 1  | 1 |
-| si] 81    Characterization | [J | 4osor | osre | oso | fo2% | fos  | |  Yes | 4 | |
-                          Functional Safety&
-    82         82           Specification                          [10-20]% |  [10-20% |  [4050)% |  [20-30}% |  [1020}%    Yes    NB‘         5
-                               Analysis
-| ss 83 CATT]    ct00y% | ose | fos  | o2% | os  | |  Yes | |
-P85P84| 84        Mask Tools | [J] | 030% | osre | fost  | oso  | pos  | |  |P86 85    Synthesis | C] | Boor  | ose | t6o70r% | foe | osm  | |  Yes |  || 87]| S8786 | VirtualTCADPrototypingTC]| [J | to(0.90%90r% || fosreose || Goreposte  || foeos% || posrose || ||  YesYes || ||
-|              |   Memos  | ST fem  | om  | om  | wm  | wom | |  ves | to [|
- 0Memory   Compilers ddOs                  Memories
-
-
-
-
-
-                                                                   20
 
 [PÁGINA PDF 213 | texto OCR: verificar contra el PDF]
-  Functi                               Marke                               an  |  Af.          No.
-   unctio                                       arket              Market shares (2023)                horizo  | "° |  interoperability
-    nal-     Segment         Level 3             size                                                                ntall     horizo         links
-    level      IDs             ve          (USD                                                    Y |  nt
-   ID                    LD                                                                      Exporti  | Im           :                         [aes [os[os[se foam]  |   [Se [SePt] 91     Physical Libraries | [J | Go4ore | osm  [| tose | osm | tor% [ |  Yes | 10 [|
-|Ts92 [5pm| 92 | Wired InterfaceIP |[TT[J |Pontorre |Pomosm |[omt020% |fomfos  |fomposor  || |[wpYes | 6 || || 94 |  94 |  SecuntyIP |]  |  020% | osm | fos  | fos  | ios  | |  |
-Po 9s   8S PUP)  om  | osm [osm [om | oto [  f
-|pa96 |Pn6 S|PomeCPP)A Tmre | Tonome |Pomtoro |Pomore |[romBore | |PPTft
-  Source: Reply to RFI 19, Annex Q.3.1. Reply to RFI 18, Annex Q.4.1. SNPS is Synopsys, ANSS
-                 is Ansys, CDNS is Cadence, SIE is Siemens. *Affected due to potential competition
-          concerns. **While not horizontally affected, the Commission has assessed the impact of
-            the Transaction due to concerns raised by market participants, see Decision, Section
-             5.2.3.1. "Neighbouring market with interoperability links to other EDA markets where
-                              the Parties have market shares of30% or above.
+Functio
+nal-
+level
+IDs
+
+Segment
+IDs
+
+Level 3
+
+Market
+size
+(UsD
+L--D
+
+Market shares (2023)
+
+horizo
+ntally
+
+non-
+horizo
+
+ntally
+
+No.
+
+interoperability
+links
+
+SNPS
+
+ANSS
+
+CDNS
+
+SIE
+
+Others
+
+Exporti
+ng
+
+Impo
+rting _|
+
+91
+
+91
+
+Physical Libraries
+
+040]%
+
+[0-S}%
+
+[0-5]%
+
+[0-5}%
+
+[60-70]%
+
+Yes
+
+10
+
+92
+
+92
+
+Wired Interface IP
+
+—
+on
+
+[60-70}%
+
+[0-5}%
+
+[10-20]%
+
+[0-5]%
+
+[20-30]%
+
+Yes
+
+6
+
+93
+
+93
+
+Wueless Interface
+IP
+
+[0-5
+
+[05%
+
+[0-5]%
+
+[0-5]}%
+
+[0-S}%
+
+NB!
+
+1
+
+94
+
+94
+
+Secunty IP
+
+[10-20]%
+
+[0-5}%
+
+[0-5]%
+
+(0-5]%
+
+[80-90]%
+
+95
+
+95
+
+CPU IP
+
+[0-5
+
+[0-S}%
+
+[0-5]%
+
+(0-5]}%
+
+[90-100]%
+
+96
+
+96
+
+DSP IP
+
+[0-5]%
+
+[0-S}%
+
+[60-70]%
+
+[0-5]%
+
+(30-40)%
+
+97
+
+97
+
+Other Excl Security
+IP
+
+real coed coed co
+
+[0-5]%
+
+[0-5}%
+
+[0-5]%
+
+(0-5]%
+
+[90-100]%
+
+Source: Reply to RFI 19, Annex Q.3.1. Reply to RFI 18, Annex Q.4.1. SNPS is Synopsys, ANSS
+is Ansys, CDNS is Cadence, SIE is Siemens. *Affected due to potential competition
+concerns. **While not horizontally affected, the Commission has assessed the impact of
+the Transaction due to concerns raised by market participants, see Decision, Section
+5.2.3.1. ‘Neighbouring market with interoperability links to other EDA markets where
+
+(49)
+
+the Parties have market shares of 30% or above.
+
+To sum up, the Parties are active in a large number of EDA and Design IP markets,
+many of which are affected due to actual or potential overlaps or give rise to
+
+conglomerate links, listed in Section 5.2.3 and Section 5.2.4 of the Decision.
+
+4 INTEROPERABILITY MATRIX (EDA AND DESIGN IP)
+
+4.1 Interoperability relationships between EDA and Design IP
+
+(50)
+
+(51)
+
+The Commission requested the Parties to complete a matrix identifying data export-
+import relationships between EDA tools at a granular level for each segment ID where
+one or both of the Parties generated revenues in 2023. That is, the abovementioned
+market segments may be preceding or succeeding other segments market in the design
+flow — i.e., one product exports data and information then imported by another product.
+
+Table 10 shows the export-import relationships across Segment IDs for each functional
+level (L3). This table also shows which relationships are affected from a conglomerate
+perspective at the functional level. That is, whether the Parties’ combined market share
+in either the exporting or importing function is at least 30%, or whether one of the
+Parties’ market share in either the exporting (or importing) function is at least 30% and
+the other Party is present in the importing (or exporting) function. There are in total 102
+
+import-export relationships non-horizontally affected at the functional level.
+
+21
 
 
-
- (49)    To sum up, the Parties are active in a large number of EDA and Design IP markets,
-       many of which  are  affected due  to  actual  or  potential  overlaps  or give  rise  to
-         conglomerate links, listed in Section 5.2.3 and Section 5.2.4 of the Decision.
-
-
- 4   INTEROPERABILITY MATRIX (EDA AND DESIGN IP)
-
-
- 4.1   Interoperability relationships between EDA and Design IP
-
- (50)    The Commission requested the Parties to complete a matrix identifying data export-
-         import relationships between EDA tools at a granular level for each segment ID where
-         one or both of the Parties generated revenues in 2023. That  is, the abovementioned
-         market segments may be preceding or succeeding other segments market in the design
-         flow — i.e., one product exports data and information then imported by another product.
-
- (51)    Table 10 shows the export-import relationships across Segment IDs for each functional
-           level (L3). This table also shows which relationships are affected from a conglomerate
-          perspective at the functional level. That is, whether the Parties’ combined market share
-           in either the exporting or importing function is at least 30%, or whether one of the
-           Parties’ market share in either the exporting (or importing) function is at least 30% and
-          the other Party is present in the importing (or exporting) function. There are in total 102
-          import-export relationships non-horizontally affected at the functional level.
-
-
-
-
-
-                                                                        21
 
 [PÁGINA PDF 214 | texto OCR: verificar contra el PDF]
-            Table 10. Overview of interoperability links at the functional level.
+Table 10. Overview of interoperability links at the functional level.
 
-   Exporting       Exporting            Full list of        Importing       Importing        Full list of Importing      Affected
-   functional       function (L3)      Exporting Segment     functional      function (L3)         Segment IDs           non-
-    level IDs                            IDs                level IDs                                                      horizontall
+Exporting Exporting Full list of Importing Importing Full list of Importing Affected
+functional function (L3) Exporting Segment functional function (L3) Segment IDs non-
+level IDs IDs level IDs horizontall
+y
+3 RTL Power 2; 12; 17; 81; 82 Yes
+Consumption
+Analysis
+5 RTL Synthesis 2: 7: 9: 10; 11; 19: 62:
+63; 92: 93: 94: 95: 96: 97
+7 Static 2; 5;18
+. Verification
+RIL Analysis 3; 5; 8; 12; 15:20 8 Gate-level Power | 2. 3: 5: 12: 16, 27. 82
+Consumption
+Analysis
+12 Simulation 2: 5; 6; 7; 15; 18; 23; 31;
+Verification 52: 61: 68
+20 Equivalence 2; 5;18
+Checking
+8 Gate-level Power 2: 3; 5; 12: 16; 27: 82 Yes
+RTL Power Consumption
+3 Consumption 8; 30 Analysi:
+Analysis 30 Gate-level Power 3; 8; 12; 16; 18; 23; 24- Yes
+Integrity Analysis | 27; 29: 81; 82: 89: 90: 91
+7 Static 2; 5;18
+Verification
+8 Gate-level Power 2: 3; 5; 12: 16; 27: 82
+Consumption
+Analysis
+12 Simulation 2: 5; 6; 7; 15; 18; 23; 31;
+. Verification 52: 61: 68
+° RIL Synthesis | 8; 12; 15; 18; 20; 31 18 Place & Route 5; 8: 9: 15: 19; 21; 24:
+53: 60: 92: 93: 94: 95:
+96: 97
+20 Equivalence 2: 5:18
+Checking
+31 Gate-level 5; 12: 18; 23; 27: 29: 81: Yes
+Security Analysis 82: 89: 90: 91
+12 Simulation 2; 5; 6; 7; 15; 18; 23; 31;
+. Verification 52: 61: 68
+6 FPGA Synthesis 12; 13 B Debug 6.7. 12: 14: 15; 17. 52.
+Verification 61: 64: 66: 67: 68: 82
+5 RTL Synthesis 2; 7; 9: 10; 11: 19: 62:
+63; 92: 93: 94: 95: 96: 97
+12 Simulation 2: 5: 6; 7; 15; 18; 23; 31
+Verification 52: 61: 68
+7 Static Verification 5; 12; 13; 18; 64; 65 13 Debug 6; 7; 12; 14; 15; 17; 52
+Verification 61: 64: 66: 67: 68: 82
+18 Place & Route 5: 8: 9: 15; 19; 21; 24:
+53; 60; 92: 93: 94: 95:
+96: 97
+18 Place & Route 5; 8: 9: 15; 19; 21; 24
+Gate-level Power 53; 60; 92: 93: 94: 95
+8 Consumption 18; 30 96: 97
+Analysis 30 Gate-level Power 3; 8: 12; 16; 18; 23; 24: Yes
+Integrity Analysis | 27; 29: 81; 82: 89: 90: 91
+5 RTL Synthesis 2: 7: 9: 10; 11: 19: 62:
+63; 92: 93: 94: 95: 96: 97
+18 Place & Route 5: 8: 9: 15; 19: 21: 24-
+Timing 10. 53; 60; 92: 93; 94: 95:
+9 Constraints 9; 18; 23 96.97
+23 Timing Analysis 9: 18: 19: 24: 27: 30; 60:
+75; 81; 92: 93: 94: 95:
+96: 97
+2 RTL Analysis 10; 62
+Silicon Lifecycle
+10 Management IP 2:5 5 RTL Synthesis 2: 7.9: 10: 11. 19: 62:
+63; 92: 93: 94: 95: 96: 97
+u Design-for-Test / 5 5 RTL Synthesis 2: 7: 9: 10; 11; 19: 62:
+Test IP 63: 92- 93: 94- 95- 96: 97
+
+22
 
 
-                                                                      3        RTL Power             2: 12: 17: 81; 82          Yes
-
-
-                                                                                   Analysis             Co |  ee63; 92: 93: 94: 95: 96: 97
-                                                                                                                          . eee       2                                                                              Verification
-              RTL Analysis          3; 5; 8; 12; 15; 20                       Gate-level Power  |    2: 3: 5: 12: 16, 27. 82
-                                                                       Consumption
-                                                                                   Analysis
-    eS aes    |     VerificationChecking                 52: 61: 68                       ase  |
-                                                                                  Gate-level Power       2; 3; 5; 12; 16; 27; 82       Yes
-               RTL Power                                          Consumption
-         3          Consumption                 8; 30                               Analysis
-
-                                                                                                                     Integrity   Analysis | 27; 29-81; 82: 89: 90:91
-       i             Verification
-  SeGate-levelAnalysisPower       2; 3; 5; 12; 16; 27; 82
-  esVerification               52: 61; 68                                                                                                                                        .          ae
-                                                                                                               53; 60; 92: 93: 94: 95:
-                                                                                                                       96; 97
-  oeChecking
-
-
-                                                                                                              Security  Analysis          82: 89: 90: 91
-
-                                                                                    Verification               52: 61: 68                                                                                                                                                                                            .    ee ee ee  ee
-       i             Verification       63;61:92:64:93:66:94:67:95:68:96:8297
-  ee52: 61: 68                                                                                       Verification a
-                                                                                        Verification         61; 64: 66: 67: 68: 82
-
-
-                                                                                                               53; 60; 92: 93: 94: 95:
-                                                                                                                       96; 97     LE18          Place & Route Lean5; 8; 9: 15; 19; 21; 24: |
-                   Gate-level Power                                                                           53: 60: 92: 93: 94: 95:
-                  Consumption               18: 30                                                              96: 97
-   a
-       i              IntegrityedAnalysis | 27;63; 29;92: 81;93: 94:82: 89;95: 90:96: 9197
-                                    40.                                                        53; 60; 92: 93: 94: 95:
-                       Constraints                5; 18; 23                                                              96; 97                     Timing  LE23        Timing Analysis Lege9: 18: 19: 24: 27: 30; 60: |
-   lial96:97
- a       10          Silicon Lifecycle            9-5                                                                                                                                                                                                                   : [
- a
-                                                                                                             63; 92: 93: 94: 95: 96: 97
-
-
-                            IP                                                                            63; 92: 93: 94: 95: 96: 97po PeeTest PESMESS [ostononosiseor | |
-
-
-
-
-                                                                   22
 
 [PÁGINA PDF 215 | texto OCR: verificar contra el PDF]
-  Exporting       Exporting            Full list of        Importing       Importing        Full list of Importing      Affected
-   functional       function (L3)      Exporting Segment     functional      function (L3)         Segment IDs           non-
-    level IDs                            IDs                level IDs                                                      horizontall
+Exporting Exporting Full list of Importing Importing Full list of Importing Affected
+functional function (L3) Exporting Segment functional function (L3) Segment IDs non-
+level IDs IDs level IDs horizontall
+y
+3 RTL Power 2: 12; 17; 81; 82 Yes
+Consumption
+Analysis
+8 Gate-level Power 2: 3: 5; 12: 16; 27: 82
+Consumption
+Simulation Analysis
+12 Verification 3; 8; 13; 30; 31; 65 B Debug 6; 7. 12 14, 15. 17. 52.
+Verification 61: 64: 66: 67: 68: 82
+30 Gate-level Power 3; 8: 12; 16; 18; 23; 24: Yes
+Integrity Analysis | 27; 29: 81; 82: 89: 90: 91
+31 Gate-level 5: 12: 18: 23: 27: 29: 81: Yes
+Security Analysis 82: 89: 90: 91
+14 Formal 13-65 13 Debug 6; 7: 12; 14; 15; 17; 52:
+Verification ° Verification 61: 64: 66: 67: 68: 82
+8 Gate-level Power 2; 3; 5; 12: 16; 27; 82
+16 Emulation-Based 8-30 Consumpts on
+Power Analysis ; lysis
+30 Gate-level Power 3: 8: 12; 16; 18; 23; 24: Yes
+Integrity Analysis | 27; 29: 81: 82: 89: 90: 91
+3 RTL Power 2: 12: 17: 81: 82 Yes
+Consumption
+Hardware- Analysis
+17 Assisted 3; 13; 16: 65 13 Debug 6; 7; 12; 14; 15; 17; 52:
+Verification Verification 61; 64; 66; 67; 68; 82
+16 Emulation-Based 17
+Power Analysis
+7 Static 2: 5:18
+Verification
+12 Simulation 2: 5; 6, 7; 15; 18; 23; 31;
+Verification 52: 61: 68
+20 Equivalence 2; 5;18
+Checking
+22 ESD Analysis 18; 27: 35; 45: 60; 73: Yes
+89- 90: 91- 92: 93
+ae 4n. 99. 92. 23 Timing Analysis 9: 18: 19: 24: 27: 30; 60:
+18 Place & Route oe oat 75; 81; 92; 93: 94; 95:
+eee 96: 97
+25 Clock Jitter 18; 27; 81; 89; 90; 91; Yes
+Analysis 92: 93
+27 Parasitic 18; 21: 35: 39: 56: 60: 69
+Extraction
+30 Gate-level Power 3: 8: 12: 16; 18; 23: 24- Yes
+Integrity Analysis | 27; 29: 81; 82: 89: 90: 91
+31 Gate-level 5: 12: 18: 23: 27: 29: 81: Yes
+Secunty Analysis 82: 89: 90: 91
+18 Place & Route 5: 8: 9: 15; 19: 21: 24-
+53; 60; 92: 93: 94: 95:
+96; 97
+- 27 Parasitic 18; 21; 35; 39; 56; 60; 69
+21 va 18: 27: 32: 45: 73: 84 Extraction
+32 Schematic 36; 39
+Editing
+84 Mask Tools 21: 39: 69
+12 Simulation 2: 5: 6; 7; 15; 18; 23; 31;
+Verification 52: 61: 68
+30 Gate-level Power 3: 8: 12: 16; 18; 23; 24: Yes
+Integrity Analysis _|_27; 29: 81; 82: 89: 90: 91
+23 Timing Analysis 30: 31; 50: 64 31 Gate-level 5: 12: 18: 23: 27: 29: 81: Yes
+Secunty Analysis 82: 89: 90: 91
+33 Circuit 23; 34: 36; 43: 44: 45:
+Simulation 49-51: 55: 57: 60; 75;
+
+76; 79: 80: 86
+
+23
 
 
-
-                                                                      Consumption
-                                                                                  Analysis
-                      Simulation S|Gate-levelAnalysisPower       2; 3; 5; 12; 16; 27; 82
-
-                                                                                    Verification         61: 64: 66: 67: 68: 82
-
-                                                                                                                      Integrity   Analysis | 27; 29; 81; 82: 89; 90: 91
-
-
-                                                                                                              Security  Analysis          82: 89- 90: 91
-
-                      Verification                                       ;                                   Verification         61; 64: 66: 67: 68: 82a ee ce  eee
-                                                                                                                               .  a ee                  Eenulation_—   Based               8: 30                          ConsumptionAnalysis
-
-                                                                                                                      Integrity   Analysis | 27: 29; 81; 82: 89: 90: 91
-                                                                      3        RTL Power             2: 12; 17: 81; 82          Yes
-                                                                      Consumption
-                   Hardware-                                                   Analysis
-
-                     Verification                                                   Verification         61: 64: 66: 67: 68: 82   "            ciiewon     fo                                                                                                                                                                                                                                                                                                                                                      | |   venteaton | “etek sees  | |
-
-                                                                   Power Analysis     a ed     a        Verification
-    esVerification ae52; 61: 68
-  esChecking
-
-
-                                                                                                               89- 90: 91: 92: 93
-                                       (46.90.99.                            92.          23        Timing Analysis      9: 18: 19: 24: 27: 30; 60:
-
-                                            25; 27; 30; 31                                                                                                                                                                                                          .
-                                                                                                                       96: 97
-
-
-
-
-
-                                                                                     Extraction        ee       Analysis                   92: 93
-                                                                                                                      Integrity   Analysis | 27; 29; 81; 82: 89; 90: 91
-
-
-                                                                                                              Security  Analysis          82: 89- 90: 91
-
-
-                                                                                                                   60; 92: 93: 94: 95:
-                                                                                                                       96; 97 a53;                   eee                                                                                                 F                                   27               Parasitic          18; 21; 35; 39; 56; 60; 69
-     a32            Schematica ne36; 39
-       i
-
-                                                                                    Verification               52: 61: 68        ne ee ee
-
-                                                                                                                      Integrity   Analysis | 27: 29- 81: 82: 89- 90: 91
-
-
-                                                                                                              Security  Analysis          82: 89: 90: 91
-                                                               33               Circuit           23; 34: 36; 43: 44: 45:
-                                                                                 Simulation        49-51: 55: 57: 60: 75;
-                                                                                                                   76; 79: 80: 86
-
-
-
-
-
-                                                                     23
 
 [PÁGINA PDF 216 | texto OCR: verificar contra el PDF]
-Exporting       Exporting            Full list of        Importing       Importing        Full list of Importing      Affected
-functional       function (L3)      Exporting Segment     functional      function (L3)         Segment IDs           non-
- level IDs                            IDs                level IDs                                                      horizontall
+Exporting Exporting Full list of Importing Importing Full list of Importing Affected
+functional function (L3) Exporting Segment functional function (L3) Segment IDs non-
+level IDs IDs level IDs horizontall
+y
+18 Place & Route 5: 8: 9: 15; 19; 21; 24:
+53; 60; 92: 93: 94: 95:
+96: 97
+23 Timing Analysi 9; 18: 19; 24: 27: 30: 60:
+24 ECO 18; 23; 30 ee | 75,81: 92: 93: 94; 95:
+96: 97
+30 Gate-level Power 3; 8; 12; 16; 18; 23; 24: Yes
+Integrity Analysis | 27; 29: 81; 82: 89: 90: 91
+Electromagnetic 33 Circuit 23; 34: 36; 43: 44: 45: Yes
+26 Modelling 50 Simulation 49- 51: 55: 57: 60: 75:
+76; 79: 80: 86
+8 Gate-level Power 2; 3; 5; 12; 16; 27; 82
+Consumption
+Analysis
+22 ESD Analysis 18: 27: 35; 45: 60; 73: Yes
+89: 90: 91: 92: 93
+23 Timing Analysis 9- 18: 19: 24- 27: 30; 60:
+75; 81; 92; 93: 94: 95:
+96: 97
+25 Clock Jitter 18; 27: 81: 89: 90: 91: Yes
+Analysis 92:93
+28 Parasitic Analysis 35; 45; 89: 90; 91 Yes
+30 Gate-level Power 3; 8: 12; 16; 18; 23; 24: Yes
+Parasitic 8; 22; 23: 25; 30; 31; Integrity Analysis | 27; 29: 81; 82: 89: 90: 91
+27 Extraction 37; 40; 41; 42; 44: 31 Gate-level 5, 12. 18: 23. 27. 29. 81. Yes
+46; 50; 70 Security Analysis 82: 89: 90: 91
+33 Circuit 23: 34: 36; 43: 44: 45:
+Simulation 49- 51: 55; 57: 60; 75:
+76; 79: 80: 86
+37 Early Power 35; 45; 89: 90: 91; 92: 93 Yes
+Integrity Analysis
+41 Transistor-level 33: 35; 45: 51; 53: 60 Yes
+Power Integrity
+Analysis
+42 Power Device 33; 35; 45: 89: 90; 91 Yes
+Analysis
+44 Electromagnetic 35: 45: 89: 90: 91: 92: 93 Yes
+Extraction
+30 Gate-level Power 3: 8: 12: 16; 18; 23; 24: Yes
+29 Design 30-31 Integrity Analysis | 27: 29: 81: 82: 89: 90: 91
+Robustness ° 31 Gate-level 5: 12: 18: 23; 27: 29: 81: Yes
+Security Analysis 82: 89: 90: 91
+23 Timing Analysis 9- 18: 19: 24- 27: 30: 60: Yes
+75; 81; 92: 93: 94: 95:
+Gate-level Power 96: 97
+30 Integrity Analysis 23; 24: 35 74 ECO 30 Yes
+35 Layout 30; 32: 36; 44; 49; 54: 72 Yes
+31 Gate-level D 12 Simulation 2: 5: 6; 7; 15; 18; 23; 31; Yes
+Secuntty Analysis Verification 52: 61: 68
+21 Physical 32: 56; 60
+Verification
+32 Schematic Editing 35: 39: 51 34 Design 32; 33: 41; 47; 50; 52:
+Environment 55: 57: 60: 77
+35 Layout 30: 32: 36; 44: 49: 54: 72
+34 Design 32; 33; 41; 47; 50; 52:
+Environment 55: 57: 60: 77
+41 Transistor-level 33; 35; 45; 51; 53; 60 Yes
+Power Integrity
+oo Analysis
+33 Circuit Simulation | 34: 41; 42: 51; 79: 80 42 Power Device 33, 35. 45. 89. 90. 91 Yes
+Analysis
+79 PCB Analysis 50 Yes
+80 Packaging 50 Yes
+
+24
 
 
-
-                                                                                                                60; 92: 93: 94: 95:
-                                                                                                                    96;                                                                                              97 a
-
-
-
-
-
-                       4.                                                          23        Timing Analysis      9:53;18: 19:                                                                                                                   24:                                                                                                                       27: 30; 60:ee
-
-
-                                                                                                                    96: 97
-
-                                                                                                                  Integrity   Analysis | 27: 29; 81; 82: 89: 90: 91
-    26          Electromagnetic                                33                (Circuit           23; 34: 36; 43: 44: 45:       Yes
-                  Modelling               50                               Simulation         49- 51:76; 55;79: 57:80: 60;86 75:
-
-                                                                               Gate-level Power       2; 3; 5; 12; 16; 27; 82
-                                                                    Consumption
-                                                                               Analysis
-
-
-                                                                                                            89: 90: 91: 92: 93
-                                                            23        Timing Analysis      9: 18: 19: 24- 27: 30: 60:
-                                                                                                            75; 81; 92: 93: 94: 95:
-
-                                                                                                                    96: 97
-
-
-                                                                                Analysis                   92: 93
-
-
-                       Parasitic           8; 22; 23; 25: 30; 31:                               Integrity   Analysis  | 27: 29: 81: 82: 89: 90: 91
-
-                                           46; 50: 70                                   Security  Analysis          82: 89: 90: 91
-
-                                                                               Simulation        49-51: 55: 57: 60: 75;
-                                                                                                                76; 79: 80: 86     pf  pease |
-
-                                                                                                                   Integrity   Analysis
- SPTransistor-levelAnalysis           33: 35: 45: 51: 53; 60       Yes
-
-
-                                                                               Analysis
-
-
-                                                                                  Extraction
-
-    39            Design               30-31                                        Integrity   Analysis | 27; 29- 81: 82: 89: 90: 91
-
-                                                                                             Secunty  Analysis          82: 89- 90: 91
-
-                                                            23        Timing Analysis      9- 18: 19: 24- 27: 30: 60:      Yes
-                                                                                                            75; 81; 92; 93: 94: 95:
-                Gate-level Power                                                                                 96: 97
-
-
-
-
-
-                      Security  Analysis                                                 Verification               52: 61: 68
-  eeVerification
-                                                                       Environment             55; 57: 60; 77
-                                                                      Environment             55; 57: 60; 77       eese Pee
-                                                                 Power Integrity
-     oo                    .                                                  Analysis
-o_—ees
-
-                                                                                Analysis
-
-       i
-
-
-
-
-
-                                                                 24
 
 [PÁGINA PDF 217 | texto OCR: verificar contra el PDF]
-Exporting       Exporting            Full list of        Importing       Importing        Full list of Importing      Affected
-functional       function (L3)      Exporting Segment     functional      function (L3)         Segment IDs           non-
- level IDs                            IDs                level IDs                                                      horizontall
+Exporting Exporting Full list of Importing Importing Full list of Importing Affected
+functional function (L3) Exporting Segment functional function (L3) Segment IDs non-
+level IDs IDs level IDs horizontall
+y
+33 Circuit 23; 34: 36; 43: 44: 45:
+Simulation 49- 51: 55; 57: 60; 75:
+76; 79: 80: 86
+: 41 Transistor-level 33: 35; 45: 51; 53; 60 Yes
+34 Design 33: 41: 50: 55; 57: 81 Power Integrity
+Environment Analysis
+55 Photonic Chip 34; 51; 54
+Simulation
+81 Characterization 51
+22 ESD Analysis 18; 27; 35; 45; 60; 73:
+89- 90: 91: 92: 93
+26 Electromagnetic 35; 89: 90; 91; 92: 93
+Modelling
+27 Parasitic 18; 21: 35: 39: 56; 60: 69
+Extraction
+28 Parasitic Analysis 35; 45; 89: 90: 91 Yes
+36 Electromagnetic 35; 89: 90: 91; 92: 93
+Device Synthesis
+35 Layout * a ee ‘o 37 Early Power | 35:45; 89: 90: 91: 92: 93
+2 NE, Fs FO, Integrity Analysis
+41 Transistor-level 33: 35; 45: 51; 53; 60 Yes
+Power Integrity
+Analysis
+42 Power Device 33; 35; 45; 89; 90; 91 Yes
+Analysis
+44 Electromagnetic 35; 45: 89: 90: 91: 92: 93
+Extraction
+49 Electromagnetic 35; 56 Yes
+Simulation
+32 Schematic 36; 39
+Editing
+- 33 Circuit 23: 34: 36; 43: 44: 45: Yes
+36 pect Syuthesis 32; 35; 50 Simulation 49. 51. 55: 57- 60: 75:
+76; 79: 80: 86
+35 Layout 30; 32; 36; 44: 49: 54: 72
+34 Design 32; 33; 41; 47; 50; 52: Yes
+Environment 55: 57: 60: 77
+Transistor-level 35 Layout 30; 32: 36; 44; 49; 54: 72 Yes
+41 Power Integrity 35; 51: 60
+Analysis 60 Architectural 72; 74; 75 Yes
+Design &
+Implementation
+33 Circuit 23; 34; 36; 43: 44: 45: Yes
+7 Simulation 49: 51: 55; 57; 60; 75;
+44 Electromagnetic 35; 77 76; 79: 80: 86
+35 Layout 30; 32; 36; 44; 49; 54: 72
+34 Design 32: 33: 41; 47: 50; 52:
+Lge Environment 55: 57: 60: 77
+47 Reliability 51; 60 60 Architectural 72, 14, 15
+Analysis Design &
+Implementation
+33 Circuit 23: 34: 36; 43: 44: 45: Yes
+5 Simulation 49- 51: 55; 57: 60; 75:
+49 Electromagnetic 33; 35 76. 19: 80: 86
+35 Layout 30; 32; 36; 44: 49: 54: 72 Yes
+12 Simulation 2: 5; 6; 7; 15; 18; 23; 31;
+Verification 52: 61: 68
+52 Co-Simulation 12: 13-34 13 Debug 6; 7; 12; 14; 15; 17; 52;
+Enabling Kit a Verification 61: 64: 66: 67: 68: 82
+34 Design 32; 33; 41; 47; 50; 52:
+Environment 55: 57: 60: 77
+
+25
 
 
-
-                                                                                            49-51: 55: 57: 60: 75;
-                                                                                                                76; 79: 80: 86  ESESimulation                  eee                                                                                       :                                       41           Transistor-level       33; 35; 45: 51: 53; 60        Yes
-    34           Design         33: 41; 50: 55; 57; 81                  Power Integrity               Environment                                                  Analysis
- eeSimulation
- aa
- ==89- 90: 91: 92: 93             ee
-   NecaModelling  | REE
- eeExtraction
-
-
-
-
-
-                                                                      Device Synthesis
-                                        40-41 42                                        36:37: = ees [beens
- eS41           Transistor-levelAnalysis           33; 35; 45: 51: 53; 60        Yes
-
-
-                                                                               Analysis
-
-
-                                                                                  Extraction    ee eT
-                                                                              Simulation
-     a           Editing
-                                                                                                                                                -                                33               Circuit           23: 34: 36: 43: 44- 45:       Yes
-
-
-                                                                                                                76; 79: 80: 86
-       i de
-
-                                                                      Environment             55; 57; 60: 77
-
-    41         Power Integrity           35: 51; 60
-
-                                                                        Design &
-                                                                         Implementation
-
-    44                                                                                                                  -                                                 Simulation         49- 51: 55: 57: 60: 75:    anil          35:77                                                           76; 19: 80: 86
-        ee
-                      Reliability  eeEnvironment ee55; 57: 60; 77
-
-                                                                        Design &
-                                                                         Implementation
-
-              o                                                             -                                                Simulation         49- 51: 55; 57: 60; 75:
-              Smleton                a3. 45                                                           16, 79: 80: 86
-
- Se52: 61: 68                                                                                        Verification ae
-                 Enabling Kit       —~                                Verification         61: 64: 66: 67: 68: 82
- eeEnvironment             55; 57: 60; 77
-
-
-
-
-
-                                                                   25
 
 [PÁGINA PDF 218 | texto OCR: verificar contra el PDF]
-  Exporting       Exporting            Full list of        Importing       Importing        Full list of Importing      Affected
-   functional       function (L3)      Exporting Segment     functional      function (L3)         Segment IDs           non-
-    level IDs                            IDs                level IDs                                                      horizontall
+Exporting Exporting Full list of Importing Importing Full list of Importing Affected
+functional function (L3) Exporting Segment functional function (L3) Segment IDs non-
+level IDs IDs level IDs horizontall
+y
+18 Place & Route 5: 8: 9: 15; 19; 21; 24:
+53; 60; 92: 93: 94: 95:
+53 Co-Design 18-41 96: 97
+Enabling Kit ° 41 Transistor-level 33; 35; 45: 51; 53: 60 Yes
+Power Integrity
+Analysis
+21 Physical 32; 56; 60
+Verification
+27 Parasitic 18; 21; 35; 39: 56; 60; 69
+Extraction
+Ph La 35 Layout 30: 32: 36; 44: 49: 54: 72
+otonic out
+54 Design 35; ae 55; 49 Electromagnetic 35; 56 Yes
+Implementation > Simulation
+54 Photonic Layout 54
+Design
+Implementation
+55 Photonic Chip 34; 51: 54
+Simulation
+33 Circuit 23; 34: 36; 43: 44: 45; Yes
+. . Simulation 49- 51: 55; 57: 60; 75:
+55 Photonic Chip 33: 34: 50; 51 76; 79: 80: 86
+34 Design 32: 33: 41; 47: 50; 52:
+Environment 55: 57: 60: 77
+18 Place & Route 5; 8; 9; 15; 19; 21; 24:
+53: 60; 92: 93: 94: 95:
+96; 97
+21 Physical 32: 56; 60
+Verification
+22 ESD Analysis 18: 27: 35; 45: 60; 73:
+89- 90: 91: 92: 93
+23 Timing Analysis 9; 18: 19; 24: 27: 30; 60;
+75; 81: 92: 93: 94: 95:
+96: 97
+. 27 Parasitic 18: 21: 35: 39: 56: 60: 69
+60 eee 18: 34: 69: 70: 71: Extraction
+Implementation 72; 73; 75; 76; 77 33 (Circuit 23, 34: 36; 43: 44; 45:
+Simulation 49- 51: 55; 57: 60; 75:
+76; 79: 80: 86
+34 Design 32: 33: 41: 47: 50; 52:
+Environment 55; 57; 60; 77
+41 Transistor-level 33: 35; 45: 51; 53: 60 Yes
+Power Integrity
+Analysis
+75 Structural and 60 Yes
+Thermal Analysis
+76 Signal and Power 60 Yes
+Integrity
+23 Timing Analysis 9- 18: 19: 24- 27: 30: 60: Yes
+75; 81: 92: 93: 94: 95:
+96: 97
+33 Circuit 23; 34: 36; 43: 44: 45: Yes
+75 ewe ane 58; 60; 71 Simulation 49. 51: 55; 57; 60: 75:
+9 76; 79: 80: 86
+60 Architectural 72; 74; 75 Yes
+Design &
+Implementation
+. 33 Circuit 23; 34: 36; 43: 44; 45: Yes
+76 Signal and Power 7 Samulation 49. 51: 55. 57: 60: 75:
+enty 76: 79: 80: 86
+33 Circuit 23: 34: 36; 43: 44: 45: Yes
+79 PCB Analysis 50 Simulation 49: 51; 55; 57: 60; 75:
+76: 79: 80: 86
+33 Circuit 23; 34: 36; 43: 44: 45: Yes
+80 Packaging 50 Simulation 49- 51: 55; 57: 60; 75:
+76; 79: 80: 86
+
+26
 
 
-                                                                                 Place & Route         5: 8; 9: 15; 19: 21: 24-
-                                                                                                               53; 60; 92: 93: 94: 95:
-      53           Co-Design              18-41                                                              96: 97
-                   Enabling Kit                                      ° ee41           Transistor-levelAnalysis          33; 35; 45: 51; 53; 60       Yes
-  eSVerification
-       i             Extractiona
-
-                      otonic    out  —    ee
-                  Implementation                                    >                                 Simulation
-  ee54         PhotonicmplementationLayout              54
-  eeSimulation
-
-                                                                                                  .                 -                                                  Simulation         49- 51: 55; 57: 60; 75:
-      55          Photonic CP          33: 34: 50: 51                                                       76; 79: 80: 86
-        ee34 eeDesign           32; 33:te41; 47: 50; 52:
-
-                                                                                                                   60; 92; 93: 94: 95:
-                                                                                                                       96; 97  Lea53;        |
-       i             Verification
-
-
-                                                                                                                     90: 91: 92: 93          pO  ei |Meoonenes89- |
-
-                                                                                                                   81; 92: 93: 94: 95:
-                                                                                                                       96;                                                                                                 97 a
-                                                                                                                         .                                                           27               Parasitic          18:75;21: 35;                                                                                                                         39:                                                                                                                             56; 60: 69ee
-
-
-                                                                                 Simulation        49-51: 55: 57: 60: 75;
-                                                                                                                   76; 79: 80: 86
-
-                                                                        Environment             55; 57: 60: 77        ee eeee
-
-                                                                   Power Integrity
-                                                                                  Analysis
-   eyedThermal Analysis
-  eeIntegri
-                                                               23        Timing Analysis     9: 18: 19: 24- 27: 30: 60:      Yes
-                                                                                                               75; 81; 92; 93: 94: 95:
-                                                                                                                       96; 97
-                                                                 33               Circuit           23; 34: 36; 43: 44: 45:       Yes
-
-
-                                                                                                                    76; 79: 80: 86
-                                                                                    Architectural              72; 74, 75            Yes
-                                                                           Design &
-                                                                              mplementation
-                                                                                               .                                            33               Circuit           23; 34; 36; 43: 44: 45:       Yes
-                      eaty                                                                                 76: 79: 80: 86ee  EE33               Circuit           23: 34:ee36: 43: 44- 45:       Yes
-ead76; 79: 80: 86
-                                                                 33               Circuit           23; 34: 36; 43: 44: 45:       Yes
-
-
-                                                                                                                   76; 79: 80: 86
-
-
-
-
-
-                                                                   26
 
 [PÁGINA PDF 219 | texto OCR: verificar contra el PDF]
-   Exporting       Exporting            Full list of        Importing       Importing        Full list of Importing      Affected
-   functional       function (L3)      Exporting Segment     functional      function (L3)         Segment IDs           non-
-    level IDs                            IDs                level IDs                                                      horizontall
+Exporting Exporting Full list of Importing Importing Full list of Importing Affected
+functional function (L3) Exporting Segment functional function (L3) Segment IDs non-
+level IDs IDs level IDs horizontall
+y
+3 RTL Power 2: 12; 17; 81; 82 Yes
+Consumption
+Analysis
+23 Timing Analysis | 9: 18: 19; 24: 27: 30; 60:
+75; 81; 92: 93: 94: 95:
+81 oo. na 96. an. 96: 97
+Charactenzation | 3; 23; 25; 30; 31 2 Clock Jitter 18. 27. 81, 89. 90. 91. Yes
+Analysis 92: 93
+30 Gate-level Power 3; 8: 12; 16; 18; 23; 24: Yes
+Integrity Analysis | 27: 29: 81; 82: 89: 90: 91
+31 Gate-level 5: 12: 18: 23: 27: 29: 81: Yes
+Security Analysis 82: 89: 90: 91
+3 RTL Power 2: 12: 17: 81: 82 Yes
+Consumption
+Analysis
+8 Gate-level Power 2: 3; 5; 12: 16; 27: 82 Yes
+Fanon Say coun
+82 & Specification 3; 8; 13; 30; 31 13 Debug 6; 7; 12; 14; 15; 17; 52: Yes
+9 Verification 61: 64: 66: 67; 68: 82
+30 Gate-level Power 3; 8: 12; 16; 18; 23; 24: Yes
+Integrity Analysis | 27: 29: 81: 82: 89: 90: 91
+31 Gate-level 5; 12: 18; 23; 27: 29: 81; Yes
+Secunty Analysis 82: 89: 90: 91
+33 Circuit 23; 34: 36; 43: 44: 45:
+86 TCAD 50 Simulation 49: 51; 55; 57: 60; 75:
+76; 79: 80: 86
+22 ESD Analysis 18; 27: 35; 45: 60; 73: Yes
+89- 90: 91: 92: 93
+25 Clock Jitter 18; 27; 81: 89: 90; 91: Yes
+Analysis 92-93
+26 Electromagnetic 35: 89: 90: 91: 92: 93 Yes
+Modelling
+28 Parasitic Analysis 35: 45: 89: 90: 91 Yes
+30 Gate-level Power 3: 8: 12; 16; 18; 23; 24: Yes
+Embedded 22: 25: 30: 31: 36: Integrity Analysis | 27; 29: 81; 82: 89: 90: 91
+89 Memories 37: 42: 43- 44: 46 31 Gate-level 5; 12: 18: 23: 27- 29: 81: Yes
+Secunty Analysis 82: 89: 90: 91
+36 Electromagnetic 35: 89: 90: 91: 92: 93 Yes
+Device Synthesis
+37 Early Power 35: 45: 89: 90: 91- 92- 93 Yes
+Integrity Analysis
+42 Power Device 33; 35; 45; 89; 90; 91 Yes
+Analysis
+44 Electromagnetic 35; 45; 89; 90; 91; 92: 93 Yes
+Extraction
+22 ESD Analysis 18; 27; 35; 45: 60; 73:
+89- 90: 91: 92: 93
+25 Clock Jitter 18; 27: 81; 89: 90; 91: Yes
+Analysis 92: 93
+26 Electromagnetic 35: 89: 90: 91: 92: 93
+Modelling
+28 Parasitic Analysis 35: 45: 89: 90: 91 Yes
+30 Gate-level Power 3: 8: 12: 16; 18; 23; 24: Yes
+NVM Other 22: 25- 30: 31: 36: Integrity Analysis _| 27: 29: 81; 82: 89: 90: 91
+90 Memory 37: 42: 43- 44: 46 31 Gate-level 5; 12: 18: 23; 27- 29: 81. Yes
+Compilers Security Analysis 82: 89: 90: 91
+36 Electromagnetic 35: 89: 90: 91: 92: 93
+Device Synthesis
+37 Early Power 35; 45; 89: 90: 91: 92: 93
+Integrity Analysis
+42 Power Device 33; 35; 45; 89; 90; 91 Yes
+Analysis
+44 Electromagnetic 35; 45: 89: 90: 91- 92: 93
+Extraction
+
+27
 
 
-
-                                                                       Consumption
-                                                                                  Analysis
-
-
-                                                                                                               75; 81: 92: 93: 94: 95:
-                                                                                                       _                                                                                        96: 97        ee eeeee
-
-                                                                                  Analysis                   92: 93
-
-                                                                                                                      Integrity   Analysis | 27; 29; 81; 82: 89: 90: 91
-
-
-                                                                                                              Security  Analysis          82: 89: 90: 91
-
-
-                                                                       Consumption
-                                                                                  Analysis
-
-                                                                                  Gate-level Power       2; 3; 5; 12: 16; 27; 82       Yes
-                   Functional Safety                                        Consumption
-
-                                                                                    Verification         61: 64: 66: 67: 68: 82
-
-                                                                                                                      Integrity   Analysis | 27; 29; 81; 82: 89: 90: 91
-
-
-                                                                                                              Security  Analysis          82; 89: 90: 91
-
-              TCAD                 50                                Simulation         49: 51; 55; 57; 60; 75:
-                                                                                                                   76; 79: 80; 86ps | mo fe | |  me feaszes |
-
-                                                                                                               89- 90: 91: 92: 93
-
-
-                                                                                  Analysis                   92- 93
-
-
-                                                                               Modelling
-
-
-
-                 Embedded          22: 25: 30: 31: 36:                                Integrity   Analysis | 27: 29: 81; 82: 89: 90: 91
-
-
-                                                                                                              Security  Analysis          82: 89: 90: 91
-
-
-                                                                        Device Synthesis
-
-
-                                                                                                                     Integrity   Analysis
-
-
-                                                                                  Analysis
-
-
-                                                                                     Extraction
-  =r90: 91: 92: 93                                                                                                                    89- sar
-                                                                                  Analysis                   92- 93
-  ee                                                                                Modelling  ee
-
-            NVM Other         22: 25: 30: 31: 36:                                Integrity   Analysis  | 27: 29: 81: 82: 89: 90: 91
-
-                    Compilers                                                                   Security   Analysis          82: 89: 90: 91
-
-
-                                                                         Device Synthesis        Re Feeee
-
-                                                                                                                     Integrity   Analysis     a eeee
-
-                                                                                  Analysis
-
-
-                                                                                     Extraction    ee eT
-
-
-
-
-                                                                   27
 
 [PÁGINA PDF 220 | texto OCR: verificar contra el PDF]
-Exporting       Exporting            Full list of        Importing       Importing        Full list of Importing      Affected
-functional       function (L3)      Exporting Segment     functional      function (L3)         Segment IDs           non-
- level IDs                            IDs                level IDs                                                      horizontall
+Exporting Exporting Full list of Importing Importing Full list of Importing Affected
+functional function (L3) Exporting Segment functional function (L3) Segment IDs non-
+level IDs IDs level IDs horizontall
+y
+22 ESD Analysis 18; 27: 35; 45: 60: 73: Yes
+89- 90: 91: 92: 93
+25 Clock Jitter 18; 27; 81; 89: 90; 91; Yes
+Analysis 92: 93
+26 Electromagnetic 35; 89: 90; 91; 92: 93 Yes
+Modelling
+28 Parasitic Analysis 35: 45: 89: 90: 91 Yes
+30 Gate-level Power 3; 8: 12; 16; 18; 23; 24- Yes
+. 22: 25: 30: 31: 36: Integrity Analysis | 27; 29: 81: 82: 89: 90: 91
+91 Physical Libraries | 37. 45. 43- 44- 46 31 Gate-level 5; 12; 18; 23, 27. 29: 81. Yes
+Secunty Analysis 82- 89: 90: 91
+36 Electromagnetic 35; 89: 90; 91; 92: 93 Yes
+Device Synthesis
+37 Early Power 35; 45: 89: 90: 91: 92: 93 Yes
+Integrity Analysis
+42 Power Device 33: 35; 45: 89: 90; 91 Yes
+Analysis
+44 Electromagnetic 35: 45: 89: 90: 91: 92- 93 Yes
+Extraction
+5 RTL Synthesis 2: 7: 9: 10; 11; 19; 62:
+63: 92- 93: 94- 95- 96: 97
+11 Design-for-Test / 92: 93: 94: 95; 96; 97
+Test IP
+18 Place & Route 5; 8; 9; 15; 19; 21; 24:
+53: 60: 92: 93: 94: 95:
+96: 97
+22 ESD Analysis 18; 27: 35; 45: 60; 73: Yes
+89- 90: 91: 92: 93
+23 Timing Analysis 9: 18: 19; 24; 27: 30; 60:
+. 5: 11; 18; 22: 23; 25: 75; 81; 92: 93: 94- 95-
+92 Wired Interface IP | “" "36: 37. 43. 44 96:97
+25 Clock Jitter 18: 27: 81; 89: 90: 91: Yes
+Analysis 92: 93
+26 Electromagnetic 35: 89: 90: 91; 92: 93 Yes
+Modelling
+36 Electromagnetic 35; 89: 90; 91; 92: 93 Yes
+Device Synthesis
+37 Early Power 35; 45: 89; 90: 91; 92: 93 Yes
+Integrity Analysis
+44 Electromagnetic 35: 45: 89: 90: 91: 92: 93 Yes
+Extraction
+5 RTL Synthesis 2: 7: 9: 10: 11: 19: 62:
+63; 92: 93: 94: 95: 96: 97
+1l Design-for-Test / 92- 93: 94- 95: 96: 97
+Test IP
+18 Place & Route 5: 8: 9: 15; 19; 21; 24:
+53; 60; 92: 93: 94: 95:
+96: 97
+22 ESD Analysis 18; 27: 35: 45: 60; 73:
+89: 90: 91: 92: 93
+23 Timing Analysis 9- 18: 19: 24- 27: 30: 60:
+93 Wireless Interface 5: 11; 18; 22: 23; 25; 75; 81: 92: 93: 94: 95:
+IP 36; 37; 43; 44 96: 97
+25 Clock Jitter 18; 27: 81: 89: 90: 91; Yes
+Analysis 92: 93
+26 Electromagnetic 35: 89: 90: 91: 92: 93
+Modelling
+36 Electromagnetic 35: 89: 90: 91: 92: 93
+Device Synthesis
+37 Early Power 35; 45; 89; 90: 91; 92: 93
+Integrity Analysis
+44 Electromagnetic 35; 45; 89; 90; 91; 92: 93
+Extraction
+
+28
 
 
-
-                                                                                                            89: 90: 91: 92: 93
-
-
-                                                                               Analysis                   92: 93
-
-
-                                                                            Modelling
-
-
-
-                                                                        .  oo        22: 25: 30: 31: 36:                                Integrity   Analysis | 27; 29: 81: 82: 89: 90: 91
-
-                                                                                                                                                             :                                             Security  Analysis          82: 89: 90: 91
-
-
-                                                                      Device Synthesis
-
-
-                                                                                                                   Integrity   Analysis
-
-
-                                                                               Analysis
-
-
-                                                                                  Extraction
-  ee63; 92: 93: 94: 95: 96: 97
-       i aTest IP
-                                                                 18          Place & Route         5; 8; 9: 15; 19: 21; 24-
-                                                                                                            53; 60: 92: 93: 94: 95:
-                                                                                                                    96: 97
-
-
-                                                                                                            89- 90: 91: 92: 93
-
-    92                                       5: 11; 18: 22: 23; 25;                                               75; 81; 92: 93: 94: 95:             Wired Interface IP        36: 37. 43-44                                                          96: 97                                                                                      .    i ie ee
-
-                                                                               Analysis                   92: 93
-
-
-                                                                            Modelling
-
-
-                                                                      Device Synthesis
-
-
-                                                                                                                   Integrity   Analysis
-
-
-                                                                                  Extraction
-
-
-                                                                                                         92: 93: 94: 95: 96: 97                                 | |  MIS Lecsnosonosoccr||63;
-       i aTest IP
-
-
-                                                                                                                60; 92; 93: 94: 95:
-                                                                                                                    96; 97           oS pe |Begeae53; |
-
-                                                                                                            89- 90: 91: 92: 93       P| a   [ Beooonone |_|
-                                                             23        Timing Analysis     9: 18: 19: 24- 27: 30: 60:
-    93         Wireless Interface     5; 11; 18; 22; 23; 25;                                               75; 81; 92; 93: 94: 95:
-                    IP                36; 37; 43; 44                                                          96; 97
-
-
-                                                                               Analysis                   92- 93
- SS                                                                             Modelling  ee
-                                                                      Device Synthesis     ess eee esIntegrity   Analysis
-    SeExtraction ST
-
-
-
-
-
-                                                                 28
 
 [PÁGINA PDF 221 | texto OCR: verificar contra el PDF]
- Exporting       Exporting            Full list of        Importing      Importing        Full list of Importing      Affected
- functional       function (L3)      Exporting Segment     functional      function (L3)         Segment IDs           non-
-  level IDs                            IDs                level IDs                                                      horizontall
-                                                      RTL Synthesis      63:2: 92:7; 9:93:10;94:11;95:19:96:62:97 P|
+Exporting Exporting Full list of Importing Importing Full list of Importing Affected
+functional function (L3) Exporting Segment functional function (L3) Segment IDs non-
+level IDs IDs level IDs horizontall
+y
+5 RTL Synthesis 2: 7: 9: 10; 11; 19; 62:
+63; 92: 93: 94: 95: 96: 97
+ll Design-for-Test / 92- 93: 94- 95: 96; 97
+Test IP
+. 18 Place & Route 5; 8; 9; 15; 19; 21; 24:
+94 Secunty IP 5; 11; 18; 23 53: 60: 92: 93. 94. 95:
+96: 97
+23 Timing Analysis 9- 18: 19: 24: 27: 30: 60:
+75; 81. 92: 93: 94: 95:
+96: 97
+5 RTL Synthesis 2: 7: 9: 10: 11: 19: 62:
+63; 92: 93: 94: 95: 96: 97
+1l Design-for-Test / 92- 93: 94- 95: 96: 97
+Test IP
+18 Place & Route 5: 8: 9: 15; 19: 21; 24-
+95 CPU IP 5; 11; 18; 23 53: 60: 92: 93- 94. 95:
+96; 97
+23 Timing Analysis 9: 18: 19: 24: 27: 30; 60:
+75; 81; 92: 93: 94: 95:
+96: 97
+5 RTL Synthesis 2: 7; 9: 10; 11; 19; 62:
+63: 92- 93: 94: 95: 96: 97
+11 Design-for-Test / 92: 93: 94: 95: 96: 97
+Test IP
+18 Place & Route 5: 8: 9: 15; 19: 21: 24-
+96 DsP IP 9; 1: 18; 23 53: 60: 92: 93: 94: 95:
+96: 97
+23 Timing Analysis 9; 18: 19; 24: 27: 30; 60;
+75; 81; 92: 93: 94: 95:
+96: 97
+5 RTL Synthesis 2: 7; 9: 10; 11; 19; 62:
+63: 92- 93: 94- 95- 96: 97
+11 Design-for-Test / 92: 93: 94: 95: 96; 97
+Test IP
+Other Excl 18 Place & Route 5: 8: 9: 15; 19; 21; 24-
+97 Secunty IP 3; 11; 18:23 53: 60: 92: 93: 94: 95:
+96: 97
+23 Timing Analysis 9: 18: 19; 24: 27: 30; 60:
+75; 81: 92: 93: 94: 95:
+96: 97
+
+Source: Reply to RFI 19, Annex 0.3.1. M.11481 - Paper on the Lack of Interoperability
+
+4.2 EDA functions without interoperability relationships
+
+The interoperability matrix excludes EDA functions that do not fall within a specific
+design flow (Segment IDs 83 and 85) and legacy tools with non-material revenues
+(Segment ID 88). In addition, the interoperability matrix excludes functional segments
+that neither import nor export information from other EDA functional segments:**
+
+1) Early Architectural Exploration (Functional ID 4);
+2) Electromagnetic modelling (Functional ID 26);
+3) Parasitic Analysis (Functional ID 28);
+
+(52)
+
+4) Equivalence Checking (Functional ID 38);
+
+5) Thermal Analysis (Functional ID 48);
+
+34 Reply to RFI 21, para 1.1 and Table 1.
+
+29
+
+Concerns - Confidential, November 11, 2024., Annex I.
 
 
-                                                                                    Test IP
-
-                                                                                                                         .              44-40.                18          Place & Route         5; 8; 9; 15; 19; 21; 24:
-
-
-                                                                                            96:97
-                                                              23        Timing Analysis     9- 18: 19: 24- 27: 30: 60:
-                                                                                                             75; 81: 92; 93; 94: 95:
-                                                                                                                     96: 97
-                                                      RTL Synthesis      63;2: 92:7; 9:93:10;94:11;95:19;96:62:97 P|
-
-
-                                                                                    Test IP
-
-                                  44-10.                             Place & Route         5: 8; 9: 15; 19: 21: 24:
-
-
-                                                                                                                     96: 97
-                                                           23        Timing Analysis      9- 18: 19: 24- 27: 30: 60:
-                                                                                                             75; 81: 92: 93: 94: 95:
-                                                                                                                     96: 97
-                                                      RTL Synthesis      63:2: 92:7: 9:93:10;94-11;95:19:96:62:97 P|
-
-
-                                                                                    Test IP
-
-                                  44-40.               18          Place & Route        5; 8; 9: 15; 19; 21; 24:
-
-
-                                                                                                                     96: 97
-                                                             23        Timing Analysis      9: 18: 19; 24: 27: 30; 60:
-                                                                                                             75; 81; 92: 93: 94: 95:
-                                                                                                                     96: 97
-                                                      RTL Synthesis      63;2: 92:7; 9:93:10;94:11;95:19:96:62:97 P|
-
-
-                                                                                    Test IP
-
-                  Other Excl          44-40.                18          Place & Route        5; 8; 9: 15; 19; 21; 24:
-
-
-                                                                                                                     96; 97
-                                                             23        Timing Analysis      9: 18: 19: 24- 27: 30: 60:
-                                                                                                             75; 81; 92; 93; 94: 95:
-                                                                                                                     96: 97
-
-     Source: Reply to RFI 19, Annex Q.3.1. M.11481 - Paper on the Lack ofInteroperability
-                      Concerns - Confidential, November 11, 2024., Annex I.
-
-
-4.2.  EDA functions without interoperability relationships
-
-(52)    The interoperability matrix excludes EDA functions that do not fall within a specific
-        design flow (Segment IDs 83 and 85) and legacy tools with non-material revenues
-        (Segment ID 88). In addition, the interoperability matrix excludes functional segments
-          that neither import nor export information from other EDA functional segments:**
-
-           1)  Early Architectural Exploration (Functional ID 4);
-
-         2)  Electromagnetic modelling (Functional ID 26);
-
-         3)  Parasitic Analysis (Functional ID 28);
-
-         4)  Equivalence Checking (Functional ID 38);
-
-          5)  Thermal Analysis (Functional ID 48);
-
-
-
-34 Reply to RFI 21, para 1.1 and Table  1.
-
-
-
-                                                               29
 
 [PÁGINA PDF 222]
         6)  Early Architectural Exploration (Functional ID 59);

@@ -2475,79 +2475,77 @@ Source: Safran, Actuation […] (Form CO, Annex 5.4(xxvi)), p. 5)
                                                     40
 
 [PÁGINA PDF 42 | texto OCR: verificar contra el PDF]
- Table 1 — Market shares in the supply of THSA systems — overall market (worldwide)
+Table 1 — Market shares in the supply of THSA systems — overall market (worldwide)
+
+2021 2022 2023 2024
+Safran | [20-30]% [20-30]% [20-30]% [20-30]%
+Target | _[40-50]% [40-50]% [40-50]% [40-50]%
+Combined | —_[60-70]% [60-70]% [60-70]% [60-70]%
+Parker | _[20-30]% [20-30]% [20-30]% [20-30]%
+Moog [0-5]% [5-10]% [5-10]% [5-10]%
+RTX (retained activities) [0-5]% [0-5]% [0-5]% [0-5]%
+Eaton [0-5]% [0-5]% [0-5]% [0-5]%
+Liebherr [0-5]% [0-5]% [0-5]% [0-5]%
+Woodward [0-5]% [0-5]% [0-5]% [0-5]%
+Nabtesco [0-5]% [0-5]% [0-5]% [0-5]%
+Total 100% 100% 100% 100%
+
+Source: Form CO, Annex Ch. II. S.2.4(ii).
+
+Table 2 — Market shares in the supply of THSA systems — civil aircraft (worldwide)
+
+ee ee ee ee ee
+Safran [20-30]% [20-30]% [20-30]% [20-30]%
+Target [40-50]% [40-50]% [40-50]% [40-50]%
+Combined [60-70]% [60-70]% [60-70] % [60-70]%
+Parker [20-30]% [20-30]% [20-30]% [20-30]%
+Moog [0-5]% [5-10]% [5-10]% [5-10]%
+Eaton [0-5]% [0-5]% [0-5]% [0-5]%
+RTX (retained activities) [0-5]% [0-5]% [0-5]% [0-5]%
+Liebherr [0-5]% [0-5]% [0-5]% [0-5]%
+Woodward [0-5]% [0-5]% [0-5]% [0-5]%
+Total 100% 100% 100% 100%
+
+Source: Form CO, Annex Ch. II. S.2.4(ii)
+
+41
 
 
-
-
-
-a
-
-
-
-
-
- Source: Form CO, Annex Ch. II. S.2.4(ii).
-
-
-
- Table 2 — Market shares in the supply of THSA systems — civil aircraft (worldwide)
-
-
-
-
-
- Source: Form CO, Annex Ch. II. S.2.4(ii)
-
-
-
-
-
-                                                              41
 
 [PÁGINA PDF 43 | texto OCR: verificar contra el PDF]
-  Table 3 — Market shares in the supply of THSA systems — large commercial aircraft
+Table 3 — Market shares in the supply of THSA systems — large commercial aircraft
+(worldwide)
 
-  (worldwide)
+Supplier 2021 2022 2023 2024
+a
+Safran [10-20]% [10-20]% [10-20]% [10-20]%
+Target [70-80]% [70-80]% [70-80]% [70-80]%
+Combined [90-100] % [90-100]% [90-100]% [80-90] %
+Moog [0-5]% [0-5]% [5-10]% [5-10]%
+Parker [0-5]% [0-5]% [0-5]% [0-5]%
+ae [0-5]% [0-5]% [0-5]% [0-5]%
+Liebherr [0-5]% [0-5]% [0-5]% [0-5]%
+Total 100% 100% 100% 100%
 
-a  ee ec
+Source: Form CO, Annex Ch. II. S.2.4(ii).
 
+Table 4 — Market shares in the supply of THSA systems — military aircraft
+(worldwide)
 
-                            [90-100] %          [90-100]%          [90-100]%           [80-90]%
+Supplier 2021 2022 2023 2024
+Safran [0-5]% [0-5]% [10-20]% [10-20]%
+Target [20-30]% [30-40]% [10-20]% [10-20]%
+Combined [20-30] % [30-40] % [30-40] % [30-40] %
+RTX (retained
+i [50-60]% [50-60]% [50-60]% [50-60]%
+Nabtesco [10-20]% [10-20]% [10-20]% [10-20]%
+Total 100% 100% 100% 100%
 
+Source: Form CO, Annex Ch. II. S.2.4(ii).
 
-
-
-
-    RTX (retained
-
-
-
-
-
-   Source: Form CO, Annex Ch. II. S.2.4(ii).
-
-
-
-  Table  4 — Market  shares  in  the  supply  of THSA  systems —  military  aircraft
-
-  (worldwide)
-
-
-
-
-
-   RTX     (retained
-
-a a   ee ce ee
-
-   Source: Form CO, Annex Ch. II. S.2.4(ii).
+42
 
 
-
-
-
-                                                      42
 
 [PÁGINA PDF 44]
 7.1.2.2. The Notifying Party’s views
@@ -3209,117 +3207,83 @@ a a   ee ce ee
                                                     53
 
 [PÁGINA PDF 55 | texto OCR: verificar contra el PDF]
-           Table 5 - Market shares for the supply of TRAS in 2024 (in volume)
+Table 5 - Market shares for the supply of TRAS in 2024 (in volume)
 
-
-
-
-
-       TRAS
- (overall market) |  [0-5]%      [0-5]%        [0-5] %      [90-100]%       [0-5]%       [0-5]%      [0-5]%     [0-5]%
-    (Worldwide)
-
-
-
-
-
-    TRAS Civil             °               °                                        °                 _                  "                _              °
-
-
-  TRAS Military                      io,                           0,                                                         0,                           0,                           0,                       9,                        Oo,
-
-
-
-
-
+Safran Target Combined Honeywell Nordam OMA
+a ee Oa OS  (
+TRAS
+on anus [0-5]% [0-5]% [0-5]% [90-100]% [0-5]% [0-5]% | [0-5]% | [0-5]%
+oridwide
+By segment of demand
+(Worldwide) fo-s}% |  [0-5]% [0-5]% | [90-100]% [0-5]% fo-sj% | [o-sj% | [0-5]%
+vi Worldwide fo-s}% | [10-20]% | [10-20]% | [50-60]% [0-5]% fo-sj | [o-s]% | [0-5]%
+TRAS EEA) [o-5]% | [90-100]% | [90-100]% NA. [0-5]% fo-sj7e | [o-sj% | [o-5]%
+By type of aircraft
 Large Commercial
-           Aircraft | [0-5]%      [0-5]%      [0-5]%      [90-100]%      [0-5]%       [0-5]%     [0-5]% |  [0-5]%
-     (Worldwide)
+Aircraft | [0-5]% [0-5]% [0-5]% [90-100]% [0-5]% [0-5]% | [0-5]% | [0-5]%
+(Worldwide)
+Ree Workiede) [0-5]% [0-5]% [0-5]% [90-100]% [0-5]% [0-5]% [0-5]% | [0-5]%
+Waltheiio [0-5]% [0-5]% [0-5]% [70-80]% [0-5]% [10-20]% | [0-5]% | [0-5]%
+By technology
+(Worldwide) N.A. [0-5]% [0-5]% [90-100]% [0-5]% [5-10]% N.A. [0-5]%
+(Worldwide) bore N.A. [90-100] % N.A. [0-5]% N.A. N.A. N.A.
+
+Source: Form CO, Annex Ch. II. S.2.4(ii) — Market shares
 
 
-  Regional     Aircraft
-
-
-
-
-
-       H-TRAS
-
-
-       E-TRAS |  [90-
-
-
-
-   Source: Form CO, Annex Ch. II. S.2.4(ii)  — Market shares
-
-
-
-
-
-                                                           54
 
 [PÁGINA PDF 56 | texto OCR: verificar contra el PDF]
-    Table 6 - Market shares for the supply of thrust reversers in 2024 (in volume)
+Table 6 - Market shares for the supply of thrust reversers in 2024 (in volume)
+
+Safran Target Combined Spirit Mras Nordam
+Thrust reversers
+(overall market) | [20-30]% N.A. [20-30]% | [50-60]% [5-10]% [0-5]%
+(Worldwide)
+By segment of demand
+Civil (Worldwide) | [30-40]% N.A. [30-40]% | [50-60]% [5-10]% [0-5]%
+Worldwide, [10-20]% N.A. [10-20]% | [50-60]% | [10-20]% N.A.
+Military (EEA) | [90-100]% N.A. [90-100]% [0-5]% [0-5]% [0-5]%
+By type of aircraft
+Large Commercial
+Aircraft | [0-5]% N.A. [0-5]% [90-100]% | [5-10]% NA.
+(Worldwide)
+tee Worktde) [30-40]% N.A. [30-40]% [0-5]% [60-70]% N.A.
+(Worliwate) [80-90]% N.A. [80-90]% [5-10]% NA. [5-10]%
+
+Source: Form CO, Annex Ch. II. S.2.4(ii) — Market shares
+
+7.2.2.1.2.
+
+(209)
+
+The Notifying Party’s views
+
+The Notifying Party submits that the Transaction does not give rise to any vertical
+concems in relation to TRAS and thrust reversers*™ for the following reasons:
+(i) because market shares in certain plausible narrower markets do not capture fully
+the competitive dynamics of these markets, that are characterised by large and
+infrequent tenders;*® (ii) because Safran’s market shares in the supply of thrust
+reversers will decline from [30-40]% in 2020 to [10-20]% in 2027:° (iii) with
+regard to potential input foreclosure concerns, because the Target’s H-TRAS are
+only supplied in-house (to RTX) and to Safran for incorporation in their respective
+thrust reversers and, therefore, no third-party thrust reverser supplier could be
+affected by the Transaction, and because existing customer programmes serviced
+by RTX are contractually protected:** (iv) with regard to potential concerns on
+customer foreclosure of rival TRAS suppliers, because existing contracts prevent
+Safran from making any changes in the TRAS supplier for the duration of those
+
+365
+366
+367
+
+Form CO, paragraph 746.
+Form CO, paragraph 748.
+Form CO, paragraph 749.
+Form CO, paragraphs 758-762.
+
+55
 
 
-
-
-
-  Thrust reversers
-   (overall market) | [20-30]%       N.A.       [20-30]% |  [50-60]%      [5-10]%       [0-5]%
-     (Worldwide)
-
-
-
-
-
-            Military
-
-
-
-
-
- Large Commercial
-            Aircraft |  [0-5]%        N.A.        [0-5]%     [90-100]% |   [5-10]%        N.A.
-      (Worldwide)
-
-  Regional Aircraft
-
-
-
-      Business jets
-
-
-
-Source: Form CO, Annex Ch. II. S.2.4(ii)   — Market shares
-
-
-7.2.2.1.2.    The Notifying Party’s views
-
-(209)   The Notifying Party submits that the Transaction does not give rise to any vertical
-       concems in relation to TRAS and thrust reversers*™for the following reasons:
-            (i) because market shares in certain plausible narrower markets do not capture fully
-         the competitive dynamics of these markets, that are characterised by large and
-         infrequent tenders;*®  (ii) because Safran’s market shares in the supply of thrust
-         reversers will decline from [30-40]% in 2020 to [10-20]% in 2027;  (iii) with
-        regard to potential input foreclosure concerns, because the Target’s H-TRAS are
-        only supplied in-house (to RTX) and to Safran for incorporation in their respective
-         thrust reversers and, therefore, no third-party thrust reverser supplier could be
-         affected by the Transaction, and because existing customer programmes serviced
-       by RTX are contractually protected;*®  (iv) with regard to potential concerns on
-        customer foreclosure of rival TRAS suppliers, because existing contracts prevent
-         Safran from making any changes in the TRAS supplier for the duration of those
-
-
-364     Form CO, paragraph 746.
-365     Form CO, paragraph 748.
-366     Form CO, paragraph 749.
-367     Form CO, paragraphs 758-762.
-
-
-
-
-                                                      55
 
 [PÁGINA PDF 57]
          contracts (i.e., Safran that is mainly supplied by Woodward for H-TRAS would not
@@ -3564,59 +3528,79 @@ Source: Form CO, Annex Ch. II. S.2.4(ii)   — Market shares
                                                     59
 
 [PÁGINA PDF 61 | texto OCR: verificar contra el PDF]
-       Table 7 — Aerospace wiring systems market shares in 2024 (in value)?
+(226)
 
+(227)
 
+7.2.2.2.2.
 
+(228)
 
- Sd
-      Source: Form CO, Annex Ch. IT. §.2.4(ii)   — Market shares (as revised in the response to RFI 11).
+Table 7 — Aerospace wiring systems market shares in 2024 (in value)?
 
+Wiring Systems General Environment
+(overall worldwide market) Wiring Systems (worldwide)
 
-(226)    Further, when considering the relevant markets in wiring systems (i) by segment of
-       demand, Safran has a market share of [30-40]% in the supply of wiring systems to
-          civil aircraft, and of [10-20]% in the supply of military aircraft, (11) with respect to
-         Safran’s market shares according to the type of aircraft, Safran has a [50-60]%
-        market share in large commercial aircraft, a [5-10]% share in regional aircraft, a
-        [5-10]% share in business jets, and a [10-20]% share in EEA military aircraft; and
-            (i11) with respect to the end-application, Safran has a market share below [0-5]% in
-         the sale of wiring systems to flight control actuation systems (THSA, PFCA and
-       SFCA).
+Safran [30-40]% [30-40]%
 
-(227)   With respect to the downstream actuation products that could be affected by the
-         Transaction, the Commission refers to Tables  1 to 6 above concerning the supply
-        of THSA systems and TRAS, as well as the market share data in Section 7.2.3
-       below concerning the supply ofPFCA systems and SFCA systems.
+Latecoere [10-20]% [10-20]%
+GKN [5-10]% [5-10]%
+Amphenol [5-10]% [5-10]%
+RTX [0-5]% [0-5]%
+Ducommun [0-5]% [0-5]%
 
-7.2.2.2.2.    The Notifying Party’s views
+Others [30-40]% [30-40]%
 
-(228)   The Notifying Party submits that Safran will not be able to engage in an input
-         foreclosure strategy because (i) wiring systems represent a negligible share of the
-          total cost of an actuation product,  (ii) existing programmes are safeguarded by
-         contracts and  future programmes  will be  subject  to competitive  tenders, and
-            (111) the selection of the wiring system supplier takes place after the selection of the
-         actuation system, making a foreclosure strategy ineffective.*** Particularly with
-         respect  to  flight  control  actuation  systems,  the Notifying  Party submits  that
-            (i) wiring systems are not an important input,?®  (ii) Safran does not have market
-       power in the upstream market with a [30-40]% share of supply,*®°  (iii) Safran
+Source: Form CO, Annex Ch. IT. §.2.4(ii) — Market shares (as revised in the response to RFI 11).
 
+Further, when considering the relevant markets in wiring systems (i) by segment of
+demand, Safran has a market share of [30-40]% in the supply of wiring systems to
+civil aircraft, and of [10-20]% in the supply of military aircraft, (11) with respect to
+Safran’s market shares according to the type of aircraft, Safran has a [50-60]%
+market share in large commercial aircraft, a [5-10]% share in regional aircraft, a
+[5-10]% share in business jets, and a [10-20]% share in EEA military aircraft; and
+(i11) with respect to the end-application, Safran has a market share below [0-5]% in
+the sale of wiring systems to flight control actuation systems (THSA, PFCA and
+SFCA).
 
-       Commission therefore finds that it is not necessary to address the possible sub-segmentations of the
-        wiring market — by segment of demand or by type of aircraft — as potential shares in a narrower
-        segment of the market would not translate into sales of the actuation products that go into that
-        segment of demand.
-383     The Notifying Party submits  that volume market shares are not relevant to the assessment of
-        competition in the supply of wiring systems, as prices of harnesses differ significantly according to
-         the length of a given wiring system. See Form CO, paragraph 954.
-384     Form CO, paragraph 957.
-385     Form CO, paragraph 962.
-386       Ibid.
+With respect to the downstream actuation products that could be affected by the
+Transaction, the Commission refers to Tables 1 to 6 above concerning the supply
+of THSA systems and TRAS, as well as the market share data in Section 7.2.3
+below concerning the supply of PFCA systems and SFCA systems.
 
+The Notifying Party’s views
 
+The Notifying Party submits that Safran will not be able to engage in an input
+foreclosure strategy because (i) wiring systems represent a negligible share of the
+total cost of an actuation product, (ii) existing programmes are safeguarded by
+contracts and future programmes will be subject to competitive tenders, and
+(111) the selection of the wiring system supplier takes place after the selection of the
+actuation system, making a foreclosure strategy ineffective.*** Particularly with
+respect to flight control actuation systems, the Notifying Party submits that
+(i) wiring systems are not an important input,>® (ii) Safran does not have market
+power in the upstream market with a [30-40]% share of supply,*®° (iii) Safran
 
+383
 
+384
+385
+386
 
-                                                      60
+Commission therefore finds that it is not necessary to address the possible sub-segmentations of the
+wiring market — by segment of demand or by type of aircraft — as potential shares in a narrower
+segment of the market would not translate into sales of the actuation products that go into that
+segment of demand.
+
+The Notifying Party submits that volume market shares are not relevant to the assessment of
+competition in the supply of wiring systems, as prices of harnesses differ significantly according to
+the length of a given wiring system. See Form CO, paragraph 954.
+
+Form CO, paragraph 957.
+
+Form CO, paragraph 962.
+
+Ibid.
+
 
 [PÁGINA PDF 62]
        would have no incentive to pursue input foreclosure as evidenced by its behaviour
@@ -3985,109 +3969,153 @@ Source: Form CO, Annex Ch. II. S.2.4(ii)   — Market shares
                                                     66
 
 [PÁGINA PDF 68 | texto OCR: verificar contra el PDF]
-            occasions,  flight  control  actuation  systems,  pilot  controls and  flight  control
-           computers may be tendered together by airframers.*”
+(263)
 
-   (263)   The Commission will, therefore, assess in this section whether the Transaction
-           could give rise to serious doubts as to its compatibility with the internal market, in
-            relation to conglomerate effects between any of the markets for (i) the supply of
-        PFCA systems, (11) the supply of SFCA systems, (111) the supply of THSA systems,
-              (iv) the supply of pilot controls and (iv) the supply of flight control computers,
-            including the potential narrower markets within such markets.
+7.2.3.1.
 
+(264)
 
-    7.2.3.1. Market Shares
+(265)
 
+(266)
 
-   (264)   The Parties’ and their competitors’ market shares in the supply of THSA systems
-            are provided in Table 1 to Table 4 above.
+occasions, flight control actuation systems, pilot controls and flight control
+computers may be tendered together by airframers.*”?
 
-   (265)   The Parties’ and their competitors’ shares in the markets for the supply of PFCA
-          and SFCA systems, as well as the supply of pilot controls are presented in Table 8
-             to Table 10.
+The Commission will, therefore, assess in this section whether the Transaction
+could give rise to serious doubts as to its compatibility with the internal market, in
+relation to conglomerate effects between any of the markets for (i) the supply of
+PFCA systems, (ii) the supply of SFCA systems, (111) the supply of THSA systems,
+(iv) the supply of pilot controls and (iv) the supply of flight control computers,
+including the potential narrower markets within such markets.
 
+Market Shares
 
-   (266)   As  regards  the  market  for  flight  control  computers,  Safran’s  activities  are
-          de minimis, with a market share of below [0-5]%, regardless of the exact product
-          market definition.**
+The Parties’ and their competitors’ market shares in the supply of THSA systems
+are provided in Table 1 to Table 4 above.
 
+The Parties’ and their competitors’ shares in the markets for the supply of PFCA
+and SFCA systems, as well as the supply of pilot controls are presented in Table 8
+to Table 10.
 
-   Table 8 — PFCA market shares in 2024 (in value, worldwide)*”>
+As regards the market for flight control computers, Safran’s activities are
+de minimis, with a market share of below [0-5]%, regardless of the exact product
+market definition.***
 
+Table 8 — PFCA market shares in 2024 (in value, worldwide)*”>
 
+| Supplier Overall Lca*6 Regional Business ane Military*”’ nts
+Safran | [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Target | [10-20]% | [30-40]% [5-10]% [0-5]% [0-5]% [5-10]% [10-20]%
+Combined Entity | [10-20]% | [30-40]% [5-10]% [0-5]% [0-5]% [5-10]% [10-20] %
+Parker | [10-20]% | [10-20]% | [70-80]% | [30-40]% [0-5]% [30-40]% | [30-40]%
+Moog | [20-30]% | [30-40]% [5-10]% [10-20]% [0-5]% [20-30]% [5-10]%
+Nabtesco | [0-5]% [5-10]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Liebherr | [0-5]% [5-10]% [5-10]% [0-5]% [0-5]% [5-10]% [5-10]%
+Woodward | [5-10]% [0-5]% [0-5]% [10-20]% [0-5]% [5-10]% [30-40]%
+Others | [20-30]% [5-10]% [5-10]% [30-40]% | [90-100]% | [20-30]% [0-5]%
+Total 100% 100% 100% 100% 100% 100% 100%
+Source: Response to RFI 11.
+423 Form CO, paragraph 494.
+424 Form CO, paragraph 507.
+425 See paragraph (147) et seg. above on the appropriateness of value-based market shares in the markets
 
-[wees  ore  eoaars | eoars  [ poaor [osm | room    | tre |
+426
+427
 
-[otis  zoaore [isa   [rears  | eonone [oseore [oso [ame
+for flight control actuation systems. The same considerations as in THSA also apply to PFCA and
+SFCA.
 
+Refers to “large commercial aircraft”.
 
+The Target’s market share in the supply of PFCA systems to the military sector would not differ,
+regardless of whether a worldwide or EEA-wide market were considered. See response to RFI 13.
+The following assessment is therefore applicable, regardless of the exact geographic scope of this
+potential market.
 
-   Source: Response to RFI 11.
+67
 
-
-     423     Form CO, paragraph 494.
-    424     Form CO, paragraph 507.
-     425      See paragraph (147) et seg. above on the appropriateness of value-based market shares in the markets
-             for flight control actuation systems. The same considerations as in THSA also apply to PFCA and
-          SFCA.
-    426      Refers to “large commercial aircraft”.
-     427     The Target’s market share in the supply of PFCA systems to the military sector would not differ,
-             regardless of whether a worldwide or EEA-wide market were considered. See response to RFI 13.
-          The following assessment  is therefore applicable, regardless of the exact geographic scope of this
-             potential market.
-
-
-
-
-                                                         67
 
 [PÁGINA PDF 69 | texto OCR: verificar contra el PDF]
-   Table 9 — SFCA market shares in 2024 (in value, worldwide)*”®
+SFCA market shares in 2024 (in value, worldwide)*”*
+
+Table 9 —
+[ sure Overall LCA Regional Business | General aviation mtiars® |
+Safran?? [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Target [10-20]% [20-30]% [70-80]% [5-10]% [0-5]% [10-20]%
+Combined Entity [10-20]% [20-30] % [70-80] % [10-20]% [5-10] % [10-20]%
+Moog [10-20]% [10-20]% [0-5]% [20-30]% [0-5]% [20-30]%
+Liebherr [10-20]% [20-30]% [5-10]% [5-10]% [0-5]% [0-5]%
+Parker [5-10]% [0-5]% [0-5]% [10-20]% [0-5]% [10-20]%
+Curtiss Wright [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [5-10]%
+Triumph [0-5]% [0-5]% [10-20]% [30-40]% [0-5]% [5-10]%
+Others [30-40]% [30-40]% [10-20]% [30-40]% [90-100]% [20-30]%
+Total 100% 100% 100% 100% 100% 100%
+
+Source: Response to RFT 11.
+
+Table 10 — Pilot controls market shares in 2024 (in value, worldwide)**! 4%”
+
+[supplier Overall Sticks Sidesticks Centre yokes RBPS Toa
+
+Safran [10-20]% [10-20]% [0-5]% [60-70]% [5-10]% [30-40]%
+
+Target [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+
+Combined Entity [10-20] % [10-20]% [0-5]% [60-70] % [5-10] % [30-40] %
+BAE [20-30]% [50-60]% [60-70]% [0-5]% [0-5]% [0-5]%
+Collins*#3 [20-30]% [20-30]% [20-30]% [0-5]% [40-50]% [20-30]%
+Woodward [10-20]% [0-5]% [0-5]% [0-5]% [10-20]% [20-30]%
+
+Parker [5-10]% [0-5]% [0-5]% [0-5]% [10-20]% [0-5]%
+
+Crouzet [5-10]% [5-10]% [5-10]% [10-20]% [5-10]% [0-5]%
+
+Moog [0-5]% [0-5]% [0-5]% [0-5]% [5-10]% [0-5]%
+
+Transdigm [0-5]% [0-5]% [0-5]% [10-20]% [0-5]% [5-10]%
+
+Sensata [0-5]% [0-5]% [0-5]% [5-10]% [0-5]% [0-5]%
+
+Total 100% 100% 100% 100% 100% 100%
+
+Source: Response to RFI 11.
+
+428
+
+429
+
+430
+431
+
+432
+
+433
+
+See paragraph (147) ef seq. above on the appropriateness of value-based market shares in the markets
+for flight control actuation systems. The same considerations as in THSA also apply to PFCA and
+SFCA.
+
+The Target’s market share in the supply of SFCA systems to the military sector would not differ,
+regardless of whether a worldwide or EEA-wide market were considered. See response to RFI 13.
+The following assessment is therefore applicable, regardless of the exact geographic scope of this
+potential market.
+
+See footnote 279 above on Safran’s activities in SFCA.
+Value-based market shares are presented on a cautious basis, as Safran’s value-based market shares
+
+are overall higher than its volume-based market shares. For completeness, Safran’s volume-based
+market shares in 2024 were [10-20]% in the overall market, [5-10]% for sticks, [0-5]% for sidesticks,
+[40-50]% for centre yokes, [5-10]% for RBPS and [10-20]% for TQA. See Response to RFI 11.
+
+Safran’s market shares for the supply of pilot controls would not differ materially if considered by
+segment of demand (i.e. civil vs. military aircraft) or by type of aircraft in the civil sector. The
+following assessment therefore is applicable regardless of the exact product market definition of the
+
+supply of pilot controls. [...]. See response to RFI 13.
+Refers to Collins’ activities that are not within the perimeter of the Target.
 
 
-
-
-
-   Source: Response to RFI 11.
-
-   Table 10 — Pilot controls market shares in 2024 (in value, worldwide)**! 4%”
-
-
-
-
-
-P     ooe [tose | ose [tose | tose  | Ison  | lose
-
-
-
-
-
-   Source: Response to RFI 11.
-
-
-
-     428      See paragraph (147) ef seq. above on the appropriateness of value-based market shares in the markets
-             for flight control actuation systems. The same considerations as in THSA also apply to PFCA and
-          SFCA.
-     429     The Target’s market share in the supply of SFCA systems to the military sector would not differ,
-             regardless of whether a worldwide or EEA-wide market were considered. See response to RFI 13.
-          The following assessment is therefore applicable, regardless of the exact geographic scope of this
-             potential market.
-    430      See footnote 279 above on Safran’s activities in SFCA.
-     431      Value-based market shares are presented on a cautious basis, as Safran’s value-based market shares
-             are overall higher than its volume-based market shares. For completeness, Safran’s volume-based
-           market shares in 2024 were [10-20]% in the overall market, [5-10]% for sticks, [0-5]% for sidesticks,
-           [40-50]% for centre yokes, [5S-10]% for RBPS and [10-20]% for TQA. See Response to RFI 11.
-     432       Safran’s market shares for the supply of pilot controls would not differ materially if considered by
-           segment of demand  (i.e. civil vs. military aircraft) or by type of aircraft in the civil sector. The
-            following assessment therefore is applicable regardless of the exact product market definition of the
-            supply of pilot controls. [...]. See response to RFI 13.
-     433      Refers to Collins’ activities that are not within the perimeter of the Target.
-
-
-
-
-                                                         68
 
 [PÁGINA PDF 70]
 7.2.3.2. The Notifying Party’s views

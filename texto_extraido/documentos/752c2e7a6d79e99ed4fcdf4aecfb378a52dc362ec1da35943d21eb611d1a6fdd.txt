@@ -479,61 +479,62 @@ Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.e
                                                       8
 
 [PÁGINA PDF 10 | texto OCR: verificar contra el PDF]
-        market.” With regard to primary processed Icelandic salmon, the Notifying Party
-         considers  that the Transaction would not impede competition,  for the following
-         reasons.  It firstly argues that an Icelandic farmer would not be able to exert market
-       power and increase prices, due to the competitive constraint they would face from
-       Norwegian salmon.  Secondly,  the Notifying Party notes  that salmon farming  is
-          a developing industry in Iceland, and  that, as new licence volumes are released,
-       new entries into the market are likely.*
-
+market.” With regard to primary processed Icelandic salmon, the Notifying Party
+considers that the Transaction would not impede competition, for the following
+reasons. It firstly argues that an Icelandic farmer would not be able to exert market
+power and increase prices, due to the competitive constraint they would face from
+Norwegian salmon. Secondly, the Notifying Party notes that salmon farming is
+a developing industry in Iceland, and that, as new licence volumes are released,
+new entries into the market are likely.”
 
 4.3.1.3. The Commission’s assessment
 
-4.3.1.3.1.     The Merged Entity would have high market shares in an already concentrated
-              market
+4.3.1.3.1. The Merged Entity would have high market shares in an already concentrated
 
+market
 
-(31)    The volume-based and capacity-based market shares of the Parties and their main
-         competitors for Icelandic salmon are presented in Table  1 below:
+(31) The volume-based and capacity-based market shares of the Parties and their main
+competitors for Icelandic salmon are presented in Table 1 below:
+Table 1 — Market shares for farming and primary processing of salmon
 
-        Table 1 — Market shares for farming and primary processing of salmon
-   C                    in Iceland (2021)       icensevolume
+in Iceland (2021)
+Capacity
+coe (license volume)
 
+SalMar (Arnarlax) [30-40]% [20-30]%
+NTS (Arctic Fish) [30-40]% [10-20]%
+Combined [60-70] % [40-50] %
+Masoval [30-40]% [40-50]%
+Haafell [0-5]% [5-10]%
+Total 100% [90-100]%
+Source: Form CO.
 
+(32) When considering primary processed salmon farmed in Iceland, the Transaction
+would lead to a horizontally affected market, with combined production-based
+market shares above 60%. Furthermore, the increment from the Transaction would
+be of [30-40]% when considering volume-based market shares, and of [10-20]%
+when considering capacity-based market shares. There is only one further
+established farmer in Iceland currently producing primary processed salmon,* and
+the Transaction would thus reduce the number of suppliers from three to two.
 
+a2 Form CO, paragraph 168.
 
+8 The Notifying Party’s letter of 27 September 2022.
 
-                Source: Form CO.
+pos
 
+45
 
-(32)   When considering primary processed salmon farmed in Iceland,  the Transaction
-       would lead  to  a  horizontally affected market, with combined production-based
-        market shares above 60%. Furthermore, the increment from the Transaction would
-        be of [30-40]% when considering volume-based market shares, and of [10-20]%
-       when  considering  capacity-based  market  shares.  There   is  only  one  further
-         established farmer in Iceland currently producing primary processed salmon,* and
-          the Transaction would thus reduce the number of suppliers from three to two.
+In line with the approach taken in past Commission decisions, capacity and production shares — while
+not fully corresponding to sales made in the EEA — appear to constitute a suitable proxy for market
+power in the EEA market(s) for farming and primary processing of salmon (M.6850 — Marine
+Harvest/Morpol, paragraph 76).
 
+There has been a recent entrant into the market in Iceland, Haafel, which has acquired in 2021 salmon
+farming licences (it was previously only active in cod and rainbow trout farming). As of today, this
+entrant does not yet produce any farmed and primary processed salmon. Please see paragraph 40 for
+more information.
 
-
-
-#2     Form CO, paragraph 168.
-8      The Notifying Party’s letter of27 September 2022.
-44       In line with the approach taken in past Commission decisions, capacity and production shares — while
-         not fully corresponding to sales made in the EEA — appear to constitute a suitable proxy for market
-        power in the EEA market(s) for farming and primary processing of salmon (M.6850 — Marine
-        Harvest/Morpol, paragraph 76).
-45       There has been a recent entrant into the market in Iceland, Haafel, which has acquired in 2021 salmon
-        farming licences (it was previously only active in cod and rainbow trout farming). As of today, this
-         entrant does not yet produce any farmed and primary processed salmon. Please see paragraph 40 for
-       more information.
-
-
-
-
-
-                                                       9
 
 [PÁGINA PDF 11]
 (33)    The existing concentration and the increase in concentration are also reflected in
@@ -699,67 +700,71 @@ Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.e
                                                       12
 
 [PÁGINA PDF 14 | texto OCR: verificar contra el PDF]
-           Table 2 — Market shares for farming and primary processing of salmon
-                        in Norway, North Norway and South Norway (2021)
+4.3.2.1.
 
-                                           NorthNorway                                                                    |      South Norway
+(44)
 
+(45)
 
-                                                          icenseés,                              icenseés,                        icenses
+(46)
 
+(47)
 
-                        [5-10]%     [5-10]%      [5-10]%     [5-10]%      [0-5]%       [0-5]%
-                      [10-20]% | [10-20]% | [20-30]% | [20-30]% | [10-20]% |  [5-10]%
+Table 2 — Market shares for farming and primary processing of salmon
+in Norway, North Norway and South Norway (2021)
 
+Norway North Norway South Norway
+Production yd acity Production ssi acity Production Cap acity
+(licenses) (licenses) (licenses)
+SalMar [10-20]% [10-20]% [10-20]% [10-20]% [10-20]% [5-10]%
+NTS [5-10]% [5-10]% [5-10]% [5-10]% [0-5 ]% [0-5 ]%
+Combined | [10-20]% [10-20] % [20-30] % [20-30] % [10-20] % [5-10] %
+Mowi [10-20]% [10-20]% [10-20]% [10-20]% [20-30]% [20-30]%
+Leroy [10-20]% [10-20]% [5-10]% [5-10]% [10-20]% [10-20]%
+Cermaq [5-10]% [5-10]% [5-10]% [5-10]% [0-5]% [0-5]%
+Others [40-50]% [40-50]% [40-50]% [40-50]% [40-50]% [50-60]%
+Total 100% 100% 100% 100% 100.00% 100.00%
 
-         JOthers | [40-50]%  | [40-50]% |
+Source: Form CO.
 
+Unilateral effects
 
-         Source: Form CO.
+The Commission has not found any indications that the Transaction could result in
+unilateral effects on the market for farming and primary processing of Norwegian
+salmon that would significantly impede competition within the internal market.
 
+First, the Parties’ combined shares on the plausible product markets for farming
+and primary processing of Norwegian or North Norwegian salmon remain
+moderate and do not exceed 25%.©
 
+Second, while a majority of market participants consider the Parties as close and
+important competitors™, there are numerous other suppliers, large and small.
+A majority of customers buy primary processed Norwegian salmon from more than
+five suppliers and generally consider large suppliers, such as Mowi and Leroy, as
+well as small farmers as viable alternatives to the Parties. The possibly limited
+competitive constraint exerted by smaller farmers will be discussed below in
+Section 4.3.2.2.3.4.
 
-4.3.2.1.  Unilateral effects
+Third, NTS is only the fifth largest supplier by output and not considered a key
+player by most market participants.° It appears therefore unlikely that the
+Transaction will strengthen SalMar’s market position to an extent that would
+significantly impede competition in the internal market with regards to unilateral
+effects.
 
+60
+61
+62
+63
 
-(44)    The Commission has not found any indications that the Transaction could result in
-          unilateral effects on the market for farming and primary processing of Norwegian
-        salmon that would significantly impede competition within the internal market.
+Horizontal Merger Guidelines, paragraph 18.
 
-(45)     First, the Parties’ combined shares on the plausible product markets for farming
-        and  primary  processing  of Norwegian  or  North Norwegian  salmon  remain
-        moderate and do not exceed 25%.”
+Responses to questionnaire Q1 sent to customers, question 12.
 
+Responses to questionnaire Q1 sent to customers Q1, questions 13, 14 and 15.
+Responses to questionnaire Q1 sent to customers Q1, question 11.
 
-(46)    Second, while a majority of market participants consider the Parties as close and
-         important  competitors®,  there  are numerous  other  suppliers,  large and  small.
-     A majority of customers buy primary processed Norwegian salmon from more than
-          five suppliers and generally consider large suppliers, such as Mowi and Leroy, as
-        well as small farmers as viable alternatives to the Parties.” The possibly limited
-         competitive  constraint exerted by smaller farmers will be discussed below  in
-         Section 4.3.2.2.3.4.
+13
 
-
-(47)     Third, NTS  is only the  fifth largest supplier by output and not considered a key
-         player  by  most  market  participants.°   It  appears  therefore  unlikely  that  the
-        Transaction will  strengthen SalMar’s  market position  to an  extent  that would
-          significantly impede competition in the internal market with regards to unilateral
-          effects.
-
-
-
-
-
-60       Horizontal Merger Guidelines, paragraph 18.
-61      Responses to questionnaire Q1 sent to customers, question 12.
-62      Responses to questionnaire Q1 sent to customers Q1, questions 13, 14 and 15.
-63      Responses to questionnaire Q1 sent to customers Q1, question 11.
-
-
-
-
-
-                                                           13
 
 [PÁGINA PDF 15]
 (48)     Therefore, the Commission considers that the Transaction does not give rise to
@@ -1370,63 +1375,76 @@ Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.e
                                                       24
 
 [PÁGINA PDF 26 | texto OCR: verificar contra el PDF]
-       on an ad-hoc basis by hiring local personnel to assemble the pen. Transportation
-         costs are passed on to the customers.!"!
+(91)
 
-(91)    The market investigation has not given any indication that customers of pens and
-        cameras do not supply on a global level. Therefore,  it is likely that the relevant
-        geographic market for cameras and pens for the aquaculture industry is global. In
-        any case, as the outcome of the assessment of the Transaction remains the same
-        under  all  plausible  market  definitions,  whether  global  or  narrower,  such  as
-       EEA-wide,   it  is  not  necessary  to  conclude on  the  exact  geographic  market
-          definition.
+5.3.
 
+(92)
 
-5.3.     Competitive assessment
+(93)
 
-(92)    The  Notifying  Party  has  submitted  that  SalMar’s  and  its main  competitors’
-        upstream market shares are as follows:
+on an ad-hoc basis by hiring local personnel to assemble the pen. Transportation
+costs are passed on to the customers.!!!
 
-        Table 3 — Overview of upstream value-based market shares in Europe!” and
-        world-wide
+The market investigation has not given any indication that customers of pens and
+cameras do not supply on a global level. Therefore, it is likely that the relevant
+geographic market for cameras and pens for the aquaculture industry is global. In
+any case, as the outcome of the assessment of the Transaction remains the same
+under all plausible market definitions, whether global or narrower, such as
+EEA-wide, it is not necessary to conclude on the exact geographic market
+definition.
 
+Competitive assessment
 
+The Notifying Party has submitted that SalMar’s and its main competitors’
+upstream market shares are as follows:
 
+Table 3 — Overview of upstream value-based market shares in Europe!” and
+world-wide (2021)
 
-                                           industr (2021)a
+Cameras for the aquaculture Pens for the aquaculture industry
+industry
 
-         fothers |   [10-20% |  [20-30%
+Europe Global Europe Global
+SalMar (ScaleAQ) [30-40] % [20-30] % [40-50] % [40-50] %
+Akva Group [30-40]% [30-40]% [30-40]% [30-40]%
+Morenot [10-20]% [10-20]% [0-5]% [0-5]%
+Others [10-20]% [20-30]% [10-20]% [10-20]%
+Total 100% 100% 100% 100%
 
+Source: Form CO.
 
-         Source: Form CO.
+The findings of the market investigation do not give rise to any concerns. There
+were no indications that the Transaction may give rise to input foreclosure effects
+with regard to any plausible product market definition. Market participants neither
+raised concerns of hampered access to cameras and pens post-Transaction nor
+mentioned a likelihood of increased prices.'” It also seems unlikely that the Parties
+would have the ability to foreclose rivals: indeed, customers confirmed the
+existence of several alternative suppliers for both products.!* Customers also
+indicated that given the need to optimise production, the market for new
+technologies such as cameras is likely to grow with few to no entry barriers in
+place.!!° Furthermore, with regard to pens specifically, they have a long life-span
+of approximately 15-20 years and much of the equipment has already been
 
+111
+112
+113
 
-(93)    The findings of the market investigation do not give rise to any concerns. There
-       were no indications that the Transaction may give rise to input foreclosure effects
-        with regard to any plausible product market definition. Market participants neither
-         raised concerns of hampered access  to cameras and pens post-Transaction nor
-        mentioned a  likelihood of increased prices.‘ It also seems unlikely that the Parties
-       would have  the  ability  to  foreclose  rivals:  indeed,  customers  confirmed  the
-         existence of several  alternative  suppliers  for both products.!!* Customers  also
-         indicated  that  given  the  need  to  optimise  production,  the  market  for new
-         technologies such as cameras  is likely to grow with few to no entry barriers in
-         place.!” Furthermore, with regard to pens specifically, they have a long life-span
-        of approximately  15-20  years  and much of the  equipment  has  already been
+114
+115
 
+Form CO, paragraphs 256-281.
 
+All countries in Europe, Form CO, paragraphs 468 and 475.
 
-ul     Form CO, paragraphs 256-281.
-12       All countries in Europe, Form CO, paragraphs 468 and 475.
-13        E.g., non-confidential minutes ofa conference call witha competitor on 18 May 2022, paragraph 18;
-        Non-confidential minutes of  a conference call with a competitor on 10 May 2022, paragraph 13.
-14     Responses to questionnaire Q2 to competitors, question 5.
-15      Non-confidential minutes ofa conference call with  a competitor on 18 May 2022, paragraph 18.
+E.g., non-confidential minutes of a conference call witha competitor on 18 May 2022, paragraph 18:
+Non-confidential minutes of a conference call with a competitor on 10 May 2022, paragraph 13.
+Responses to questionnaire Q2 to competitors, question 5.
 
+Non-confidential minutes of a conference call with a competitor on 18 May 2022, paragraph 18.
 
+25
 
-
-
-                                                        25
 
 [PÁGINA PDF 27]
          purchased.116 In that sense, as demand is becoming more limited, there is likely an
@@ -2720,62 +2738,44 @@ Section G.     Entry into force
                                                        13
 
 [PÁGINA PDF 50 | texto OCR: verificar contra el PDF]
-                        SCHEDULE
+SCHEDULE
 
+The Divestment Business as operated to date has the followmg legal and functional
+structure:
 
-1.     The Divestment Business  as operated to date has the followmg  legal and functional
+Arctic Fish Holding AS is a company with all its shares listed on the multilateral trading
+facility named Euronext Growth Oslo. It conducts its main operations through its
+subsidiaries Arctic Sea Farm hf. (Iceland) Arctic Smolt hf. (Iceland) and Arctic Oddi
+ehf. (Iceland). Its operations are mamly conducted in the Westfjords of Iceland. The
+group’s principal activities are salmon farming, producing smolt in its own freshwater
+hatchery and farming salmon at sea before the fish is harvested and finally sold to the
+market.
 
-         structure:
+Arctic Fish Holding AS was mcorporated on 1 October 2020. It is a holdmg company
+which owns 100% of the shares in Arctic Fish ehf., the former parent company of the
+group, that was incorporated on 1 July 2011.
 
-        Arctic Fish Holding AS is a company with all its shares listed on the multilateral trading
-          facility named Euronext Growth Oslo.  It conducts  its mai operations  through  its
-         subsidiaries Arctic Sea Farm hf. (Iceland) Arctic Smolt hf. (Iceland) and Arctic Oddi
-         ehf. (Iceland).  Its operations  are mamly conducted in the Westfjords of Iceland. The
-        group’s principal activities  are salmon farming, producing smolt in its own freshwater
-       hatchery and farming salmon at sea before the fish is harvested and finally sold to the
+The Arctic Fish group currently holds the following maim licenses permits and
+authorisations:
 
-        market.
+Company Geographical presence Type of licence Maxnum Epry
+allowed
+biomass (tons)
 
-        Arctic Fish Holdng AS was mcorporated on 1 October 2020. It is a holdmg company
-       which owns 100% of the shares in Arctic Fish ehf., the former parent company of the
-        group, that was incorporated on 1 July 2011.
+Arctic Sea Farm hf Dyraférdur Commercial (salmon) 10,000 7 May 2037
+Arctic Sea Fam hf Patreks§érdur and T alknafjérdur Commercial (salmon) 7,800 27 August 2023
+Arctic Sea Fam hf isafardardjup Commercial (trout) 5,300 4 September 2036
+Arctic Sea Fam hf Amar§érdur Commercial (trout) 4,000 21 March 2038
+Arctic Smolt hf Westfords Hatchery 1,000 20 February 2029
 
-      The Arctic  Fish  group  currently  holds  the  following mam  licenses  permits and
+Below is a structure chart of the Arctic Fish group.
 
-        authorisations:
+Iceland (100% owned)
 
-           Company         Geographical presence       Type oflicence      Maxnum         Epry
-                                                                                     allowed
+Iceland (100% owned)
 
-                                                                             biomass (tons)
+14
 
-
-
-
- a         a  oe
-
-      Below is a structure chart of the Arctic Fish group.
-
-
-
-                                        Arctic Fish
-                                   Holding AS
-
-
-
-
-
-                                      Arctic Fish ehf.
-
-
-
-           Arctic Smolt hf.           Arctic Oddi ehf.  a aie rec
-
-
-
-
-
-                                                   14
 
 [PÁGINA PDF 51]
 2.      In accordance with paragraph 5 of these Commitments,  the Divestment Business

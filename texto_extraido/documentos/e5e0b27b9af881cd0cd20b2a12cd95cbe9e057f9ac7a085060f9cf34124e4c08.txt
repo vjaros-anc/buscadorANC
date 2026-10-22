@@ -419,124 +419,117 @@ Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.e
                                                      7
 
 [PÁGINA PDF 9 | texto OCR: verificar contra el PDF]
-                markets concerned. The Commission appraises horizontal effects in accordance
-                with  the  Horizontal  Merger  Guidelines.*’  Horizontal  effects may  be  non-
-                 coordinated or coordinated.
+markets concerned. The Commission appraises horizontal effects in accordance
 
-         (39)    As regards horizontal non-coordinated effects, according to paragraphs 26 et seq.
-                of the Horizontal Merger Guidelines, a number of factors (the list of which is non-
-                 exhaustive) may be taken into account in order to determine whether significant
-                non-coordinated effects are likely to result from a concentration, including the
-              combined entity’s market power, closeness of competition and barriers to entry
-                 and/or expansion.
+with the Horizontal Merger Guidelines.*’ Horizontal effects may be non-
+coordinated or coordinated.
+(39) As regards horizontal non-coordinated effects, according to paragraphs 26 et seq.
+of the Horizontal Merger Guidelines, a number of factors (the list of which is non-
+exhaustive) may be taken into account in order to determine whether significant
+non-coordinated effects are likely to result from a concentration, including the
+combined entity’s market power, closeness of competition and barriers to entry
+and/or expansion.
+4.2. General features of the EEA operational leasing markets
+(40) Although, as explained above, operational leasing markets are national in scope,
+they share similar characteristics that are examined below.
+4.2.1. Market structure
+Table 1: 2018-2021 market shares by volume for operational leasing and fleet
+management services in the EEA up to 3.5 tons
+2018 2019 2020 2021
+Company/Group Volumes at Volumes 2 Volumes oe Volumes i.
+share share share share
+Total SG Group [10-20]% [10-20]% [10-
+[.--] [.--] [.--] [10-20]% [.--] 20]%
+[10-20]% [10-20]% [10-
+e ALD [..-] [.--] [.--] [10-20]% [.--] 20]%
+e NF Fleet (JV) [...] [0-5]% [..-] [0-5]% [..-] [0-5]% [...] | [0-5]%
+° Banco Sabadell [...] [0-5]% [...] [0-5]% [...] [0-5]% [...1| [0-5]%
+e _SGGroup [.--] [0-5]% [.--] [0-5]% L.-J [0-5]% [.--] | [0-5]%
+[10-20]% [10-20]% [10-
+LeasePlan [...] [...] [...] [10-20]% [...] 201%
+[20-30]% [20-30] % [20-
+Combined Entity [...J [...] [...] | [20-30]% [...] | 30]%
+[10-20]% [10-20]% [10-
+Total Arval Group [...] [...] [...] | [10-20]% [...] |] 20]%
+[10-20]% [10-20]% [10-
+e_Arval L...] L...J L...] [10-20]% [...] 20]%
+¢ Unicredit Leasing
+(Austria) [...] [0-5]% [...] [0-5]% [...] [0-5]% [...] | [0-5]%
+[10-20]% [10-20]% [10-
+Total Volkswagen Group [...] [..-] [...] [10-20]% [...] 201%
+[10-20]% [10-20]% [10-
+e VWES [...] [...] [...] | [10-20]% [...] | 20]%
+° _ Porsche Leasing [J [0-5]% [..-J [0-5]% [..-J [0-5]% [..-] | [0-5]%
+[5-10]% [5-10]% [5-
+Total BMW Group [.--] [.--] [.--] [5-10]% [.--] 10]%
+[5-10]% [5-10]% [5-
+e Alphabet [.--] [.--] [.--] [5-10]% [.--] 10]%
+e Avis [...] [0-5]% [..-] [0-5]% [..-] [0-5]% [...] | [0-5]%
+BMW FS [J [0-5]% L.-J [0-5]% L.-J [0-5]% [..-J] | [0-5]%
+Avis Fleet [0-5]%
+Solutions
+(Alphabet [..-] [.--] [0-5]% [.--] [0-5]% [..-] | [0-5]%
+37 Guidelines on the assessment of horizontal mergers under the Council Regulation on the control of
 
-          4.2.    General features of the EEA operational leasing markets
-
-         (40)    Although, as explained above, operational leasing markets are national in scope,
-                 they share similar characteristics that are examined below.
-
-          4.2.1.   Market structure
-
-             Table 1: 2018-2021 market shares by volume for operational leasing and fleet
-                       management services in the EEA up to 3.5 tons
-
-      Cc ee/Gi          Volumes eeshare    Volumes eeshare    Volumes eeshare     Volumes oeshare
-
-  Total SG Group                         [10-20]%               [10-20]%                                                [10-
-                                                                                     10-20]%              20]%
-
-                                         [10-20]%               [10-20]%                                                [10-
-      e  ALD                                                                       10-20]%                 20|]%
-T+* sccmBanco Sabadell— ||fil]pa)  Py](5Pe} aft es)sh]  atyf  poss]ose | tf1 posef0-s1%6.
-
- LeasePlan                                                                           10-20]%              20]%
-
-                                       [20-30]%               [20-30]%                                                 [20-
- Combined Entity                                                               20-30]%             30]%
-                                         [10-20]%               [10-20]%                                                [10-
-  Total Arval Group                                                                    10-20]%              20]%
-
-
-            ee   Arval                                                                       10-20]%              20|%
-
-      e   Unicredit Leasing
-           Austria                           [0-5]%                  [0-5]%                 0-5|%              0-5]%
-                                         [10-20]%               [10-20]%                                                [10-
-  Total Volkswagen Group                                                              10-20]%              20]%
-
-                                         [10-20]%               [10-20]%                                                [10-
-      e  VWES                                                                      10-20]%              20]%
-|PorscheLeasing+            | fj]  5M] pg} SM]fos]Ea}  0-5 1% |
-
-  Total BMW Grou;                                                                    5-10]%               10]%
-
-
-      e   Alphabet                                                                    5-10]%               10]%
-
-            *_  BMWFS   Pg}   oso ft     tose] fos]| fo-s% |
-      e  = Avis Fleet                         [0-5]%
-          Solutions
-          Alphabet                                              0-5]%                 0-5|%              0-5|%
+concentrations between undertakings (‘Horizontal Merger Guidelines’), OJ C 31, 5.2.2014.
 
 
-              37       Guidelines on the assessment of horizontal mergers under the Council Regulation on the control of
-                   concentrations between undertakings (‘Horizontal Merger Guidelines’), OJ C 31, 5.2.2014.
-
-
-
-                                                                     8
 
 [PÁGINA PDF 10 | texto OCR: verificar contra el PDF]
-                           olumes     share    Volumes     share    Volumes     share     Volumes    share  So oeee Ce ee) (>partner)
-[Total StellantisGroup | J] EOS] |  psn  | |   pstoyo  | |    6.4% |
-|e Freemmove | | S|  fos  | a]  pose  | |  fo-5% |
-|e| + teasyspsarinnce |TSM]1] jo-s| |  pose|fos  || posto]pose | || f0-51%f0-5%  ||
-|e rcaBak |p|  pose] |  oso | a]  pose |p|  0-51% |
-fromMeceiesGow|e      | af tsa]  pail  ioe!  al sei   {  al  sobs!5-|e  vthion  || oso | |  ose | |  fos    | |  f0-5% ||e Daimerrs | |  pose| |   fos  | |   pose | |  fo-5%  || + MercedesBezMBCharteway || [J]pil] jose]so-so] fa]pt} fos]ose] fy]pa]  posto]fos] pa]|  f0-5%fo-52% ||
-ropeoso |  oso |  pose  | | fo-5% |
-ones | a   rotors | a} osome|  pal posope| pal sore!20-
+2018 2019 2020 2021
+Company/Group Volumes Market Volumes Market Volumes Market Volumes Market
+share share share share
+partner)
+Total Stellantis Group [...] [0-5]% [...] | [5-10]% [...] | [5-10]% [..] | 6.4%
+e Free2Move [...] [0-5]% [...] [0-5]% [...] [0-5]% [...] | [0-5]%
+e _Leasys L.-J [0-5]% L.-J [0-5]% L.-J [0-5]% [...] | [0-5]%
+e __ PSA Finance [...] [0-5]% [...] [0-5]% [...] [0-5]% [...] | [0-5]%
+e FCA Bank [...] [0-5]% [...] [0-5]% [...] [0-5]% [...] | [0-5]%
+[5-
+Total Mercedes Group [..-] [5-10]% [...] [5-10]% [...] [5-10]% [..-] 10]%
+e Athlon [...] [0-5]% [..] [0-5]% [..] [0-5]% [...] |. [0-5]%
+e Daimler FS [.--] [0-5]% [.--] [0-5]% [.--] [0-5]% [..-] | [0-5]%
+e MB Charteway L.-J] [0-5]% [...] [0-5]% [...] [0-5]% [...] | [0-5]%
+© Mercedes-Benz [...] [0-5]% [...] [0-5]% [...] [0-5]% [...] | [0-5]%
+RCI [...] [0-5]% [...] [0-5]% [...] [0-5]% [...] | [0-5]%
+[20-
+Others [...] | [30-40]% [...] | [20-30]% [...] | [20-30]% [...] | 30]%
+Total 7,814,067 100.0% | 8,429,378 100.0% | 8,535,154 100.0% | 8,707,232 | 100.0%
+Source: Form CO, Annex 6.1.D.1 of 12 October 2022
+(41) According to the Parties’ estimates, post-Transaction, the combined entity would
+hold a share of [20-30]% (in volume) at the EEA level (with an increment of [10-
+20]%). It will be by far the largest operational leasing (for vehicles up to 3.5 tons)
+supplier in Europe, almost twice the size of the second largest supplier. The
+combined entity would face only two competitors holding an EEA share of 10% or
+more, Arval ({10-20]%) and the Volkswagen group ([10-20]%). The two other
+main competitors on EEA level, Alphabet ([5-10]%) and Athlon ([0-5]%) have a
+market share well below 10%. The rest of the market consists of a fringe of
+competitors, some active only in a limited number of EEA countries, some only
+active in their home country, and holding shares in the low single digits.
+4.2.2. Closeness of competition
+(42) The concept of ‘closeness of competition’ may play an important role in better
+understanding the competitive constraint exerted by different competitors on each
+other in differentiated markets. In general, the higher the degree of substitutability
+between the merging firms’ products, the more likely it is that the merging firms
+will have the ability to raise prices significantly after the transaction. Conversely,
+the merging firms’ incentive to raise prices is more likely to be constrained when
+rival firms produce close substitutes to the products of the merging firms than when
+they offer less close substitutes.*®
+4.2.2.1. The Notifying Party’s views
+(43) The Notifying Party considers that the market for operational leasing is largely
+
+homogenous, since all leasing companies are typically capable of meeting the
+requirements of different customers and offer similar services. In this respect, the
+Notifying Party submits that the Parties are directly competing with each other as
+much as they do with other companies active on the market.
+
+38
+
+Horizontal Merger Guidelines, paragraphs 28-30.
+
+9
 
 
-                             Source: Form CO, Annex 6.1.D.1 of 12 October 2022
-
-         (41)    According to the Parties’ estimates, post-Transaction, the combined entity would
-                hold a share of [20-30]% (in volume) at the EEA level (with an increment of [10-
-                20]%). It will be by far the largest operational leasing (for vehicles up to 3.5 tons)
-                  supplier  in Europe, almost twice the  size of the second largest  supplier. The
-              combined entity would face only two competitors holding an EEA share of 10% or
-                more, Arval ({10-20]%) and the Volkswagen group ([{10-20]%). The two other
-              main competitors on EEA level, Alphabet ([5-10]%) and Athlon ([0-5]%) have a
-                market share well below 10%. The rest of the market consists of a  fringe of
-                  competitors, some active only in a limited number of EEA countries, some only
-                  active in their home country, and holding shares in the low single digits.
-
-          4.2.2.   Closeness ofcompetition
-
-         (42)    The concept of ‘closeness of competition’ may play an important role in better
-                understanding the competitive constraint exerted by different competitors on each
-                  other in differentiated markets. In general, the higher the degree of substitutability
-               between the merging firms’ products, the more likely  it is that the merging firms
-                   will have the ability to raise prices significantly after the transaction. Conversely,
-                  the merging firms’ incentive to raise prices is more likely to be constrained when
-                    rival firms produce close substitutes to the products of the merging firms than when
-                 they offer less close substitutes.*®
-
-          4.2.2.1.  The Notifying Party’s views
-
-         (43)    The Notifying Party considers that the market for operational leasing  is largely
-               homogenous,  since  all leasing companies  are typically capable of meeting the
-                 requirements of different customers and offer similar services. In this respect, the
-                Notifying Party submits that the Parties are directly competing with each other as
-             much as they do with other companies active on the market.
-
-
-
-
-              38       Horizontal Merger Guidelines, paragraphs 28-30.
-
-
-
-                                                                     9
 
 [PÁGINA PDF 11]
 4.2.2.2. The Commission’s assessment
@@ -877,219 +870,272 @@ ones | a   rotors | a} osome|  pal posope| pal sore!20-
 [PÁGINA PDF 17 | texto OCR: verificar contra el PDF]
 4.2.4.2. The Commission’s assessment
 
-(78)    The Commission takes the view that buyer power in the operational leasing market
-            is limited for the reasons set out below in paragraphs (79)-(81).
+(78)
 
-(79)      First, customers can only exercise buyer power to the extent that there are available
-         alternative  suppliers of operational  leasing.  Post-Transaction,  the two  leading
-         suppliers of operational leasing will become one, which will significantly reduce
-        customers’ choice of suppliers.
+(79)
 
-(80)    Second, the Parties’ customer base  is fragmented and each customer typically
-         represents a small share of the Parties’ revenues. Only [...] customers of ALD and
-            [...] customers of LeasePlan have fleets of the size exceeding 1% of the overall
-       volume of the cars leased by each of the Parties in the EEA.” While top 50% of
-      ALD’s biggest customers in the EEA consists of [...] customers, top 90% is as
-      many as [...] customers.”
+(80)
 
-(81)     Third,  although customer switching from one operational  leasing provider  to
-        another  is not overly difficult, migrating from one supplier to another or multi-
-        sourcing complicates management of leasing contracts, which might be particularly
-       burdensome for larger customers.
+(81)
 
-4.3.     Horizontally affected markets
+4.3.
+(82)
 
-(82)    The Parties’ activities in operational leasing overlap in 20 EEA Member States.
-       The Transaction gives rise to 17 affected markets where the Parties hold combined
-        market shares exceeding 20%, namely Belgium, Czechia, Denmark, Finland, France,
-         Greece, Hungary, Ireland,  Italy, Luxembourg, the Netherlands, Norway, Portugal,
-        Romania, Slovakia, Spain and Sweden.
+The Commission takes the view that buyer power in the operational leasing market
+is limited for the reasons set out below in paragraphs (79)-(81).
 
-  Table 2: Parties’ individual and combined market shares by volume for operational
-                   leasing in 2021 in 20 overlap EEA Member States
+First, customers can only exercise buyer power to the extent that there are available
+alternative suppliers of operational leasing. Post-Transaction, the two leading
+suppliers of operational leasing will become one, which will significantly reduce
+customers’ choice of suppliers.
 
+Second, the Parties’ customer base is fragmented and each customer typically
+represents a small share of the Parties’ revenues. Only [...] customers of ALD and
+[...] customers of LeasePlan have fleets of the size exceeding 1% of the overall
+volume of the cars leased by each of the Parties in the EEA.” While top 50% of
+ALD’s biggest customers in the EEA consists of [...] customers, top 90% is as
+many as [...] customers.”
 
+Third, although customer switching from one operational leasing provider to
+another is not overly difficult, migrating from one supplier to another or multi-
+sourcing complicates management of leasing contracts, which might be particularly
+burdensome for larger customers.
 
-              State
+Horizontally affected markets
 
+The Parties’ activities in operational leasing overlap in 20 EEA Member States.
+The Transaction gives rise to 17 affected markets where the Parties hold combined
+market shares exceeding 20%, namely Belgium, Czechia, Denmark, Finland, France,
+Greece, Hungary, Ireland, Italy, Luxembourg, the Netherlands, Norway, Portugal,
+Romania, Slovakia, Spain and Sweden.
 
+Table 2: Parties’ individual and combined market shares by volume for operational
 
+leasing in 2021 in 20 overlap EEA Member States
 
+annals ALD LeasePlan Combined
+Austria [0-5]% [5-10]% [10-20]%
+Belgium [10-20]% [10-20]% [30-40]%
+Czechia [10-20]% [10-20]% [30-40]%
+Denmark [10-20]% [5-10]% [20-30]%
+Finland [40-50]% [30-40]% [70-80]%
+France [10-20]% [5-10]% [20-30]%
+Germany [5-10]% [0-5]% [10-20]%
+Greece [0-5]% [20-30]% [30-40]%
+Hungary [10-20]% [10-20]% [10-20]%
 
-p     Form CO, Annex 8.2.5.
-B     Form CO, Annex 8.2.5.
+73
 
+Form CO, Annex 8.2.5.
+Form CO, Annex 8.2.5.
 
+16
 
-
-
-                                                           16
 
 [PÁGINA PDF 18 | texto OCR: verificar contra el PDF]
-              State
+4.3.1.
 
+EEA Member
 
+State ALD LeasePlan Combined
+Ireland [10-20]% [30-40]% [60-70]%
+Italy [10-20]% [10-20]% [10-20]%
+Luxembourg [30-40]% [10-20]% [40-50]%
+Netherlands [5-10]% [10-20]% [10-20]%
+Norway [10-20]% [30-40]% [40-50]%
+Poland [0-5]% [10-20]% [10-20]%
+Portugal [10-20]% [50-60]% [60-70]%
+Romania [10-20]% [10-20]% [10-20]%
+Slovakia [10-20]% [10-20]% [30-40]%
+Spain [10-20]% [10-20]% [10-20]%
+Sweden [10-20]% [5-10]% [10-20]%
 
-
-
- a a
-
-
-
-
-
-4.3.1.   Affected markets in which competition concerns arise
+Affected markets in which competition concerns arise
 
 4.3.1.1. Czechia
 
-4.3.1.1.1.     The Notifying Party’s views
+4.3.1.1.1.
 
-(83)    The Notifying Party submits that Parties’ combined market shares for operational
-         leasing in Czechia are not fully representative of the competitive landscape.”
+(83)
 
-(84)    According to the Notifying Party, the Czech market will remain competitive post-
-        Transaction given that the Parties will face a number of competitors, including
-         potential competitors  traditionally focused on financial  leases and  loans,  in  a
-        market characterised by low barriers to entry and expansion, where customers can
-         easily switch providers.”
+(84)
 
-4.3.1.1.2.     The Commission’s assessment
+4.3.1.1.2.
 
-(85)    The Commission concludes that the Transaction raises serious doubts as to  its
-         compatibility with the internal market in respect of the Czech operational leasing
-        market for the following reasons.
+(85)
+
+According to the Notifying Party, the Czech market will remain competitive post-
+Transaction given that the Parties will face a number of competitors, including
+potential competitors traditionally focused on financial leases and loans, in a
+market characterised by low barriers to entry and expansion, where customers can
+
+The Notifying Party’s views
+
+The Notifying Party submits that Parties’ combined market shares for operational
+leasing in Czechia are not fully representative of the competitive landscape.”
+
+easily switch providers.”
+
+The Commission concludes that the Transaction raises serious doubts as to its
+compatibility with the internal market in respect of the Czech operational leasing
+market for the following reasons.
+
+The Commission’s assessment
+
+74
+75
+
+Form CO, Annex 6.3, paragraph 22.
+Form CO, Annex 6.3, paragraph 23.
+
+17
 
 
-
-
-
-™     Form CO, Annex 6.3, paragraph 22.
-np     Form CO, Annex 6.3, paragraph 23.
-
-
-
-                                                           17
 
 [PÁGINA PDF 19 | texto OCR: verificar contra el PDF]
-     Table 3: 2018-2021 market shares by volume for operational leasing in Czechia
+Table 3: 2018-2021 market shares by volume for operational leasing in Czechia
 
- ml               Market               Market              Market             Market
-                               share                   share                   share                 share
+2018 2019 2020 2021
+i Market Market Market Market
+Group Volumes ame Volumes ame Volumes ame Volumes arxe
+share share share share
+[10-20]% [10-20]% [10-20]% [10-
+ALD [..-] [..-] [..-] [..-] 20]%
+SGEF L..-] [0-5]% [..-] [0-5]% [...] [0-5]% [...] | _[0-5]%
+SG Group [...] [0-5]% [0-5]% [0-5]% [...] [0-5]%
+Total SG [10-20]% [10-20]% [10-20]% [10-
+Group [..-] [...] [...] [...] 20]%
+[10-20]% [10-20]% [10-20]% [10-
+LeasePlan [...] [...] [...] [...] 20]%
+[30-40]
+Combined [30-40] % [30-40] % [30-
+Entity [..-] [..-] [..-] [...] 40]%
+[30-40]% [10-20]% [10-20]% [10-
+VWFS [..- [.--] [.--] [.--] 20]%
+[10-20]% [10-20]% [10-20]% [10-
+Arval [..-] [.--] [.--] [.--] 20]%
+Business [10-20]% [0-5]% [5-10]% [5-10]%
+Lease [..-] [.--] [.--] [.--]
+CSOB [5-10]% [0-5]% [0-5]% [0-5]%
+Leasing [..-] [.--] [..- [.--]
+Sixt [...] [0-5]% [...] [0-5]% [... [0-5]% [...] | [051%
+Unicredit [0-5]% [0-5]% [0-5]% [0-5]%
+Leasing [..-] [...] [...] [...]
+Raiffeisen [0-5]% [0-5]% [0-5]% [0-5]%
+Leasing [..-] [..-] [..-] [..-]
+Car4way L..-] [0-5]% [..-] [0-5]% [...] [0-5]% [..-] | _[0-51%
+RCI ] [0-5]% ] [0-5]% [0-5]% [...] [0-5]%
+[0-5]% [20-30]% [10-20]% [10-
+Others [..-] [.--] [..-] [.--] 20]%
+All [10-20]% [60-70]% [60-70] % [60-
+competitors 70|%
+combined [...] [..-] [...] [...]
+Total 143.121 100,0% 155.394 100,0% 128.171 100,0% | 135.711 | 100,0%
+
+Source: Form CO, Annex 6.1.D.1 of 12 October 2022
+
+(86)
+
+Lease ([5-10]% in 2021).
+
+(87)
+
+2018 and 2021.
+
+18
+
+First, the combined entity would be by far the largest operational leasing companies in
+Czechia with a combined market share of [30-40]% in 2021 ([10-20]% for LeasePlan
+and [10-20]% for ALD) with a significant increment brought about by the
+Transaction. All other operational leasing companies in Czechia would be
+significantly smaller. There are only two competitors with market shares above 10%,
+namely Volkswagen Financial Services ([{10-20]% in 2021) and Arval ([10-20]% in
+2021), while the only other competitor with a market shares above 5% is Business
+
+Second, the combined market share of the Parties in the past four years was
+consistently above [30-40]% and has increased by [0-5] percentage points between
 
 
- ALD                                                                                     20|%oo |  a a  al at
-sceF[sGGrowp | OSse][0-51   |
-FEGroup   | rnty] Fosdtfs]cd Od5%cD| |   05/%20|% |
-
- LeasePlan                                                                                  20]%fearon |  af Tat PPT  a  al a
- Combined                        [30-40]               [30-40]%                   [30-40] %                      [30-
- Entity                                                                              40]%
-
- VWFS                                                                                    20|%Fee Pa Pl
-                                                                                          20|%yeTREEaeArvalFP PP
-LeaseFPLeasing aPP
-sie  |  ta) |)  af |) P|
-
- Leasingtose  | at OP  at Tt OP
-
- Leasingfoe  | at OP  at OP  OP[cartway | La} arf  | P| |  |
-or   ef sf ef    OP |
-PPOthers     a PA                                   20]%
- All                          [10-20]%                  [60-70] %                  [60-70] %                     [60-
- competitors                                                                           70|%
- combined
-
-
-
-
-           Source: Form CO, Annex 6.I.D.1 of 12 October 2022
-
-(86)      First, the combined entity would be by far the largest operational leasing companies in
-        Czechia with a combined market share of [30-40]% in 2021 ([10-20]% for LeasePlan
-        and  [10-20]%  for ALD)  with  a  significant  imcrement  brought  about by  the
-         Transaction.  All  other  operational  leasing  companies  in  Czechia  would  be
-          significantly smaller. There are only two competitors with market shares above 10%,
-       namely Volkswagen Financial Services ([{10-20]% in 2021) and Arval ([10-20]% in
-         2021), while the only other competitor with a market shares above 5% is Business
-        Lease ([5-10]% in 2021).
-
-(87)     Second,  the combined market  share of the  Parties  in the  past  four years was
-         consistently above [30-40]% and has increased by [0-5] percentage points between
-        2018 and 2021.
-
-
-
-
-
-                                                           18
 
 [PÁGINA PDF 20 | texto OCR: verificar contra el PDF]
-(88)     Third, this view of the market is supported by ALD, stating in internal documents that
-              it ‘/...]’7° and ‘/...]’.”’ Similarly, LeasePlan states in internal documents that ‘/...]’.”*
+(88)
 
-(89)     Fourth, the Parties together hold significantly higher market shares when considering
-         the market segment of large corporate customers, for which they are particularly close
-         competitors (see Section 4.2.2 above).
+Third, this view of the market is supported by ALD, stating in internal documents that
 
-    Table 4: 2018-2021 market shares by volume for operational leasing for large
-                          corporate customers in Czechia
+it ‘/...]’"° and ‘/...]’.’” Similarly, LeasePlan states in internal documents that ‘/...]’.”
 
- Sa               Market              Market               Market              Market    Group     Volumes      shareame     Volumes     shareme    Volumes      shareame     Volumes     shareame
+(89)
+
+Fourth, the Parties together hold significantly higher market shares when considering
+
+the market segment of large corporate customers, for which they are particularly close
+competitors (see Section 4.2.2 above).
+
+Table 4: 2018-2021 market shares by volume for operational leasing for large
+corporate customers in Czechia
+
+c ) 2018 2019 2020 2021
+ompany:
+Group Volumes Market Volumes Market Volumes Market Volumes Market
+share share share share
+[10-20]% [10-20]% [10-20]% [10-
+ALD [...] [...] [...] [...] 20]%
+SGEF L.-J [0-5]% [...] [0-5]% [.-.] [0-5]% [...) | [0-5]%
+SG Group [...] [0-5]% [...] [0-5]% [...] [0-5]% [...] | [0-5]%
+Total SG [10-20]% [10-20]% [10-20]% [10-
+Group [...] [...] [...] [...] 201%
+[20-30]% [20-30]% [30-35]% [30-
+LeasePlan [...] [...] [...] [...] 35]|%
+Combined [40-50]% [40-50]% [40-50] % [40-
+Entity [...] [...] [...] [...] 50]%
+[10-20]% [10-20]% [10-20]% [10-
+Arval [...] [...] [...] [...] 201%
+Business [5-10]% [5-10]% [5-10]% [0-5]%
+Lease [...] [...] [...] [...]
+VWES [...] [5-10]% [...] [0-5]% [...] [0-5]% [...] | [0-5]%
+CSOB [0-5]% [0-5]% [0-5]% [0-5]%
+Leasing [...] [...] [...] [...]
+Sixt [...] [0-5]% [...] [0-5]% [...] [0-5]% [...] | [0-5]%
+Unicredit [0-5]% [0-5]% [0-5]% [0-5]%
+Leasing [...] [...] [...] [..-]
+Raiffeisen [0-5]% [0-5]% [0-5]% [0-5]%
+Leasing [...] [..-] [...] [..-]
+Car4way L..-] [0-5]% [..-] [0-5]% L..-] [0-5]% [...] | [0-5]%
+RCI [...] [0-5]% [...] [0-5]% [...] [0-5]% [0-5]%
+[20-30]% [20-30]% [10-20]% [10-
+Others [...] [...] [...] [...] 20]%
+All
+competitors [50-60] % [50-60]% [50-60] % [50-
+combined [...] [...] [..-] [...] 60]%
+Total 73.685 100,00% 80.198 | 100,00% 64.260 100,00% 67.330 | 100,00%
+
+Source: Form CO, Annex 6.8.1
+
+When looking specifically at the large corporate customers, the Parties are by far the
+
+largest operational leasing companies in Czechia with a combined market share of
+[40-50]% in 2021 ([30-40]% for LeasePlan and [10-20]% for ALD). The combined
+market share of the Parties in the past four years was consistently above 40% with a
+significant increment brought about by the Transaction. Such market shares may in
+
+themselves be evidence of the existence of a dominant market position.
+
+(90)
+
+16 Form CO, Annex 5.4.4.3, slide 5.
+
+7 Form CO, Annex 5.4.4.3, slide 14.
+" Form CO, Annex 5.4.5.43, slide 12.
+
+79
+
+Horizontal Merger Guidelines, paragraph 17.
+
+19
+
+79
 
 
-
- ALD                                                                                       20|%
-IscerF |Sts|  sre]|   Lose
-[so Grp |  |  rf pf ese) ef |e
-
- Group                                                                                       20|%
-
-
- LeasePlan                                                                                    35]%
-
- Entity                                                                                 50]%
-
- Arval                                                                                        20]%
-
-
- LeaseFa addfvwes | | ore ee ee
-
- Leasing
-fst|S]         fos  fos ||  10-5) |
-
- Leasingfos   | pal Th OPP a
-
- Leasingfase  | pal Tah OPP a[cartway | |  pf es)  |  |  yf
-roy TS]  tosePos|        10-51% |
-
- Others                                                                                      20]%
- All
- competitors                  [50-60]%               [50-60]%                    [50-60] %                      [50-
- combined                                                                              60]%
-
-
-
-
-           Source: Form CO, Annex 6.8.1
-
-(90)   When looking specifically at the large corporate customers, the Parties are by far the
-          largest operational leasing companies in Czechia with a combined market share of
-        [40-50]% in 2021 ([30-40]% for LeasePlan and [10-20]% for ALD). The combined
-        market share of the Parties in the past four years was consistently above 40% with a
-          significant increment brought about by the Transaction. Such market shares may in
-        themselves be evidence of the existence of a dominant market position.”
-
-
-
-
-76     Form CO, Annex 5.4.4.3, slide 5.
-7     Form CO, Annex 5.4.4.3, slide 14.
-78     Form CO, Annex 5.4.5.43, slide 12.
-9       Horizontal Merger Guidelines, paragraph 17.
-
-
-
-                                                           19
 
 [PÁGINA PDF 21]
 (91)    Furthermore, all other operational leasing companies in the large corporate customers
@@ -1187,59 +1233,73 @@ roy TS]  tosePos|        10-51% |
                                                     21
 
 [PÁGINA PDF 23 | texto OCR: verificar contra el PDF]
-               Table 5: 2018-2021 market shares by volume for operational leasing in
-                                            Finland
- pooso
-                  Volumes               Volumes              Volumes              Volumes[RameeGroup     |S  [ome |S   [vom  | ST [mm0| Se
- ALD   cc cc                                    40|%PS                      share                     share                     share                   share[NFFleet(QV) | EJ]  510% | gy]   74% |   74%]   8.1% |
+Table 5: 2018-2021 market shares by volume for operational leasing in
 
-  Total SG Group                                                                                50]%woos    | oat  | a |        ae
- LeasePlan                                                                                      40]%Feenene Olr ca  c
- Combined Entity                                                                          80]%ommcnoer|  af Ea  ROR  EL a
-pArvalee TEeelS10)% TTcal    ES-100%smell|   S10)seed|al|  15-10%ma|| BankSecto Automotive |  [..J|  [0-5]5-10]%  a]   fO-SI%|5-10]% ET   5-10]%fS% |g    10-5)%0-5]% |
-[ToyotaFS | ET oS  | ES   fos] |   [0-5]  |
-|Laakkonen | |  5%] COSI] | OS]        [0-5)% |
-| WetteriHuoleton | [J] fos] Eos] S|        [0-5)% |
-|Rinta-Jouppi |} |  TOSI  TOSI |S |        10-5)  |
-|PothoEasy | EJ] OS]  POS |    fS% |        10-5]% |
-[LansiAuto |  f}] TOS TSI |   PS |         [0-5)% |
+Finland
+Company/ 2018 2019 2020 2021
 
- Others                                                                                             15]%PE  a ca  od ed Py ce
+Group Volumes warket Volumes varket Volumes warket Volumes warket
+[30-40]% [30-40]% [30-40]% [30-
+ALD [...] [...] [...] [..-] 40]%
+NF Fleet (JV) [...] [5-10]% [...] 7TA% [...] 74% [...] 8,1%
+[40-50]% [40-50]% [40-50]% [40-
+Total SG Group [...] [..-] [..-] [...] 50]%
+[30-40]% [30-40]% [30-40]% [30-
+LeasePlan [...] [...] [...] [...] 40]%
+[70-80] % [70-80]% [70-80] % [70-
+Combined Entity [...] [...] [...] [...] 80]%
+Arval [...] [5-10]% [...] [5-10]% [...] [5-10]% [...] | [5-10]%
 
+OP Corporate
+Bank [...] [5-10]% [...] [5-10]% [...] [5-10]% [...] [0-5]%
+Secto Automotive [...] [0-5]% [...] [0-5]% [...] [0-5]% [...J | [0-5]%
+Toyota FS [...] [0-5]% [..-] [0-5]% [..-] [0-5]% [..-] [0-5]%
+Laakkonen [...] [0-5]% [...] [0-5]% [..-] [0-5]% [.-.] [0-5]%
+Wetteri Huoleton [...] [0-5]% [...] [0-5]% [...] [0-5]% [...] [0-5]%
+Rinta-Jouppi [...] [0-5]% [...] [0-5]% [..-] [0-5]% [...] [0-5]%
+Porho Easy [...] [0-5]% [...] [0-5]% [...] [0-5]% [... [0-5]%
+Lansi Auto [...] [0-5]% [...] [0-5]% [...] [0-5]% [...] | [0-5]%
+[10-15]% [10-15]% [10-15]% [10-
+Others [...] [...] [...] [...] 15]%
+All competitors [20-30] % [20-30]% [20-30] % [20-
+combined [...] [...] [..-] [...] 30]%
+Total 49.239 100,0% 49.249 100,0% 48.293 100,0% 48.781 | 100,0%
 
+Source: Form CO, Annex 6.1.D.1 of 12 October 2022
 
- combined                                                                                30]%sm [pel pel em  |
+(102) Second, the parties are close competitors. The general results of the market
+investigation on closeness, as discussed in Section 4.2.2 above, also apply when
+considering the Parties’ position in Finland. The Parties are considered by the
+respondents to the market investigation who are active or sourcing operational leasing
+in Finland to be each other’s closest competitors.°? Being the largest operational
+leasing providers in Finland together with their wide international footprint gives
+them a competitive advantage to win business from large corporate customers. This is
+reflected in the market shares in the segment for corporate customers, which in 2021
+amounted to [70-80]% for the combined entity. Both ALD and LeasePlan are
+particularly strong in this segment,*! as is also confirmed by the Parties’ intemal
+documents.”
 
-                Source: Form CO, Annex 6.I.D.1 of 12 October 2022
+(103) Arval, although also an independent multinational player with large footprint in other
+countries, has not been able to attract large corporate customers in Finland, as
+indicated also by the Parties’ own internal documents.” Other operational leasing
 
-     (102)    Second,  the  parties  are  close  competitors.  The  general  results  of the market
-              investigation on closeness, as discussed in Section 4.2.2 above, also apply when
-             considering  the  Parties’  position  in Finland. The  Parties  are considered by the
-             respondents to the market investigation who are active or sourcing operational leasing
-               in Finland to be each other’s closest competitors.°? Being the largest operational
-              leasing providers in Finland together with their wide international footprint gives
-           them a competitive advantage to win business from large corporate customers. This is
-              reflected in the market shares in the segment for corporate customers, which in 2021
-           amounted  to [70-80]%  for the combined  entity. Both ALD and LeasePlan  are
-              particularly strong in this segment,*! as  is also confirmed by the Parties’ intemal
-            documents.”
+players with wide international footprint are largely absent from the Finnish market.
 
-     (103)  — Arval, although also an independent multinational player with large footprint in other
-              countries, has not been able  to  attract large corporate customers  in Finland,  as
-              indicated also by the Parties’ own internal documents.*? Other operational leasing
-             players with wide international footprint are largely absent from the Finnish market.
+Questionnaire 1 to Competitors, questions 32 and 33; Questionnaire 2 to customers, questions 34 and
+35, Questionnaire 3 to Competitors, questions 32 and 33.
 
+In contrast, in 2021 the market shares of the combined entity on the SME segment were only [60-
+70]%. Form CO, Annex 6.1.D.1 of 12 October 2022.
 
-      90       Questionnaire  1 to Competitors, questions 32 and 33; Questionnaire 2 to customers, questions 34 and
-               35, Questionnaire 3 to Competitors, questions 32 and 33.
-    a        In contrast, in 2021 the market shares of the combined entity on the SME segment were only [60-
-             70]%. Form CO, Annex 6.1.D.1 of 12 October 2022.
-    9       See e.g. Form CO, Annex 5.4.4.5, 5.4.4.42, and 5.4.5.47.
-    3     Form CO, Annex 5.4.5.47.
+See e.g. Form CO, Annex 5.4.4.5, 5.4.4.42, and 5.4.5.47.
 
+Form CO, Annex 5.4.5.47.
 
+91
 
-                                                              22
+92
+93
+
 
 [PÁGINA PDF 24]
        The competitors present on the Finnish operational leasing market are mostly smaller
@@ -1296,59 +1356,71 @@ pArvalee TEeelS10)% TTcal    ES-100%smell|   S10)seed|al|  15-10%ma|| BankSecto 
                                                     23
 
 [PÁGINA PDF 25 | texto OCR: verificar contra el PDF]
-             competitive pressure exerted by competitors is further reinforced by the fact that
-            customers can switch supplier on a regular basis.”
+competitive pressure exerted by competitors is further reinforced by the fact that
+customers can switch supplier on a regular basis.*
 
-     4.3.1.3.2.     The Commission’s assessment
+4.3.1.3.2. The Commission’s assessment
 
-     (111)   The Commission concludes that the Transaction raises serious doubts as to  its
-             compatibility with the internal market in respect of the Irish operational leasing
-            market for the following reasons.
+(111) The Commission concludes that the Transaction raises serious doubts as to its
+compatibility with the internal market in respect of the Irish operational leasing
+market for the following reasons.
 
-        Table 6: 2018-2021 market shares by volume for operational leasing in Ireland
-  es ee<<
-          1G   Cc        2
-Tap                             share                 share                 share                 shareTresserin | pq  oaore[ py ftozore|   y[ teaore|| toa[combined Ea ||.)£1] 15-01%Boor [|[yerS0-eIme ||p [=F[sore[fy|    ||eOso]TO
+Table 6: 2018-2021 market shares by volume for operational leasing in Ireland
 
-  Fleet                              0-5]%                0-5]%               5-10]%                5-10]%Fae PP
- Partnership                        [5-10]%               [5-10]%fem  [abe  ae)  al |  a)
-  Alphabet  partnerFete Al Pl[ippewis |  |  >  py) ly)  Rl |  P|
-Pi a[|
-|GowanLeasing | fy] (OS  { et se] at ose] af fos
-Trains  eu] Py) [yf sm] |  P|
-oe Dufviewsa [Lp [yf [yf em] Pe
-Foes  fy] POOP |   yf Bes     |  Too [fy | TOO]
+2018 2019 2020 2021
+Company/Group Volumes | Market | volumes | M2®Ket | volumes | Market | vorumes | Market
+share share share share
 
- combinedcoming | fT APT Pe   ee
+ALD [...] [10-20]% [...] [10-20]% [...] [10-20]% [...] [20-30]%
+LeasePlan [...] [30-40]% [...] [30-40]% [...] [40-50]% [...] [30-40]%
+Combined Entity pero |, [sooo |, yf too 70% |__| 160-701%
+Johnson & Perrott
+
+Fleet [...] | [o-s]% [...] | [0-5]% [...] | [5-10]% [...] | [5-10]%
+Athlon/Hertz [0-5]% [0-5]%
+Partnership [...] [5-10]% [...] [5-10]% [...] [...]
+
+Avis Fleet Solution [0-5]% [0-5]% [0-5]% [0-5]%
+(Alphabet partner) [...] [...] [...] [...]
+
+HB Dennis [...J}| [sl LJ} [0-5l% [J] [sl [J] [05%
+Nifti [...] | [0-5]% r...] | [0-5]% [...] | [0-5]% [...] [0-5]%
+Gowan Leasing [J] [sl pj} [0-sl% [J] [esl fj} [05%
+Haines [...J | [0-5] [...J | [0-5]% [...J | [e-5]% [...] [0-5]%
+Joe Duffy leasing [J] [sl [J] l0-l’% [J] [esl [L.-J] [051%
+Others (... | 20-301% [...] | (20-301% r...) | [0-201% ..) | [0-201%
+All competitors [40-50]% [40-50]% [30-40]% [30-40]%
+combined [...] [...] [...] [..-]
+
+Total 38,244 100.0% 36,969 100.0% 34,142 100.0% 34,634 100.0%
+
+Source: Form CO, Annex 6.1.D.1 of 12 October 2022
+
+(112) Furst, the Parties are by far the largest operational leasing companies in Ireland with a
+combined market share of [60-70]% in 2021 ([30-40]% for LeasePlan and [20-30]%
+for ALD) and with a significant increment brought about by the Transaction All other
+operational leasing companies in Ireland would be several times smaller than the
+combined entity and hold market shares below 5%, to the exception of Johnson &
+Perrott Fleet which holds market shares slightly above 5%. The other large EEA
+competitors — Arval, Alphabet and Athlon — are not present directly in Ireland but
+only through partnerships with local players and hold marginal market shares under
+5%.
+
+(113) Second, the combined market share of the Parties in the past four years has been
+above 50%, and has increased by [5-10] percentage points between 2018 and 2021.
+Such market shares may in themselves be evidence of the existence of a dominant
+market position.”
+
+(114) Third, this view of the market is supported by LeasePlan, stating in internal
+documents that ALD is ‘/...]’!° or referred to ALD as a ‘/...]’.!°! Moreover, ALD
+
+98 Form CO, Annex 6.10, paragraph 21.
+Horizontal Merger Guidelines, paragraph 17.
+100 Form CO, Annex 5.4.5.51, slide 13.
+
+24
 
 
-                Source: Form CO, Annex 6.1.D.1 of 12 October 2022
-
-     (112)    First, the Parties are by far the largest operational leasing companies in Ireland with a
-           combined market share of [60-70]% in 2021 ([30-40]% for LeasePlan and [20-30]%
-               for ALD) and with a significant increment brought about by the Transaction All other
-              operational leasing companies in Ireland would be several times smaller than the
-           combined entity and hold market shares below 5%, to the exception of Johnson &
-               Perrott Fleet which holds market shares slightly above 5%. The other large EEA
-             competitors — Arval, Alphabet and Athlon — are not present directly in Ireland but
-             only through partnerships with local players and hold marginal market shares under
-           5%.
-
-     (113)    Second, the combined market share of the Parties in the past four years has been
-            above 50%, and has increased by [5-10] percentage points between 2018 and 2021.
-           Such market shares may in themselves be evidence of the existence of a dominant
-            market position.”
-
-     (114)    Third,  this view of the market  is  supported by LeasePlan,  stating  in  internal
-            documents that ALD is ‘/...]’!° or referred to ALD asa  ‘/...]’.!°! Moreover, ALD
-
-
-       98     Form CO, Annex 6.10, paragraph 21.
-      99       Horizontal Merger Guidelines, paragraph 17.
-        100     Form CO, Annex 5.4.5.51, slide 13.
-
-
-                                                               24
 
 [PÁGINA PDF 26]
          indicates in an internal document that LeasePlan is the ‘[…]’102 on the Irish market.
@@ -1407,69 +1479,91 @@ Foes  fy] POOP |   yf Bes     |  Too [fy | TOO]
                                                     25
 
 [PÁGINA PDF 27 | texto OCR: verificar contra el PDF]
-(122)    Seventh, the majority of competitors having expressed an opinion were of the view
-          that the Transaction would have a negative impact in Ireland on the competitive
-          situation on the market and on prices.!!! A significant minority of the customers
-        having expressed an opinion was concemed that the Transaction would have  a
-         negative impact on  its  ability to source operational  leasing  services, about half
-         considered the impact neutral and only a small minority expected a positive impact.!!”
-         Furthermore,  a  significant mimority of customers  that expressed an opinion was
-       concemed that the Transaction would have a negative impact on prices. !!?
+(122)
 
-4.3.1.3.3.     Conclusions
+4.3.1.3.
 
-(123)   Based on the results of the market investigation and all the evidence available to it, the
-       Commission preliminarily finds that the Transaction raises serious doubts as to its
-         compatibility with the internal market in respect of operational leasing in Ireland.
+(123)
 
-4.3.1.4. Luxembourg
+4.3.1.4.
+4.3.1.4.
 
-4.3.1.4.1.     The Notifying Party’s views
+(124)
 
-(124)   The  Notifying  Party  submits  that  the  Parties’  combined  market  shares  for
-         operational leasing in Luxembourg are not fully representative of the competitive
-         landscape, considering that the combined entity will face credible competitors,
-         including companies traditionally focused on financial leases and loans, in a market
-         characterized by low barriers to entry and expansion where customers can easily
-        switch providers.!!4
+4.3.1.4.
 
-4.3.1.4.2.     The Commission’s assessment
+(125)
 
-(125)   The Commission concludes that the Transaction raises serious doubts as to  its
-         compatibility with the internal market in respect of the market for operational
-         leasing in Luxembourg for the following reasons.
+Seventh, the majority of competitors having expressed an opinion were of the view
+that the Transaction would have a negative impact in Ireland on the competitive
+situation on the market and on prices.!!! A significant minority of the customers
+having expressed an opinion was concermed that the Transaction would have a
+negative impact on its ability to source operational leasing services, about half
+considered the impact neutral and only a small minority expected a positive impact.!!”
+Furthermore, a significant minority of customers that expressed an opinion was
+concemed that the Transaction would have a negative impact on prices. '??
+
+3. Conclusions
+
+Based on the results of the market investigation and all the evidence available to it, the
+Commission preliminarily finds that the Transaction raises serious doubts as to its
+compatibility with the internal market in respect of operational leasing in Ireland.
+
+Luxembourg
+1. The Notifying Party’s views
+
+The Notifying Party submits that the Parties’ combined market shares for
+operational leasing in Luxembourg are not fully representative of the competitive
+landscape, considering that the combined entity will face credible competitors,
+including companies traditionally focused on financial leases and loans, in a market
+characterized by low barriers to entry and expansion where customers can easily
+switch providers.!!4
+
+2. The Commission’s assessment
+
+The Commission concludes that the Transaction raises serious doubts as to its
+compatibility with the internal market in respect of the market for operational
+leasing in Luxembourg for the following reasons.
+
+Table 7: 2018-2021 market shares by volume for operational leasing in Luxembourg
+
+Ta 2018 2019 2020 2021
+Group Volumes Market Volumes Warket Volumes warket Volumes Warket
+
+ALD [...] | [20-30]% [...] | [30-40]% [...] | [30-40]% [...] [30-40]%
+LeasePlan [...] | [10-20]% [...] | [10-20]% [...] | [10-20]% [...] [10-20]%
+Combined [40-50]% [40-50] % [40-50] % [40-50] %
+Entity [..-] [..-] [...] [..-]
+
+Arval [...] na [...] | [10-20]% [...] | [20-30]% [...] [20-30]%
+KBC AutoLease [...] na [...] | [10-20]% [...] | [10-20]% [...] [10-20]%
+Alphabet [...] na [...] [5-10]% [..-] [5-10]% [...] [5-10]%
+Athlon [...] na [...] [0-5]% [...] [0-5]% [...] [0-5]%
+Autodiffusion na [0-5]% [0-5]% [0-5]%
+Losch [..-] [..-] [..-] [..-]
+
+Autolux [...] na [...] na [...] na [...] na
+Others [..-] na [..-] [5-10]% [..-] [5-10]% [...] [5-10]%
+All competitors [..] [50-60]% [J [50-60] % [J [50-60] % [J [50-60] %
+combined _ _ _ _
+
+Total 45.801 100,0% 46.801 100,0% 46.457 100.0% 50.419 100,0%
+
+Source: Form CO, Annex 6.1.D.1 of 12 October 2022
+
+lll
+112
+113
+114
+
+Questionnaire Q1 to Competitors, questions 41 and 42.
+Questionnaire Q2 to Customers, question 37.
+Questionnaire Q2 to Customers, question 37.
+Form CO, Annex 6.12 — competitive assessment for core activities — Luxembourg, para 24ff.
+
+26
 
 
-
- Table 7: 2018-2021 market shares by volume for operational leasing in Luxembourg
-   Company) P2018 [2019 a  ne
-
-                               share                 share                 share                 share
-FALD | J [20-30% | J  f30-40J% |] | f30-40]% |]   [30-40% |
-[LeasePlan | [J | [10-20%] [J | [10-20J% |  f-] | [10-20]% | J    [10-20]  |
-
- EntityFlpArval  | OT naKad JLlft0-20J% |]NO| f20-30]% |]    [20-30]2%a|
-|KBC AutoLease | [J[na J  [10-20J% |] | f0-20J% |]   [10-20% |
-|Alphabet   | [J [na ET  5-10 |]   fS-10J% |]     [5-10]
-pAthlon | fT na]   foso  fos   | ET     f0-5]2% |
-
- Losch                     Le                                                  LeFe ElfAutoux | Tn  na  ma |  ta
-fOthers {Tn |     St0% | |  S10}  | |     [5-10]   |
-
-
- combinedFeil EK Kaa
-
-          Source: Form CO, Annex 6.1.D.1 of 12 October 2022
-
-
-ml      Questionnaire Q1 to Competitors, questions 41 and 42.
-12      Questionnaire Q2 to Customers, question 37.
-13      Questionnaire Q2 to Customers, question 37.
-14     Form CO, Annex 6.12 — competitive assessment for core activities — Luxembourg, para 24ff.
-
-
-
-                                                        26
 
 [PÁGINA PDF 28]
 (126)    First, the Commission considers that the high combined market shares of the
@@ -1570,66 +1664,85 @@ ml      Questionnaire Q1 to Competitors, questions 41 and 42.
                                                     28
 
 [PÁGINA PDF 30 | texto OCR: verificar contra el PDF]
-    Table 8: 2018-2021 market shares by volume for operational leasing in Norway
-  Company) |———20#8___|_2019_s| 2020 0
+Table 8: 2018-2021 market shares by volume for operational leasing in Norway
 
-                            share                 share                 share                 share
-FALD | CT  f5-10J% |      f5-10J% |]   f5-10J% |] |  [5-10)% |
-|NFFleet(TV) | [J]fo-sf[f-J]fo-syo
- Group PPES|LeasePlan |   ...J | [20-30]% |...  | [20-30]% |]|  J] [30-40]%fos  ||]|EJ |  [30-40)%f0-5]% ||
+aemenees 2018 2019 2020 2021
+Group Volumes Market Volumes Warket Volumes Warket Volumes Warket
 
- Entity                   40-50]%             40-50]%             40-50]%             40-50]%rane   | cf yosoee|  alwsme| pf yosoee| pal  wosoes,
-[DNB    | ET  fS-10J%  | |   fS-10)% | |   fS-10J% |]    [5-10)% |
+ALD [..-] [5-10]% [...] [5-10]% [...] [5-10]% [...] [5-10]%
+NF Fleet (JV) [...] [0-5]% [...] [0-5]% [...] [0-5]% [...] [0-5]%
+Total SG [10-20]% [10-20]% [10-20]% [10-20]%
+Group [...] [...] [...] [...]
+LeasePlan [...] | [20-30]% [...] | [20-30]% [...] | [30-40]% [...] [30-40]%
+Combined
+Entity [...] | [40-50]% [...] | [40-50]% [...] | [40-50]% [..-] | [40-50]%
+DNB [..-] [5-10]% [...] [5-10]% [...] [5-10]% [..-] [5-10]%
+SpareBank 1
+/ Bilplan / [5-10]% [5-10]% [5-10]% [5-10]%
+Autoplan [..-] [...] [...] [...]
+BMW FS [..-] [0-5]% [...] [0-5]% [..-] [0-5]% [...] [0-5]%
+Arval [..-] na [..-] [0-5]% [..-] [0-5]% [...] [0-5]%
+Others [...] | [40-50]% [...] | [40-50]% [...] | [40-50]% [...] [40-50]%
+All
+competitors [50-60] % [50-60] % [50-60] % [50-60] %
+combined [..-] [...] [...] [...]
+Total 106.392 100,0% | 111.509 100.0% | 104.66 100.0% | 105.969 100.0%
 
-  / Bilplan /                   [5-10]%               [5-10]%               [5-10]%                [5-10]%
- AutoplanPe PSee[BMWFS |...  fos {| fo-syo|]   fo-s% |] |   f0-5]% |
-pArval | Ema | |  fos  | |  oso | |    [0-5] |
-| Others  |...) | [40-S0]% | _[...] | [40-So]%o |... | [40-soJyo |   ...] | [40-50]% |
+(138)
 
+(139)
 
+(140)
 
- combinedAllBee[Total | [lel106.392 | _100,0%  | 111.509ome| _100,0% | 104.665feel| 100.0% | 105.969 | __ 100.0%ae|
+(141)
 
-           Source: Form CO, Annex 6.1.D.1 of 12 October 2022
+Source: Form CO, Annex 6.1.D.1 of 12 October 2022
 
-(138)    Second,  the  parties  are  close  competitors.  The  general  results  of the market
-         investigation on closeness, as discussed in Section 4.2.2 above, also apply when
-         considering  the  Parties’  position  in Norway. The  Parties  are considered by the
-         respondents to the market investigation who are active or sourcing operational leasing
-          in Norway to be each other’s closest competitors.!?! Being the largest operational
-         leasing providers in Norway and their wide imternational footprint gives them a
-         competitive  advantage  to  win  business  from  large  corporate  customers. By
-        comparison, Arval who is the only other big multinational player active in Norway,
-        has only a limited presence on this market. The other players in Norway are local,
-       more distant competitors of the Parties. The internal documents of the Parties specific
-          to the Norwegian market also confirm they are each other’s close competitors.!7
+Second, the parties are close competitors. The general results of the market
+investigation on closeness, as discussed in Section 4.2.2 above, also apply when
+considering the Parties’ position in Norway. The Parties are considered by the
+respondents to the market investigation who are active or sourcing operational leasing
+in Norway to be each other’s closest competitors.!2! Being the largest operational
+leasing providers in Norway and their wide international footprint gives them a
+competitive advantage to win business from large corporate customers. By
+comparison, Arval who is the only other big multinational player active in Norway,
+has only a limited presence on this market. The other players in Norway are local,
+more distant competitors of the Parties. The internal documents of the Parties specific
+to the Norwegian market also confirm they are each other’s close competitors.!7”
 
-(139)    Third, LeasePlan is an important competitive force in Norway, as shown in particular
-       by its strength in the corporate customers segment, where it held [40-50]% on its own
-          in 2021.'”? This is all the more significant, because corporate customers are estimated
-          to  constitute around 60% of the  total operational  leasing market by volume  in
-        Norway.!”4
+Third, LeasePlan is an important competitive force in Norway, as shown in particular
+by its strength in the corporate customers segment, where it held [40-50]% on its own
+in 2021.'*? This is all the more significant, because corporate customers are estimated
+to constitute around 60% of the total operational leasing market by volume in
+Norway.!”4
 
-(140)    Fourth, the  Commission considers that the threat of customers switching would not be
-          sufficient to significantly constrain the combined entity. This is because most of the
-          Parties’ competitors are not considered as equally close substitutes by both customer
-        and competitor respondents. For corporate customers in particular, the number of
-          suitable alternatives might be more limited, since local players might not be in a
-         position to offer them the digital services and international footprint they require.
+Fourth, the Commission considers that the threat of customers switching would not be
+sufficient to significantly constrain the combined entity. This is because most of the
+Parties’ competitors are not considered as equally close substitutes by both customer
+and competitor respondents. For corporate customers in particular, the number of
+suitable alternatives might be more limited, since local players might not be in a
+position to offer them the digital services and international footprint they require.
 
-(141)    Fifth, in line with what has been discussed above in Section 4.2.3, the  Commission
-         considers that barriers to entry are high in relation to the Norwegian operational
+Fifth, in line with what has been discussed above in Section 4.2.3, the Commission
+considers that barriers to entry are high in relation to the Norwegian operational
 
+121
 
-121      Questionnaire  1 to Competitors, questions 32 and 33; Questionnaire 2 to Customers, questions 34 and
-         35, Questionnaire 3 to competitors, questions 32 and 33.
-122      See e.g. Form CO, Annex 5.4.4.51.
-123     Form CO, Annex 6.1.D.1 of 12 October 2022.
-124      Calculation made on the basis of Form CO, Annex 6.1.D.1 of 12 October 2022.
+122
+123
+124
 
+Questionnaire 1 to Competitors, questions 32 and 33; Questionnaire 2 to Customers, questions 34 and
+35, Questionnaire 3 to competitors, questions 32 and 33.
 
+See e.g. Form CO, Annex 5.4.4.51.
 
-                                                        29
+Form CO, Annex 6.1.D.1 of 12 October 2022.
+
+Calculation made on the basis of Form CO, Annex 6.1.D.1 of 12 October 2022.
+
+29
+
 
 [PÁGINA PDF 31]
          leasing market and that the threat to entry would not be a sufficient competitive
@@ -1672,61 +1785,93 @@ pArval | Ema | |  fos  | |  oso | |    [0-5] |
                                                     30
 
 [PÁGINA PDF 32 | texto OCR: verificar contra el PDF]
-           Table 9: 2018-2021 market shares by volume for operational leasing services in
-                                            Portugal
-  Company) -}———2018__|2019 |  ozo | tt
-   Group    Volumes  eee    Volumes en   Volumes oe   Volumes nn
-aco)              share                  share                share                shareTrewsebin [L600ca] to20re[[py  |[to20reBoe  |[pypy [oor[Oso |p|[| To2oreBoma
+Table 9: 2018-2021 market shares by volume for operational leasing services in
 
- EntityEP  Pal PL  elPine  a) Ry oy ey|e
-fama fT  Oe] |  tom] |  10m] py| S106 |
-Croewer  |  Ly) 50Re[  ore[ orey[ore
-vwesTrreezwionefgg]py] os] | os] py  [oso |Cation     | Lap  a] Py]jothers | Eagy]  Se]eff|  oso] ||  os]se pyyy] she[oslo |
+Portugal
+2018 2019 2020 2021
+
+Company/
+
+Group Volumes a Volumes a Volumes wi Volumes ee
+
+share share share share
+
+ALD [...] [10-20]% [...] [10-20]% [...] [10-20]% [...] [10-20]%
+LeasePlan [...] | _[50-60]% [...] | 60-60]% [...] | 140-501% [...] | 50-601%
+Combined [60-70]% [60-70] % [60-70] % [60-70] %
+Entity [.--] [.--] [.--] [.--]
+Kinto [...] [5-10]% [...] [5-10]% [...] [5-10]% [...] [5-10]%
+Arval [...] [5-10]% [... [5-10]% [... [5-10]% [... [5-10]%
+Locarent [J } _B-10l% pj | 5-101% p..J | B-10l’% [...J | 6-101%
+VWFS L.-J [0-5}% [J | les!’ LJ} [05!’% [J] (05)
+Free2Move [...] [0-5]% (...] | [0-5l% [...J|  [-5]% r.J| (esl
+Athlon L.-J [0-5]% pj} [051% LJ} los!’ [J] [051%
+Others LJ [0-5]% Lj | [051% Lj} [051% pj] [esl
+Total 112,20 100.0% 116,32 100.0% | 117,70 100.0% | 113,784 100.0%
+
+(146)
+
+(147)
+
+(148)
+
+(149)
+
+(150)
+
+Source: Form CO, Annex 6.1.D.1 of 12 October 2022
+
+First, the Parties are by far the largest operational leasing companies in Portugal
+with a combined market share of [60-70]% ([50-60]% for LeasePlan and [10-20]%
+for ALD). Such market shares may in themselves be evidence of the existence of a
+dominant market position.!”” Indeed, LeasePlan Portugal describes itself internally
+as ‘the market reference, perceived as innovative in its approach, being followed
+by others and literally copied. **
+
+All other operational leasing companies in Portugal would be several times smaller
+than the combined entity and its main competitors in Portugal Kinto, Arval and
+Locarent, hold market shares of about 8% each.
+
+Locarent, a joint venture between two local financial institutions Caixa Geral de
+Depositos and Novo Banco, is not an independent competitor to LeasePlan.
+Locarent is able to provide operational leasing services only through a partnership
+agreement with LeasePlan under which LeasePlan provides [...]!7°[...].
+
+This view of the market is supported by ALD, stating in an internal document that
+the ‘/...].’?°
+
+Second, the considerations described above suggesting that the Parties are close
+competitors in the EEA in general apply with respect to Portugal. Indeed, an
+internal document of LeasePlan regarding Portugal describe ALD as its ‘/...]’.)?!
+The large majority of competitors having expressed an opinion in the market
+investigation were of the view that the Parties are ‘very close’ competitors of each
+other.!?? Similarly, a large majority of customers sourcing operational leasing
+services in Portugal considered the Parties as ‘very close competitors.
+
+127
+128
+129
+130
+131
+132
+133
+
+Horizontal Merger Guidelines, paragraph 17.
+
+Form CO, Annex 5.4.5.57, page 12.
+
+From CO, Annex 6.16, paragraph 22.
+
+Form CO, Annex 5.4.4.53, page 53.
+
+Form CO, Annex 5.4.5.71, page 48.
+
+Questionnaire Q1 to Competitors, questions 32 and 33.
+Questionnaire Q2 to Customers, question 34 and 35.
+
+31
 
 
-
-              Source: Form CO, Annex 6.1.D.1 of 12 October 2022
-
-   (146)    First, the Parties are by far the largest operational leasing companies in Portugal
-          with a combined market share of [60-70]% ([50-60]% for LeasePlan and [10-20]%
-            for ALD). Such market shares may in themselves be evidence of the existence of a
-          dominant market position.!?’ Indeed, LeasePlan Portugal describes itself internally
-            as  ‘the market reference, perceived as innovative in  its approach, being followed
-          by others and literally copied. !**
-
-   (147)   All other operational leasing companies in Portugal would be several times smaller
-           than the combined entity and  its main competitors in Portugal Kinto, Arval and
-           Locarent, hold market shares of about 8% each.
-
-   (148)   Locarent,  a joint venture between two local financial institutions Caixa Geral de
-           Depositos and Novo Banco,  is  not an independent  competitor  to  LeasePlan.
-          Locarent is able to provide operational leasing services only through a partnership
-          agreement with LeasePlan under which LeasePlan provides [...]!?°[...].
-
-   (149)   This view of the market is supported by ALD, stating in an internal document that
-            the  ‘/...J. °°
-
-   (150)   Second, the considerations described above suggesting that the Parties are close
-           competitors  in the EEA in general apply with respect to Portugal.  Indeed, an
-            internal document of LeasePlan regarding Portugal describe ALD as  its  ‘/...]’.)°!
-         The  large majority of competitors having expressed an opinion  in the market
-            investigation were of the view that the Parties are ‘very close’ competitors of each
-             other.!*?  Similarly,  a  large majority of customers  sourcing  operational leasing
-            services in Portugal considered the Parties as ‘very close competitors.!7
-
-
-
-    127      Horizontal Merger Guidelines, paragraph 17.
-    128     Form CO, Annex 5.4.5.57, page 12.
-    129     From CO, Annex 6.16, paragraph 22.
-    130     Form CO, Annex 5.4.4.53, page 53.
-   BI     Form CO, Annex 5.4.5.71, page 48.
-     132      Questionnaire Q1 to Competitors, questions 32 and 33.
-     133      Questionnaire Q2 to Customers, question 34 and 35.
-
-
-
-                                                                    31
 
 [PÁGINA PDF 33]
 (151)    Third, the Commission considers that the threat of customers switching would not be

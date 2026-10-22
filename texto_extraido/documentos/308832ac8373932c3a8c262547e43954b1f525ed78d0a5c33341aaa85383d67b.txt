@@ -1161,67 +1161,71 @@ Source: Form CO - […]
 [PÁGINA PDF 23 | texto OCR: verificar contra el PDF]
 5.4.1.1. Market shares
 
-
 Table 1: Market share estimates for laminated dough products supplied to retailers
-         in Belgium
+in Belgium
 
-       Supplier                     Estimated market shares (by volume)
+ap timated market shares (by volume
 
-       Délifrance             [10-20%]             [10-20%]             [10-20%]
+| ore | 2023 | 2022
 
-    Vandemoortele           [20-30%]             [20-30%]             [20-30%]
-        Group
-     Combined            [40-50%]             [30-40%]             [30-40%]
+Délifrance [10-20%] [10-20%] [10-20%]
+
+Vandemoortele [20-30%] [20-30%] [20-30%]
+Group
+
+Combined [40-50%] [30-40%] [30-40%]
 
 Source: Annex 6.2-A to the Form CO
 
+Table 2: Market share estimates for laminated dough products supplied to
+foodservice customers in Belgium
 
-Table  2: Market  share  estimates  for laminated dough  products  supplied  to
-        foodservice customers in Belgium
+timated market shares (by volume
 
-        Supplier                     Estimated market shares (by volume)
+| ___Estimated market shares (by volume) |
+ee ee ee
 
-
-        Délifrance             [10-20%]            [10-20%]             [10-20%]
-
-  Vandemoortele Group        [10-20%]            [10-20%]             [10-20%]
-      Combined             [30-40%]            [30-40%]            [30-40%]
+Délifrance [10-20%] [10-20%] [10-20%]
+Vandemoortele Group [10-20%] [10-20%] [10-20%]
+Combined [30-40%] [30-40%] [30-40%]
 
 Source: Annex 6.2-A to the Form CO
 
 5.4.1.2. The Notifying Party’s views
 
-(100)   The Notifying Party submits that no competition concerns arise with respect to
-         the manufacture and supply of frozen morning goods (and all potential sub-
-        segmentations) to retail and foodservice customers in Belgium for the following
-         reasons. (1!)
+(100) The Notifying Party submits that no competition concerns arise with respect to
+the manufacture and supply of frozen morning goods (and all potential sub-
+segmentations) to retail and foodservice customers in Belgium for the following
+reasons. (11°)
 
-(101)    First, the market shares do not accurately reflect market dynamics  as they
-         fluctuate significantly due to frequent retendering processes of customers. (11°)
+(101) First, the market shares do not accurately reflect market dynamics as they
+fluctuate significantly due to frequent retendering processes of customers. (11°)
 
-(102)   Second, many competitors with sufficient capacity to supply currently exercise
-        competitive pressure on the Parties and will continue to do so post-Transaction.
-         Indeed, the Notifying Party argues that the market is highly competitive, with
-         multiple suppliers in and out of Belgium offering similar products including La
-         Lorraine, Lantmannen Unibake, Bridor and Diversi Foods (!!”), and significant
-         capacity is expected to be added in the coming years (118).
+(102) Second, many competitors with sufficient capacity to supply currently exercise
+competitive pressure on the Parties and will continue to do so post-Transaction.
+Indeed, the Notifying Party argues that the market is highly competitive, with
+multiple suppliers in and out of Belgium offering similar products including La
+Lorraine, Lantmannen Unibake, Bridor and Diversi Foods (12), and significant
+capacity is expected to be added in the coming years (11%).
 
-(103)    Third, the retail channel in Belgium is concentrated, with the top five customers
-        accounting for more than 80% of demand. (!!%) Similarly, the Notifying Party
-         estimates that the top six wholesalers in Belgium represent approximately 48% of
-         the supplies of frozen morning goods to the foodservice channel. In addition,
+(103) Third, the retail channel in Belgium is concentrated, with the top five customers
+accounting for more than 80% of demand. (!!°) Similarly, the Notifying Party
+estimates that the top six wholesalers in Belgium represent approximately 48% of
+the supplies of frozen morning goods to the foodservice channel. In addition,
 
+(4) Form CO, paras. 347 et seq.
 
+(1% Form CO, para. 859.
 
+(7) Form CO, para. 859.
 
-(4)    Form CO, paras. 347 et seq.
-(16)    Form CO, para. 859.
-(7)     ‘Form CO, para. 859.
-(238)    Form CO, para. 352, and para. 859, which relates to production capacity for laminated dough
-         products.
-(9)    Form CO, paras. 353-354.
+(18) Form CO, para. 352, and para. 859, which relates to production capacity for laminated dough
+products.
 
-                                                         22
+(1%) Form CO, paras. 353-354.
+
+22
+
 
 [PÁGINA PDF 24]
         according to the Notifying Party, switching is easy, and retailers regularly threaten
@@ -1280,71 +1284,68 @@ Source: Annex 6.2-A to the Form CO
                                                      23
 
 [PÁGINA PDF 25 | texto OCR: verificar contra el PDF]
-          sufficient  alternatives  post-transaction. (17°) For  instance,  as regards  frozen
-        bakery products in general, a retailer explained that: “new suppliers are always
-        explored and taken into consideration (...) [the customer] jas several alternative
-         suppliers available’. (13°) In addition, several retailers and foodservice customers
-        confirmed  that they procure laminated dough products from manufacturers
-         located outside of Belgium. (131)
+sufficient alternatives post-transaction. ('7°) For instance, as regards frozen
+bakery products in general, a retailer explained that: “new suppliers are always
+explored and taken into consideration (...) [the customer] jas several alternative
+suppliers available’. (3°) In addition, several retailers and foodservice customers
+confirmed that they procure laminated dough products from manufacturers
+located outside of Belgium. (31)
 
-(109)   Competitors also confirmed this trend with several of them, either manufacturing
-         in or out of Belgium, confirming that they supply their products to Belgian
-          retailers and foodservice customers. (1°)
+(109) Competitors also confirmed this trend with several of them, either manufacturing
+in or out of Belgium, confirming that they supply their products to Belgian
+retailers and foodservice customers. (1°)
 
-(110)    Third, the vast majority of customers and several competitors that participated in
-         the market investigation considered that the Transaction will have no impact on
-         the market for the manufacture and supply of laminated dough products to
-          retailers in Belgium. (!**)
+(110) Third, the vast majority of customers and several competitors that participated in
+the market investigation considered that the Transaction will have no impact on
+the market for the manufacture and supply of laminated dough products to
+retailers in Belgium. (!**)
 
-(111)   In light of the above, the Transaction is unlikely to raise serious doubts as to its
-         compatibility with the internal market or a substantial part of it in relation to the
-        market for laminated dough products whether supplied to retailers or foodservice
-        customers in Belgium.
+(111) In light of the above, the Transaction is unlikely to raise serious doubts as to its
+compatibility with the internal market or a substantial part of it in relation to the
+market for laminated dough products whether supplied to retailers or foodservice
+customers in Belgium.
 
-5.5.     Horizontally affected markets in France
+5.5. Horizontally affected markets in France
 
-5.5.1.   Manufacture and supply oflaminated dough products to retailers
+5.5.1. | Manufacture and supply of laminated dough products to retailers
 
-(112)   The Transaction gives rise to a horizontally affected market with respect to the
-        manufacture and supply of laminated dough products to retailers in France.
-
+(112) The Transaction gives rise to a horizontally affected market with respect to the
+manufacture and supply of laminated dough products to retailers in France.
 
 5.5.1.1. Market shares
 
-
 Table 3: Market share estimates for laminated dough products supplied to retailers
-         in France
 
-         Supplier                 Estimated market shares (by volume)
+in France
+stimated market shares (by volume
+Délifrance [10-20%] [10-20%] [10-20%]
+Vandemoortele Group [30-40%] [30-40%] [30-40%]
+Combined [40-50%] [40-50%] [50-60%]
 
-                              2024             2023             2022
+Source: Annex 5.4-I and Annex 6.2-A to the Form CO
 
-        Délifrance              [10-20%]            [10-20%]           [10-20%]
+(113) Table 3 illustrates the Parties’ market share estimates of laminated dough products
+supplied to retailers in France according to the GIRA database. (!**) Together, the
+Parties hold [40-50%] of the market in 2024 out of a total market size of [...]kT.
 
-  Vandemoortele Group        [30-40%]            [30-40%]           [30-40%]
+(114) However, the Notifying Party contested the reliability of the above total market
+size estimate and proposed a bottom-up approach based on the tendered volumes
 
-      Combined             [40-50%]           [40-50%]           [50-60%]
+(2?9) Responses to the Market Questionnaire for Customers, Question N.1-1.
 
-Source: Annex 5.4-I and Annex 6.2-A to the  Form CO
+(3°) Minutes from a call of 10 July 2025 with a customer (retailer).
 
-(113)   Table3  illustrates the Parties’ market share estimates oflaminated dough products
-         supplied to retailers in France according to the GIRA database. (!3*) Together, the
-         Parties hold [40-50%] of the market in 2024 out of a total market size of [...]kT.
+(31) Responses to the Market Questionnaire for Customers, Question N.1-2.
 
-(114)   However, the Notifying Party contested the reliability of the above total market
-          size estimate and proposed a bottom-up approach based on the tendered volumes
+(3°) Responses to the Market Questionnaire for Competitors, Question N.1-2.
 
+(33) Responses to the Market Questionnaire for Customers, Question N.1-3; Responses to the Market
+Questionnaire for Competitors, Question N.1-3.
 
+(34) Form CO - Annex 5.4-F — GIRA Bake-off Bakery report for France.
 
-(?9)    Responses to the Market Questionnaire for Customers, Question N.1-1.
-(3°)    Minutes froma call of 10 July 2025 with a customer (retailer).
-(31)    Responses to the Market Questionnaire for Customers, Question N.1-2.
-(37)    Responses to the Market Questionnaire for Competitors, Question N.1-2.
-(333)    Responses to the Market Questionnaire for Customers, Question N.1-3; Responses to the Market
-        Questionnaire for Competitors, Question N.1-3.
-(34)    Form CO - Annex 5.4-F — GIRA Bake-off Bakery report for France.
+24
 
-                                                       24
 
 [PÁGINA PDF 26]
          of some of the major French  retailers as well as an ad hoc report from
@@ -1670,70 +1671,95 @@ Source: Annex 5.4-I and Annex 6.2-A to the  Form CO
                                                      30
 
 [PÁGINA PDF 32 | texto OCR: verificar contra el PDF]
-(158)    Starting in-house production of laminated dough products does not appear likely.
-         Several retailers submitted that they would not be able to start producing their
-      own products as the bakery sector  is experiencing  significant  staff (bakers)
-         shortages making it difficult to switch to in-house production. (17!)
+(158)
 
-(159)    Finally, the possibility for customers to sponsor entry is also not likely as the
-        majority ofcustomers consider it essential for  a manufacturer to have a production
-          facility in France and there is limited spare capacity currently available on French
-           sites. (17?) Sponsoring new entry would therefore require the addition of new
-        production lines or the building of new production facilities in France which,
-        based on the results ofthe market investigation mentioned above, would take over
-       two years to complete and cost over EUR 15 million. (17%)
+(159)
 
-(160)   In  light  of  the  above,  the  Commission  considers  there   is  insufficient
-         countervailing buyer power to prevent the Parties from significantly impeding
-        competition post-Transaction.
+(160)
 
+5.5.1.4.
 
-5.5.1.4. Conclusion
+(161)
 
-(161)    Inview ofthe Parties’ large market shares, the limited number ofcompetitors, the
-       low spare capacity, the limited likelihood of entry or expansion, and the absence
-        of significant buyer power, the  Commission considers that the Transaction raises
-         serious doubts as to its compatibility with the internal market or a substantial part
-        of it in relation to the market for the manufacture and supply of laminated dough
-        products to retailers in France.
+5.5.2.
+(162)
 
-5.5.2.   Manufacture and supply oflaminated dough products tofoodservice customers
+5.5.2.1.
 
-(162)   The Transaction gives rise to a horizontally affected market with respect to the
-        manufacture and supply of laminated dough products to foodservice customers in
-         France.
+Table
 
+5.5.2.2.
 
-5.5.2.1. Market shares
+(163)
 
+Starting in-house production of laminated dough products does not appear likely.
+Several retailers submitted that they would not be able to start producing their
+own products as the bakery sector is experiencing significant staff (bakers)
+shortages making it difficult to switch to in-house production. (17!)
 
-Table  4: Market  share  estimates  for laminated dough  products  supplied  to
-        foodservice customers in France (14)
+Finally, the possibility for customers to sponsor entry is also not likely as the
+majority of customers consider it essential for a manufacturer to have a production
+facility in France and there is limited spare capacity currently available on French
+sites. (1’2) Sponsoring new entry would therefore require the addition of new
+production lines or the building of new production facilities in France which,
+based on the results of the market investigation mentioned above, would take over
+two years to complete and cost over EUR 15 million. ('7%)
 
-      Supplier                   Estimated market shares (by volume)
+In light of the above, the Commission considers there is insufficient
+countervailing buyer power to prevent the Parties from significantly impeding
+competition post-Transaction.
 
+Conclusion
 
-       Délifrance        [10-20%]-[10-20%]    [10-20%]-[10-20%]    [10-20%]-[10-20%]
+In view of the Parties’ large market shares, the limited number of competitors, the
+low spare capacity, the limited likelihood of entry or expansion, and the absence
+of significant buyer power, the Commission considers that the Transaction raises
+serious doubts as to its compatibility with the internal market or a substantial part
+of it in relation to the market for the manufacture and supply of laminated dough
+products to retailers in France.
 
- Vandemoortele Group   [20-30%]-[30-40%]    [20-30%]-[30-40%]    [20-30%]-[30-40%]
-     Combined       [30-40% ]-[40-50%]  [30-40%]-[40-50%]    [30-40%]-[40-50%]
+Manufacture and supply of laminated dough products to foodservice customers
 
+The Transaction gives rise to a horizontally affected market with respect to the
+manufacture and supply of laminated dough products to foodservice customers in
+France.
+
+Market shares
+
+4: Market share estimates for laminated dough products supplied to
+foodservice customers in France (14)
+
+timated market shares (by volume
+
+| ____Esthmated market shares (by volume) |
+a ee ee
+Délifrance [10-20%]-[10-20%]  [10-20%]-[10-20%] [10-20%]-[10-20%]
+Vandemoortele Group [20-30%]-[30-40%] | [20-30%]-[30-40%]  [20-30%]-[30-40%]
+Combined [30-40%]-[40-50%] [30-40%]-[40-50%] [30-40%]-[40-50%]
 Source: Annex 6.2-A to the Form CO.
 
+The Notifying Party’s views
 
-5.5.2.2. The Notifying Party’s views
+The Notifying Party did not submit specific arguments related to the manufacture
+and supply of laminated dough products to foodservice customers in France.
 
-(163)   The Notifying Party did not submit specific arguments related to the manufacture
-        and supply of laminated dough products to foodservice customers in France.
+(71)
+(*”)
+(73)
 
+(74)
 
-(7)    Minutes from a call of 3 July 2025 with a customer.
-(3?)    Market investigation questionnaire for competitors, responses to Question E. 5.
-(73)    Market investigation questionnaire for competitors, responses to Question E.6.
-(7)    Market shares are provided in ranges due to a methodological uncertainty as to whether the GIRA
-        database includes, within the total market size, the [...]kT that Délifrance supply to [...].
+Minutes from a call of 3 July 2025 with a customer.
 
-                                                             31
+Market investigation questionnaire for competitors, responses to Question E. 5.
+
+Market investigation questionnaire for competitors, responses to Question E.6.
+
+Market shares are provided in ranges due to a methodological uncertainty as to whether the GIRA
+database includes, within the total market size, the [...]kT that Délifrance supply to [...].
+
+31
+
 
 [PÁGINA PDF 33]
          Instead,  it referred to  its submissions regarding the broader category of the
@@ -1992,66 +2018,67 @@ Source: Annex 6.2-A to the Form CO.
                                                      36
 
 [PÁGINA PDF 38 | texto OCR: verificar contra el PDF]
-Table  5: Market share  estimates  for standard white bread supplied  to  retail
-        customers in France
+Table 5: Market share estimates for standard white bread supplied to retail
+customers in France
 
-       Supplier                    Estimated market shares (by volume)
+stimated market shares (by volum:
 
-       Délifrance              [0-5%]               [0-5%]                [0-5%]
+_Estimated market shares (by volume) |
+2024 | 2023, | 2022
 
- Vandemoortele Group        [30-40%]             [30-40%]             [40-50%]
-     Combined            [30-40%]            [40-50%]             [40-50%]
+Délifrance [0-5%] [0-5%] [0-5%]
+Vandemoortele Group [30-40%] [30-40%] [40-50%]
+Combined [30-40%] [40-50%] [40-50%]
 
 Source: Annex 6.2-A to the Form CO.
 
-(200)   The combined market share of the Parties is [30-40%] in 2024, with an increment
-        of only [0-5%]. Regardless of the estimation method — whether based on GIRA’s
-         analysis ([0-5%]) or the Notifying Party’s figures ([0-5%]) — Délifrance’s market
-         share remains  limited and  is  not  likely  to materially  affect  the following
-        competitive assessment and the structural dynamics of the industry.
+(200) The combined market share of the Parties is [30-40%] in 2024, with an increment
+of only [0-5%]. Regardless of the estimation method — whether based on GIRA’s
+analysis ([0-5%]) or the Notifying Party’s figures ([0-5%]) — Délifrance’s market
+share remains limited and is not likely to materially affect the following
+competitive assessment and the structural dynamics of the industry.
 
 5.5.3.2. The Notifying Party’s views
 
-(201)   The Notifying Party submits that the Transaction is unlikely to cause competition
-       concems in relation to the manufacture and supply of standard white bread to
-           retail customers in France for the following reasons.
+(201) The Notifying Party submits that the Transaction is unlikely to cause competition
+concems in relation to the manufacture and supply of standard white bread to
+retail customers in France for the following reasons.
 
-(202)    First, market shares are below a threshold for concern set out in the  Commission's
-        Horizontal Merger Guidelines at which competition concerns may typically be
-        expected to arise in horizontal merger cases. The increment is also limited at [0-
-        5%]. In any event, market shares present a static view that is not necessarily a
-         useful indicator of competitiveness, as customers frequently re-issue tenders or
-         renegotiate for significant amounts of purchase volumes and hence shares are
-         rather volatile. (!%°)
+(202) First, market shares are below a threshold for concern set out in the Commission's
+Horizontal Merger Guidelines at which competition concerns may typically be
+expected to arise in horizontal merger cases. The increment is also limited at [0-
+5%]. In any event, market shares present a static view that is not necessarily a
+useful indicator of competitiveness, as customers frequently re-issue tenders or
+renegotiate for significant amounts of purchase volumes and hence shares are
+rather volatile. (!%°)
 
-(203)   Second,  post-transaction,  there  will remain  a  large number of competitors
-         including  Neuhauser  ({20-30%]-[30-40%]),  Menissez  ([5-10%]-[10-20%]),
-       Novepan ([5-10%]-[10-20%]) and numerous other smaller players. Moreover,
-        major players  in  the  industry recently completed or announced  significant
-        investments indicating that they will continue to exercise competitive pressure
-       and there is sufficient capacity to supply. (1%°)
+(203) Second, post-transaction, there will remain a large number of competitors
+including Neuhauser ([20-30%]-[30-40%]), Menissez ([5-10%]-[10-20%]),
+Novepan ([5-10%]-[10-20%]) and numerous other smaller players. Moreover,
+major players in the industry recently completed or announced significant
+investments indicating that they will continue to exercise competitive pressure
+and there is sufficient capacity to supply. (!°°)
 
-(204)    Third, end-customers (consumers) are price-sensitive and retail clients enjoy
-         significant buyer power due to the sector’s high level of concentration. They are
-        well  informed,  source  from  more  than  one  supplier,  conduct  regular
-        benchmarking exercises and employ sophisticated procurement techniques. (!°”)
+(204) Third, end-customers (consumers) are price-sensitive and retail clients enjoy
+significant buyer power due to the sector’s high level of concentration. They are
+well informed, source from more than one supplier, conduct regular
+benchmarking exercises and employ sophisticated procurement techniques. (1°”)
 
-(205)   Fourth, the Parties are not particularly close competitors, as they have different
-        value propositions, product focuses, and business models. In addition, among the
-         top [...] combined customers of the Parties for standard white bread in retail in
-         France, customer overlap  is limited to only [35-45% of] retailers. For [...] of
-          these, the increment is very small — ranging from [...] kT to [...] kT — so these
-          retailers would have no difficulty reallocating such minor volumes to alternative
-          suppliers. (°°)
+(205) Fourth, the Parties are not particularly close competitors, as they have different
+value propositions, product focuses, and business models. In addition, among the
+top [...] combined customers of the Parties for standard white bread in retail in
+France, customer overlap is limited to only [35-45% of] retailers. For [...] of
+these, the increment is very small — ranging from [...] kT to [...] kT — so these
+retailers would have no difficulty reallocating such minor volumes to alternative
+suppliers. (19%)
 
+(%) Form CO, paras 505-506.
+((%) Form CO, paras 507-519.
+(97) Form CO, paras 520-526.
+(1%) Form CO, paras 527-530.
 
+37
 
-(%)    Form CO, paras 505-506.
-(3%)    Form CO, paras 507-519.
-(8)    Form CO, paras 520-526.
-(3%)    Form CO, paras 527-530.
-
-                                                       37
 
 [PÁGINA PDF 39]
 (206)    Fifth, the affected market is characterized by absence of barriers to entry and
@@ -2103,68 +2130,69 @@ Source: Annex 6.2-A to the Form CO.
                                                      38
 
 [PÁGINA PDF 40 | texto OCR: verificar contra el PDF]
-5.6.     Horizontally affected markets in Germany
+5.6. Horizontally affected markets in Germany
 
-5.6.1.  |Manufacture and supply oflaminated dough products tofoodservice customers
+5.6.1. _ Manufacture and supply of laminated dough products to foodservice customers
 
-(213)   The Transaction gives rise to a horizontally affected market with respect to the
-        manufacture and supply of laminated dough products to foodservice customers in
-       Germany.
-
+(213) The Transaction gives rise to a horizontally affected market with respect to the
+manufacture and supply of laminated dough products to foodservice customers in
+Germany.
 
 5.6.1.1. Market shares
 
+Table 6: Market share estimates for laminated dough products supplied to
+foodservice customers in Germany
 
-Table  6: Market  share  estimates  for laminated dough  products  supplied  to
-        foodservice customers in Germany
+ay timated market shares (by volume
 
-       Supplier                     Estimated market shares (by volume)
+20242023 | 2022
 
-       Délifrance             [20-30%]             [10-20%]             [10-20%]
+Délifrance [20-30%] [10-20%] [10-20%]
 
-    Vandemoortele           [10-20%]             [10-20%]             [20-30%]
-       Group
-     Combined            [30-40%]             [30-40%]             [30-40%]
+Vandemoortele [10-20%] [10-20%] [20-30%]
+Group
+
+Combined [30-40%] [30-40%] [30-40%]
 
 Source: Annex 6.2-A to the Form CO
 
 5.6.1.2. The Notifying Party’s views
 
-(214)   The Notifying Party submits that no competition concerns arise with respect to
-         the manufacture and supply of frozen morning goods (and all potential sub-
-        segmentations) to foodservice customers including in Germany for the following
-         reasons. (7°°)
+(214) The Notifying Party submits that no competition concerns arise with respect to
+the manufacture and supply of frozen morning goods (and all potential sub-
+segmentations) to foodservice customers including in Germany for the following
+reasons. (7°°)
 
-(215)    First, there are sufficient alternative suppliers active in each of the affected
-        markets which can constrain the Parties post-Transaction. (°°) In Germany, there
-         are  several market players with manufacturing  sites which produce frozen
-       morning goods (including laminated dough products), such as Aryzta, Bridor,
-       Lantmannen Unibake and Baker & Baker. (7°’) Aryzta and Bridor have also
-         recently expanded their production capacity in Germany for frozen morning
-        goods, including laminated dough products. (7%) In addition, the Notifying Party
-         estimates that approximately [...] kT ofproduction capacity is currently available
-         across  Europe  for  laminated dough  products  alone,  and  that  significant
-        investments have been made to expand capacity. (7°) Since these products can be
-         transported over distances of up to approximately [...] km, the Notifying Party
-        argues that considerable production capacity will be available across each of the
-         affected markets, including Germany. (7!°)
+(215) First, there are sufficient alternative suppliers active in each of the affected
+markets which can constrain the Parties post-Transaction. (°°) In Germany, there
+are several market players with manufacturing sites which produce frozen
+morming goods (including laminated dough products), such as Aryzta, Bridor,
+Lantmannen Unibake and Baker & Baker. (7°’) Aryzta and Bridor have also
+recently expanded their production capacity in Germany for frozen morning
+goods, including laminated dough products. (7°%) In addition, the Notifying Party
+estimates that approximately [...] kT of production capacity is currently available
+across Europe for laminated dough products alone, and that significant
+investments have been made to expand capacity. (7°) Since these products can be
+transported over distances of up to approximately [...] km, the Notifying Party
+argues that considerable production capacity will be available across each of the
+affected markets, including Germany. (7!°)
 
-(216)   Second, customers enjoy significant buyer power as they can easily switch
-       volumes from one supplier to another and therefore exert competitive pressure on
-          suppliers. Specifically, the foodservice customer base in Germany tends to be
+(216) Second, customers enjoy significant buyer power as they can easily switch
+volumes from one supplier to another and therefore exert competitive pressure on
+suppliers. Specifically, the foodservice customer base in Germany tends to be
 
+°°) Form CO, para. 333 et seq.
 
+(7°) Form CO, para. 335.
 
+(?°) Form CO, para. 717.
 
+(°°) Form CO, para. 920 and Table 91.
+(°°) Form CO, para. 917 and para. 920.
+(??°) Form CO, para. 336.
 
-°°)    Form CO, para. 333 et seq.
-(7°)    Form CO, para. 335.
-(°°)    Form CO, para. 717.
-(7°)    Form CO, para. 920 and Table 91.
-(°°)    Form CO, para. 917 and para. 920.
-(7°)    Form CO, para. 336.
+39
 
-                                                       39
 
 [PÁGINA PDF 41]
           fairly concentrated and characterised by large wholesalers which are able to
@@ -2384,137 +2412,156 @@ Source: Annex 6.2-A to the Form CO
                                                      43
 
 [PÁGINA PDF 45 | texto OCR: verificar contra el PDF]
-(243)    [Confidential details on Délifrance’s future plans]. (7%)
+(243)
+(244)
 
-(244)    [Confidential details on Délifrance’s future plans]. (*“°).
+[Confidential details on Délifrance’s future plans]. (73%)
+[Confidential details on Délifrance’s future plans]. (7°).
 
 Figure 5: Délifrance’s internal document on classic bread
 
 [Confidential details on Délifrance’s future plans]
 
-
 Source: Form CO, Annex 5.4-A-13
 
-(245)    [Confidential details on Délifrance’s future plans]: (74")
+(245)
+
+[Confidential details on Délifrance’s future plans]: (7*!)
 
 Figure 6: Délifrance’s production data for bread on the Liscate site
 
 [Confidential details on Délifrance’s future plans]
 
-
 Source: Paper on Délifrance strategy in relation to standard white bread in Italy, para. 20.
 
-(246)    [Confidential details on Délifrance’s future plans]. (747)
+(246)
+(247)
+(248)
 
-(247)    [Confidential details on Délifrance’s future plans]. (77).
-
-(248)    [Confidential details on Délifrance’s future plans].
+[Confidential details on Délifrance’s future plans]. (747)
+[Confidential details on Délifrance’s future plans]. (77).
+[Confidential details on Délifrance’s future plans].
 
 Table 7: Délifrance’s sales of standard white bread in Italy
 
+[.-J [.-] [..J
 
-
-
-
-       Total Italian                 [...]                 [...]                [.-.]                         [...]
-     production (7*°)
-
-      Total imported               [...]                 [..-]                [...]                         [..-]
-     production (74”)
-
-   Sourced from third            [..-]                  [...]                [...]                         [...]
-        parties (***)
-
-          Total                      [...]                 [..-]                [...]                         [..-]
+Total Italian [..-]
+production (7*)
+Total imported [..J [...] [...] [..]
+production (747)
+Sourced from third [..-] [..-] [...] [..-]
+parties (***)
+Total [..J [...] [..] [..]
 
 Source: paper on Délifrance strategy in relation to standard white bread in Italy, para. 7
 
+ad)
+C*)
+(con)
+(?-)
 
+C*)
 
+C“)
+245)
+C**)
+(747)
+C#)
 
+Annex - RFI -12-Q-3 - LD and FB prices and margins as submitted on 12 December 2025, and
+Form CO, Annex 9.1-V-D.
 
-(3°)    Annex  - RFI -12-Q-3  - LD and FB prices and margins as submitted on 12 December 2025, and
-       Form CO, Annex 9.1-V-D.
-(7)     [Confidential details on Délifrance’s future plans] as shown in Form CO, Annex 5.4-A-13, p. 105.
-(7)     [Confidential details on Délifrance’s future plans] submitted on 20 November 2025, para. 20.
-?*”)    Annex RFI-20 Q1-B and response to Question 1 ofRFI 20 submitted on 26 November 2025. Please
-         see also Annex RFI-20 Q1-C.
-(can)    Form CO, footnote 181, and Response to RFI 12 submitted on   7 November 2025 and re-submitted
-       on 12 December 2025. [Confidential details on Délifrance’s supply from third-party manufacturers]
-       (Form CO, footnote 461).
-?*)     Calendar Year, volume annualised based on Délifrance’s sales for S1 2025 (paper on Délifrance
-         strategy in relation to standard white bread in Italy, footnote 3).
-?*)    Note that sales for Financial Year can slightly differ from the ones for the same Calendar Year.
-(7%)     [Information on Délifrance’s plants].
-(747)     [Information on Délifrance’s plants].
-(748)     [Information on Délifrance’s sales in Italy] (Form CO, footnote 181, and Paper on Standard White
-        Bread — Italy (Retail) of 10 October 2025).
+[Confidential details on Délifrance’s future plans] as shown in Form CO, Annex 5.4-A-13, p. 105.
+[Confidential details on Délifrance’s future plans] submitted on 20 November 2025, para. 20.
+Annex RFI-20 Q1-B and response to Question 1 of RFI 20 submitted on 26 November 2025. Please
+see also Annex RFI-20 Q1-C.
 
-                                                      44
+Form CO, footnote 181, and Response to RFI 12 submitted on 7 November 2025 and re-submitted
+on 12 December 2025. [Confidential details on Délifrance’s supply from third-party manufacturers]
+(Form CO, footnote 461).
+
+Calendar Year, volume annualised based on Délifrance’s sales for S1 2025 (paper on Délifrance
+strategy in relation to standard white bread in Italy, footnote 3).
+
+Note that sales for Financial Year can slightly differ from the ones for the same Calendar Year.
+[Information on Délifrance’s plants].
+
+[Information on Délifrance’s plants].
+
+[Information on Délifrance’s sales in Italy] (Form CO, footnote 181, and Paper on Standard White
+Bread — Italy (Retail) of 10 October 2025).
+
+44
+
 
 [PÁGINA PDF 46 | texto OCR: verificar contra el PDF]
-(249)   Fourth, Délifrance’s reduced presence  is also reflected in  its updated market
-         shares for 2025, which went from [10-20%] to [5-10%] for Italy — following
-       GIRA’s estimates — or from [5-10%] to [0-5%] following the market size results
-        of the market investigation. (7*”)
+(249) Fourth, Délifrance’s reduced presence is also reflected in its updated market
+shares for 2025, which went from [10-20%] to [5-10%] for Italy — following
+GIRA’s estimates — or from [5-10%] to [0-5%] following the market size results
+of the market investigation. (7*”)
 
-(250)   All these elements show that Délifrance is not an important competitive force on
-         the market given that, [confidential details on Délifrance’s future plans].
+(250) All these elements show that Délifrance is not an important competitive force on
+the market given that, [confidential details on Délifrance’s future plans].
 
-(251)  On the basis of the above, the   Commission considers that the Transaction  is
-         unlikely to raise serious doubts as to its compatibility with the internal market or
-         a substantial part of it in relation to the market for the manufacture and supply of
-         standard white bread to retail customers in Italy.
+(251) On the basis of the above, the Commission considers that the Transaction is
+unlikely to raise serious doubts as to its compatibility with the internal market or
+a substantial part of it in relation to the market for the manufacture and supply of
+standard white bread to retail customers in Italy.
 
-5.7.2.   Manufacture and supply oflaminated dough products to retailers
+5.7.2. Manufacture and supply of laminated dough products to retailers
 
-(252)   The Transaction gives rise to a horizontally affected market with respect to the
-        manufacture and supply of laminated dough products to retailers in Italy.
-
+(252) The Transaction gives rise to a horizontally affected market with respect to the
+manufacture and supply of laminated dough products to retailers in Italy.
 
 5.7.2.1. Market shares
 
-
 Table 8: Market share estimates for laminated dough products supplied to retail
-        customers in Italy
+customers in Italy
 
+1
 
+stimated market shares (by volum:
 
-       Délifrance             [5-10%]              [5-10%]               [0-5%]
+_Estimated market shares (by volume) |
+zoe | 023, | 202
 
- Vandemoortele Group        [40-50%]             [40-50%]             [40-50%]
-     Combined            [50-60%]            [50-60%]             [40-50%]
+Délifrance [5-10%] [5-10%] [0-5%]
+Vandemoortele Group [40-50%] [40-50%] [40-50%]
+Combined [50-60%] [50-60%] [40-50%]
 
-Source: Annex Annex 5.4-I and Annex 6.2-A to the  Form CO
+Source: Annex Annex 5.4-I and Annex 6.2-A to the Form CO
 
-(253)   The combined market share is [50-60%] in 2024 — out of a total market size of
-         [...]kT — with an increment of [5-10%].
+(253) The combined market share is [50-60%] in 2024 — out of a total market size of
+[...]kT — with an increment of [5-10%].
 
-(254)   The Notifying Party contested the reliability of the above  total market  size
-         estimate and proposed an alternative approach using Nielsen IQ data from an ad
-        hoc studied conducted for Vandemoortele. (7°) The latter considers a bigger
-        market size for 2024 with a combined market share of [30-40%] — out of a  total
-        market size of [...]kT — with an increment of [5-10%]. (7°)
+(254) The Notifying Party contested the reliability of the above total market size
+estimate and proposed an alternative approach using Nielsen IQ data from an ad
+hoc studied conducted for Vandemoortele. (7°°) The latter considers a bigger
+market size for 2024 with a combined market share of [30-40%] — out of a total
+market size of [...]kT — with an increment of [5-10%]. (7?!)
 
-(255)   Following a thorough analysis, the  Commission considers that the original market
-         share estimates provided by GIRA are more appropriate. GIRA publishes one of
-         the industry’s leading annual reports and draws on consistent and robust market
-         intelligence accumulated over several years. Relying on  this source ensures
-        coherence in both the data and the definitions applied across the different product
-        markets examined in this case. Furthermore, given the relatively small size of the
-        laminated dough market in Italy — amounting to only a few dozen kT — minor
-         variations of a few kT are difficult to interpret reliably.
+(255) Following a thorough analysis, the Commission considers that the original market
+share estimates provided by GIRA are more appropriate. GIRA publishes one of
+the industry’s leading annual reports and draws on consistent and robust market
+intelligence accumulated over several years. Relying on this source ensures
+coherence in both the data and the definitions applied across the different product
+markets examined in this case. Furthermore, given the relatively small size of the
+laminated dough market in Italy — amounting to only a few dozen kT — minor
+variations of a few kT are difficult to interpret reliably.
 
-(256)   Moreover, GIRA’s estimate of   a combined market share of [50-60%] is consistent
-        with the concerns expressed by customers and competitors during the market
+(256) Moreover, GIRA’s estimate of a combined market share of [50-60%] is consistent
+with the concerns expressed by customers and competitors during the market
 
+(?-*) Annex 5.4-I - GIRA Bake-off Bakery database for 2024; Market investigation questionnaire for
+competitors, responses to Question J.1.
 
-(?-#)  ~~ Annex 5.4-I - GIRA Bake-off Bakery database for 2024; Market investigation questionnaire for
-         competitors, responses to Question J.1.
-(°°)    Form CO — Annex 6.2-F-5 — NIQ Vandemoortele market sizing 2024 report.
-(1)    Form CO — Annex 6.2-A — Market shares overview.
+(°°) ~~ Form CO — Annex 6.2-F-5 — NIQ Vandemoortele market sizing 2024 report.
 
-                                                       45
+(>) Form CO — Annex 6.2-A — Market shares overview.
+
+45
+
 
 [PÁGINA PDF 47]
          investigation, as described  in  the following  section.  In  light  of  this,  the
@@ -2676,72 +2723,67 @@ Source: Annex Annex 5.4-I and Annex 6.2-A to the  Form CO
                                                      48
 
 [PÁGINA PDF 50 | texto OCR: verificar contra el PDF]
-        Vandemoortele for retailers. (7°) This is also confirmed by responding customers,
-      who listed Vandemoortele, Sammontana and Délifrance as the manufacturers that
-        they contract the most with. (7°)
+Vandemoortele for retailers. (7%) This is also confirmed by responding customers,
+who listed Vandemoortele, Sammontana and Délifrance as the manufacturers that
+they contract the most with. (7°)
 
-(280)    Third, mternal documents show that [confidential details on Délifrance’s future
-         plans]. (**)
+(280) Third, internal documents show that [confidential details on Délifrance’s future
+plans]. (*°*)
 
 Figure 7: Délifrance’s projected investments
 
 [Confidential details on Délifrance’s future plans]
 
+Source: Form CO — Annex 5.4-A-13
 
-Source:   Form CO — Annex 5.4-A-13
+(281) [Confidential details on Délifrance’s future plans]. The Transaction will
+effectively remove a player that has gained market share in the last years and is
+clearly refocusing its activities around laminated dough products for Italy.
 
-(281)    [Confidential  details  on  Délifrance’s  future  plans].  The  Transaction  will
-         effectively remove a player that has gained market share in the last years and is
-         clearly refocusing its activities around laminated dough products for Italy.
+(282) In light of the above, the Commission considers that the Transaction will remove
+an importance competitive force on the market.
+5.7.2.3.5. Conclusion
 
-(282)   In light of the above, the Commission considers that the Transaction will remove
-        an importance competitive force on the market.
+(283) In light of the above elements, the Commission considers that the Transaction
+raises serious doubts as to its compatibility with the internal market or a
+substantial part of it as a result of horizontal non-coordinated effects in relation to
+the market for the manufacture and supply of laminated dough products to
+retailers in Italy.
 
+5.7.3. | Manufacture and supply of laminated dough products to foodservice customers
 
-5.7.2.3.5.     Conclusion
-
-(283)   In light of the above elements, the Commission considers that the Transaction
-          raises  serious doubts  as  to  its compatibility with the  internal market or a
-         substantial part of it as a result ofhorizontal non-coordinated effects in relation to
-         the market for the manufacture and supply of laminated dough products to
-          retailers in Italy.
-
-5.7.3.   Manufacture and supply oflaminated dough products tofoodservice customers
-
-(284)   The Transaction gives rise to a horizontally affected market with respect to the
-        manufacture and supply of laminated dough products to foodservice customers in
-           Italy.
-
+(284) The Transaction gives rise to a horizontally affected market with respect to the
+manufacture and supply of laminated dough products to foodservice customers in
+Italy.
 
 5.7.3.1. Market shares
 
-
 Table 9: Market share estimates of laminated dough products supplied to foodservice
-        customers in Italy
+customers in Italy
 
-       Supplier                     Estimated market shares (by volume)
+ap timated market shares (by volume
 
+| nore | 2023 | 2022
 
- Délifrance                 [10-20%]             [10-20%]             [10-20%]
+Délifrance [10-20%] [10-20%] [10-20%]
 
- Vandemoortele            [20-30%]             [10-20%]             [10-20%]
-        Group
- Combined                [30-40%]             [30-40%]             [30-40%]
+Vandemoortele [20-30%] [10-20%] [10-20%]
+Group
 
+Combined [30-40%] [30-40%] [30-40%]
 
 Source: Annex 6.2-A to the Form CO.
 
+(75) Position Paper on Laminated Dough-based Frozen Morning Goods - Italy (Retail) submitted on 10
+October 2025, and Form CO, Table 57.
 
+(7°) Market investigation questionnaire for customers, response to Question H.8.
 
+(78) Form CO — Annex 5.4-A-13, p. 105; and, Paper on Délifrance strategy in relation to Standard White
+Bread in Italy of 20 November 2025.
 
+49
 
-(7%)     Position Paper on Laminated Dough-based Frozen Morning Goods - Italy (Retail) submitted on 10
-        October 2025, and Form CO, Table 57.
-(7°)    Market investigation questionnaire for customers, response to Question H.8.
-(788)    Form CO — Annex 5.4-A-13, p. 105; and, Paper on Délifrance strategy in relation to Standard White
-        Bread in Italy of 20 November 2025.
-
-                                                      49
 
 [PÁGINA PDF 51]
 5.7.3.2. The Notifying Party’s views
@@ -2900,65 +2942,63 @@ Source: Annex 6.2-A to the Form CO.
 [PÁGINA PDF 54 | texto OCR: verificar contra el PDF]
 5.7.4.1. Market shares
 
-
 Table 10: Market share estimates for fried dough products supplied to retailers in
-         Italy
 
-      Supplier                 Estimated market shares (by volume)
-
-
-       Délifrance             [5-10%]               [5-10%]               [5-10%]
-
-    Vandemoortele          [30-40%]             [30-40%]             [30-40%]
-       Group
-     Combined            [30-40%]             [40-50%]             [30-40%]
-
+Italy
+stimated market shares (by volume
+Délifrance [5-10%] [5-10%] [5-10%]
+Vandemoortele [30-40%] [30-40%] [30-40%]
+Group
+Combined [30-40%] [40-50%] [30-40%]
 
 Source: Annex 6.2-A to the Form CO.
 
 5.7.4.2. The Notifying Party’s views
 
-(298)   The Notifying Party did not submit arguments specific to the manufacture and
-        supply of fried dough products to retailers in Italy. However, it provided several
-        arguments regarding the broader Italian retail market for frozen morning goods
-          that apply also for fried dough products.
+(298) The Notifying Party did not submit arguments specific to the manufacture and
+supply of fried dough products to retailers in Italy. However, it provided several
+arguments regarding the broader Italian retail market for frozen morning goods
+that apply also for fried dough products.
 
-(299)    First, frozen morning goods are a niche segment in the Italian retail market, with
-         a total market size of only approximately [...] kT in 2024, out of which fried
-       dough products account for only around [...] kT. (7%)
+(299) First, frozen morning goods are a niche segment in the Italian retail market, with
+a total market size of only approximately [...] kT i 2024, out of which fried
+dough products account for only around [...] kT. (7%)
 
-(300)   Second, the segment for frozen morning goods in Italy is highly competitive with
-         multiple   suppliers   offermg   similar   products,   including   Fresystem,
-       Sammontana/Forno d’Asolo, Baker & Baker and San Giorgio. (7) In addition,
-         there are several  suppliers  that import frozen morning goods  to Italy from
-        neighbouring countries, such as Bridor, Gourmand Pastries, La Lorraine and
-         Europastry. This shows the competitive constraint that imports exert on the
-          Parties. (7°”)
+(300) Second, the segment for frozen morning goods in Italy is highly competitive with
+multiple suppliers offermg similar products, including Fresystem,
+Sammontana/Forno d’Asolo, Baker & Baker and San Giorgio. (7) In addition,
+there are several suppliers that import frozen morning goods to Italy from
+neighbouring countries, such as Bridor, Gourmand Pastries, La Lorraine and
+Europastry. This shows the competitive constraint that imports exert on the
+Parties. (7°)
 
-(301)    Third, retail customers enjoy significant buyer power in the broader segment for
-         frozen morning goods (7%) as the retail channel in Italy is concentrated, with the
-        top 10 retailers for frozen morning goods representing approximately [...] of the
-          Parties’ total sales in 2024 (7). In addition, they are also becoming increasingly
-         vertically integrated, reducing their dependence on external suppliers. (79°)
+(301) Third, retail customers enjoy significant buyer power in the broader segment for
+frozen morning goods (7%) as the retail channel in Italy is concentrated, with the
+top 10 retailers for frozen morning goods representing approximately [...] of the
+Parties’ total sales in 2024 (7). In addition, they are also becoming increasingly
+vertically integrated, reducing their dependence on external suppliers. (79°)
 
-(302)    Finally, the Parties are not particularly close competitors for fried dough products
-          specifically as they share only [35-45%] of their top  [...]  largest (7%) retail
-        customers. (7%’)
+(302) Finally, the Parties are not particularly close competitors for fried dough products
+specifically as they share only [35-45%] of their top [...] largest (7%) retail
+customers. (7°”)
 
+(°°) Form CO, Annex 6.2-F-5.
+(7) Form CO, para. 549.
 
+(?) Form CO, para. 550.
 
+(3) Form CO, para. 556.
 
+(?*) ~~ Form CO, para. 559.
 
-(°°)    Form CO, Annex 6.2-F-S.
-(7%)    -Form CO, para. 549.
-(?)    Form CO, para. 550.
-?)   ~~ Form CO, para. 556.
-(74)    Form CO, para. 559.
-(>)    Form CO, para. 558.
-(7%)    Based on sales volume.
-(7)    Annex 9.2-V to the Form CO.
+(?%) Form CO, para. 558.
 
-                                                           53
+(?%) Based on sales volume.
+
+(7) Annex 9.2-V to the Form CO.
+
+53
+
 
 [PÁGINA PDF 55]
 5.7.4.3. The Commission’s assessment
@@ -3012,70 +3052,61 @@ Source: Annex 6.2-A to the Form CO.
                                                      54
 
 [PÁGINA PDF 56 | texto OCR: verificar contra el PDF]
-5.7.5.   Manufacture and supply offrozen savoury snacks
+5.7.5. Manufacture and supply of frozen savoury snacks
 
-(309)   The Transaction gives rise to horizontally affected markets with respect to the
-        manufacture and supply of frozen savoury snacks to retailers and with respect to
-         the manufacture and supply of frozen savoury snacks to foodservice customers.
-       Given that the same considerations apply to both markets, the  Commission will
-        provide its consolidated views on both markets together.
-
+(309) The Transaction gives rise to horizontally affected markets with respect to the
+manufacture and supply of frozen savoury snacks to retailers and with respect to
+the manufacture and supply of frozen savoury snacks to foodservice customers.
+Given that the same considerations apply to both markets, the Commission will
+provide its consolidated views on both markets together.
 
 5.7.5.1. Market shares
 
-
 Table 11: Market share estimates for frozen savoury snacks in Italy (retail)
 
-       Supplier                     Estimated market shares (by volume)
+ap timated market shares (by volume
 
+20242023 | 022
 
-       Délifrance              [0-5%]                [0-5%]                [0-5%]
-
-    Vandemoortele           [30-40%]             [30-40%]             [30-40%]
-       Group
-     Combined            [30-40%]             [30-40%]             [40-50%]
+Délifrance [0-5%] [0-5%] [0-5%]
+Vandemoortele [30-40%] [30-40%] [30-40%]
+Group
+Combined [30-40%] [30-40%] [40-50%]
 
 Source: Annex 6.2-A to the Form CO
-
 
 Table 12: Market share estimates for frozen savoury snacks in Italy (foodservice)
 
-       Supplier                     Estimated market shares (by volume)
-
-       Délifrance             [10-20%]             [10-20%]             [10-20%]
-
-    Vandemoortele           [20-30%]             [20-30%]             [20-30%]
-       Group
-     Combined            [30-40%]             [30-40%]             [30-40%]
+ap estimated market shares (by volum
+Délifrance [10-20%] [10-20%] [10-20%]
+Vandemoortele [20-30%] [20-30%] [20-30%]
+Group
+Combined [30-40%] [30-40%] [30-40%]
 
 Source: Annex 6.2-A to the Form CO
 
-
 5.7.5.2. The Notifying Party’s views
 
-(310)   The Notifying Party submits that the Transaction is unlikely to cause competition
-       concems in relation to the manufacture and supply of frozen savoury snacks to
-          retailers and to foodservice customers in Italy for the following reasons.
+(310) The Notifying Party submits that the Transaction is unlikely to cause competition
+concerns in relation to the manufacture and supply of frozen savoury snacks to
+retailers and to foodservice customers in Italy for the following reasons.
 
-(311)    First, the Parties’ combined market shares amount to [30-40%] in retail and to
-        [30-40%] in foodservice. (7) In retail specifically, the increment is very limited,
-         resulting in an HHI delta of [...]. (7°)
+(311) First, the Parties’ combined market shares amount to [30-40%] in retail and to
+[30-40%] in foodservice. (7%) In retail specifically, the increment is very limited,
+resulting in an HHI delta of [...]. (7°)
 
-(312)   Second, there will remain a large number of competitors with sufficient capacity
-          to supply  that will continue  to exercise competitive pressure,  for example:
-         Tossini, Antico Forno Della Romagna / Glaxi Pane, Target Bakery, and Bakery
-      SpA for the retail market, and Sammontana/ Forno d’Asolo, Antico Forno della
-       Romagna  and  Target Bakery  for  the  foodservice  market. (*°°)Competitive
+(312) Second, there will remain a large number of competitors with sufficient capacity
+to supply that will continue to exercise competitive pressure, for example:
+Tossini, Antico Forno Della Romagna / Glaxi Pane, Target Bakery, and Bakery
+SpA for the retail market, and Sammontana/ Forno d’Asolo, Antico Forno della
+Romagna and Target Bakery for the foodservice market. (7°°)Competitive
 
+(°) Form CO, para. 796.
+(5) Form CO, para. 776.
+(3%) Form CO, paras. 778-780, and 799-800.
 
+55
 
-
-
-(%)    Form CO, para. 796.
-(°°)    Form CO, para. 776.
-(%)    Form CO, paras. 778-780, and 799-800.
-
-                                                           55
 
 [PÁGINA PDF 57]
         pressure  is  also  exercised  by  suppliers  that  import  from  neighbouring
@@ -3132,70 +3163,59 @@ Source: Annex 6.2-A to the Form CO
                                                      56
 
 [PÁGINA PDF 58 | texto OCR: verificar contra el PDF]
-5.8.     Horizontally affected markets in the Netherlands
+5.8. Horizontally affected markets in the Netherlands
 
-5.8.1.  |Manufacture and supply oflaminated dough products
+5.8.1. | Manufacture and supply of laminated dough products
 
-(321)   The Transaction gives rise to horizontally affected markets with respect to the
-        manufacture and supply of laminated dough products to retailers and with respect
-          to the manufacture and supply of laminated dough products  to foodservice
-        customers in the Netherlands. Given that the same considerations apply to both
-         markets, the Commission will provide its consolidated views on both markets
-         together.
-
+(321) The Transaction gives rise to horizontally affected markets with respect to the
+manufacture and supply of laminated dough products to retailers and with respect
+to the manufacture and supply of laminated dough products to foodservice
+customers in the Netherlands. Given that the same considerations apply to both
+markets, the Commission will provide its consolidated views on both markets
+together.
 
 5.8.1.1. Market Shares
 
-
 Table 13: Market share estimates for laminated dough products supplied to retailers
-         in the Netherlands
+in the Netherlands
 
-       Supplier           Estimated market shares (by volume)
+ae timated market shares (by volume
 
-                          2024          2023          2022
-
-       Délifrance          [10-20%]       [10-20%]       [10-20%]
-
- Vandemoortele Group    [10-20%]       [10-20%]       [10-20%]
-
-     Combined         [30-40%]      [30-40%]      [30-40%]
+Délifrance [10-20%] [10-20%] [10-20%]
+Vandemoortele Group [10-20%] [10-20%] [10-20%]
+Combined [30-40%] [30-40%] [30-40%]
 
 Source: Annex 6.2-A to the Form CO
 
+Table 14: Market share estimates for laminated dough products supplied to
+foodservice customers in the Netherlands
 
-Table  14: Market  share  estimates  for laminated dough products  supplied  to
-        foodservice customers in the Netherlands
+timated market shares (by volum
 
-       Supplier                 Estimated market shares (by volume)
+____Estimated market shares (by volume)
+20240
 
-                            2024              2023              2022
-
-       Délifrance           [10-20%]           [10-20%]           [10-20%]
-
- Vandemoortele Group      [20-30%]           [20-30%]           [20-30%]
-
-     Combined           [30-40%]          [30-40%]           [30-40%]
+Délifrance [10-20%] [10-20%] [10-20%]
+Vandemoortele Group [20-30%] [20-30%] [20-30%]
+Combined [30-40%] [30-40%] [30-40%]
 
 Source: Annex 6.2-A to the Form CO
 
 5.8.1.2. The Notifying Party’s views
 
-(322)   The Notifying Party submits that no competition concerns arise with respect to
-         the manufacture and supply of frozen morning goods (and all potential sub-
-        segmentations) to retail and foodservice customers in the Netherlands for the
-        following reasons. (31”)
+(322) The Notifying Party submits that no competition concerns arise with respect to
+the manufacture and supply of frozen morning goods (and all potential sub-
+segmentations) to retail and foodservice customers in the Netherlands for the
+following reasons. (?!”)
 
-(323)    First, market shares do not accurately reflect market dynamics as they fluctuate
-         significantly due to frequent retendering processes of customers. (71%)
+(323) First, market shares do not accurately reflect market dynamics as they fluctuate
+significantly due to frequent retendering processes of customers. (718)
 
+7!) Form CO, paras. 814 et seq.
+(8) Form CO, para. 859.
 
+57
 
-
-
-(7)    -Form CO, paras. 814 et seq.
-(8)    -Form CO, para. 859.
-
-                                                         57
 
 [PÁGINA PDF 59]
 (324)   Second, many competitors with sufficient capacity to supply currently exercise
@@ -3253,67 +3273,68 @@ Source: Annex 6.2-A to the Form CO
                                                      58
 
 [PÁGINA PDF 60 | texto OCR: verificar contra el PDF]
-         Several competitors confirmed that they supply laminated dough products to
-           retailers and foodservice customers in the Netherlands. (77°)
+(331)
 
- (331)    Finally, the vast majority of customers and several competitors considered that
-          the Transaction will have no impact on the market for the manufacture and supply
-        of laminated dough products  to the  retail and foodservice channels  in the
-         Netherlands. (77)
+(332)
 
- (332)   In view of the foregoing, the Transaction is unlikely to raise serious doubts as to
-             its compatibility with the internal market or a substantial part of it in relation to
-          the markets for the manufacture and supply of laminated dough products to
-           retailers and to foodservice customers in the Netherlands.
+5.9.
 
+5.9.1.
+(333)
 
- 5.9.     Horizontally affected markets in Poland
+Several competitors confirmed that they supply laminated dough products to
+retailers and foodservice customers in the Netherlands. (77°)
 
- 5.9.1.   Manufacture and supply oflaminated dough products
+Finally, the vast majority of customers and several competitors considered that
+the Transaction will have no impact on the market for the manufacture and supply
+of laminated dough products to the retail and foodservice channels in the
+Netherlands. (771)
 
- (333)   The Transaction gives rise to horizontally affected markets with respect to the
-        manufacture and supply of laminated dough products to retailers and with respect
-           to the manufacture and supply of laminated dough products to foodservice
-         customers. Given  that  the same  considerations  apply  to both markets,  the
-        Commission will provide its consolidated views on both markets together.
+In view of the foregoing, the Transaction is unlikely to raise serious doubts as to
+its compatibility with the internal market or a substantial part of it in relation to
+the markets for the manufacture and supply of laminated dough products to
+retailers and to foodservice customers in the Netherlands.
 
+Horizontally affected markets in Poland
 
- 5.9.1.1. Market Shares
+Manufacture and supply of laminated dough products
 
+The Transaction gives rise to horizontally affected markets with respect to the
+manufacture and supply of laminated dough products to retailers and with respect
+to the manufacture and supply of laminated dough products to foodservice
+customers. Given that the same considerations apply to both markets, the
+Commission will provide its consolidated views on both markets together.
 
- Table 15: Market share estimates for laminated dough products (retail) in Poland
+5.9.1.1. Market Shares
 
-      Supplier                      Estimated market shares (by volume)
+Table 15: Market share estimates for laminated dough products (retail) in Poland
 
-      Délifrance              [10-20%]             [10-20%]             [10-20%]
+estimated market shares (by) Mt IY
+Délifrance [10-20%] [10-20%] [10-20%]
+Vandemoortele Group [20-30%] [10-20%] [10-20%]
+Combined [30-40%] [30-40%] [20-30%]
 
-Vandemoortele Group         [20-30%]             [10-20%]             [10-20%]
-    Combined             [30-40%]             [30-40%]             [20-30%]
+Source: Annex 6.2-A to the Form CO
 
- Source: Annex 6.2-A to the Form CO
+Table 16: Market share estimates for laminated dough products (foodservice) in
 
+Poland
+estimated market shares =e volume 1m
+Délifrance [10-20%] [10-20%] [10-20%]
+Vandemoortele Group [20-30%] [10-20%] [10-20%]
+Combined [30-40%] [20-30%] [10-20%]
 
- Table 16: Market share estimates for laminated dough products (foodservice) in
-        Poland
+Source: Annex 6.2-A to the Form CO
 
-      Supplier                      Estimated market shares (by volume)
+C%)
+(3)
 
-      Délifrance              [10-20%]             [10-20%]             [10-20%]
+Responses to the Market Questionnaire for Competitors, Question P.1-1.
+Responses to the Market Questionnaire for Customers, Question P.1-3; Responses to the Market
+Questionnaire for Competitors, Question P.1-3.
 
-Vandemoortele Group         [20-30%]             [10-20%]             [10-20%]
-    Combined             [30-40%]             [20-30%]             [10-20%]
+59
 
- Source: Annex 6.2-A to the Form CO
-
-
-
-
-
- (3°)    Responses to the Market Questionnaire for Competitors, Question P.1-1.
- (3!)    Responses to the Market Questionnaire for Customers, Question P.1-3; Responses to the Market
-         Questionnaire for Competitors, Question P.1-3.
-
-                                                          59
 
 [PÁGINA PDF 61]
 5.9.1.2. The Notifying Party’s views
@@ -3370,69 +3391,63 @@ Vandemoortele Group         [20-30%]             [10-20%]             [10-20%]
                                                      60
 
 [PÁGINA PDF 62 | texto OCR: verificar contra el PDF]
-          this seems to be more limited for customers active in the foodservice market. (*47)
-       However, there were also some customers in foodservice who confirmed that they
-        procure laminated dough products from outside of Poland. (7*7)
+this seems to be more limited for customers active in the foodservice market. (747)
+However, there were also some customers in foodservice who confirmed that they
+procure laminated dough products from outside of Poland. (747)
 
-(342)    Third, most customers stated that they have sufficient alternatives suppliers and
-         believe the Transaction will have a neutral or positive impact on the supply of
-         these products in Poland (in terms of pricing, access to products, quality or
-         innovation). (**)
+(342) Third, most customers stated that they have sufficient alternatives suppliers and
+believe the Transaction will have a neutral or positive impact on the supply of
+these products in Poland (in terms of pricing, access to products, quality or
+innovation). (*4*)
 
-(343)   In view of the foregoing, the Transaction is unlikely to raise serious doubts as to
-            its compatibility with the internal market or a substantial part of it as in relation
-          to the markets for the manufacture and supply of laminated dough products to
-          retail and foodservice customers in Poland.
+(343) In view of the foregoing, the Transaction is unlikely to raise serious doubts as to
+its compatibility with the internal market or a substantial part of it as in relation
+to the markets for the manufacture and supply of laminated dough products to
+retail and foodservice customers in Poland.
 
+5.10. Horizontally affected markets in Portugal
 
-5.10.    Horizontally affected markets in Portugal
+5.10.1. Manufacture and supply of laminated dough products
 
-5.10.1.  Manufacture and supply oflaminated dough products
-
-(344)   The Transaction gives rise to horizontally affected markets with respect to the
-        manufacture and supply of laminated dough products to retailers and with respect
-          to the manufacture and supply of laminated dough products to foodservice
-         customers. Given  that  the same  considerations  apply  to both markets,  the
-       Commission will provide its consolidated views on both markets together.
-
+(344) The Transaction gives rise to horizontally affected markets with respect to the
+manufacture and supply of laminated dough products to retailers and with respect
+to the manufacture and supply of laminated dough products to foodservice
+customers. Given that the same considerations apply to both markets, the
+Commission will provide its consolidated views on both markets together.
 
 5.10.1.1.Market Shares
 
-
 Table 17: Market share estimates for laminated dough products supplied to retailers
-         in Portugal
+in Portugal
 
-        Supplier                     Estimated market shares (by volume)
+ee
 
-       Délifrance              [5-10%]              [5-10%]              [5-10%]
-
- Vandemoortele Group        [20-30%]             [20-30%]             [20-30%]
-     Combined            [30-40%]            [30-40%]            [30-40%]
-
-Source: Annex 6.2-A to the Form CO
-
-
-Table  18: Market  share  estimates  for laminated dough products  supplied  to
-        foodservice customers in Portugal
-
-       Supplier                    Estimated market shares (by volume)
-
-       Délifrance              [5-10%]              [5-10%]              [5-10%]
-
- Vandemoortele Group        [20-30%]             [20-30%]             [20-30%]
-     Combined            [30-40%]            [30-40%]            [20-30%]
+Délifrance [5-10%] [5-10%] [5-10%]
+Vandemoortele Group [20-30%] [20-30%] [20-30%]
+Combined [30-40%] [30-40%] [30-40%]
 
 Source: Annex 6.2-A to the Form CO
 
+Table 18: Market share estimates for laminated dough products supplied to
+foodservice customers in Portugal
 
+stimated market shares (by volum
 
+| —__Estimated market shares (by volume)
+a
 
+Délifrance [5-10%] [5-10%] [5-10%]
+Vandemoortele Group [20-30%] [20-30%] [20-30%]
+Combined [30-40%] [30-40%] [20-30%]
 
-(?*)    Responses to the Market Questionnaire for Customers, Question Q.1-2.
-(43)    Responses to the Market Questionnaire for Customers, Question Q.1-2.
-e*)    Responses to the Market Questionnaire for Customers, Question Q.1-2.
+Source: Annex 6.2-A to the Form CO
 
-                                                             61
+(?*) Responses to the Market Questionnaire for Customers, Question Q.1-2.
+(3) Responses to the Market Questionnaire for Customers, Question Q.1-2.
+?*) Responses to the Market Questionnaire for Customers, Question Q.1-2.
+
+61
+
 
 [PÁGINA PDF 63]
 5.10.1.2. The Notifying Party’s views
@@ -5194,129 +5209,405 @@ Béthune Plant
                                                         27
 
 [PÁGINA PDF 100 | texto OCR: verificar contra el PDF]
-          Annex 2h — Personnel and Key Personnel of the Divestment Business
+Annex 2h — Personnel and Key Personnel of the Divestment Business
 
+The Personnel include personnel across key functions, including [...] FTEs in joint functions
+(“Joint Personnel”), as well as [...] FTEs in case of the Avignon Plant and [...] FTEs in case of
+the Béthune Plant. A total of [...] FTEs will be transferred to the Purchaser upon Closing.
 
+The transferring personnel resources are set out below across functions:
 
-1.     The Personnel include personnel across key functions, including  [...] FTEs in joint functions
-        (“Joint Personnel’), as well as [...] FTEs in case of the Avignon Plant and [...] FTEs in case of
-        the Béthune Plant. A total of [...] FTEs will be transferred to the Purchaser upon Closing.
+Table 1 — Joint Personnel
 
-2.     The transferring personnel resources are set out below across functions:
+Function Total Transfer FTE
 
-                                Table 1 — Joint Personnel
+France
 
+[sales personnel title] [...]
+[sales personnel title] [...]
+[sales personnel title] [...]
+[sales personnel title] [...]
+[sales personnel title] [...]
+[sales personnel title] [...]
+[sales personnel title] [...]
+[sales personnel title] [..-]
+[sales personnel title] [..-]
+[sales personnel title] [..-]
+[sales personnel title] [..-]
+[sales personnel title] [..-]
+[sales personnel title] [..-]
+Italy
 
-          Function                                                             Total Transfer FTE
-      PPmee
+[sales personnel title] [..-]
+[sales personnel title] [..-]
+[sales personnel title] [..-]
+[sales personnel title] [...]
+Total [..-]
 
+Table 2 — Personnel specific to Avignon Plant
 
+Function Total Transfer FTE
 
+Production [...]
+Maintenance [..-]
+Logistics [.--]
+Quality Control [..-]
+Safety [...]
+Human Resources [..-]
+Finance [..-]
+Total [.--]
 
+28
 
- fewOOS
-
-
-                       Table 2 — Personnel specific to Avignon Plant
-
-          Function                                                             Total Transfer FTE
-
-
-
-
-
-  SOSOSCSOSOSCSCCOCSCidS   few
-
-
-
-
-                                                         28
 
 [PÁGINA PDF 101 | texto OCR: verificar contra el PDF]
-                       Table 3 - Personnel specific to Béthune Plant
+Table 3 - Personnel specific to Béthune Plant
 
-          Function                                                             Total Transfer FTE
+Function Total Transfer FTE
+
+Production |
+
+Maintenance
+
+Logistics
+Quality Control
+Safety
+
+Human Resources
+
+Finance
+
+Methods Continuous Improvement
+Total
+
+eee Geen Ae eee ee ee ee ee ee
+ee ee ee ee ee)
+
+To the extent not already included in the above, the Purchaser will be assumed to be able to absorb
+centralized sales and marketing functions, back-office functions and other centralized functions
+including but not limited to legal, HR, etc. and no such employees will transfer. If necessary, at
+the option of the Purchaser, TSAs will be offered for certain support functions for a transitory
+period.
+
+The following are considered Key Personnel:
+
+Table 4 — Key Personnel (Joint Functions)
+
+Function Total Transfer FTE Name of FTE
+[...]
+
+[...] [...] [...]
+[...] [...] [...]
+[...] [...] [..-]
+[...] [...] [...]
+[...] [...] [...]
+[...] [...] [...]
+[...] [...] [...]
+[.-.] [...] [...]
+[.-.] [...] [...]
+[...] [...] [...]
+[.-.] [...] [...]
+[.-.] [...] [...]
+[...] [...] [.-.]
+[.-.]
+
+[...] [...] [...]
+[...] [...] [...]
+[...] [...] [...]
+[...] [...] [...]
+[.-.] [..-] [...
 
 
-
-
-
-a
-
-
-3.     To the extent not already included in the above, the Purchaser will be assumed to be able to absorb
-        centralized sales and marketing functions, back-office functions and other centralized functions
-        including but not limited to legal, HR, etc. and no such employees will transfer. If necessary, at
-        the option of the Purchaser, TSAs will be offered for certain support functions for a transitory
-        period.
-
-4.     The following are considered Key Personnel:
-
-                         Table 4 — Key Personnel (Joint Functions)
-
-        Function                          Total Transfer FTE                     Name of FTE
-([Ss       os
-[ss
-[ss
-[Ss
-[Ss
-[Sscs
-[SeGs
-[es
-([se[Seos    0
-[es
-ta
-[a
-[ee
-[ee
-[ee
-eeoe
-[Secs
-
-
-
-                                                         29
 
 [PÁGINA PDF 102 | texto OCR: verificar contra el PDF]
-                     Table 5 — Key Personnel of the Avignon Plant
+ame of
 
-                 Function                       Total            Name of FTE
-                                             Transfer
+5
 
-                                   FTE
+[..
 
+]
+]
+5
 
+[..
 
+[..
 
+[..
 
-I   os ee     cs  on
-
-
-                 Table 6 — Key Personnel of the Béthune Plant
-
- Function                                        Total                     Name of FTE
-                                             Transfer
-
-                                   FTE
-es
-OS
-a          OS  OT
-[a
- ea                         —s
 a
+
+[..
+
+]
+]
+
+[..
+
+[..
+
+]
+-]
+
+[..
+
+[..
+
+-]
+
+[..
+
+]
+
+[..
+
+J
+
+[..
+
+]
+]
+]
+]
+]
+]
+]
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+]
+
+[..
+
+]
+]
+
+[..
+
+[..
+
+]
+
+[..
+
+]
+
+[..
+
+]
+
+[..
+
+]
+]
+
+[..
+
+[..
+
+Table 5 — Key Personnel of the Avignon Plant
+Total
+Transfer
+FTE
+
+‘unctio
+
+]
+]
+]
+]
+J
+]
+]
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+]
+]
+
+[..
+
+[..
+
+]
+
+[..
+
+]
+]
+
+[..
+
+[..
+
+Table 6 — Key Personnel of the Béthune Plant
+
+ame of FTE
+
+]
+]
+]
+
+[.-
+
+[.-
+
+[.-
+
+J
+
+[..
+
+]
+]
+]
+
+[..
+
+[.-
+
+[.-
+
+]
+]
+
+[..
+
+[.-
+
+]
+
+[..
+
+]
+
+[..
+
+:
 a
-ta    TTCOCd a CS
-[Ss
-CS
-[oD
-[[ds
-[ES
+
+Transfer
+
+FTE
+
+]
+]
+]
+]
+]
+]
+]
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+]
+]
+
+[..
+
+[..
+
+]
+
+[..
+
+]
+]
+
+[..
+
+[..
+
+Functio:
+
+J
+
+[..
+
+-]
+-]
+-]
+-]
+J
+J
+]
+-]
+-]
+]
+-]
+-]
+-]
+]
+‘]
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
+
+[..
 
 
-
-
-
-                                                  30
 
 [PÁGINA PDF 103]
               Annex 2j-1 – Supply contracts for the Divestment Business
@@ -5371,101 +5662,167 @@ CS
                                                        31
 
 [PÁGINA PDF 104 | texto OCR: verificar contra el PDF]
-          Annex 2j-2 — Warehousing, Logistics and Transportation Agreements
+Annex 2j-2 — Warehousing, Logistics and Transportation Agreements
 
+Warehousing, Logistics and Transportation Agreements to be transferred to the Divestment
+Business, shall include the following:
 
+(a) Warehousing and Logistics Agreements: Existing arrangements with the following
+warehousing and logistics services providers in [warehouse locations in Italy] and
+[warehouse locations in France], to the extent that they are necessary for the operation
+of the Divestment Business:
 
-1.      Warehousing, Logistics and Transportation Agreements to be transferred to the Divestment
-        Business, shall include the following:
+e [Third party logistics operators]
+e [Third party logistics operators]
 
-         (a)     Warehousing and Logistics Agreements: Existing arrangements with the following
-              warehousing and logistics services providers in [warehouse locations  in Italy] and
-              [warehouse locations in France], to the extent that they are necessary for the operation
+(b) Transportation Agreements: any existing arrangements with transportation service
+providers necessary for the Customer Relationships, including in particular:
 
-              of the Divestment Business:
+Table 7 — Transportation Agreements
 
-                e   [Third party logistics operators]
-                 e   [Third party logistics operators]
+Departure Destination Transporters
 
-        (b)     Transportation Agreements: any existing arrangements with transportation  service
-               providers necessary for the Customer Relationships, including in particular:
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
+[plant/warehouse] [warehouse/customer] [third party logistics operator]
 
-                              Table 7 — Transportation Agreements
+° Contact details of as well as any existing arrangements with the following
 
-         Departure                       Destination                     Transporters
+transport services providers used for deliveries from warehouses to Retail and
+Foodservice customers in France:
 
-          [plant/warehouse]                 [warehouse/customer]               [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]                [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]                [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]               [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]                [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]               [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]                [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]                [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]               [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]                [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]               [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]                [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]               [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]               [third party logistics operator]
-
-          [plant/warehouse]                 [warehouse/customer]                [third party logistics operator]
-
-
-
-                           °       Contact details of as well as any existing arrangements with the following
-                           transport services providers used for deliveries from warehouses to Retail and
-
-                       Foodservice customers in France:
-
-
-
-
-
-                                                          32
 
 [PÁGINA PDF 105 | texto OCR: verificar contra el PDF]
-               Table 8 — Transportation Providers for deliveries to customers in France
+Table 8 — Transportation Providers for deliveries to customers in France
 
+Name Departments covered
 
-       Name                                      Departments covered
+[third party logistics operator]
 
+[regions covered]
 
+[third party logistics operator]
 
+[regions covered]
 
+[third party logistics operator]
 
-                            °       Contact details of as well as any existing arrangements with the following
-                           transport services providers used for deliveries from warehouses to Retail
-                        customers in Italy:
+[regions covered]
 
-                Table 9 — Transportation Providers for deliveries to customers in Italy
+[third party logistics operator]
 
+[regions covered]
 
-       Name                                        Regions covered
+[third party logistics operator]
 
+[regions covered]
 
+[third party logistics operator]
 
+[regions covered]
 
+[third party logistics operator]
 
-2.      For any Warehousing, Logistics or Transportation Agreement which pertains to both the
+[regions covered]
 
-       Divestment Business and the retained business of the Parties, the Parties and the Purchaser will
+[third party logistics operator]
 
-        cooperate to enable the Purchaser to enter into   a new agreement in respect of the relevant part
-                                                          33
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+[third party logistics operator]
+
+[regions covered]
+
+: Contact details of as well as any existing arrangements with the following
+transport services providers used for deliveries from warehouses to Retail
+customers in Italy:
+
+Table 9 — Transportation Providers for deliveries to customers in Italy
+
+Name Regions covered
+
+[third party logistics operator] [regions covered]
+
+[third party logistics operator] [regions covered]
+
+For any Warehousing, Logistics or Transportation Agreement which pertains to both the
+Divestment Business and the retained business of the Parties, the Parties and the Purchaser will
+
+cooperate to enable the Purchaser to enter into a new agreement in respect of the relevant part
+33
+
 
 [PÁGINA PDF 106]
         of the agreement that relates to the Divestment Business, on or before Closing on substantially

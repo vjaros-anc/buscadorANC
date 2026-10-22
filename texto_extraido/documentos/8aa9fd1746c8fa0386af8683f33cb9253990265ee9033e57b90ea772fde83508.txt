@@ -1089,71 +1089,203 @@ Madame, Monsieur,
                                                     20
 
 [PÁGINA PDF 22 | texto OCR: verificar contra el PDF]
-         Tableau 1 — Aperçu des marchés affectés dans le secteur de l’eau
-Marché de         Marché  | Année de    .  |  Partde |  Partde       Partde
-P roduit             éographiaque |  référence     Unité    marché | marché de     marché                BCOBFAPOA                          de Veolia     Suez       combinée
+Tableau 1 — Aperçu des marchés affectés dans le secteur de l’eau
+
+Marché de
+produit
+
+Marché
+géographique
+
+Année de
+référence
+
+Unité
+
+Part de
+marché
+de Veolia
+
+Part de
+marché de
+Suez
+
+Part de
+marché
+combinée
 
 Production et
-distribution d’eau      National        2020       Valeur | [50-60] % |  [30-40] %      [80-901 %
+distribution d’eau
 potable en France
-Collecte et
-traitementeaux usees desen          National        2020 |  Valeur  | [30-40]% | [40-50]% |   [70-80] %
 
+National
+
+2020
+
+Valeur
+
+[50-60] %
+
+[30-40] %
+
+[80-90] %
+
+Collecte et
+traitement des
+eaux usées en
 France
 
+National
+
+2020
+
+Valeur
+
+[30-40] %
+
+[40-50] %
+
+[70-80] %
+
 Gestion de l’eau
-municipale en         National        2020       Valeur | [20-30]% |  [10-20] %      [30-40] %
+municipale en
 Tchéquie
+
+National
+
+2020
+
+Valeur
+
+[20-30] %
+
+[10-20] %
+
+[30-40] %
+
 Production et
-
-distribution d’eau                                           .
-potable en             National        2020     Volume | 6.51% |  [20-30] %      [20-30] %
+distribution d’eau
+potable en
 Espagne
-Collecte et
 
-traitement des                                                           .
-eaux usées en          National        2020     Volume |  6.51% |  [20-30] %      [20-30] %
+National
+
+2020
+
+Volume
+
+[0-5] %
+
+[20-30] %
+
+[20-30] %
+
+Collecte et
+traitement des
+eaux usées en
+
 Espagne
-Collecte et
 
-traitement des                                                          .
-eaux usées en         National        2020     Volume | L6.301% |   [0-5] %       [20-30] %
+National
+
+2020
+
+Volume
+
+[0-5] %
+
+[20-30] %
+
+[20-30] %
+
+Collecte et
+traitement des
+eaux usées en
 Pologne
+
+National
+
+2020
+
+Volume
+
+[20-30] %
+
+[0-5] %
+
+[20-30] %
+
 Gestion de l’eau
-Franceindustrielle en         National        2020       Valeur    [20-30] % |  [20-30] %      [50-60] %
+industrielle en
+France
+
+National
+
+2020
+
+Valeur
+
+[20-30] %
+
+[20-30] %
+
+[50-60] %
 
 Exploitation et
 maintenance des
 systèmes de
-traitement des         National        2020       Valeur
+traitement des
 eaux
-industrielles/eaux                                      [20-30]% | [20-30]%      [50-60] %
+industrielles/eaux
 de process en
 France
 
+National
+
+2020
+
+Valeur
+
+[20-30] %
+
+[20-30] %
+
+[50-60] %
+
 Exploitation et
 maintenance des
 systèmes de
-traitement des         National        2020       Valeur
-effluents                                                                                    o                 0                    o
-industriels en                                          [30-40]% | [20-30] %      [50-60] %
-
+traitement des
+effluents
+industriels en
 France
 
+National
 
-  (46)  Comme indiqué dans le Tableau 1 ci-dessus, le seul marché affecté dans le secteur
-         de l’eau industrielle est le marché de la gestion de l’eau industrielle en France. Il
-         convient toutefois de noter qu’un nombre limité d’acteurs du marché ont fait état
-         de la position combinée particulièrement importante des Parties qui résulterait de
-         l’Opération sur les marchés de la gestion de l’eau industrielle en Belgique, en Italie,
-        aux Pays-Bas et au Portugal. Ces marchés ne sont, selon la Partie Notifiante, pas
-          affectés    :
+2020
+
+Valeur
+
+[30-40] %
+
+[20-30] %
+
+[50-60] %
+
+(46)
+
+affectés :
+
+21
+
+Comme indiqué dans le Tableau 1 ci-dessus, le seul marché affecté dans le secteur
+de l’eau industrielle est le marché de la gestion de l’eau industrielle en France. Il
+convient toutefois de noter qu’un nombre limité d’acteurs du marché ont fait état
+de la position combinée particulièrement importante des Parties qui résulterait de
+l'Opération sur les marchés de la gestion de l’eau industrielle en Belgique, en Italie,
+aux Pays-Bas et au Portugal. Ces marchés ne sont, selon la Partie Notifiante, pas
 
 
-
-
-
-                                                             21
 
 [PÁGINA PDF 23]
          -    en ce qui concerne le marché de la gestion de l’eau industrielle au Portugal, la
@@ -1592,60 +1724,68 @@ France
 [PÁGINA PDF 31 | texto OCR: verificar contra el PDF]
 5.3.1.2. Analyse concurrentielle
 
-   (77)   La Partie Notifiante fournit une estimation des parts de marchés de Veolia, Suez et
-          de leurs principaux concurrents sur les marchés (1) de la production et la distribution
-          d’eau potable et (11) de la collecte et le traitement des eaux usées en France dans le
-          tableau ci-dessous.
+(77)
+
+La Partie Notifiante fournit une estimation des parts de marchés de Veolia, Suez et
+de leurs principaux concurrents sur les marchés (1) de la production et la distribution
+d’eau potable et (11) de la collecte et le traitement des eaux usées en France dans le
+tableau ci-dessous.
+
+Tableau 2 — Parts de marchés des Parties et de leurs concurrents sur le marché de la
+production et la distribution d’eau potable et le marché de la collecte et du traitement
+
+des eaux usées en France (2020)
+
+Eau potable Eaux usées
+90 - Part de Valeur Part de . Part de Valeur Part de
+2020 _ manon marché (Million marché _ manon marché (Million marché
+a (%) — (%) a (%) a (%)
+Veolia 50-60 50-60 40-50 30-40
+p0-30] | [ ” ll gp ÎI , ll p5s10] [I “ ll gg ÎI " ]
+Suez 20-30 30-40 30-40 40-50
+[so] | . ll gp ÎI , TU ps1oy |[ n. ll gg | . ]
+Combinée 80- 80- 70- 70-
+Époss dy | d , | /10-20] 40 | ll ni %
+Saur 10-20 10-20 10-20 10-20
+psioy [PGI ça OCT pos [POIL ça | Pol
+Autres
+(SOGEDO,
+Aqualter, SPI : [5-10] _&lo : [5-10] [5-10]
+Environnement [OS] % 1 [0-51 % [os] % 1 %
+(Aqualia),
+| Agur, Cholton)
+Total [30-40] 100 % [...] 100 % [20-30] 100 % [...] 100 %
+
+Source : Formulaire CO, Annexe RFI 32 Annexe 1 (a)
+
+A.
+
+(78)
+
+Arguments de la Partie Notifiante
+
+La Partie Notifiante soutient que l’Opération n’est pas de nature à soulever des
+préoccupations de concurrence par le bais d’effets horizontaux sur les marchés (1)
+de la production et la distribution d’eau potable et (11) de la collecte et le traitement
+des eaux usées en France. La Partie Notifiante fait notamment valoir que la gestion
+directe par les collectivités publiques exerce une pression concurrentielle
+significative sur les opérateurs privés, en ce compris sur les Parties. De plus, la
+Partie Notifiante explique qu'environ [30-40] % des contrats des Parties aussi bien
+pour la production et la distribution d’eau potable que pour la collecte et le
+traitement des eaux usées seront remis en concurrence (par le biais d’appels
+d’offres) [Informations liées à la stratégie commerciale de Veolia et Suez],
+remettant en jeu une partie significative de leurs parts de marché. En outre, les
+Parties continueront à faire face à la concurrence d’un acteur majeur — la Saur — et
+d’une multitude d’opérateurs de taille plus limitée et plutôt présents au niveau local,
+tels que SOGEDO, Aqualter, Aqualia, Agur ou Cholton. Enfin, la Partie Notifiante
+
+Les parts de marché fournies par la Partie Notifiante ne varient pas de manière significative au cours
+
+des trois dernières années.
+
+30
 
 
- Tableau 2 — Parts de marchés des Parties et de leurs concurrents sur le marché de la
-
- production et la distribution d’eau potable et le marché de la collecte et du traitement
-                           des eaux usées en France (2020)
-
-     2020 90          Population-        Part de,      Valeur7       Part de,     PopulationÈ        Part de,      Valeur.       Part de,
-
-                                     _         [50-60]               [50-60]             _         [40-50]               [30-40]
-
-                                        |         [20-30]               [30-40]             |         [30-40]               [40-50]
-
-RE90] %    lcd       90] %     [10-20]       80] %       [...]        80] %                     [30-40]_         [10-20]ARE[10-20]ANT_        [10-20]ANRT [10-20]2
-
-
- Autres
-
- (SOGEDO,
- Aqualter,  SPI           |         [5-10]             Léo               |         [5-10]                 [5-10]
- Environnement       [o-S]     %                   [0-51 %       [o-S]     %       L-]    %
- (Aqualia),
- Agur, Cholton
-Brotaln\|  [30-40] | 100% | [1 | 100% |  [20-30] | 100% | [1  | 100%
-Source  : Formulaire CO, Annexe RFI 32 Annexe 1 (a)
-
-   A.    Arguments de la Partie Notifiante
-
-   (78)   La Partie Notifiante soutient que l’Opération n’est pas de nature à soulever des
-          préoccupations de concurrence par le bais d’effets horizontaux sur les marchés (1)
-          de la production et la distribution d’eau potable et (11) de la collecte et le traitement
-          des eaux usées en France. La Partie Notifiante fait notamment valoir que la gestion
-           directe  par  les  collectivités  publiques  exerce  une  pression  concurrentielle
-           significative sur les opérateurs privés, en ce compris sur les Parties. De plus, la
-           Partie Notifiante explique qu'environ [30-40] % des contrats des Parties aussi bien
-         pour  la production  et  la distribution d’eau potable que pour  la collecte  et  le
-           traitement des eaux usées seront remis en concurrence  (par  le biais d’appels
-           d'offres)  [Informations  liées  à  la  stratégie commerciale de Veolia  et  Suez],
-          remettant en jeu une partie significative de leurs parts de marché. En outre, les
-           Parties continueront à faire face à la concurrence d’un acteur majeur — la Saur — et
-          d’une multitude d’opérateurs de taille plus limitée et plutôt présents au niveau local,
-             tels que SOGEDO, Aqualter, Aqualia, Agur ou Cholton. Enfin, la Partie Notifiante
-
-
-
-
-90      Les parts de marché fournies par la Partie Notifiante ne varient pas de manière significative au cours
-        des trois dernières années.
-
-                                                        30
 
 [PÁGINA PDF 32]
           estime  qu’il  n’existe  pas de  barrières  légales  et/ou  financières  à  l’entrée
@@ -2565,70 +2705,70 @@ Source  : Formulaire CO, Annexe RFI 32 Annexe 1 (a)
                                                     47
 
 [PÁGINA PDF 49 | texto OCR: verificar contra el PDF]
-          des eaux brutes et eaux usées à destination des clients municipaux en France dans
-             le tableau ci-dessous16?.
+des eaux brutes et eaux usées à destination des clients municipaux en France dans
+le tableau ci-dessous16?.
 
-
-  Tableau 3 — Parts de marchés des Parties et de leurs concurrents sur le marché de
-
+Tableau 3 — Parts de marchés des Parties et de leurs concurrents sur le marché de
 PEPC des systèmes de traitement des eaux brutes à destination des clients municipaux
-                          en France (2018, 2019 et 2020)
+en France (2018, 2019 et 2020)
+
+2018 2019 2020
+Valeur Part de Valeur Part de Valeur Part de
+(millions marché (millions marché (millions marché
+d’euros) (%) d’euros) (%) d’euros) (%)
+
+Veolia [...] [10-201% [...] [10-20] % [...] [5-10] %
+Suez [...] [5-10] % [...] [5-101% [...] [5-10] %
+Combinée [..] [20-30] % [...] [20-30] % [...] [10-20] %
+Saur [...] [5-10] % [...] [10-20] % [...] [10-201%
+
+Sources [...] [0-51 % [...] [0-51 % [...] [0-51%
+
+| Sogea [...] [0-51 % [...] [0-51 % [...] [0-51%
+Autres [...] [60-70] % [...] [50-601] % [...] [60-701%
+
+Total [...] 100 % [...] 100 % [...] 100 %
+
+Source : réponse de la Partie Notifiante à la demande d'informations 100
+
+Tableau 4 — Parts de marchés des Parties et de leurs concurrents sur le marché de
+PEPC des systèmes de traitement des eaux usées à destination des clients municipaux
+en France (2018, 2019 et 2020)
+
+2018 2019 2020
+Valeur Part de Valeur Part de Valeur Part de
+(millions marché (millions marché (millions marché
+d’euros) (%) d’euros) (%) d’euros) (%)
+
+Veolia [...] [10-20] % [...] [10-20] % [...] [5-10] %
+Suez [...] [20-301 % [...] [10-20] % [...] [10-201] %
+Combinée [..] [30- 40] % [...] [20-30] % [...] [20-30] %
+Saur [...] [5-10] % [...] [10-20] % [..] [10-20] %
+Sources [...] [5-10] % [...] [5-101 % [...] [5-10] %
+
+| Sogea [...] [0-51 % [...] [0-51 % [...] [0-51 %
+Autres [...] [40-501 % [...] [40-501 % [...] [50-60] %
+
+Total […] 100 % [.…] 100 % [...] 100 %
+
+Source : réponse de la Partie Notifiante à la demande d'informations 100
+
+(139) Les parts de marché communiquées par la Partie Notifiante apparaissent, prima
+facie, relativement limitées, en particulier en 2020, année pour laquelle seul le
+marché de l’EPC des systèmes de traitement des eaux usées en France serait affecté.
+
+169
+
+Les parts de marché sont calculées sur la base du montant annuel des commandes et non pas sur le
+chiffre d’affaires annuel. En effet, le marché de l’EPC fonctionne sur la base de projets dont le nombre
+et la valeur peuvent fluctuer de façon significative selon les années et les demandes spécifiques des
+clients. Par conséquent, la position des acteurs sur ce marché est mieux reflétée par la valeur des
+commandes remportées pendant une période donnée que par le chiffre d’affaires, qui peut être réparti
+
+sur plusieurs années après l’obtention du contrat (Annexe RFI 13 Q2 (2) (a)).
+48
 
 
-
-
-                            Valeur      Part de       Valeur      Part de       Valeur      Part de
-
-
-                            d’euros      %         d’euros      %         d’euros      %
-       BVeolia | [1  | [10-20/% | [1  | [10-20]% | [1  | [510%
-      BSuez | [1  | [5-10]% | [1   | [510% | [1  | [510%
-        | Combinée |  [.] | [20-30] % | [7   | [20-30 % | [7  | [1027 %
-      BSaur |  [1  | [5-10]% | [1   | [10-20)% | [1  | [10-20/%
-       BSources | [1  | [0-5]% | [1  | [0-5)% | [1  |  [0-5]%
-     BSogea  | [1  | [0-5J% | [1  | [0-51% | [1  |  [0-5]%
-      Autres | [1 | [60-70]% | [1   | [50-60] % | [1 | [60-70J%
-     Brotal  | [| 100% | [|  100%  | [1  | 100%
-        Source  : réponse de la Partie Notifiante à la demande d'informations 100
-
-
-  Tableau 4 — Parts de marchés des Parties et de leurs concurrents sur le marché de
-
- PEPC des systèmes de traitement des eaux usées à destination des clients municipaux
-                          en France (2018, 2019 et 2020)
-
-
-
-
-                            Valeur      Part de       Valeur      Part de       Valeur      Part de
-
-
-                            d’euros      %         d’euros      %         d’euros      %
-       BVeolia | [1  | [10-20]% | [1   | [10-20] % | [1  | [510%
-      BSuez | [1 | [20-30]% | [1   | [10-20]% | [1] | [10-20)%
-        | Combinée |  [.] | [30-40] % | [7   | [20-30 % | [7  | [2037 %
-      BSaur |  [1  | [5-10]% | [1   | [10-20)% |  [1]  | [10-20)%
-       BSources | [1  | [5-10]% | [1  | [5-10]% | [1  | [510%
-      BSogea | [1  | [0-5]% | [1  | [0-5)% | [1  | [051%
-      Autres | [1 | [40-50]% | [1 | [40-50] % |  [1]  | [50-60]%
-     Brotale  | [| 100% | [| 100%  | [1  |  100%
-        Source  : réponse de la Partie Notifiante à la demande d'informations 100
-
-   (139)  Les parts de marché communiquées par la Partie Notifiante apparaissent, prima
-          facie, relativement limitées, en particulier en 2020, année pour laquelle seul le
-         marché de l’EPC des systèmes de traitement des eaux usées en France serait affecté.
-
-
-
-
-
-169     Les parts de marché sont calculées sur la base du montant annuel des commandes et non pas sur le
-         chiffre d’affaires annuel. En effet, le marché de l’EPC fonctionne sur la base de projets dont le nombre
-          et la valeur peuvent fluctuer de façon significative selon les années et les demandes spécifiques des
-          clients. Par conséquent,  la position des acteurs sur ce marché est mieux reflétée par la valeur des
-       commandes remportées pendant une période donnée que par le chiffre d’affaires, qui peut être réparti
-         sur plusieurs années après l’obtention du contrat (Annexe RFI 13 Q2 (2) (a)).
-                                                    48
 
 [PÁGINA PDF 50]
    (140)  Toutefois, il ressort de l’instruction menée par la Commission que les estimations
@@ -3095,54 +3235,74 @@ PEPC des systèmes de traitement des eaux brutes à destination des clients muni
                                                     57
 
 [PÁGINA PDF 59 | texto OCR: verificar contra el PDF]
- Tableau 5 — Parts de marchés des Parties et de leurs concurrents sur le marché de la
-               gestion de l’eau municipale en Tchéquie (2019 et 2020)204
+Tableau 5 — Parts de marchés des Parties et de leurs concurrents sur le marché de la
 
+gestion de l’eau municipale en Tchéquie (2019 et 2020)204
 
+Source: Formulaire CO, Annexe RFI 32 Annexe
 
+A.
 
-                                                        (millions     marché      (millions     marché
-                                                   d’euros      %         d’euros      %
-    Veolia | [1  | [20-30]% | [1  | [2030% |
-       ES eZ | [1  | [10-20]% | [1  | [10201% |
-        Combinée                                                                         [30-40]  MPRTTELE
- FabEnergie AGGroup nn PE| [1  | [5-10)%ET | TE[1  | CT[5-10% |
+(179)
 
-                   Ostrava A.S. (AQUALIA                   [5-10] %         [..]         [5-10] %PEGroufkanalizace   ee CES RE ES      Vodärenski Akciovä Spoleënost AS  | [1 | [0-5]% | [1  | [5-10)% |
-       BVodérna Pigeon,AS       | [1 |  [0-5J% | [1  | [0-5]% |
- REC         EP D NEO  EE 8  EEE FLE
- Proton        Source: Formulaire CO, Annexe RFI 32 Annexe I (a)1 Lie  | Li   | 10% |
+(180)
 
-   A.     Position de la Partie Notifiante
+(181)
 
-   (179)  La Partie Notifiante soutient que l’Opération n’est pas de nature à soulever des
-          préoccupations de concurrence par le biais d’effets horizontaux sur le marché de la
-          gestion de l’eau municipale en Tchéquie dans la mesure où (1) le marché tchèque
-            est caractérisé par une pression concurrentielle sigmificative et croissante exercée
-          par la gestion publique des municipalités sur les opérateurs privés, en ce compris
-            les Parties, (11) les Parties continueront à faire face à la concurrence de nombreux
-          concurrents, y compris des opérateurs privés et des entreprises publiques et (ini) les
-         données d’appels d’offres indiquent que les Parties ne sont pas des concurrents
-           proches206.
+2019 2020
+Valeur Part de Valeur Part de
+(millions marché (millions marché
+d’euros) (%) d’euros) (%)
+Veolia [...] [20-30] % [...] [20-30] %
+Suez [...] [10-20] % [...] [10-20] %
+Combinée [30-40]
+lb) [40-50]% lb) Du
+Acxerp ee vodovody a kanalizace, (.] [10-20] % (..] [10-20] %
+Energie AG Group [...] [5-10] % [...] [5-101%
+Severomorav ské vodovody a
+kanalizace Ostrava A.S. (AQUALIA [...] [5-10] % [...] [5-10] %
+Group)
+Vodärenski Akcioväâ Spoleënost, A.S. [...] [0-51 % [...] [5-101 %
+Vodtrna Plzen, AS. [...] [0-5 1% [...] [0-51 %
+Autres [...] [30-401 % [...] [20-301 %
+Total [...] 100 % [..] 100 %
+1
 
-   (180)  En tout état de cause, la Partie Notifiante explique que l'Opération n’entraînera pas
-         d’augmentation de la part de marché de Veolia en Tchéquie. En effet, en vertu de
-         l’Accord de Rapprochement concrétisé par la Put Option et le projet final de SAPA
-        y étant annexé, l’ensemble des  activités  liées à l’eau municipale de Suez en
-         République tchèque seront cédées par la Partie Notifiante au Consortium à l’issue
-          de l’Opération.
+(a)
+Position de la Partie Notifiante
 
-    B.     Analyse de la  Commission
+La Partie Notifiante soutient que l’Opération n’est pas de nature à soulever des
+préoccupations de concurrence par le biais d’effets horizontaux sur le marché de la
+gestion de l’eau municipale en Tchéquie dans la mesure où (1) le marché tchèque
+est caractérisé par une pression concurrentielle significative et croissante exercée
+par la gestion publique des municipalités sur les opérateurs privés, en ce compris
+les Parties, (11) les Parties continueront à faire face à la concurrence de nombreux
+concurrents, y compris des opérateurs privés et des entreprises publiques et (111) les
+données d’appels d’offres indiquent que les Parties ne sont pas des concurrents
+proches20%6.
 
-   (181)  Pour les raisons qui seront exposées dans  la présente section,  la Commission
-          considère que l’Opération ne soulève pas de doutes sérieux quant à sa compatibilité
+En tout état de cause, la Partie Notifiante explique que l’Opération n’entraînera pas
+d’augmentation de la part de marché de Veolia en Tchéquie. En effet, en vertu de
+l’Accord de Rapprochement concrétisé par la Put Option et le projet final de SAPA
+y étant annexé, l’ensemble des activités liées à l’eau municipale de Suez en
+République tchèque seront cédées par la Partie Notifiante au Consortium à l’issue
+de l’Opération.
 
+Analyse de la Commission
 
+Pour les raisons qui seront exposées dans la présente section, la Commission
+considère que l’Opération ne soulève pas de doutes sérieux quant à sa compatibilité
 
+204
+205
+206
 
-204     Les parts de marché des Parties estimées également en volume sont du même ordre de grandeur.
-205      Différences dues à l’arrondi.
-206     Réponse de la Partie Notifiante à la demande d'informations 15, Annexe RFI 15 QS (1).
+Les parts de marché des Parties estimées également en volume sont du même ordre de grandeur.
+Différences dues à l’arrondi.
+Réponse de la Partie Notifiante à la demande d’informations 15, Annexe RFI 15 Q5 (1).
+
+58
+
 
 [PÁGINA PDF 60]
          avec le marché intérieur au titre de possibles effets non-coordonnées horizontaux
@@ -3459,65 +3619,56 @@ PEPC des systèmes de traitement des eaux brutes à destination des clients muni
                                                     64
 
 [PÁGINA PDF 66 | texto OCR: verificar contra el PDF]
-     Tableau 6 — Parts de marché des Parties et de leurs concurrents sur le marché de la
-    production et la distribution d’eau potable et le marché de la collecte et du traitement
-                              des eaux usées en Espagne (2020)
+Tableau 6 — Parts de marché des Parties et de leurs concurrents sur le marché de la
+production et la distribution d’eau potable et le marché de la collecte et du traitement
+des eaux usées en Espagne (2020)
+
+Eau potable Eaux usées
+227 Volume Part de Valeur Part de Volume | Part de Valeur | Part de
+2020 (millions | marché | (millions | marché | (millions | marché | (millions | marché
+m° (%) euros) (%) m (%) euros) (%)
+Veolia [...] [0-51 % [...] [0-51 % [...] [0-5] % [...] [0-51%
+_— . [poso%| [1 |(Go40%| [.] ve (.] El
+20-30 L L
+
+Combinée [...] 5 rs Es) [30-40] % lEd) [20° ul bd) 1 %
+Fe [.) |posog%| ç.] |[posogw| ç [1921] ç; [ho
+Global Omnium L.] {s10)% | [1 | [510% | [. Po20l (..] F0)
+Acciona Agua [...] [5-10] % [...] [0-5] % [..] pol [..] Pol
+Sacyr Agua [...] [...] [...] [0-51 % [...] [...] [...] [0-51 %
+Urbaser/SOCAMEX [...| [| [...] [0-51 % [...] [...] [...] [0-51 %
+Cadagua [...| [| [...] [0-51 % [...] [...] [...] [0-51 %
+TEDAGUA [...| [| [...] [0-51 % [...] [...] [...] [0-51 %
+GS Inima [...| [| [...] [0-51 % [...] [...] [...] [0-51 %
+Saur [...| [| [...] [0-51 % [...] [...] [...] [0-51 %
+Autres (tels que
+Dras dos. Se (..] L..] L.] [510% | [.] (..] (..] Po20l
+etc.)
+Total [...] 100 % [...] 100 % [...] 100 % [...] 100 %
+
+Source : Réponse de la Partie Notifiante à la demande d'informations 101.
+ND : Non disponible.
+
+A. Position de la Partie Notifiante
+
+(208) La Partie Notifiante soutient que l’Opération n’est pas de nature à soulever des
+préoccupations de concurrence par le bais d’effets horizontaux sur les marchés (1)
+de la production et la distribution d’eau potable et (11) de la collecte et le traitement
+des eaux usées en Espagne.
+
+(209) La Partie Notifiante explique notamment que l’incrément résultant de l’Opération
+est négligeable, la présence de Veolia étant marginale sur le marché espagnol de la
+gestion de l’eau municipale. En outre, elle soutient que les données d’appels
+d’offres de Suez montrent que Veolia exerce une pression concurrentielle faible sur
+Suez, et de nombreux autres acteurs tels que Aqualia, Acciona ou encore
+
+227 Les parts de marché fournies par la Partie Notifiante ne varient pas de manière significative au cours
+des trois dernières années.
+228 Différences dues à l’arrondi.
+
+65
 
 
-                227        Volume    Part de     Valeur     Part de    Volume | Part de    Valeur | Part de
-       2020             (millions | marché | (millions | marché | (millions | marché | (millions | marché
-                     m°       (%        euros     %    m      %       euros     (%
-                                [0-51% |[1|  10-51%                  [0-51 %              [0-51%
-
-                                                                _        L)                              …      0
-
- Combinée                          L20-30]                              o               [20-30]                 [5-
-                                 lbxi)    75        lcd)     [30-40] %      lEcd)     %      lb!      10] %
-
-
-
-
-
-                                                                                                                        0                            0
-
- Urbaser SOCAMEX | [1 | [1  | [1 | [0-5J% | [1 À [1 | [1  |10-51%)
-BCadagua | [1 | [1 | [| [0-51)% | Le  | LL PL.  Fr0-5J%
- TEDAGUA   DL PO    | OL.)  À 10-5)% | Le  À LL TL.  Fr0-5J%
-BGSEnirna | [1 | [1  | [| [0-51)% | Le  | OL) | Le  Ff0-5J%
-BSaur | [1 À [1  | LÀ  [0-51)% | Le LL PL   Fr0-51%
- Autres    (tels   que
- DAM,     Gimeno,                                                                                      [10-20]
- Dragados,  Elecnor,   [1..          L-.]..                    [5-10]5-10]°%   L-..           L-…..     %
-
-  etc.
-BrotalenSource  : Réponse"|de la [..)Partie Notifiante|  100%à la|[1|demande d'informations100% [|[1101.        [100% |[1| 100%
-  ND  : Non disponible.
-
-      A.     Position de la Partie Notifiante
-
-       (208)  La Partie Notifiante soutient que l’Opération n’est pas de nature à soulever des
-             préoccupations de concurrence par le bais d’effets horizontaux sur les marchés (1)
-             de la production et la distribution d’eau potable et (11) de la collecte et le traitement
-              des eaux usées en Espagne.
-
-       (209)  La Partie Notifiante explique notamment que l’incrément résultant de l’Opération
-                est négligeable, la présence de Veolia étant marginale sur le marché espagnol de la
-              gestion de l’eau municipale. En outre,  elle soutient que les données d’appels
-               d’offres de Suez montrent que Veolia exerce une pression concurrentielle faible sur
-              Suez,  et de nombreux  autres  acteurs  tels que Aqualia, Acciona ou encore
-
-
-
-
-     227     Les parts de marché fournies par la Partie Notifiante ne varient pas de manière significative au cours
-             des trois dernières années.
-     228      Différences dues à l’arrondi.
-
-
-
-
-
-                                                          65
 
 [PÁGINA PDF 67]
          Sanejament exercent une pression concurrentielle nettement plus forte que Veolia
@@ -3730,47 +3881,66 @@ BrotalenSource  : Réponse"|de la [..)Partie Notifiante|  100%à la|[1|demande d
                                                     69
 
 [PÁGINA PDF 71 | texto OCR: verificar contra el PDF]
-  Tableau 7 — Parts de marchés des Parties et de leurs concurrents sur le marché de la
-          collecte et du traitement des eaux usées (hors régies) en Pologne (2020)
+Tableau 7 — Parts de marchés des Parties et de leurs concurrents sur le marché de la
+collecte et du traitement des eaux usées (hors régies) en Pologne (2020)
 
+2020 Volume (millions| Part de marché Valeur (en Part de marché
+de m3) (%) millions euros) (%)
 
-              2020                                                       241         _.                               242                                       de m3)                   (74            millions euros)       (%RE  ETS IEVeolia)[1 |  [20-30J% | [1  |  [20-30] %
-combinéeES|PE[|ES RE RE20-307CCS CERS% | [7ES RS| RECS203%
-BGelsenwasserBar)| [1[|À  [40-50J%[5107 % À| [|[1  |   [40-50][0-5JX%
-BRemondisETSPS ES EE CCS CERS ES RS RECSBEKOo Dbaÿ eu)À [À[1 À   [0-5J%[0-5J% ÀÀ [1[1 À|   [0-5J%[0-5J%
-PradaBCewokan[À[0-5J% À [1 |   [0-5J%BEcolUnicon |  [1[ÀÀ   [0-5J%[0-5J% ÀÀ [1[1 |À   [0-5J%[0-SJ%
+Veolia [...] [20-301 % [...] [20-30] %
+Suez [...] [0-51 % [...] [0-51 %
+Combinée [...] [20-30] % li) [20-30] %
+Saur [...] [40-501 % [...] [40-501 %
+Gelsenwasser [...] [5-10] % [...] [0-51 %
+Puwis [...] [0-51 % [...] [0-51 %
+Remondis [...] [0-51 % [...] [0-51 %
+Eko-Dbaj [...] [0-51 % [...] [0-51 %
+Cewokan [...] [0-51 % [...] [0-51 %
+Plada [...] [0-51 % [...] [0-51 %
+Ecol-Unicon [...] [0-51 % [...] [0-51 %
+Zaklad Budowy i Eksploatacji
+Urzadzeñ Wodociagowo- [...] [0-5] % [...] [0-5] %
+Kanalizacyjnych
+Przedsiebiorstwo Gospodarki
+Wodno-Sciekowej GEA-NOVA L-1 [0-51 % [1 [0-51 %
+Optima [..] [0-51 % [...] [0-51 %
+Poldek Polikowscy [...] [0-51 % [...] [0-51 %
+Autres [..] [5-10] % [...] [10-20]%
+Total [...] 100 % [...]l 100 %
 
-                 Wodociagowo-                             [0-51 %                   [...]               [0-51 %FRKanalizacyjnych PrzedsiebiorstwoUrzadzeñ            Gospodarki RTE RES CN ECS
-BOptinnaFPERES CCS CS CCEBPoldek POKOwWSCy ÀÀ [1[1 ÀÀ   [0-5J%[0-5J% ÀÀ [1[1 |À   [0-5J%[0-5J%
-POAutres)[1 À   [5-10 % À [1  |  [10-20/% Source  : Formulaire CO, Annexe RFI 32 Annexef. 1 (a) Àet Annexe100RFI%101 O2.[7j |  100%
+Source : Formulaire CO, Annexe RFI 32 Annexe 1 (a) et Annexe RFI 101 O2.
 
-    (225)  La Partie Notifiante a également fourni les parts de marché des Parties et de leurs
-           concurrents sur le marché polonais de la collecte et du traitement des eaux usées en
-         volume  et en valeur pour les années 2018  et 2019. Celles-c1 ne diffèrent pas
-            significativement des parts de marché estimées en volume et en valeur présentées
-           dans le tableau ci-dessus2#.
+(225)
 
-    A.     Position de la Partie Notifiante
+(226)
 
-    (226)  La Partie Notifiante soutient que l’Opération n’est pas de nature à soulever des
-           préoccupations de concurrence par le bais d’effets horizontaux sur le marché de la
-            collecte et le traitement des eaux usées en Pologne. La Partie Notifiante explique
-          que  la  gestion  directe  par  les  collectivités  publiques  exerce une  pression
-            concurrentielle significative sur les opérateurs privés et représente 95 % du marché
-           de  la collecte  et du traitement des eaux usées en Pologne. De plus,  la Partie
-           Notifiante fait valoir que (1) l’entité combinée continuera à faire face à un nombre
-           important de concurrents sur le marché, (51) la fourniture de services de collecte et
-           de traitement des eaux usées est strictement réglementé et les prix sont encadrés et
-             (in) les clients changent très facilement de fournisseurs.
+La Partie Notifiante a également fourmi les parts de marché des Parties et de leurs
+concurrents sur le marché polonais de la collecte et du traitement des eaux usées en
+volume et en valeur pour les années 2018 et 2019. Celles-ci ne diffèrent pas
+significativement des parts de marché estimées en volume et en valeur présentées
+dans le tableau ci-dessus?2#3.
 
+Position de la Partie Notifiante
 
+La Partie Notifiante soutient que l’Opération n’est pas de nature à soulever des
+préoccupations de concurrence par le bais d’effets horizontaux sur le marché de la
+collecte et le traitement des eaux usées en Pologne. La Partie Notifiante explique
+que la gestion directe par les collectivités publiques exerce une pression
+concurrentielle significative sur les opérateurs privés et représente 95 % du marché
+de la collecte et du traitement des eaux usées en Pologne. De plus, la Partie
+Notifiante fait valoir que (1) l’entité combinée continuera à faire face à un nombre
+important de concurrents sur le marché, (ni) la fourniture de services de collecte et
+de traitement des eaux usées est strictement réglementé et les prix sont encadrés et
+(in) les clients changent très facilement de fournisseurs.
 
+241 Différences dues à l’arrondi.
+242 Différences dues à l’arrondi.
+243
 
+Réponse de la Partie Notifiante à la demande d’informations 101, Annexe RFI 101 Q2.
 
-  241      Différences dues à l’arrondi.
-  242      Différences dues à l’arrondi.
-  243     Réponse de la Partie Notifiante à la demande d’informations 101, Annexe RFI 101 Q2.
-                                                         70
+70
+
 
 [PÁGINA PDF 72]
    B.    Analyse de la Commission
@@ -4296,133 +4466,155 @@ POAutres)[1 À   [5-10 % À [1  |  [10-20/% Source  : Formulaire CO, Annexe RFI 
                                                     80
 
 [PÁGINA PDF 82 | texto OCR: verificar contra el PDF]
- Tableau 8 — Parts de marchés des Parties et de leurs concurrents sur le marché de la
-             gestion de l’eau industrielle en France (2018, 2019 et 2020)?55
+Tableau 8 — Parts de marchés des Parties et de leurs concurrents sur le marché de la
 
+gestion de l’eau industrielle en France (2018, 2019 et 2020)?55
 
+Gestion de l’eau Gestion de l’eau Gestion de l’eau
+industrielle en 2020 industrielle en 2019 industrielle en 2018
+Valeur Part de Valeur Valeur
+(millions marché (millions = de (millions = de
+d’euros) (%) d’euros) ns 5 d’euros) 0
+Veolia [...] [20-301 % [...] [30-401 % [...] [20-301 %
+Suez [...] [20-301 % [...] [20-301% [...] [20-301 %
+Combinée [...] [50-60] % ll [50-60] % fe! [50-60]%
+Saur [...] [5-10] % [...] [5-10] % [...] [5-10] %
+Séché [...] [0-51 % [...] [0-51 % [...] [0-51] %
+Nalco [...] [0-51 % [...] [0-51 % [...] [0-51] %
+BWT [...] [0-51 % [...] [0-51 % [...] [0-51 %
+CTP [...] [0-51 % [...] [0-51 % [...] [0-51] %
+Ovive [...] [0-51 % [...] [0-51 % [...] [0-51 %
+Agur [...] [0-51 % [...] [0-5] % [...] [0-51 %
+Aquaprox [...] [0-51 % [...] [0-51 % [...] [0-51] %
+John Cockerill o o o
+Proserpol (CM) [...] [5-10] % [...] [5-10] % [...] [0-51 %
+Envirochemie [...] [0-51 % [...] [0-51 % [...] [0-51 %
+Autres [...] [5-10] % [...] [5-10] % [...] [5-10] %
+Petits
+concurrents [...] [10-20] % [...] [10-20] % [...] [10-20] %
+locaux
+Total [...] 100 % [...] 100 % [...] 100 %
 
-                                 industrielle en 2020        industrielle en 2019         industrielle en 2018
-                               (millionspaleur     marché[perde      (millions[par  gepe |  (millionsValeur      paridepe
-                             d’euros      (%        d’euros    marché (%)     d’euros,    marché (%)
-    Bu  Veolia |  [1]  | [20-30]% | [1]  | [30-40]% | [1 |  [20-30]% |
-   Bu  Suez |  [..] | [20-30]% | [1] | [20-30J% | [1 |  [20-30]% |
-       | __ Combinée |  [..] | [50-60] % | [7 | [50-60 % | [7 | /50-60% |
-    Bu Sa   nÀ  [.]  | [5-10)% | [1  | [5-10]%  | [1  | [5-10% |
-        Bnu_n Séché |  [1]  | [0-51% | [1  |  [0-51%  [| [1 |  [0-51% |
-   Bu  Nalco |  [1] | [0-51% | [1  |  [0-51% | [1 |  [0-51% |
-   Bu BW    [.] | [0-51% | [1  |  [0-51%  [| [1 |  [0-51% |
-   Bu CTP) [.) | [0-51% | [1  |  [0-51%  [| [1  |  [0-531% |
-   Bu  Ovive |  [.]  | [0-51% | [1  |  [0-51%  [| [1  |  [0-51% |
+Source : Formulaire CO, Annexe RFI 32 Annexe 1 (a) et Annexe RFI 101 OS
 
-       Bb  Aquaprox |  [..]  | [0-51% | [1  |  [0-51]%  [| [1  |   [0-531% |
-FRE         bn Envirochemie |  [...] | [0-5]% | [1]  | ETS[0-51% | RER[1 |  [0-51%TS|
-    Bu  Autres |  [.]  | [5-10)% | [1  | [5-10]% |  [L1  | [5-19% |
-
-           concurrents                   [10-20] %          [...]        [10-20] %           [...]        [10-20] %
-              locaux ERIC  ENRNES   nn Total   |  [..]  | 100% | [1  |  100% | [1  |  100% |
-        Source  : Formulaire CO, Annexe RFI 32 Annexe 1 (a) et Annexe RFI 101 O8
-    ND  : Non Déterminé
-
-
-
-
+N/D : Non Déterminé
 
 285 Les tailles de marchés listées dans le Tableau 8 ne tiennent pas compte (i) des activités en gestion directe
-    des clients industriels et (11) des services offerts par les opérateurs de facility management.
-                                                               81
+
+des clients industriels et (ii) des services offerts par les opérateurs de facility management.
+81
+
+
 
 [PÁGINA PDF 83 | texto OCR: verificar contra el PDF]
-  Tableau 9 — Parts de marchés des Parties et de leurs concurrents sur le marché de
- l’exploitation et la maintenance de systèmes de traitement des eaux industrielles (eaux
-                   de process) en France (2018, 2019 et 2020)56
+Tableau 9 — Parts de marchés des Parties et de leurs concurrents sur le marché de
+
+l'exploitation et la maintenance de systèmes de traitement des eaux industrielles (eaux
+de process) en France (2018, 2019 et 2020)286
+
+Eaux industrielles/de Eaux industrielles/de Eaux industrielles/de
+process process process
+(2020) (2019à (2018)
+Valeur Part de Valeur Valeur
+(millions marché (millions Part de (millions Part de
+d’euros) (%) d’euros) = d’euros) 0
+Veolia [.…..] [30-40] % [...] [30-401 % [...l [30-401 %
+Suez [...] [20-30] % [...] [20-30] % [...] [10-201 %
+Combinée fi) [50-60] % le! [50-60]% fx}! [50-60]%
+Saur [...] [5-10] % [...] [5-10] % [...] [5-10] %
+Séché [...] [0-51 % [...] [0-5] % [...] [0-51 %
+Nalco [...] [0-51 % [...] [0-5] % [...] [0-51 %
+BWT [...] [0-51 % [...] [0-5] % [...] [0-51 %
+CTP [...] [0-51 % [...] [0-51 % [...] [0-51 %
+Ovive [...] [0-51 % [...] [0-5] % [...| [0-51 %
+Agur [...] [0-51 % [...] [0-51 % [...] [0-51 %
+Aquaprox [...] [0-51 % [...] [0-51 % [...| [0-51 %
+John Cockerill 0 0 0
+Proserpol (CMT) [...] [0-51 % [...] [0-51 % [...] [0-5] %
+Envirochemie [...] [0-51 % [...] [0-51 % [...] [0-51 %
+Autres [...] [5-10] % [...] [5-10] % [...] [5-10] %
+Petits
+concurrents [...] [10-20] % [...] [10-20] % [...] [10-20] %
+locaux
+Total [...] 100 % [...] 100 % [..] 100 %
+
+ND : Non Déterminé
+
+Source : Formulaire CO, Annexe RFI 32 Annexe I (a) e
+
+286
+
+t Annexe RFI 101 OS
+
+Les tailles de marchés listées dans le Tableau 9 ne tiennent pas compte (1) des activités en gestion
+directe des clients industriels et (ii) des services offerts par les opérateurs de facility management.
+82
 
 
-                                    process                   process                    process
-                                 2020                    2019à                    2018
-                             Valeur      Part de      Valeur       Part de       Valeur       Part de
-                               (millions    marché      (millions         ve      (millions        ve
-                             d’euros      %        d’euros hi LT,    d’euros lc LT,
-    Bu Veolia   | [1  | [30-40]% | [1  | [30-40]% | [1 | [30-40]% |
-   Bu  Suez | [1  | [20-30] % | [1 | [20-30]% | [1  |  [10-20]% |
-       |__ Combinée |  [...) |  [50-607 % | [7 |  50-60j% | [7  | /50-607% |
-   un Saut [1  | [5-10]% À [1  |  [5-10)% | [1 | [5-10J% |
-   un Séché| [1 | [0-5J% À [1 |  [0-51% | [1  |  [0-5J% |
-    BU Nalco  | [1 | [0-5J% À [1 |  [0-51% | [1  |  [0-5J% |
-   EU BW   [1 | [0-5J% À [1 |  [0-51% | [1  |  [0-5J% |
-   EU CTP   [1 | [0-5J% À [1 |  [0-5)% | [1  |  [0-5J% |
-   Bu Ovive | [1 | [0-5J% À [1 |  [0-51% | [1 |  [0-5J% |
-    BFebn Envirochemie|Aquaprox |RENTRER[1][1 || [0-5J%[0-5]% || [1[1 ||ECTS[0-51%[0-51% || RER[1[1  || ECTS[0-5]%[051% ||
-    Bu Autres  [1  | [5-10)% | [1  |  [5-10)% | [1 | [5-10]% |
- PetitsEDENlocaux
-    pu Total| [1 | 100% | [1 [100% | [1  |  100% |
-        Source  : Formulaire CO, Annexe RFI 32 Annexe 1 (a) et Annexe RFI 101 O8
-    ND  : Non Déterminé
-
-
-
-
-
-286     Les tailles de marchés listées dans le Tableau 9 ne tiennent pas compte (1) des activités en gestion
-         directe des clients industriels et (11) des services offerts par les opérateurs de facility management.
-                                                      82
 
 [PÁGINA PDF 84 | texto OCR: verificar contra el PDF]
 Tableau 10 — Parts de marchés des Parties et de leurs concurrents sur le marché de
 l’exploitation et la maintenance de systèmes de traitement des effluents industriels en
-France (2018, 2019 et 2020)287
+France (2018, 2019 et 2020287
+
+Effluents industriels Effluents industriels Effluents industriels
+(2020) (2019) (2018)
+Valeur Part de Valeur Valeur
+(millions marché (millions res (millions res mo
+d’euros) (%) d’euros) nb Los d’euros) nd ic)
+Veolia [...] [20-301 % [...] [20-301 % [...] [20-301 %
+Suez [...] [20-301 % [...] [30-401 % [...] [20-301 %
+Combinée Ex] [50-60] % lé] [50-60]% fé] /50-60]%
+Saur [...] [5-10] % [...] [5-10] % [...| [5-10] %
+Séché [...] [0-51 % [...] [0-51 % [...| [0-51 %
+Nalco [...] [0-51 % [...] [0-51 % [...| [0-51 %
+BWT [...] [0-51 % [...] [0-51 % [...] [0-5] %
+CTP [...] [0-51 % [...] [0-51 % [...] [0-51 %
+Ovive [...] [0-51 % [...] [0-51 % [...] [0-51 %
+Agur [...] [0-51 % [...] [0-51 % [...] [0-51 %
+Aquaprox [...] [0-51 % [...] [0-51 % [...] [0-5] %
+John Cockerill [...] [0-5] % [...] [0-5] % [...] [0-51 %
+Proserpol (CMIT)
+Envirochemie [...] [0-51 % [...] [0-51 % [...] [0-51 %
+Autres [...] [5-10] % [...] [5-10] % [...] [5-10] %
+Petits [...] [10-20] % [...] [10-20] % [...] [10-20] %
+concurrents
+locaux
+Total [...] 100 % [...] 100 % [...] 100 %
+
+Source : Formulaire CO, Annexe RFI 32 Annexe 1 (a) et Annexe RFI 101 O8
+N/D : Non Déterminé
+
+A.
+
+Position de la Partie Notifiante
+
+(268) La Partie Notifiante soutient que l’Opération n’est pas de nature à soulever des
+préoccupations de concurrence par le biais d’effets horizontaux sur les marchés.
+
+(269)
+
+La Partie Notifiante soumet que la taille du marché devrait tenir compte des
+services intégrés et sur mesure incluant la gestion de l’eau industrielle offerts par
+les opérateurs de facility management, principalement Engie, Dalkia, Vinci et
+CBRE. Sur un tel marché (excluant les activités en gestion directe des clients
+industriels mais intégrant les services offerts par les opérateurs de facility
+management), la part de marché des Parties s’élèverait à [40-50] % en 2020
+(Veolia : [20-30] % et Suez : [10-20] %) en valeur?58.
+
+287
+
+Les tailles de marchés listées dans le Tableau 10 ne tiennent pas compte (1) des activités en gestion
+
+directe des clients industriels et (ii) des services offerts par les opérateurs de facility management.
+
+288
+
+Formulaire CO, Chapitre I, paragraphes 431 et suivants.
+
+83
 
 
-
-                                 2020                    2019                    2018
-                            Valeur      Part de      Valeur       Part de       Valeur       Part de
-                                (millions    marché      (millions   marché (°)     (millions    marché (%)
-                             d’euros      (%        d’euros                       d’euros,
-    Bu  Veolia  "| [1  | [20-30]% | [1  | [20-30]% | [1 | [20-30]% |
-   Bu  Suez  "| [1  | [20-30]% | [1  | [30-40]% | [1 | [20-30]% |
-       |__ Combinée |  [..] | [50-60 % | [7  | 50-60% | [7  | 506% |
-   Bu Saur|  [.]  | [5-10]% | [1  À [5-10]% | [1 | [5-10]% |
-    Bu  Séché  "| [1  | [0-5)% | [1  |  [0-5J% | [1  |  [o-51% |
-   Bu Nalco   | [1  | [0-5)% | [1  |  [0-5J% | [1  |  [o-5J% |
-   Eu BW      [..]  | [0-5J% | [1  |  [0-5J% | [1  |  [o-5J% |
-   Bu CTP    [.]  | [0-5J% | [1  À  [0-5J% | [1  |  [o-5J% |
-   Bu  Ovive  "| [1  | [0-5)% | [1  |  [0-5J% | [1  |  [0o-51% |
-     bn Aquaprox |  [..]  | [0-5J% | [1  |  [0-5)% | [1  |  [o-5J% |
-FAR(CM         bnProserpolEnvirochemie|   [..] | RS[0-5]% |RÈR[1  | RAS[0-5)% | RER[1  | RES[o-51% |
-    Autres  "|  [..]  | [5-10]% | [1  À [5-10]% | [1 | [5-10]% |
-
-
-           concurrents
-
-              locaux  pas,     pan Total| [1  | 100% | [1 | 100% | [1  |  100% |
-        Source  : Formulaire CO, Annexe RFI 32 Annexe 1 (a) et Annexe RFI 101 O8
-    ND  : Non Déterminé
-
-   A.     Position de la Partie Notifiante
-
-   (268)  La Partie Notifiante soutient que l’Opération n’est pas de nature à soulever des
-          préoccupations de concurrence par le biais d’effets horizontaux sur les marchés.
-
-   (269)  La Partie Notifiante soumet que  la  taille du marché devrait tenir compte des
-           services intégrés et sur mesure incluant la gestion de l’eau industrielle offerts par
-            les opérateurs de facility management, principalement Engie, Dalkia, Vinci  et
-        CBRE. Sur un tel marché (excluant les activités en gestion directe des clients
-           industriels mais  intégrant  les  services  offerts  par  les  opérateurs  de facility
-         management),  la part de marché des Parties s’élèverait à [40-50] % en 2020
-          (Veolia    : [20-30] % et Suez    : [10-20] %) en valeur?#8.
-
-
-
-
-
-287     Les tailles de marchés listées dans le Tableau 10 ne tiennent pas compte (1) des activités en gestion
-         directe des clients industriels et (ii) des services offerts par les opérateurs de facility management.
-288     Formulaire CO, Chapitre I, paragraphes 431 et suivants.
-
-
-
-
-
-                                                      83
 
 [PÁGINA PDF 85]
    (270)  Selon la Partie Notifiante, les données d’appels d’offres de Veolia et Suez montrent
@@ -8802,19 +8994,57 @@ Paysage concurrentiel
 
 [PÁGINA PDF 166 | texto OCR: verificar contra el PDF]
 Tableau 13 — Parts de marché des Parties sur le marché du tri de collecte sélective, aux
-    niveaux national et local (départements + départements limitrophes) en France
-                             (capacité réglementaire, 2019)
-|Veolia |   Suez | Combinée
+
+niveaux national et local (départements + départements limitrophes) en France
+(capacité réglementaire, 2019)
+
+Veolia Suez Combinée
+France [10-20] % [20-30] % [40-50] %
+Départements + Départements
+limitrophes
+Aude (11) [40-50] % [50-60] % [90-100] %
+Loir-et-Cher (41) [30-401 % [40-501 % [80-90] %
+Charente (16) [10-20] % [60-701 % [80-90] %
+Indre (36) [20-301 % [50-601 % [80-90] %
+Yonne (89) [60-701 % [10-201 % [70-80] %
+Cher (18) [70-80] % [5-10] % [70-80] %
+Haute-Saône (70) [40-501 % [20-301 % [70-80] %
+Marne (51) [60-70] % [5-10] % [70-80] %
+Haute-Vienne (87) [10-20] % [50-601 % [70-801 %
+Nièvre (58) [50-601 % [10-201 % [70-80] %
+Gironde (33) [50-60] % [10-20] % [70-80] %
+Allier (03) [30-401 % [30-401 % [60-70] %
+Gard (30) [20-30] % [40-501 % [60-70] %
+Charente-Maritime (17) [40-501 % [10-20] % [60-70] %
+Puy-de-Dôme (63) [20-301 % [40-501 % [60-70] %
+Vaucluse (84) [10-20] % [40-50] % [60-70] %
+Alpes-de-Haute-Provence (04) [20-30] % [40-501 % [60-70] %
+Dordogne (24) [40-50] % [10-201 % [60-70] %
+Tarn (81) [30-401 % [20-301 % [50-60] %
+Var (83) [10-201 % [40-501 % [50-60] %
+Hérault (34) [40-50] % [10-20] % [50-60] %
+Indre-et-Loire (37) [10-201 % [50-601 % [50-60] %
+Eure (27) [40-50] % [5-10] % [50-60] %
+Loiret (45) [50-601 % [0-51 % [50-60] %
+Maine-et-Loire (49) [10-201 % [30-401 % [50-60]
+Saône-et-Loire (71) [5-10] % [40-50] % [50-60] %
+Sarthe (72) [5-10] % [40-501 % [50-60] %
+Bouches-du-Rhône (13) [5-10] % [40-501 % [50-60] %
+Meurthe-et-Moselle (54) [30-40] % [10-20] % [40-50] %
+Moselle (57) [30-401 % [10-201 % [40-50]
+Loire (42) [5-10] % [40-50] % [40-50] %
+Essonne (21) [30-401 % [5-10] % [40-50] %
+Côte-d’Or (21) [10-20] % [30-401 % [40-50] %
+Drôme (26) [10-20] % [30-40] % [40-50] %
+Haut-Rhin (68) [30-401 % [10-201 % [40-50] %
+Rhône (69) [5-10] % [30-40] % [40-50] %
+Eure-et-Loir (28) [20-301 % [20-301 % [40-50]
+Pas-de-Calais (62) [0-51 % [30-40] % [40-50] %
+Somme (80) [5-10] % [30-40] % [40-50] %
+
+165
 
 
-
- limitrophes
-
-
-
-
-
-                                                       165
 
 [PÁGINA PDF 167]
                                         Veolia         Suez       Combinée
@@ -9030,35 +9260,65 @@ Conclusion
                                                     169
 
 [PÁGINA PDF 171 | texto OCR: verificar contra el PDF]
-    B.     Analyse de la Commission
-
+B. Analyse de la Commission
 Paysage concurrentiel
 
-   (571)  Premièrement, considérant les marchés de produits et géographiques pertinents6%,
-           à l’issue de l’Opération, les Parties détiendraient au niveau départemental des parts
-          de marché combinées entre approximativement [40-50] % et [90-100] % (selon le
-          département concerné). Lorsqu'on considère des zones de chalandises de 200 km,
-           leurs parts de marché combinées seraient entre [40-50] % et [90-100]  %  (selon le
-         zone de chalandise concernée). Les parts de marché exactes des Parties sont
-           incluses ci-dessous.
+(571) Premièrement, considérant les marchés de produits et géographiques pertinents62,
+à l’issue de l’Opération, les Parties détiendraient au niveau départemental des parts
+de marché combinées entre approximativement [40-50] % et [90-100] % (selon le
+département concerné). Lorsqu’on considère des zones de chalandises de 200 km,
+leurs parts de marché combinées seraient entre [40-50] % et [90-100] % (selon le
+zone de chalandise concernée). Les parts de marché exactes des Parties sont
+incluses ci-dessous.
+
+Tableau 14 — Parts de marchés des Parties sur le marché de l’incinération des déchets
+
+banals au niveau départemental et de zones de chalandise de 200 km (capacité
+réglementaire, 2019)624 en France
+
+Veolia Suez Combinée
+Départements
+Doubs (25) [30-401 % [20-301 % [60-70] %
+Finistère (29) [30-40] % [10-20] % [40-50] %
+Haute-Garonne (31) [60-701 % [30-401 % [90-100] %
+Hérault (34) [20-301 % [70-801 % [90-100] %
+Loiret (45) [40-501 % [5-10] % [50-60] %
+Haute-Savoie (74) [10-201 % [20-301 % [40-50] %
+Seine-Maritime (76) [60-70] % [30-40] % [90-100] %
+Seine-et-Marne (77) [60-70] % [30-40] % [90-1001 %
+Val-de-Marne (94) [10-201 % [80-901 % [90-100] %
+Val-d'Oise (95) [60-701 % 30-40] % 90-100] %
+Zones de chalandise (200 Km) ._—
+
+Clermont-Ferrand (63) [20-30] % [40-50] % [70-80] %
+Villers-Saint-Paul (60 [20-30] % [30-40] % [60-701 %
+Le Passage (47) [60-701 % [20-301 % [80-90] %
+Haguenau (67) [10-201 % [30-401 % [50-60] %
+Rambervillers (88) [20-301 % [30-401 % [50-60] %
+Ivry-Sur-Seine (94) [20-30] % [30-40] % [60-70] %
+Montauban (82) [40-501 % [30-401 % [70-80] %
+Vedène (84) [10-201 % [30-401 % [40-50] %
+Lunel-Viel (34) [10-20] % [30-40] % [40-50] %
+Rosiers-d’Égletons (19) [30-401 % [40-501 % [80-90] %
+Passy (74) [30-40] % [20-30] % [60-70] %
+Carhaix-Plouguer (29) [30-40] % [10-20] % [40-50] %
+
+623
+
+624
+
+Notamment un marché distinct de l’incinération des déchets banals, qui est soit départemental, soit
+
+équivalent à une zone de chalandise de 200 km.
+
+Pour 3 zones de chalandise (Issy-Les-Moulineaux (92), La Couronne (16) et Bègles (33)), la Partie
+Notifiante n’était pas en mesure de fournir les parts de marché pour 2019. Ainsi, pour ces zones le
+
+tableau présente les données de 2018.
+
+170
 
 
- Tableau 14 — Parts de marchés des Parties sur le marché de l’incinération des déchets
-
-    banals au niveau départemental et de zones de chalandise de 200 km (capacité
-                          réglementaire, 2019)624 en France
-|Veolia |  Suez __|  Combinée |
-
-
-
-
-
-623     Notamment un marché distinct de l’incinération des déchets banals, qui est soit départemental, soit
-         équivalent à une zone de chalandise de 200 km.
-624     Pour 3 zones de chalandise (Issy-Les-Moulineaux (92), La Couronne (16) et Bègles (33)). la Partie
-         Notifiante n’était pas en mesure de fournir les parts de marché pour 2019. Ainsi, pour ces zones le
-         tableau présente les données de 2018.
-                                                        170
 
 [PÁGINA PDF 172]
                                         Veolia         Suez       Combinée
@@ -9331,111 +9591,239 @@ Conclusion
                                                     175
 
 [PÁGINA PDF 177 | texto OCR: verificar contra el PDF]
-           part des acteurs du marché de la valorisation  ; (11) malgré l’absence de nouveaux
-            sites  d’enfouissement6#l,   le  marché  de  l’enfouissement  reste  en  perpétuel
-         mouvement, avec la possibilité pour les pouvoirs publics de réguler l’offre et la
-           possibilité pour les concurrents d’acquérir de sites d’enfouissement existants, les
-            collectivités disposent d’un pouvoir d’achat par le possible retour en régie6#2.
+B.
 
-    B.     Analyse de la  Commission
+part des acteurs du marché de la valorisation ; (in) malgré l’absence de nouveaux
+sites d’enfouissement6l, le marché de l’enfouissement reste en perpétuel
+mouvement, avec la possibilité pour les pouvoirs publics de réguler l’offre et la
+possibilité pour les concurrents d’acquérir de sites d’enfouissement existants, les
+collectivités disposent d’un pouvoir d’achat par le possible retour en régie6#2.
+
+Analyse de la Commission
 
 Paysage concurrentiel
 
-   (588)  Premièrement, considérant les marchés de produits et géographiques pertinents6#,
-          l'Opération  créerait  les marchés  affectés  suivants    :  (1) un marché  global de
-          l’enfouissement, au niveau départemental et dans des zones de chalandise de 200
-        km, et (1) un marché de l’enfouissement en ISDND, au niveau départemental et
-          dans des zones de chalandise de 200 km. Les parts de marché exactes des Parties
-          sont incluses ci-dessous.
+(588) Premièrement, considérant les marchés de produits et géographiques pertinents6#,
 
+l'Opération créerait les marchés affectés suivants : (1) un marché global de
+l’enfouissement, au niveau départemental et dans des zones de chalandise de 200
+km, et (1) un marché de l’enfouissement en ISDND, au niveau départemental et
+dans des zones de chalandise de 200 km. Les parts de marché exactes des Parties
 
-       Tableau 15 — Parts de marchés des Parties sur le marché de l’enfouissement
-           (global, ISDND) des déchets banals au niveau départemental (capacité
-     réglementaire, volumes expédiés, 2019) et pour des zones de chalandise de 200 km
-                          (capacité réglementaire, 2019) en France
-|Marché global - Départements —           Veolia |  Suez | Combinée
- capacité réglementaire
-   Aube  (10                            [5-10]%50-601 % |  [10-20]%40-501 % |  90-100][20-30] %%
+sont incluses ci-dessous.
 
-    Bouches-du-Rhône  (13                      10-201 %         5-10] %        20-30] %
+Tableau 15 — Parts de marchés des Parties sur le marché de l’enfouissement
+(global, ISDND) des déchets banals au niveau départemental (capacité
 
-    Calvados  (14                                  10-201 %       60-70] %       80-90] %
-                                     10-20]% |   [10-20]J% |    [30-40] %
-    Loir-et-Cher  (41                           [5-10]40-501 %% |  [20-30]50-60] %% |  90-100][30-40] %%
+réglementaire, volumes expédiés, 2019) et pour des zones de chalandise de 200 km
 
-    Loiret  (45                                   40-501 %       40-501 %       80-90] %
+(capacité réglementaire, 2019) en France
 
-    Maine-et-Loire  (49                           10-201 %       20-30] %       30-40] %
+Veolia Suez Combinée
+Marché global - Départements —
+capacité réglementaire
+Aisne (02) [5-10] % [10-20] % [20-30] %
+Aube (10) [50-601 % [40-501 % [90-100] %
+Bouches-du-Rhône (13) [10-201 % [5-10] % [20-30] %
+Calvados (14) [10-201 % [60-701 % [80-90] %
+Drôme (26) [10-201 % [10-201 % [30-40] %
+Isère (38) [5-10] % [20-30] % [30-40] %
+Loir-et-Cher (41) [40-501 % [50-601 % [90-100] %
+Loiret (45) [40-501 % [40-501 % [80-90] %
+Maine-et-Loire (49) [10-201 % [20-301 % [30-40] %
 
+641
 
+642
+643
 
+L’enfouissement est le dernier maillon dans la chaîne de gestion des déchets, et ne concerne que la
+fraction de plus en plus réduite de déchets ultimes qui ne peut être valorisée sous forme de matière ou
+d’énergie dans les conditions techniques et économiques du moment. Comme un concurrent a expliqué,
+«[i]/ y a une tendance de forte baisse des volumes autorisés à être enfouis et ils sont soumis à un
+contrôle beaucoup plus strict. Les arrêtés préfectoraux deviennent de plus en plus contraignants avec
+le temps et sont très difficiles à obtenir. » « La règlementation française encadre de plus en plus la
+valorisation des déchets, et cette évolution diminuera le stockage, l'incinération. Aujourd'hui il est
+devenu presque impossible d'ouvrir un nouveau centre de stockage et seules les installations existantes
+pourront continuer à opérer. » Compte rendu d’une conférence téléphonique avec un concurrent en
+date du 9 novembre 2020, paragraphes 17 et 21.
 
-641     L’enfouissement est le dernier maillon dans la chaîne de gestion des déchets, et ne concerne que la
-          fraction de plus en plus réduite de déchets ultimes qui ne peut être valorisée sous forme de matière ou
-         d’énergie dans les conditions techniques et économiques du moment. Comme un concurrent a expliqué,
-         «[i]/ y a une tendance de forte baisse des volumes autorisés à être enfouis et ils sont soumis à un
-         contrôle beaucoup plus strict. Les arrêtés préfectoraux deviennent de plus en plus contraignants avec
-           le temps et sont très difficiles à obtenir. » « La règlementation française encadre de plus en plus la
-         valorisation des déchets, et cette évolution diminuera le stockage, l'incinération. Aujourd'hui  il est
-        devenu presque impossible d'ouvrir un nouveau centre de stockage et seules les installations existantes
-        pourront continuer à opérer. » Compte rendu d’une conférence téléphonique avec un concurrent en
-         date du 9 novembre 2020, paragraphes 17 et 21.
-642      Formulaire CO, Chapitre III, paragraphes 615-669.
-643     Notamment, un marché distinct de l’enfouissement, possiblement segmenté entre enfouissement en
-       ISDND,  enfouissement en ISDI  et enfouissement en ISDI+,  qui peut  être  départemental ou
-        correspondant à une zone de chalandise de 200 km.
-                                                        176
+Formulaire CO, Chapitre IIL, paragraphes 615-669.
+
+Notamment, un marché distinct de l’enfouissement, possiblement segmenté entre enfouissement en
+ISDND,. enfouissement en ISDI et enfouissement en ISDI+, qui peut être départemental ou
+
+correspondant à une zone de chalandise de 200 km.
+176
+
 
 [PÁGINA PDF 178 | texto OCR: verificar contra el PDF]
-|Veolia |  Suez | Combinée |
+Veolia Suez Combinée
+Manche (50) [50-601 % [20-301 % [70-80] %
+Marne (51) [30-401 % [60-701 % [90-100] %
+Saône-et-Loire (71) [50-601 % [40-501 % [90-100] %
+Seine-et-Marne (77) [80-901 % [10-201 % [90-100] %
+Somme (80) [10-20] % [10-20] % [30-40] %
+Vienne (86) [20-301 % [20-301 % [40-50] %
+Haute-Vienne (87) [30-401 % [30-401 % [70-80] %
+Val-d'Oise (95) 80-90] % 5-101 % 90-1001
+
+Marché global — Départements —
+volumes expédiés
+
+Aube (10) [40-50]% [| [20-301]% | [60-70] %
+Aude (11) [5-10] % [70-801 % [80-90] %
+Bouches-du-Rhône (13) [10-201 % [10-201 % [20-30] %
+Calvados (14) [10-20] % [50-601 % [70-80]
+Charente (16) [0-51 % [10-20] % [20-30] %
+Cher (18) [40-501 % [5-10] % [50-60] %
+Aisne (02) [30-401 % [50-601 % [80-90] %
+Drôme (26) [30-401 % [30-401 % [60-70] %
+Eure-et-Loir (28) [10-20] % [10-201 % [30-40]
+Allier (3) [0-51 % [20-30] % [20-30] %
+Indre (36) [0-51 % [20-301 % [20-30] %
+Indre-et-Loire (37) [0-5] % [50-601 % [50-60] %
+Jura (39) [5-10] % [10-201 % [20-30] %
+Alpes-de-Haute-Provence (04) [10-20] % [5-10] % [20-30] %
+Loir-et-Cher (41) [40-50] % [20-30] % [70-80] %
+Loiret (45) [30-401 % [20-301 % [50-60] %
+Marne (51) [5-10] % [20-301 % [30-40] %
+Nièvre (58) [10-201 % [20-301 % [40-50] %
+Nord (59) [0-5] % [20-301 % [20-30] %
+Oise (60) [10-20] % [10-20] % [30-40] %
+Orne (61) [0-51 % [50-601 % [50-60] %
+Pas-de-Calais (62) [0-5] % [20-30] % [20-30] %
+Puy-de-Dôme (63) [20-30] % [0-5] % [30-40] %
+Pyrénées-Orientales (66) [20-30] % [0-51 % [20-30] %
+Rhône (69) [0-51 % [30-40] % [40-50] %
+Ardèche (7) [20-301 % [0-51 % [30-40] %
+Saône-et-Loire (71) [60-701 % [20-301 % [90-100] %
+Seine-et-Marne (77) [10-201 % [5-10] % [20-30] %
+Deux-Sèvres (79) [0-51 % [40-501 % [40-50]
+Somme (80) [40-50] % [5-10] % [50-60] %
+Vendée (85) [20-301 % [0-51 % [20-30] %
+Vienne (86) [10-201 % [10-201 % [20-30] %
+Haute-Vienne (87) [20-30] % [0-51 % [20-30] %
+Yonne (89) [0-5] % [30-401 % [30-40] %
+Hauts-de-Seine (92) [10-20] % [5-10] % [20-30] %
+
+177
 
 
-
-
-
- volumes expédiés
-
-
-
-
-
-                                                       177
 
 [PÁGINA PDF 179 | texto OCR: verificar contra el PDF]
-|Veolia |  Suez | Combinée
+Veolia Suez Combinée
+Seine-St-Denis (93) [10-20] % [0-51 % [20-30] %
+Val-de-Marne (94) [10-20] % [5-10] % [20-30] %
+
+Val-d'Oise (95)
+
+Marché global - Zones de chalandise
+
+20-30] % = % un %
+
+(200 km)
+Les-Ventes-de-Bourse (61) [10-20] % [30-401 % [40-50] %
+Entraigues-sur-la-Sorgue (84) [10-20] % [10-20] % [20-30] %
+Peyrat-de-Bellac (87) [20-301 % [20-301 % [50-60] %
+Romagne sous Montfaucon (55) [5-10] % [50-601 % [50-60] %
+Faverney (70) [10-20] % [70-80] % [90-1001 %
+Attainville (95) [30-401 % [20-301 % [50-60] %
+Allemant (02) [30-401 % [20-301 % [50-60] %
+Soignolles-en-Brie (77) [40-501 % [20-301 % [60-70] %
+Chenille-Champteusse (49) [10-20] % [30-401 % [50-60] %
+Hersin-Coupigny (62) [20-30] % [20-30] % [40-50] %
+Cusset (03) [10-201 % [30-401 % [40-50] %
+Saint-Aubin (10) [40-501 % [20-301 % [60-70] %
+Torcy (71) [5-10] % [30-401 % [40-50] %
+Satolas-et-Bonce (38) [10-20] % [20-301 % [30-40]
+Sommières-du-Clain (86) [20-30] % [20-30] % [50-60] %
+Crépy-en-Valois (60) [20-30] % [20-301 % [50-60] %
+Lewarde (59) [20-301 % [20-301 % [50-60] %
+Dannes (62) [0-51 % [20-301 % [30-40] %
+Sommauthe (08) [5-10] % [50-601 % [50-60] %
+Hurion (51) [30-40] % [30-40] % [60-70] %
+Curgies (59) [10-201 % [20-301 % [40-50] %
+Bassillac et Auberoche (24) [20-30] % [10-20] % [40-50] %
+Prudemanche (28) [40-501 % [20-301 % [60-70] %
+Amailloux (79) [10-201 % [10-201 % [30-40] %
+Clérac (17) [20-30] % [20-30] % [40-50] %
+Lesmenils (54) [5-10] % [70-801 % [80-90] %
+Les Pennes-Mirabeau (13) [5-10] % [10-20] % [20-30] %
+Drambon (21) [10-20] % [30-40] % [40-50] %
+Sauvigny-le-Bois (89) [20-30] % [30-401 % [60-70] %
+Isigny-le-Buat (50) [5-10] % [40-50] % [50-60] %
+Gournay (36) [20-301 % [30-401 % [50-60] %
+Villeherviers (41) [10-201 % [20-301 % [40-50] %
+Isles-les-Meldeuses (77) [30-401 % [20-301 % [50-60] %
+Saint-Maximin (60) [30-401 % [20-301 % [50-60] %
+Chanteau (45) [40-50] % [20-30] % [70-80] %
+Flavigny-le-Grand-et-Beaurain (02) [20-30] % [20-301 % [50-601 %
+Conflans-en-Jarnisy (54) [10-20] % [70-80] % [80-90] %
+Montois-la-Montagne (57) [0-51 % [70-801 % [80-90] %
+Mons-Boubert (80) [30-401 % [20-301 % [50-60] %
+Cauvicourt (14) [10-20] % [30-40] % [50-60] %
+
+178
 
 
-
-
-
-  200 km
-
-
-
-
-
-                                                       178
 
 [PÁGINA PDF 180 | texto OCR: verificar contra el PDF]
-|Veolia |  Suez | Combinée |
+Veolia Suez Combinée
+Saint-Fraimbault-de-Prières (53) [10-201 % [30-401 % [40-50] %
+Sonzay (37) [10-201 % [30-401 % [50-60] %
+Bellegarde (30) [5-10] % [10-201 % [20-30] %
+Narbonne (11) [5-10] % [10-201 % [20-30] %
+Liancourt-Saint-Pierre (60) [30-40] % [20-30] % [60-70] %
+Roche-la-Molière (42) [10-201 % [20-301 % [30-40] %
+Donzère (26) [10-201 % [10-201 % [30-40] %
+Pagny-sur-Meuse (55) [5-10] % [70-801 % [80-90] %
+Fontaine-les-Clerval (25) [5-10] % [40-501 % [40-501
+Villoncourt (88) [5-10] % [80-90] % [80-90] %
+Vaudoncourt (88) [5-10] % [80-901 % [80-90] %
+Saint Martin de Seignanx (40) [10-20] % [20-30] % [40-50]
+Drambon (21) [10-20] % [30-40] % [50-60] %
+Villneuve-sur-Verberie (60) [20-30] % [20-301 % [50-60] %
+Noyelles-Godault (62) [30-40] % [20-30] % [50-60] %
+St-Laurent-du-Var (06) [10-201 % [5-10] % [20-30] %
+
+Pernes les Fontaines (84)
+
+ISDND - Départements — capacité
+
+10-20] % nn % on %
+
+| réglementaire
+Aisne (02) [20-30] % [70-80] % [90-100] %
+Aube (10) [50-601 % [40-501 % [90-100] %
+Bouches-du-Rhône (13) [30-401 % [20-301 % [50-60] %
+Calvados (14) [10-201 % [60-701 % [80-90] %
+Drôme (26) [40-501 % [30-401 % [70-80] %
+Isère (38) [10-20] % [40-501 % [60-70] %
+Loir-et-Cher (41) [40-501 % [50-601 % [90-100] %
+Loiret (45) [40-501 % [40-501 % [80-90] %
+Maine-et-Loire (49) [20-301 % [40-501 % [60-70] %
+Manche (50) [50-60] % [20-30] % [70-80] %
+Marne (51) [30-40] % [60-70] % [90-100] %
+Saône-et-Loire (71) [50-601 % [40-501 % [90-100] %
+Seine-et-Marne (77) [80-90] % [10-20] % [90-100] %
+Somme (80) [10-20] % [20-30] % [30-40] %
+Vienne (86) [20-30] % [20-30] % [50-60] %
+Haute-Vienne (87) [40-50] % [40-501 % [90-100] %
+Val-d'Oise (95) 80-901 % 10-201 % 90-100] %
+ISDND - Départements — volumes
+expédiés
+Ain (01) [0-5] % [70-801 % [70-80] %
+Aube (10) [60-70] % [30-40] % [90-100] %
+Aude (11) [5-10] % [80-901 % [90-100] %
+Bouches-du-Rhône (13) [40-501 % [50-60] % [90-100] %
+Calvados (14) [10-201 % [70-801 % [80-90] %
+Charente (16) [0-51 % [10-20] % [20-30] %
+Charente-Maritime (17) [10-20] % [50-60] % [70-80] %
+
+179
 
 
-
-
-
- réglementaire
-
-
-
-
-
- expédiés
-
-
-
-
-
-                                                       179
 
 [PÁGINA PDF 181]
                                        Veolia        Suez      Combinée
@@ -9489,13 +9877,58 @@ Essonne (91)                           [20-30] %       [0-5] %      [20-30] %
                                                180
 
 [PÁGINA PDF 182 | texto OCR: verificar contra el PDF]
-|Veolia |  Suez | Combinée
+Veolia Suez Combinée
+Hauts-de-Seine (92) [50-60] % [30-40] % [90-100] %
+Seine-St-Denis (93) [70-80] % [10-20] % [90-100] %
+Val-de-Marne (94) [60-70] % [20-30] % [90-100] %
+Val-d'Oise (95) 80-901 % 10-201 % 90-1001 %
+
+ISDND - Zones de chalandise (200 km)
+
+Les Ventes-de-Bourse (61) [10-201 % [40-501 % [60-70] %
+Entraigues-sur-la-Sorgue (84) [20-30] % [20-30] % [50-60] %
+Peyrat-de-Bellac (87) [30-401 % [30-40] % [70-80] %
+Romagne sous Montfaucon (55) [10-20] % [70-801 % [80-901
+Faverney (70) [10-20] % [80-90] % [90-100] %
+Attainville (95) [40-501 % [30-40] % [80-90] %
+Allemagnt (02) [40-50] % [30-40] % [70-80] %
+Soignolles-en-Brie (77) [50-60] % [20-30] % [80-90]
+Chenille-Champteusse (49) [10-20] % [40-501 % [50-60] %
+Hersin-Coupigny (62) [30-40] % [40-501 % [70-80]
+Cusset (03) [20-30] % [60-70] % [80-90] %
+Saint-Aubin (10) [50-60] % [30-40] % [80-90] %
+Torcy (71) [10-20] % [60-70] % [80-90] %
+Satolas-et-Bonce (38) [20-30] % [50-60] % [80-90] %
+Sommières-du-Clain (86) [30-40] % [30-40] % [70-80] %
+Crépy-en-Valois (60) [30-40] % [30-40] % [70-80] %
+Lewarde (59) [40-501 % [30-40] % [70-80] %
+Dannes (62) [0-51 % [50-601 % [50-60] %
+Sommauthe (08) [5-10] % [70-80] % [80-90] %
+Huiron (51) [40-50] % [30-40] % [80-90] %
+Curgies (59) [20-30] % [40-501 % [70-80] %
+Bassillac et Auberoche (24) [30-401 % [20-30] % [60-70] %
+Prudemanche (28) [40-501 % [20-301 % [70-80] %
+Amailloux (79) [20-30] % [20-30] % [40-50] %
+Clérac (17) [40-50] % [30-40] % [70-80] %
+Lesmenils (54) [10-20] % [70-80] % [80-90] %
+Les Pennes-Mirabeau (13) [20-30] % [30-401 % [50-60]
+Drambon (21) [20-30] % [60-70] % [90-100] %
+Sauvigny-le-Bois (89) [20-30] % [40-501 % [70-80] %
+Isigny-le-Buat (50) [10-20] % [40-50] % [50-60] %
+Gournay (36) [20-30] % [30-40] % [60-70] %
+Villeherviers (41) [20-30] % [30-40] % [50-60] %
+Isles-les-Meldeuses (77) [40-50] % [30-401 % [80-90]
+Saint-Maximin (60) [40-501 % [30-40] % [80-90] %
+Chanteau (45) [50-60] % [30-40] % [80-90] %
+Flavigny-le-Grand-et-Beaurain (02) [40-501 % [30-401 % [70-80] %
+Conflans-en-Jarnisy (54) [10-201 % [70-80] % [80-90]
+Montois-la-Montagne (57) [0-51 % [70-801 % [80-90] %
+Mons-Boubert (80) [40-501 % [30-40] % [80-90] %
+Cauvicourt (14) [20-30] % [40-501 % [60-70] %
+
+181
 
 
-
-
-
-                                                            181
 
 [PÁGINA PDF 183]
                                            Veolia        Suez      Combinée
@@ -9820,148 +10253,214 @@ Conclusion
                                                     187
 
 [PÁGINA PDF 189 | texto OCR: verificar contra el PDF]
-    B.     Analyse de la Commission
-
+B. Analyse de la Commission
 Paysage concurrentiel
 
-   (612)  Premièrement, considérant les marchés de produits et géographiques pertinents662,
-          l’Opération crée des marchés affectés pour la valorisation matière des (1) déchets
-           fermentescibles, possiblement sous-segmenté en déchets verts et biodéchets, au
-          niveau national,  régional  et départemental;  (ii) déchets plastiques, au niveau
-           national; (in) déchets papier/carton, au niveau national, régional et départemental  :
-            et  (iv) des boues  d’épuration, possiblement sous-segmenté en compostage  et
-          épandage, au niveau régional. Les parts de marché exactes des Parties sont incluses
-           ci-dessous.
+(612) Premièrement, considérant les marchés de produits et géographiques pertinents662,
+l'Opération crée des marchés affectés pour la valorisation matière des (1) déchets
+fermentescibles, possiblement sous-segmenté en déchets verts et biodéchets, au
+niveau national, régional et départemental; (1) déchets plastiques, au niveau
+national; (in) déchets papier/carton, au niveau national, régional et départemental :
+et (iv) des boues d’épuration, possiblement sous-segmenté en compostage et
+épandage, au niveau régional. Les parts de marché exactes des Parties sont incluses
+ci-dessous.
 
+Tableau 16 — Parts de marchés des Parties sur les marchés de la valorisation matière
+des déchets fermentescibles au niveau national (capacité réglementaire, 2019), déchets
+verts et biodéchets au niveau national, régional, départemental (capacité
+réglementaire, 2019), déchets plastiques au niveau national (volumes et nombre de
+sites, 2019), déchets papier et carton au niveau national, régional, départemental
+(nombres de sites, 2019), boues d’épuration au niveau régional (volumes), par
+épandage (volumes, 2019), compostage (capacité règlementaires, 2019) et
+méthanisation (capacité règlementaire, 2019) en France
 
- Tableau 16 — Parts de marchés des Parties sur les marchés de la valorisation matière
- des déchets fermentescibles au niveau national (capacité réglementaire, 2019), déchets
-        verts et biodéchets au niveau national, régional, départemental (capacité
-   réglementaire, 2019), déchets plastiques au niveau national (volumes et nombre de
-     sites, 2019), déchets papier et carton au niveau national, régional, départemental
-    (nombres de sites, 2019), boues d’épuration au niveau régional (volumes), par
-      épandage (volumes, 2019), compostage (capacité règlementaires, 2019) et
-               méthanisation (capacité règlementaire, 2019) en France
-Veolia|  Suez |  Combinée
+Combinée
+Déchets fermentescibles —
 
- marché global - nationalé6:
+marché global - national66: D
 
+France 20-30] % 30-40] %
+Déchets fermentescibles —
+déchets verts - national
 
+France [10-20] % [5-10] % [20-30] %
 
+662 Notamment (1) un marché pour la valorisation matière des déchets fermentescibles, avec des possibles
 
- déchets verts - national
+sous-segments pour les déchets verts et les biodéchets, qui est au maximum national (et sera analysé
+aux niveaux plausibles, à savoir national, régional et départemental), (ii) un marché pour la valorisation
+matière des déchets plastiques, qui est au minimum national (et ne sera analysé qu’au niveau national
+étant donné que ce marché est le seul qui est affecté), (iii) un marché pour la valorisation matière des
+déchets papier et carton, qui est au maximum national (et sera analysé aux niveaux plausibles, à savoir
+national, régional et départemental), et (iv) un marché pour la valorisation matière des boues
+d’épuration, avec de possibles sous-segments pour le compostage et l’épandage, au niveau régional.
+663 La Partie Notifiante n’a pas fourni de parts de marché pour un marché global des déchets
+fermentescibles au niveau régional au départemental. Ainsi, la Commission ne peut identifier quels sont
+les marchés affectés pour un tel marché. Toutefois, la Commission a les parts de marché au niveau
+régional et départemental pour les marchés de la valorisation matière des déchets verts et biodéchets,
+les marchés les plus étroits plausibles, et considère dès lors qu'elle peut suffisamment identifier les
+différents scénarios. Bien que des différences puissent exister entre les différents marchés, une telle
+identification exacte n'est pas nécessaire aux fins de cette Décision. De plus, les remèdes soumis par la
+Partie Notifiante couvrent l'intégralité du chevauchement causé par l'Opération. Étant donné que les
+arguments de la Partie Notifiante relatifs à l'analyse concurrentielle ne sont pas spécifiques à un produit
+ou à un marché géographique, la Commission considère que son analyse ci-dessous en réponse à ces
 
+arguments couvre tous les marchés de produits plausibles.
+188
 
-
-
-
-662    Notamment (1) un marché pour la valorisation matière des déchets fermentescibles, avec des possibles
-        sous-segments pour les déchets verts et les biodéchets, qui est au maximum national (et sera analysé
-        aux niveaux plausibles, à savoir national, régional et départemental), (ii) un marché pour la valorisation
-         matière des déchets plastiques, qui est au minimum national (et ne sera analysé qu’au niveau national
-         étant donné que ce marché est le seul qui est affecté), (iii) un marché pour la valorisation matière des
-         déchets papier et carton, qui est au maximum national (et sera analysé aux niveaux plausibles, à savoir
-          national, régional  et départemental),  et  (iv) un marché pour  la  valorisation matière des boues
-         d’épuration, avec de possibles sous-segments pour le compostage et l’épandage, au niveau régional.
-663     La  Partie Notifiante  n’a pas  fourni de  parts de marché pour un marché  global des  déchets
-         fermentescibles au niveau régional au départemental. Ainsi, la  Commission ne peut identifier quels sont
-          les marchés affectés pour un tel marché. Toutefois, la Commission a  les parts de marché au niveau
-         régional et départemental pour les marchés de la valorisation matière des déchets verts et biodéchets,
-          les marchés les plus étroits plausibles, et considère dès lors qu'elle peut suffisamment identifier les
-          différents scénarios. Bien que des différences puissent exister entre les différents marchés, une telle
-          identification exacte n'est pas nécessaire aux fins de cette Décision. De plus, les remèdes soumis par la
-         Partie Notifiante couvrent l'intégralité du chevauchement causé par l’Opération. Etant donné que les
-        arguments de la Partie Notifiante relatifs à l'analyse concurrentielle ne sont pas spécifiques à un produit
-       ou à un marché géographique, la Commission considère que son analyse ci-dessous en réponse à ces
-        arguments couvre tous les marchés de produits plausibles.
 
 [PÁGINA PDF 190 | texto OCR: verificar contra el PDF]
-Veolia|  Suez |  Combinée
+Déchets fermentescibles —
+déchets verts - régional
 
- déchets verts - régional
+Veolia
+
+Combinée
+
+Île-de-France [30-401 % [0-51 % [30-40] %
+Occitanie [60-501 % [10-20] % [80-90] %
+Pays de la Loire [0-5] % [10-20] % 20-30] %
+Déchets fermentescibles —
+déchets verts - départemental
+Charente-Maritime (17) [50-601 % [40-501 % [90-100] %
+Haute-Garonne (31) [70-801 % [20-301 % [90-100] %
+Loire-Atlantique (44) [5-10] % [30-40] % [40-50] %
+
+Val-d'Oise (95)
+
+Déchets fermentescibles —
+biodéchets - national
+
+France
+
+Déchets fermentescibles —
+biodéchets - régional
+
+Déchets fermentescibles —
+biodéchets - départemental
+
+Auvergne Rhône-Alpes [40-501 % [0-51 % [40-50] %
+Bretagne [20-30] % [20-30] % [40-50] %
+Grand Est [10-201 % [20-301 % [30-401 %
+Normandie [30-40] % [0-51 % [30-40] %
+Occitanie [20-30] % [20-301 % [50-60] %
+PACA
+
+[40-50] % [5-10] % = %
+
+Déchets papier et carton -
+national
+
+Bouches-du-Rhône (13) [70-80] % [10-20] % [80-90] %
+Calvados (14) [50-60] % [10-201 % [70-80] %
+Finistère (29) [40-501 % [10-201 % [60-70] %
+Morbihan (56) [30-401 % [40-501 % [70-80] %
+Pyrénées-Orientales (66) [20-30] % [0-51 % [20-30] %
+Savoie (73) [60-70] % [30-40] % [90-100] %
+Vaucluse (84) 50-601 % 20-30] % 70-80] %
+
+Déchets plastiques - national —— _ un
+France (volume) [5-10] % [10-201 % [20-301 %
+France (nombre de sites)
+
+France
+Déchets papier et carton -
+
+| régional
+Auvergne Rhône-Alpes [10-20] % [10-20] % [20-30] %
+Bourgogne Franche-Comté [10-20] % [20-30] % [40-50] %
+Centre Val de Loire [20-301 % [10-201 % [30-401 %
+Grand Est [10-201 % [5-10] % [20-30] %
+Hauts de France [10-201 % [10-201 % [30-40]
+Normandie [20-30] % [10-20] % [40-501 %
+Nouvelle Aquitaine [10-20] % [20-301 % [40-50] %
+
+189
 
 
-
-
-
- déchets verts - départemental
-
-
-
-
-
- biodéchets - national
-
-
-
- biodéchets - régional
-
-
-
-
-
- biodéchets - départemental
-
-
-
-
-
- national
-
-
-
- régional
-
-
-
-
-
-                                                       189
 
 [PÁGINA PDF 191 | texto OCR: verificar contra el PDF]
-|Veolia |  Suez |  Combinée
+Boues d’épuration -
+épandage - régional
+
+Pays de la Loire
+
+Boues d’épuration —
+méthanisation — national
+
+30-401 %
+
+France
+
+Boues d’épuration —
+méthanisation — régional
+
+Auvergne Rhône-Alpes
+
+[50-60] %
+
+[5-10] %
+
+Veolia Suez Combinée
+
+Occitanie [10-20] % [5-10] % [20-30] %
+Pays de la Loire 35-101 % 10-201 % 20-30] %
+
+Déchets papier et carton —
+
+départemental
+Calvados (14) [50-60] % [20-30] % [70-80] %
+Corrèze (19) [30-401 % [30-401 % [60-70] %
+Gironde (33) [20-30] % [20-30] % [40-50] %
+Indre-et-Loire (37) [10-20] % [10-201 % [20-30] %
+Manche (50) [20-301 % [40-501 % [60-70] %
+Marne (51) [40-501 % [20-30] % [60-70] %
+Nord (59) [20-30] % [30-401 % [60-70] %
+Pas-de-Calais (62) [10-20] % [5-10] % [20-30] %
+Puy-de-Dôme (63) [10-20] % [10-201 % [20-30] %
+Pyrénées-Atlantiques (64) [50-60] % [20-301 % [70-80] %
+Rhône (69) [20-30] % [20-30] % [50-60] %
+Seine-Maritime (76) [30-40] % [10-201 % [40-50] %
+Haute-Vienne (87) 60-70] %
+
+Boues d’épuration -
+
+compostage et épandage -
+
+| régional
+
+Centre Val de Loire [10-201 % [5-10] % [20-30] %
+Grand Est [10-201 % [5-10] % [20-30] %
+Normandie [20-30] % [0-5] % [20-30] %
+Pays de la Loire 30-401 % 0-51 % 30-40] %
+
+Boues d’épuration -
+
+compostage - régional
+Auvergne Rhône-Alpes [5-10] % [30-401 % [40-50] %
+Bourgogne Franche-Comté [5-10] % [10-201 % [20-30] %
+Centre Val de Loire [40-501 % [20-301 % [60-70] %
+Grand Est [20-30] % [30-40] % [50-60] %
+Hauts de France [20-30] % [40-501 % [60-70] %
+Normandie [40-501 % [20-301 % [60-70] %
+Nouvelle Aquitaine [20-30] % [30-401 % [60-701 %
+Occitanie [10-20] % [20-301 % [30-40] %
+Pays de la Loire [30-40] % [10-20] % [40-50] %
+PACA 40-501 % 60-70] %
+
+[50-60] %
+
+Grand Est
+
+[30-401 %
+
+[10-20] %
+
+[50-60] %
+
+190
 
 
-
-
-
- départemental
-
-
-
-
-
- Boues d’épuration -
-
-
- régional
-
-
-
-
-
- compostage - régional
-
-
-
-
-
- épandage - régcional
-
-
-
-
- méthanisation — national
-
-
-
- méthanisation — régional
-
-
-
-
-
-                                                       190
 
 [PÁGINA PDF 192]
                                     Veolia           Suez         Combinée
@@ -20118,30 +20617,59 @@ Note : Sites d’enfouissement ISDND d’après la base GEREP 2019, hors régie.
                                                     383
 
 [PÁGINA PDF 385 | texto OCR: verificar contra el PDF]
-   Tableau 47 - Effets de la cession des Activités Cédées Déchets Dangereux dans les
-          départements pour lesquels les Parties sont proches concurrents
+Tableau 47 - Effets de la cession des Activités Cédées Déchets Dangereux dans les
 
+départements pour lesquels les Parties sont proches concurrents
 
+Département Incrément lié à l'Opération Cession
+Sud de la France
+Aude (11) [10-20] % [10-201 %
+Aveyron (12) [40-501 % [50-60] %
+Cantal (15) [30-40] % [70-801 %
+Gard (30) [40-50] % [50-601 %
+Gironde (33) [20-30] % [40-501 %
+Haute-Garonne (31) [5-10] % [90-1001 %
+Hérault (34) [20-30] % [20-30] %
+Lot (46) [20-30] % [80-90] %
+Pyrénées-Atlantiques (64) [20-301 % [60-70] %
+Tarn (81) [40-501 % [40-50] %
+Ouest de la France
+Calvados (14) [10-201 % [10-201] %
+Charente-Maritime (17) [30-40] % [30-401 %
+Corrèze (19) [5-10] % [90-1001 %
+Deux-Sèvres (79) [30-401 % [30-401 %
+Gironde (33) [20-30] % [40-501 %
+Haute-Vienne (87) [10-201 % [70-80] %
+Landes (40) [10-20] % [30-401 %
+Lot (46) [20-30] % [80-901 %
+Maine-et-Loire (49) [30-40] % [40-501 %
+Sarthe (72) [30-401 % [30-40] %
+Nord de la France
+Pas-de-Calais (62) [30-40] % [40-50] %
+Seine-et-Marne (77) [30-401 % [20-30] %1293
+Seine-Saint-Denis (93) [10-20] % [70-80] %
+Val-d'Oise (95) [30-40] % [60-70] %
+Val-de-Marne (94) [40-501 % [30-40] %1294
+Yvelines (78) [5-10] % [5-10] %
+Est de la France
 
+Aube (10) [5-10] % [5-10] %
+Bas-Rhin (67) [0-51 % [90-100] %
+Haute-Loire (43) [0-51 % [10-201 %
+Puy-de-Dôme (63) [10-20] % [10-20] %
+Rhône (69) [0-51 % [10-20] %
 
-
-Source  : Analyse de la Commission des donnéesfournies en réponse à la Réponse de la Partie Notifiante à la
+Source : Analyse de la Commission des données fournies en réponse à la Réponse de la Partie Notifiante à la
 demande d'informations 61.
 
+1293
 
+La différence entre la cession et l’incrément est liée aux sites suivants : Laimont ([5-10] %) et
+Bellegarde ([0-5] %). Cependant, la Commission note que le site de Bellegarde est distant des sites de
+Veolia dans le nord de la France (Clayes-Souilly, Guitrancourt, et SERAF). Pour ce qui est du site de
+Laimont, la taille de la cession est supérieure à l’incrément dans plusieurs départements entre ce site et
+les sites de Veolia (Clayes-Souilly, Guitrancourt, et SERAF), par exemple : Aisne (cession : [30-40]
 
-
-1293    La différence entre  la cession  et l’incrément  est liée aux  sites suivants    : Laimont ([5-10] %)  et
-        Bellegarde ([0-5] %). Cependant, la Commission note que le site de Bellegarde est distant des sites de
-        Veolia dans le nord de la France (Clayes-Souilly, Guitrancourt, et SERAF). Pour ce qui est du site de
-        Laimont, la taille de la cession est supérieure à l’incrément dans plusieurs départements entre ce site et
-          les sites de Veolia (Clayes-Souilly, Guitrancourt, et SERAF), par exemple    : Aisne (cession    : [30-40]
-
-
-
-
-
-                                                     384
 
 [PÁGINA PDF 386]
    (1317) Les cessions prévues par les Engagements Initiaux sont donc de nature à éliminer
@@ -21610,120 +22138,136 @@ Pour ordre et au nom de Veolia
                                          19
 
 [PÁGINA PDF 415 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
-             performance environnementale des villes  et des usagers*. L’Activité Cédée Eau
-             France mclut  aussi les  activités R&D de Suez Smart  Solutions  afm que  le
-            Consortum contmue de bénéficier dupipeline d’mnovation dans le segment du
-              numérique. En somme, par la cession des activités de SES en France, l’Activité
-            Cédée Eau France comprendra l’ensemble des activités de Suez dans le secteur
-            du numérique  (hé à l’eau) en France.
+performance environnementale des villes et des usagers”. L’Activité Cédée Eau
+France mclut aussi les activités R&D de Suez Smart Solutions afm que le
+Consortum contmue de bénéficier du pipeline d’mnovation dans le segment du
+numérique. En somme, par la cession des activités de SES en France, l’Activité
+Cédée Eau France comprendra l’ensemble des activités de Suez dans le secteur
+du numérique (hé à l’eau) en France.
 
-          Un aperçu des filales  et participations  capitalistiques de Suez Smart Solutions
-                est présenté dans le Tableau1 ci-dessous.
+Un aperçu des filales et participations capitalistiques de Suez Smart Solutions
+est présenté dans le Tableau 1 ci-dessous.
 
+Table au 1
+Aperçu de la chaîne de détention de Suez Smart Solutions et de ses filiales
+Relation Filiale Participation
+1 | Suez Groupe S.AS. 100%
+1.1 |[..] [...]
+1.1.1 | [...] [..]”
+1.1.1.2 | [...] [...]
 
-                                    Table au 1
+Source : Suez
+Légende: Filiales appartenant à l’Activité Cédée Eau Francesurlignées
 
-         Aperçu de la chaîne de détention de Suez Smart Solutions et de ses filiales
+"  Degrémont France, détenue à [...] % par Suez International S.A.S (une filale à
+[...]% de Suez Groupe S.A.S.), amsi que ses filales directes et mdirectes telles
+que Degrémont France Assamissement et Hydrea. Degrémont France est active
+sur le segment municipal du marché de l'EPC?6. Un aperçu des filiales et
+participations capitahstiques de Degrémont France est présenté dans le Tableau
+2 ci-dessous.
 
+Table au 2
+Aperçu de la chaîne de détention de Degrémont France et de ses filiales
 
+Relation Filiale Participation
+1 | Suez Groupe S.AS. 100%
+1.1 |[[..] [...]
+1.1.1 [[..] [...]
+1.1.1.1 | [...] [...]
+1.1.1.1.1 | [...] [...]
 
+Suez Smart Solutions comprend [...] personnes et couvre deuxtypes de solutions : (i) les solutions
+Aquadvanced, solutions de gestion de la performance des réseaux d’eau potable et des solutions
+d'optimisation des coûts énergétiques des systèmes de production et de distribution d’eau potabk, et
+(ü) les solutions On Connect desmartmetering. Ces solutions numériques sont généralement proposées
+dans le cadre de prestations plus larges deservices de gestion de l’eau.
 
-                           Suez Groupe S.AsS.                        100 %
-BCRCE
+[Information relative auxparticipations dans la société].
 
-      CE LEES
-                                        Source : Suez
-               Légende: Filiales appartenantà l’Activité Cédée Eau Francesurlignées
+Degrémont France revend ou intègre par ailleurs des équipements et solutions technologiques dans k
+cadre des services qu’elle fournit auxcollectivités.
 
-              "   Degrémont France, détenue à [...] % par Suez International S.A.S (une filale  à
-               [...]% de Suez Groupe S.A.S.), amsi que ses filales directes et mdrectes telles
-             que Degrémont France Assamissement et Hydrea. Degrémont France est active
-               sur  le segment municipal  du marché de l'EPC?6. Un aperçu des  fihales  et
-                participations  capitalstiques  de Degrémont France est présenté dans le Tableau
-          2 ci-dessous.
+20
 
-
-                                     Table au 2
-
-        Aperçu de la chaîne de détention de Degrémont France et de ses filiales
-
-
-
-
-                          Suez Groupe S.AS.                     100%
-
-
-
-
-
-#       Suez Smart Solutions comprend [...] personnes et couvre deuxtypes de solutions   :  (i) les solutions
-         Aquadvanced, solutions de gestion de la performance des réseaux d’eau potable et des solutions
-          d'optimisation des coûts énergétiques des systèmes de production et de distribution d’eau potable, et
-            (ü) les solutions On Connect desmartmetering. Ces solutions nunériques sont généralement proposées
-         dans le cadre de prestations plus larges deservices de gestion de l’eau.
-25         [Information relative auxparticipations dans la société].
-26       Degrémont France revend ou intègre par ailleurs des équipements et solutions technologiques dans k
-         cadre des services qu’elle fournit auxcollectivités.
-                                           20
 
 [PÁGINA PDF 416 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+Source : Suez
+Légende: Filiales appartenant à l’Activité Cédée Eau Francesurlignées
 
-                                         Source : Suez
-                   Légende: Filiales appartenantà l’Activité Cédée EauFrancesurlignées
+Safège est une entreprise détenue à [...] % par Suez Eau France et à [...]% par
+Suez Groupe S.A.S. Agissant sous la dénommation « Suez Consultmg », elle est
+spécialisée dans le conseil stratégique, l’mgénierie et l'assistance à la maîtrise
+d'ouvrage, dans divers domames tels que l'aménagement urbam, le déploiement
+de la fibre, les énergies renouvelables, la gestion et la valorisation des déchets,
+les mfrastructures hydrauliques et la mobilité. Safège exerce ses compétences
+notamment auprès de collectivités locales. Safège dispose de [...] collaborateurs
+en France.
 
-              "    Safège est une entreprise détenue à [...] % par Suez Eau France et à [...]% par
-             Suez Groupe S.A.S. Agissant sous la dénommation « Suez Consultmg  », elle est
-                spécialisée dans le conseil stratégique, l’mgénierie  et l’assistance à la maîtrise
-              d’ouvrage, dans divers domames tels que l'aménagement urbam, le déploiement
-              de la fibre, les énergies renouvelables,  la gestion et la valorisation  des déchets,
-                  les mfrastructures hydrauliques  et la mobilité.  Safège exerce ses compétences
-            notamment auprès de collectivités  locales. Safège dispose de  [...] collaborateurs
+Safège détient des participations capitalistiques dans cmq entités en France. Un
+aperçu des filales et participations capitalistiques de Safège est présenté dans le
+Tableau 3 ci-dessous.
 
-            en France.
+Table au 3
 
+Aperçu de la chaîne de détention de Safe ge et de ses filiales en France
 
-              Safège détient des participations  capitalstiques  dans cmq entités en France. Un
-             aperçu des filales  et participations  capitalstiques  de Safège est présenté dans le
-            Tableau 3 ci-dessous.
+Relation Filiale Participation
 
+1 | Suez Groupe S.AS. 100%
 
-                                    Table au 3
+1.1
 
-        Aperçu de la chaîne de détention de Safe ge et de ses filiales en France
+1.1.1
 
+1.1.1.1
 
+1.1.1.3
 
+1.1.1.4
 
-                            Suez Groupe S.AsS.                     100%
-  DEpdCE   PE ILS|
+1.1.1.5
 
+1.1.1.6
 
+Eu
+EX
+[..]
+1.1.1.2|[...]
+En
+EX
+ES
+Ex
 
+Source : Suez
+Légende: Filiales appartenant à l’Activité Cédée Eau Francesurlignées.
 
+Les centres de recherche et développement («R&D») de Suez dans le
+secteur de l’eau. L’Activité Cédée Eau France comprend les centres de
+recherche CIRSEE (au niveau du groupe Suez) et LyRE (attaché à SEF, voir c1-
+dessous) amsi que l’ensemble de leurs laboratoires de recherche.
 
-                                            Source : Suez
-                 Légende: Filiales appartenantà l’Activité CédéeEauFrancesurlignées.
+o CIRSEE est un établissement de Suez Groupe S.A.S, dont 1l est le
+prmcipal centre de R&D. Il regroupe [...] équivalent temps pleins
+(« ETP ») chercheurs, techniciens et experts, et compte [...] plateformes
+technologiques et [...] partenaires en France et à l’mternational2?. La
 
-              “  Les centres de recherche et développement («R&D») de Suez dans  le
-             secteur de  l’eau. L’Activité  Cédée Eau France comprend  les  centres de
-              recherche CIRSEE (au niveau du groupe Suez) et LyRE (attaché à SEF, voir cr
-              dessous) amsi que l’ensemble de leurs laboratoires de recherche.
+27
 
-               o  CIRSEE est un établissement de Suez Groupe  S.A.S, dont   1l  est  le
-                     prmcipal  centre de R&D.  Il regroupe  [..]  équivalent  temps  pleins
-                        (« ETP ») chercheurs, techniciens et experts, et compte  [...] plateformes
-                      technologiques  et  [...] partenaires en France et à l’mternational??.  La
+28
 
-7         [Information relative auxparticipations dans la société].
-28         [Information relative auxparticipations dans la société].
-.        Voir www.suez.com/fr/notre-sroupe/nnover-pour-demain/nos-centres-de-recherche-et-d-expertise.
+29
 
+[Information relative auxparticipations dans la société].
 
-                                               21
+[Information relative auxparticipations dans la société].
+Voir www.suez.com/fr/notre-sroupe/innover-pour-demain/nos-centres-de-recherche-et-d-expertise.
+
+21
+
 
 [PÁGINA PDF 417]
                                  VERSION NON CONFIDENTIELLE
@@ -21892,42 +22436,38 @@ BCRCE
                                          24
 
 [PÁGINA PDF 420 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+17.
 
-17.    Le Personnel Essentiel comprend    :
+18.
 
+19.
 
+VERSION NON CONFIDENTIELLE
 
+Le Personnel Essentiel comprend :
 
-LL
+Nom Fonction
 
+nn re Er nn re Dar |
 
-LL
-LL
+C. Description du périmètre de l’Activité Conservée
+L’Activité Cédée Eau France ne comprend pas :
 
+a. Les filiales non françaises de Suez Eau France, notamment [...], à l'exception de
+celles listées en Engagements — Anne xe 3 :
 
-      C. Description du périmètre de l’Activité Conservée
+b. Les activités en France de Suez WTS, qui fonctionnent de manière autonome ; et
 
-18.      L’Activité Cédée Eau France ne comprend pas   :
+c. [Information relative aux actifs retenus].
 
-         a.  Les filiales non françaises de Suez Eau France, notamment  [...], à l'exception de
-             celles listées en Engagements — Anne xe 3   :
+Si un élément d’Actif ou un membre du Personnel n’est pas mentionné au pont 16 de
+la présente Annexe mais est utilisé (exclusivement ou non) pour l’Activité Cédée Eau
+France et est nécessaire pour garantir le mamtien de la viabilité et de la compétitivité de
+cette dernière, cet élément d’Actif ou membre du Personnel (ou un substitut adéquat)
+sera proposé au Consortium.
 
-         b.  Les activités en France de Suez WTS, qui fonctionnent de manière autonome ; et
+25
 
-          c.  [Information relative aux actifs retenus].
-
-19.     Si un élément d’Actif ou un membre du Personnel n’est pas mentionné au pomt 16 de
-          là présente Annexe mais est utilisé (exclusivement ou non) pour l’Activité Cédée Eau
-      France et est nécessaire pour garantir le mamtien de la viabilité  et de la compétitivité  de
-        cette dermière, cet élément d’Actif ou membre du Personnel (ou un substitut adéquat)
-       sera proposé au Consortium.
-
-
-
-
-
-                                             25
 
 [PÁGINA PDF 421]
                                  VERSION NON CONFIDENTIELLE
@@ -21980,115 +22520,156 @@ LL
                                          26
 
 [PÁGINA PDF 422 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+Table au 4
+Aperçu de la chaîne de détention de Suez RV France et de ses principales
+filiales
 
+Relation Filiale Participation
+1 | Suez Groupe S.AS. 100%
+1.1
 
+ml
+.
 
+1.1.1
 
-                                          Table au 4
+1.1.1.1
 
-           Aperçu de la chaîne de détention de Suez RV France et de ses principales
+1.1.1.2
 
-                                                             filiales
+1.1.1.3
 
+[
 
+[
 
+[
 
-                                Suez Groupe S.AsS.                   100%
+[
 
+[
+1.1.14|[
+1.1.1.5 | [...
 
+[
+[
+[
+[
+[..
+[.
 
+1.1.1.6
 
+1.1.1.7
 
-                                               Source : Suez
+1.1.1.8
 
-                    Légende: Filiales etparticipations appartenant à l’Activité Cédée DBR France
-                                                      (surlignées en vert)
+1.1.1.9
 
-              "  Suez Organique S.A.S. (« Suez Organique »), détenue à [...]% respectrvement
-              par Suez Eau France  et Suez RV France,  et ses  filiales  et participations
-                minoritaires 4.  Suez  Organique  recouvre  essentiellement   les  services  de
-               traitement  des  déchets  résultant  du  traitement  des eaux usées  et de  leur
+1.1.1.10
 
-                 valorisation.
+1.1.1.11
 
+: . cn . . le . . : . Tu
+: : : : : : : . : : : : :
+CR SR SE DR SR DE DES E DEN R DS R DEN DEN DR D
 
-             Suez Organique  détient des participations  capitalistiques  dans  [...] entités en
-              France, spécialisées notamment dans le traitement et l’élimmation  des déchets
-              dangereux,  la production  d’électricité,  la  fabrication  de gaz  et  les  activités
-               d'mgénierie  et de conseil technique afférentes. Parmi ces  [...] entités,  [...] sont
-              des filales  contrôlées et [...] des entités dans lesquelles Suez Organique détient
-              des participations mmoritaires non-contrôlantes#. Un aperçu des filales de Suez
+Source : Suez
+Légende: Filiales et participations appartenant à l'Activité Cédée DBR France
+(surlignées en vert)
 
-$     A l’exception des actifs supportant l’activité d’TWS ou d’autres activités en dehors du périmètre des
-          Activités Cédées.
-#4        Voir Annexe G  1 au SAPA, repris en RM —Annexe 3. Les entités dans lesquelles Suez Organique
-          détient des participations minoritaires non-contrôlantes ne sont pas directement ou indirectement
-          contrôlée par Groupe SuezS.A.sS., à part [...] (voir note de bas de page 49 ci-dessous).
-                                           27
+Suez Organique S.A.S. (« Suez Organique »), détenue à [...]% respectivement
+par Suez Eau France et Suez RV France, et ses filales et participations
+minoritaires 4. Suez Organique recouvre essentiellement les services de
+traitement des déchets résultant du traitement des eaux usées et de leur
+valorisation.
+
+Suez Organique détient des participations capitalistiques dans [...] entités en
+France, spécialisées notamment dans le traitement et l’élmmation des déchets
+dangereux, la production d’électricité, la fabrication de gaz et les activités
+d’mgéniri et de conseil technique afférentes. Parmi ces [...] entités, [...] sont
+des filiales contrôlées et [...] des entités dans lesquelles Suez Organique détient
+des participations mmoritaires non-contrôlantes#. Un aperçu des filales de Suez
+
+43
+
+A l’exception des actifs supportant l’activité d’TWS ou d’autres activités en dehors du périmètre des
+Activités Cédées.
+
+Voir Annexe G 1 au SAPA, repris en RM —Annexe 3. Les entités dans lesquelles Suez Organique
+détient des participations minoritaires non-contrôlantes ne sont pas directement ou indirectement
+contrôlée par Groupe SuezS.A.S.. à part [...] (voir note de bas de page 49 ci-dessous).
+
+27
+
 
 [PÁGINA PDF 423 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+Organique est présenté dans les Tableau 53 ci-dessous et la liste des
+participations mmoritaires faisant partie de l’Activité Cédée Eau France est
+fournie en Engage ments -Annexe 3.
 
+Table au 5
+Aperçu des filiales contrôlées de Suez Organique
+Relation Filiale Participation
+1 | Suez Groupe S.AS. 100%
+1.1|[..] [...]
 
+1.1.1/|[..] [...]#
+1.1.1.1|[...] ee
+1.1.1.2 |[...] L..]"
+1.1.1.3 |[...] [.*
+1.1.14 |[..] -.]"
 
-             Organique   est  présenté  dans   les  Tableau  5  ci-dessous   et  la   liste  des
-                participations  mmoritaires  faisant partie  de l’Activité  Cédée Eau France est
-                fournie en Engage ments -Annexe 3.
+Source: Suez
+Légende: Filiales appartenant à l'’Activité Cédée Eau Francesurlignées
 
+"  L’activité d’exploitation du site d’enfouissement de déchets banals de Gardanne
+de Veolia, amsi que la participation minoritaire de Veolia dans SEMAG.
 
-                                           Table au 5
+B. Description du périmètre de l’Activité Cédée DBR France
 
-                      Aperçu des filiales contrôlées de Suez Organique
+Conformément au pomt 6 de la présente Proposition d’engagements, l’Activité Cédée
+DBR France se compose, entre autres, des éléments suivants :
 
+Les actifs corporels détenus par les filales de Suez constituant l’ Activité Cédée DBR
+France, listés en Engagements — Annexe 6.
 
+La marque « Suez », regroupant la marque verbale « Suez » et les marques complexes
+comprenant la marque verbale « Suez » détenues par Suez°l. La marque « Suez » sera
+amsi transférée à l’Acquéreur, avec une possibilité pour la Partie Notifiante de
+bénéficier d’un droit d’utiisation de cette marque pendant une période de transition
 
+[Information relative auxparticipations dans la société].
+[Information relative auxparticipations dans la société].
 
-                                Suez Groupe S.AsS.                   100%
+3.
+L Actifs corporels
+4.
+IL Actifs mcorporels
+5.
+45
+46
+47
+48
 
+49
+50
 
+51
 
+[Information relative auxparticipations dans la société].
+[Information relative auxparticipations dans la société].
+[Information relative auxparticipations dans la société].
 
+Voir note de bas de page 11 ci-dessus.
+[Information relative auxétapes transactionnelles].
 
-        M4
+28
 
-
-                                                  Source: Suez
-                       Légende: Filiales appartenantà l’Activité Cédée EauFrancesurlignées
-
-              "    L’actiwité d’exploitation du site d’enfouissement de déchets banals de Gardanne
-              de Veolia, amsi que la participation mmoritaire de Veolia dans SEMAG2.
-
-
-       B. Description du périmètre de l’Activité Cédée DBR France
-
-3.     Conformément au pomt 6 de la présente Proposition d’engagements, l’Activité Cédée
-    DBR France se compose, entre autres, des éléments suivants     :
-
-        L    Actifs corporels
-
-4.     Les actifs corporels détenus par les fihales  de Suez constituant  l’Activité Cédée DBR
-       France, listés en Engagements — Annexe 6.
-
-
-             IT.    Actifs mcorporels
-
-5.     La marque « Suez », regroupant la marque verbale « Suez » et les marques complexes
-      comprenant  la marque verbale « Suez » détenues par Suez°!. La marque « Suez » sera
-       amsi  transférée à  l’Acquéreur,  avec une  possibilité  pour  la  Partie  Notifiante  de
-        bénéficier d’un droit d’utiisation  de cette marque pendant une période de transition
-
-
-5         [Information relative auxparticipations dans la société].
-          [Information relative auxparticipations dans la société].
-47         [Information relative auxparticipations dans la société].
-48         [Information relative auxparticipations dans la société].
-          [Information relative auxparticipations dans la société].
-”        Voir note de bas de page 11 ci-dessus.
-3         [Information relative auxétapes transactionnelles].
-                                            28
 
 [PÁGINA PDF 424]
                                  VERSION NON CONFIDENTIELLE
@@ -22199,139 +22780,122 @@ $     A l’exception des actifs supportant l’activité d’TWS ou d’autres 
                                          30
 
 [PÁGINA PDF 426 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+de la gestion des projets”, amsi qu’une grande majorité des personnes exerçant des
+fonctions transversales de support aux opérations du Groupe, qu’il s’agisse du
+personnel du département mformatique ou de la direction technique ([mformation
+relative aux personnel]).
 
+16. Le Personnel Essentiel comprend :
 
-           de la gestion des projets”. amsi qu’une grande majorité des personnes exerçant des
-            fonctions  transversales de support aux opérations  du Groupe,  qu’il s’agsse du
-           personnel du département mformatique  ou de la drection technique ([mformation
-             relative aux personnel]).
+Nom Fonction
+]
+]
 
-16.    Le Personnel Essentiel comprend    :
+[.]
+C]
 
+C. Description du périmètre de l’Activité Conservée
 
+17. Les activités que Veoha prévoit de céder à l’Acquéreur excluent (1) la filale Suez RR
+IWS amsi que ses filiales, participations capitalstiques et actifs 56 (qui portent
+notamment l’activité d’exploitation des sites mixtes déchets banals (Classe 2) / DIS
+(Classe 1) de Drambon et Bellegarde) et (n) la participation [...] de Suez RV France
+dans SERAF [mformation relative aux participations dans la société] 7.
 
-LL
+18. Si un élément d’Actif ou un membre du Personnel n’est pas mentionné au pomt 15 de
+la présente Annexe mais est utilisé (exclusivement ou non) pour l’Activité Cédée DBR
+France et est nécessaire pour garantir le mamtien de la viabilité et de la compétitivité de
+cette dernière, cet élément d’Actif ou membre du Personnel (ou un substitut adéquat)
+sera proposé au Consortium.
 
+” Y compris l’essentiel des activités d’ingénierie de projets [...].
 
-LA
-LL
+Ainsique des actifs supportant l’activité de SuezRR IWS et de ses filiales.
+Voir le point 6 de la présente Proposition d'engagements. Comme expliqué précédemment, la société
+SEDA sera par ailleurs cédée dans le cadre d’Engagements séparés.
 
+31
 
-       C. Description du périmètre de l’Activité Conservée
+56
 
-17.    Les activités que Veolia prévoit de céder à l’Acquéreur excluent  (1)  la filale Suez RR
-     IWS  amsi  que  ses  filales,   participations  capitahstiques   et  actifs 6 (qu  portent
-      notamment  l’activité  d’exploitation  des  sites muxtes déchets banals (Classe 2)  / DIS
-       (Classe  1) de Drambon et Bellegarde)  et (n)  la participation   [...] de Suez RV France
-       dans SERAF [mformation relative aux participations  dans la société] 7.
+57
 
-18.     Si un élément d’Actif ou un membre du Personnel n’est pas mentionné au pomt  15 de
-          la présente Annexe mais est utilisé (exclusivement ou non) pour l’Activité Cédée DBR
-       France et est nécessaire pour garantir le mamtien de la viabilité  et de la compétitivité  de
-        cette dernière, cet élément d’Actif ou membre du Personnel (ou un substitut adéquat)
-        sera proposé au Consortium.
-
-
-
-
-
-”
-”     Y compris l’essentieldes activités d'ingénierie de projets [...].
-7       Ainsique des actifs supportant l’activité de SuezRRIWS et de ses filiales.
-          Voir le point 6 de la présente Proposition d’engagements. Comme expliqué précédemment, la société
-       SEDA sera par ailleurs cédée dans le cadre d’Engagements séparés.
-                                                31
 
 [PÁGINA PDF 427 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
+
+LISTE DES ANNEXES
+
+Nom de l’annexe
+
+Description de l’annexe
+
+En ts — . . nr midi
+el Description des actifs de l’ Activité Cédée Eau France
+Engagements — . - SN UE Pad
+Annexe 2 Description des actifs de l’ Activité Cédée DBR France
+Engagements — | Liste de l’ensemble des entités et participations capitalistiques
+Annexe 3 composant les Activités Cédées (extrait de l’ Annexe G.1 du SAPA)
+En t Liste des accords de tiers nécessaires au transfert au Nouveau Suez des
+exe d | entités et/ou contrats détenus par les Activités Cédées (extrait de
+l Annexe 2.1 du SAPA)
+Eneacements Liste provisoire des droits de propriété intellectuelle et autres éléments
+ere 5 immatériels à transférer aux. ou à dissocier des, Activités Cédées avant
+la clôture de la cession (voir Annexes 1.3.2 bis. 2.1.3 et 5.6 du SAPA)*8
+Engagements — | Liste de l’ensemble des installations et mfrastructures détenues par les
+Annexe 6 entités faisant partie des Activités Cédées
+Engagements — | Liste de l’ensemble des contrats en cours conclus par les entités de Suez
+Annexe 7 composant les Activités Cédées
+Engacements — Liste des solutions technologiques ayant des applications municipales
+ie g commercialisées au cours des cinq dernières années et identifiées
+
+comme couverte par [...]
+
+58
+
+L.].
+
+32
 
 
-
-
-
-                        LISTE DES ANNEXES
-
-
-
-                                           Description de l’annexe
-
-     Engagements. 8 exe  1  —    Description.      des actifs.  de l’ActivitéUE CédéeMLNL  Eau France
-
-     Engagementsses       —                                                    .                                                                .      ur     midi
-            exe 2       Description des actifs de l’Activité Cédée DBR France
-
-     Engagements — | Liste de l’ensemble des entités et participations capitalistiques
-       Annexe 3      composant les Activités Cédées (extrait de lAnnexe G.1 du SAPA)
-
-
-
-
-
-               —     Engagements                           Liste2 des accords de tiersA  nécessaires|    au transfert“re      MAILauNouveau-  Suez des
-            exe 4        entités et/ou contrats détenus par les Activités Cédées (extrait de
-                            l Annexe 2.1 du SAPA)
-
-
-
-
-
-               —     Engagements                           Liste|.     provisoireLit   des droits,     de propriété\                      4:    intellectuelle-      reet autresMAALéléments
-         Annexe 5       immatériels à transférer aux, ou à dissocier des, Activités Cédées avant
-                                 :          la clôture de la cession (voir Annexes 1.3.2 bis. 2.1.3 et 5.6 du SAPA)8
-
-     Engagements — | Liste de l’ensemble des installations  et mfrastructures détenues par les
-       Annexe 6        entités faisant partie des Activités Cédées
-
-     Engagements — | Liste de l’ensemble des contrats en cours conclus par les entités de Suez
-       Annexe 7      composant les Activités Cédées
-
-
-
-
-
-               —     Engagements                           Liste des solutions.          2    technologiques|                                 .   ayant.des applications;                         .  municipalespe
-       Annexe 8       commercialisées au cours des cinq dernières années et identifiées
-                 comme couverte par [...]
-
-
-
-
-
-38             [...].
-                                             32
 
 [PÁGINA PDF 428 | texto OCR: verificar contra el PDF]
-                                                           VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+ENGAGEMENTS — ANNEXE 3
 
+Liste des entités et participations cédées (Annexe G1 SAPA)
 
-                            ENGAGEMENTS — ANNEXE 3
+OBSERVATIONS PRÉLIMINAIRES
 
-
-                                  Liste des entités et participations cédées (Annexe G1 SAPA)
-
-                                     OBSERVATIONS PRÉLIMINAIRES
-
-
-1. La présente annexe est un extrait de lAnnexe G1 du SAPA signé entre les Parties et le Consortum  le 22 octobre 2021 et ne reflète
+1. La présente annexe est un extrait de l Annexe G1 du SAPA signé entre les Parties et le Consortmm le 22 octobre 2021 et ne reflète
 donc pas l’entièreté du contenu de cette dernière, qui couvre l’ensemble du pérmètre du Nouveau Suez. La présente annexe liste quant
-à elle uniquement  les fihales  et participations  capitalistiques  qui seront transférées au Nouveau Suez et qui font partie des Activités
-Cédées (à savor, celles situées en France), c’est-à-dire des engagements proposés à la  Commission dans le cadre des mesures correctives
+à elle uniquement les filales et participations capitahstiques qui seront transférées au Nouveau Suez et qui font partie des Activités
+Cédées (à savor, celles situées en France), c’est-à-dire des engagements proposés à la Commission dans le cadre des mesures correctives
 concernant les marchés de la gestion de l’eau municipale en France et les marchés des déchets banals et réglementés en France. Il ne
-contient notamment pas les  entités non-françaises qui seront cédées au Nouveau Suez mais  qui ne relèvent pas du périmètre  des
+contient notamment pas les entités non-françaises qui seront cédées au Nouveau Suez mais qui ne relèvent pas du périmètre des
+
 engagements.
 
-  Entreprises                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Pays         dugroupePourcentageSuezde participation direct   Transfert direct/indirect
+Pourcentage de participation directe Transfert direct/indirect
 
-ESRS RS
+ne
+
+[Suez International France [...] Direct
+Degrémont France France [...] indirect (level - 1)
+Degrément France Assainissement France [...] indirect (level - 2)
+Hydrea France …] indirect (level - 3)
+SCM Corporate Frst (Works4Impact) France .…] indirect (level - 1)
+Suez Prodeval JV Itaka France [...] indirect (level - 2)
+Carbon Works France [...] indirect (level - 1)
+Campus Cyber France [...] indirect (level - 1)
+Aquatex France .…] indirect (level - 1)
+Gandharbpur Water Treatment (SNC) France …] indirect (level - 1)
+Suez Eau France France [...] Direct
 
 
-
-
-
-ESCS
 
 [PÁGINA PDF 429]
                                                          VERSION NON CONFIDENTIELLE
@@ -22387,33 +22951,34 @@ HAINAUT MAINTENANCE                                                             
                                                                34
 
 [PÁGINA PDF 430 | texto OCR: verificar contra el PDF]
-                                                          VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+Pourcentage de participation direct Transfert direct/indirect
 
-Entreprises                                                   "”                              participation direct   Transfert direct/indirect
-SEE
-ES SE
-ES SE
-CSCS  EE
-EEES RS  EE
-EE
-ESRS
-ES
-    SEES RS  EE
-SE
-EECS CS  EE
-ES SE
-EEA CS  EE
-RE
-    SEES CS RS  EE
-SC
-ESSC   EE
-RE
-   SERE CSCS  EE
+Sa
 
+Doléa-Eau France £-] direct ( 1)
+Doléa-Assainissement France [L-] indirect (niveau -1)
+ASTEO France £-] indirect (niveau -1)
+SERvice d'Assänissement de Marseille Métropde Franc [-] Indirect (niveau -1)
+L'Eau d'Issanka France £-] indirect (niveau -1)
+SEQUALY France [-] indirect (niveau -1) & (niveau- 2)
+Vend'O France £-] indirect (niveau -1)
+La Seynoise des Eaux France [-] indirect (niveau -1)
+GRAVITEO France £-] indirect (niveau -1)
+EPUREO France [L-] indirect (niveau -1)
+MEROPUR France L-] indirect (niveau -1)
+Thau Maritima France [L-] indirect (niveau -1)
+ValEaurhin France £] indirect (niveau -1)
+KARUKER'O France [-] indirect (niveau -1)
+Eau du Grand Avignon France L] indirect (niveau -1)
+Roanne Assainissement France [£-] indirect (niveau -1)
+CIE BOURBONNAISE DE SERVICES ET D ENVIRONNEMENT - CBSE France L.] indirect (niveau -1)
+SOCIETE DES EAUX DU DISTRICT URBAIN DE DINAN - SEDUD France L-] indirect (niveau -1)
+VAITEHI SA France [-] indirect (niveau -1)
 
+35
 
-                                                                       35
 
 [PÁGINA PDF 431]
                                                          VERSION NON CONFIDENTIELLE
@@ -22477,76 +23042,100 @@ AQUAZEN                                                                         
                                                                36
 
 [PÁGINA PDF 432 | texto OCR: verificar contra el PDF]
-                                                          VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+E-GEE France [1 indirect (niveau -2)
+SONDALP - HYDROFORAGE France [1 indirect (niveau -2)
+EVOUS France L-] indirect (niveau -2)
+AXEO France L-] indirect (niveau -2)
+ONSEN France L-] indirect (niveau -2)
+Marinov France [1 indirect (niveau -2)
+ONOVA France L-] indirect (niveau -2)
+SEMAB France [1 indirect (niveau -2)
+Beaune Etape Nature France L-] indirect (niveau -2)
 
+Pourcentage de participation direct Transfert direct/indirect
 
+ S
 
+SOCIETE DES EAUX DE VERSAILLES ET DE SAINT-CLOUD - SEVESC France L-] indirect (niveau -1)
+Sodété des Eaux de l'Ouest Parisien France [-] indirect (niveau -1) & (niveau- 2)
+STE CALEDONIENNE DES EAUX - CDE France L-] indirect (niveau -1)
+AQUANORD France [1 indirect (niveau -2)
+SEM de Tina France L- indirect (niveau -2)
+SOCIETE DES EAUX URBAINES ET RURALES DE PAITA France [1 indirect (niveau -2)
+SOCIETE GENERALE D'ASSAINSSEMENT ET DE DISTRIBUTION - SGAD France L- indirect (niveau -1)
+Superlorian Développement France [1 indirect (niveau -1)
+OPALIA Franc L- indirect (niveau -1)
 
-Entreprises                         ”    nas,      participation direct   Transfert direct/indirect
-EE SE
-SCEE
-CS
-EECS CE  EE
-ESCS
-AEE
-RSESCS
-ESCS  EE
-EECS  EE
-RECS SE
+37
 
-
-
-                                                                     37
 
 [PÁGINA PDF 433 | texto OCR: verificar contra el PDF]
-                                                          VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
-SORS
-REESCS  EE
-ESRS  ES  EE
-ESES RS  EE
-ESRS
-ESOS RS
-SRRS  EE
-ESRS
-EEAS  ES  EE
-SE
-SE
-ES
-    SEES AS RS
-ESRS
-ESESRS  EE
-ESOS RS
-RERSRS  EE
-ESAS RS
-de
-SE
-ESAS RS
+Opalia Viroflay France [1 indirect (niveau -2)
+Opalia Rosny France [1 indirect (niveau -2)
+SemOp du Loup Pendu France L-] indirect (niveau -2)
+SOCIETE DES EAUX DE LA PRESQU'ILE GUERANDAISE (SIG) France [| indirect (niveau -1)
+SEM PSP PYRENEES SERVICES PUBLICS France L-] indirect (niveau -1)
+Colmarienne des Eaux France [1 indirect (niveau -1)
+SEM DE LAMALOU LES BAINS France L-] indirect (niveau -1)
+SEMIA SA France [1 indirect (niveau -1)
+SEMEISO France L-] indirect (niveau -1)
+BIOGENERE France [1 indirect (niveau -1) & (niveau- 2)
+INSERIM France L-] indirect (niveau -1)
+Elan Sportif Chaäonnais France [1 indirect (niveau -1)
+SAEM Promobour France L-] indirect (niveau -1)
+SORGEM France [1 indirect (niveau -1)
+Sources de Soultzmatt SA France L-] indirect (niveau -1)
+SOCIETE DES EAUX DE L AGGLOMERATION DU BASSIN DE BRIVE Franc [1 indirect (niveau -1)
+Techno'Start France L-] indirect (niveau -1}
+SCI Immeau France [1 indirect (niveau -2)
+Safege France [...] Direct
 
+Effiacity France [...] indirect (level - 1)
+Suez Consulting Overseas France [...] indirect (level - 1}
 
-                                                                       38
+38
+
 
 [PÁGINA PDF 434 | texto OCR: verificar contra el PDF]
-                                                          VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+Sauveterre Ingénierie France [” indirect (level - 1)
 
+Sodété Mixte et d'Aménægement & la Vilk de Lamentin France E indirect (level - 2)
 
+HYDRACOS France [” indirect (level- 1)
 
+SCI SIST France E indirect (level - 1) & (level - 2)
+HAGENMULLER France E indirect (level - 1)
 
-SC
+ACTIMAR Franc [” indirect (level - 1)
 
+Suez Smart Solutions France [” Direct
 
+Hydrelis France France [1 indirect (level - 1}
 
+Suez RV France France L-. Direct
 
+SUEZ RV Ilede-France France [1 indirect (niveau -1) & (niveau- 2)
+Suez RV Paris France L-] indirect (niveau -1) & (niveau- 2)
+CTI France [1 indirect (niveau -1) & (niveau- 2)
+SCEA DU BOSNER France L-] indirect (niveau -2)
 
-Entreprises                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Pays         dugroupePourcentageSuezde participation direct   Transfert direct/indirect
+SCI CLB France [1 indirect (niveau -2)
+SIT'ALTERNATIF France L-] indirect (niveau -2)
 
+SITA Oise France [1 indirect (niveau -1)
 
+SCI BOINET PB. France L-] indirect (niveau -2) & (niveau - 3)
 
+Pourcentage de participation directe Transfert direct/indirect
 
+39
 
-                                                                     39
 
 [PÁGINA PDF 435]
                                                          VERSION NON CONFIDENTIELLE
@@ -22671,31 +23260,34 @@ REVAL SERVICES                                                                  
                                                                41
 
 [PÁGINA PDF 437 | texto OCR: verificar contra el PDF]
-                                                          VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+ETS BAYLE France [1 indirect (niveau -2)
+DIEZE France [1 indirect (niveau -2}
+SUEZ RV SudOuest France L-] indirect (niveau -1) & (niveau- 2)
+SUEZ RV Pyrénées France L-] indirect (niveau -2)
+SOTRIVAL France L-] indirect (niveau -2)
 
+Pourcentage de participation direct Transfert direct/indirect
 
+stone RS
 
+SUEZ RV Charente Limousin France L-] indirect (niveau -2)
+SUEZ RV Sud Ouest BTP France [-] indirect (niveau -2)
+BEDEMAT France L-] indirect (niveau -2)
+SEMIPAL (Société Anonyme d'Economie Mixte Locale Le Palo) France [1 indirect (niveau -2)
+RECYGO France L-] indirect (niveau -1) & (niveau- 2)
+SUEZ RV Alvéol France [-] indirect (niveau -2)
+SUEZ RV Méditerranée Franc L-] indirect (niveau -1)
+SCI DES FAYSSES France [1 indirect (niveau -1) & (niveau- 2)
+SUEZ RV Nîmes France L- indirect (niveau -2)
+SUEZ RV Istres France [1 indirect (niveau -2)
+ECOPOLE DE LAMBERT France L- indirect (niveau -2)
+AUDEVAL France L-] indirect (niveau -2)
+MNCS France [1 indirect (niveau -2)
 
-Entreprises                         ”    Pactedeartnet rasedre
-SESCS  ES
-ESESRS  EE
-à
-ESESRS  EE
-ESES CS  EE
-ESES RS
-ESES CS
-ESES RS
-ESESRS  EE
-ESES RS  ES
-à
-à
-SEESCS
-SEES CS
+42
 
-
-
-                                                                    42
 
 [PÁGINA PDF 438]
                                                          VERSION NON CONFIDENTIELLE
@@ -22759,32 +23351,32 @@ ECONOTRE                                                                        
                                                                43
 
 [PÁGINA PDF 439 | texto OCR: verificar contra el PDF]
-                                                          VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
-ESCS  EE
-ES
-SEE
-CS SE
-ESSE  EE
-CSCS  EE
-ESEC ESCEEE
-ASRS
-EECS RS  EE
-ESSE
-SE
-ESECSEEE
+SOGAD France [1 indirect (niveau -2)
+IVRY PARIS XIII France [1 indirect (niveau -2) & (niveau- 1)
+CRETEIL INCINERATION ENERGE France L-] indirect (niveau -2)
+ESIANE France L-] indirect (niveau -2)
+VALORYELLE France L-] indirect (niveau -2)
+Tremplin France [1 indirect (niveau -3)
+SERVICES ENVIRONNEMENT TRI France L-] indirect (niveau -3)
+ENORIS France [1 indirect (niveau -2)
+VALO MARNE France L-] indirect (niveau -2)
+HELYSEO France [1 indirect (niveau -2)
+UVEA France L-] indirect (niveau -2)
+H2 CRETEIL France [1 indirect (niveau -2)
+SOVVAD (Société Vosgenne pour la Vaorësation des Déchets) France L-] indirect (niveau -2)
+SUEZ RV Meuse France [-] indirect (niveau -2)
 
-Entreprises                                                   F” a participation direct   Transfert direct/indirect
-SE
-ESCS  EE
-AEE
-ESCS  EE
-CS
+Pourcentage de participation direct Transfert direct/indirect
+
+EVNA France [...] direct (niveau -2)
+FENIIX France [1 indirect (niveau -2)
+TSI Franc L-] indirect (niveau -1)
+Sodété de Participations Industrielles France L-] indirect (niveau -1)
+Sodété Parisienne d'Aménagments de Terrains France [1 indirect (niveau -2)
 
 
-
-
-                                                                44
 
 [PÁGINA PDF 440]
                                                          VERSION NON CONFIDENTIELLE
@@ -22909,35 +23501,37 @@ FEE SERVICES                                                                    
                                                                46
 
 [PÁGINA PDF 442 | texto OCR: verificar contra el PDF]
-                                                          VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
-SE
+GROUPE ID'EES
 
- Entreprises                                                   F” Po participation direct   Transfert direct/indirect
-EESC
-REA
-EE
-ES
-SE
-SE
-RSSE
-EEA
-ES
-ES
-RE
-REA
-EESC
-SE
-SR
-AS SE
-REAS RS
-ESRS
-SE
+France
 
+[1 indirect (niveau -1)
 
+Pourcæntage de participation directe Transfert direct/indirect
 
+SUEZ RV CSP France L-. indirect (niveau -1)
+HESUS France [.] indirect (niveau -1)
+SUEZ RV Materiel et Logstique France L-] indirect (niveau -1)
+SUEZ RV Développement France L-] indirect (niveau -1)
+SUEZ Organique France L.. indirect (niveau -1)
+GL ORGANOSOL SA France L-] indirect (niveau -2)
+AGRO LOGIC France [-} indirect (niveau -2)
+CENTRE DE VALORISATION ORGANIQUE DE SBNE-ET-MARNE - CVO 77 France [..] indirect (niveau -2)
+ENGIE-SUEZ METHABIO Développement France [M indirect (niveau -2)
+VIVANAT France L-] indirect (niveau -2)
+[BIOGAZ DU PAYS CHATEAU -GONTER France CT] Indirect {niveau -2]
+BIOGASYL France L.] indirect (niveau -2)
+META-BIO-ENERGIES France L-] indirect (niveau -2)
+TERRIAL Franc [-] indirect (niveau -2)
+METHAISNE ENERGIES VERTES France [1 indirect (niveau -2)
+Derval Agiméthane SAS France L.] indirect (niveau -2)
+SUEZ RV Bioénerges SA France L-] indirect (niveau -1) & (niveau- 2)
+SUEZ RV Bioénerges SAS France [-. indirect (niveau -2)
 
-                                                                  47
+47
+
 
 [PÁGINA PDF 443]
                                                          VERSION NON CONFIDENTIELLE
@@ -24302,62 +24896,63 @@ B.    Description du périmètre de l’Activité Cédée SME
                                             77
 
 [PÁGINA PDF 473 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+Table au 6
+Solutions technologiques pour unités mobiles de traitement de l’eau disponibles dans la
 
-                                    Table au 6
+flotte de l’Activité Cédée SME37
 
- Solutions technologiques pour unités mobiles de traitement de l’eau disponibles dans la
-                                  flotte de lActivité Cédée SMES7
+Technologie Nombre d'unités <RSTEntOn EURE
+Adoucisseur [...] Ÿ Ÿ
+Clarificateur ([...]) [...] Ÿ
+Dégazage [...] Ÿ Ÿ
+Echange d'ions [...] Ÿ
+Echange d'ions /
+Filtration L-] Ÿ Ÿ
+Filtre à disques ([...]) [...] Ÿ
+Flottation à air dissous L.] /
+(LD)
+Osmose inverse [...] "
+Pompes [...] Ÿ
+Cuve [...] Ÿ
+Ultrafiltration [...] Ÿ
+Technologies multiples ” [...] ÿ Ÿ V4
+Total [...]
 
-__   TechnologieAdoucisseur [5.7| Nombre Eunités
-2 EchangeDégazaged'ions] [11     Echange d'ions / ||
-          Filtration
-REFiltre à disques QD) [fn|CE PESA  RE PS RS NS
-Pompes
-CCS  ES PS PS PS PE
-2   Utraftration [LT
- Technologies nmitiples "|" {1 "|"  "|"  7 |    |
-TO
+Source : Veolia
+À la demande de l’Acquéreur, l’Activité Cédée SME pourra également inclure les
+activités de l’atelier de Solys de Stoke-on-Trent dans lequel les unités mobiles de l’eau
+et des solutions technologiques standardisées sont fabriquées pour toute l’Europe”, y
+compris la quasi-totalité des solutions technologiques listées dans le Tableau cr
+dessus”.
 
-                                       Source : Veolia
+IL Actifs mcorporels
 
-6.   À  la demande de l’Acquéreur,  l’Activité  Cédée SME pourra également  inclure  les
-        activités de l’atelier de Solys de Stoke-on-Trent dans lequel les unités mobiles de l’eau
-        et des solutions  technologiques  standardisées sont fabriquées pour toute l’Europe#?, y
-       compris   la  quasi-totalité  des  solutions  technologiques  lstées  dans  le Tableau cr
-        dessus°0.
+L’Activité Cédée SME mclura l’ensemble des documents mternes nécessaires à la
+fabrication des unités mobiles de l’eau.
 
+A l'exception des [Information relative aux solutions technologiques comprises dans l’Activité Cédée
+SME] qui sont fournis par des tiers et des [Information relative auxsolutions technologiques comprises
+dans l’Activité Cédée SMF] qui feront l’objet de contrats d’approvisionnement à la demande de
+l’Acquéreur, l’ensemble de ces solutions technologiques peut être produit dans l’atelier de Solys faisant
+partie de la proposition de remèdes.
 
-         IL    Actifs mcorporels
+Ces unités mobiles combinent des technologies d’osmose inverse, de dégazage, d’adoucissement,
+d’électro-déionisation et de stérilisation UV.
 
+Certaines des unités mobiles de Veolia sont actuellement fabriquées sur le site de [....], mais pourront être
+fabriquées sur le site de Stoke-on-Trent grâce à la fourniture de l’ensemble des documents intemes
+nécessaires et des compétences du personnel dédié à l’atelier de Solys à Stoke-on-Trent.
 
-7.      L’Activité Cédée SME mclura  l’ensemble  des documents  mternes nécessaires à  la
+Seules [...] unités mobiles sur l’ensemble de la flotte étant composée de [...]Junités mobiles compotent
+une solution technologique ne pouvant pas être fabriquée sur le site de Stoke-on-Trent ([Information
+relative aux solutions technologiques ne pouvant être fabriquées sur le site de Stoke-on-Trent])). Ces
+solutions technologiques sont aisément disponibles sur le marché auprès de fournisseurs comme TORO,
+KWL Nordic Water, ou encore Meccana.
 
-        fabrication des unités mobiles de l’eau.
+78
 
-
-
-
-
-©    A l'exception des [Information relative aux solutions technologiques comprises dans l’Activité Cédée
-      SME] qui sont fournis par des tiers et des [Information relative auxsolutions technologiques comprises
-       dans l’Activité Cédée SME] qui feront l’objet de contrats d’approvisionnement à  la demande de
-        l’Acquéreur, l’ensemble de ces solutions technologiques peut être produit dans l'atelier de Solys faisant
-         partie de la proposition de remèdes.
-.       Ces unités mobiles combinent des technologies d’osmose inverse, de dégazage, d’adoucissement,
-©        d’électro-déionisation et de stérilisationUV.
-        Certaines des unités mobiles deVeolia sont actuellement fabriquées sur le site de [....], mais pourront ête
-        fabriquées sur le site de Stoke-on-Trent grâce à la fourniture de l’ensemble des documents intemes
-”       nécessaires et des compétences du personnel dédié à l’atelierde Solys à Stoke-on-Trent.
-        Seules [...] unités mobiles sur l’ensemble de la flotte étant composée de [...]unités mobiles compoitent
-       une solution technologique ne pouvantpas être fabriquée sur le site de Stoke-on-Trent ([Information
-         relative aux solutions technologiques ne pouvant être fabriquées sur le site de Stoke-on-Trent])). Ces
-         solutions technologiques sont aisément disponibles sur le marché auprès de fournisseurs comme TORO,
-     KWL Nordic Water, ou encore Meccana.
-
-
-                                                 78
 
 [PÁGINA PDF 474]
                                  VERSION NON CONFIDENTIELLE
@@ -24418,68 +25013,70 @@ TO
                                             79
 
 [PÁGINA PDF 475 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+14.
 
-               seules  les  technologies  suivantes,  qui  sont  utilisées  dans  la  flotte  actuelle
-               d’unités mobiles de Veola et ne peuvent pas être fabriquées sur le site de Stoke-
-              on-Trent pourront  faire l’objet d’un contrat d’approvisionnement      :
+15.
 
-                            (e]      [Information  relative  aux technologies  comprises  dans  les  contrats
-                    d’approvisionnement    |;
+16.
 
-                           (e]      [Information  relative  aux technologies  comprises  dans  les  contrats
-                     d’approvisionnement];  et
+17.
 
-            o       [Information  relative  aux  technologies  comprises  dans  les  contrats
-                       d’approvisionnement]|.
+VERSION NON CONFIDENTIELLE
 
-            Ces  contrats  d’approvisionnement   couvriront   la  fourniture  de  pièces  de
-             rechanges pour  ces  solutions  technologiques  pour  une  durée  de  [..] ans
-               s’agissant des pièces acquises par Veolia auprès de tiers et tant que Veolia aura
-              des stocks dispomibles pour les pièces produites par Veolia.
+seules les technologies suivantes, qui sont utilisées dans la flotte actuelle
+d’unités mobiles de Veola et ne peuvent pas être fabriquées sur le site de Stoke-
+on-Trent pourront faire l’objet d’un contrat d’approvisionnement :
 
+o [Information relative aux technologies comprises dans les contrats
+d’approvisionnement|]:;
 
-       V.    Personnel
+o [Information relative aux technologies comprises dans les contrats
+d’approvisionnement]; et
 
+o [Information relative aux technologies comprises dans les contrats
+d’approvisionnement]|.
 
-14.       L’Actmwvité Cédée SME comprend l’ensemble du personnel nécessaire pour garantir sa
-         viabilité  et compétitivité  (en dehors de l’achemmement  des unités  mobiles qu  est
-        toujours  effectué par un prestataire externe). Ce personnel dédié aux services mobiles
-      de l’eau au Royaume-Uni et dans l'EEE comprend toutes les équipes techniques opérant
-         les unités mobiles  et les unités de régénération de ces unités mobiles,  les commerciaux
-        et le management dédié, soit un total d’environ  [...] personnes.
+Ces contrats d’approvisionnement couvriront la fourniture de pièces de
+rechanges pour ces solutions technologiques pour une durée de [..] ans
+s’agissant des pièces acquises par Veolia auprès de tiers et tant que Veolia aura
+des stocks dispomibles pour les pièces produites par Veolia.
 
-15.    Le Tableau ci-dessous présente le Personnel Essentiel    :
+V. Personnel
 
+L’Activité Cédée SME comprend l’ensemble du personnel nécessaire pour garantir sa
+viabilité et compétitivité (en dehors de l’achemmement des unités mobiles qui est
+toujours effectué par un prestataire externe). Ce personnel dédié aux services mobiles
+de l’eau au Royaume-Uni et dans l'EEE comprend toutes les équipes techniques opérant
+les unités mobiles et les unités de régénération de ces unités mobiles, les commerciaux
+et le management dédié, soit un total d’environ [...] personnes.
 
-                                    Tableau 7
+Le Tableau ci-dessous présente le Personnel Essentiel :
 
-                     Personnel Essentiel de |’Activité Cédée SME
+Tableau 7
+Personnel Essentiel de l’ Activité Cédée SME
 
+Nom Fonction Lieux d'affectation
 
- PSPS ESPSESRE
-à
-|
+D) or
+en ral |r
+en ral |r
+Sr (Er er
 
-                                       Source : Veolia
+Source : Veolia
 
+Si l'Acquéreur reprend l’atelier de fabrication de Solys de Stoke-on-Trent, l’ Activité
+Cédée SME comprendra également l’ensemble des salariés attachés à cet atelier, à
+savoir une équipe de [...] personnes comprenant les mgénieurs et salariés en charge (1)
+de la conception et des dessms des solutions technologiques, (n) de fabrication de ces
+solutions technologiques amsi que (ii) de la chaîne d’approvisionnement en pièces
+détachées.
 
-16.     Si l’Acquéreur reprend l’atelier de fabrication de Solys de Stoke-on-Trent,  l’Activité
-      Cédée SME comprendra également l’ensemble  des  salariés attachés à cet atelier,  à
-        savoir une équipe de [...] personnes comprenant les mgénmieurs  et salariés en charge (1)
-      de la conception et des dessms des solutions  technologiques,  (n) de fabrication de ces
-        solutions  technologiques  amsi que  (ii)  de  la chaîne d’approvisionnement  en pièces
-       détachées.
+La liste complète du personnel lié à l’Activité Cédée SME, y compris le Personnel
+Essentiel et les [...] employés des activités de l'atelier Solys UK sur le site de Stoke-on-
+Trent est fournie en Engagements - Annexe 7.
 
+80
 
-17.    La  liste complète du personnel  hé à l’Activité Cédée SME, y compris  le Personnel
-       Essentiel et les  [...]| employés des activités de l’atelier Solys UK sur le site de Stoke-on-
-       Trent est fourme en Engagements - Annexe 7.
-
-
-
-
-                                                 80
 
 [PÁGINA PDF 476]
                                  VERSION NON CONFIDENTIELLE
@@ -24923,64 +25520,76 @@ B.    Description du périmètre de l’Activité Cédée EIF
                                             88
 
 [PÁGINA PDF 484 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+17.
 
-                        application  de l’article L. 1224-1 du Code du travail français amsi que
-                    de la jurisprudence  française et européennell, et
+18.
 
-                   "      Jusqu'à  [...] ETP affectés aux contrats eau mdustriellk  de VEF à temps
-                        partiel qui ne seront donc pas transférés automatiquement par le jeu de
-                            l’article L. 1224-1 du Code du travail français. Ces ETP seront cédés à
-                                la demande de lAcquéreur  s’il ne dispose pas de personnel compétent.
+19.
 
-17.    Le Tableau ci-dessous présente le Personnel Essentiel    :
+20.
 
+21.
 
-                                    Tableau 8
+VERSION NON CONFIDENTIELLE
 
-                     Personnel Essentiel de l’Activité Cédée EIF
+application de l’article L. 1224-1 du Code du travail français amsi que
+de la jurisprudence française et européenne 113, et
 
+. Jusqu’à [...] ETP affectés aux contrats eau mdustriellk de VEF à temps
+partiel qui ne seront donc pas transférés automatiquement par le jeu de
+l’article L. 1224-1 du Code du travail français. Ces ETP seront cédés à
+la demande de l Acquéreur s’il ne dispose pas de personnel compétent.
 
-  LE] 7      |  Paris France) |
-  HÉEEEEEEEEEaré
-  LT                                                    Œranee)  ET  LE][T7           || MarseilleParis France)(France) |
-                                       Source : Veolia
+Le Tableau ci-dessous présente le Personnel Essentiel :
 
+Tableau 8
+Personnel Essentiel de l’ Activité Cédée EIF
 
-18.     Si l'Acquéreur  le  souhaite,  l’Activité  Cédée EIF mclura également  [...] mgénieur(s)
-       capable(s) de fournir des services de préparation des réponses aux appels d’offres.
+Nom Fonction Lieux d'affectation
+[..] Paris (France)
+Paris (France)
 
-19.     Si lAcquéreur souhaite reprendre la BU API, l’Activité Cédée EIF mclura également
-       l'ensemble  des employés  de  la BU API,  qui comprend  [..] personnes  dont  des
-        directeurs,  [...] mgémieurs  (dont des mgénieurs commerciaux)  et des chefs de projet.
-      L’Acquéreur pourra également,  s’il le souhaite, reprendre  [...] salariés au support de la
-    BU API, dont  [...] mgénieur(s)  de la DT de VWT et  [...] mgémieurs de la DI de    VWTI
-        seront également transférés.
+Marseille (France)
+Paris (France)
 
-20.    La liste complète du personnel  lié à l’Activité Cédée EIF et à la BU API, y compris  le
-       Personnel Essentiel  et  les personnels  qui pourraient  être repris  à  la demande  de
-       l’Acquéreur, est fournie en Engage ments - Annexe 7.
+Source : Veolia
 
+Si l’'Acquéreur le souhaite, l’Activité Cédée EIF mclura également [...] mgénmieur(s)
+capable(s) de fournir des services de préparation des réponses aux appels d’offres.
 
-    VI     Services Transitoires
+Si l’Acquéreur souhaite reprendre la BU API, l’Activité Cédée EIF mclura également
+l’ensemble des employés de là BU API, qui comprend [..] personnes dont des
+directeurs, [...] mgénieurs (dont des mgémieurs commerciaux) et des chefs de projet.
+L’Acquéreur pourra également, s’il le souhaite, reprendre [...] salariés au support de la
+BU API, dont [...] mgénieur(s) de à DT de VWT et [...] mgénieurs de la DI de VWT
+seront également transférés.
 
+La liste complète du personnel hé à l'Activité Cédée EIF et à la BU API, y compris le
+Personnel Essentiel et les personnels qui pourraient être repris à la demande de
+l’Acquéreur, est fournie en Engage ments - Annexe 7.
 
-21.     L’Activité Cédée EIF pourrait également mclure,  à  la demande de lAcquéreur, des
-       accords de services transitoires à prix coûtant conclus en cas de besom et à la demande
-       de l’Acquéreur pour une durée maximum de [...]ans - laquelle pourra être prolongée de
-           [...] ans en cas de besom démontré par lAcquéreur, sous  le contrôle du Mandatarre
-       chargé du contrôle, qui pourraient porter sur tout ou partie des services suivants      :
+VI. Services Transitores
 
-            .      Logiciels et systèmes informatiques  (il s’agit notamment de [Liste de licences
-            ou sous-licences permettant l’accès à certains logiciels]114)     :
+L’Activité Cédée EIF pourrait également mclure, à la demande de lAcquéreur, des
+accords de services transitoires à prix coûtant conclus en cas de besom et à la demande
+de l’Acquéreur pour une durée maximum de [...] ans - laquelle pourra être prolongée de
+[...] ans en cas de besom démontré par l’Acquéreur, sous le contrôle du Mandataire
+chargé du contrôle, qui pourraient porter sur tout ou partie des services suivants :
 
+. Logiciels et systèmes informatiques (il s’agit notamment de [Liste de licences
+ou sous-licences permettant l’accès à certains logiciels] !14) :
 
+13
 
-FU      À  la demande del’ Acquéreur, Veolia fournira tous les efforts commercialementraisonnables pour inciter
-           le personnel affecté à temps partiel aux [...] contrats industriels de VFF, à savoir jusqu’à [...] ETP
-U       supplémentaires, à consentir à un trans fert à l’Acquéreur.
-         [Information relative auxlogiciels comprises dans l’Activité Cédée EIF].
-                                                 89
+114
+
+À la demande del’Acquéreur, Veolia fournira tous les efforts commercialement raisonnables pour inciter
+le personnel affecté à temps partiel aux [...] contrats ndustriels de VFF, à savoir jusqu’à [...] ETP
+supplémentaires, à consentir à un trans fert à l’ Acquéreur.
+[Information relative auxlogiciels comprises dans l’Activité CédéeEIF].
+
+89
+
 
 [PÁGINA PDF 485]
                                  VERSION NON CONFIDENTIELLE
@@ -25031,58 +25640,48 @@ C.    Description du périmètre des activités conservées par Veolia
                                             90
 
 [PÁGINA PDF 486 | texto OCR: verificar contra el PDF]
-                           VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
+
+LISTE DES ANNEXES AUX ENGAGEMENTS
+
+Nom de l’annexe
+
+Description de l’annexe
+
+Engagements — Description des actifs de l’Activité Cédée SME
+Annexe l
+Enparenents, Description des actifs de l’Activité Cédée FIF
+Annexe 2
+Engagements — Activité Cédée EIF — Liste des contrats de gestion de l’eau inclus dans
+Annexe 3 le périmètre de l’Activité Cédée EIF
+Engacements — Activité Cédée EIF — Liste des principales installations de production
+Bas d’eau et de traitement des effluents industriels détenues par l’ Activité
+Annexe 4 : 4
+Cédée EIF
+Engagements — Activité Cédée EIF — Liste des contrats de la BU API de Veolia STI
+Annexe 5 sur le segmentde l’EP industrielen France
+En Activité Cédée EIF — Liste des brevets protégeant les solutions
+gagements — . ee - - .
+Annexe 6 techniques intégrées dans [Information relative aux technologes
+comprises dans les Activités Cédées EIF
+Engagements — Personnellé aux Activités Cédées FauxIndustrielles
+Annexe 7
+Engagements — Droits d’accès auxsolutions technologiques mobilisées par la BU API
+Annexe 8 en France pour les contrats signés au cours des [...]ans
+Engagements — Sociétés opérationnelles de Suez WTS immatriculées dans l’EFE, en
+Annexe 9 Suisse, en Russie et au Royaume-Uni
+Engacenents— Activité Cédée EIF — Liste des contrats de gestion de l’eau
+[Information relative au périmètre des contrats à très fort intuitu
+Annexe 10
+personae] de VEF
+Engagements — Contrats de l’Activité Cédée SME actifs en Novembre 2021 dans
+Annexe 11 l'ÉFE
+Engagements — Liste des certifications nécessaires à l’ Activité Cédée EIF
+Annexe 12
+
+91
 
 
-        LISTE DES ANNEXES AUX ENGAGEMENTS
-
-
-
-       Dune
-
-
-  Annexe l         Description des actifs de l’Activité Cédée SME
-
-Engagements —      Descriptiondes actifs de l’ActivitéCédée FIF  Annexe 2
-
-Engagements —      Activité Cédée EIF — Liste des contrats de gestionde l’eau inclus dans
-  Annexe 3            le périmètre de l’Activité Cédée EIF
-
-Encacenents—Bag               Activité Cédée EIF— Liste des principales installations de production
-  Annexe 4        d’eau:            12 et de traitement des effluents industriels détenues par l’Activité
-                 Cédée EIF
-
-Engagements —      Activité Cédée EIF — Liste des contrats de la BU API de Veolia STI
-  Annexe 5         sur le segmentde l’EP industrielen France
-
-A                    Activité Cédée EIF — Liste des brevets protégeant les  solutions  1gagements —                                                        .   UE    Re                                                                             .
-  Annexe 6         techniques intégrées dans [Information relative aux technologes
-                   comprises dans les Activités Cédées EIF
-
-Engagements —      Personnellié auxActivités Cédées EauxIndustrielles
-  Annexe 7
-
-Engagements —       Droits d’accès auxsolutions technologiques mobilisées par la BU API
-  Annexe 8        en France pourles contrats signés au cours des[...]Jans
-
-Engagements —      Sociétés opérationnelles de Suez WTS immatriculées dans l’'EEE, en
-  Annexe 9         Suisse, en Russie et au Royaume-Uni
-
-Engagements      Activité Cédée EIF —  Liste des  contrats de  gestion de  l’eau
-  Annexe           [Information relative au périmètre des contrats à très fort intuitu
-          10        personae] de VEF
-
-Engagements —      Contrats de l’Activité Cédée SME actifs en Novembre 2021 dans
-  Annexe 11          l’'ÉFE
-
-Engagements —       Liste des certifications nécessaires à l’ActivitéCédée EIF
-  Annexe 12
-
-
-
-
-
-                                         91
 
 [PÁGINA PDF 487]
                                 VERSION NON CONFIDENTIELLE
@@ -26432,42 +27031,49 @@ Section G.    Entrée en vigueur
                                             124
 
 [PÁGINA PDF 520 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+Table au 9
+Aperçu de la chaîne de détention de Suez RR IWS Minerals France et de ses filiales
 
-                                    Table au 9
-  Aperçu de la chaîne de détention de Suez RR IWS Minerals France et de ses filiales
- PE LE
- LE PR     EL D     EL D     LE       LEE
- LE RL LEDLeEE
- DLELELE M LELE   LS D LeME                                         Source : Suez  RE
+Relation Filiale Participation
+1 | [.] [...]
+11 | [.] LI
+111 | [.] L..]
+1111 | [.] ..]
+111.11. | [.] L.]
+111111. | [.] L.]
+111112 | [.] ..]
+111113. | [.] ..]
+111.114 | [.] L.]
+111.115. | [.] L.]
 
+Source : Suez
+6. SEDA [mformation relative aux participations dans la société] 150 ;
+7. Occitamis [mformation relative aux participations dans la société] ;
 
-6.    SEDA [mformation  relative aux participations dans la société]  150   :
-
-7.      Occitanis [mformation  relative aux participations dans la société]    ;
-
-8.     Organisation juridique de l’Activité Cédée Enfouissement DIS. Veoha propose de
-       céder les sociétés Suez RR IWS Mimerals  - à l'exception  (1) des sites de Drambon et
-       Bellegarde (présentant tous deux à la fois une ISDD et une ISDND) et de l'ISDD de
-       Laimont et des activités relatives à l'exploitation de ces sites, amsi que () des sites de
-        terres polluées  et des activités relatives  à l’exploitation  de ces sites  151, actuellement
-       détenues par Suez RR IWS Mimnerals France qui feront l’objet d’un détourage pour être
-       conservées par Veoha  -, Occitams  et SEDA. L’Activité conservée comprend amsi    :
-       l’ensemble des actifs, personnels, lcences et autorisations  relatifs à l’activité des sites
-       de Drambon,  Bellegarde,  et Lamont  et à  l’activité  de gestion des  terres polluées
-       actuellement portée par Suez RR IWS Mmerals France, et les participations  détenues
-       par Suez RR IWS Mmerals France dans les filiales Remblais de Préfontame (G.LE.),
-        Atlantic Terres Solutions  (S.A.S.), Yvelines Terres Solutions  (S.A.S.), et Suez RR IWS
-      Mnéral International (S.A.S.U.), notamment actives sur le marché du traitement des
-
-
+8. Organisation juridique de l’Activité Cédée Enfouissement DIS. Veolia propose de
+céder les sociétés Suez RR IWS Mimerals - à l'exception (1) des sites de Drambon et
+Bellegarde (présentant tous deux à la fois une ISDD et une ISDND) et de l'ISDD de
+Laimont et des activités relatives à l'exploitation de ces sites, amsi que (x) des sites de
+terres polluées et des activités relatives à l'exploitation de ces sites 151, actuellement
+détenues par Suez RR IWS Mimnerals France qui feront l’objet d’un détourage pour être
+conservées par Veoha -, Occitams et SEDA. L’Activité conservée comprend amsi :
+l’ensemble des actifs, personnels, lcences et autorisations relatifs à l’activité des sites
+de Drambon, Bellegarde, et Lammont et à l’activité de gestion des terres polluées
+actuellement portée par Suez RR IWS Mmerals France, et les participations détenues
+par Suez RR IWS Mmerals France dans les filiales Remblais de Préfontame (G.LE.),
+Atlantic Terres Solutions (S.A.S.), Yvelines Terres Solutions (S.A.S.), et Suez RR IWS
+Mnéral International (S.A.S.U.), notamment actives sur le marché du traitement des
 
 [information relative auxparticipations dans la société]
-”_   Saufl’activité de plateforme de regroupement logistique située sur le site de Vaivre-et-Montoille qui sera
-    incluse dans la cession.
+Sauf l’activité de plateforme de regroupement logistique située sur le site de Vaivre-et-Montoille qui sera
+incluse dans la cession.
 
-                                                   125
+151
+
+125
+
 
 [PÁGINA PDF 521]
                                  VERSION NON CONFIDENTIELLE
@@ -26564,104 +27170,140 @@ Section G.    Entrée en vigueur
                                             127
 
 [PÁGINA PDF 523 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+10.
 
+11.
 
-                                         Figure 6
+VERSION NON
 
-                               Sites d’incinération de DIS en France
+Figure 6
+Sites d’incinération de DIS en France
 
+CONFIDENTIELLE
 
-                   N                                                                                                      pe                                                                                   Incinérateur dédié
-                                           À               ct                                @ “x         À                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   { [re                                @ 0x
-                                                                                                                                                                                                                                                                                           |  pari  A @   ”                           @ rx
-                   ET ?         ?                :                        ©  ruxrun
+AUS
+Em
+OR
+| Bain .e , n} cu
+4 L ! A 7 F4
 
-                     TA   6.  r L: . LE du E D  }                                                                                                                                                                                         èn                                           Co-incinération
-                                                                                                            OU                                   TA  7       4   L  +           t ja Amneyille.                              UE cucu
+. . { LE
+a, + 1
 
+>. et "
+ang d Roussillon
+. ;.
++ © Pont-de-Claix
 
-             =" LL  #                                                                               {    " LE   46 VI À,     }   L'Émtbiat Fa                               O1 us
-           Fo|  rt, SO      d             5 L  sy  Lt                                Piateforme de préparationde charge
-                      Lu        À        7°    "4      5  NAps Auf    | = PIN              À ACTIVE œEvEE   os
+% vent
+" D
+? ” Frontignan €,
+n
 
-                                                                                                                                                                                                                                                                                 ;        À L'E       8 px         Ÿ    2                                       Volumes traités (KT/an)
+RAT om }|
+1 FE ri
 
+F
+4
+ay
 
+Incinérateur dédié
+@ “cu
 
+@ 0
+@sure
 
+© rusron
 
-                     0                      250            500 Klomètres
-      —————————+——+——
+@ ur
 
-              Source : Sites d'incinération (hors incinération interne) d'après la base GEREP161 162
+@ nv 0e 015
+Co-incinération
 
+Plateforme de préparation de charge
+À ACTMITE cŒUEE Dis
+Interne
+Incméranon in seu
+Volumes traités (kKT/an)
+»150
+@
+e =
 
-10.    Organisation juridique  actuelle. L’Activité Cédée Incmération DIS est constituée
-        d’entités juridiques  existantes, qui sont d’ores et déjà autonomes et distinctes.
+e. >»
 
-11.    Suez RR IWS Chemicals France (S.A.S.U.) est détenue à  [...] % par Suez RR IWS
-        (S.A.S.), elle-même détenue par l’mtermédiaire  d’autres entités (Suez RV France et
-       Suez Groupe) à [...] % par Suez S.A.Suez RR IWS Chemicals France (S.A.S.U.) détient
-       des participations  capitahstiques  dans trois entités en France. Un aperçu des fihales  et
-        participations  capitahstiques de Suez RR IWS Chemicals France (S.A.S.U.)est présenté
-       dans le Tableau 10 ci-dessous.
+|
 
+Source : Sites d'incinération (hors incinération interne) d'après la base GEREP161 162
 
-                                    Table au 10
+Organisation juridique actuelle. L’Activité Cédée Incmération DIS est constituée
 
- Aperçu de la chaîne de détention de Suez RR IWS Chemicals France et de ses filiales
+d’entités juridiques existantes, qui sont d’ores et déjà autonomes et distinctes.
 
-LC   CE
-LE    CRE
+Suez RR IWS Chemicals France (S.A.S.U.) est détenue à [...] % par Suez RR IWS
 
+(S.A.S.), elle-même détenue par l'mtermédiaire d’autres entités (Suez RV France et
+Suez Groupe) à [...] % par Suez S.A.Suez RR IWS Chemicals France (S.A.S.U.) détient
+des participations capitalstiques dans trois entités en France. Un aperçu des fihales et
+participations capitalistiques de Suez RR IWS Chemicals France (S.A.S.U.)est présenté
+dans le Table au 10 ci-dessous.
 
-“Pour faciliter la lecture de la carte, cette dernière n’inclut pas les sites d’incinération interne d’industrieks,
-    c’est-à-dire les sites d’incinération appartenant à l’entreprise produisant le déchet.
-“Par souci d’exhaustivité, l’ensemble des sites disposant de capacité d’incinération/co-incinération ainsi que
-     les sites de pré-traitement de Suez sont présentés sur cette carte. Ceci inclut les sites des cimentiers Vicat,
-    Calcia et Lafarge-Holcim [information relative auxcontrats de Suez], y compris la cimenterie de Calcia dans
-     la commune de Beaucaire (Gard) [information relative auxcontrats de Suez]
-                                                  128
+Table au 10
+Aperçu de la chaîne de détention de Suez RR IWS Chemicals France et de ses filiales
+Relation Filiale Participation
+1 | [.] [...]
+11 | [.] L..]
+
+1@
+
+Pour faciliter la lecture de la carte, cette dernière n’inclut pas les sites d’incinération interne d’industriek,
+c’est-à-dire les sites d’incinération appartenant à l’entreprise produisant le déchet.
+
+Par souci d’exhaustivité, l’ensemble des sites disposant de capacité d’incinération/co-incinération ainsi que
+les sites de pré-traitement de Suez sont présentés sur cette carte. Ceci inclut les sites des cimentiers Vicat,
+Calcia et Lafarge-Holcim [information relative auxcontrats de Suez], y compris la cimenterie de Calcia dans
+la commune de Beaucaire (Gard) [information relative auxcontrats de Suez]
+
+128
+
 
 [PÁGINA PDF 524 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
-ET
+Relation Filiale Participation
+111 | [.] LI
+1111 | [.] L.]
+111.11. | [.] ..]
+111.111. | [.] ..]
+111.112. | [.] ] '*
+111.113. | [.] .]
 
+Source : Suez
 
+12. Scori S.A. est détenue à [...] % par Suez RR IWS, elle-même détenue par l’mtermédiaire
+d’autres entités (Suez RV France et Suez Groupe) à [...] % par Suez S.A.
 
+13. Scori S.A. détient des participations capitalistiques dans deux entités en France. Un
+aperçu des fihales et participations capitalistiques de Scori S.A. est présenté dans le
+Table au 11 ci-dessous.
 
+Tableau 11
+Aperçu de la chaîne de détention de Scori S.A. et de ses filiales
+Relation Filiale Participation
+1 | [.] [...]
+11 | [.] L.]
+111 | [.] L.]
+1111 | [.] (...]
+11.11.11. | [.] L..]
+111.111 | [.] [...]
+111112 | [.J [...]
 
-                                        Source : Suez
+Source : Suez
 
+168
+[...]
+“* [information relative à la société]
+129
 
-12.     Scori S.A. est détenue à [| % par Suez RR IWS, elle-même détenue par lmtermédiaire
-       d’autres entités (Suez RV France et Suez Groupe) à [...]% par Suez S.A.
-
-13.     Scori S.A. détient des participations  capitalistiques  dans deux entités en France. Un
-       aperçu des fihales  et participations  capitalstiques  de Scori S.A. est présenté dans  le
-      Table au 11 ci-dessous.
-
-
-                                  Tableau 11
-
-          Aperçu de la chaîne de détention de Scori S.A. et de ses filiales
-
-TE
-
-
-
-
-
-                                        Source : Suez
-
-
-
-
-
-    [information relative à la société]
-                                                 129
 
 [PÁGINA PDF 525]
                                  VERSION NON CONFIDENTIELLE
@@ -26847,153 +27489,183 @@ TE
                                             133
 
 [PÁGINA PDF 529 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+Tableau 12
 
-                                       Table au 12
 Membres du personnel Suez contribuant au fonctionne me nt ou nécessaires à la viabilité
-                    et la compétitivité des Activités Cédées DIS (2020)
 
+et la compétitivité des Activités Cédées DIS (2020)
 
+Catégorie de personnel
 
+employé Personnel employé
 
+Personnelaffecté
+directement à
+l'exploitation de [information relative auxpersonnel]
+l’Activité Cédée
+Enfouissement DIS
 
- Personnelaffecté
+Personnelaffecté
+directement à
 
- directement à
+l'exploitation de [information relative auxpersonnel]
+l'Activité Cédée
+Incinération DIS
 
+176177 178
 
-  l’Activité Cédée
+Personnelaffecté
+directement à
+l'exploitation de [information relative auxpersonnel]
+l'Activité Cédée TPC
+DIS
 
- EnfouissementDIS
+Personnelemployé au
+niveau du Groupe dont
+l’activité est nécessaire au 179180
+fonctionnement de
+l'Activité Cédée
+Enfouissement DIS
 
- Personnelaffecté
+[information relative auxpersonnel]
 
- directement à
-  l'exploitation de            [information relative auxpersonnel] PERTE
-  l’Activité Cédée
+Personnelemployé au
+niveau du Groupe dont
+l’activité est nécessaie au 181182183184
+fonctionnement de
+l'Activité Cédée
+Incinération DIS
 
-  Incinération DIS
+[information relative auxpersonnel]
 
- Personnelaffecté
+Personnelemployé au
+niveau du Groupe dont
+l’activité est nécessaire au | [nformation relative auxpersonnel]
+fonctionnement de
+l'Activité Cédée TPC
 
- directement à
-  l'exploitation de            [information relative auxpersonnel]
-  l’Activité Cédée TPC
+20.
 
- DIS
+Source : Suez
 
+Enfn, les Tableau 7 à Tableau 17 ci-dessous présentent le Personnel Essentiel
 
- Personnelemployé au
- niveau du Groupe dont
-  l’activité est nécessaire au |        .                              .                            .                        179180
- fonctionnement de         [nformation relative auxpersonnel]
+176
 
-  l’Activité Cédée
+17
 
- Enfouissement DIS
+178
 
+179
 
- Personnelemployé au
- niveau du Groupe dont
-  l’activité est nécessaire au |        .                              .                            .                      181182183184
- fonctionnement de         [information relative auxpersonnel]
+180
 
-  l’Activité Cédée
+181
 
-  Incinération DIS
+182
 
- Personnelemployé au
- niveau du Groupe dont
-  l’activité est nécessare au | [nformation relative auxpersonnel]
- fonctionnement de
+183
 
-  l’Activité Cédée TPC
-
-                                           Source : Suez
-
-20.    Enfm,  les Tableau 7 à Tableau 17 ci-dessous présentent le Personnel Essentiel
-
-
+184
 
 [information relative au nombre du personnel affecté]
-7   [information relative au nombre du personnel affecté]
-[information relative au personnel sur le nombre de personnel affecté]
-.   [information relative à l'exploitation opérationnelle et au personnelaffecté]
-:   [information relative à l'exploitation opérationnelle et aupersonnel affecté]
-    [information relative à l'exploitation opérationnelle et au personnel affecté]
-Fe   [information relative à l'exploitation opérationnelle et au personnel affecté]
+
+[information relative au nombre du personnel affecté]
+
+[information relative au personnelsur le nombre de personnel affecté]
 [information relative à l'exploitation opérationnelle et au personnel affecté]
-[information relative au nombre du personnelaffecté]
-                                                 134
+[information relative à l'exploitation opérationnelle et au personnel affecté]
+[information relative à l'exploitation opérationnelle et au personnel affecté]
+[information relative à l'exploitation opérationnelle et au personnel affecté]
+[information relative à l'exploitation opérationnelle et au personnelaffecté]
+
+[information relative au nombre du personnel affecté]
+134
+
 
 [PÁGINA PDF 530 | texto OCR: verificar contra el PDF]
-                      VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
-
-                   Tableau 13
-
+Tableau 13
 Personnel Essentiel de Suez RR IWS Minerals France
 
+Fonction
 
+C.
+.
+[.]
+.
+.
+C.]
+.
 
+Tableau 14
+Personnel Essentiel de SEDA
 
+Fonction
+[...]
+[...]
+[...]
 
-             Tableau14
-           Personnel Essentiel de SEDA
+135
 
-
-
-
-
-                               135
 
 [PÁGINA PDF 531 | texto OCR: verificar contra el PDF]
-                                 VERSION NON CONFIDENTIELLE
+21.
 
+VERSION NON CONFIDENTIELLE
 
-                                  Tableau 15
+Tableau 15
+Personnel Essentiel de Suez RR IWS Chemicals France, Scori et Scori Est
 
-       Personnel Essentiel de Suez RR IWS Chemicals France, Scori et Scori Est
+Fonction
+C]
+C]
+C]
+C]
+C]
 
+Table au 16
+Personnel Essentiel de Suez Eau Industrielle pour l’activité d’exploitation de Villers-
+Saint-Paul et de Lacq
 
+Fonction
 
+.
+[]
+.
+[]
 
+Tableau 17
+Personnel Essentiel d’Occitanis
 
-                                    Table au 16
+Nom Fonction
+[...] [...]
+[.] [...]
+[...] [...]
 
-  Personnel Essentiel de Suez Eau Industrielle pour l’activité d’exploitation de Villers-
-                                 Saint-Paul et de Lacq
+C. Description du périmètre des Activités Conservées DIS
 
+Les Activités Cédées DIS n’mcluent pas d’activités en dehors des activités décrites c1-
 
+dessus, et n’mcluent notamment pas les activités suivantes (« Activités Conservées
+DIS ») :
 
+. En matière d’enfouissement spécifiquement : l’ensemble des activités en dehors
+des sites qu’englobe l’Activité Cédée Enfouissement DIS, notamment les activités
+relatives à l'exploitation des sites de Drambon, Bellegarde, et Laimont et l’activité
+de gestion des terres polluées portée par Suez RR IWS Mmerals France (y compris
+les personnels, contrats !$%, autorisations, et l’ensemble des actifs attachés aux sites
+de Drambon, Bellegarde et Laimont et à l’activité de gestion des terres polluées) ;
+la participation de Suez dans la société SERAF (participation détenue par Suez
 
+185
 
-                                  Tableau 17
+L'ensemble des contrats dont l’objet est la gestion de DIS traités à plus de [...]% surces sites.
+136
 
-                         Personnel Essentiel d’Occitanis
-
-
-
-
-
-       C.   Description du périmètre des Activités Conservées DIS
-
-21.    Les Activités Cédées DIS n’mcluent pas d’activités en dehors des activités décrites c1-
-        dessus, et n’mcluent notamment pas les  activités  suivantes  (« Activités Conservées
-     DIS »)   :
-
-          .    En matière d’enfouissement spécifiquement     : l’ensemble des activités en dehors
-             des sites qu’englobe  l’Activité Cédée Enfouissement DIS, notamment les activités
-               relatives à l'exploitation des sites de Drambon, Bellegarde, et Lammont et l’activité
-            de gestion des terres polluées portée par Suez RR IWS Mmerals France (y compris
-                les personnels, contrats !#, autorisations, etl’ensemble des actifs attachés aux sites
-            de Drambon, Bellegarde et Laimont et à l’activité de gestion des terres polluées)    ;
-                  la participation  de Suez dans la société SERAF (participation  détenue par Suez
-
-
-"L'ensemble des contrats dont l’objet est la gestion de DIS traités à plus de [...]% surces sites.
-                                                 136
 
 [PÁGINA PDF 532]
                                  VERSION NON CONFIDENTIELLE
@@ -27038,24 +27710,28 @@ Personnel Essentiel de Suez RR IWS Minerals France
                                             137
 
 [PÁGINA PDF 533 | texto OCR: verificar contra el PDF]
-                              VERSION NON CONFIDENTIELLE
+VERSION NON CONFIDENTIELLE
 
+LISTE DES ANNEXES
 
-                    LISTE DES ANNEXES
+Nom de l’annexe
 
+Description de l’annexe
 
-                                       Description de l’annexe
+Engage ments DIS
+- Annexe 1
 
-Engagements DIS  Description des actifs composant les Activités Cédées DIS     - Annexe 1
+Description des actifs composant les Activités Cédées DIS
 
-Engage ments DIS | Liste des plateformes logistiques mcluses dans les Activités
-     - Annexe 2     Cédées DIS
+Engage ments DIS
+- Annexe 2
 
+Liste des plateformes logistiques mcluses dans les Activités
 
+Cédées DIS
 
+138
 
-
-                                            138
 
 [PÁGINA PDF 534]
                            VERSION NON CONFIDENTIELLE

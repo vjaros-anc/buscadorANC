@@ -342,65 +342,62 @@ Source: Reasoned Opinion, Exhibits 2 and 3
                                                           6
 
 [PÁGINA PDF 7 | texto OCR: verificar contra el PDF]
-(35)     In view of the information provided by the Parties and the Trustee, the Proposed
-         Transaction does not create primafacie competition concerns. This is because the
-          activities of Stadsbader and  the Divestment  Business  only  overlap  for  the
-          installation  and  maintenance  of  catenaries  and  overhead  contact  lines  on
-         conventional long-distance lines in Belgium (at national level) and Flanders (at
-         regional level).
+(35) In view of the information provided by the Parties and the Trustee, the Proposed
+Transaction does not create prima facie competition concerns. This is because the
+activities of Stadsbader and the Divestment Business only overlap for the
+installation and maintenance of catenaries and overhead contact lines on
+conventional long-distance lines in Belgium (at national level) and Flanders (at
 
-(36)    Because the combined market share of Stadsbader and the Divestment Business
-        remains below 20% at regional level in Flanders, the Proposed Transaction would
-        only give rise to an affected market at national level. In this context, the table
-       below provides the market shares of Stadsbader, the Divestment Business and
-          their main competitors in Belgium over the past three years.
+regional level).”4
 
-Table 2 — Market shares  for the  installation and maintenance of long-distance
+Because the combined market share of Stadsbader and the Divestment Business
+remains below 20% at regional level in Flanders, the Proposed Transaction would
+only give rise to an affected market at national level. In this context, the table
+below provides the market shares of Stadsbader, the Divestment Business and
+their main competitors in Belgium over the past three years.
+
+(36)
+
+Table 2 — Market shares for the installation and maintenance of long-distance
 catenaries and overhead contact lines in Belgium (in value, 2021-2023)
- P0202| 20238
 
-/EQOS Belgium | [10-20]% |  [...) | [10-20}% | [J | [10-20}% | [J
-|Stadsbader | [0-5J%  {|  [--) | fos |] fos
-| Combined _i| (20-30% |  [...) | f20-3oj% | [J  | f20-39% | [J
-|Mobix |  /20-30)% |  [...) | (20-30% | [J | (20-39% | [J  |
-|Eiffage |  [10-20]% |  [...) | [20-30% | [J | [20-30]}% | [J]  |
-[Equans |  [10-20]% |  [...) | [10-20% | [J | [10-20}% | [J] |
-|Strukton | [10-20]% |  [...) | [10-20% | [J | [10-20}% | [J]
-|DeWitte | [5-10]% | [J] |  [5-10)% | [J |  [5-10}% | [J
-|Others |  f0-10]% =|  --) | fos |] fos PE
-[Total |  100% =|) |  100% Tf} |  t00% TE
+2021 2022 2023
+BELGIUM Share (%) | Sales (m€) | Share(%) | Sales (m€) | Share(%) | Sales (m€)
+EQOS Belgium _[10-20]% [..-] [10-20]% [..-] [10-20]% [..-]
+Stadsbader _ [0-5]% [..-] [0-5]% [..-] [0-5]% [..-]
+Combined [20-30] % [..-] [20-30] % [..-] [20-30] % [..-]
+Mobix [20-30]% [..-] [20-30]% [..-] [20-30]% [..-]
+Eiffage [10-20]% [..-] [20-30]% [..-] [20-30]% [..-]
+Equans [10-20]% [..-] [10-20]% [..-] [10-20]% [..-]
+Strukton [10-20]% [..-] [10-20]% [..-] [10-20]% [..-]
+De Witte [5-10]% [..-] [5-10]% [..-] [5-10]% [..-]
+Others [0-10]% [...] [0-5]% [...] [0-5]% [...]
+Total 100% [...] 100% [..-] 100% [..-]
+
 Source: Parties’ Reasoned Proposal, section 3.
+(37) In view of the data above, the Proposed Transaction does not give rise to prima
+facie competition concerns for the installation and maintenance of conventional
+long-distance catenaries and overhead contact lines in Belgium.
 
+(38) First, the combined market share of the Divestment Business and Stadsbader on
+this market remains below [20-30]%~ with a limited increment ([0-5]%). Second,
+the new entity will continue to face significant competitors at national level,
+including two competitors with a larger market share: Mobix ([20-30]%) and
+Eiffage ({20-30]%). Third, the bidding data submitted by the Parties shows that
+the Divestment Business and Stadsbader do not compete closely.
 
-(37)     In view of the data above, the Proposed Transaction does not give rise to prima
-          facie competition concerns for the installation and maintenance of conventional
-         long-distance catenaries and overhead contact lines in Belgium.
+24 This conclusion is based on all plausible market definition left open in the Decision. According to
+the decision-making practice of the French Competition Authority (‘FCA’), the activities of
+Stadsbader and the Divestment Business would also overlap for the installation, renewal and
+maintenance of train tracks in Belgium (see e.g. FCA decision of 28 December 2019 in case 18-
+DCC-229 concerning the acquisition of sole control of the Meccoli group by Eiffage infrastructure,
+para. 6). However, Eiffage confirmed that the combined market share of Stadsbader and the
+Divestment Business on such market would remain well below [10-20]% (RFI 1, question 1).
+Guidelines on the assessment of horizontal mergers under the Council Regulation on the control of
+concentrations between undertakings, OJ 5.2.2004, C 31, paragraph 18.
 
-(38)     First, the combined market share of the Divestment Business and Stadsbader on
-          this market remains below [20-30]%~ with a limited increment ([0-5]%). Second,
-         the new entity will continue to face significant competitors  at national  level,
-         including two competitors with a larger market share: Mobix ([{20-30]%) and
-         Eiffage ([20-30]%). Third, the bidding data submitted by the Parties shows that
-         the Divestment Business and Stadsbader do not compete closely.
+25
 
-
-
-
-
-24       This conclusion is based on all plausible market definition left open in the Decision. According to
-         the decision-making  practice of the French Competition Authority (‘FCA’),  the  activities of
-        Stadsbader and the Divestment Business would also overlap for the  installation, renewal and
-        maintenance of train tracks in Belgium (see e.g. FCA decision of 28 December 2019 in case 18-
-       DCC-229 concerning the acquisition of sole control of the Meccoli group by Eiffage infrastructure,
-         para.  6). However, Eiffage confirmed that the combined market share of Stadsbader and the
-        Divestment Business on such market would remain well below [10-20]% (RFI 1, question 1).
-cad       Guidelines on the assessment of horizontal mergers under the Council Regulation on the control of
-         concentrations between undertakings, OJ 5.2.2004, C 31, paragraph 18.
-
-
-
-
-                                                                     7
 
 [PÁGINA PDF 8]
 Table 3 – Participation rates (Belgium, 2019-March 2024)26

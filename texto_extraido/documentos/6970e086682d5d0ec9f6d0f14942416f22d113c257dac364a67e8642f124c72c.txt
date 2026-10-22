@@ -766,65 +766,79 @@ Source: [Competitor’s survey results]
                                                      13
 
 [PÁGINA PDF 15 | texto OCR: verificar contra el PDF]
-         coordinating their behaviour, are now significantly more likely to coordinate and
-         raise prices or otherwise harm effective competition. (’*) The Horizontal Merger
-        Guidelines identify four cumulative conditions to establish the likely emergence
-       and sustainability of coordinated conduct:  (a) firms have the ability to agree
-          tacitly on the terms of coordination, (b) there is sufficient transparency to monitor
-        any deviations;  (c) there are deterrence mechanisms and (d) outsider reactions
-        cannot undermine the coordinated outcome. (7°)
+(75)
 
-(75)    The Horizontal Merger Guidelines also describe a number of factors that could
-         counteract any harmful effects of the merger on competition, including the
-         likelihood of buyer power, entry and efficiencies. (®°)
+6.2.
+(76)
 
-6.2.    Market Dynamics
+(77)
 
-(76)    The Italian banking sector is currently very fragmented and is characterised by a
-        small number of large banks (which typically operate across all Italian regions)
-       and a large number of smaller banks (some of which operate across all Italian
-         regions and some only in specific regions and provinces).
+(78)
 
-(77)    Table 1 below shows the largest banks in terms ofthe number ofbranches in Italy.
-      By far the largest bank is Intesa Sanpaolo with nearly 3 000 branches, followed
-       by UniCredit, BPER, BPM and MPS. All these players all have a nation-wide
+(79)
 
-         presence.
+(80)
 
-(78)    As illustrated by the figures, the Transaction would create the largest bank in Italy
-       by the number of branches.
+coordinating their behaviour, are now significantly more likely to coordinate and
+raise prices or otherwise harm effective competition. (”*) The Horizontal Merger
+Guidelines identify four cumulative conditions to establish the likely emergence
+and sustainability of coordinated conduct: (a) firms have the ability to agree
+tacitly on the terms of coordination, (b) there is sufficient transparency to monitor
+any deviations; (c) there are deterrence mechanisms and (d) outsider reactions
+cannot undermine the coordinated outcome. (””)
 
-                 Table 1: Italian banks by number of branches
+The Horizontal Merger Guidelines also describe a number of factors that could
+counteract any harmful effects of the merger on competition, including the
+likelihood of buyer power, entry and efficiencies. (°°)
 
+Market Dynamics
 
+The Italian banking sector is currently very fragmented and is characterised by a
+small number of large banks (which typically operate across all Italian regions)
+and a large number of smaller banks (some of which operate across all Italian
+regions and some only in specific regions and provinces).
 
+Table 1 below shows the largest banks in terms of the number of branches in Italy.
+By far the largest bank is Intesa Sanpaolo with nearly 3 000 branches, followed
+by UniCredit, BPER, BPM and MPS. All these players all have a nation-wide
+presence.
 
+As illustrated by the figures, the Transaction would create the largest bank in Italy
+by the number of branches.
 
-                    BPER                                           1 646
+Table 1: Italian banks by number of branches
+No. of branches
 
+Intesa 2 946
+UniCredit 2 223
+BPER 1 646
+BPM 1 454
+MPS 1 366
+Others 10 427
+Total market size 25 767
 
+Source: Form CO, Table 10
 
+As mentioned above, in addition to the largest national banks, there is a belt of
+mid-sized banks with a national presence or significant presence in some of the
+larger regions of Italy. These include for example Banca Popolare di Sondrio,
+Crédit Agricole, BNL, and Credem. There are also a number of large nationwide
+cooperative banking groups operating, such as Iccrea and Cassa Centrale Banca.
 
+There are also many smaller banks with strong presence and history in many local
+markets, as well as specialised players focused on specific products and client
+segments. Table 1 above also demonstrates this fragmentation of the Italian
 
-                                 Source: Form CO, Table 10
+oy)
+(”)
+@)
 
-(79)    As mentioned above, in addition to the largest national banks, there is a belt of
-        mid-sized banks with a national presence or significant presence in some of the
-         larger regions of Italy. These include for example Banca Popolare di Sondrio,
-         Crédit Agricole, BNL, and Credem. There are also a number of large nationwide
-        cooperative banking groups operating, such as Iccrea and Cassa Centrale Banca.
+Horizontal Merger Guidelines, paragraph 39.
+Horizontal Merger Guidelines, paragraph 41.
+Horizontal Merger Guidelines, paragraph 30.
 
-(80)    There are also many smaller banks with strong presence and history in many local
-        markets, as well as specialised players focused on specific products and client
-        segments. Table  1 above also demonstrates  this fragmentation of the Italian
+14
 
-
-
-(8)      Horizontal Merger Guidelines, paragraph 39.
-(’)     Horizontal Merger Guidelines, paragraph 41.
-(°°)     Horizontal Merger Guidelines, paragraph 30.
-
-                                                             14
 
 [PÁGINA PDF 16]
         banking market, with the mid-sized and smaller banks operating the majority of

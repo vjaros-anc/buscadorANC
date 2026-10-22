@@ -1,16 +1,17 @@
 {
   "version_esquema": 1,
-  "version_extractor": "1.1.0",
+  "version_extractor": "1.2.0",
   "configuracion": {
-    "version_extractor": "1.1.0",
+    "version_extractor": "1.2.0",
     "pymupdf": "2.0",
     "metodo": "get_text(text, sort=True)",
     "min_caracteres": 30,
     "ocr": true,
-    "ocr_dpi": 300
+    "ocr_dpi": 300,
+    "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
   },
   "sha256_pdf": "05bc51e1ffdd00b969e5bfd2014a4e17af30b40d4a3e9836cb1f70b47b62ca02",
-  "extraido_utc": "2026-10-22T19:24:15+00:00",
+  "extraido_utc": "2026-10-22T21:15:40+00:00",
   "metadatos_pdf": {
     "format": "PDF 1.6",
     "title": "",
@@ -5510,9 +5511,9 @@
       "pagina_pdf": 453,
       "etiqueta_pdf": null,
       "origen_texto": "ocr",
-      "texto": "                             SCHEDULE\n\n\n(1)    The Divestment Business consists of all the air cargo assets and personnel currently owned and\n       employed by Asiana in the operation of its global cargo freighter activities that are necessary to ensure\n        the operation, viability and competitiveness of the Divestment Business as a provider of air cargo\n         freighter services. Asiana’s business relating to air passenger services, as well as  its belly space\n        operations, will remain with Asiana. The organisational chart of the Divestment Business is attached\n        as Appendix 1.\n\n(2)    The Divestment Business shall include, but is not limited to:\n\n          (a)      the following main tangible Assets:\n\n                      Tangible Assets\n                                                                            [10-12] aireraft\n  [____—Oewingengines  po      Spareemgmes   Od]  CCCs  STCCCSC~S\n                       Unit load devices a                                                                                          2S\n\n\n        (b)     the following main intangible Assets:\n\n                       Intangible Assets\n poSots\n               TSR overflight rights ee0\n\n         (c)      the following main licences and permits:\n\n                       (i)     The airworthiness certificates, noise certificate and operation limitations specification\n                         (issued by MOLIT or the Head of the Korean Regional Aviation Administration) of\n                         the aircraft that are included in the Divestment Business.\n\n\n                       (ii)     All other licences and permits that are necessary for the operation, viability and\n                       competitiveness of the Divestment Business,  for which Korean Air commits to\n                       undertake all best efforts to ensure that the Divestment Business has obtained such\n\n                         licences before the Divestment Closing, unless agreed otherwise with the Purchaser,\n                          in particular in view of existing licences and permits already held by the Purchaser.\n\n         (d)     the following main contracts, agreements, leases, commitments and understandings:\n\n                       (i)     The lease agreements for the [...] currently leased by Asiana, and [...]:°\n\n                       (ii)    The lease agreements of the cargo terminals at [...];\n\n                       (iii)  | The lease agreements ofthe branch offices at [...]:\n\n                   (iv)    The lease (or sublease) rights contained in ground handling agreements relating to\n                          offices at [...]:\n\n                  (v)     Agreements with other airlines on the use of the ICN cargo terminal:\n\n\n2           [.--]. The manufacturing date ofthe aircraft is provided in Appendix 5. [.--]\n3       These correspond to all Slots currently used by Asiana for its global cargo freighter activities.\n‘           [...]. These correspond to all traffic nights used by Asiana for its global cargo freighter activities.\n5          If[_..], the mechanism described in paragraph (23)(a) ofthese commitments would apply.\n\n\n                                                                          21",
-      "caracteres": 3247,
-      "caracteres_utiles": 1888,
+      "texto": "(1)\n\n(2)\n\nSCHEDULE\n\nThe Divestment Business consists of all the air cargo assets and personnel currently owned and\nemployed by Asiana in the operation of its global cargo freighter activities that are necessary to ensure\nthe operation, viability and competitiveness of the Divestment Business as a provider of air cargo\nfreighter services. Asiana’s business relating to air passenger services, as well as its belly space\noperations, will remain with Asiana. The organisational chart of the Divestment Business is attached\nas Appendix 1.\n\nThe Divestment Business shall include, but is not limited to:\n\n(a) the following main tangible Assets:\n\nTangible Assets Number\nAircraft” [10-12] aircraft\nOn-wing engines [...]\nSpare engines [...]\nUnit load devices [...]\nMiscellaneous cargo-related equipment [...]\n\n(b) the following main intangible Assets:\n\nIntangible Assets Number\nSlots [...P\nTraffic rights [...}°\nTSR overflight rights [...]\n(c) the following main licences and pennits:\n(i) The airworthiness certificates, noise certificate and operation limitations specification\n\n(issued by MOLIT or the Head of the Korean Regional Aviation Administration) of\nthe aircraft that are included in the Divestment Business.\n\n(11) All other licences and permits that are necessary for the operation, viability and\ncompetitiveness of the Divestment Business, for which Korean Air commits to\nundertake all best efforts to ensure that the Divestment Business has obtained such\n\nlicences before the Divestment Closing, unless agreed otherwise with the Purchaser,\nin particular in view of existing licences and permits already held by the Purchaser.\n\n(d) the following main contracts, agreements, leases, commitments and understandings:\n(i) The lease agreements for the [...] currently leased by Asiana, and [...]:°\n(ii) The lease agreements of the cargo terminals at [...]:\n(iii) The lease agreements of the branch offices at [...]:\n\n(iv) The lease (or sublease) rights contained in ground handling agreements relating to\noffices at [...]:\n\n(v) Agreements with other airlines on the use of the ICN cargo terminal:\n\na ee)\n\n[_.-]. The manufactunng date of the aircraft is provided in Appendix 5. [..-]\n\nThese correspond to all Slots currently used by Asiana for its global cargo freighter activities.\nL_.-]. These correspond to all traffic nghts used by Asiana for its global cargo freighter activities.\nIf[_..], the mechanism described in paragraph (23)(a) of these commitments would apply.\n\n21\n",
+      "caracteres": 2477,
+      "caracteres_utiles": 1933,
       "cobertura_imagen_maxima": 0.9992,
       "posible_ocr": true,
       "requiere_revision": true,

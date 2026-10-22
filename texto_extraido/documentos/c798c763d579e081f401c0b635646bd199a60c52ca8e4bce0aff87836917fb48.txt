@@ -277,141 +277,149 @@ Dear Sir or Madam,
                                                      4
 
 [PÁGINA PDF 6 | texto OCR: verificar contra el PDF]
-         products.!° In addition, for some of the product markets the Notifying Party has
-         also supplemented the IQVIA data with their own market knowledge.
+(19)
 
-(19)     In  accordance  with  the  Commission’s  decisional  practice”?  in  respect  of
-        pharmaceutical transactions with a large number of affected markets (involving
-       numerous product and geographic markets),  the Commission has grouped the
-         affected markets as presented below in Table 1.
+(20)
+
+(21)
+
+products.!° In addition, for some of the product markets the Notifying Party has
+also supplemented the IQVIA data with their own market knowledge.
+
+In accordance with the Commission’s decisional practice”? in respect of
+pharmaceutical transactions with a large number of affected markets (involving
+numerous product and geographic markets), the Commission has grouped the
+affected markets as presented below in Table 1.
+
+Table 1: Market Categorisation in FDPs
+
+Group are
+
+Category Description
+
+Group 1_ | Parties’ combined share (in volume/value) exceeds 35% and the increment exceeds 1%.
+(i) Parties’ combined share (in volume/value) <35% but only one competitor remains in
+
+Group 1+ | the market; or (ii) Parties’ combined share >35% and the increment is <1% but the party
+with the smaller increment is a recent entrant.
+
+Group 2 | Parties’ combined share (in volume/value) >35% but the increment is <1%.
+
+Group 3 | Parties’ combined share (in volume/value) is 20%-35%.
+
+Table 2 below summarises the number of affected markets based on ATC3/CHC3,
+ATC4/CHC4 or molecule in each market category as presented in Table 1 above.
+These markets do not necessarily correspond to plausible product markets as
+further discussed in the relevant market definition sections.
+
+Table 2: Summary of affected markets based on ATC/CHC classifications
+
+ATC/CHC level Affected Group 1/1+ Group 2 Group 3
+markets Markets Markets Markets
+ATC3/CHC3 38 17 4 17
+ATC4/CHC4 35 16 4 15
+Molecule 9 5 1 3
+Total 82 38 9 35
+
+Source: Form CO, Table 1.
+
+The Group 1/1+ affected markets based on ATC/CHC classifications are presented
+in Table 3 below. The Group 2 and 3 markets affected based on ATC/CHC
+classifications are provided in Appendix 1.
+
+Table 3: Overview of horizontally affected markets based on ATC/CHC classifications (Group 1/1+)
+
+Product category Group | Country Affected at Affected at Affected at molecule level
+ATC3/CHC3 ATC4/CHC4
+level level
+Antiseptics and | 1/1+ Belgium ¥ (8A)
+disinfectants
+Antiseptics and | 1/1+ France ¥ (8A) ¥ (06B3L)
+disinfectants ¥Y (06B2) ¥Y (06B30)
+¥  (06B3)
+Antiseptics and |1/1+ | Italy ¥ (06B3) Y (06B3L)
+disinfectants
+Antiseptics and |1/1+ | Luxembo |“ (D8A)
+disinfectants urg
+Prostate products 1/1+ Belgium ¥ (12F1) ¥  (12F1C)
+Tonics 1/1+ | France ¥ (A13Ay?
+
+19
+20
+21
+
+Form CO, paragraphs 92-100.
+See e.g. M.10247 - CVC / Cooper, Decision of 22 October 2021, paragraph 11.
+A13A in France will not be a Group 1 affected market going forward as Cooper's G.C. Form product
+was discontinued in December 2022. Therefore, this market is not further considered in this decision.
 
 
-                                 Table 1: Market Categorisation in FDPs
-
-       Group                                           are
-
-
-                       Parties’ combined share (in volume/value) exceeds 35% and the increment exceeds 1%.
-
-                              (i) Parties’ combined share (in volume/value) <35% but only one competitor remains in
-       Group 1+ | the market; or (ii) Parties’ combined share >35% and the increment is <1% but the party
-                   with the smaller increment is a recent entrant.
-
-                       Parties’ combined share (in volume/value) >35% but the increment is <1%.
-
-                        Parties’ combined share (in volume/value) is 20%-35%.
-
-(20)    Table 2 below summarises the number of affected markets based on ATC3/CHC3,
-       ATC4/CHC4  or molecule in each market category as presented in Table  1 above.
-        These markets do not necessarily correspond  to plausible product markets  as
-         further discussed in the relevant market definition sections.
-
-              Table 2: Summary of affected markets based on ATC/CHC classifications
-
-
-                             markets         Markets         Markets         Markets
-         ATC3/CHC3
-
-         ATC4/CHC4
-      |  Molecule  {| 9 Sd
-     |  Total =| CT KC 8S
-
-           Source: Form CO, Table 1.
-
-(21)    The Group 1/1+ affected markets based on ATC/CHC classifications are presented
-          in Table  3 below. The Group 2 and 3 markets affected based on ATC/CHC
-          classifications are provided in Appendix  1.
-
-  Table 3: Overview of horizontally affected markets based on ATC/CHC classifications (Group 1/1+)
-
-    Product category    Group | Country      Affected at        Affected at     Affected at molecule level
-                                   ATC3/CHC3    ATC4/CHC4
-                                                             level                 level
-   Antiseptics     and | 1/1+    Belgium   ¥  (D8A)
-   disinfectants
-   ‘Antiseptics     and | 1/1+            Y  (DBA)      Y  (06B3L)
-   disinfectants                                             ¥Y  (06B2)            ¥Y  (06B30)
-                                ¥     (06B3
-   Antiseptics     and | 1/1+     Italy           ¥Y  (06B3)      ¥  (06B3L)
-   disinfectants
-   Antiseptics     and | 1/1+   Luxembo | VY  (D8A)
-   disinfectants                    urg
-                                         ¥__(12F1        ¥__(12F1C PO
- [Tonics  A  /1+ | Framce      |v   (ai3ay?
-
-
-19     Form CO, paragraphs 92-100.
-20      See e.g. M.10247 - CVC / Cooper, Decision of 22 October 2021, paragraph 11.
-21     A13A in France will not be a Group 1 affected market going forward as Cooper's G.C. Form product
-       was discontinued in December 2022. Therefore, this market is not further considered in this decision.
-
-
-
-
-
-                                                          5
 
 [PÁGINA PDF 7 | texto OCR: verificar contra el PDF]
-                                   ATC3/CHC3    ATC4/CHC4
- [Tonics  st 1 /1+ | Portugal |Y OSAs*level  |       level
+Product category Group | Country Affected at Affected at Affected at molecule level
+ATC3/CHC3 ATC4/CHC4
 
-                                                                  ¥__(05A1M  - Arginine)*pee ae aSeproductsSehaircare products  eea eee
+level level
+Tonics 1/1+ Portugal | Vv (05A1)*
+Tonics 1/1+ | Spain Y (A13A2- Arginine)”
 
+¥__(05A1M - Arginine)**
+Wart/ corn removal | 1/1+ | France ¥Y (0611) ¥Y (06L1Z)
+products
+Antiparasitic 1/1+ | France Y (86H1) Y (86H1B)
+haircare products
+Drugs for |1/1+ | France ¥ (A6A9)
+constipation ¥  (03C2S)
+Drugs for |1/1+ | Luxembo ¥ (A6A6)*
+constipation urg
+Drugs for | 1/1+ Portugal | ¥ (A6A) ¥ (A6A4)
+constipation
+Drugs for | 1/1+ Spain ¥ (A6A) ¥ (A6A6)*
+constipation ¥ (03C1) ¥ (03C1P)
+Earwax removal | 1/1+ Germany | Y (S2D) ¥Y (S2D1)
+products
+Mouthwash for | 1/1+ Italy Y (87B3G)
+halitosis
+Topical products for | 1 / 1+ Italy ¥ (M2A0-
+joint and muscular Escin/Salicylic
+pain Acid)*
+¥Y (02E10-—
+Escin/Salicylic
+Acid)*
 
-   constipation                                           ¥__(03C2SPee Pe  ee
-   constipation                    urgFa Fl
-   constipationFa  AA
-   constipation                            ¥__(03C1       ¥__(03C1PFa a
-   productsFe KA
-   halitosis FeeTopical productsaafor | 1 / 1+     Italy                                                                ¥Y  (M2A0-
-   joint and muscular                                                                        Escin/Salicylic
-   pain                                                                              Acid)*
-                                                            Y  (02E10—
-                                                                                                Escin/Salicylic
+Topical products for | 1 / 1+ Portugal ¥ (02E1K)
+joint and muscular
+pain
+Magnesium 1/1+ | Luxembo | Y (A12C) ¥ (A12C1) ¥Y (A12C1 -
+supplements urg Magnesium)
+Liver disorder | 1/1+ Portugal | Y (A5B)*
+products, hepatic
+protectors and
+lipotropics
 
-                                                                                    Acid)*
+Source: Form CO, Table 3.
 
+Notes: *According to the Commission’s assessment these markets do not constitute a plausible
+product market for the purposes of this case and are therefore not further discussed in the decision.
+Please see the relevant sections in Section 4.5. for further explanations.
 
-   joint and muscular
-    painFcc a A
+(22) The product market definitions and competitive assessment for the Group 1/1+
+markets are discussed below.
 
-   supplements                    urg                                         Magnesium
+(23) The Notifying Party considers value-based market shares to be an appropriate
+indicator of the structure and competitive dynamics of the relevant markets and
+notes that where the relevant market includes multiple pack sizes, molecules and
+galenic forms, volume shares based on packets sold do not adequately reflect the
+position of the Parties and their competitors. Moreover, according to the Notifying
+Party there is no single volume unit that could be used to compare the sales of the
 
-   products,    hepatic
-   protectors      and
-   lipotropicsEa ee ee
+A13A2 (molecule level) in Spain will not be a Group 1A+ market going forward as Recordati's
+Sorbenor product was discontinued in July 2021. Therefore, this market is not further considered in
+this decision.
+3 OSMAIM (molecule level) in Spain will not be a Group 1A+ market going forward as Recordati's
+Sorbenor product was discontinued in July 2021. Therefore, this market is not further considered in
+this decision.
 
-          Source: Form CO, Table 3.
-
-
-          Notes: *According to the Commission’s assessment these markets do not constitute a plausible
-          product market for the purposes of this case and are therefore not further discussed in the decision.
-          Please see the relevant sections in Section 4.5. for further explanations.
-
-(22)    The product market definitions and competitive assessment for the Group 1/1+
-        markets are discussed below.
-
-
-(23)    The Notifying Party considers value-based market shares  to be an appropriate
-         indicator of the structure and competitive dynamics of the relevant markets and
-         notes that where the relevant market includes multiple pack sizes, molecules and
-         galenic forms, volume shares based on packets sold do not adequately reflect the
-         position of the Parties and their competitors. Moreover, according to the Notifying
-         Party there is no single volume unit that could be used to compare the sales of the
-
-
-2     A13A2 (molecule level) in Spain will not be    a Group 1A+ market going forward as Recordati's
-        Sorbenor product was discontinued in July 2021. Therefore, this market is not further considered in
-          this decision.
-23     OSMAIM (molecule level) in Spain will not be    a Group 1A+ market going forward as Recordati's
-        Sorbenor product was discontinued in July 2021. Therefore, this market is not further considered in
-          this decision.
-
-
-
-
-
-                                                          6
 
 [PÁGINA PDF 8]
         products concerned in any meaningful way.24 However, the feedback received by
@@ -664,131 +672,141 @@ Dear Sir or Madam,
                                                     10
 
 [PÁGINA PDF 12 | texto OCR: verificar contra el PDF]
-                        Table 4: An overview of the Parties’ constipation drugs belonging
-                                         to Group 1/1+ affected markets in Portugal
+Table 4: An overview of the Parties’ constipation drugs belonging
+to Group 1/1+ affected markets in Portugal
 
-  Party.     Product              Mode ofAction      Route of        Galenic form     Group 1/1* + affected         Name                                       administration                          market
-                                    Combination of a
-  Target     Agiolax.        Ovata,PlantagoSenna   bulk.  forming.   and.  a        Oral          Granules, powder        A6A
-                                         stimulant laxative
-  Target    Bebegel       Gelatioan       osmoticRectal gellaxativewith         Rectal           Enema            LaxativeA6A, A6A4,enemas
-                         Glycerol            action.                                                          suitable.      for infants.
+Product . Route of . Group 1/1+ affected
+Party Name Molecule Mode of Action administration Galenic form market
+Combination of a
+. Plantago .
+Target Agiolax bulk forming and a Oral Granules, powder A6A
+Ovata, Senna : .
+stimulant laxative
+Gelatin, Rectal gel with A6A, A6A4,
+Target Bebegel Gh _ osmotic laxative Rectal Enema Laxative enemas
+y action suitable for infants
+Syrup, oral powder
+Target | Duphalac | Lactulose Osmotic laxative Oral for oral solution, A6A
+oral solution
+Macrogol(S),
+Target | Molexole | Potassium, Osmotic laxative Oral Powder for oral A6A
+: solution
+Sodium
+. . . Powder for oral
+Recordati | Casenlax | Macrogol(S) | Osmotic laxative Oral . . A6A
+solution, liquid
+Phosphori A6A, A6A4,
+Recordati | Microlax ospnorie Lubricant laxative Rectal Enema Laxative enemas
+Acid . .
+suitable for infants
+Citric Acid,
+.| Enema Dodecyl Laxative enema
+Recordati Casen Sulfoacetic that softens stool Rectal Enema AGA, AGA4
+Acid
+Source: Form CO, Table 19 and Annex 8.1-X1.
+(41) Tables 5 and 6 below provide the market shares of the Parties and their main
 
-                                                                               Syrup, oral powder
- Target  | Duphalac     Lactulose     Osmotic laxative         Oral           for oral solution,        A6A
-                                                                                          oral solution
-                       Macrogol(S),                            4.
-  Target  | Molexole |  Potassium,.         Osmotic laxative         Oral         Powdersolutionfor oral         A6A
-                      Sodium
+competitors in the Group 1/1+ affected markets in Portugal for 2022, in value and
+in volume.
 
-                                        .                                                                                                                                                                         .                              .                      Powder for oral
-Recordati | Casenlax | Macrogol(S)  | Osmotic laxative         Oral            solution,.    liquid.            A6A
-Recordati                 Pl    hori                                                        A6A, A6A4,            | Microlax     rospaore | Lubricant laxative        Rectal           Enema           Laxative enemas
-                        Acid                                                                             suitable.      for infants.
+Table 5: The Parties’ and competitors’ market shares in Group 1/1+
+affected markets for drugs for constipation in Portugal, 2022, in value
 
-                            Citric Acid,
-                                        .  | Enema      Dodecyl       Laxative enema
-Recordati    Casen      Sulfoacetic      that softens stool         Rectal           Enema           AGA, A6A4
-                        Acid
+A6A — Drugs for A6A4 — Laxative A6A4 — Laxative Enemas
+constipation Enemas for infants
 
-                   Source: Form CO, Table 19 andAnnex 8.1-X1.
+Target (Duphalac, Agiolax, Molaxole, 15.0% 22.5% 16.7%
+Bebegel (enema))
+CVC - Recordati (Casenlax, Microlax 25.5% 68.2% 6.6%
+(enema), Enema Casen (enema))
+Combined 40.5% 90.7% 83.3%
+Ferraz Lynce (Laevolac) 13.2% - -
+Norgine (Movicol, Normacol Plus) 12.6% - -
+Sanofi (Dulcolax, Totalaxan) 10.7% - -
+Faes Farma (Forlax, Bekunis, Bekunis 5.2% . -
+CHA 0) eee
+Prospa (Clyss-GO (enema)) 1.9% 6.7% -
+Phytoderm (Melilax Pediatric . 16.7%
+(enema))
+Others 15.9% 2.6% -
+Total 100% 100% 100%
 
-       (41)     Tables 5 and 6 below provide the market shares of the Parties and their main
-               competitors in the Group 1/1+ affected markets in Portugal for 2022, in value and
-                 in volume.
+Source: Form CO, Annex 8.1-I and Table 27.
 
-                       Table 5: The Parties’ and competitors’ market shares in Group 1/1+
-                          affected markets for drugs for constipation in Portugal, 2022, in value
-
-                                A6A — Drugs for    A6A4 — Laxative   A6A4 — Laxative Enemas
-                                                    constipation         Enemas                 for infants
-         Target (Duphalac, Agiolax, Molaxole,        15.0%              22.5%                 16.7%
-        Bebegel  (enema
-      CVC  - Recordati (Casenlax, Microlax        25.5%              68.2%                 6.6%
-           enema), Enema Casen  (enema
-
-                                              40.5%              90.7%                 83.3%
-         Ferraz Lynce  (Laevolac                     13.2% es
-        Norgine     (Movicol. Normacol Plus            12.6% es
-        FaesSanofi  (Dulcolax, Totalaxan                 10.7% esee
-     CHA Farma0      (Forlax, Bekunis, Bekunis         5.2%““
-        Prospa (Clyss-GO  (enema    po
+11
 
 
-
-        enema
-                                                15.9%     P  26%
-                                           100%             100%                100%
-
-                   Source: Form CO, Annex 8.1-I and Table 27.
-
-
-
-
-
-                                                                               11
 
 [PÁGINA PDF 13 | texto OCR: verificar contra el PDF]
-                Table 6: The Parties’ and competitors’ market shares in Group 1/1+
-                 affected markets for drugs for constipation in Portugal, 2022, in volume
+Table 6: The Parties’ and competitors’ market shares in Group 1/1+
 
+affected markets for drugs for constipation in Portugal, 2022, in volume
 
-                                             constipation         Enemas        Enemas for infantsa   ee ee
+A6A — Drugs for A6A4 — Laxative A6A4 — Laxative
+constipation Enemas Enemas for infants
 
- Bebegel  (enema
+Target (Duphalac, Agiolax, Molaxole, 34.1% 32.1% 86.4%
+Bebegel (enema))
+CVC - Recordati (Casenlax, Microlax 8.4% 63.0% 5.1%
+(enema), Enema Casen (enema))
+Combined 42.5% 95.1% 91.5%
+Ferraz Lynce (Laevolac) 12.7% - -
+Norgine (Movicol, Normacol Plus) 8.6% - -
+Sanofi (Dulcolax, Totalaxan) 10.4% - -
+Faes Farma (Forlax, Bekunis, Bekunis 8.2% - 7
+CHA 0) ;
+Prospa (Clyss-GO (enema)) 0.1% 1.8% -
+Phytoderm (Melilax pediatric (enema)) - - 8.5%
+Others 17.5% 3.2% -
+Total 100% 100% 100%
 
+Source: Form CO, Annex 8.1-I and Table 27.
 
-      es ee  ee
-   po
-      ee
-El0 CHA    A  ee Pd
-    ee ee eePK
+4.5.1.2.1.1. _ATC3 class A6A — Drugs for constipation in Portugal
 
+Prior to the Transaction, both Parties supply various constipation drugs in Portugal.
+More specifically, the Target is supplying Duphalac, Agiolax, Molaxole and
+Bebegel, whereas Recordati (CVC) is supplying Casenlax, Microlax and Enema
+Casen (see Tables 5 and 6 above). In this market, the Parties’ combined market
+share is 40.5% in value (or 42.5% in volume), with an increment of 15.0% in value
 
-           Source: Form CO, Annex 8.1-I and Table 27.
+According to the Notifying Party, the Transaction will not result in any competition
+concerns. The Notifying Party submits that the Parties’ products are not close
+substitutes because they are largely based on different active ingredients, have
+different routes of administration and modes of action and/or are indicated for
 
-4.5.1.2.1.1.  _ATC3 class A6A — Drugs for constipation in Portugal
+Among the Parties’ products, the products with the highest shares are Recordati’s
+Microlax (18.5% in value) and the Target’s Bebegel (6.5% in value). While both of
+these products are administered rectally, the Notifying Party highlights that these
+products are not close substitutes as Bebegel is indicated for infants and
+breastfeeding or pregnant mothers whereas Microlax and Enema Casen are not
+suitable for this population (apart from Lactentes & Criangas version of Microlax,
+which is discussed below in the context of laxative enemas for infants).*”
 
-(42)     Prior to the Transaction, both Parties supply various constipation drugs in Portugal.
-       More  specifically,  the Target  is  supplying Duphalac,  Agiolax, Molaxole and
-        Bebegel, whereas Recordati (CVC)  is supplying Casenlax, Microlax and Enema
-        Casen (see Tables 5 and 6 above). In this market, the Parties’ combined market
-         share is 40.5% in value (or 42.5% in volume), with an increment of 15.0% in value
-          (or 8.4% in volume).
+According to the Notifying Party, the merged entity will also continue to face a
+number of strong competitors present in the A6A class including Ferraz Lynce
+(13.2% in value), Norgine (12.6% in value) and Sanofi (10.7% in value).
 
-(43)    According to the Notifying Party, the Transaction will not result in any competition
-         concerns. The Notifying Party submits that the Parties’ products are not close
-          substitutes because they are largely based on different active ingredients, have
-          different routes of administration and modes of action and/or are indicated for
-          different patient groups.**
+Based on the Commission’s assessment the Transaction does not raise competition
+concerms in relation to the ATC3 class A6A in Portugal in light of the following
 
-(44)   Among the Parties’ products, the products with the highest shares are Recordati’s
-        Microlax (18.5% in value) and the Target’s Bebegel (6.5% in value). While both of
-         these products are administered rectally, the Notifying Party highlights that these
-         products  are  not  close  substitutes  as  Bebegel   is  indicated  for  infants  and
-         breastfeeding or pregnant mothers whereas Microlax and Enema Casen are not
-          suitable for this population (apart from Lactentes & Criangas version of Microlax,
-       which is discussed below in the context of laxative enemas for infants).*”
+(42)
+(or 8.4% in volume).
+(43)
+different patient groups.**
+(44)
+(45)
+(46)
+factors.
+48
 
-(45)    According to the Notifying Party, the merged entity will also continue to face a
-       number of strong competitors present in the A6A class including Ferraz Lynce
-        (13.2% in value), Norgine (12.6% in value) and Sanofi (10.7% in value).
+49
 
-(46)    Based on the  Commission’s assessment the Transaction does not raise competition
-        concerns in relation to the ATC3 class A6A in Portugal in light of the following
-          factors.
+Form CO, paragraphs 315-316.
+Form CO, paragraph 316.
 
+12
 
-
-
-48     Form CO, paragraphs 315-316.
-49     Form CO, paragraph 316.
-
-
-
-
-
-                                                            12
 
 [PÁGINA PDF 14]
 (47)     First, the Parties’ products do not appear to be close competitors for the following
@@ -1084,129 +1102,140 @@ El0 CHA    A  ee Pd
                                                     17
 
 [PÁGINA PDF 19 | texto OCR: verificar contra el PDF]
-                      Table 7: An overview of the Parties’ constipation drugs belonging to
-                               Group 1/1+ affected markets in Spain
+Table 7: An overview of the Parties’ constipation drugs belonging to
+Group 1/1+ affected markets in Spain
 
-                                                                                    Group
-  Party     Product                                                                                                                             -        Route of                                          -              1/1+          Name        Molecule / API     Mode of Action    administration     Galenic form      affected
+Group
+Product : Route of : 1/1+
+Party Name Molecule / API Mode of Action administration Galenic form affected
+markets
+. AGA,
+Target Agiocur Plantago Ovata Bulk forming Oral Powder 03C1,
+axative
+03C1P
+aan asa
+Target Agiolax Plantago Ovata, Senna . 8 Oral Powder, granules 03C1,
+a stimulant
+. 03C1P
+laxative
+. A6A,
+Target Cenat Plantago Ovata Bulk for g Oral Powder, granules 03C1,
+axative
+03C1P
+Syrup, oral powder A6A,
+Target Duphalac Lactulose Osmotic laxative Oral for oral solution, A6A6 +
+oral solution A6A7
+. Adulax .
+Recordati Casen Glycerol Laxative enema Rectal Enema A6A
+Fructooligosaccharides, .
+Recordati | Casenfibra Maltodextrin, Bulk for & Oral Powder, liquid 03C1,
+. laxative 03C1P
+Vegetable Fibre
+. . . Powder for oral AGA,
+Recordati | Casenlax Macrogol(S) Osmotic laxative Oral . . A6A6 +
+solution, liquid
+A6A7
+Recordati | Contumax Picosulfuric Acid Stimulant laxative Oral Drop for oral A6A
+administration
+.| Enema Citric Acid, Dodecyl 7
+Recordati Casen Sulfoacetic Acid Laxative enema Rectal Enema A6A
+The API within
+Rizmoic attaches
+and blocks
+Recordati | Rizmoic” Naldemedine receptors in the Oral Tablets A6A
+gut, through which
+opiod medicines
+cause constipation.
+. Aloe Barbadensis, . .
+Cooper Zeninas Rhamnus Purshiana Stimulant laxative Oral Tablets A6A
+Source: Form CO, Table 19 and Annex 8.1-XI.
+(76) Tables 8 and 9 below provides the market shares of the Parties and their main
 
-                                                                                              markets
+competitors in the Group 1/1+ affected markets in Spain for 2022, in value and in
+volume.
 
-                                                                                                                                                                                                                                                                                        .                                      A6A,
+70
 
-                                                           axative                                      03C1P
-  Target     Agiolax    Plantago Ovata, Senna    fomnimationues a stimulantForman of‘any          Oral        Powder, granules      03Cl1,AGA.
-                                                                                                                                                                                                                       .                                        03C1P
-                                                           laxative
-  Target                                       Bulk forming                                     A6A,             Cenat         Plantago Ovata              laxati               Oral        Powder, granules     03C1,                                                           axative                                      03C1P
+Used to treat constipation caused by opioid pain relief medicines.
 
-                                                                                        Syrup, oral powder    A6A,
-  Target    Duphalac          Lactulose         Osmotic laxative         Oral           for oral solution,   A6A6 +
-                                                                                                      oral solution     A6A7
-
-
-                         Fructooligosaccharides,                                                                      .
-Recordati | Casenfibra        Maltodextrin,         Bulk forming          Oral          Powder, liquid      03Cl,
-                           Vegetable Fibre.                laxative                                      03C1P
-Recordati | Casenlax        Macrogol(S)        Osmotic laxative         Oral        Powder.   for. oral    A6A6AGA, +
-                                                                                                     solution, liquid    A6A7
-
-
-                                                                                             administration
-
-
-            Casen         Sulfoacetic Acid
-
-                                           The API within
-
-                                             Rizmoic attaches
-
-                                               and blocks
-Recordati | Rizmoic”       Naldemedine          receptors in the          Oral              Tablets       A6A
-                                                          gut, through which
-                                                opiod medicines
-                                                cause constipation.
-
-
-                     Rhamnus Purshiana
-
-                  Source: Form CO, Table 19 andAnnex 8.1-X1.
-
-      (76)     Tables 8 and 9 below provides the market shares of the Parties and their main
-              competitors in the Group 1/1+ affected markets in Spain for 2022, in value and in
-             volume.
-
-
-
-
-
-         70      Used to treat constipation caused by opioid pain relief medicines.
-
-
+18
 
 
-
-                                                                  18
 
 [PÁGINA PDF 20 | texto OCR: verificar contra el PDF]
-                       Table 8: The Parties' and competitors' market shares in Group 1/1+
-                           affected markets for drugs for constipation in Spain, 2022, in value
-                AGAa   A6A6OsmoticandlaxativesA6A7 — | 03C1—Fibre  | 03C1PFibre —
-                      Senta     (with and without      laxatives      laxatives -
-                                                                              electrolytes                    Powders
+Table 8: The Parties' and competitors' market shares in Group 1/1+
+affected markets for drugs for constipation in Spain, 2022, in value
+
+AGA —Drugs A6A6 and A6A7 — 03C1P —
+for Osmotic laxatives 03C1 — Fibre Fibre
+eeeeieeeiaee (with and without laxatives laxatives -
+electrolytes) Powders
+
+Target (Duphalac, Agiocur, Agiolax, Cenat) 14.6% 20.5% 31.4% 63.6%
+CVC - Recordati (Casenlax, Enema Casen.
+Adulax Casen. Romece Contumax, Casenfibra) 12.5% 14.7% 7.1% 6.3%
+CVC — Cooper (Zeninas) 0.5% - - -
+Combined 27.6% 35.2% 38.5% 70.0%
+Norgine (Movicol) 20.4% 44.1% - -
+Johnson & Johnson (Microlax, Glycerol J.J.) 13.1%
+Lainco (Lactulosa Lainco, Magnesia Lainco.
+Foslainco. Emuliquen Laxante) 6.8% 5.2% 7 7
+Cinfa (Magnesium Cinf) 3.6% 2.8% - -
+Grupo Uriach (Fave di Fuca, Fuca Regularidad,
+Fuca Colon Clean and others) 4.4% . 33.0% 7
+A. Vogel (Linomed, Linoforce) 1.1% - 8.1% 16.5%
+Perrigo (Kijimea. Regulamine) - - 3.3% 6.6%
+Others 23.0% 12.7% 17.1% 6.9%
+Total 100% 100% 100% 100%
+
+Source: Form CO, Annex 8.1-I and Annex 8.1-XTII.
+
+Table 9: The Parties’ and competitors’ market shares in Group 1/1+
+affected markets for drugs for constipation in Spain, 2022, in volume
+
+A6A6 and A6A7
+AGA — Drugs laxatives (vi jy | 93C1—Fibre aaa
+for constipation and without laxatives Powders
+electrolytes)
+
+Target (Duphalac, Agiocur, Agiolax, Cenat) 41.4% 51.2% 57.5% 87.5%
+CVC — Recordati (Casenlax, Enema Casen, 4.0% 1.7% 0.8%
+Adulax Casen, Rizmoic, Contumax, 7.6%
+Casenfibra)
+CVC — Cooper (Zeninas) 0.5%
+Combined 45.9% 58.8% 59.2% 88.3%
+Norgine (Movicol) 9.6% 19.4% - -
+Johnson & Johnson (Microlax, Glycerol J.J.) 3.8%
+Lainco (Lactulosa Lainco, Magnesia Lainco, 7.1% 17% - -
+Foslainco, Emuliquen Laxante) :
+Cinfa (Magnesium Cinf) 6.0% 6.0% - -
+Grupo Uriach (Fave di Fuca, Fuca Regularidad, 6.2% - 26.1% -
+Fuca Colon Clean and others) ;
+A. Vogel (Linomed, Linoforce) 1.2% - 5.2% 7.9%
+Perrigo (Kijimea, Regulamine) - - 1.1% 1.7%
+Others 20.2% 8.1% 8.4% 2.1%
+Total 100% 100% 100% 100%
+
+Source: Form CO, Annex 8.1-I and Annex 8.1-XIII.
+
+4.5.1.2.2.1.
+
+(77)
+
+ATC3 class A6A — Drugs for constipation in Spain
+
+Both Parties supply various constipation drugs belonging to ATC3 class A6A in
+
+Spain. More specifically, the Target supplies Duphalac, Agiocur, Agiolax, Cenat,
+whereas Recordati supplies Casenlax, Enema Casen, Adulax Casen, Rizmoic,
+Contumax, and Cooper is supplying Zeninas. In this market the Parties’ combined
+market share is 27.6% in value (or 45.9% in volume) with an increment of 13% in
+
+value (or 4.5% in volume).
+
+19
 
 
- CVC   -  Recordati   (Casenlax,  Enema  Casen,
-
-       eses
-
-           es
-       esee
-  Foslainco, Emuliquen Laxante    yp
-           es
-  Grupo Uriach (Fave di Fuca, Fuca Regularidad,    po  -   pe
-                                                                       Pp}Others     esees
-
-                   Source: Form CO, Annex 8.1-I and Annex 8.1-XIII.
-
-                       Table 9: The Parties’ and competitors’ market shares in Group 1/1+
-                          affected markets for drugs for constipation in Spain, 2022, in volume
-
-                                                A6A6 and A6A7
-
-                                 A6A — Drugs                                                   for                ~ Osmotic | 03C1   Fibre |°°C1P— Fibre                                                     constipation     laxativesand without(with       laxatives        laxativesPowders—
-
-                                                                            electrolytes
-———<=|CVC — Recordati  (Casenlax, Enema  Casen,            4.0%                            1.7%           0.8% Casenfibra      |eseeee
-
-     ee
-        esee
-
-          Emuliquen;     Laxante                                                                    7.7%[rosanco-tmuliguataamie)Foslainco,;     | Emmet      a
-
-
- Fuca Colon Clean and others                                                                                                                                                                                                                                                                                                                         :FuscamCkmadones) | |  Tt   |
-   a
-
-
-
-
-                   Source: Form CO, Annex 8.1-I and Annex 8.1-XIII.
-
-       4.5.1.2.2.1.  _ATC3 class A6A — Drugs for constipation in Spain
-
-       (77)    Both Parties supply various constipation drugs belonging to ATC3 class A6A in
-                Spain. More specifically, the Target supplies Duphalac, Agiocur, Agiolax, Cenat,
-              whereas Recordati  supplies  Casenlax, Enema Casen, Adulax Casen, Rizmoic,
-             Contumax, and Cooper is supplying Zeninas. In this market the Parties’ combined
-              market share is 27.6% in value (or 45.9% in volume) with an increment of 13% in
-               value (or 4.5% in volume).
-
-
-
-
-
-                                                                    19
 
 [PÁGINA PDF 21]
 (78)    According to the Notifying Party, the Transaction will not result in any competition
@@ -1579,118 +1608,263 @@ Recordati | Rizmoic”       Naldemedine          receptors in the          Oral
                                                     25
 
 [PÁGINA PDF 27 | texto OCR: verificar contra el PDF]
-                  doubts as to  its compatibility with the internal market or the functioning of the
-            EEA agreement even in the narrowest plausible market (i.e. at the molecule level).
+doubts as to its compatibility with the internal market or the functioning of the
+EEA agreement even in the narrowest plausible market (i.e. at the molecule level).
 
-            4.5.2.2. Competitive assessment
+4.5.2.2. Competitive assessment
+(119) The Target and Cooper” both supply antiseptics/disinfectants in Belgium, France,
+Luxembourg and Italy. The Target’s Betadine is based on the molecule providone-
+iodine and is used to disinfect the skin before surgery and as an antiseptic for
+wounds. Cooper produces a number of antiseptics/disinfectants™ that belong to the
+same ATC/CHC classes as Betadine but are all based on other molecules and used
+for skin treatment and disinfection purposes.
+(120) Table 10 and 11 below provide an overview of the Parties' market shares in
+affected markets for antiseptics/disinfectants in Belgium, France, Luxembourg and
+Italy for 2022, in value and in volume.
+Table 10: The Parties' market shares in affected markets for antiseptics/disinfectants in
+Belgium, France, Luxembourg and Italy, 2022, in value
+Belgium France Luxembourg Italy
+agen oti Anne itic 06B2— | 06B3— | 06B3L— | 06B30— D8A — 06B3— | 06B3L—
+P P Skin | Wound | Liquids/ | Ointment | Antiseptics | Wound | Liquids /
+cs and sand ws ws . - : 5
+ae Ale Disinfe | Disinfect | Lotions s/ and Disinfecti | Lotions
+Disinfect | Disinfecta . 5 n _ .
+ction ion (Topical) Creams | Disinfectants on (Topical)
+ants nts
+Target 59.9% 29.2% 47.9% 10.5% 43.6% 33.0% 34.5% 31.8% 37.4%
+Cooper 0.5% 23.0% 13.2% 34.8% 11.7% 21.2% 1.4% 5.3% 7.2%
+Combined 60.4% 52.2% 61.1% 45.3% 55.3% 54.2% 35.9% 37.2% 44.6%
+Others 39.6% 47.8% 38.9% 54.7% 44.7% 45.8% 64.1% 62.8% 55.4%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Source: Form CO, Annex 8.1-I.
+93 None of the other CVC portfolio companies supply antiseptics/disinfectants in Belgium, France,
+Luxembourg or Italy.
+94
 
-          (119)   The Target and Cooper” both supply antiseptics/disinfectants in Belgium, France,
-               Luxembourg and Italy. The Target’s Betadine is based on the molecule providone-
-                   iodine and  is used to disinfect the skin before surgery and as an antiseptic for
-                 wounds. Cooper produces a number of antiseptics/disinfectants™that belong to the
-                same ATC/CHC classes as Betadine but are all based on other molecules and used
-                     for skin treatment and disinfection purposes.
-
-          (120)   Table  10 and  11 below provide an overview of the  Parties' market shares  in
-                    affected markets for antiseptics/disinfectants in Belgium, France, Luxembourg and
-                     Italy for 2022, in value and in volume.
-
-
-                       Table 10: The Parties' market shares in affected markets for antiseptics/disinfectants in
-                                     Belgium, France, Luxembourg and Italy, 2022, in value
-| | me
-         annati                  cs andod   Aneeitis ande     06B2Skinee — | Wound06B3ws  — | Liquids/06B3Lz  —  | Ointment06B30 — |  AntisepticsD8A—    | Wound06B3-   —  ; | Liquids/06B3L-  —
-        =     a          Disinfe  | Disinfect | Lotions        s/         and        Disinfecti | Lotions
-               Disinfect  | Disinfecta                 :                         .                                         -           a                                                                            :
-                 ants         nts         ction       ion      (Topical)    Creams | Disinfectants      on       (Topical)
-
-
-
-              60.4%      52.2% |  61.1% |  45.3%     55.3%      54.2%       35.9%       37.2%      44.6%
-              39.6% |  47.8%
-              100.0% |  100.0% | 100.0% |  100.0% |  100.0%  |  100.0%      100.0%      100.0%   |}  100.0%
-
-                         Source: Form CO, Annex 8.1-I.
-
-
-
-
-
-                 93     None of the other CVC portfolio companies supply antiseptics/disinfectants  in Belgium, France,
-                 Luxembourg or Italy.
-                o4      Cooper produces and markets the following products that give rise to Group  1 affected markets due to
-                       their overlap in certain ATC and CHC classes with Betadine: Dakin (France, Belgium, Luxembourg),
-                 Hexomedine (France), Alcool Modifié (France), Aureocyde (France) and Bialcol (Italy). See Form
-                CO, paragraph 439.
+Cooper produces and markets the following products that give rise to Group 1 affected markets due to
+their overlap in certain ATC and CHC classes with Betadine: Dakin (France, Belgium, Luxembourg),
+Hexomedine (France), Alcool Modifié (France), Aureocyde (France) and Bialcol (Italy). See Form
+CO, paragraph 439.
 
 
-
-
-
-                                                                    26
 
 [PÁGINA PDF 28 | texto OCR: verificar contra el PDF]
-              Table 11: The Parties' market shares in affected markets for antiseptics/disinfectants in Belgium,
-                                          France, Luxembourg and Italy, 2022, in volume.
-Zz me
-        anne tic Anne tic | 0OB2- | 96B3-  | 06B3L-  | 06B30-    DSA —      06B3— | 06B3L—
-                     s andP         s andP      Skinee   | Woundwe     |  Liquids/.     | Ointment | Antiseptics  | Wound-              - | Liquids/-
-        a     a          Disinfe  | Disinfect | Lotions        s/         and        Disinfecti | Lotions
-              Disinfecta | Disinfecta                :                         :                                   :           a                                                                            c
-                  nts          nts        ction       ion      (Topical)    Creams | Disinfectants      on       (Topical)
+Table 11: The Parties' market shares in affected markets for antiseptics/disinfectants in Belgium,
+France, Luxembourg and Italy, 2022, in volume.
 
-              49.0%                                                                         10.4% |  13.7%                        48.2% | 48.6% |  31.4%     45.6%      31.3%       25.9%       25.8%      32.9%
+Belgium
 
-                                                                                                    67.1%
-              100.0% |  100.0% | 100.0% |  100.0% |  100.0% |  100.0%      100.0%      100.0%  |}  100.0%
+France
 
-                        Source: Form CO, Annex 8.1-I.
+Luxembourg
 
-          (121)    In general, the Notifying Party argues that the Parties’ overlapping antiseptics and
-                    disinfectants are not close substitutes, as they differ across a number of parameters,
-                   including  their  use  case,  range  of  bacterial  action  and  active  ingredient.
-                  Furthermore, they consider that the merged entity will not be able to raise prices in
-                 Belgium, France and Luxembourg post-Transaction due to national price regulation
-                 regimes of pharmaceuticals. °°
+Italy
 
-          (122)   The Notifying Party also submits that the merged entity will continue to face strong
-                  competition post-Transaction,®° and that, in any event, the competition effects of
-                   the Transaction should be assessed at molecule level as the appropriate relevant
-                  product market, where the Parties’  antiseptics and disinfectants do not overlap.
-                 Moreover,  in Belgium and in Luxembourg, the Transaction would not have a
-                   material impact in these markets in light of the small increments by Cooper.
+D8A —
+Antiseptic
+sand
+Disinfecta
+nts
 
-           4.5.2.2.1.     Belgium
+D8A —
+Antiseptic
+sand
+Disinfecta
+nts
 
-          (123)   As indicated in 10 and 11 above, in the market for antiseptics and disinfectants (at
-                ATC3   level D8A) in Belgium, the combined share of the Parties was 60.4% in
-                  value (with an increment of 0.5% by Cooper) and 49%  in volume (with an
-                 increment of 1.4% by Cooper).
+06B2 —
+Skin
 
-          (124)   The Commission considers that the Transaction does not raise concerns for the
-                  following reasons.
+Disinfe
+ction
 
+06B3 —
+Wound
+Disinfect
+ion
 
+06B3L —
+Liquids /
+Lotions
 
+(Topical)
 
-                95       In Belgium, France and Luxembourg, the prices of pharmaceutical products are subject to national
-                     regulation and prior approval by  state  officials. For instance, pharmaceutical manufacturers  in
-                 Belgium are required by regulation to notify and seek prior authorisation from the Federal Ministry
-                      for the Economy in Belgium for proposed price increases. See Form CO paras 457, 458, 470, 494,
-                    495.
-               96       In Belgium, 15 competitors will remain to constrain the merged entity, including two with a market
-                     share exceeding 5% (Mélnlycke Health Care and Qualiphar). In France 20 competitors will remain,
-                     including four above 5% (Bayer, Pierre Fabre, Servier and Gilbert). In Luxembourg more than 10
-                     competitors, including five above 5% (Mélnlycke Health Care, Pierre Fabre, Schuelke, Klésterfrau,
-                     Qualiphar). In Italy more than 50 competitors will remain, including three above 5% (Angelini,
-                   Bolton Group and Dompe). According to the Notifying Party,   a number of those competitors compete
-                 more closely with the Parties’ products. See Form CO, paras. 455, 469, 493, 498.
+06B30 —
+Ointment
+s/
+Creams
 
+D8A —
+Antiseptics
+and
+Disinfectants
 
+06B3 —
+Wound
+Disinfecti
+on
 
+06B3L —
 
+Liquids /
+Lotions
 
-                                                                    27
+(Topical)
+
+Target
+
+47.6%
+
+25.6%
+
+48.5%
+
+6.1%
+
+10.1%
+
+18.7%
+
+22.9%
+
+15.4%
+
+19.2%
+
+Cooper
+
+1.4%
+
+22.6%
+
+0.1%
+
+25.3%
+
+35.5%
+
+12.7%
+
+3.0%
+
+10.4%
+
+13.7%
+
+Combined
+
+49.0%
+
+48.2%
+
+48.6%
+
+31.4%
+
+45.6%
+
+31.3%
+
+25.9%
+
+25.8%
+
+32.9%
+
+Others
+
+51.0%
+
+51.8%
+
+51.4%
+
+68.6%
+
+54.4%
+
+68.7%
+
+74.1%
+
+74.2%
+
+67.1%
+
+Total
+
+100.0%
+
+100.0%
+
+100.0%
+
+100.0%
+
+100.0%
+
+100.0%
+
+100.0%
+
+100.0%
+
+100.0%
+
+(121)
+
+(122)
+
+4.5.2.2.1.
+
+(123)
+
+(124)
+
+Source: Form CO, Annex 8.1-I.
+
+In general, the Notifying Party argues that the Parties’ overlapping antiseptics and
+disinfectants are not close substitutes, as they differ across a number of parameters,
+including their use case, range of bacterial action and active ingredient.
+Furthermore, they consider that the merged entity will not be able to raise prices in
+Belgium, France and Luxembourg post-Transaction due to national price regulation
+regimes of pharmaceuticals. ?°
+
+The Notifying Party also submits that the merged entity will continue to face strong
+competition post-Transaction,”° and that, in any event, the competition effects of
+the Transaction should be assessed at molecule level as the appropriate relevant
+product market, where the Parties’ antiseptics and disinfectants do not overlap.
+Moreover, in Belgium and in Luxembourg, the Transaction would not have a
+material impact in these markets in light of the small increments by Cooper.
+
+Belgium
+
+As indicated in 10 and 11 above, in the market for antiseptics and disinfectants (at
+ATC3 level D8A) in Belgium, the combined share of the Parties was 60.4% in
+value (with an increment of 0.5% by Cooper) and 49% in volume (with an
+increment of 1.4% by Cooper).
+
+The Commission considers that the Transaction does not raise concerns for the
+following reasons.
+
+95
+
+In Belgium, France and Luxembourg, the prices of pharmaceutical products are subject to national
+regulation and prior approval by state officials. For instance, pharmaceutical manufacturers in
+Belgium are required by regulation to notify and seek prior authorisation from the Federal Ministry
+for the Economy in Belgium for proposed price increases. See Form CO paras 457, 458, 470, 494,
+495.
+
+In Belgium, 15 competitors will remain to constrain the merged entity, including two with a market
+share exceeding 5% (M@élnlycke Health Care and Qualiphar). In France 20 competitors will remain,
+including four above 5% (Bayer, Pierre Fabre, Servier and Gilbert). In Luxembourg more than 10
+competitors, including five above 5% (Mélnlycke Health Care, Pierre Fabre, Schuelke, Klésterfrau,
+Qualiphar). In Italy more than 50 competitors will remain, including three above 5% (Angelini,
+Bolton Group and Dompe). According to the Notifying Party, a number of those competitors compete
+more closely with the Parties’ products. See Form CO, paras. 455, 469, 493, 498.
+
+27
+
 
 [PÁGINA PDF 29]
 (125)    First, the Parties’ overlapping antiseptics and disinfectants are not close substitutes,
@@ -2384,76 +2558,83 @@ Zz me
                                                     38
 
 [PÁGINA PDF 40 | texto OCR: verificar contra el PDF]
-(199)   These market shares are based on IQVIA data, which do not include sales via the e-
-       commerce or physical drugstore channels in Germany. According to the Parties’
-         best estimates, listed in Table 12 below, their combined share in this market was
-        [50-60]% in value (with an increment of [10-20]% by Cooper) and [50-60]% in
-       volume (with an increment of [10-20]% by the Target),  if online and physical
-         drugstore sales are included.
+(199) These market shares are based on IQVIA data, which do not include sales via the e-
+commerce or physical drugstore channels in Germany. According to the Parties’
+best estimates, listed in Table 12 below, their combined share in this market was
+[50-60]% in value (with an increment of [10-20]% by Cooper) and [50-60]% in
+volume (with an increment of [10-20]% by the Target), if online and physical
+drugstore sales are included.
+
+Table 12: Market shares by value and by volume of the (adjusted) S2D1 class in Germany, in
+
+2022
+Intended VALUE VOLUME
+use
+
+Product API S2D1_ | Adjusted | S2D1_ | Adjusted
+
+class S$2D1 class S2D1
+
+class}53 class!*4
+Audispray Sea water Prevention | 1.30]% | [10-20]% [30-40]%
+
+Audispray . Removal ° ° °
+
+Cooper Ultra Docusate Sodium [0-5]% [0-5]% [60-70]% [0-5]%
+Audispray Sea water, Glycerol | PVP"? | o-sjoo | [0-5]% [0-5]%
+
+Audibaby Sea water Prevention [0-5]% [0-5]% [0-5]%
+Target Otowaxol nn Removal } [60-70]% | [30-40]% | [20-30]% | [10-20]%
+Combined [80-90]% | [50-60]% | [80-90]% | [50-60]%
+a Axoid Olea Europea Removal [0-5]% [0-5]%
+
+Biobridge Ethylhexylglycerol, | Removal [0-5]% [0-5]%
+
+Europe Crulysin Glycerol, S odium [0-5]% [0-5]%
+
+Silicol Vaxol Olea Europea Removal [0-5]% [0-5]% [0-5]% [0-5]%
+
+Paraffin Oil, Removal
+BENE Prunus Amygdalus
+Chemie Cerustop (Duleis), [o-sJ% | [0-5]% | [o-5]% | [0-5]%
+Triglycerides
+Bader/Baer Otitex Docusate Removal [0-5]% [0-5]% [0-5]%
+Aesculus
+Prod GSE Ear Hippocastanum,
+Ph, eco Drops Citrus Paradisi, Removal [0-5]% [0-5]%
+a Free Glycerol, Ribes
+Nigrum
+
+Others [0-5]% | [30-40]% | [0-5]% | [30-40]%
+
+Total 100% 100% 100% 100%
+Source: Form CO; Annexes 8.1-I and 8.1-XIII; Responses to RFI 8 and to RFI 12.
+
+(200) The Notifying Party submits that these shares are still overstated, as the Parties will
+continue to face strong competition from other methods of earwax removal!°? and
+
+153
+
+154
+
+155
+
+Parties’ best estimates, including online and drugstore sales, assuming that drugstore sales constitute
+[20-30]% of the market and e-commerce sales constitute [20-30]% of the market. See the Parties’
+Response to RFI 8, Table 1.
+
+Parties’ best estimates, including online and drugstore sales, assuming that drugstore sales constitute
+[20-30]% of the market and e-commerce sales constitute [20-30]% of the market. See the Parties’
+Responses to RFI 12, Table 1.
+
+According to the Parties, the merged entity will continue to face strong competition from other
+products in the market including eardrops with solvent components, homeopathic products, which are
+common preventive or curing treatments in Germany, as well as from medical devices for the manual
+removal of earwax and substitutable home remedies like salt water and olive oil. See the Parties’
+“Submission on earwax removal products in Germany” of 28 May 2024 and Response to RFI 8 of 31
+May 2024.
 
 
-          Table 12: Market shares by value and by volume of the (adjusted) S2D1 class in Germany, in
-                                                 2022
-
-                                          Intended      VALUE        VOLUME
-
-                                                use
-                        aan                    $2D1    Adjusted             Adjusted
-                                                                    class      $2D1              S2D1
-                                                                                      class}*3                   class!*4
-            Audispray                        Prevention
-               Adult         Sea water                   [20-30]% ] [10-20]%              [30-40]%
-
-Cooper         Ultra      Docusate Sodium                 [0-5]%-5]2      [0-5]%-5]2     [60-70}%    [0-5]%-5]9
-
-
-               Junior
-
-            Audibab
-
-
-                                                      80-90]% |  [50-60]% |  [80-90]% |  [50-60]%
-Biobridee
-Europe                                                               .     Ethylhexylglycerol, | Removal     [0-5]%              °      [0-5]%              °              Crulysin     Glvcerol. Sodium                            [0-5]%                [0-5]%
-
-
-                               Paraffin Oil,      Removal
-BENE                  Prunus Amygdalus
-Chemie      Cerustop         (Dulcis).                     [0-5]%     [0-5]%     [0-5]%     [0-5]%
-                              Triglycerides
-                             Aesculus            |
-Prod       GSE Ear     Hippocastanum,
-Ph, eco      Drops       Citrus Paradisi,     Removal                [0-5]%                [0-5]%
-  varma         Free        Glycerol, Ribes
-                          Nigrum
-
-                                                                30-40]%                 30-40] %
-                                               100%     100% |  100% |  100%
-           Source: Form CO; Annexes 8.1-I and 8.1-XIII; Responses to RFI 8 and to RFI 12.
-
-(200)   The Notifying Party submits that these shares are still overstated, as the Parties will
-        continue to face strong competition from other methods of earwax removal!” and
-
-
-
-133       Parties’ best estimates, including online and drugstore sales, assuming that drugstore sales constitute
-        [20-30]% of the market and e-commerce sales constitute [20-30]% of the market. See the Parties’
-        Response to RFI 8, Table 1.
-134       Parties’ best estimates, including online and drugstore sales, assuming that drugstore sales constitute
-        [20-30]% of the market and e-commerce sales constitute [20-30]% of the market. See the Parties’
-        Responses to RFI 12, Table 1.
-155      According to the Parties, the merged entity will continue to face strong competition from other
-        products in the market including eardrops with solvent components, homeopathic products, which are
-      common preventive or curing treatments in Germany, as well as from medical devices for the manual
-        removal of earwax and substitutable home remedies like salt water and olive oil. See the Parties’
-        “Submission on earwax removal products in Germany” of 28 May 2024 and Response to RFI 8 of 31
-      May 2024.
-
-
-
-
-
-                                                        39
 
 [PÁGINA PDF 41]
          potential entry from products sold in neighbouring member states.156 It also argues
@@ -3071,143 +3252,180 @@ Ph, eco      Drops       Citrus Paradisi,     Removal                [0-5]%     
                                                     49
 
 [PÁGINA PDF 51 | texto OCR: verificar contra el PDF]
-(267)   The Commission’s market investigation did not provide any alternative market
-         definitions  for  retail sale of health and beauty products. In any case,  for the
-        purposes of this case, the exact product market definition for the market for retail
-          sale of health and beauty products can be left open since the Transaction does not
-         give rise to serious doubts as to  its compatibility with the internal market or the
-         functioning of the EEA agreement under any plausible product market definition.
+(267)
+
+The Commission’s market investigation did not provide any alternative market
+definitions for retail sale of health and beauty products. In any case, for the
+purposes of this case, the exact product market definition for the market for retail
+sale of health and beauty products can be left open since the Transaction does not
+give rise to serious doubts as to its compatibility with the internal market or the
+functioning of the EEA agreement under any plausible product market definition.
 
 5.2.3.2. Geographical market for retail sale of health and beauty products
 
-(268)   While local market conditions and catchment areas (10-30 minutes driving time)
-        have also been considered, the Commission typically has defined the geographic
-        market  for the  retail  sale of health, beauty, and beauty products  as  national,
-         influenced by uniform pricing and marketing strategies across countries."
+(268)
 
-(269)   According to the Notifying Party, the most appropriate geographic market for the
-         case at hand would be a national.”!°
+(269)
 
-(270)   The Commission’s market investigation did not provide any alternative market
-         definitions  for  retail  sale of health and beauty products. In any case,  for the
-        purposes of this case, the exact geographic market definition for retail sale of
-         health and beauty products can be left open since the Transaction does not give rise
-          to serious doubts as to its compatibility with the internal market or the functioning
-        of the EEA agreement under any plausible geographical market definition of retail
-          sale of health and beauty products.
+(270)
 
-5.3.     Competitive assessment of the vertical relationships
+5.3.
 
-(271)   The vertically affected markets are summarised in Table 13 below.
+(271)
 
-                       Table 13. Overview with vertically affected markets
+5.3.1.
 
+(272)
 
+While local market conditions and catchment areas (10-30 minutes driving time)
+have also been considered, the Commission typically has defined the geographic
+market for the retail sale of health, beauty, and beauty products as national,
+influenced by uniform pricing and marketing strategies across countries.”
 
-                                 active
-        FDPs              Target  | Private  hospital  services  in |CVC            (Hellenic
-                                     Greece                       Healthcare Group)
-                                           Retail  sale  of  health  and |CVC (Disapo)
-                                                      beauty   products in German
+According to the Notifying Party, the most appropriate geographic market for the
+case at hand would be a national.”!°
 
+The Commission’s market investigation did not provide any alternative market
+definitions for retail sale of health and beauty products. In any case, for the
+purposes of this case, the exact geographic market definition for retail sale of
+health and beauty products can be left open since the Transaction does not give rise
+to serious doubts as to its compatibility with the internal market or the functioning
+of the EEA agreement under any plausible geographical market definition of retail
+sale of health and beauty products.
 
-5.3.1.  FDPs — Target  (Upstream) /Private Hospital Services             — CVC (Downstream)
+Competitive assessment of the vertical relationships
 
-(272)  CVC is active in the downstream market for private hospital services in Greece.*!!
-       The Target offers  FDPs in Greece that could be an upstream input for the operation
-        of private hospitals downstream. The vertically linked (at the ATC3/CHC3   level)
-        upstream and downstream markets and the Parties’ shares are below.
+The vertically affected markets are summarised in Table 13 below.
 
+Table 13. Overview with vertically affected markets
 
+Upstream market | Party | Downstream market Party active
+active
+FDPs Target | Private hospital services in | CVC (Hellenic
+Greece Healthcare Group)
+FDPs Target | Retail sale of health and | CVC (Disapo)
+beauty products in Germany
 
+FDPs — Target (Upstream) / Private Hospital Services — CVC (Downstream)
 
-209      See e.g. cases like M.7224 - Kesko/Oriola/JV and M.3732  - AS Watson/Marionnaud, where various
-        product categories and retail types were assessed with a national scope due to factors such as product
-        range and national advertising
-210     Form CO, paragraph 91.
-211      Through the HHG which is the largest private hospital group in Greece, consisting of six hospitals:
-        Metropolitan Hospital; Metropolitan General; Hygeia Hospital; Mitera; Leto; and Creta Interclinic.
-     HHG provides  all major procedures and  treats approximately 100,000  inpatients and  1  million
-         outpatients annually.
+CVC is active in the downstream market for private hospital services in Greece.*!!
 
+The Target offers FDPs in Greece that could be an upstream input for the operation
+of private hospitals downstream. The vertically linked (at the ATC3/CHC3 level)
+upstream and downstream markets and the Parties’ shares are below.
 
+209
 
+210
+211
 
+See e.g. cases like M.7224 - Kesko/Oriola/JV and M.3732 - AS Watson/Marionnaud, where various
+product categories and retail types were assessed with a national scope due to factors such as product
+range and national advertising
 
-                                                        50
+Form CO, paragraph 91.
+
+Through the HHG which is the largest private hospital group in Greece, consisting of six hospitals:
+Metropolitan Hospital: Metropolitan General; Hygeia Hospital; Mitera; Leto; and Creta Interclinic.
+HHG provides all major procedures and treats approximately 100,000 inpatients and 1 million
+outpatients annually.
+
 
 [PÁGINA PDF 52 | texto OCR: verificar contra el PDF]
-            Table 14: Summary of vertically affected markets in Greece 2022, (shares in value)
+Table 14: Summary of vertically affected markets in Greece 2022, (shares in value)
 
+Upstream market (Target) Downstream market (CVC)
 
+Product market Geographic | Market | Product market Geographic | Market
+market share market share
 
-                             market       share                             market       share
+ATC3 - A6A DRUGS FOR | Greece 34.5% | Private general hospitals | Attica 40-
 
+CONSTIPATION 50%
 
-CONSTIPATION                                                     50%
- DUPHALAC
+(DUPHALAC)
 
+CHC3 - 03C2 OSMOTIC | Greece 35.9% | Private general hospitals | Attica 40-
 
-LAXAT   (EXC   SALINE)                                            50%
- DUPHALAC
+LAXAT (EXC _ SALINE) 50%
 
+(DUPHALAC)
 
-ATHEROMA (OMACOR)                                               50%
+ATC3) - Cl10B_— ANTI- | Greece 69.1% | Private general hospitals | Attica 40-
 
-HEART/CIRC/LIPID                                                   50%
- OMACOR
+ATHEROMA (OMACOR) 50%
 
+CHC3 - 10Fl OMEGA-3 | Greece 54.5% | Private general hospitals | Attica 40-
 
-ANTIBACTERIALS (PULVO                                            50%
-47
+HEART/CIRC/LIPID 50%
 
+OMACOR)
 
-WOUND  HEALING  PROD                                            50%
- PULVO 47
+ATC3 - D6A_ TOPICAL | Greece 34.5% | Private general hospitals | Attica 40-
 
+ANTIBACTERIALS (PULVO 50%
 
-WART/CORN REMOV EXC                                            50%
+47)
+
+CHC3 — 06F3 Greece 27.8% | Private general hospitals | Attica 40-
+
+WOUND HEALING PROD 50%
+
+(PULVO 47)
+
+CHC3 - 06L1 Greece 29.7% | Private general hospitals | Attica 40-
+
+WART/CORN REMOV EXC 50%
+
 PLAST (ENDWARTS) 2”
 
+(273)
 
-            Source: Form CO.
+(274)
 
-  (273)   The Notifying Party submits that the minimal sales of Duphalac, Omacor, and
-          Pulvo 47 to HHG and  its main competitors indicate that these products are not
-          important inputs  for HHG and  its main competitors and has no bearing on a
-            patient's  choice of hospital  as  patients  continue  to choose  hospitals  that use
-            alternative products or do not use these products for treatment. In addition, HHG’s
-          competitors have access to several alternative suppliers.
+(275)
 
-  (274)   The Commission considers that the Transaction does not raise concerns for input or
-          customer foreclosure for the following reasons.
+Source: Form CO.
 
-  (275)    First,  the combined entity  is unlikely  to have the  ability  to engage  in input
-           foreclosure due to the minimal sales of FDPs from the Target to HHG and its main
-           competitors.  Particularly,  the  Target has  sold  three FDPs  to  private  general
-           hospitals of HHG in Greece during the period from 2020 to September 2023:
-          Duphalac, Omacor, and Pulvo 47.7!3 The Target's total sales of these FDPs to HHG
-         amounted to less than EUR [...] in 2022, representing [0-5]% of the Target's sales
-            in Greece in 2022. Further, HHG’s competitors procured insignificant amounts of
-           the relevant products during that period.?!* The negligible sales do not represent a
+The Notifying Party submits that the minimal sales of Duphalac, Omacor, and
+Pulvo 47 to HHG and its main competitors indicate that these products are not
+important inputs for HHG and its main competitors and has no bearing on a
+patient's choice of hospital as patients continue to choose hospitals that use
+alternative products or do not use these products for treatment. In addition, HHG’s
+competitors have access to several alternative suppliers.
+
+The Commission considers that the Transaction does not raise concerns for input or
+customer foreclosure for the following reasons.
+
+First, the combined entity is unlikely to have the ability to engage in imput
+foreclosure due to the minimal sales of FDPs from the Target to HHG and its main
+competitors. Particularly, the Target has sold three FDPs to private general
+hospitals of HHG in Greece during the period from 2020 to September 2023:
+Duphalac, Omacor, and Pulvo 47.73 The Target's total sales of these FDPs to HHG
+amounted to less than EUR [...] in 2022, representing [0-5]% of the Target's sales
+in Greece in 2022. Further, HHG’s competitors procured insignificant amounts of
+the relevant products during that period.7!* The negligible sales do not represent a
+
+212
+213
+
+214
+
+The Target made [...] sales of Endwarts to private hospitals in 2020, 2021, and 2022.
+
+The Target also sold Rheum Officinale / Salicylic Acid to HHG during the period between 2020 to
+September 2023 [...].
+
+In particular, Iatriko Athens Medical sales figures amounted to [...] EUR for Duphalac, [...] EUR for
+Omacor, and [...] EUR for Pulvo. Henry Dunant Hospital's sales figures were [...] EUR for Duphalac
+and [...] EUR for Pulvo, with no sales reported for Omacor. Euromedica's sales amounted to [...]
+EUR for Duphalac, [...] EUR for Omacor, and [...] EUR for Pulvo. Euroclinic of Athens recorded
+sales of [...] EUR for Duphalac and [...] EUR for Omacor, with no sales for Pulvo. St Luke's had
+sales of [...] EUR for Duphalac and did not report any sales for Omacor and Pulvo. In total, the
+
+51
 
 
-
-   212     The Target made [...] sales of Endwarts to private hospitals in 2020, 2021, and 2022.
-   213     The Target also sold Rheum Officinale  / Salicylic Acid to HHG during the period between 2020 to
-          September 2023 [...].
-   214      In particular, Iatriko Athens Medical sales figures amounted to [...] EUR for Duphalac, [...] EUR for
-         Omacor, and [...] EUR for Pulvo. Henry Dunant Hospital's sales figures were [...] EUR for Duphalac
-          and  [...] EUR for Pulvo, with no sales reported for Omacor. Euromedica's sales amounted to  [...]
-       EUR for Duphalac,  [...] EUR for Omacor, and [...] EUR for Pulvo. Euroclinic of Athens recorded
-            sales of [...] EUR for Duphalac and [...] EUR for Omacor, with no sales for Pulvo. St Luke's had
-            sales of [...] EUR for Duphalac and did not report any sales for Omacor and Pulvo. In total, the
-
-
-
-
-
-                                                                   51
 
 [PÁGINA PDF 53]
          significant cost factor for the downstream services provided by HHG's competitors,
@@ -3265,72 +3483,82 @@ PLAST (ENDWARTS) 2”
                                                     52
 
 [PÁGINA PDF 54 | texto OCR: verificar contra el PDF]
-         Table 15: Summary of vertically affected markets in Germany 2022, (shares in value)
+(281)
 
+(282)
 
-                                              share                                    share
+(283)
 
-       DETERGENTS                                    beauty   products
+(284)
 
+(285)
 
-       CHOLESTEROL REGUL PRD                 beauty   products
+Table 15: Summary of vertically affected markets in Germany 2022, (shares in value)
 
+Product market Market | Product market Market
+share share
 
+CHC3) - 85D1 INTIMATE | 53.1% | Retail sale of health and | <5%
 
+DETERGENTS beauty products
 
+CHC3 - 10F3 OTH | 59.0% | Retail sale of health and | <5%
 
-           Source: Form CO.
+CHOLESTEROL REGUL PRD beauty products
 
-(281)   The Notifying Party submits that the vertical relationship with Disapo is limited to
-         the pharmacy retail channel and the sales of the Target’s products constitute [0-5]%
-        of Disapo’s total sales. In addition to this, Disapo's downstream market share in
-       Germany remains [0-5]% and ceasing  sales  to  other major  retailers  such  as
-        Docmorris and Shop Apotheke, who account for the majority share, would not
-         serve the interests of the merged entity.
+CHC3 - 82G4 AFTER | 67.6% | Retail sale of health and | <5%
 
-(282)    |The Commission considers that the Transaction does not raise concerns for input or
-        customer foreclosure for the following reasons.
+EPILAT/DEPILAT PRDS beauty products
 
-(283)    First,  the combined  entity  is unlikely  to have  the  ability to engage  in input
-         foreclosure. Particularly, healthcare retailers sell a vast range of products and the
-         unavailability of a few stock keeping units would not diminish their ability to
-        compete effectively in the market. For example,  sales of the Target's products
-        accounted for [0-5]% of Disapo's sales in 2022. In addition, the Target’s sales to
-        Disapo’s main competitors are limited.?!* Specifically, Target’s sales to Docmorris
-          in 2022 amounted  to EUR  [...] and accounted  for [0-5]% of 2022  sales by
-        Docmorris in Germany (EUR [...]) and sales to Shop Apotheke in 2022 amounted
-          to EUR  [...] and accounted for [0-5]% of 2022  sales by Shop Apotheke  in
-       Germany (EUR  [...]). As such, Docmorris and Shop Apotheke would remain
-         effective competitors to Disapo in the hypothetical scenario in which Target ceased
-          to supply them with  its FDPs. In any event, Disapo’s competitors can procure
-          alternative products to the Target’s upstream products from other companies.”!°
+Source: Form CO.
 
-(284)   Second, the Parties have no incentive to engage in such a foreclosure strategy due
-          to its lack of profitability. The Target's sales of relevant products to downstream
-        competitors of Disapo are minimal, therefore, restricting input sales would not
-         yield any significant profit from expanding market share or increasing prices
-       downstream for the combined entity.
+The Notifying Party submits that the vertical relationship with Disapo is limited to
+the pharmacy retail channel and the sales of the Target’s products constitute [0-5]%
+of Disapo’s total sales. In addition to this, Disapo's downstream market share in
+Germany remains [0-5]% and ceasing sales to other major retailers such as
+Docmorris and Shop Apotheke, who account for the majority share, would not
+serve the interests of the merged entity.
 
-(285)    Third, the combined entity  is unlikely to have the ability to engage in customer
-         foreclosure because it would not constitute an important customer for the upstream
-      FDP markets in Germany. In particular, Disapo's market share of the relevant
-       downstream national market is less than 5%.
+The Commission considers that the Transaction does not raise concerns for input or
+customer foreclosure for the following reasons.
 
+First, the combined entity is unlikely to have the ability to engage in input
+foreclosure. Particularly, healthcare retailers sell a vast range of products and the
+unavailability of a few stock keeping units would not diminish their ability to
+compete effectively in the market. For example, sales of the Target's products
+accounted for [0-5]% of Disapo's sales in 2022. In addition, the Target’s sales to
+Disapo’s main competitors are limited.*!® Specifically, Target’s sales to Docmorris
+in 2022 amounted to EUR [...] and accounted for [0-5]% of 2022 sales by
+Docmorris in Germany (EUR [...]) and sales to Shop Apotheke in 2022 amounted
+to EUR [...] and accounted for [0-5]% of 2022 sales by Shop Apotheke in
+Germany (EUR [...]). As such, Docmorris and Shop Apotheke would remain
+effective competitors to Disapo in the hypothetical scenario in which Target ceased
+to supply them with its FDPs. In any event, Disapo’s competitors can procure
+alternative products to the Target’s upstream products from other companies.”!?
 
+Second, the Parties have no incentive to engage in such a foreclosure strategy due
+to its lack of profitability. The Target's sales of relevant products to downstream
+competitors of Disapo are minimal, therefore, restricting input sales would not
+yield any significant profit from expanding market share or increasing prices
+downstream for the combined entity.
 
-218     Form CO, footnote 104.
-219      See response in RFI 15, tables 1,2 and 3. For instance, in Germany, at the 10F3 CHC3 class available
-        products include Symbiolact (Symbiopharm) with a value share of 7.2% and Arterin (Perrigo) with a
-        value share of 7.1%. Similarly, at the 82G4 CHC3 class, available products include Biomed (Skin
-        Doctors) holding a value share of 31.1%, and Australian Bodycare and Intim (Bergland Pharma) each
-        with a value share of 0.6%. At the 85D1 CHC3 class, available products include Vagisan (Dr. Wolff)
-        with a 29.5% value share and Deumavan (Kaymogyn) with an 8.0% value share.
+Third, the combined entity is unlikely to have the ability to engage in customer
+foreclosure because it would not constitute an important customer for the upstream
+FDP markets in Germany. In particular, Disapo's market share of the relevant
+downstream national market is less than 5%.
 
+218
+219
 
+Form CO, footnote 104.
 
+See response in RFI 15, tables 1,2 and 3. For instance, in Germany, at the 10F3 CHC3 class available
+products include Symbiolact (Symbiopharm) with a value share of 7.2% and Arterin (Perrigo) with a
+value share of 7.1%. Similarly, at the 82G4 CHC3 class, available products include Biomed (Skin
+Doctors) holding a value share of 31.1%, and Australian Bodycare and Intim (Bergland Pharma) each
+with a value share of 0.6%. At the 85D1 CHC3 class, available products include Vagisan (Dr. Wolff)
+with a 29.5% value share and Deumavan (Kaymogyn) with an 8.0% value share.
 
-
-                                                        53
 
 [PÁGINA PDF 55]
 (286)   Fourth, the combined entity has no incentive to engage in such a foreclosure
@@ -3836,158 +4064,92 @@ Agreement.
                                            62
 
 [PÁGINA PDF 64 | texto OCR: verificar contra el PDF]
-                         Appendix 1
+Appendix 1
 
+Product category | Group Country Affected at ATC3 Affected at Affected at molecule
+CHC3 ATC4/CHC4 level
+level level
 
-
-
-Product category | Group     Country       Affected at ATC3            Affected at        Affected at molecule
-                                        CHC3        ATC4/CHC4       level
-
-                                                                     level              level
-
-
-Antiseptics  and                                           ¥     (06B2L)
+Antiseptics and | 2 France ¥  (06B2L)
 disinfectants
-
-
-Mouth      pain                 Italy        ¥   (02D1)         ¥   (02D1Z)
+Mouth pain | 2 Italy ¥ (02D1) ¥  (02D1Z)
 relief
-
-
-Topical                            Italy        ¥     (10B2)         ¥     (10B20)
+Topical 2 Italy ¥ (10B2) ¥ _(10B20)
 Antivaricose
-
-
-Magnesium                       Italy                          ¥     (04F3P)         ¥     (04F3P -
-supplements                                                                            magnesium)
-
-Antispasm+Anti                Portugal           vv   (A3A)
+Magnesium 2 Italy ¥  (04F3P) ¥  (04F3P -
+supplements magnesium)
+Antispasmt+Anti | 2 Portugal ¥  (A3A)
 chol plain
-
-
-
-
-Antifungals   for              Belgium                       ¥     (06G2L)
+Antidotes 2 Slovakia ¥  (W3E)
+Antifungals for | 3 Belgium ¥  (06G2L)
 nails
-
-
-Antiseptics  and                                         ¥   (S1G6)
+Antiseptics and | 3 France ¥  (S1G6)
+disinfectants
+Antiseptics and | 3 Italy ¥ (8A)
 disinfectants
 
-
-Antiseptics  and                 Italy         ¥   (8A)
-disinfectants
-
-                                    ¥    _(06B2)
-
-
-
-
-
-Antifungals   for                                        ¥     (06G2L)
+¥ _(06B2)
+Wound healing 3 Netherlands | ~ (D3A)
+Antifungals for | 3 Spain ¥  (06G2L)
 nails
-
-
-Antifungals   for | 3          Belgium      ¥     (06G2)
+Antifungals for | 3 Belgium ¥  (06G2)
 nails
-
-
-Sore      throat | 3                                        v¥   (R2A)
+Sore throat | 3 France ¥ (R24)
 remedies
-
-
-Sore      throat | 3             Italy        v   (R2A)
+Sore throat | 3 Italy ¥ (R24)
 remedies
-
-
-Adult                        France       ¥      _(87B3)
+Adult 3 France ¥  (87B3)
 mouthwashes
-
-
-Topical                       France                        ¥    (@Wé6D1)         ¥   (Wé6D1-
-antivirals                                                                                                        aciclovir)
-
-Antiparasitic                                              ¥     (86H1E)
+Topical 3 France ¥ (@é6D1) ¥ (@Wé6D1-
+antivirals aciclovir)
+Antiparasitic 3 France ¥  (86HI1E)
 haircare
 products
-
-
-Drugs         for            Germany                                            vy   (A6A6)
+Drugs for | 3 Germany ¥  (A6A6)
 constipation
 
-                                                     ¥    (03C2M)
+¥  (03C2M)
 
-
-Drugs         for                 Italy                          ¥     (A6A6)
+Drugs for | 3 Italy ¥  (A6A6)
 constipation
-
-Drugs         for | 3           Portugal      ¥     (03C2)          v   (A6A6)
+Drugs for | 3 Portugal ¥ _(03C2) ¥  (A6A6)
 constipation
 
 
-
-
-
-                                              63
 
 [PÁGINA PDF 65 | texto OCR: verificar contra el PDF]
-Product category | Group     Country       Affected at ATC3           Affected at        Affected at molecule
-                                       CHC3        ATC4/CHC4       level
-                                                                     level              level
-
-
-Wart/      corn | 3         Germany                      ¥     (06L1L)
-removal
-
-products
-
-Wart/      corn | 3           Portugal                        ¥     (06L1Z)
+Product category | Group Country Affected at ATC3 Affected at Affected at molecule
+CHC3 ATC4/CHC4 level
+level level
+Wart/ corn | 3 Germany ¥  (06L1L)
 removal
 products
-
-
-Magnesium                       Italy        ¥    _(04F3)
+Wart/ corn | 3 Portugal ¥  (06L1Z)
+removal
+products
+Magnesium 3 Italy ¥  (04F3)
 supplements
-
-
-
-
-Cholesterol                        Italy        ¥    (10F3)         ¥     (10F3C)
+Eye antiallergics | 3 Italy ¥ (07A2) ¥  (07A2N)
+Cholesterol 3 Italy ¥  (10F3) ¥  (10F3C)
 products
-
-
-
-Intimate                           Italy        ¥   (85D1)
+Intimate 3 Italy ¥ (85D1)
 detergents
-
-
-Sore      throat                 Italy                           ¥     (01C1A)
+Sore throat | 3 Italy ¥  (01C1A)
 remedies
-
-
-Herpes              3             Italy                                           ¥ = (J5B3 -
-Antivirals                                                                                                       aciclovir)
-
-Calcium            3         Luxembour      vy    (Al12A)                            ¥   (A12A0-
-                                g                                                                     calcium/colecal
-                                                                                                                        ciferol)
-
-Drugs         for | 3         Luxembour       vy   (A6A)
-constipation                    g
-
-Chest Rubs and | 3           Netherlands   ¥     (01B3)
+Herpes 3 Italy ¥  (J5B3 -
+Antivirals aciclovir)
+Calcium 3 Luxembour | Y  (A12A) vy (Al12A0-
+g calcium/colecal
+ciferol)
+Drugs for | 3 Luxembour | ¥  (A6A)
+constipation g
+Chest Rubs and | 3 Netherlands | ~ (01B3)
 Other Inhalants
-
-
-Mouth      pain | 3           Portugal     ¥   (02D1)         ¥     (02D1Z)
+Mouth pain | 3 Portugal ¥ (02D1) ¥  (02D1Z)
 relief
+Antidotes 3 Spain ¥ (V3E)
 
 
-
-
-
-                                               64
 
 [PÁGINA PDF 66]
      CASE M.11383 – COOPER / VIATRIS (EUROPEAN OTC BUSINESS)
@@ -4750,66 +4912,133 @@ duly authorised for and on behalf of Viatris Inc.
                                                            14
 
 [PÁGINA PDF 80 | texto OCR: verificar contra el PDF]
-                        SCHEDULES
+SCHEDULES
 
+Schedule A (Bebegel)
 
-                                Schedule A (Bebegel)
+1. The Bebegel Divestment Business consists of the rights, title and interests in Bebegel
+including the right to develop, manufacture and use Bebegel with a view to its sale
+and marketing in any form in Portugal and, at the Purchaser's option, in France.
+Bebegel is used to treat constipation in infants.
 
-1.     The Bebegel Divestment Business consists of the rights, title and interests in Bebegel
-       including the right to develop, manufacture and use Bebegel with a view to its sale
-      and marketing in any form in Portugal and,  at the Purchaser's option, in France.
-      Bebegel is used to treat constipation in infants.
+2. The Bebegel Divestment Business includes the transfer of all assets predominantly or
+exclusively used for the purposes of marketing Bebegel in Portugal and, at the
+Purchaser's option, in France. It includes in particular:
 
-2.     The Bebegel Divestment Business includes the transfer of all assets predominantly or
-       exclusively used for the purposes of marketing Bebegel  in Portugal and,  at the
-       Purchaser's option, in France. It includes in particular:
+(a)
+(b)
 
-         (a)       existing Bebegel finished product inventory, sales and promotional material
-                  to the extent available;
-        (b)        all Bebegel-related contracts, commitments, and customer records, meaning
-              customer  credit records, customer invoices, purchase orders and contact
-                   details, redacting from such material any information which is not related to
-               Bebegel;!
-         (c)      the transfer of the marketing authorization for Bebegel in Portugal and, at the
-                Purchaser's option, in France, including all relevant dossiers, as well as the
-               information contained in the relevant full registration dossier(s), relating to
-                 the current and/or pending marketing authorizations available to the Parties;
-        (d)     an iurevocable,  assignable,  sub-licensable and royalty-free  license  for  all
-                relevant  intellectual  property  rights,  data  books,  records  and  effective
-               arrangements for the transfer of all know-how to the extent that these are
-                 related to the development, manufacture, use of the Bebegel Divestment
-                Business;
-         (e)        all  advertising,  marketing,  sales,  publicity  and  presentational  materials
-                 related to the Bebegel Divestment Business, as applicable; and
-         (f)       a full transfer of any trademarks related to the Bebegel Divestment Business
-              and relating to any EU Member State or States (set out at Table  1 below)
-                 except, at the Purchaser's option, trademarks relating to France and French
-                Polynesia.
+(c)
 
-                    Table 1: Trademarksfor the Bebegel Divestment Business
+(d)
 
+(e)
+(f)
 
-Trademark | Country    Application  | Application  | Registration | Registration |Renewal
-                          #             Date          =             Date         Date
+existing Bebegel finished product inventory, sales and promotional material
+to the extent available;
 
+all Bebegel-related contracts, commitments, and customer records, meaning
+customer credit records, customer invoices, purchase orders and contact
+details, redacting from such material any information which is not related to
+Bebegel:!
 
+the transfer of the marketing authorization for Bebegel in Portugal and, at the
+Purchaser's option, in France, including all relevant dossiers, as well as the
+information contained in the relevant full registration dossier(s), relating to
+the current and/or pending marketing authorizations available to the Parties;
+an irrevocable, assignable, sub-licensable and royalty-free license for all
+relevant intellectual property rights, data books, records and effective
+arrangements for the transfer of all know-how to the extent that these are
+related to the development, manufacture, use of the Bebegel Divestment
+Business;
 
+all advertising, marketing, sales, publicity and presentational materials
+related to the Bebegel Divestment Business, as applicable; and
 
-BEBEGEL | French      1284471        09/19/1984  | 1284471        09/19/1984 | 09/19/2024  | Registered
-                Polynesia
+a full transfer of any trademarks related to the Bebegel Divestment Business
+and relating to any EU Member State or States (set out at Table 1 below)
+except, at the Purchaser's option, trademarks relating to France and French
+Polynesia.
 
+Table 1: Trademarks for the Bebegel Divestment Business
 
+Trademark
 
+Country
 
+Application
+#
+
+Application
+Date
+
+Registration
+#
+
+Registration
+Date
+
+Renewal
+Date
+
+Status
+
+BEBEGEL
+
+Portugal
+
+187492
+
+09/27/1974
+
+187492
+
+02/10/1982
+
+09/27/2024
+
+Registered
+
+BEBEGEL
+
+France
+
+1284471
+
+09/19/1984
+
+1284471
+
+09/19/1984
+
+09/19/2024
+
+Registered
+
+BEBEGEL
+
+French
+Polynesia
+
+1284471
+
+09/19/1984
+
+1284471
+
+09/19/1984
+
+09/19/2024
+
+Registered
 
 ! The Parties will include customer lists and records in the Bebegel Divestment Business, but not provide any
 accounts receivable or payable.
 
+15
 
 
-
-
-                                                                       15
 
 [PÁGINA PDF 81]
 3.    The  Parties  will  transfer  all  information  (orders,  price,  etc.) concerning  their
@@ -4925,67 +5154,152 @@ accounts receivable or payable.
                                                            17
 
 [PÁGINA PDF 83 | texto OCR: verificar contra el PDF]
-13.     If there are any assets or personnel which are not covered by paragraph 9 of this
-       Schedule but which are both used (exclusively or not) in the Otowaxol Divestment
-       Business and necessary  for  the  continued  viability and competitiveness  of the
-      Otowaxol Divestment Business, that asset or an adequate substitute will be offered by
-      Cooper to the Purchaser.
+13. ‘If there are any assets or personnel which are not covered by paragraph 9 of this
+Schedule but which are both used (exclusively or not) in the Otowaxol Divestment
+Business and necessary for the continued viability and competitiveness of the
+Otowaxol Divestment Business, that asset or an adequate substitute will be offered by
 
-                   Table 2: Trademarks for the Otowaxol Divestment Business
+Cooper to the Purchaser.
+
+Table 2: Trademarks for the Otowaxol Divestment Business
+
+Trademark
+
+Country
+
+Application
+#
+
+Application
+Date
+
+Registration
+#
+
+Registration
+Date
+
+Renewal
+Date
+
+Status
+
+OTOWAXOL
+
+Germany
+
+N15578
+
+10/11/1977
+
+976545
+
+09/18/1978
+
+10/31/2027
+
+Registered
+
+WAXSOL
+
+Treland
+
+B72169
+
+06/02/1967
+
+B72169
+
+06/02/1967
+
+06/02/2032
+
+Registered
+
+OTOWAXOL
+
+World
+Intellectual
+Property
+Organization
+(WIPO).
+covers
+Austria,
+Benelux,
+Morocco
+Switzerland
+
+445517
+
+06/18/1979
+
+445517
+
+06/18/1979
+
+06/18/2029
+
+Registered
+
+WAXSOL
+
+Malta
+
+12478
+
+02/05/1976
+
+12478
+
+WAXSOL
+
+Greece
+
+43374
+
+01/23/1970
+
+43374
+
+WAXSOL
+
+Benelux
+Office for
+Intellectual
+Property
+(BOIP)
+
+0331345
+
+03/05/1975
+
+0331345
+
+WAXSOL
+
+France
+
+1410977
+
+05/27/1987
+
+1410977
+
+WAXSOL
+
+WIPO,
+covers
+Austria,
+BOIP,
+Switzerland,
+Monaco
+
+435287B
+
+02/03/1978
+
+435287B
+
+18
 
 
-Trademark    Country      Application | Application | Registration | Registration  | Renewal
-                             #            Date         #            Date         Date
-
-OTOWAXOL               N15578        10/11/1977   | 976545        09/18/1978     10/31/2027
-
-WAXSOL                  B72169       06/02/1967  | B72169        06/02/1967  | 06/02/2032
-
-OTOWAXOL | World        445517        06/18/1979  | 445517        06/18/1979 | 06/18/2029 | Registered
-                   Intellectual
-
-                 Property
-                 Organization
-               (WIPO),
-
-                 covers
-
-                  Austria,
-
-                Benelux,
-
-              Morocco
-
-                 Switzerland
-
-
-
-
-
-WAXSOL      Benelux       0331345       03/05/1975  | 0331345
-                 Office    for
-
-                   Intellectual
-
-                 Property
-               (BOIP)
-
-
-
-WAXSOL     WIPO,       435287B      02/03/1978  | 435287B
-
-                 covers
-
-                  Austria,
-
-              BOIP,
-
-                  Switzerland,
-
-             Monaco
-
-
-
-
-
-                                                                       18

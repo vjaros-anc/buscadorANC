@@ -1,16 +1,17 @@
 {
   "version_esquema": 1,
-  "version_extractor": "1.1.0",
+  "version_extractor": "1.2.0",
   "configuracion": {
-    "version_extractor": "1.1.0",
+    "version_extractor": "1.2.0",
     "pymupdf": "2.0",
     "metodo": "get_text(text, sort=True)",
     "min_caracteres": 30,
     "ocr": true,
-    "ocr_dpi": 300
+    "ocr_dpi": 300,
+    "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
   },
   "sha256_pdf": "dc9672c36615401e0fedce0d6856fa06adf3a2d80f4ef5331ba79803b4abd140",
-  "extraido_utc": "2026-10-22T19:41:15+00:00",
+  "extraido_utc": "2026-10-22T21:33:02+00:00",
   "metadatos_pdf": {
     "format": "PDF 1.7",
     "title": "",

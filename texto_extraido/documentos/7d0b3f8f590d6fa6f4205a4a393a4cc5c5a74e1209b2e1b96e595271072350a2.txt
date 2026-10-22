@@ -2031,370 +2031,509 @@ Whereas:
                                      37
 
 [PÁGINA PDF 40 | texto OCR: verificar contra el PDF]
-       Xbox remain relevant for assessing the structure of the market for game development
-         and publishing of console games.
+(160)
 
- (160)   Therefore, the Commission has relied on metrics such as MAU and game time only
-           for an indication of the market structure and the competitive importance of both the
-         merging parties and their competitors, in the affected markets and sub-segments that
-         given the Parties’  significant position and third party complaints related to such
-         markets required a more detailed assessment.
+7.2.1.
+(161)
 
-  7.2.1.   Development andpublishing ofconsole andPC video games
+(162)
 
- (161)   Other than for the overall market shares by platform in Table  1, the worldwide and
-        EEA-wide market shares by revenue for 2020, 2021 and 2022 compiled in Tables 2-
-         6 below concern only segments of the markets for development and publishing of
-         video games and distribution of video games, which have been identified as affected
-         because the Parties’ combined market shares exceed 20% by revenue in 2022 on
-           either the worldwide or EEA-wide level.
+Xbox remain relevant for assessing the structure of the market for game development
+and publishing of console games.
 
- (162)   Tables 2-6 provide an overview of both worldwide and EEA-wide market shares for
-         each affected product market.
+Therefore, the Commission has relied on metrics such as MAU and game time only
+for an indication of the market structure and the competitive importance of both the
+merging parties and their competitors, in the affected markets and sub-segments that
+given the Parties’ significant position and third party complaints related to such
+markets required a more detailed assessment.
 
- Table 1: AAA game development and publishing market (WW and EEA, 2020 — 2022, by revenue)'* 1°°
-          Party  fe
+Development and publishing of console and PC video games
+
+Other than for the overall market shares by platform in Table 1, the worldwide and
+EEA-wide market shares by revenue for 2020, 2021 and 2022 compiled in Tables 2-
+6 below concern only segments of the markets for development and publishing of
+video games and distribution of video games, which have been identified as affected
+because the Parties’ combined market shares exceed 20% by revenue in 2022 on
+either the worldwide or EEA-wide level.
+
+Tables 2-6 provide an overview of both worldwide and EEA-wide market shares for
+each affected product market.
+
+Table 1: AAA game development and publishing market (WW and EEA, 2020 — 2022, by revenue)'** 16
+
+ww EEA |
+Party
+2020 | 2021 | — 2022 Le Ee a
+PC
+
+Microsoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision [5-10]% [5-10]% [5-10]% [10-20]% [10-20]% [5-10]%
+Combined [10-20]}% |  [10-20]% [10-20]% [10-20]}% |  [10-20}% | [10-20]%
+Tencent [30-40]% [20-30]% [20-30]% [20-30]% [20-30]% [10-20]%
+Valve Corporation [5-10]% [10-20]% [10-20]% [20-30]% [20-30]% [30-40]%
+NetEase [5-10]% [5-10]% [5-10]% / / /
+SmileGate [5-10]% [5-10]% [5-10]% [0-5]% [0-5]% [0-5]%
+EA [5-10]% [5-10]% [5-10]% [5-10]% [10-20]% [10-20]%
+pmbrace (THQ) ~ Perfect | [9.51% [0-5]% [5-10]% [5-10]% [10-20]% [10-20]%
+TakeTwo [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Ubisoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Wargaming net [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Epic Games [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Others [10-20]% [10-20]% [10-20]% [5-10]% [5-10]% [0-5]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+
+155
+
+156
+
+To provide estimates for the 2022 revenue shares for the markets for development and publishing of
+games on console and PC, the Notifying Party used actual revenues for the Parties and linear
+forecasting wherever data is not available. All other third-party publishers are calculated based on a
+linear forecast of 2021 over 2020 revenues.
+
+Nothing in the case file suggests that market shares for development and publishing of AAA games on
+this segment are substantially different compared to market shares that consider both AAA and non-
+AAA games in this segment. Therefore, the Commission provides only those market shares that include
+
+only AAA games.
+
+38
 
 
-
-
-Netese   |store |  estore [tse |
-
-
- WorldEmbrace (THQ) — Perfect |   19575,         [0-5]%          [5-10]%        [5-10]%       [10-20]%      [10-20]%
-
-
-
-
-
-  195     To provide estimates for the 2022 revenue shares for the markets for development and publishing of
-        games on console and PC,  the Notifying  Party used  actual revenues  for the  Parties and  linear
-           forecasting wherever data is not available. All other third-party publishers are calculated based on a
-           linear forecast of 2021 over 2020 revenues.
-  156      Nothing in the case file suggests that market shares for development and publishing of AAA games on
-            this segment are substantially different compared to market shares that consider both AAA and non-
-      AAA games in this segment. Therefore, the Commission provides only those market shares that include
-         only AAA games.
-
-
-
-
-                                          38
 
 [PÁGINA PDF 41 | texto OCR: verificar contra el PDF]
+Party ww EEA
+Console
+Microsoft [0-5]% [5-10]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision Blizzard [5-10]% [5-10]% [10-20]% [5-10]% [5-10]% [0-5]%
+Combined [10-20]% [10-20] % [10-20]% [5-10]% [5-10] % [5-10]%
+Nintendo [10-20]% [10-20]% [10-20]% [10-20]% [10-20]% [10-20]%
+EA [10-20]% [10-20]% [20-30]% [10-20]% [20-30]% [20-30]%
+Take Two [5-10]% [5-10]% [5-10]% [5-10]% [5-10]% [5-10]%
+Sony [10-20]% [5-10]% [5-10]% [10-20]% [5-10]% [5-10]%
+Epic Games [5-10]% [5-10]% [0-5]% [5-10]% [5-10]% [0-5-]%
+Ubisoft [5-10]% [5-10]% [5-10]% [5-10]% [5-10]% [5-10]%
+Bandai Namco [0-5]% [0-5]% [0-5]% [5-10]% [5-10]% [5-10]%
+ee {rH ~ | [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [5-10]%
+Others [5-10]% [10-20]% [10-20]% [20-30]% [20-30]% [20-30]%
+Total 100.0% 100.0% 100.0% 100,0% 100,0% 100.0%
+PC and Console
+Microsoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision Blizzard [5-10]% [5-10]% [5-10]% [5-10]% [5-10]% [5-10]%
+Combined [10-20]% [10-20] % [10-20] % [10-20] % [10-20]% [10-20] %
+Tencent [10-20]% [10-20]% [10-20]% [5-10]% [5-10]% [5-10]%
+EA [10-20]% [10-20]% [10-20]% [10-20]% [10-20]% [20-30]%
+Nintendo [10-20]% [5-10]% [5-10]% [5-10]% [5-10]% [5-10]%
+Take Two [5-10]% [5-10]% [5-10]% [0-5]% [0-5]% [0-5]%
+Valve Corporation [0-5]% [5-10]% [5-10]% [5-10]% [10-20]% [10-20]%
+Epic Games [0-5]% [0-5]% [0-5]% [5-10]% [0-5]% [0-5]%
+Embracer (THQ) -]  [0-5]% [0-5]% [0-5]% [0-5]% [5-10]% [5-10]%
 Perfect World
-
-
-
-
+Others [30-40]% [30-40]% [30-40]% [30-40]% [20-30]% [20-30]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
 
 Source: Form CO (Annex 91) and Reply to RFI 29 (Annex 4)
 
-(163)   The market share information shows that Microsoft is a small player in the market of
-        development and publishing of AAA games, across all platforms and geographical
-         segmentations.  Its market shares  in 2022 were equal or below [0-5]%, with the
-        exception of console [0-5]% and PC and console [0-5]% worldwide only. While
-         Activision Blizzard’s shares by revenue were consistently below [5-10]% in 2022,
-        with the exception of console worldwide ([{10-20]%), the Commission notes that
-         Activision Blizzard has managed to consolidate  its position as an important video
-        games’ publisher worldwide. In the EEA, Activision Blizzard’s share of the market
-        has progressively decreased, going from [10-20]% in 2020 to [5-10]% 2022 on PC
-        and from [5-10]% to [0-5]% in the same period on console. Accordingly, the same
-         trend is observable in the Parties’ combined shares across all platforms and for PC
-        and console together.
+(163)
 
-(164)   Tencent and Valve are the largest players in development and publishing on AAA
-      PC video games by revenue, followed by a wide range of smaller players, with
+(164)
 
+The market share information shows that Microsoft is a small player in the market of
+development and publishing of AAA games, across all platforms and geographical
+segmentations. Its market shares in 2022 were equal or below [0-5]%, with the
+exception of console [0-5]% and PC and console [0-5]% worldwide only. While
+Activision Blizzard’s shares by revenue were consistently below [5-10]% in 2022,
+with the exception of console worldwide ([10-20]%), the Commission notes that
+Activision Blizzard has managed to consolidate its position as an important video
+games’ publisher worldwide. In the EEA, Activision Blizzard’s share of the market
+has progressively decreased, going from [10-20]% in 2020 to [5-10]% 2022 on PC
+and from [5-10]% to [0-5]% in the same period on console. Accordingly, the same
+trend is observable in the Parties’ combined shares across all platforms and for PC
+and console together.
 
+Tencent and Valve are the largest players in development and publishing on AAA
+PC video games by revenue, followed by a wide range of smaller players, with
 
-                                        39
+39
+
 
 [PÁGINA PDF 42 | texto OCR: verificar contra el PDF]
-            shares around (EA and Embracer in the EEA) or below [10-20]%. On console, EA is
-            the market leader both globally ([20-30]%) and in the EEA ([20-30]), with Nintendo
-           ranking second. EA’s shares have increased since 2020, while Nintendo’s have
-           declined both globally and, to a lesser extent, in the EEA. As for console, besides EA
-          and Nintendo, the market is divided between a long tail of small players. Finally,
-         when we look  at the broader market segmentation of PC and console, EA and
-          Tencent are the two largest players worldwide by revenue ([{10-20]% and [10-20]%),
-            closely followed by the Parties, with a combined share in 2022 of [10-20]%. In the
-         EEA, the difference that separates the  first player, EA, and the second, Valve  is
-             larger, with a share gap of around [0-5]%. The Parties account for [5-10]% of the
-             total market by revenue (with a declining trend over the 2020-2022 time period).
+(165)
 
-   (165)   Table 2, Table 3, Table 4 and Table 5 set out the Parties’ and their main competitors’
-          market shares, in value (by revenue), within the broader market for development and
-           publishing of console and PC video games segmented by game type (AAA games)
-          and game genre, both in the EEA and worldwide,  for 2020, 2021 and 2022. In
-             particular, the tables provide an overview of the Parties’ and their main competitors’
-            shares of AAA games within the following horizontally affected genre sub-segments
-         on the relevant platforms: role-playing, racing and flying, action and adventure, and
-            shooter.!*”
+shares around (EA and Embracer in the EEA) or below [10-20]%. On console, EA is
+the market leader both globally ([20-30]%) and in the EEA ([20-30]), with Nintendo
+ranking second. EA’s shares have increased since 2020, while Nintendo’s have
+declined both globally and, to a lesser extent, in the EEA. As for console, besides EA
+and Nintendo, the market is divided between a long tail of small players. Finally,
+when we look at the broader market segmentation of PC and console, EA and
+Tencent are the two largest players worldwide by revenue ([10-20]% and [10-20]%),
+closely followed by the Parties, with a combined share in 2022 of [10-20]%. In the
+EEA, the difference that separates the first player, EA, and the second, Valve is
+larger, with a share gap of around [0-5]%. The Parties account for [5-10]% of the
+total market by revenue (with a declining trend over the 2020-2022 time period).
 
-   Table  2: Development and publishing of AAA  role-playing games (WW and EEA, 2020-2022, by
-   revenue)!*5 159
+Table 2, Table 3, Table 4 and Table 5 set out the Parties’ and their main competitors’
+market shares, in value (by revenue), within the broader market for development and
+publishing of console and PC video games segmented by game type (AAA games)
+and game genre, both in the EEA and worldwide, for 2020, 2021 and 2022. In
+particular, the tables provide an overview of the Parties’ and their main competitors’
+shares of AAA games within the following horizontally affected genre sub-segments
+on the relevant platforms: role-playing, racing and flying, action and adventure, and
+shooter.1°’
 
-       Party    | 200 |tors]?| 00S] ton | 20?
+Table 2: Development and publishing of AAA role-playing games (WW and EEA, 2020-2022, by
+revenue)'** °°
+
+L ww EEA
+Party
+
+2020 2021 2022 2020 2021 2022
+
+PC
+
+Microsoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision [10-20]% [10-20]% [10-20]% [30-40]% [30-40]% [30-40]%
+Combined [10-20]% [10-20]% [10-20]% [40-50]% [30-40] % [30-40] %
+NetEase [20-30]% [20-30]% [20-30]% / / /
+Nexon [20-30]% [10-20]% [10-20]% [0-5]% [0-5]% [0-5]%
+Tencent [5-10]% [10-20]% [10-20]% [10-20]% [10-20]% [10-20]%
+ere [0-5]% [5-10]% [5-10]% [10-20]% [20-30]% [30-40]%
+Others [20-30]% [10-20]% [10-20]% [20-30]% [10-20]% [10-20]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+
+Source: Reply to RFI 26, Annex 3
+
+(166)
+
+The market shares information shows that Microsoft is a small player in the
+development and publishing of AAA games with role playing elements on PC, with
+
+157
+158
+
+159
+
+These are also the narrowest plausible markets.
+
+To provide estimates for the 2022 revenue shares for the markets for development and publishing of
+games on console and PC, the Notifying Party used actual revenues for the Parties and linear
+forecasting wherever data is not available. All other third-party publishers are calculated based on a
+linear forecast of 2021 over 2020 revenues.
+
+Nothing in the case file suggests that market shares for development and publishing of AAA games on
+this segment are substantially different compared to market shares that consider both AAA and non-
+AAA games in this segment. Therefore, the Commission provides only market shares that include only
+AAA games for this segment.
+
+40
 
 
-
-Netese | oso |  osore  | pos |   / |
-
-
-
-
-
-   Source: Reply to RFI 26, Annex 3
-
-   (166)   The market  shares  information shows  that Microsoft  is  a  small player  in  the
-          development and publishing of AAA games with role playing elements on PC, with
-
-
-   17      These are also the narrowest plausible markets.
-   18     To provide estimates for the 2022 revenue shares for the markets for development and publishing of
-          games on console and PC,  the Notifying Party used  actual revenues  for the  Parties and  linear
-             forecasting wherever data is not available. All other third-party publishers are calculated based on a
-             linear forecast of 2021 over 2020 revenues.
-   19      Nothing in the case file suggests that market shares for development and publishing of AAA games on
-              this segment are substantially different compared to market shares that consider both AAA and non-
-       AAA games in this segment. Therefore, the  Commission provides only market shares that include only
-       AAA games for this segment.
-
-
-
-
-
-                                        40
 
 [PÁGINA PDF 43 | texto OCR: verificar contra el PDF]
-          [0-5]% globally and [0-5]% in EEA in 2022. Moreover, Microsoft’s market share has
-          decreased in the period from 2020 to 2022 both globally and in EEA. However,
-           Activision Blizzard is one of the top-3 players worldwide, accounting for [10-20]%
-          of the market total revenues in 2022. Despite a decline from [30-40]% in 2020 to
-          [30-40]% in 2022, Activision Blizzard  is the first player in the EEA. The Parties’
-         combined higher  share  in  the EEA,  [30-40]% compared  to [10-20]%  in 2022
-          worldwide, are due to a lower penetration of publishers like NetEase and Nexon in
-           the EEA, that are the first ([20-30]%) and second ([10-20]%) largest players in the
-         worldwide market. Nevertheless, the Parties in the EEA compete against two large
-           players, Embracer  ([30-40]%)  and Tencent  ([10-20]%).  Their  rapid growth —
-         Embracer especially in two years has more than doubled its shares — overlaps with
-           the Parties’ decrement.
+[0-5]% globally and [0-5]% in EEA in 2022. Moreover, Microsoft’s market share has
+decreased in the period from 2020 to 2022 both globally and in EEA. However,
+Activision Blizzard is one of the top-3 players worldwide, accounting for [10-20]%
+of the market total revenues in 2022. Despite a decline from [30-40]% in 2020 to
+[30-40]% in 2022, Activision Blizzard is the first player m the EEA. The Parties’
+combined higher share in the EEA, [30-40]% compared to [10-20]% in 2022
+worldwide, are due to a lower penetration of publishers like NetEase and Nexon in
+the EEA, that are the first ([20-30]%) and second ([10-20]%) largest players in the
+worldwide market. Nevertheless, the Parties in the EEA compete against two large
+players, Embracer ([30-40]%) and Tencent ([10-20]%). Their rapid growth —
+Embracer especially in two years has more than doubled its shares — overlaps with
+the Parties’ decrement.
 
-  Table 3: Development and publishing of AAA racing and flying games (WW and EEA, 2020-2022, by
-  revenue)!
-PartySeeee
+Table 3: Development and publishing of AAA racing and flying games (WW and EEA, 2020-2022, by
+revenue)!
+ww EEA
+Party
+2020 2021 2022 2020 2021 2022
+PC
+Microsoft [30-40]% [30-40]% [20-30]% [20-30]% [20-30]% [10-20]%
+Activision Blizzard [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Combined [30-40] % [30-40] % [20-30]% [20-30]% [20-30]% [10-20] %
+Babess (THO) - [30-40]% [30-40]% [20-30]% [50-60]% [50-60]% [60-70]%
+EA [5-10]% [5-10]% [5-10]% [5-10]% [5-10]% [5-10]%
+Others [20-30]% [20-30]% [20-30]% [5-10]% [5-10]% [0-5]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Console
+Microsoft [10-20]% [20-30]% [10-20]% [10-20]% [20-30]% [10-20]%
+Activision Blizzard [5-10]% [5-10]% [10-20]% [5-10]% [5-10]% [0-5]%
+Combined [30-40]% [30-40]% [20-30]% [20-30]% [20-30]% [10-20]%
+Nintendo [40-50]% [30-40]% [30-40]% [30-40]% [20-30]% [10-20]%
+Embracer (THQ) - “50 101° 0, 207° -20]° -20]°
+Perfect World [0-5]% [5-10]% [10-20]% [10-20]% [10-20]% [10-20]%
+EA [10-20]% [5-10]% [10-20]% [5-10]% [10-20]% [30-40]%
+Others [10-20]% [10-20]% [10-20]% [30-40]% [30-40]% [20-30]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+PC and Console
+Microsoft [20-30]% [30-40]% [20-30]% [10-20]% [20-30]% [10-20]%
+Activision Blizzard [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Combined [20-30]% [30-40]% [20-30]% [10-20]% [20-30]% [10-20]%
+Nintendo [30-40]% [20-30]% [20-30]% [20-30]% [10-20]% [10-20]%
+Embracer (THQ) - [10-20]% [10-20]% [20-30]% [20-30]% [20-30]% [40-50]%
+160 To provide estimates for the 2022 revenue shares for the markets for development and publishing of
 
+games on console and PC, the Notifying Party used actual revenues for the Parties and linear
+forecasting wherever data is not available. All other third-party publishers are calculated based on a
+linear forecast of 2021 over 2020 revenues.
 
+4l
 
-
-
-    160     To provide estimates for the 2022 revenue shares for the markets for development and publishing of
-         games on console and PC,  the Notifying  Party used  actual revenues  for the  Parties and  linear
-            forecasting wherever data is not available. All other third-party publishers are calculated based on a
-            linear forecast of 2021 over 2020 revenues.
-
-
-
-
-                                            41
 
 [PÁGINA PDF 44 | texto OCR: verificar contra el PDF]
-        Party  Se
-aCC
+ww EEA
+Party
+2020 2021 2022 2020 2021 2022
+Perfect World
+Others [30-40]% [20-30]% [20-30]% [30-40]% [30-40]% [20-30]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
 
+Source: Reply to RFI 26, Annex 3
 
+(167)
 
+(168)
 
+Within the narrow market of AAA games with flying and racing elements, Activision
+Blizzard’s share estimated to be around [0-5]% on PC and, respectively, [0-5]%
+globally and [0-5]% in the EEA on console in 2022. On the other hand, Microsoft
+has a market share on PC of [20-30]% worldwide and [10-20]% in the EEA, while
+on console the shares decrease to [10-20]% and [10-20]%.
 
-  Source: Reply to RFI 26, Annex 3
+Embracer is the largest player in the market for developing and publishing on PC and
+console of AAA games with flying and racing elements, who has more than doubled
+its market shares, going from [10-20]% in 2020 to [20-30]% 2022 globally and from
+[20-30]% to [40-50]% in the EEA. The Parties’ combined share amounts to [20-
+30]% worldwide and [10-20]% in the EEA in 2022, granting the Parties the role of
+second biggest player worldwide and EEA-wide.
 
-  (167)   Within the narrow market ofAAA games with flying and racing elements, Activision
-           Blizzard’s share estimated to be around [0-5]% on PC and, respectively, [0-5]%
-           globally and [0-5]% in the EEA on console in 2022. On the other hand, Microsoft
-          has a market share on PC of [20-30]% worldwide and [10-20]% in the EEA, while
-         on console the shares decrease to [10-20]% and [10-20]%.
+Table 4: Development and publishing of AAA action and adventure games (WW and EEA, 2020-2022, by
 
-  (168)   Embracer is the largest player in the market for developing and publishing on PC and
-          console of AAA games with flying and racing elements, who has more than doubled
-               its market shares, going from [10-20]% in 2020 to [20-30]% 2022 globally and from
-          [20-30]% to [40-50]% in the EEA. The Parties’ combined share amounts to [20-
-         30]% worldwide and [10-20]% in the EEA in 2022, granting the Parties the role of
-          second biggest player worldwide and EEA-wide.
+revenue)! 1%
 
-  Table 4: Development and publishing of AAA action and adventure games (WW and EEA, 2020-2022, by
-  revenue)!® 16
+; ww EEA |
+Party
+2020 2021 2022 2020 2021 2022
+Console
+Microsoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision Blizzard [10-20]% [10-20]% [20-30]% [10-20]% [10-20]% [5-10]%
+Combined [20-30] % [20-30]% [20-30]% [10-20]% [10-20]% [10-20]%
+Sony [20-30]% [10-20]% [5-10]% [10-20]% [5-10]% [5-10]%
+Epic Games [10-20]% [10-20]% [5-10]% [10-20]% [10-20]% [5-10]%
+Nintendo [5-10]% [5-10]% [5-10]% [5-10]% [5-10]% [5-10]%
+Others [30-40]% [40-50]% [50-60]% [40-50]% [50-60]% [60-70]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+PC and Console
+Microsoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision Blizzard [10-20]% [10-20]% [10-20]% [10-20]% [10-20]% [5-10]%
+Combined [10-20] % [10-20] % [20-30] % [10-20]% [10-20]% [10-20] %
+Epic Games [10-20]% [10-20]% [5-10]% [10-20]% [10-20]% [10-20]%
+Sony [10-20]% [5-10]% [5-10]% [10-20]% [5-10]% [0-5]%
 
+161
 
+To provide estimates for the 2022 revenue shares for the markets for development and publishing of
 
-           Partya
+games on console and PC, the Notifying Party used actual revenues for the Parties and linear
+forecasting wherever data is not available. All other third-party publishers are calculated based on a
 
+linear forecast of 2021 over 2020 revenues.
 
+162 Nothing in the case file suggests that market shares for development and publishing of AAA games on
+this segment are substantially different compared to market shares that consider both AAA and non-
+AAA games in this segment. Therefore, the Commission provides only market shares that include only
 
+AAA games for this segment.
 
+42
 
-    161     To provide estimates for the 2022 revenue shares for the markets for development and publishing of
-         games on console and PC,  the Notifying  Party used  actual revenues  for the  Parties and  linear
-            forecasting wherever data is not available. All other third-party publishers are calculated based on a
-            linear forecast of 2021 over 2020 revenues.
-    162      Nothing in the case file suggests that market shares for development and publishing of AAA games on
-             this segment are substantially different compared to market shares that consider both AAA and non-
-      AAA games in this segment. Therefore, the Commission provides only market shares that include only
-      AAA games for this segment.
-
-
-
-
-                                         42
 
 [PÁGINA PDF 45 | texto OCR: verificar contra el PDF]
-              ty
-
-
-
-
-
-Source: Reply to RFI 26, Annex 3
-
-(169)  On the market for development and publishing of AAA games with action and
-        adventure elements on console, Microsoft has a market share by revenue of [0-5]%
-        worldwide and [0-5]% in the EEA in 2022. Activision Blizzard’s market shares by
-        revenue have increased from [10-20]% in 2020 to [20-30]% in 2022 worldwide,
-        while they have consistently decreased in the EEA, from [10-15]% in 2020 to [10-
-       20]% in 2022. On the market for development and publishing of AAA games with
-         action and adventure elements on both console and PC, Microsoft’s market share by
-        revenue is below [0-5]% worldwide and below [0-5]% in the EEA. Similarly to the
-        console market, Activision Blizzard's market shares by revenue have increased from
-        [10-20]% in 2020 to [10-20]% in 2022 worldwide, while they have consistently
-        decreased in the EEA, from [10-20]% in 2020 to [5-10]% in 2022.
-
-(170)   Other players in the market are Epic Games with market shares by revenue of [5-
-       10]% and [10-20]% in 2022 worldwide and in the EEA respectively and Sony with
-        market shares by revenue of [5-10]% and [0-5]% in 2022 worldwide and in the EEA.
-       The majority of the market is split between other smaller competitors.
-
-Table 5: Development and Publishing ofAAA shooter games (WW and EEA, 2020-2022, by revenue)!®
-
-
-
-
-            ty
-
-
-
-
+ww EEA
+Party
+2020 2021 2022 2020 2021 2022
+Others [50-60]% [60-70]% [60-70]% [50-60]% [60-70]% [70-80]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
 
 Source: Reply to RFI 26, Annex 3
 
-(171)   Inthe market for development and publishing of AAA shooter console video games,
-         the Parties’ share of the market by revenue was [30-40]% worldwide and [10-20]%
-          in the EEA. Activision Blizzard accounts for [30-40]% and [10-20]% of the market
-        worldwide and EEA-wide, respectively. On the other hand, Microsoft represented
-        only [0-5]% of the total market revenues globally and [0-5]% in the EEA. Other
-        developers and publishers with notable market shares by revenue are Epic Games
-        and EA with more than [10-20]% market share by revenue worldwide and in the
+(169)
 
+(170)
 
+On the market for development and publishing of AAA games with action and
+adventure elements on console, Microsoft has a market share by revenue of [0-5]%
+worldwide and [0-5]% in the EEA in 2022. Activision Blizzard’s market shares by
+revenue have increased from [10-20]% in 2020 to [20-30]% in 2022 worldwide,
+while they have consistently decreased in the EEA, from [10-15]% in 2020 to [10-
+20]% in 2022. On the market for development and publishing of AAA games with
+action and adventure elements on both console and PC, Microsoft’s market share by
+revenue is below [0-5]% worldwide and below [0-5]% in the EEA. Similarly to the
+console market, Activision Blizzard's market shares by revenue have increased from
+[10-20]% in 2020 to [10-20]% in 2022 worldwide, while they have consistently
+decreased in the EEA, from [10-20]% in 2020 to [5-10]% in 2022.
 
+Other players in the market are Epic Games with market shares by revenue of [5-
+10]% and [10-20]% in 2022 worldwide and in the EEA respectively and Sony with
+market shares by revenue of [5-10]% and [0-5]% in 2022 worldwide and in the EEA.
+The majority of the market is split between other smaller competitors.
 
-163     To provide estimates for the 2022 revenue shares for the markets for development and publishing of
-       games on console and PC,  the Notifying  Party used actual revenues  for the  Parties and  linear
-         forecasting wherever data is not available. All other third-party publishers are calculated based on a
-          linear forecast of 2021 over 2020 revenues.
+Table 5: Development and Publishing of AAA shooter games (WW and EEA, 2020-2022, by revenue)!®
 
+ww EEA |
+Party
+b 2020 =| 2021 | — 2022 2020 2021 =| ~—— 2022
+Console
 
+Microsoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision Blizzard [30-40]% [20-30]% [30-40]% [20-30]% [10-20]% [10-20]%
+Combined [30-40]% |  [30-40]% [30-40] % [20-30]% [20-30]% [10-20]%
+Epic Games [20-30]% [10-20]% [10-20]% [20-30]% [10-20]% [10-20]%
+EA [5-10]% [10-20]% [20-30]% [10-20]% [20-30]% [20-30]%
+Others [20-30]% [20-30]% [20-30]% [40-50]% [40-50]% [40-50]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
 
+Source: Reply to RFI 26, Annex 3
 
-                                        43
+(171)
+
+In the market for development and publishing of AAA shooter console video games,
+the Parties’ share of the market by revenue was [30-40]% worldwide and [10-20]%
+in the EEA. Activision Blizzard accounts for [30-40]% and [10-20]% of the market
+worldwide and EEA-wide, respectively. On the other hand, Microsoft represented
+only [0-5]% of the total market revenues globally and [0-5]% in the EEA. Other
+developers and publishers with notable market shares by revenue are Epic Games
+and EA with more than [10-20]% market share by revenue worldwide and in the
+
+163 To provide estimates for the 2022 revenue shares for the markets for development and publishing of
+games on console and PC, the Notifying Party used actual revenues for the Parties and linear
+forecasting wherever data is not available. All other third-party publishers are calculated based on a
+linear forecast of 2021 over 2020 revenues.
+
+43
+
 
 [PÁGINA PDF 46 | texto OCR: verificar contra el PDF]
-          EEA. Other smaller players comprise the remaining [40-50]% of the market in the
-        EEA and [20-30]% worldwide.
+EEA. Other smaller players comprise the remaining [40-50]% of the market in the
+EEA and [20-30]% worldwide.
 
-     7.2.2.  __ Distribution ofPC and console video games
+7.2.2. Distribution of PC and console video games
 
-    (172)   Table 6 sets out the Parties’ and their main competitors’ market shares by revenue,
-            within the broader market for distribution of console and PC video games and the
-           narrower markets for distribution of PC video games on the one hand and console
-            video games on the other hand, both in the EEA and worldwide, for 2020, 2021 and
-            2022.
+(172) Table 6 sets out the Parties’ and their main competitors’ market shares by revenue,
+within the broader market for distribution of console and PC video games and the
+narrower markets for distribution of PC video games on the one hand and console
+video games on the other hand, both in the EEA and worldwide, for 2020, 2021 and
 
-    Table 6: Overall game distribution (WW and EEA, 2020 - 2022, by revenue)
-PartyEEE
+2022.
+Table 6: Overall game distribution (WW and EEA, 2020 - 2022, by revenue)
+ww EEA
+Party
+' 2020 =| 2021S | 2022 20200 =| 2021 =| 2022
+PC
+
+Microsoft [0-5]% [0-5]% [5-10]% [0-5]% [0-5]% [0-5]%
+Activision Blizzard [5-10]% [5-10]% [5-10]% [5-10]% [5-10]% [5-10]%
+Combined [10-20] % [10-20]% [10-20]% [10-20] % [10-20]% [10-20]%
+Tencent [20-30]% [20-30]% [20-30]% [10-20]% [10-20]% [10-20]%
+Valve Corporation [20-30]% [20-30]% [20-30]% [40-50]% [50-60]% [40-50]%
+NetEase [10-20]% [10-20]% [10-20]% / / /
+
+EA [0-5]% [5-10]% [5-10]% [5-10]% [5-10]% [10-20]%
+Others [10-20]% [10-20]% [20-30]% [10-20]% [10-20]% [10-20]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+
+Console
+Microsoft [30-40]% [30-40]% [30-40]% [10-20]% [10-20]% [20-30]%
+Activision Blizzard / / / / / /
+Combined [30-40] % [30-40]% [20-30]% [10-20]% [10-20]% [20-30]%
+Sony [50-60]% [50-60]% [40-50]% [60-70]% [60-70]% [60-70]%
+Nintendo [10-20]% [10-20]% [10-20]% [10-20]% [10-20]% [10-20]%
+EA [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Square Enix [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+PC and Console
+
+Microsoft [10-20]% [10-20]% [10-20]% [10-20]% [10-20]% [10-20]%
+Activision Blizzard [0-5]% [0-5]% [0-5]% [5-10]% [0-5]% [0-5]%
+Combined [20-30]% [20-30]% [20-30] % [10-20]% [10-20]% [10-20]%
+Sony [20-30]% [20-30]% [20-30]% [30-40]% [30-40]% [30-40]%
+Nintendo [5-10]% [5-10]% [5-10]% [5-10]% [5-10]% [5-10]%
+Tencent [10-20]% [10-20]% [10-20]% [5-10]% [5-10]% [5-10]%
+Valve [10-20]% [10-20]% [10-20]% [20-30]% [20-30]% [20-30]%
+Others [10-20]% [10-20]% [10-20]% [10-20]% [10-20]% [10-20]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+
+Source: Form CO (Annex 91), Reply to RFI 26 (Annex 4), Reply to RFI 29 (Annex 5).
 
 
-
-[Natwe |   tuoaope [eae  | eae [7 ff
-
-
-fasiviiontiew’ | 7 [7 ff)
-
-
-
-
-
-    Source:   Form CO (Annex 91), Reply to RFI 26 (Annex 4), Reply to RFI 29 (Annex 5).
-
-
-
-
-
-                                          44
 
 [PÁGINA PDF 47 | texto OCR: verificar contra el PDF]
- (173)   With respect to shares by revenue for overall video games distribution, the market
-         information shows that Microsoft is a small player across PC games both globally
-        and in the EEA, while its shares on console in 2022 were [20-30]% worldwide and
-         [20-30]% in the EEA. In the EEA, Microsoft has increased its shares for console
-         video games from [10-20]% in 2020 to [20-30]% to 2022. In the same time period,
-        Sony has experienced a decline  in  its EEA shares, from [60-70]% to [60-70]%.
-          Nevertheless, Sony  still holds a leading position in the market of overall games
-          distribution on console both globally and in the EEA. The third largest player  is
-         Nintendo that has maintained its market share in the last three years and currently
-         accounts for [10-20]% of the total market.
+(173)
 
- (174)  On PC, the Parties’ combined shares in 2022 accounted for [10-20]% both in the
-      EEA and worldwide.  The two  geographical  markets  differ when   it comes  to
-         competitors and their presence in the market. Valve Corporation  is the strongest
-          player in both but its shares in the EEA are substantially higher ([40-50]%) compared
-           to  its  share worldwide  ([{20-30]%).  Furthermore,  a China-based  firm, NetEase,
-         appears to be inactive in the EEA market for overall games distribution, while  its
-          shares globally account for [10-20]% of the total market.
+(174)
 
- (175)    Finally, by taking into account both platforms together, the Patties’ combined share
-           in 2022 was [20-30]% worldwide and [10-20]% in the EEA. Microsoft contributes to
-        most of  it, while Activision Blizzard’s shares cover less than [0-5]% of the total
-         market. For what concerns competition, Sony still holds a leader position, with [20-
-        30]%  shares worldwide and [30-40]%  in  the EEA. Sony  is then followed by
-         Microsoft globally ({10-20]%) and by Valve Corporation in the EEA ({20-30]%).
+(175)
 
-  7.2.3.   Supply ofPC OSs
+7.2.3.
+(176)
 
- (176)   Table 7  sets out the Parties’ and their main competitors’ market share in the market
-           for the supply of PC OSs.
+With respect to shares by revenue for overall video games distribution, the market
+information shows that Microsoft is a small player across PC games both globally
+and in the EEA, while its shares on console in 2022 were [20-30]% worldwide and
+[20-30]% in the EEA. In the EEA, Microsoft has increased its shares for console
+video games from [10-20]% in 2020 to [20-30]% to 2022. In the same time period,
+Sony has experienced a decline in its EEA shares, from [60-70]% to [60-70]%.
+Nevertheless, Sony still holds a leading position in the market of overall games
+distribution on console both globally and in the EEA. The third largest player is
+Nintendo that has maintained its market share in the last three years and currently
+accounts for [10-20]% of the total market.
 
- Table 7: Average monthly share of supply of PC OSs (WW and EEA, 2020-2022)
+On PC, the Parties’ combined shares in 2022 accounted for [10-20]% both in the
+EEA and worldwide. The two geographical markets differ when it comes to
+competitors and their presence in the market. Valve Corporation is the strongest
+player in both but its shares in the EEA are substantially higher ({40-50]%) compared
+to its share worldwide ([{20-30]%). Furthermore, a China-based firm, NetEase,
+appears to be inactive in the EEA market for overall games distribution, while its
+shares globally account for [10-20]% of the total market.
 
+Finally, by taking into account both platforms together, the Patties’ combined share
+in 2022 was [20-30]% worldwide and [10-20]% in the EEA. Microsoft contributes to
+most of it, while Activision Blizzard’s shares cover less than [0-5]% of the total
+market. For what concerns competition, Sony still holds a leader position, with [20-
+30]% shares worldwide and [30-40]% in the EEA. Sony is then followed by
+Microsoft globally ([10-20]%) and by Valve Corporation in the EEA ({20-30]%).
 
-  Operating Systemeg a a
+Supply of PC OSs
 
+Table 7 sets out the Parties’ and their main competitors’ market share in the market
+for the supply of PC OSs.
 
+Table 7: Average monthly share of supply of PC OSs (WW and EEA, 2020-2022)
 
+ww EEA +
+Operating System
 
+2020 2021 2022 2020 2021 2022
+Microsoft Windows [70-80]% [70-80]% [70-80]% [70-80]% [70-80]% [70-80]%
+Mac OS X [10-20]% [10-20]% [10-20]% [10-20]% [10-20]% [10-20]%
+Linux [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Chrome OS [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Others [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
 
- Source: Reply to RFI 8(Annex 73) and Reply to RFI 34
+Source: Reply to RFI 8(Annex 73) and Reply to RFI 34
 
- (177)     Microsoft’s market share in the market for the supply of PC OSs was [70-80]% in
-        2022 worldwide and [70-80]% in the EEA, substantially higher compared to Apple,
-          the second biggest player in the market; Mac OS X accounts for [10-20]% and [10-
-       20]% of the market, globally and in the EEA. Lastly, Linux and Chrome OS have a
-         small presence in the market, less than [0-5]% both in the EEA and globally.
+(177)
 
+Microsoft’s market share in the market for the supply of PC OSs was [70-80]% in
+2022 worldwide and [70-80]% in the EEA, substantially higher compared to Apple,
+the second biggest player in the market; Mac OS X accounts for [10-20]% and [10-
+20]% of the market, globally and in the EEA. Lastly, Linux and Chrome OS have a
+small presence in the market, less than [0-5]% both in the EEA and globally.
 
+45
 
-
-
-                                        45
 
 [PÁGINA PDF 48]
 7.3.    Horizontal non-coordinated effects
@@ -3528,110 +3667,136 @@ fasiviiontiew’ | 7 [7 ff)
                                      66
 
 [PÁGINA PDF 69 | texto OCR: verificar contra el PDF]
-           Activision Blizzard’s AAA shooter (including battle royale) console games are made
-            available to rival distributors of console games (e.g., by making certain features of
-           Activision  Blizzard’s games  exclusively  available on  the Xbox,  or exclusively
-            available on the Xbox only for a certain period of time; or degrading technical
-           support of Activision Blizzard’s console games on non-Xbox consoles); or by  (iii)
-          making Activision Blizzard’s games exclusively available on Microsoft’ console
-          multi-game  subscription  service  (Xbox Game  Pass)  but  withholding   it  from
-          competing multi-game  subscription  services on  console. The Commission  also
-           assessed the importance of Activision Blizzard’s AAA shooter (including  battle
-            royale)  console  games  as  an  input  for  distributors  of console  games.  The
-         Commission likewise sought to establish whether such a foreclosure strategy may
-          have a negative impact on competition in the downstream market for distribution of
-           console games.
+(308)
 
-   (308)   The Commission notes  that  the combined  entity’s worldwide market  share by
-           revenue also exceeds 30% in a worldwide market for development and publishing of
-           shooter console video games, which includes both AAA and non-AAA games.
-          However,  the Commission  has  carried  out  its  assessment  of potential  input
-            foreclosure by considering only the narrower worldwide market for development and
-           publishing of AAA shooter console games upstream. Given that all of Activision
-            Blizzard’s and Microsoft’s shooter console games are considered AAA, that AAA
-          games drive the majority of revenue in development and publishing and generate
-             significant competitive pressure, the Commission considers that the assessment of
-            the competitive dynamics in the market for development and publishing of only
-       AAA console video games applies to the market that includes development and
-           publishing of AAA  as well  as non-AAA console video games.  Therefore,  the
-         Commission considers that the same considerations and conclusions apply, afortiori,
-            also when considering the wider upstream market for development and publishing of
-           shooter console video games which includes both AAA and non-AAA games.
+(309)
 
-   (309)    Finally, the combined entity’s market share by revenue is below 30% in 2022 in the
-          narrower EEA-wide upstream markets for: (1) development and publishing of shooter
-            (including battle royale) console video games and (ii) development and publishing of
-       AAA shooter (including battle royale) console video games. Out of an abundance of
-            caution, the Commission has also assessed the risk of input foreclosure resulting
-          from the Parties’  activities in the upstream EEA-wide market segments related to
-       AAA  shooter  console  video  games,  particularly  given  that,  according  to  the
-            alternative metrics (MAU or game-time), the combined entity’s market share exceeds
-        30% in 2022 as indicated in Tables 8 and 9 below.
+Activision Blizzard’s AAA shooter (including battle royale) console games are made
+available to rival distributors of console games (e.g., by making certain features of
+Activision Blizzard’s games exclusively available on the Xbox, or exclusively
+available on the Xbox only for a certain period of time; or degrading technical
+support of Activision Blizzard’s console games on non-Xbox consoles); or by (iii)
+making Activision Blizzard’s games exclusively available on Microsoft’ console
+multi-game subscription service (Xbox Game Pass) but withholding it from
+competing multi-game subscription services on console. The Commission also
+assessed the importance of Activision Blizzard’s AAA shooter (including battle
+royale) console games as an input for distributors of console games. The
+Commission likewise sought to establish whether such a foreclosure strategy may
+have a negative impact on competition in the downstream market for distribution of
+console games.
 
-   Table 8: Development and Publishing of AAA shooter games (WW and EEA, 2020-2022, by MAU)
+The Commission notes that the combined entity’s worldwide market share by
+revenue also exceeds 30% in a worldwide market for development and publishing of
+shooter console video games, which includes both AAA and non-AAA games.
+However, the Commission has carried out its assessment of potential input
+foreclosure by considering only the narrower worldwide market for development and
+publishing of AAA shooter console games upstream. Given that all of Activision
+Blizzard’s and Microsoft’s shooter console games are considered AAA, that AAA
+games drive the majority of revenue in development and publishing and generate
+significant competitive pressure, the Commission considers that the assessment of
+the competitive dynamics in the market for development and publishing of only
+AAA console video games applies to the market that includes development and
+publishing of AAA as well as non-AAA console video games. Therefore, the
+Commission considers that the same considerations and conclusions apply, a fortiori,
+also when considering the wider upstream market for development and publishing of
+shooter console video games which includes both AAA and non-AAA games.
 
+Finally, the combined entity’s market share by revenue is below 30% in 2022 in the
+narrower EEA-wide upstream markets for: (1) development and publishing of shooter
+(including battle royale) console video games and (ii) development and publishing of
+AAA shooter (including battle royale) console video games. Out of an abundance of
+caution, the Commission has also assessed the risk of input foreclosure resulting
+from the Parties’ activities in the upstream EEA-wide market segments related to
+AAA shooter console video games, particularly given that, according to the
+alternative metrics (MAU or game-time), the combined entity’s market share exceeds
+30% in 2022 as indicated in Tables 8 and 9 below.
 
-        Partya ee ee ee ee
+Table 8: Development and Publishing of AAA shooter games (WW and EEA, 2020-2022, by MAU)
 
+; ww EEA i
+Party
+2020 2021 2022 2020 2021 2022
+Console
 
+Microsoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision Blizzard [30-40]% [30-40]% [30-40]% [30-40]% [30-40]% [30-40]%
+Combined [30-40] % [30-40] % [30-40] % [30-40] % [30-40] % [30-40] %
+Epic Games [20-30]% [10-20]% [10-20]% [20-30]% [20-30]% [20-30]%
+Take Two [10-20]% [10-20]% [10-20]% [10-20]% [10-20]% [10-20]%
+Electronic Arts [10-20]% [10-20]% [10-20]% [5-10]% [10-20]% [5-10]%
+Ubisoft [5-10]% [5-10]% [5-10]% [5-10]% [5-10]% [5-10]%
 
+67
 
-
-                                          67
 
 [PÁGINA PDF 70 | texto OCR: verificar contra el PDF]
-     Party  Se
-
-
-
-
+ww EEA
+Party
+2020 =| =2021~—S || 2022 20200 | 2021 | 2022
+Console
+Others [5-10]% [5-10]% [5-10]% [0-5]% [5-10]% [0-5]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
 
 Source: Reply to RFI 26, Annex 5
 
 (310)
-
 Table 9: Development and publishing of AAA shooter games (WW and EEA, 2020-2022, by game-time)
+ww EEA
+Party
+2020 =| 2021 =| =~ 2022 2020 =| 2021 | 2022
+Console
 
-            arty        | 2020 | 2021 | 2022 |  2020   || ora | 022
-
-
-
-
+Microsoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision Blizzard [30-40]% [30-40]% [20-30]% [20-30]% [20-30]% [20-30]%
+Combined [30-40] % [30-40] % [30-40]% | [20-30]% [30-40] % [20-30]%
+Epic Games [30-40]% [20-30]% [20-30]% [30-40]% [30-40]% [30-40]%
+EA [5-10]% [10-20]% [10-20]% [0-5]% [5-10]% [5-10]%
+Take Two [10-20]% [10-20]% [10-20]% [10-20]% [10-20]% [10-20]%
+Sony Interactive Entertainment [5-10]% [5-10]% [5-10]% [0-5]% [0-5]% [0-5]%
+Ubisoft [0-5]% [5-10]% [5-10]% [5-10]% [5-10]% [5-10]%
+Others [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Total 100,0% 100.0% 100.0% 100.0% 100.0% 100.0%
 
 Source: Reply to RFI 26, Annex 5
 
 (311)
+(312)
 
-(312)   The Parties’  activities in the upstream market: Microsoft’s publishes PC and
-        console games developed by its 24 game development studios. Microsoft’s top ten
-       game franchises by revenue (2021) across all platforms, including console, include:
-        Minecraft (adventure/crafting/shooter/sandbox game available on Xbox, PlayStation,
-        Nintendo, PC and mobile), Forza (simulation racing game available on Xbox and
-        PC), Elder Scrolls  (role-playing  / adventure  / action game  available on Xbox,
-         PlayStation and PC), and Halo (science fiction shooter  / action game available on
-       Xbox and PC), Fallout (Futuristic role playing / adventure  / shooter / action game
-         available on Xbox, PlayStation and PC), Sea of Thieves (adventure  / action / role-
-        playing game available on Xbox and PC), Doom (shooter / action again available on
-        Xbox, PlayStation, Nintendo and PC), Flight Simulator (amateur flight simulation
-       game available on Xbox and PC) and Deathloop (shooter / action game available on
-       Xbox, PlayStation and PC). A number of console games developed and published by
-        Microsoft are considered AAA games including Halo and Elder Scrolls. Microsoft’s
-       main shooter console games are Halo, Gears of War, and Doom,”*° which are all
-        considered AAA console games.”*!
+(313)
 
-(313)   Activision Blizzard’s three largest console game franchises in 2021 by revenue were
-         Call of Duty (shooter/action game available on Xbox, PlayStation and PC, with
-        mobile version and free-to-play battle royale version), Crash Bandicoot (available on
+The Parties’ activities in the upstream market: Microsoft’s publishes PC and
 
+console games developed by its 24 game development studios. Microsoft’s top ten
+game franchises by revenue (2021) across all platforms, including console, include:
+Minecraft (adventure/crafting/shooter/sandbox game available on Xbox, PlayStation,
+Nintendo, PC and mobile), Forza (simulation racing game available on Xbox and
+PC), Elder Scrolls (role-playing / adventure / action game available on Xbox,
+PlayStation and PC), and Halo (science fiction shooter / action game available on
+Xbox and PC), Fallout (Futuristic role playing / adventure / shooter / action game
+available on Xbox, PlayStation and PC), Sea of Thieves (adventure / action / role-
+playing game available on Xbox and PC), Doom (shooter / action again available on
+Xbox, PlayStation, Nintendo and PC), Flight Simulator (amateur flight simulation
+game available on Xbox and PC) and Deathloop (shooter / action game available on
+Xbox, PlayStation and PC). A number of console games developed and published by
+Microsoft are considered AAA games including Halo and Elder Scrolls. Microsoft’s
+main shooter console games are Halo, Gears of War, and Doom,° which are all
+considered AAA console games.”?!
 
-230     The Notifying Party’s Reply to RFI 8, question 2, paragraph 2.25. The Notifying Party submitted that
-          overall, more than 700 games can be categorised as having “shooter” elements.
-231     Form CO, Annex 22.
+Activision Blizzard’s three largest console game franchises in 2021 by revenue were
 
+Call of Duty (shooter/action game available on Xbox, PlayStation and PC, with
+mobile version and free-to-play battle royale version), Crash Bandicoot (available on
 
+230
 
+231
 
-                                         68
+The Notifying Party’s Reply to RFI 8, question 2, paragraph 2.25. The Notifying Party submitted that
+overall, more than 700 games can be categorised as having “shooter” elements.
+Form CO, Annex 22.
+
+68
+
 
 [PÁGINA PDF 71]
        Xbox, PlayStation, Nintendo, PC and mobile), and Diablo (role-playing  / action
@@ -6662,130 +6827,199 @@ Figure 9
 
 [...]
 
-7.4.5.2.3.2.    Activision  Blizzard  has  market power  in  the  upstream  market  for  the
-             development and publishing of PC and console games
+7.4.5.2.3.2._ Activision Blizzard has market power in the upstream market for the
 
-(522)   Market shares are the standard starting point to assess market power as part of the
-        Commiussion’s  competitive assessment. Market shares (and related concentration
-          levels) “provide useful first indications” of the structure of the markets at stake and
-        of the competitive importance of the relevant market players.°*?
+development and publishing of PC and console games
 
-(523)  On the basis of the data provided by the Parties, the Parties’ combined 2022 market
-         share by revenue  is below 30%  in the upstream market  for development and
-        publishing of console and PC video games, ([10-20]% worldwide and [5-10]% in the
-       EEA),  as  well  as  in  the  potential narrower markets  for  the development and
-        publishing of PC games ([5-10]% worldwide and [5-10]% in the EEA) and console
-       games ([10-20]% worldwide and [5-10]% in the EEA).
+(522) Market shares are the standard starting point to assess market power as part of the
+Commission’s competitive assessment. Market shares (and related concentration
+levels) “provide useful first indications” of the structure of the markets at stake and
+of the competitive importance of the relevant market players.°*?
 
-(524)   However, the Parties have higher combined market shares by revenue when looking
-           at certain plausible segments. On the plausible segment for the development and
-        publishing of AAA role playing games on PC,  the Parties had a combined market
-         share by revenue in 2022 of [10-20]% worldwide and [30-40]% EEA-wide. 4° When
-        looking at other metrics, such as MAU or game time, the combined share of the
-         Parties is even higher, as Tables 10 and 11 below indicate. When looking at MAU,
-         the Parties combined share was [30-40]% worldwide and [30-40]% EEA-wide in
-        2022. As for the combined share by game time, the Parties had [30-40]% worldwide
-        and [40-50]% EEA-wide on PC and console, [30-40]% worldwide and [40-50]%
-       EEA-wide on PC in 2022.
+(523) On the basis of the data provided by the Parties, the Parties’ combined 2022 market
+share by revenue is below 30% in the upstream market for development and
+publishing of console and PC video games, ([10-20]% worldwide and [5-10]% in the
+EEA), as well as in the potential narrower markets for the development and
+publishing of PC games ([5-10]% worldwide and [5-10]% in the EEA) and console
+games ([10-20]% worldwide and [5-10]% in the EEA).
+
+(524) However, the Parties have higher combined market shares by revenue when looking
+at certain plausible segments. On the plausible segment for the development and
+publishing of AAA role playing games on PC, the Parties had a combined market
+share by revenue in 2022 of [10-20]% worldwide and [30-40]% EEA-wide. >4° When
+looking at other metrics, such as MAU or game time, the combined share of the
+Parties is even higher, as Tables 10 and 11 below indicate. When looking at MAU,
+the Parties combined share was [30-40]% worldwide and [30-40]% EEA-wide in
+2022. As for the combined share by game time, the Parties had [30-40]% worldwide
+and [40-50]% EEA-wide on PC and console, [30-40]% worldwide and [40-50]%
+EEA-wide on PC in 2022.
 
 (525)
 
 Table 10 Development and Publishing of AAA role playing games — PC (WW and EEA, 2020-2022, by
+
 MAU)
 
-               arty          | 2020 | 2021 |_ 2022, «| 2020 |  021 | 2020
+p ww EEA
+ay 2020 =| 2021 | 2022 2020 | 2021 | 2020
+PC
+
+Microsoft [10-20]% | [10-15]% | [5-10]% | [10-20]% [10-15]% [10-20]%
+
+Activision Blizzard [30-40]% | [20-30]% | [20-30]% | [40-50]% [30-40]% [30-40]%
+
+Combined [50-60]% | [30-40]% | [30-40]% | [50-60]% [40-50] % [50-60] %
+
+miHoYo [10-20]% | [10-20]% | [10-20]% | [10-20]% [10-20]% [10-20]%
+
+Square Enix [5-10]% | [5-10]% | [5-10]% | [5-10]% [5-10]% [5-10]%
+
+Bandai Namco Entertainment [0-5]% [0-5]% | [5-10]% [0-5]% [0-5]% [0-5]%
+
+Perfect World Entertainment [0-5]% [0-5]% | [5-10]% [0-5]% [0-5]% [0-5]%
+
+Smilegate [0-5]% [0-5]% | [5-10]% [0-5]% [0-5]% [0-5]%
+
+Others [20-30]% | [30-40]}% | [20-30]% | [20-30]% [30-40]% [20-30]%
+
+339 Horizontal Merger Guidelines, paragraph 14.
+540
+
+See recital (165), Table 2 above.
+
+124
 
 
-
-
-
-339      Horizontal Merger Guidelines, paragraph 14.
-340      See recital (165), Table 2 above.
-
-
-
-
-                                        124
 
 [PÁGINA PDF 127 | texto OCR: verificar contra el PDF]
-ee  ————————E
+100.0% | 100.0% | 100.0% | 100.0% |
+
+ww EEA
+Party 2020 =| 2021 | 2022 2020 | 2021 | 2020
+PC
+Total 100.0%
+
+| 100.0%
+
+Source: Reply to RFI 26, Annex 5
+Table 11: Development and publishing of AAA role-playing games — PC (WW and EEA, 2020-2022, by
+
+game-time)
+Party ww EEA
+2020 =| 2021 =| 2022 2020 =| ~=2021 =| =~ 2022
+PC
+
+Microsoft [5-10]% | [5-10]% | [5-10]% | [0-5]% [5-10]% [0-5]%
+Activision Blizzard [60-70}% | [30-40]% | [30-40]% | [70-80]% | [40-50]% [40-50]%
+Combined [60-70}% | [40-50]% | [30-40}% | [70-80}% | [40-50]% [40-50]%
+miHoYo [10-20}% | [10-20]% | [10-20]% | [5-10]% | [10-20]% [10-20]%
+Square Enix [5-10]% | [20-30]% | [10-20]% | [5-10]}% |  [10-20]% [10-20]%
+Smilegate [0-5]% [0-5]% [5-10]% | [0-5]% [0-5]% [10-20]%
+Others [10-20}% | [10-20]% | [20-30]% | [5-10]% | [20-30}% [20-20]%
+Total 100.0% 100.0% 100.0% | 100.0% 100.0% 100.0%
+
+Source: Reply to RFI 26, Annex 5
+
+(526)
+
+On the plausible segment for the development and publishing of AAA shooter
+(including battle royale) console games, their combined market shares by revenue in
+2022 were [30-40]% worldwide and [10-20]% EEA-wide.™! The Parties’ largest
+competitor worldwide is Epic Games, which publishes a popular battle royale game
+Fortnite ({[20-30]%). Other competitors are much smaller in that space. As indicated
+in Tables 11 and 12 below, when looking at shares by MAU, the Parties combined
+share was [30-40]% worldwide and [30-40]% EEA-wide on PC and console, [20-
+30]% worldwide and [20-30]% EEA-wide on PC and [30-40]% worldwide and [30-
+40]% EEA-wide on console in 2022. As for shares by game time, the Parties had a
+combined share of [20-30]% worldwide and [20-30]% EEA-wide on PC and console,
+[30-40]% worldwide and [20-30]% EEA-wide on console, and [20-30]% worldwide
+and [10-20]% EEA-wide on PC in 2022.
+
+Table 12: Development and Publishing of AAA shooter games — PC/console (WW and EEA, 2020-2022, by
+
+MAU)
+Party ww EEA
+2020 =6| = 2021S | 2022 2020 ~=6| ~=—2021—S |_~—s(2022
+PC
+
+Microsoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision Blizzard [20-30]% [10-20]% [20-30]% [10-20]% [10-20]% [20-30]%
+Combined [20-30] % [10-20] % [20-30]% [10-20]% [10-20] % [20-30] %
+Epic Games [10-20]% [5-10]% [10-20]% [10-20]% [10-20]% [10-20]%
+Valve [20-25]% [10-20]% [10-20]% [5-10]% [10-20]% [20-25]%
+Electronic Arts [5-10]% [10-20]% [10-20]% [10-20]% [10-20]% [5-10]%
+Take Two [10-20]% [5-10]% [5-10]% [10-20]% [10-20]% [10-20]%
+Others [20-30]% [20-30]% [20-30]% [20-30]% [20-30]% [20-30]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+
+341 See Table 5 above.
+
+125
 
 
-
-
-  Source: Reply to RFI 26, Annex 5
-
- Table 11: Development and publishing of AAA role-playing games — PC (WW and EEA, 2020-2022, by
-  game-time)
-
-
-
-
-
-  Source: Reply to RFI 26, Annex 5
-
- (526)  On the plausible segment  for the development and publishing of AAA shooter
-          (including battle royale) console games, their combined market shares by revenue in
-         2022 were [30-40]% worldwide and [10-20]% EEA-wide.™*! The Parties’  largest
-          competitor worldwide is Epic Games, which publishes a popular battle royale game
-           Fortnite ({20-30]%). Other competitors are much smaller in that space. As indicated
-           in Tables 11 and 12 below, when looking at shares by MAU, the Parties combined
-          share was [30-40]% worldwide and [30-40]% EEA-wide on PC and console, [20-
-        30]% worldwide and [20-30]% EEA-wide on PC and [30-40]% worldwide and [30-
-        40]% EEA-wide on console in 2022. As for shares by game time, the Parties had a
-        combined share of [20-30]% worldwide and [20-30]% EEA-wide on PC and console,
-         [30-40]% worldwide and [20-30]% EEA-wide on console, and [20-30]% worldwide
-         and [10-20]% EEA-wide on PC in 2022.
-
- Table 12: Development and Publishing of AAA shooter games — PC/console (WW and EEA, 2020-2022, by
- MAU)
-
-
-
-
-
-  ol      See Table 5 above.
-
-
-
-
-                                           125
 
 [PÁGINA PDF 128 | texto OCR: verificar contra el PDF]
-ee reece  ere ee eee  ee ee eee
+Party ww EEA
+2020 2021 =| 2022 2020 ~=6| = 2021—S | ~——2022
+Console
 
+Microsoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision Blizzard [30-40]% [30-40]% [30-40]% | [30-40% [30-40]}% | [30-40]%
+Combined [30-40]% [30-40]% [30-40]% |  [30-40]% [30-40]% | [30-40]%
+Epic Games [20-30]% [10-20]% [10-20]% | [20-30]% [20-30]% | [20-30]%
+Take Two [10-20]% [10-20]% [10-20]% | [10-20]% [10-20]% | [10-20]%
+Electronic Arts [10-20]% [10-20]% [10-20}% | [10-20]% [10-20}% | [10-20]%
+Ubisoft [5-10]% [5-10]% [5-10]% [5-10]% [5-10]% [5-10]%
+Others [5-10]% [5-10]% [5-10]% [0-5]% [5-10]% [5-10]%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
 
+Source: Reply to RFI 26, Annex 5
+Table 13: Development and publishing of AAA shooter games— PC/console (WW and EEA, 2020-2022, by
 
+game-time)
+Party ww EEA
+2020 =| = 2021S | ~—2022 2020 =| 2021 | 2022
+PC
+Microsoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision Blizzard [10-20]% [10-20]% [10-20]% [10-20]% [10-20]% [10-20]%
+Combined [10-20]% [10-20]% [20-30]% [10-20]% [10-20]% [10-20]%
+Epic Games [10-20]% [10-20]% [10-20]% [20-30]% [10-20]% [10-20]%
+Riot Games [5-10]% [10-20]% [10-20]% [0-5]% [5-10]% [10-20]%
+Valve [20-30]% [10-20]% [10-20]% [20-30]% [10-20]% [10-20]%
+Others [30-40]% [30-40]% [30-40]% [30-40]% [30-40]% [30-40]%
+Total 100% 100% 100% 100% 100% 100%
+Console
 
+Microsoft [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Activision Blizzard [30-40]% [30-40]% [20-30]% [20-30]% [20-30]% [20-30]%
+Combined [30-40]% [30-40]% [30-40] % [20-30]% [20-30]% [20-30]%
+Epic Games [30-40]% [20-30]% [20-30]% [30-40]% [30-40]% [30-40]%
+Electronic Arts [5-10]% [10-20]% [10-20]% [0-5]% [5-10]% [5-10]%
+Take Two [10-20]% [10-20]% [10-20]% [10-20]% [10-20]% [10-20]%
+Sony [interactive [5-10]% [5-10]% [5-10]% [0-5]% [0-5]% [0-5]%
+Ubisoft [0-5]% [5-10]% [5-10]% [5-10]% [5-10]% [5-10]%
+Others [0-5]% [0-5]% [0-5]% [0-5]% [0-5]% [0-5]%
+Total 100,0% 100,0% 100.0% 100.0% 100.0% 100.0%
 
-   Source: Reply to RFI 26, Annex 5
+Source: Reply to RFI 26, Annex 5
 
-   Table 13: Development and publishing of AAA shooter games— PC/console (WW and EEA, 2020-2022, by
-   game-time)
+(527)
 
-                | 2020  | ora   | 2022 |  2020  | not  | 0
+(528)
 
+Based on the above, the Commission notes that Activision Blizzard provides some of
+the most successful games in terms of market shares in game genres that attract large
+engagement and high spending among gamers, such as AAA shooter games and
+AAA role-playing games. These types of games would enable cloud game streaming
+services to attract significant numbers of new subscribers.
 
+Given the importance of high quality, popular content in attracting users to the
+emerging cloud game streaming services, the Commission considers that it is likely
+that the merged entity would have a strong bargaining position towards downstream
+distributors. Activision Blizzard has an offering of games that is particularly
 
+126
 
-
-   Source: Reply to RFI 26, Annex 5
-
-   (527)   Based on the above, the  Commission notes that Activision Blizzard provides some of
-            the most successful games in terms of market shares in game genres that attract large
-          engagement and high spending among gamers, such as AAA shooter games and
-       AAA role-playing games. These types of games would enable cloud game streaming
-            services to attract significant numbers ofnew subscribers.
-
-   (528)   Given the importance of high quality, popular content in attracting users  to the
-          emerging cloud game streaming services, the  Commission considers that  it is likely
-             that the merged entity would have a strong bargaining position towards downstream
-             distributors.  Activision  Blizzard has an  offering of games  that  is  particularly
-
-
-
-
-                                           126
 
 [PÁGINA PDF 129]
           attractive for cloud game streaming services, as it offers several successful brands in

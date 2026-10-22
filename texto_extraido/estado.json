@@ -3,3314 +3,3590 @@
   "documentos": {
     "18b1e47070394861f7c8c06e6692e385060a81ab18d0c9117c20526b6dbbb78d": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d4199c93473a68b18a74956ead4cb5ba3e8692a07faf3ef3a870f6b9b21318a3",
-      "sha256_txt": "b611ee0a18f3d8ed4d226baeddef393fdf4637361db12df546a7b6ddc156c9f0"
+      "sha256_json": "b30ef34f60cd7ef7509e102d73b287fbf4224933e48348c83f1c071f2fcf8283",
+      "sha256_txt": "0d929c74983b517aa675f07b6f1142e48c97a06bd3a5123d05e7d01b0b96c62b"
     },
     "03049799c6cf75464c1a1a500f0a0fcd9030265e451a3c65c998a7b1de9f5842": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8195b08ad6db70d6c0888d8fc3dc9e98fd0deaece61a2fc279f4222baa44f385",
+      "sha256_json": "5f3e32bb396b1fd7e9c9139ac935001ede899027f9ac1e1acd92538589a2074a",
       "sha256_txt": "7ad8cfd63b264e775cc718f3917f50d2d3963844dacc3fc2c53bece5e521d020"
     },
     "a0c1ec1dbf69634188d701084e4030ec34138d9f891784e5a0a0832e5d6cc22b": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "c2269db1031fbd8bf9b65b36bb80a796cdc675d9f3fbc282a1569b2796f3b672",
+      "sha256_json": "3d7155c5ed529eb5ec8f5ee405c107dba05b262ca1f0e4e21cd5d1aff3fd2735",
       "sha256_txt": "7e577ded06667a70ca0d940d520417dce08d966b9d1320af922b35e325f7e3f1"
     },
     "22db9fa159de09a4157768cbff1265f4d58eec6b563e05c17496e097be540305": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "85cb899d986074c22ddaee557cb23bb831b5867ecd3d086d6b3509a84e9d0b63",
+      "sha256_json": "c2b9765dfaeef136c3808480461023219917e0aafbfa0fd9ba0c90c1cf01c5ab",
       "sha256_txt": "5ad54e6afbb1de4c3be7b24557c8b4c7cfa95b65c6941a4a2d1addbe54e91e15"
     },
     "1341020ac44d171c2ae78ecebef63e22331cd21e37826f6fe705993dfca08a67": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "fe38e52d31e650b9c1528e8cfc6796f5233872f86374724b0159d5ffee5d0cf1",
+      "sha256_json": "4e828261d1f268902361996d89f6d122dbf5039e34cac5d9bfd020363f22ed62",
       "sha256_txt": "b6e5e1c3dc9c3d78ec472618d6a44a0669494fa51991aeb02ae2e1140a064a3f"
     },
     "22b2e6f04c723a756776fd92b01c2693a13306f8c29f0e47d27542aa6d139e09": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "4f3b64c1de343cfc2d7478f40f49774a08d4af6af18864aac74fb6cd869d35bb",
+      "sha256_json": "5d8d5733a5ef8cba7f6fc12ec42a93512d17954c9fa0b18ddcd9cc2a00b9b069",
       "sha256_txt": "06eabe88752f1c1feda1f9f101e61923fb111a05c2c4a616d1aec31cd82d795d"
     },
     "c35c9b6114e1cc7709ac7a21b5fe5c06fc165ff660244b0dcc31c188ae87629e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8653f33db10cb62984feed1d170648a8416719328f4d67b31108265b23885ec7",
+      "sha256_json": "b67752542fcc370b0c8a3b276055a7b29e4590d9014e6dd2aa3ae865fb248e3a",
       "sha256_txt": "d9c46bab402b0decc21e10a49ad5119a54c6364881e969d134878c14d4d589ef"
     },
     "f01980e0a1bd89d749caaf43979825ac1d09defa37a92187ab1334448f1589a3": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "a44f6ea109d725e0706dd1de53a8a1e918371d2a3fd632f384e855fafc69d320",
-      "sha256_txt": "38638573b71ce2220598c4e7c54c8a1d63cfc31b6e440feb1fa5dec2178dae14"
+      "sha256_json": "bd7b7957fccb148c633f1f5483e48f40d934dc1411f4a413b576c4808bc79861",
+      "sha256_txt": "60b785901dec60dadf2d18d32a9b2260bcd3455418620283fc379affc2b7f3a4"
     },
     "ee4886d455644bcbfbea0bbb01e724e46173d1011309d7b5f40048dc2473f786": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f8799a05889587b58f62c8f3e6972320d1801d49fa53b8009cba360b20f27999",
+      "sha256_json": "640242a6a7e2064ed73027c22625764b70ff8671b77cb6b5974070f7333b3324",
       "sha256_txt": "193cd7d3fe1d909db48558a4382f3cab614ce85a9bea6423e190e115810f3d5c"
     },
     "04b2d00ee34b50bef96179f0a3d4cc8dfab0fdf1f1b894139da2d983d3ffd896": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "dfcf19af70a24a28dd86ad746e3aebbd21e1982972fb272566369e20dfabf3f6",
+      "sha256_json": "a07df1409871cfac2ace04e73a70df19b03a22dfe9b6764fa22438bcfb1847cd",
       "sha256_txt": "fa139bff062a0af79c5351d03c651d069f6cf87679caf6c1135b317d30fc60c4"
     },
     "0ac7db7a8ebd1604d3fdb7b64a2e46c673f2f3f4401ed11422f9f83762ad367c": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b7785e5075166e87c26bb5487e6e6e099df024e534ff302d20bcf0bfd080b4a0",
+      "sha256_json": "a27a27faea786e78c798b9b0c3bcfcf2c39a7f8221c475a61730da0fda832151",
       "sha256_txt": "c6e2492eb39d6bb268c1f951821d37c51b8373eb1b0e28519f03c0c6e5455615"
     },
     "65bd20d6c57ec12f1a49fc8d1d56514ec9d7c6b52fd7cab5e7ed367d46c09749": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "1d3ee6ddf7eeac66334447116c3defbd87ef85b6b780d9714c297986472d6661",
+      "sha256_json": "12a7fe2b954bf0ec6b91a23602638ad886c0ddb7a38ef2f46c5fcaad2ce2ee1d",
       "sha256_txt": "f36ab41b599ac9923925ed668fbbc7ccd67529b624061627e1ba7f44a8f83df4"
     },
     "98fbb9e7f7d68b8b54b72c2279d41fe31fe72e232d68b1852359ebbd3256103f": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "dcac4ae2eb7b77cfd600aee3c59f4d83aabd19417aa6420ab47c6908fb46ed1b",
+      "sha256_json": "a6c8dae7131fe20d8ce13de48870d8b0226a3b11be2a1e123f3f1a5059af6834",
       "sha256_txt": "f34ff7e538064f1ca546220ddb4360c14f239ffa0b05a2801221bef39fde78ae"
     },
     "2ebce2b6b7a3c387b866d63849239e8643ff2d581dc377baf7aa0fbc32845d24": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "fb3cb55369bf7ecb6fd32e288a5cade793a302d4af4a696fd4ab59a5a63ce159",
+      "sha256_json": "d2759af83a480e60d6d63dd96d3c4b15bf73e2d46de0cc1f28ebe28beb87d081",
       "sha256_txt": "d8e105fa0852bcc78a2d0d92a91087b3bacaca0b29df1a9d37bae132bc59ee45"
     },
     "05bc51e1ffdd00b969e5bfd2014a4e17af30b40d4a3e9836cb1f70b47b62ca02": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "7925ba22b2584874fb1ed7c358de2f8a6f691a6e2567d3201240781c44c07259",
-      "sha256_txt": "faab85c9fa7691dbe75b354357f425d52d63623e05850dfeadfbc590bac7e2ef"
+      "sha256_json": "9d18cd0d82a4d568811534149201452e4931b9731ada8ca21283e4c00d49a29e",
+      "sha256_txt": "4643616bcea3c6bf1e1d7f26679f005448ebb0291695006b2be3c03a2d62eaa3"
     },
     "c4e87688d9e1044b44cf7c556a249f26d6e81632c3a3134aa46447c9ddd51ea7": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "683d6a1365a133bbc362e5f3fa676097db04fb60b68a43a118204b3ee5d6cab4",
+      "sha256_json": "ba44e5b967fd580b6ce0c7bd59f5106d482c570e5a41a111a1afc914d5053e83",
       "sha256_txt": "8f4c9566ccefc6d1551dd70ef8f4aa895e851ea27479e89ee3814bc643ba0c32"
     },
     "10b6e916a9c1491a13eb13da3bbf687c7c359e259a9356114ed8ebffd465eb59": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "101c97c0107e62092ffd74b3ed83bb50d323ed49b20ac36bb75a523516ae6db5",
+      "sha256_json": "f71c92efd781f345aefce3ec8707b8f5b2bc420978c8414fe951ed13e59a26f6",
       "sha256_txt": "197fec922b3b68c009a66783bdaa5676e51ce63cc9d8a22c196d3e3a30eb1529"
     },
     "4bcbe0afc6aca32cff7804e1d970fd9fc85b7bdbbcd898e6e0b445f9ed09fb95": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b3a92cae9d4e02bbd2ea770ec8a61bb4afb0658ce1e08db03afb008527d1350c",
+      "sha256_json": "01683930efb24b036cc40dba7b52a6ff6eb93d4e5d6126f3fa364e3519a7003f",
       "sha256_txt": "cc8b61c64b43987bfe677e3b013eb414a80433b05969855fb6fbecde1920586d"
     },
     "856d0130fbd253ef8a090f11bf1736b67e1fd535f04a3172fe211a69ff949670": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "736d8d19772301cb871bbf0d1bfc627263aaa8111abb98da43fda8832049b143",
+      "sha256_json": "dca2beaa8ac3ce6d60cb83431dac5892d21937dcc8bcfa03e4bf7fa75fa693d0",
       "sha256_txt": "5b8e814755769892048acba3d1cd04d16abf827af31d512852f90e1e06e39fa2"
     },
     "068bf64e077475dfec0afc626012abedd67afe7545071e4c804f12e2b19d3cf1": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b4098e97f0a42d228936f5d17d86cca64cd4652a8f5c37454557349aacb0b7bb",
+      "sha256_json": "0d0e18ce2a8b120a290bc39ccd98e47e1425631f778cac23e0631f4fb0100a7e",
       "sha256_txt": "e7f2a50cda14aa4fab9856a7e71921a4991502f716f4574bdbed580d0e9cd438"
     },
     "840c4966635622e4fe53df2ee6c8def71f848845d59142d5dd444eb7b8899e92": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "54a1976c4b5005219434ab6d78a2e4623df97cc70cb3347ef26fd43958f9d6f7",
+      "sha256_json": "439fe35acc6dfa8c81805ebc9df744a02c32467bd2545669f0fa5c1f4d629ef5",
       "sha256_txt": "947f47843e9d64481ade7ced81587746a6b752310a5a52030a229a83dbc3dca5"
     },
     "c9f331df740ddadcc939cb076de1abeab3b3be61cef4f611b7561d53694d6400": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "93adcb96f81b7aa75c4935547a0d28ae959bc961e050758e9cbb95725eadda4b",
+      "sha256_json": "8f0e66e71e5715720493390334b311c072f2adcb752983e357900de60b32bc66",
       "sha256_txt": "b3879f46f4f8c7743e7fa889daa88992f78be73fd31d25fc54f18dbd734b1db4"
     },
     "741c2306c44f9818b32dffea45db9bd16b91e3d95bfb7d2307aca79d350eeaee": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "669bb04182648bfbe5327765c87c19540e9f53a804ce386b4966be222d7926ae",
+      "sha256_json": "ff10ccfb5d88f5e42082fc61e78d88dd340c99f76f33a61f1ca5cef00a9b2d92",
       "sha256_txt": "7b331dd8c1e8589acf5b688660bd4bbb63b958652c77983643fe9f04ecbee4c0"
     },
     "f2187949f6dd617775b10ea455395f9e05a5ab0fffc2614aafc3d0d2147aaaf5": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "46b91a8650b25163faa8c0bf0325003408af8e98a40894b671006b01fbb56bfd",
+      "sha256_json": "19d7969c972b62b8b055b6e0b2dee694d5dde1f508fe1310b03907d025d118e8",
       "sha256_txt": "a40cdc1ca42266e240e29fa1dc7469470783a41b60a37bb8ae761babe1251dc7"
     },
     "4acf6b6062ccb05666569b1faa35d0914ede3f7f71300b990f9b3328c9d6c95e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "6581b830b17f2f4786026fe1526cecacb6afd421d3b747f3412e3543aaaaaa38",
-      "sha256_txt": "d39171362e69c9308b0dc059d265b2c6bdbe6af01f70a4a3b1ac2894c0af4cce"
+      "sha256_json": "bd0899287293260bfa1ba47b1d17bf6b8e65bf45b0e774b7c405c82bea9a7d56",
+      "sha256_txt": "d0117c4db719481e83fc1e657675b72039235c4b8bd2cb8bf30ab05cb253b984"
     },
     "60555428a0540a0c6d61869ec58d4334f07ec7fdafdb4a7aa6de93ed08a02317": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b276b7ae7e1a3e48f2b11a7c677a1ce0f02bb9c0afdde3eb16c2fe3713d72a34",
-      "sha256_txt": "298caeb72780733ec7dba66c7f5f3448c4d2183be2db85a83ce608d610c361de"
+      "sha256_json": "2557a503ae534c92bca97d62cb929c2b4c8e23b108c8691277d092298e961d1b",
+      "sha256_txt": "793003601124be6ce18acb6b1f17d685845ee279c8907bbb1abcf5b77412c66b"
     },
     "0e4444db6c9f8971cf431fb1bd5bc2a18ca9ee962d668fa80406224b502bb6d7": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "0c696ef5ec612217353e143c8bcac74140da7155d1f00a9398d13d2afc1245b8",
+      "sha256_json": "033292fd4f9ca32abcf2b11b2dabf1c5e493b145cc483740314c444055937cd2",
       "sha256_txt": "a10db45715553b87e89f175e6fe68409907dbc70cd3f12f7e57be206ff288b54"
     },
     "901aa1e7d0bd8d89494748f67ee4476a5117b1dc43d35e3ecd1597eaa9b18cd4": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "339806e5b818f1f0ff992d8800d10a2ce5c9438fffb5b439c565a2f0f45c51b5",
+      "sha256_json": "6619193b2f047d75861a83a05b505b714157e4e7a50000f1844437963c825562",
       "sha256_txt": "37919f35a8580b18a4fb21c8466e8add71a907e603ac99bf5f12ece0eea112ca"
     },
     "469a51affe1297999315f03aa069cdedaf555776314ff1ba407f7cacc16d168e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "0404d55f3301dc5faf5a33fc9bc6de90ff22605a28fb2c7f857c85e8eeb4a421",
+      "sha256_json": "ef9e05c3dc123feaa3ba22d521f0493d8ff7f9917dbe2a6052ec369d7eb14c1a",
       "sha256_txt": "62a656413d3eb8c0294603b1ab7b6f695d73feb765617630a4a015ee8a46a3e2"
     },
     "b20c96e7d08dc5f8db5f65ac40e7189e6d9d6591643c41c58762ae422ab8d574": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "2ef30ad12a39678e60941d4a4dc80047b6fb3b6b6f705a5cb54dcc887b053868",
+      "sha256_json": "a7b19eb88ae0c43b5c541925754fa479363bf4db80c218ddd6f15ce3c407c210",
       "sha256_txt": "791a2d82266fe173f7996a56c5f1b87b5871007f8ad512acc46192bf4b9d1e7b"
     },
     "1210f7509ea6f5e9b23ec77e199951b271930e96e9aee50d09e5a906d86dad36": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "2cf61148cef53b2ac0b176c76c6e63ac06ec6d32bcf8e8b625b667c5cd1fb4d6",
-      "sha256_txt": "d13964c896dc4f05e80cf07a44e6341e6563092cf223a727cecf8055fddcc7e4"
+      "sha256_json": "8013a7bd3125b33ce2d2b01797462b420ff98ba46541220cd12f4c83df3c0493",
+      "sha256_txt": "d87097fa6c268c46d3515af41f2c8a56afd27c762205b002fa6031a45a8b01f9"
     },
     "d8724636267052aa8a1ee7bfb5f7698bf26869aea509d659c3c4ff5c393eaf97": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "6267b46d26ce948be4b8caefe529e4239860cfc58c3b5e72335c0e1f7562aa34",
-      "sha256_txt": "9462c61a82e2faab5df654854905f3b6418476bd7c7d02ca086e406bd793a63e"
+      "sha256_json": "b91318c68f80743991f12bc3dd71e93f32dfac36baf6e3a3b988615a4354f1e2",
+      "sha256_txt": "f76c1aa542d12f764b72c3e2e23ba323a036249d3bbfa1eb7afc97168f618bc9"
     },
     "cd6e11cffeb97446773f9006dc4430bff1c1d2cc709ed785cb22cd915bf8d448": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "2d28f32bd2c5a03bba27f3ec43b6c10b690ab6d164c043f14466b5f5a8b66cb0",
+      "sha256_json": "37dd162fd101cbd350257be715e09961b4bbfe6b4f0acd207cc0de8aeb8eaad8",
       "sha256_txt": "b12c5af70125401976ee07a16713c39ddec218344889e4552052d7e6f2a9f3cb"
     },
     "c9313e7e213cc7656f1efa630751cd8391e39e6a216f090cfe72678fb01188f1": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "766f289f757371c8b83001e85d2357a6d410d35ad54cb48494a735da36981c0b",
+      "sha256_json": "02af350aae0fc1617977a12d6425411557a042cfe9dfc0936e4535d0c79cffa7",
       "sha256_txt": "977d0e8dc375e7e1ee55df37885558f224dd2db69129e1d88d59bb15863fb569"
     },
     "b467e40a924751b6489951a0eaf8866d49bf262f5f65b9e76c4ca94c2fda77bd": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "4a9ce1e34f04d4fab8d24f7ef0d6d7e378920931b064af6de92be1891bcba5af",
+      "sha256_json": "64647d88cb2f5fac6a90dc48e38bc93b0dd2cbda4f527c8b7891cba0f8487cf1",
       "sha256_txt": "7a220ad257a9e9538003a762a8e4b152db7ba1067ac59b8e595958f35816bc7e"
     },
     "dca84e221a94f74a4106216bcdbcdc48da1b99da03579c28e44fe5f4ed612717": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "9e6a927bf061c9ae6cc27e467a61cbb1774252b17b263863c22f870fd1e39346",
+      "sha256_json": "cbf2c796d660d872e9d2ee64e0e9499b386b1b6c97c841fed8667306b5c8163c",
       "sha256_txt": "63b02efbe4c14b6cfff38d0a5cdff16804c5ab40a90f8a87dd1f37833afd5b1e"
     },
     "276fb13732b6c3db13178df7045d9023c9c3f32503f1914179d574003dd739dc": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f10d1e0d1c0ef1d5155f624b48da5758d85c8615f327eeb611194937807b29f6",
+      "sha256_json": "e99c110686b7916ba27eab79937ce2dc9c07d531ac25541a7dccba4aaa7a302e",
       "sha256_txt": "2faf38f0b2d887746f766d74160bf605cb855e96d8207b8b40786c7e105c104e"
     },
     "5120b4b6682877afdc7987abab301254f75d16b409adc189dafec4c0d70c068a": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "5f2a9b970a56c3cef7bf39cd6deefbcce8cb2d0aa3332d2f5d9e741ab8dfd824",
+      "sha256_json": "fbb6caef40e00eeb70d0ccfb96167e838a8d8c1e6733293a6c59a9261eb7bacc",
       "sha256_txt": "9c1afa3dcc87d1ba1e013cd9e506f2c3b3d1ed2ea0230f371c31ffda49daf399"
     },
     "5bc5c61a4075092d34fda94d94da23bacbec0a5d0299577f6d4e4f1d49ff3833": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "6c41c85161c741d8b9aca5219434f5ab48134f7bd4bafe0247929c5f7fac6776",
+      "sha256_json": "20a87eae49e8ada443ad8cd3cc1f3551d8a49652420dd48216122b08ed2af5c3",
       "sha256_txt": "76a85670b4ff9e88c885de82b23bc61bcfe5500e00569c0e2bc57f7312b9f0ae"
     },
     "ab1e3e850bb27aed3e63e1bae80770f95bd28cf0b8acc44191064c1a4be6d9c0": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "4a3865ceb493dd304751a0913535383aadd0e339d7ca0a47e551d0bcfbe2cd26",
+      "sha256_json": "e1eaa5c582bba08d679a79ecb491680ac2440d43526fa12852fea4255253a6b6",
       "sha256_txt": "2489bccdd91cd1724133f3679b65cc00595d437a479fe88b9aa11dd4ea8e048a"
     },
     "c2e112a9be24bc11b45abbbf6fcf130ce9b6dd4d3e679de20181974c310b5a06": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "4727e45bfcd7f23760084f1c4f38ed312f779f620b06885749cc916a7d2809fc",
-      "sha256_txt": "97131c8f2997b4dae48861c2b6baa4434a382cbf883cc4d6a36df5a5cb5ed159"
+      "sha256_json": "5aef32b472ec84d2fcce43c6aa483f752b0a1d92a7a0ae4b602184dbffe84654",
+      "sha256_txt": "6f4f9d87130def46dbbc0f9601f2b8d49c79b736d9399fb41ead56ffb614fc71"
     },
     "7d8dacfb7f37d91f94c2b8e5b169bc9b6d4c7cd50456cf6aa89b093940f788d0": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "909bc6c4ecdbf926c3c24923c9ca845feda9aa4987ae1dce34c445f1696a25a6",
+      "sha256_json": "32a5195068c9f53ecb0165c288f34d15ee3c051f87183ad74197f8647248645a",
       "sha256_txt": "f57195bb95f3cd1bcb442e9e8ebd669beced7e91befc2e95ee7c01bf4d020b25"
     },
     "e6bd74cd71e4b3ca19190007c35f6fa93f427b9bac1cb9bcf2a057fa23b2eda9": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "e31fbb5b35738a5c3a46c9fd786e2ea699bef76eeee4e1ded4796ddd5e3e04b6",
+      "sha256_json": "81a6838b52eff709d037a709675ad53b55eaeeb09fb37fd75757598ba8928546",
       "sha256_txt": "7d4e7b5d1e4c352d9120549f977c1779abe25edea5565a7666c905cdc7a2395e"
     },
     "85fcc65225a135576f5555ce14908343b79d1c7ffc2cbee55ca342cce640b76e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "06971231e06af13321f7a5d933d437e5a62713da77aac150e22f45931aaa8edb",
+      "sha256_json": "80d7a60b8bbdee4d3e64c2aa35ef0a0dbdf820d8954a5a65bfec51812ca42550",
       "sha256_txt": "adaa21a31f5ce67091e8fa0385af65d09eebe7a9caf952384d5beca04ed8efe1"
     },
     "523f7ff9d54bb917d6b9fd07d1e37582245c7f73b45fb937afba463ea53014e8": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "a1e3463537391183f50026c1ca8e6b6585e992153d105b0bfd489e1b9606c4c8",
+      "sha256_json": "d440e185386391dbe6caf90691a5d85cf0fabaab5a123d2b364d0a244bf4613c",
       "sha256_txt": "b60d9710aaaf6c6456ef902d3b000174d49d7e750f768176ee28bf25001bacdd"
     },
     "4bbf077c880da067c2b5d2076508472652b42724bccc1266338aaa5b65d43ad0": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "faf14802b4992f6f50b93fdb3874f9a45c93d586206545e1d11020f2ff0e3e1f",
+      "sha256_json": "2ddeea30e76b6851f67cb4000ca150fdeee1bcc8740995849ebd8bbe145e4ae9",
       "sha256_txt": "e7ae96293d3c329611932ab7268c1d6d80e0ef1d32c8606ff7896345c3621058"
     },
     "581074817e5f9b864a08eb1b8f0eafeeb7013b61ce88d326f2679781f43050bc": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "da6c9b11989d0c14ab88de42b71d5d4f8ea0de0f4d6f68123199df54a2835e8a",
+      "sha256_json": "cbb18f19dc87fa9ddf76c8ee463163c2e22ec00d16a7047980c9ba60cb3572fb",
       "sha256_txt": "02798a929f5babb0fe9c43646e73eb1a93988d04852696346631425e75181aa0"
     },
     "73f4300d1a82a9874bc9c8e1d7db7edcd963e2a095732843953ee498ac38686d": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d20ec5f5d8d9b566300e332d937fa4d3e5a37d1922c672060d108c5eb28213c2",
+      "sha256_json": "8f960548420209d90703c794fc96b1686f7b2414c60a561902f6b249bf9bd226",
       "sha256_txt": "d45465fbfccdbce940816f11cd4f645c5a69b56b42d2a51902f08bdd09932739"
     },
     "ce33af9876bc0967305459af1767bbaf7c40bc9a2f72638f22d01c15aee26157": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f6a47005cee2e1fe53b12fb4a44b8926c97b840a8a3781f231a9bee8be531d7c",
+      "sha256_json": "c3b6889675a31d34df035d848cc6a881758f63457688ffe6120dea829c78a038",
       "sha256_txt": "b0b9dcac54d38a0434a128dd6068b088df587f8554a489222e4e1eb6adf5807e"
     },
     "528dbf942ebbe1ab61e0d10eb63bf508d2a1c05f1fc9ba16c2dc384ff111affe": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "2bdc9424b40a36de978893106fba6337944e07c89da294bf711bf0aaa321eb08",
+      "sha256_json": "0eb95f6011c2a4a42c004693b609b9f7892b0cc1f84013bb225e368a07241f6f",
       "sha256_txt": "bcfbb4a103d002ff109fdb33f791902c9a105b6d9831b8519d1d3b547f392971"
     },
     "ff623e6a8f87e8d64fdd2691dabe6f21b0f106536b9a371afd79e6460aa02de6": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ef4d1c7602c8ec5c3bf9004bc2fb90e0f95c240aecac8c88c1e04fe648d52237",
+      "sha256_json": "d386bd527cc3d418768df4c4ed161b348be63f86b581cfc73afb98b75a794273",
       "sha256_txt": "13495c3c0d977a497c201591c2667bbe6799ff5c9980fc1f00182265d4d1fd3f"
     },
     "89bf495d751d69db4b58b0db08b3608c3bd46f81665a0a121f75a54e74098eee": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ab3e9ced940640b6b9c3d10097ba9a3364e26d437d3bbbbe91e83f0c3539acdc",
+      "sha256_json": "a536c047c4c10e353687c78ec7c3ff4336c00e8aeddc1035fcbf6b3fbc2e80a5",
       "sha256_txt": "4a504220e2b908685ca14a4f8ffe9025e9892f1e9b370e1f9d6b033c9aa28efa"
     },
     "d2431d9a14fc014e2cc3878124bde07be7212be1e6434b59137ba2b7a4db169e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "2e11ceefb76a5a12beddcf97e4554a3cf86b0552b816f551a44a778dd64c507b",
+      "sha256_json": "36efe4b7b36a271b5c1fc234e1c01e56c4ba794feb8d3cd2abc67070a26102c7",
       "sha256_txt": "76d6fc536183822325352310397c9daff131b0d1e2ca767b7f33cad54fe314e8"
     },
     "fd6af44af25b9bf330ee2a16f412482490fa885bc8b63099c740987815f27ecd": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "c4d87d9fcb09f8fc22805bd7275a67dd02c4542288459b6257cf641ab5b1257b",
+      "sha256_json": "19ebd9ec4b9701a00b2fbca8497a32207a47dd63cb6f93049f24b1262d521973",
       "sha256_txt": "26a31b8c0ac24dcd7a81942f988f3730cbbea2741a696566adce047ad606c03d"
     },
     "d8243f3ebbab3cbaf24554c57f73d0c9b7bc1d18de5f2fe8afbc97f315cf80bc": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "783db29adb18a7f486107d81891bb180bc38d95d3240a1c98ae6dbbb6d2d84f8",
+      "sha256_json": "68fe596c962a25e2578407974fa7930c18a49d5866ac6892cc31dd4ffdf13f13",
       "sha256_txt": "07203213d9b9ad7bdd9cba9158118561388f9e1c5cb8092e81fa34e4c4c0857b"
     },
     "6fab4d7c67e04d04c49280ddcbf5861a0d1ce33e48c15e00c5b23717b34a6c93": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "68e34972e724feee1927d0e5741c4e5e9b6e1d762ec043bc3cd79b30cbd2d922",
+      "sha256_json": "75f47b1a50dd99c14df153d488bb4b31f4dcb6dad8efe033294e721122f3cd1e",
       "sha256_txt": "5e99dd7224ada1a31ee7a6d338faa43ebbed0e885afe102b93b4f09dfe59d977"
     },
     "32a6cafc93855d988417135072c27daaf3ebeceae742e5ecb645f0f1623f1303": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "04785efa4bf3f85c25b7c90511621590c87f9d376c9299618df97ce2d456cdeb",
+      "sha256_json": "c18fa27cf825b3e88184e93ed54f2da9dfb007424f55e81ebaa7313d6d66a3e6",
       "sha256_txt": "84b66953729a981ca5b8b26819a83185e4faf9ac37615be5941dda14c0485fa1"
     },
     "312c86a362c401b45932b01cc252c51434b8dc5069a393e9bb6d4ae6f432611f": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f0280999f99da8d3199284c56601b23c431a3f6ecd9f209c713e52d2e9c291c0",
+      "sha256_json": "5646e5d73f0c728870d5dc44aab479b837d87086abfc9f08ba67e55934b943b6",
       "sha256_txt": "b92fb6267971bbaef793994bc403c54828f1b8c619e89a7856f0ecf573b1eb74"
     },
     "7390ccf0339acb2812146803c1f218bca9cf23b5254f3bba2c5d820f6c73eb17": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "bcb0e41580791341577a789f62a58137e4aad5bfd2b22c0f5eae1277903335a6",
+      "sha256_json": "061aa0c5db92d48dcb1c70c261a6714481d2d318a4664ae7c008e55d26cc7f0b",
       "sha256_txt": "b80d68334a804b96928223a1a7be525d90853c33a40bd4c645dbb2ef4d63c8b8"
     },
     "daef5434eb9c1e6588f83cbb10559293f7e18760e853e228aa97b0820d730ae6": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "107a4891e71847755e448fd8f4e2f2ef18310fbdd3d39dded2da892f67503b3b",
+      "sha256_json": "e777654604769bfa9655bf8a2f2f7432735e597fda03b49d64b338fa78303cda",
       "sha256_txt": "e67d1a3156ed5877d56b627a4b994e255fb96def2da9c72912cf358b94b4c518"
     },
     "bc5fe020c0f5a1f12f64434d00d469a4eea4f993de524e9c8b79dd21fdb9bf9e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "77f1b2b2caf663ef706bc7033ba1315d7c0ef5d3cb6593c85d75f1fee43819d8",
+      "sha256_json": "6954687ae8172ed717cdd0e86af86c88c81216fea9f11a3e85abf4125a2382d1",
       "sha256_txt": "9cbcb34e9d036153e3f166156a5f635a3b361066c01524e0159559f88479562d"
     },
     "f29f7170eb8078e65e3d7a9ad4d516b20811063d5c801eb7f2324205d1f2b88e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "3772d04fe45277bc43ec74b346105b2cdfbb988ce6aec56373923bd8fb8b0a2f",
+      "sha256_json": "f6b0d4afaf5d6eae3f150040205435a931f3d0b3e0e782cdaf1086ec1f00e56e",
       "sha256_txt": "81a5bba6c3108856f74c1cf8b1e633d394f91a6a7e84e2878a43926f633fe03e"
     },
     "7e295180dbf3d70be7db4363c85941af3ce98656a9be7128e7cc0770b053d78e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8f42d8a41277b71bb6ae95c7571b51b33d8bb7eeb87184433360224ea249f4c1",
+      "sha256_json": "9c372787ab040362de080fe8a78c9f0a63703e0425e2eb5f48296495e169b3b1",
       "sha256_txt": "d17581abd6882768ccc141d1bb6a9cee73d6bf9e0b16832264e431b0012736b4"
     },
     "60dc04ae32a24aa2b602f9aebdd18b9fa5b14a9b603c50381c2303aebbc52657": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "5ac25a3b700b009ed39c329cc00d24cd7cca4a5051e84ef41838545d86fae324",
+      "sha256_json": "488889fe74ba93b828e39e0c0cd4ec99adf9d33944ea638234bb99b6980f0b30",
       "sha256_txt": "ce3868691df05f2c01cc02d356b1b32b7083c7889732999708d5c90b23d0a437"
     },
     "ce7f9e573c385893d79b88bee455b9311dd98a2a74f9de9949064a627972f78b": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "69c84e88df327a002b5bf374c22eaac91db3e68b1a0fa30d47e32182e2a8c843",
+      "sha256_json": "c43d52fdf3d5235c092b71b515624322485ed0cea168d7dbf6bc5adc435dd655",
       "sha256_txt": "cf6aa3ea1352bd30685de19f193e927a21b99f71009ffd910a8aa6d7914a3094"
     },
     "3b88ccc116da5ba796a8cbac8d1576dd7b5b45b1a1be34096d963be833007a21": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "4607bf445fe94d3483948d054698f93115d6b3ef0aeb6dccb75d25c3f19e3fad",
+      "sha256_json": "cde17bb680ca21057a943206580a24fbb1d270fe8a941adec965cedebc8e471f",
       "sha256_txt": "98b3bb1667000a7f581add0305f47af539f3088b67a8609d72f6b4d161db2b52"
     },
     "0cda62ee817c3696c093f1a19891834016bb15423ff1e5dc4916d3e370cc1bd7": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "92d8c05ac2e7989ea4ec9e5af8168731363fc3a55c7806bc2f5a29fbc1981593",
+      "sha256_json": "c97208f0a10a63758a8be162ba05fa95111982264c55886a34dc041411491f62",
       "sha256_txt": "1313d50c947e3082a505127fbc0c9e531dcf2fbb98683fc5f75cfee943cc75f6"
     },
     "dcf1f879b5936527cb12a9549d4b4fb0591a8e32ef0a2a3af1f053c020eceadc": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "512b5ef57a36caf34969b13a5d22435e0d8187a0f3534a8b5ca88defbfa7f9b8",
+      "sha256_json": "bc6aa2f0482894a6eca207e17d60ab1f0e446fadece292feaffcdea765895973",
       "sha256_txt": "d65f1645815d98e85d70681821eba60de461fc63b00e9e71823353e771af0628"
     },
     "37061536debae761221e27fc8bf4d634cc64bbc2c82c8105ea0dce695e53b7a9": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "e1157371cd46918e8d2b395abeef0735af3c90ac7aeb6b88fe1055ac3705e769",
+      "sha256_json": "9196aca02fd5643e52c37f06e0a3f841750c1b9bde188a91cc0a6ad2d9c982f9",
       "sha256_txt": "10bd0311398fb0118490abdd3d0ce44de50e4685942b15178b5fa7771aca11ac"
     },
     "4dbfa63a7c1b9651dc9e3a3641f5b673ad00f524fb15a1b4a7796dc92d1cce15": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "7b68c87ed2fbb17993cf01c52464fce3d0036a714389078dbfa63c1d20dd254a",
+      "sha256_json": "8fdf5a12663e3d27b472dfffb866411d2fa7b1ca8d1dedaaf2491da0f53a53dc",
       "sha256_txt": "6aa0b5aee8c0a7d6ab851585950c04c82418b95df989cd8595632f30c22ff40e"
     },
     "856fd981d545923652992c834fa7fe8a1ded2cbddd8ad472f2b9bb9d990a22d4": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "4d30bf60940943b63668de47f5635d7925e468a9464b3cdbd46fb6f941aadc42",
+      "sha256_json": "53bbdbcd4719775cbf5192cd76fe4d1ea784304c6e1b8e91855a9de73ecddae3",
       "sha256_txt": "8f8e08e80f224881e472809cb1d86c784546c408d91f4a786b09bceb0a0347f9"
     },
     "c961cd499ad6d214c63843d117f37a9f62edd3acf44c84d1d17f25ec82c3380e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "0771f54c5739e9041d9a6a629d8377ade7a7649834722ba4a7274e3b341298e6",
+      "sha256_json": "c726c92c05ca4fedaeb63afe7b951681d29e3efff188ea212923a1e33a8a774f",
       "sha256_txt": "2f07d8ea88c78f434247697d44fc2b4b9df22821a5e2503cb29c6e70122d708e"
     },
     "a7c46a7cdfdc996802bc55730e462265bca22a7531d9bd865707ed83618fc410": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "a227766f86c9efe16e1842478e4b6c5398743ce24036f589f7f5e5e3a4280ffa",
+      "sha256_json": "2a1ba1cb0fef282a291bde2a221ca45875f1576de228a8c5b9be54b0faa6638d",
       "sha256_txt": "a86f8b5e491b2b8e31dd193bb181862700e25f7e136fa39327a3c8ee7dabc65b"
     },
     "8e73c2ec5171f2bf5ec4eca9265624da739ea5ce5e0fdb7f9f3a6d883ab5d949": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d49036463edd91306fd98434cadb51ccc474e0b4e4abbbd4faff25ab8aa0cb2b",
+      "sha256_json": "64483134be8557fd74fb651a2f4eaeee8200a670f43f5fdd5f0334b3bdc4e525",
       "sha256_txt": "c6107f7d0be7424ae88b04c2ee4c295d70933a3617162ca2e44b332c44700b54"
     },
     "3deca8540c43162e2d97670594fe7a376f6f73c08708fca8bf699b9d6e1ccd48": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "565c4c043dbbf4e3fcdbd03bf8278d3594077abd5b6f1b87c835db7c9fe0798c",
+      "sha256_json": "42d2bc8d1cb51a1350e7a6b328881cfafd6a8313d1ff4f63d23a087aa2a4e490",
       "sha256_txt": "c0538f318edfc40ae4192b54bcc334ffc474a9f2023934dd3030b73b0e008297"
     },
     "f1534d180628d88765728f61d44e771b2b98bb7a8f7cfceade300308794d148d": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "92850928f439733ff6e3e181457b6283ac80989e14abadca0063ff643282d855",
+      "sha256_json": "b1591fc2ac40d9ce492ebe1c2975263051e37140decbc858cb22c2a2ac3d4e4f",
       "sha256_txt": "16aa2d9d9e75fa1b2e92ba26caddb53aec36fbe60e0dd596b87ede5f46efeaff"
     },
     "f324abb14b10f6d16da3b79846abafc8a7953782b26249bca7344d21bbae82a8": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b8d74c3f4550785ddd6bf3820e17c032fde5aa48b0b4c26ee6cfa33b971e2ce5",
+      "sha256_json": "f74f19b65c55b2dc8aa8d58ff00e2a8986743c370926a081e9e32e65c066f9b1",
       "sha256_txt": "51e6f3dd8216b2ad4fb84933fdc6340e51fbba5889a0d679e2e08883bfde447b"
     },
     "234c3e676e19963fc5448c57924472fdaeb39f1ac8d4d10bfb56a22f40c30007": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "303e52d3563b53d614120ef077447e701500646c8089efd100fbaf7ba51627e0",
+      "sha256_json": "138e039491fba1c2cf8eee70a3352b50c3dec26d5d61bb209d77df99e9630177",
       "sha256_txt": "7b0150dce13af9ee0841b8e5fed072ca9d23bf989be1aff05b7c4708b38844fd"
     },
     "5dc5102e34de0d82811f14d114af613b1a7b85a7e9a81a2f2bf72c9cfaa0bc75": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "5483f32cd83457475bbfd1fe69d3eb34e63d5441635a5d316d0facae60120fc3",
+      "sha256_json": "932c58bd74c791ee1a16a3e138a6888f847b8389b8babdc7fadc31aa5bded3a9",
       "sha256_txt": "d59dbd829c9115de6f40cb81c3d7fe562797e32c10199c3ab199d205095352e9"
     },
     "cc0bf9abfe865eb675d6ab0587f06afa6231caa4e19607294e01d099c431c5db": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "e0cc1dc9273939d892602e58d255ffb25192c6a6429fdb3768d8ec37a5a054a2",
+      "sha256_json": "4402ea9cd1c562f1c478e6d9d4aabacc9d33825d2ef8b9fe88fcc6dbd90fcfc4",
       "sha256_txt": "48d5815589342de4eea2b8dc23bc81ed753d9226a931310aa711b93046fd679e"
     },
     "dd4693b7f2a2611fc408aad9ec6eb99d2a5ae9160f83fe2cc4ed5a782ffd933b": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f162b6b2cc4a01c722bf950470cafcbee6d0b4912d890e94e581312f8b0adbb6",
+      "sha256_json": "8407cc133202be3ab345ab01e9ce79e9f8f4ebb9246ba749e4ed8f6bd644f175",
       "sha256_txt": "495c21f29246ff4a584c145ca769efdfa5e1151377b75a8f3bc7fc4d2b08d94c"
     },
     "17c2545f6d637ef32f4659dd397b37ac3659179c13156318ee6a4de4bb672420": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "163d2eef328ee929696004af40c2c6c5659ecad13ae96f68cecec2243d71e645",
+      "sha256_json": "ad7b0fb66c272c8b0d5476b0e29649a477c32cd7cb1a1c0a51953b2686da51ba",
       "sha256_txt": "786f38357332ec066c4f1007f53b59b5ff72d4d4dd2125fc7ec723034169e102"
     },
     "9114e25cb56ef886c443154625c2ca52afe7b87ff2ab1910076233673445e5ae": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "479c9a6e283112f3a6e489f6f947dbc7dc651ac0c658fef972db7237adf4eda2",
+      "sha256_json": "d675a754b30e9fe219b23339372e19da8cfebb4534ddbd46e27765ceec6481c4",
       "sha256_txt": "5f5ad6b62180dd8c450f7295dac6ce2e242bcb208f22792dfac6c801cde95421"
     },
     "8f89294ffa5f1927547be57bc44807ebc7c12e239601fabadad4c383275deb3a": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ccb6f23d917dbfc476826d9e75bb0a292343064aba9e3a4c955797e6dee71420",
+      "sha256_json": "ec80eb1c8c39fc5c2a778f122b581fb69fb5f4fbda6e17e2f43e34cc1f27ca46",
       "sha256_txt": "be76d02c15bb30677de8ac3d83a59e257c3c460bf30d167d067026bf9452ea95"
     },
     "244f703163d5cf347af54c3a1974596c112508be8c342fa7036fab4e724c9c15": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f4f5a624c49f710303379e0771caf1f7db12d2110a552da88404fb79d0c0e5ac",
-      "sha256_txt": "8329f7990305dd01f063249114fd4c3124e25c575c22c428ad5076aa115411d0"
+      "sha256_json": "7eb848de4240be8ce16f99343c6ff596a999c4a6a298aa8f51befc2ff1621d6b",
+      "sha256_txt": "bf179b7464bd27c091534e5815adbd315c221c9803581d68a9d7540a1615931e"
     },
     "8dc601bb9ec0926027f04f849e722dacf11720b18b69ec0be1b2f581a106dfc1": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "3b0d0cfb8f33798252093ab0006c480e8dbf56da556ce333e7707ae15d5ffdf4",
+      "sha256_json": "8980877bd4e9e0f9e85cb802514110dc9f9b8dbfa8c6d1f5f1f4f5d64a3a1e85",
       "sha256_txt": "ac9f26a3f92b6e6b8789c3248ce606c2d0eddc17c8e912b3d76e818f03c25b05"
     },
     "690b99bdff8c197d4e993b7ca3af97bf68a07094b493d2ea387f1f5f05daaeeb": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "6e13b5c265731371ee15ca7c856123accff6d14ac53be4b0cbecffab286361c2",
+      "sha256_json": "84ee9987c0c98c7674b66845ef3e6476317abcef3f1156fee6e99027e5de2525",
       "sha256_txt": "5af3dd0788ca231598857adbb17ba87fcdf61f61ad48d007d583b3ea33054100"
     },
     "296664d88ee7ddff4309365fb018e533361d1773615ba643adce0a993263f13c": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f4f1f4425ddadacc019153241cb2cf33071c8ac46e334b0d149ce4ff6cb3b403",
+      "sha256_json": "9f172c7bc80d26751e14614f154ba6bcdeaeb2d61730b1885dd67e6657ca4826",
       "sha256_txt": "2f13e8af6ca2b6dadcbcd65f41f6355512927abe23779d88b82761571ee7aae0"
     },
     "1c2969fff9c47cf32fe2da43c803bda5c12ea1e75d156afc593ae314e0e06384": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "68b6cc9eff4329b1464bb9ca48d6d3d95471cd76f11e6fd6a82d6d09fe332659",
+      "sha256_json": "f0fd9649ad3c31ba778ff7b8a130bfb40ffdc5f0803d5626351def49a6043808",
       "sha256_txt": "9534e23acf601374eb968bd365e4e66eb4c28703235c913b3e391164f21232c8"
     },
     "e5e0b27b9af881cd0cd20b2a12cd95cbe9e057f9ac7a085060f9cf34124e4c08": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "e8daa9e6a0eb4a5d331d680938bb34ef18866cdd02de08b2bfad28b5e0fb12b3",
-      "sha256_txt": "59423f00b0461f3d038f874464d63f0e33a575edb1d3531795c2d5b11224f8a5"
+      "sha256_json": "ead5f9dbfc1f41d043f1d2e61b9dbd6c8ad329cf039d845ba3df651bb1ba5ec0",
+      "sha256_txt": "71eaa39b3a59a45ab0ce274cdc5cc86e72340d4191584119c5781266139ab431"
     },
     "ebd0f392dad116c8dfd5ca90318e9d8d86397f3f8d2fbd4a280cc4cc42125203": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "88c20444fb05e1786a6db67ca31f4388a7ff1ea7b744c2abfa9dcda2f45e3887",
+      "sha256_json": "67af57a3833ce72d453883cec7f7ef2450728f0ba96b16550598a446b496b8a3",
       "sha256_txt": "737ca5ca480ed548af65381ef622f8234742fddfc7f05379b2e1be91a2256318"
     },
     "3f81a818747a2567d702e128ecefcf63dd68883a65b65cfae2c8dc62738530dd": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "dfcd5f0c0a9a141050c7499c209738ddfc23bf26184d37e85a60358a2bb1b15d",
+      "sha256_json": "ad7248ff1ff9f50a42de404e20753be71baec231c1460c3ae4b001eb5aa23d18",
       "sha256_txt": "92a30498a29f2d89aea30a2aeedf2c24697c67567b10bac4516d9ddc406533eb"
     },
     "f5c4483a88453bdd5da633712f9b8ca9ee0ff6af164131d4c8616d6c5dac0ae2": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "5088304650568e85d550b6f5b816fb567c89316cf5aeee3839857a6019930fb8",
+      "sha256_json": "e899d979364570eea26e7bbafe74263bb28a4cfc17948aba91c2636741f58b9a",
       "sha256_txt": "7dd57bd247ee254a5b8187dd4349c996a70095b39afc16e9dba74b05c099e714"
     },
     "5ed8e037060e22fe1ab8cc8e6b74b7fe56236e62a05fd78cfd734c982035bc86": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "9590d35ca19891c4d2a8393b53198a5ca96c79ecf75e39207e2e112f09820a57",
+      "sha256_json": "19f3d3785a37be734916190453004e954e192038f0dc6c2e1d035e1ac5f072c3",
       "sha256_txt": "9c7a50be39c8eed2dfed25238a0a62ea877fd26eede77194a9dffd0ca1165fe0"
     },
     "7d0b3f8f590d6fa6f4205a4a393a4cc5c5a74e1209b2e1b96e595271072350a2": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "02aeeac96189bc3941c28b1acf77dee946288375abd697ba33917c201e59a41a",
-      "sha256_txt": "d1b3730e93534ff98708cd8e58a91d140775a03bca8048688c687bb17855becb"
+      "sha256_json": "7625ae0510b4c6e2f1b6556c261926736b1a431d5dc7eabea8c55fac7b688857",
+      "sha256_txt": "82a1d00fa7b53586a847d10918a210ba0017c0e718d646767b254a67ef7c48b7"
     },
     "b427d9d82d6eb8a77d38b08e485afd04ca4f3774c5bfcec21be28891c2996eb1": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "3ff7a2b89b0d8fb5e1dac1bebe923f56413fb9b9091f0be76ddef7aca2c7ca48",
+      "sha256_json": "dc9c3d4bbb966fd25078fc84b8112c18ababee67f699aa03e3cf8d77bf09bc9d",
       "sha256_txt": "01cdc4600a1a305eadfb128e29770b32fdd379b375e43151860716791aacc869"
     },
     "549ee8da4e5f6049249631f37c3cdd9d37dfbc629ea069ed19955b97152411d7": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d2d3aa58ce959c836dd840175d5214708c500270c85013e41a84cf3caeba7a22",
+      "sha256_json": "49ba443287004c813262532158c417288468b0e1721c3854179d4cea9756f0fe",
       "sha256_txt": "750699692ec42359117a938a7fbe56441ef1015416c30a0c62ec4b64f2420f76"
     },
     "ab42a543c5a20619398386467d32b03ac0c25640de12f60bff1a1dfea45a7a35": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "4cf67463ef1ff5ccb096015178dea8574583d557212b860cbcabc7288ffa789a",
+      "sha256_json": "6616ee912fc045f724818d3a37a2fc0acbe970b91df46457ba876be2c2a54279",
       "sha256_txt": "360c1cbdd9a38292dcaaab96889c6b9d5425ad9a1ba3174fd8602d41bd1c94c6"
     },
     "c3a7fea74467bab60c1124fea90b57747a063c553e7935531f330ad945b06bbe": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d992132b701fcf91c3fa7c2c216ddf9c856fe5f2abf27fac959814d6db03038c",
+      "sha256_json": "00a6ce3a1f910e9d7caf4af33a6a212a057d7e5af4bb67bace69fc3cd6187f51",
       "sha256_txt": "a52b07e4346e5f289079ad430329bca478e5d5e6741ca8961cd1800123ccc545"
     },
     "fd7a5b10ff0480f46b06af1c5d12f4b86492206b4cce9aaab839382e9733b328": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "104f8afe8654236eb15411b9c11e9c48d65a2c727d8cd486867e3e10a4e23672",
+      "sha256_json": "2e71b32660f430626fdb2ac741b9e4333d274865a9a64fc2d75f04d44fe9d77f",
       "sha256_txt": "67362e045d9f5cad4f1cc4aa641b14c8291e1d806d5214360453e6c6914da29a"
     },
     "257b1af0fe29bdaae9c254ef146234a6a8086bb0efd9500d049f6e99ed8139c4": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "14610b43ab1cac6fdf0c8439c60c4d9c83424f61fa4535f6b563ecfb7a9cd515",
+      "sha256_json": "0b221f62293739ba6bef9ca50325f20c9cb1ab728b4810a536928765756828f5",
       "sha256_txt": "a3cf3018333719ea1e8feff5cb3174100230e6cd49d5f47d38eb5640a2047265"
     },
     "a18d607ef23ab5930070dd776e613a38a6a57aeebb2778f13ae97d99edcaf7ef": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "989049e1b09927ad206c10df03f88b4380b60e957fde39695ba691c3811b9cbe",
-      "sha256_txt": "ec6e46b22f68696a614c1e516e64c1fbf2436437ecdc2913c86f448b0c4f2eb1"
+      "sha256_json": "bbeb8b8f2add0c328e2f01bac0374799f3b6b41150b2eb7e59425dcf38dfa2e3",
+      "sha256_txt": "e4723a283a14bde29d3b4c74d8f0094e078b28056d082cc15330b22544e98425"
     },
     "ef79e6dcba8c76f6a27ad874b5629076e93317512f0d3563e5a91ead94a847fe": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d6983a2b080c22414c174c76fd9e72417f1cef8c7d462cd238d02d012db329b0",
+      "sha256_json": "c7052233a28df110c6ed9ebba6f0361685bb40445da378c234d0ba1696871d8e",
       "sha256_txt": "f493712d40b6076c084339ba50d70a436a328c2e3771622824be34638442de35"
     },
     "1d78ab4dd4d78d042c7bcf52753e435ee52dacfc83e8f82747acc979c98f86ad": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "9930e227e23d784b64bfc84fe3dafceebd253eac01b108343528e8995d48fccc",
+      "sha256_json": "f93b015d5bb65ae714b61903cddeef0dda6745f0b23fc4994cac315bd852255a",
       "sha256_txt": "f55eefa6f060cce8054ca16867d459937ee25517641fb8254331531e38703ab2"
     },
     "149d1c8073cab11aaa215186c0d907676e07a9fdc7bce2b40a87f15e56852e2c": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "7aea14b40a7cd72237f2abfc6f6f95e5527bbd89ad131a447eb6feff605a7299",
+      "sha256_json": "8079ca10fd5307a53cd7f9b04544a13fa5ff30e6fdce53f63dc49e57738ecb9c",
       "sha256_txt": "fb3a35fce889387df33b41bf2f30635f4335a885163e7f427741cc1c99fa1401"
     },
     "e4cb11d65c285dc54fd02755d43c00080b7ed0da0ed12ae3277c2f5422a4ba54": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "51aad9b1c338882b72ec68c76d6d7ba0726d16542a1978dc77d1ff403ab786f1",
+      "sha256_json": "46f042947e9cbf6076936ca8ecaa3d18ac1af7cd1a0351cab54fd0edecef5016",
       "sha256_txt": "1fc27530c2e9ca486f9b5001ed3858b6d46da25ce561cc8c5100992ae8f1af7f"
     },
     "2926f9490c4b292cf2aa65b6636e89460c746db4a441044734ce6463075d5c33": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "87c8e30b202665617c63fb58d2673f83352e5e2bc1c486768a4b477a292e3307",
+      "sha256_json": "db7983e5946a617a6791278ef712d1333f6475c47e17f6468116f9ceefb474ef",
       "sha256_txt": "4f9d11592503044a2efe19ecb8369ebd7394670d4528cf8df1e61d3e8712fa3f"
     },
     "1ea95348e6402dd6bea124cba554e3790c30b974341b1103db137ac147b833d0": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "04057c78f605cb3ff4e611b756dcbf68e3729bcc7a4b92751faca48c2381db83",
+      "sha256_json": "5a75d072037f865a121a4b3703882e67c19dfc32428471e7bdd76b9e403e604d",
       "sha256_txt": "82976239a7f336cf0563a2684bf17e556a40faa41383f19442e82b47d5f2bd27"
     },
     "14936b111e42d2147ca84dde69768d0dfeee8a5576356c837ae1e9289a176b58": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b0734fcc8ca838d54d67049fba959b3a1b9398ca18168ad745c66ea7ed538551",
+      "sha256_json": "93eb8789c44849da27708e0bfe09ebb5ada502f52231a93251472dc2a13c4951",
       "sha256_txt": "51ba59e0cdcb1663f5a1d0fc50f70b4bc0e691655879647f7529afdffc084dd9"
     },
     "0e0f133cfe7522124734fd92448e7758f6cdb26f90c6be20e15bc96d6aaaa831": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "4a48f7aafd11df362411d9913282403439a29aa501a678af281c2894fae1d100",
+      "sha256_json": "3626d8535cd758ce849571649236f23abcf598b11eca8b7b25b09611846221e3",
       "sha256_txt": "557685e005d321ff0ae49ef385e118243328b2fa9ab9bb4c465c45a07b9376f1"
     },
     "d378a24b78d558f7240a71389bb024aa64725ac3f0fd64172c41ec583dcf1271": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "3c0f2932119ee19d343851b2e6c9d330db8f51148db24940e336c9a0ce029c17",
+      "sha256_json": "1651d33e9f6ac9c1db7fce7b2f91d84243d62ac1dad8cfb24dd919f4ab558178",
       "sha256_txt": "67d5c507d410eec2d5b33ec7edee07af6c22cc51c3ce06de1a75b22bfa89c599"
     },
     "69970b439757e12d36ff5ccca49456ae7d5ee7c443708d65b25a942d3569411e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "366d6c055fba771a4aace10b6d6b1cd1e572e94f74af4bd596e2f84c393ce142",
+      "sha256_json": "acc21d6a10fe3ca59580b05114a5b42267911ea3fdd0f30895979c39876d96ad",
       "sha256_txt": "cadcb025f7c27c70de142f44b37dc766c24a6f26e151de33093fc5f29b56e15e"
     },
     "98667408b948d15d9e44a7c7bead4699f7d497cf0fe342f6cf54f2e65ad9136a": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8d847e9159e76c7c92bc9c8d69bd4aad644014c9887ae9d403ede946ffefa2d7",
+      "sha256_json": "b468488637548816169d581e50b34f51f1c86afc02421af46cc10be3067ce03c",
       "sha256_txt": "56357479f6d7c9ca9c0947af0a2a704398617024f854c150a2ff7dca87f9b90a"
     },
     "4d5f5640d6c92659b7fa4292f1ba82d509f9f8ce8f392f16729ffa5dae99c43f": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "699478d9b513804c7967f1004ade5743892f2e81240ce3e043db686b8d36f117",
+      "sha256_json": "d0459ef8eb646f1585e713b32edef0649795a5cb7e6959ae724c7c0cd1343ee9",
       "sha256_txt": "a3e6f1639cdc64f366e7aa693bd7d80b6ec99b8d6103846407cbe18057443aba"
     },
     "752c2e7a6d79e99ed4fcdf4aecfb378a52dc362ec1da35943d21eb611d1a6fdd": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "4d5c9c08ad59805629c9fc046937373c9a302a3cb75181eb1ccf4fe9c5e73dd2",
-      "sha256_txt": "921a387e08160f04be1730e16636df4ca4da21409cd084a6ae592f3186f48d80"
+      "sha256_json": "b3941cfe3d396636a9d7acfd86f932c53cd32db0f8c0df0f884688719cc9a675",
+      "sha256_txt": "15b2c3fb6a1f495b34c9cee5cef8eae7b561301596711a1a91a63b79c117f23f"
     },
     "0bc9c1d86bfe7810a01081e0501b43130bbb117d445b84796eb34dbed12d32ad": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ed5969f11e534daa086779425039cac82784dfffd74a8dae06bc903252fe8c91",
+      "sha256_json": "f209a9f0a8ce2672de7a5ff818dc1c69353acb6770db6d8556b0ceafef858100",
       "sha256_txt": "01baa7d7bdd88871d991cc92b527c81eaa45f5357a00266231eb3950d0f70b29"
     },
     "d8ec344a16611238c73290b23515442c297c9aacecacde0f3d32b61721c6155b": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "37d3a7f9ab40be55f87f754ddf17fb9622fca27cd8c6075f4147e1bbc105d0ed",
+      "sha256_json": "dd2e4dfe5dc83e05ef54cd26d0a4d0c7b71d0e4453e4745ce0519c36490778f7",
       "sha256_txt": "f96350d1df1a366b18b112ccc8bdcb48a0d2fbf4ed2bdac6c3a1e27b4dc80f69"
     },
     "856e272a973db702d2059fee86ca079abe7fa4d706fbbbf01ea3265d42f74ee6": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "0eb15c50b096ba6514dc4d2df40ceb626bf528d498774def453c1d89dd270d7e",
+      "sha256_json": "fce61439849de23fff1dd9c63d569df068685757aca5bdce11df71b7fe40c29b",
       "sha256_txt": "cfcfcaa413f779d1886f6df96f00fcad2396e163bcdafb5eaa8e25576bbf976a"
     },
     "dc3f31c9586c481be3463be4dd70f3cd28f346cd196d8875ab94b4deccdd990a": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ee42134a58ef98d66b5903245bc09227d96a55ac96254b61e9fd18ffd9a09f77",
+      "sha256_json": "ace6c5de2a03c1ecb73a30f277418d88cb7d6c4d37a38f7e2452367a06a18eb0",
       "sha256_txt": "926d476d034d45e9e6032390714752c752bd9421c0863e7a18e5f9a3235156fe"
     },
     "acebb428dec5f88d36d958ff6ec50adfaa1378d3b58d5793f26f076cdb1e707c": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "318c8c254df4fe37229f11cf1af9b1ab90ed1232eea602016f155a6ce27ec744",
+      "sha256_json": "a8ea260b54a0c868426268eed10eec4596f1ccbf308a69436c0bd58bfe77603d",
       "sha256_txt": "c0310e6ca4e57efada386e7ee2a842c2aff5646d68ed7177fd6f7d9680962ac9"
     },
     "673ed7034c71d2353bfcb52810e52231e70be425b884808a2f1da58a634bd7d5": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "16942a1f793eb898946ef17439d267da51c4d6dfc98a96298da3aa866e011b17",
+      "sha256_json": "ef891ece91bd74d218e07d36b4dc11675dc4b77821721d1e42bf368476331a29",
       "sha256_txt": "676ac2dfe1fc285dae74bb8eb19e038ada41097febcde178c885ffb3966d1934"
     },
     "349cfe6be610bcc0bf8805d822cc2c5cdaab9721450a5854d02b8dbc2f6c5db3": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "572b6c03546536319d71c6e00913f93b5b16704e7200f252f34aef11f1f0713d",
+      "sha256_json": "9fa0f0d31a23982e3da1a425f7d6c28ef1d8f1a46f43cb3d3ff2160fd7b4fa8d",
       "sha256_txt": "b475520ad5bd3d8f106f1dd68eb0a41812bdfd2e447c44a93326c400c21cd27d"
     },
     "d562e310809a371f849f6a13ace8c0ee61de3a754518d17faf5c8d0f6e3a2635": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "80043734995353448306e51c76aade2f24c2f64b9b54590ff967269e22805cc7",
+      "sha256_json": "9f8851eb50b1d3d719e230a71eef1055952f9e6418d4a0c2055b390f6143ac67",
       "sha256_txt": "57c8a9a22e59756539ace73f0850c8bf5f28c6e5f9c620ca790595499ba640dd"
     },
     "79889e3c70c46c7b874fbe36c759f33a704a0bbcc022146617fa7d795b18a3c7": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "c5a56cfe213ac7afe712f271677659f5b26f648841774f6109b7239eb6968c3f",
+      "sha256_json": "e7abccb080581cdd84b8be4c2bab21b0133b5c341184e63721cd764ee4c4af31",
       "sha256_txt": "629cdc281e68e98f24cf249d19d4a21670f546887a4b3c0bbf1837022f68ef0f"
     },
     "c7bf32b08a77fb772282cbab8202e2208151d51ab6ced517e4738235d9ccbadf": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "43b179a3dcd18ef257bfe53ffeb1812e17ec58201a030e601b1ca21655db6d59",
-      "sha256_txt": "a79b8fb3983558a13c61e6c1f07ff68b1113dbb63369f17c8a20447a436ff2ec"
+      "sha256_json": "a14b29eb2de5fbeaf2981622f35a0596e6600f87cfa54f12c23b24451fb8b304",
+      "sha256_txt": "95720b83892dc1b3eaf0a93e5b58cc3e0e9d25012caa03346c6df2c648642486"
     },
     "9b863f9601c944c0b6ba9c20f6de32e20e3947b5791024e1d176816e8916b5d3": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8768e5692b8f3aeb05c8ad1e10cc479aa89910e59b9786e395c97662996a69eb",
+      "sha256_json": "e3925eb035e4e3c92b335b50dbb9d98c5c12c1c91e755c6c3a0b0b333b2aa02f",
       "sha256_txt": "36a9af5a3c1e080cdd3296e184629f8d70bc75e64d932a62ccce665710a919dd"
     },
     "552c8837ea94596a416afac29cf174b2a6e01c1c711f5806ca135708fd9cca1c": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "275d34314d9dafb52ab4ea04075c10784a0e2ed987cefe190fe2e4827cbd0c16",
+      "sha256_json": "b6d64dfa07168e02ef0f381da060628d6f19f2a74884dacb7d58d9ca27e7190c",
       "sha256_txt": "0e287b64c44e3bdb07fc1dce9f9c7ac999433a84a9b41030a8e37576962736df"
     },
     "e44f5df5d02720c4e2c21c7a1bfda5242de7ee3584e00b4c1f83ab3d50613dcc": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "676c6bb6b70534f753650060ed97826df77655f3fabcd9929410e0e6168a511a",
+      "sha256_json": "1fc5986a663f50de3740dc983b35ee05f6b532fbc0f6ccd6102aafaadbe93200",
       "sha256_txt": "c68c037ab8b7edaf4e192a6bac0f26109a0785637dc9be16fd3d5b711f279f07"
     },
     "ecdb759e1ce44e95de269f150b02124bf21e5b4dc455427620b2fac507b4af7d": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "bad6a94851dbe4962160db4b5628192e9584de1280022b7cf3f80f43677fd6a9",
+      "sha256_json": "fcce2051e885e95f1afcf9bf9b6fb80fd85af1ed9f35dc9a35c9865cc1cac024",
       "sha256_txt": "111c252d0ccff93eb0187c39ebee063d2751751316e79e0b956a916697ec92a9"
     },
     "84d29851af6b8e92855630c87de96525fb521a8d030accecdbb8864f1fc01b86": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "742f518588fc26a924c3d150b8e78946ee82b6e6b490e81c4345b16270acda6e",
-      "sha256_txt": "b7ca97128e6fc33829bf3ebabec681ec69eb61297d26dbc18d746845c4ff34e1"
+      "sha256_json": "b88b5e07e27b30b892abfb6c31659f545e234ad4175b42d70a19399d16e50be9",
+      "sha256_txt": "5c32bb1a777d7c4dfa7a01edd71926239601fce20de6242507971b62120a0ddb"
     },
     "3a6f7a3178fc5cb33408ad98f21e4226584b880378fb2c9132630de175f79335": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ddd5b47b6b176ebc5e5021123ab33a2173b1f0a4b21a005b60b368fd76828a51",
+      "sha256_json": "a0228cfaa1bc7a29c3a28783814dfe7dd7051348183965979e7ffb58b785d7d7",
       "sha256_txt": "eb4ec3b4312e18a4f814c17ba4f1fcfca793fd934bf88ef07f669f2f9eea415b"
     },
     "df0219300b646c9b3e296d651c8515451898eee1b11c56d445ed74e894c85329": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ec0ea9c00e0e7f92d795faf8ccdb5571c3a7ac953b8e255dfc617d680ac581e2",
+      "sha256_json": "156aa6a3de865040fc554de83eda15f0d11aa039c15fc9f9cf85f863a7b83314",
       "sha256_txt": "da4d57777bfcea7f680d16123a04c93ba2a191b1e222e181ad6d952be384d7dd"
     },
     "9fa04a6b722ca6e302b8515f5218116ceb6072b5af7cae49d3786eb67c075e32": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "bc4cae592117a0d9a3f3adcf0395279dc7c83079dd6f4228cc4e3a0cf244bcbe",
+      "sha256_json": "9e162b54238d5286f8bb183070a293d16e4b150ef462c9c4656c779d8ea0c74f",
       "sha256_txt": "31f355ac82c95c6677ed593d333440cd9e63004334915d76269e5261bc0b04de"
     },
     "a6f42cf09fb82fdcb48ad814c63c47b43d9cfd7f66aee540ecf7ec4c1641add4": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "2253b78447ae992519c6bd968e07141a1ba6d9b37ab0de45dd306e2c2f3d8486",
+      "sha256_json": "4d58ab601081bfd45363ed7a48cc1090c37c2a6296284bfa436ff51d7f64ab57",
       "sha256_txt": "1b6f5500a6b2f90036aa7497e758e3eeca8309db041ad565f770031abaddb52a"
     },
     "06bd4a77795f177857df93153710d75e707e4de30e6d4a2c6dc14639da071846": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "096b4c5c88fa421d8965338ffa8d1ab0665e5b1d151600e09e356d6d1dabc3d1",
-      "sha256_txt": "4ba44b7e32639348c8efcbe9a4af6d3f25091315f248d64f826d717b2a9d8fb8"
+      "sha256_json": "38c9e460c4d1497b18aacd53ecc54d579deee72f0406826f3d70f91016588c29",
+      "sha256_txt": "ddb39f6bc603dc59add222c116f501478b34feb226f6dd49325c77ab680e095b"
     },
     "fa138796a93e031f92dcd63ff0b3f1d3140e8a61f3067b2ea44f5dec0f1da0cd": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "a223a7dffb6ebd00f807d95dc8492d4dffed27c772a22d9b999525e92f77effb",
+      "sha256_json": "e7aa208bf9d3fae63592958923539566a45fdc6dffec9def5ddc5aef9fa4923b",
       "sha256_txt": "0ecfccaa669280f6fd4fd7eb70812ae232981896d4d2564802a5e5117a9acccf"
     },
     "2a45fadb9da303c79341e0a0f1698c15ba2f66cf8c3eb51c454f5c2880afe67d": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "77e0a6cde2e5d72460e774b3148628bf8769b8562cc06bb5968bb4082e385eaa",
+      "sha256_json": "5494227141e6df3892b15b03253c3dd8c07a8424967f1bc670903c868ff4f874",
       "sha256_txt": "cbdf9ea2c5331f88ee9fad1cd568e3cf58f510ce88d97e7c795f66e0765140e3"
     },
     "ae0bbbd9b99c3d42d5a723a5cef44d25a6afc8696bac12d8048a459e803d2e82": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "40a5b99ff08475df94e55a4c4463d72a909236215dd51c6f3499a13b767389bd",
+      "sha256_json": "4fb02f5f475a366087bd7ec9cfcaf8f61057520882ed7b5f70552d8f4952513a",
       "sha256_txt": "61a57c68a49b7c5669600c3378a4be4d802f23fb890aeb28eed7ebeee6a5b509"
     },
     "7174723932095777fcf73c3ca03688478dd8187b2c6f95eb79be2e7d38a16522": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "293cf4ad1e58ffd6083f9b64460a31940d556d870fee2e6012c1b423d55e2cd3",
+      "sha256_json": "61d3963a5d1941d8cde8a4fc26ac0e3dd15b5f091bf287471a1a6533d5cf013f",
       "sha256_txt": "ba290a78b85e8d5bdca3eb6e6bf7eaeaca12750c4e303807107d035474f6402b"
     },
     "f9b283e5cbfef9123bf0532b404e69ebf9b1404bd15cf12293279d18e5265ea4": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "742491591e90c2d644766703162e04e6a7b7512267fcb275cd135a6097e563de",
+      "sha256_json": "cc8c7a397952c9416bddfb7cf00b5b0b559eb47a525858024a2efacfe22824cf",
       "sha256_txt": "1043f2ff6c020b855c220381aa882d838b9a69314889034d8f43fa2f16e5f30b"
     },
     "d37c1e9c48a5f703310820794e0c6ebd421b0d9d80cfc3e95e772822a1df684f": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "020b55f8462b0e598ec5783e06b528c3c6754c3d1db9b4c22f221653805f5ed4",
+      "sha256_json": "e59a7a0b11de7e0adf0870d9a5342d7004d89e86943f9876f61cc4335418a299",
       "sha256_txt": "e0e2eb3ffb0719601728afa204890eeee4866ac99297d6033ad93edcd7760906"
     },
     "96706fa17950c23eeeb0f7fb336b283a501ebe2eab9e30c12a405e69c8b1049c": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "7631f3fa0ee72e3d2caedfa64293d2cb3777e2fb95a99c8a6d875d70adf5bab8",
+      "sha256_json": "88996012ec0f816ff67b187783be58501c02b6d80d533f7409103e96b7ebf1c1",
       "sha256_txt": "fc5a0cddb7b59097f546dc7e196c7394cc5ff18e4f39b1e4a14a118eda9f6a00"
     },
     "6bb3b7dc8be98808dcb9d593bd7908323e855be4a411ae6d0bede55162255a3f": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b220f44d04a42a36d1f5bacb7b9c73e4d9418491eb750643474e9e455691413b",
+      "sha256_json": "b223e9957132df948dff4abe5917b041115171aadbc02a4a3ce25060f32fae2e",
       "sha256_txt": "e80f8e55ef6c7d20fba4b625aa33613fbb62db4599709136f88eaa690c95dfcb"
     },
     "60503aa9f797e6da68c85761c12891d6f71ef831d9a38e77032193fb2d0ca2a3": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f784a6c3e252535091536f4e9b054c9a5294e3af9aaa9d4455d65a8e184af9e6",
+      "sha256_json": "4667ff3282de412607b2681cdfee1f4a7714573c2fd6638dbd1b593218904191",
       "sha256_txt": "0803cf47242de5e41e62cf2fa12d0fce7ff9e46786ff7ef692fad45e4878082e"
     },
     "b8b54a08ba2d5afd0a21f43a52ba4411930db2f5b54349a0712e44524d9be3aa": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "74f80aa9fd2b57995b566d7031f36bc12924140acc89a4e607d54bf02cf1dca1",
+      "sha256_json": "69cf8ab1ab3ff823f5b1ca72857ad48a5402ad2eaf4c7ddc32f84247cce4c708",
       "sha256_txt": "57009c58e01aa1733373c8bc788438de9af8ab7b97d70d8d289fecbb1e38f457"
     },
     "aedf1b57ba2294423e2f311811e6423b46b204c32278618ac538a3d869364787": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d3ba09579f76b90218aa942da7e9da5cb4ab748194e7dce6c18a6d349da9ffbb",
+      "sha256_json": "c3ed2aa303071aa6d0b0ab2cfe847abd36bdd832be9145ca06903b5c9cff4096",
       "sha256_txt": "1d327930bbd572ee58eeee1d65d86b5a3c42c6504e646e77517da6bd1b4ec798"
     },
     "3c2eaa19d6097108c5f2db30990dc4f96bfadd06d42adc14144781d2f747867a": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d87727d174555e17a56b6c351b0198f9517882535d5dee22dc99380c96be52b8",
+      "sha256_json": "dbf37993bc9192507eb0d2b5b3c571c3c0bcbd85d8e844655e2ba5e113a47e3c",
       "sha256_txt": "592e6d08cc0031167a8e248c1e2603eeeea31ce06e99c60b1ed915abe1a91e56"
     },
     "8fc30e0545485c440b8761bd6e9e247f164e0157491165a981efb79615805407": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "bcef6923365cdbf3ba59117390b632aaa10512250c9461ffed2bec9badcee5ed",
+      "sha256_json": "b0e7a265cf9d17df25fde18b02923741cd395ec3b035bdeaef33ec6727e0419a",
       "sha256_txt": "6856759f9de23fc6c5b5f39d9a5fc393df28af32bbdd5b9ca44054e416fbcf1d"
     },
     "4da7ad5ecb15e8bb35a2c16ad05a39b7def8459618a560cbb7503846a8192fed": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b1c2edc3df25d6934f7e7c0bcbb4c2bb35ce5d20e0e9646a98105260f17f54ca",
-      "sha256_txt": "e90ed4c4eec7aba521ea6cfe30ed8d74f364503a7fe1cdb0c5c940f0db105c5f"
+      "sha256_json": "e41b4acc06439e07b9a9f10be7729085768ca19d8cd787f2f2f0348ed9a60f8e",
+      "sha256_txt": "6eb65d695b330cb2c002e11986399d51f42fe08b99d0392fa18298ff559614fd"
     },
     "bd42fd5049b167ea8c3e314d2f265b9673f973ab60d4d6c3516940ed2f23cf9f": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "92fa561a85dd3d25893c87fee85263ca362f64299968e483bbaa4d9a91b0b259",
+      "sha256_json": "8a838eb5dd23068f6a1705e454bae63292b29c30462fb2a8fce9385dbb354201",
       "sha256_txt": "846584ae5e76b6c6636f8dd2d04a5e1c3553098516dffa47721bface34aeb42c"
     },
     "3ad9e3151eeafd463a3436034b6dbc5be053c7d15c39390d87b0e72bd0e1b0b5": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "916f53b0a49c2b8f0025958513115efb364e952a3107072acda0c366c2432364",
+      "sha256_json": "61e1c3be24dd4e6690b467dd2c9790a62710af69f5c7f9a4210af314880d8342",
       "sha256_txt": "699f6fffa30d641e733b7c5d6caea96ab33f48aa49ab24e08c8e763a798db26f"
     },
     "dba4d19f79f5269ed30c0b9506f6e1922ebea1db4c537bf8f61f9e1c8226fa9b": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "198381e89b6c40a2053b5185ccd6d125a6abe584e3d5f8284ad19623b6b1bb7c",
+      "sha256_json": "6edfed2332b55c95dd3cc5e83fe6ba4939d02cc2806828b4673040a3065d6c62",
       "sha256_txt": "2bd6134c62b63bd922a8ad58f8985225b5ac6e0e99adbad45ea31af6120537eb"
     },
     "3739cdba7d5ecc488feb69eb5fb314dd4d4548bcff27d0eed2dc5b6e380f47ac": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "4b0eed4b9be19a915d24e0fe19860fcef48c5696e33af252dfcd518bac3156e1",
+      "sha256_json": "66050fb99543b694e114aba325e70ed3f5814c5458fad7f6448cf23136ed02f0",
       "sha256_txt": "0f4a36ba1866aae2e37effd560721e537e9b57415a56d0a2f5ff4bd826cd5a3b"
     },
     "7803047148bceebac2ffc6c9fc5993723c0ac15dc9fb42849a6ba43eb519e785": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "fc38970295fab15c4de550d5e2c3f411202bbb09686d2f87112c4dcb6d2c27de",
+      "sha256_json": "bae7ab3e97b1fb6ecb7738404ccb66abe5442501eadea21fc7deda6ce91d9f6c",
       "sha256_txt": "b39d9dbcc57affe9c729c76894fb109885fb70cb4084157755c76483c8e1a62c"
     },
     "f2a4663e7db8303bf99af07d4244bd27d24345426387f458f14e43809b055b18": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "66c8bb0dc82ddbc738bc25a4092039d2609c078d9602f32df6c23dc100af413a",
+      "sha256_json": "4913116522cd62b5d432b111b191e761863338a4c83bdb28100c0678dd633152",
       "sha256_txt": "94c1a2716c8cff033d1576a7fca6a906700c836c15d40881175bfb19431b330d"
     },
     "d69d24822bd796bd9c43266730230bfe593d181563c49a3f8289211f52ce79f8": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "9b5c157874842686c8b0b715cc0fedbf912407f9a8130ea4433a371f290a6b5e",
+      "sha256_json": "3bdd0c4c3f18e95d0a820ee29e9c2642444990ee7fdc989fbcd5747f5e842faf",
       "sha256_txt": "539dfbf16947f8d5a5081392383d7997d6a0d39cdce9f5c0ff660a8c81943373"
     },
     "182156d40cae34f3a2198b1bf22e9213b779e3f69bfdd5b8274a9cbbf67a1c54": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "961999eb2d7613d760f44c46c0741d568d0d35c9da9b747498ce3c608f669c5c",
+      "sha256_json": "c2bbb9e2f50ec0b32388613f8e1773ee69a175f587054cf5a6c9148fb2b8e8a9",
       "sha256_txt": "f2d9c2d977d470d97bf2011d036eb15952cc3368d8f9dfd23577cc5c811fa4f4"
     },
     "9c195a9260670af01e84bc4b99ca6aacc25b8dfbb7453b2d6be349c17b7278aa": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "2e2865f8efb508959c0d47437c7b5026e8cba48746b0c4302014a718cd706ebc",
+      "sha256_json": "590f281536ff736c8653d650953e57a87a59e0119eeab6ff8ac6f6feaf8db4af",
       "sha256_txt": "4fb09e4a0946c8cbcff01fdd170cbf9e3aecf6efe239dbcb9b2c0293d56fc959"
     },
     "14d6a68c978c3f16bc7ad448880d9a28b27faaf72255d78c35326806f5a183f7": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ca5f730a7c36dd6005d8533c42a1fee640ecc81d4beb081bf25bb750e4480b44",
+      "sha256_json": "cc1ce12a406498ffa390a6b727671e8797f85100c013127caf9a2ccdcb67095e",
       "sha256_txt": "d8912ea2af0908d87d59cc30a25d64e3ebc2e6c621ff574207ed82b449d17afa"
     },
     "3c546209037cd9fdf5cd4e5d88a790dbc1e4eee2a69b691f6136453c2a8bf8dc": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "16a6fa68924bf7ff14930439527c9a379b7cc308bf8b7da70707b282c510763b",
+      "sha256_json": "a9850e6d2f92bcb29809a3218d3035c0e4c616b674c2ffc837f98e5d4f61dd57",
       "sha256_txt": "df5715dfe496baa87a2da115cb9dc263680d4c248185a84e70994c659c4c0a36"
     },
     "db6cee4ae9d2577f51d4a43dd17a12cf4baae65e8c9e07c7ebb19381130646f3": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d3dd76b7be4d0b06b74df984d9a28fbdfb656f5e74c50cb868ad6dd36f0e5a77",
+      "sha256_json": "5abf74fd1c953f747fbcaa658e781a0a40453c14e98fb3aa4b855ca2c6d56e07",
       "sha256_txt": "88ca11a45283f511948c28c98c833f90333eae38f07b1bd8cc49f8d3badb2574"
     },
     "62c94104116dc03e7477e2c18265b583d805fc897f708542cae64b5127ff030d": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ab319549b9cfb5faca0419d57be8eb61b77c19fcc9a38ced4e876395fc8b0057",
+      "sha256_json": "64bb3a9362f0e2f726007cf2af81c422dcde9e2c8af3cd9259b0b406d515e1af",
       "sha256_txt": "676cffbb98e031423c35ea456215eaa2a19cfc889fc3154506ed5ea65249b58a"
     },
     "95e11b9f450090f18e64f37ab1720a089a8049df234c6a146e324bdfe2b78cb2": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "120d6ccf62b96e7d14a214aae0238b1cf1c257af4f6a59b3101cca77eda1fb31",
+      "sha256_json": "1dff805df8bb3485cb3155444bf3b7eb8e15d357244ff9b3b655a46959dcdc61",
       "sha256_txt": "abd9c1a3cf5031d39a631f7d5c0f2bc7245332d6ab3637f89e5496d47053eeff"
     },
     "edff77f3152855f92c91b726c44965c26116f6e05583b64327149bfd92b637b3": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "5f991a6ebcfd88a157e54ad49b6466c0c3b008a7fcd63493e8bd5b7968e77a6a",
+      "sha256_json": "da1e39a84c1cf455b9c2a821d0d57b4e4f68e706d19a40813961e045e2e717c0",
       "sha256_txt": "a4a2328ddd1be60d5434672c03d8204105a1bcc6dfc2ea997f7025e816a54937"
     },
     "a031c66f3c70f20d5a57110182789d1334a7c04bb93daeb61f016d762da008c6": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8294f9a470f6e1c473f54e7863c25e54bffdd27e5c838cf7bf0b67f1fc6124d3",
+      "sha256_json": "e512fda574eaa40483250acd51f2a9e626aff323bbae1279b98499709ee4570f",
       "sha256_txt": "9ad3c1242cb9669a73472d884480daeb179ae22156869bcff04f3a2064089048"
     },
     "3419f67f9decddc4b71170abd67f543cabdf946b6125734981f1aa817bf41618": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "2b43b6bf4b302eff6ba27ef12578d28077ae6150a6895ce8c9ed1761deb934da",
+      "sha256_json": "32147dd2599e5ef1afa35d32163572bd2d6dfd7952fc2c8c5b19c4373ecf51a5",
       "sha256_txt": "877402cb17417a3eabbd05c5245d4218758a7706f0c3bb34850cd5a822d547da"
     },
     "035b77489c7347ec562dcf67231b2c729fc91a64c0fdb0581e19a976a066cbb3": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8c516f5770484e8bccff81244931fd19297fa566f562bc5383e914397aa61e01",
+      "sha256_json": "7a7066c748ef50170f09f429d24694aa7aaeb2fd5796e6ad2497ec084526fd6c",
       "sha256_txt": "8af9e34a5cb20facd2a3a69599cb5bca7ba883fbabd3d643a80244c3d158cefa"
     },
     "97f6a66e69989481866f59e562badef03ba5aaaf65655f128ed116ceb70b550b": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "a986950106344ecdac7cbf87f31ad9a51fa03bd6056d44762ea680a1e3f96049",
+      "sha256_json": "8e23ce23119a8297ecba47485249613d879c5c378410f7a3e591961b9ece23d3",
       "sha256_txt": "0ca8ba7a92842d9f5237feae6f1db745b58369f18948390d593d5f438d51a6c1"
     },
     "5e91a3e1a535c8abd4ecddf6d7d4874806a30e5f771394aee78cc252b33e8613": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "825bb31b784530c35992a17b8f02913fc6c305fabee7661c3d27839c32557259",
+      "sha256_json": "5f9f88d30255f8a48f283f3b3f86bcee76c6884fa84fb00f5c04f5024203c0e9",
       "sha256_txt": "5b8db47e1760e40c26136b0abdc35ebb2c6849c05c236f87ce65a73b1f5040bd"
     },
     "a104603a35f306d01d717250a5b0e59c2787e39020a573aa7894026e03d27ff5": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "da974756e1700c154d26ecb052f4197f08f0f289ad2996da21677aff163e2225",
+      "sha256_json": "97369f55af0730b1361ea4afc0bdcf789f2827be153a1340dfb88c9012c175a6",
       "sha256_txt": "0637c5902ef67c4c0e9335b58c0a053af27ba90e62fb450a253739ffb13e1f0a"
     },
     "8f26d2f1f3042531e172382cd9bf26ed4385388d0a824edc584a148a82c8f891": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "766aec351397a5f4e4ccda1bb66514d7bd4a7b5ffe6f2855ce1ad9674ce968d0",
+      "sha256_json": "0a4c6d8d648e85e796ea9fcdd6bd319d2b24994cf941b0ba86540792a0010c43",
       "sha256_txt": "4004220ec745dfa8af06e6abe15e7c562f6ad9ecdd063f81af4fe200faecb2e9"
     },
     "0ce3927bce74ea35de3229fd47627e08e2844dbf3ccb9ab2468b2756007a58cb": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "25c9c5368ca408d3ace755738fccda2719c32088cd516d3a638e1a3af2a3fef3",
+      "sha256_json": "ef7bd838160132f88aba649ddb7c155be34c1f0ba0e427381e90609432f1a23f",
       "sha256_txt": "b469d733ec7d75d26be573911c873508ae3afd848facfd16dd07cf037ef2b99d"
     },
     "3e5f1be66c776055449b4035e3262056e47c68e63909f0eb1ead88f66d26df67": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "df9795da9b16bdd8d0cd60b52a68b6b9dbed48a63bd750855960850bc37c7b07",
+      "sha256_json": "ec6d47f5d1f3628671e8f843456da3c48b9dcce44728be724f8d942dccca6123",
       "sha256_txt": "6d9bffd49337fe81a76826222c503c55ae796bcebc8f413d03d5e2ccf800c303"
     },
     "e96773ae062094b7c3ab23e892ea8ed4a3f6c338505b5147f2814e1e4358af36": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "cdb2ebf3c7e0cc97a16f5a0d651690e603cfc0757e6900823916907e7a23b7b6",
+      "sha256_json": "922213931a6259a8163f64b1e7522f7f8a1bacee05d9c361f75ab87c50a21bfe",
       "sha256_txt": "3abdfbea1d2bd9bc2a21d445ef50e06a7884b6dab2629069d88c5ff01d5cbbcb"
     },
     "7476da87f4b1a140b3fa279fbb9ab010965f792fcd95343973274b327cc6377e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8a28be5019137dd9ab9ae252181e0dd14cec543fcf9db5945fcbe9c029a7bbed",
+      "sha256_json": "4ac68e63390d7c8c6a246889ec33587b4cfca0740df264e142bccb834b508044",
       "sha256_txt": "dd237e65f931f178f3ef95920c6c9d2d1c8ee8b033e2edfb3cc53e16a367573c"
     },
     "f6944ec80d0113940eb61012310f82f0585922c3c66a6c9c98c73e231fbdfdd9": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "9b2386cd7326b45263c2b538f4988ff01b9db2030fefb67c64d23798b7ee987e",
+      "sha256_json": "4ec9209606bfc94ac94faf5eae4aedc127a91c7ee892ff8d0e7488dbedfba4b0",
       "sha256_txt": "f8e194be059c59ee815bfebaa33304ac88f27a37dba2f984304b59b5bb9f0004"
     },
     "2af8a683b8c4d89214bd769735365eee67bfa647bad6ded733cbb57efcaab7e3": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "912c13c91138773970a528a7a340715877be619b2042f7607704e520161ca027",
+      "sha256_json": "c12c244c1ab43cf546bc17bc70dced6d60df415e9d7f4095e286010b1cee605a",
       "sha256_txt": "4df93a6c41bc314ca949ec49c514b6a2a01f45dc24f05c7eff2bdec3c785c3bb"
     },
     "ba3a03bbff6dadda18da962758828e2debe33ceb249c78406887bd71f5a90194": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "5e6bb5c4d0337e41f23ec2ce24c73ff938b6ff470e81858b8ba3ae0cd19dc2a7",
+      "sha256_json": "e9f18a5fe3a98218b12b758c1dd52c81be3162bcface73b0b6fc5b6fe75c5527",
       "sha256_txt": "f530a5939e1bfb90e24741934b0272199c13580e376c177e17b18830c3c2ac9a"
     },
     "804c9ea5acbd7e1aedeecf6cbd09b0ec799697a3f0e8825b8dc1e52cccea9ce1": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "682d8cfa2e77dae520a6c263ba41f6a325d03146f288998f7b15d0e149e16d72",
+      "sha256_json": "3922f1668331c5c99cd79143a56b842b7eba001aa7315fbc36fb606536dac667",
       "sha256_txt": "79a8705bb0b54ba3102c8061f37c8e6c58df98d001cfcaa6e66a14952a46f45e"
     },
     "391ade48574eafda8c4ae0f168943293b013d99a861eb841fb036071787946b4": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "e55188587891188e693b6343f1ef4c626d0efefc671af47c2800beb302bc5b66",
+      "sha256_json": "10a652b946e1a67300a5226f1c2ce1e440095b361fef29c239428455e49622c6",
       "sha256_txt": "1e81f2ba7ca98d1dfd0d5e7d8502363853f821670440537c1d46820670bb6f31"
     },
     "dc9672c36615401e0fedce0d6856fa06adf3a2d80f4ef5331ba79803b4abd140": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "7f155b84a49e9ca7559beca552ca664430491954f82bb7b9c7b8ea10ee7f1365",
+      "sha256_json": "5569f6392bd1a73d8d444ca18f492afb6afe65782e998f1980fe20499caf60c2",
       "sha256_txt": "66133ddd13c5c225ff52ec1281823538bd905ac6532abc3ff653d26d02fbe572"
     },
     "2e275bd69ac80b49de12465b3c87445ce07a588f9471094eb96f0cf404617521": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "69af3bf719ed21db5188da56a578336ffa14722aa542b6b6db9b788071f9d7a8",
+      "sha256_json": "aaca0fdd7e798a5b9ca7617d2cbb7d5df9b1a4af3e77e73863d8c88c0620b1da",
       "sha256_txt": "7e67e6d9e7f757475da93200450ea6b297d52b670fa341ddf9e4fb3cc0d047e1"
     },
     "8911778bdc856c156a2d901220df0a85c1702e852830d8786479e9bac096a735": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ce4d803f6b10fceec6cc011cece71f8b3ad26201c8f95cd6b5a720625f0e6c95",
+      "sha256_json": "ca43088a95d652af81fb069a10c209bf8b711061a0cdee57eb11218a1dbc4a79",
       "sha256_txt": "9a4c73cdc4fbcbd9644d200a3927e5e1b7435a7318116b233451c5af91cc0ec2"
     },
     "76b171f734d5583a179b3dede2ee489d67ee7cd0420dbf9cc8ead7a674a73949": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "fb814b16fda8f28b0bc0eeea23218af187840408c492ef49b2f4575d627fdb8b",
+      "sha256_json": "30f0e25889d04056e45ef34316f5d698192a81170c5439df1c940c3898746a89",
       "sha256_txt": "726b9065cdf73d7a01e6acb87748ab6355222dbeee8713dbf2b78d8f0226d479"
     },
     "e3a3b0619543e12153e05213891ed70ceeac4c34c5142766d2ffeb69f30a1e6a": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "bca38c9aef2c0f3320f3eb07d0ddfa244b723d698c112abee48a3b9e0294ca29",
+      "sha256_json": "98b85a66dd23406457cdbc940177c652fd1e77b423369ca8241a3e0df87515e4",
       "sha256_txt": "7cc4ee939a61250722d24298d76fb9f98f328f8f68a232da87b49e6bb4123e98"
     },
     "0e6db781e0a65d56b09fdcd3bf747d2b55dff050b60e7936560016bbfb64d714": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "fa5c72aa1593f9c923345cb3ae020c9c4f95e33d9936ab7496b8fa9a9310cd93",
+      "sha256_json": "6f13f4da03463af2a2438ba5ecbd95c06538792a127af81b8863d7d6a743e7df",
       "sha256_txt": "b3dd2a58ff1ef29076a1fcfbcbb49874bffe993b31ec66b1c96b0a26b3d50dbc"
     },
     "8d9ec334657aeb6612795226b496305ce1186a5637825f9c4ef0c60d1263de92": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "0ddeea31f148c74d2a5a5071e5bffc7e04c8c3040e427fa0f0f13364304dec7a",
+      "sha256_json": "a4d916ed3864ee916f3a965366fe8c3b817cde4194632aaa3867a6ee1a17419f",
       "sha256_txt": "004f2dadc8abda22eabaa6d37fc14b63a18beab624c3726439dda5cc6bbfe149"
     },
     "bf8a260c9f5e6949f6e7cd0933395e70101e226c9b1df596a4014989cecba811": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "815525a8c70b15d91c7b5c362d06b239a3ea251b8026e59e75f5df99ea14ab38",
-      "sha256_txt": "8097e597f5edb63dc0fb21847f4ba07be2d905884a4711d8241b7e2d6dc3dbae"
+      "sha256_json": "2797a9e6146bd5cf3bdbc044c7efc5f58c377773b112366ccbdf17ee0a08e2e2",
+      "sha256_txt": "f8764b74669b0f067d71051789f2b44e681943de490e018082e59a7d302f868b"
     },
     "a74913cf382dc1b5a91a3ffdc11dde58fadb4a96a7d158e603b5bd52742f7fb2": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ee60c715150d989bb311065b7ff87e66b1bf1fc6c9e38315f22039fdaecca88c",
+      "sha256_json": "9babb5e707bb399958ebd7f546dfbc804b082aa5a858b0a1457f705cc3fb50e0",
       "sha256_txt": "db3a50344951cf3c6886f4f380f8b7c866cd2ae1d44231ee701e1feead402021"
     },
     "75538cf5f6afcd25af1e5fec70c78ca9b2bbee6d166462596b3be4dc24d0b1d8": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "26186425fbc3e99af8b06eba506f199daca35a11f88366dac44a6b65ac28d815",
+      "sha256_json": "da4275202e51a9667e5898e963ac75e93a7315f5b6f8c1762df1f9fec00ca79e",
       "sha256_txt": "3b142cca5e4257acd332394cb4b9e8c66f77c8b409675edd42e4df8a3ceb42c4"
     },
     "314d29c0113e88163c1e1f9bf4580cb45ce6adcf4f80e23af0d7e609d453e88f": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "67e55f3d2e4338c50dfee72a9637e4d8fbc1224edb46158ae6d4483f0dc6c8bf",
+      "sha256_json": "1d4149f41df09a545c214f6f2460027659f82bd2f995548eb1a8ebcf4670cd3a",
       "sha256_txt": "051197e7a9423d9f91a65af299b3c5bcf7c39be967cb6b156782a36203f57cb9"
     },
     "b792b2b50cd13295942cc0d477b90639c4eadd39524827c5736188a064c611ab": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "796861011ddaf0df4ff95de60df5a61c3710ecf4deb053480eba885e8022ce16",
+      "sha256_json": "7f461ac3d21072850a18ff802e336e71c99a98053e3867f6cb4b76c30371629a",
       "sha256_txt": "c535d8320c65a5820e8cd02f7de7a3228512b24a228b235291b496c8b8175635"
     },
     "547c069f83656ba3490ef0e90e4bf65ac02a9c2847adc2c4881301afe673088d": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "7a11dff158c938a2843e2a1c43f1d376ddff286e9a78ffab384b3ff635360063",
-      "sha256_txt": "d7a9b6b3347304cba55d58eaed76101e3f1fe73aded729dba6ff19742a0aca96"
+      "sha256_json": "5412193d63e6b004c2a4df7fa1092e9ca106f5d831517029eb5618378eaa6619",
+      "sha256_txt": "549671f512f91f3ff485a751ba9bac1cf03f71992be96d3cd2e4a331928a3990"
     },
     "c798c763d579e081f401c0b635646bd199a60c52ca8e4bce0aff87836917fb48": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "a4dc6dc3ec25478c09209e0a9ddf1ce13dc6b559b355033681cdb3ff2daaa9f0",
-      "sha256_txt": "ee50c17007f24b14afb969ddaa53f342573cf7c63a5d980ac6ee588ef57843f0"
+      "sha256_json": "ad9526c9873e3284b689de01f703473147a65b4fff96e3a86243ca4c1d1137b9",
+      "sha256_txt": "071d7d806d286c82b4711f29a5e91d65fb1d313fc0bc73528d727801e544491e"
     },
     "f00b9c9783d380929025dbe82f46388823c92c18702e0b1e1b60f23cda2db208": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f4bff8d6b79f4fe31e38e0bb8c6ecb7e0d1679ad81b0f5fdc36713e07efe8f1c",
+      "sha256_json": "fa0d88f11af1b5c50829f0653bc9a0ee79803db7da73b286f04bde09bcf5223e",
       "sha256_txt": "7a549f762898164b63ec6a306269efda1c2f504b3cbe065f7e628e091835fd66"
     },
     "8f54139aef006defb8f280b7283b5fff86dc48ce833543923021259297563a50": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "107923c35f47a73e788e5ab76d26812f2903833b1178b17fee8a2caccdee8764",
+      "sha256_json": "282cb4a760215957781da88a914d741182f7820c807faa67bfe4db46a7657cc3",
       "sha256_txt": "f8b11192a8d4d0dada7e172d97c6dd4d56d2c9939c60bc8f77276b78ee369778"
     },
     "f4832931e9f8eb248e0620982580f397aee6027ff443bff8f8515f01abaa9b52": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "bbce51eb11f26f0a38a0d32b563d7ae03b79a5fefb4a9f3aef3bf61ccbad232f",
+      "sha256_json": "a52af92bf6b5871c9dca359503369a1419f2e66ff11e92276bcc5859344a9f68",
       "sha256_txt": "5224ff84188fd2efbda9bd165f6ba9a3d1a09800bc3dbf4aeb3bc0ab624288a9"
     },
     "a13b133a7087e8b7fc8cc8db27340b68f8c28d4aaea46d3736574529c734446a": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "6caafd8dda788af63dc908c405b01fa567937be75e4cbbe4752fbcf46dcdc827",
+      "sha256_json": "6c736216f58960bae8a32fe7d287e5a579b8878389d603a5b1e2765793949039",
       "sha256_txt": "6197b0d06ab5417902aac163042be714d1c40d48da85f34c131bf76e62f2a1a2"
     },
     "1d03cd9e72b42750db527345a94f5c06c9ea717f1d18ff73237b038032a3b22e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b6604f55378ff26755c6479c68d029999e6f577d914aaa264ce26ab807f48890",
+      "sha256_json": "62c18d881466e811a7880fbc292fefdcaaeb3d1b4ccd51793f6d501ff9bcaecb",
       "sha256_txt": "4c82ad1b1ab54d9b88bf6aaaefc0fd51b4ac9cd815a53e9356b2295e91ed25ed"
     },
     "14433daf1de00ce777d997b6dda831629c36a4cd7fa660f02babda0bed24c2d7": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d888a52d0183f50ece33468aa50198dc761284bd1d174eb7d5cceaf2bd741568",
-      "sha256_txt": "0905b2526fe825f642ec455c3426e5d73c2181d7e880dc4e08265f5e390ea7a0"
+      "sha256_json": "5fc5ed5a682a467ead10025cbe41d0fbc0f7b3ce23eec1d3f1842271fbfeac2f",
+      "sha256_txt": "968a69a39548f2dc4bdac9b503fabad9f2f6e443ae3f19e492ab114b55957e31"
     },
     "75241ff9d36c9128a09d644721a76e863619ddf8f90eba0f4a98d123d3c5e3ed": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "cfa9348d2186db86f608a2d7f642cd96d35c9a90f98d948c1c4ce631479aff92",
+      "sha256_json": "b76b7fe2f47fe6d5bfca598f65d1d2c37341ef7779cc531bea12976555c36bef",
       "sha256_txt": "6942c92c6e86b8b04cb3718f9e5afe0e4b4eba8a9afff48281c9748e6738b299"
     },
     "0ffe9cb570e39acabfd20d85c7024634548664a6edd315494b42fc947be04c8f": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "5b619a3e0b41cd75d160cf7a8d8575e8b99f7fceaa2380c19136c0b1ffcf6489",
+      "sha256_json": "47b08db3f2628edad1f6ef637008a89c2ebb54dc1af9d33fabe8fed541831021",
       "sha256_txt": "308c405e8e439cc417ed203bdeaa523d66dfd22c38278ae128e53dbc54c9a298"
     },
     "5428711b5674943d4df21296d95bc579cab73335bd972d606f8e1d5ef8ee3c29": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "e349ea1e9fc157efda3096383fc66ef4a00538ab205a742311c4e2d70508b74e",
+      "sha256_json": "e8ceabafdf02f71917e21136dea7e504e9aef1d47a8da08828e7aca3c433962f",
       "sha256_txt": "866d21bb70c6cccc07a82ca5cacfe3d515399b9b33df30339af4bdcabddc3f7b"
     },
     "243b305f6926da910dd2306920b29715cb4dc8acae3583eb1db0092f6554cab8": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "43581cd7f48717d9d1c4570da32ad96c4022436eab4f7dd53a5212c6a5890006",
+      "sha256_json": "ca897434c31cb700b60aaed2a92aed47c30003efbe89e887b9b5df302f236a9d",
       "sha256_txt": "c169fe5ab57aed562d154731e5e632a84493f0a404807f33db51d0d489d005ae"
     },
     "653412292fbf2c18547e60ca2afa6118ae0287e3c794cc782e60540c6c03d523": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d3663ba10de22709bcf3b4183541140b1550f81319f8fd79a19b1e5b038dfc44",
+      "sha256_json": "649df82e31bdbd5865b3c52d995aa3d9db71a2e930d2cf38dd7b8b7d37901986",
       "sha256_txt": "c5b0eaaa4bbee98b6f54c806cb67046c008b615895d7b7c6ee76566717e1fb40"
     },
     "c89af822e9dd590fc1f8da255610b60dd4d2a920d0b05eafe663d5dd9676b366": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f46f8b8f2bc4dd8614f6352819f1ea14058498b28b20e1e51d92f6d260b345d8",
+      "sha256_json": "58c7cf2fe0fa4493a1ec7bc7cc9f839cf73a074f37a223cd6af332784774f86a",
       "sha256_txt": "87d376b5935b54c6549529e1af555777622de3bac33037dbd7005a5570408d13"
     },
     "62075b56cf989dbc98239d6c14e1cfe79a8a1f079eef0cf745488a2f8aa55043": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "053a57032acc74b12920b705ecdd6aeacf741e5069cd124843982fa59fb75d35",
+      "sha256_json": "a77e9a48fe1868a4b3806a6ed55da1148aabe2c960fa181b5882fabc2118793c",
       "sha256_txt": "808f4ffd97ee504411787fe6e10a39479ad3daf9ef137d572336dbfb0ad72110"
     },
     "abfa9df9c6a06e3686f74e128ed6fac6ca20290dc360cca9c7003251bc8c3133": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8cf2ac8af29288c31118df936c7e971e4d2ab5fc11cf2eb80bb82cd74aafd83d",
+      "sha256_json": "1db41c373db0c1eac134c3f6328546c60d7d13fba7021268eb53326538886060",
       "sha256_txt": "c61c9ee4edb93e5cdf61277112c05e2b95a5e4fa955c4642a53aa7a89ddcab22"
     },
     "efd3ebb324b930627483fc398dc5bc23e418d5266f90af4857dcc7ba6fb0ba7a": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "03c48aace135ccfad7c2b3de02f027e2bb26aaedbbf1127201b0ce3b0896c6d5",
+      "sha256_json": "37861bb6c2992c5efd79519b3a2207dc6d45b2ec2b3d3f9772b3a65e00ffcc3c",
       "sha256_txt": "19f16503b84116bf58ea7c46bc710b73eb8267cb0169af3da9f7cf82c2a81e9a"
     },
     "07993215b40f84b580e419504b97200517908539653bee9238daf98a6ae94548": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "95478ee40d43d705adafa7424b945f3a058aa0d1bb1d01fcdbcf2cd55be9182f",
+      "sha256_json": "c8931c674caac0beebdb5084a85fe6689a0c04f856f697ca0964e742615b41b7",
       "sha256_txt": "8f32f9328a6e171c36c1a8d7a41ae0838b98a25e0e272faebbeb116bbc59c369"
     },
     "8c9c6350f91479f753371f8e3339ae3169a57deee069dc3a617bad4f80b6f77f": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "306cba62630482512983efa3a9916e9c0ade979d648646ee199b0a5a847e98b2",
+      "sha256_json": "e32ec892d73f8b4860c1d456968104e46a152568c2bd0faaa1c3bd2bb17ef9f6",
       "sha256_txt": "74049e1806ce2f6c333c96f8467329e298042103d525ea5d84a2838e4fb03b19"
     },
     "52b2acb74eed1252ee3df07c89ab91d69bfbad3bc8853921134a44dd7f41c0eb": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8e28f3177f5a001b656b4579dc363dddf95c587afe700995a018ad00008a0d1c",
+      "sha256_json": "214e1b2abbd2dc171e3b9883c45b0df0bb06dfe7f9980cc901bdac188d60f10c",
       "sha256_txt": "51784eba47af6bc86ea83aa7ba73e9b319d27e0f891ccc64755b2c0c0c84aa73"
     },
     "7981a5d09bcb7aadfeb65a777b304da7678e21cbd326ab4b8af9aa7e99b18c75": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f420e2de53d668c0bf84f15eb8cded64bc43a732eb55c194afef461395bb5ba4",
+      "sha256_json": "9af8fc61a7e811a2eb34dd7704226369c97338a1a3c6365c41ce7b0e0e50546a",
       "sha256_txt": "337a5bc54f4340ae721c62035b11023a735c5dfc27ad078809e86a3e03b1352e"
     },
     "4feb6980584ccac760c9a4fce14083689ee8f0981be3d12cd1032f6a0d292cfc": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b84bf32b0d2c135d75d09e371957ee43a286079b1817ca10e692851a956b5189",
+      "sha256_json": "62894b2d779ffe89405f195ca37ac5e3646e86797b578209fb0980ca4afe828c",
       "sha256_txt": "b389f3a050d0ad8708ff114af48893015a58996646309d3b4c46b9980a23cc3e"
     },
     "ecfc41ae90c74f3023b43fb3f0768d9e11c653c86c332bd420d1736b5ae19a45": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "01454631b595f70ffc5d7f8f953592e9a6b52ab5396e80ad0b7b7342b617cb1c",
+      "sha256_json": "104548c5d08ab32b26d1ef9998ab4153cbdce087f3ee4cc2010949351fa37c6b",
       "sha256_txt": "b83b001fb7fbe33402cfca4d55c30ac788e82de928d0f7a1f21eee9f28f4e07f"
     },
     "0a4a9a3b62a8ca233daf2288050c27d10d0caa2d303724da8292fbde0c6e539c": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "4070030406669fe1f78a6647eee770c1bd69fd3d9c960fedf37f9ce2f9d2295f",
+      "sha256_json": "400d23d9129a6feb3b73b9b563869949e2f3df1ecddd7aaf93accf7b244612c4",
       "sha256_txt": "96f8b6d0a8b80d09d85f93979e7eb85e332995201ebe8b2d9fdf167800f85efb"
     },
     "95a03aa06658e5c3e2d2a2628e9c85b3a3ffaf9eaf5d2ae0095698127b4187c8": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "90a9070370bc5d15c9545cc43dc876b4dc4eddd84a23b80ee33af6d83d314f31",
+      "sha256_json": "1bbf61e8eab3e025bd9642c50e79428d143f1049ec611329a6a6252222a3fdc2",
       "sha256_txt": "3e2420d55e6a38d040427aa42d45fbe6e682409b5d16954e3e0e1b5535cad7ee"
     },
     "642146f3220255a93e48d1e2626253e33ab701a53e6663bbdaaed08ac8629e9c": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "bf765652936605a0af3c59a50631d36bfd031fe45ab1c260c95faf3967e928d6",
+      "sha256_json": "2d64b44992d24ef5e7bb68dc3dbfac599dcbf27c6ab74c132a929e922ba458ce",
       "sha256_txt": "1e98c0392add7f2b5a5b7045b99afb9d36404c39482f3b9efe2124fa88cd0911"
     },
     "dff84aeec12913632fcfa3142190f0f1e7b2e44ba63e9ec959d58c6865444046": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "853308d71c3b19c4022b1b001b5bcd7f9bb6cf79a5a6b7d87f84f1f5270b1690",
+      "sha256_json": "649ac75fa9d0c88f1fd645d23104444d6e30d6922bb4a46d8172d255e1ac4275",
       "sha256_txt": "6dea96e55ee8ef2bd59d9257c46eb7bc3cdcf93b51503cb671a0296bffda4dc9"
     },
     "8c1929ee6249cff67fb19fe501108c9bebbeff3a39429eeea953f01a03044cd0": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b843519ad52ad3b168aa090d121ce95500232e9945d6d2700e4e2bedf8f6dde0",
+      "sha256_json": "07f01a2d87ada0c6a0d03b4044257ef3ee56e836237d3aae1a23c025fb3c5b5c",
       "sha256_txt": "fc8d96d30f31916610503db3cbc305a61671bedb30b1a31df9aab0812dd70655"
     },
     "53c7c62beb62eb4d27cb7c914ef5a09552ed20ac3d6a1e7fdc476e1280f8dadd": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "6082c31727570b39dfbb12a139def8a7561a81763fd044faa9d1b6adc2c8ed30",
+      "sha256_json": "085f1eabf10e8c4760278e5468c62f81fb864322d4ece5e4bbdf44e9a9af1f60",
       "sha256_txt": "a34188d6dd3fa632c41efc789c2bc52e9753f8cae7a3e9970ebceb90e9d29cd3"
     },
     "99e7cb51c514768978613fe2f9ab6bd9a51e44b55472b8615c8b141dfe8e2530": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ac195be4ae6d3816949c07f60e0bd71981b946eafb6acef77da6c1ab24f2ccaf",
-      "sha256_txt": "436a85e2225022b1318e264f7d6850316dce65d2b5870aabd4a4394e954d17be"
+      "sha256_json": "25fabc3f1415b223c23733a26d4cf6f61b909350ce6c393ad025116bb20d3bb9",
+      "sha256_txt": "3586301136bf149e66074a91bb580de81f20403c1aea78f34519ad5ad7967060"
     },
     "1418aedda1908c57b8d552272c5fd1839245aa654fcec665f24df1bc04a80b3c": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "3826a6ccab8ef376054e186a33c3b3f0dd0a1bb3cf6d031c909bbb4db0df9297",
+      "sha256_json": "9646d519ade3debc17ecae589cb26779e3464fff63108c5fad1bf9ae6f62096c",
       "sha256_txt": "3d23b76bfe5b08f518038cba8a09e5c608e2a1ffa3979b27b6de68838434680b"
     },
     "e10b04343a85c3c8bec68e0d5fa670e08617dda4667bb585b05cf14ed2a458be": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "17e1243a7b94741776bf4538a7456b609c2ef806b5695809ce82c59b4ecd491f",
+      "sha256_json": "02de8d5563d96550e0ec9c8e09e38499f996d835133ef933439a620057897dd1",
       "sha256_txt": "9ae10ef0da93c3d409062cf6abba62e86bba7838ee67dae8604f498d05bc3f93"
     },
     "e94ee28e2bd0400be43b9c0eeb3678774b4d2eb7c74beb6fd938600a04d240f3": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "543f04dee5ebf4e413ad9449c01458ab4f5cf759229a964230adccd361e3863e",
+      "sha256_json": "98ad61fb5222750ff5e2dad22cb2ad12603400e44af06fc01318ed0c0daca2b3",
       "sha256_txt": "9187348c27d7105377dc13370ab301eaf022df7f5c2be84754c0ec3ec9d32011"
     },
     "74af33dc9573ab7e465b3a1cbd597f6d0b6660c1cfaf1eb43fc84bc03a24f067": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b98f2f6d168390aa9a8535618050325057a258b8fee17f5fe316b508d0a630cd",
-      "sha256_txt": "5d9964f12b019fdeccbb70a21175ece66facc4a4b26dba96c852c7cc317631da"
+      "sha256_json": "f19c592afd005788aaaa5b2dedf179829201597ccafae81f3ff2d10d11b0e598",
+      "sha256_txt": "af0e846ee1f6d0afc24e47a69b8e34f3c81bcc9820ccc4ebae59f3f9c8a81af4"
     },
     "2c31d26c07c8277a8d2344d06ca919b7094f684e4a09590d02ef8aad0f18cee1": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "43fbc671a4a215dade86a36ae446394be80d77848002efcd8f7d8c521a1a6224",
+      "sha256_json": "48a4cd4101355a3ef63f1f39713a7a5d1e6aca60ffaa295a2130743a29fead21",
       "sha256_txt": "e6e28e05e6d5bb7c1d65da84d7ee1e8590eb5af05482df48bf8e4e8cfa3ef287"
     },
     "549f3631bbcdf67f50a240466049e09587deb1b9e0f26663cef8d7c12fe9bcf9": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "77719740524ba29134da1427740c3a98898013198e46d7975c9fcf940c7704f8",
+      "sha256_json": "c1b3c354834c08e742b47e0e722c45dc3feafbd2cb3db1eba32965be219aa099",
       "sha256_txt": "8aa2f91887e2b48e68718a7133bf81120d9fd838ebc1e62a574f92f3c1033f77"
     },
     "d772f7b2e2f4ea02ff0b4327f8ac673dc2a769aef8ed9d1df41d262ce3ff2a2d": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "235bccb2468ffdad09cd01fdb0d9a4cac4af2db7214859a0419781001dfeda7f",
+      "sha256_json": "24c7d0f9bda2a041f937ff807f23e36932190a55626025e37d65a653040216e9",
       "sha256_txt": "cd033505680b34f07d7644f5715061e5949a39e0b3207ac7ffed4c404cca92ea"
     },
     "632cb947e061ee3713b1efebff4287afea91e8cb8633b085e2df8759519d653a": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "31bfd97664566395bf55777955895e566e3c64b6b31183b0161d567e4c737dea",
+      "sha256_json": "91b974e401a0600b2622793d8bfe8c2b1be853c95e70cc9b6b6d5e865355b4d3",
       "sha256_txt": "572906395b20bf5e574424f06bc9a8cee442c9d3c67c260fa9b02d515cfc6ce7"
     },
     "b7ff8d73de6b8c11c491e89a41b28bb793dc946150b7a0128938b7b5069e75d3": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "78c2bcbacc7bdeb38f4dc03ddbd3908db81c9ce93d38153530e1fe847dee109a",
+      "sha256_json": "4e69fd1cc172003eb9c9636015e6449c4b00ddb2b81e0d5c150ac69898fdfc97",
       "sha256_txt": "919a048a385719903c3f493891244af25841a00108488be3a349ebd6144e57d7"
     },
     "6970e086682d5d0ec9f6d0f14942416f22d113c257dac364a67e8642f124c72c": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "792e8598222744d1b2b0ad58436d62be300e2c4b7b0d01ff2786a6b64051d9f6",
-      "sha256_txt": "99ca7b82abcd3df9f173ffe9864e0b069d2113020d471fd2c5b2463cb188c015"
+      "sha256_json": "16f57f2456eb073d30b587b0673344c31ac601d66e7cb4b5c6bff740a860f389",
+      "sha256_txt": "c3ef00b7efe79b624047d0d456eef87a66aaea0591b0a194f574a32401b9b01d"
     },
     "10aff8a80e8ddf3594f7ac6ec98832eb5707c75bc0236adfac3288f45c7a3158": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "3aed89d7468b6786728be9f722a4f4fcdaaf3f13a97c03240bd8a03b306bbd76",
+      "sha256_json": "db848b4defe9414f63349dcf2bbc8904549fd8689a53541937c441ceffa249b5",
       "sha256_txt": "1c0fd944b63bc818cb116bafcb94e2a9ab456d3b7af99e40ef707c6be121c3e2"
     },
     "2d0eb626932e2d075e4f0cccf59a6c1d971f159db9c30c3b3f953fd3c0d778f8": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8249bcd878f611d242e99d76ba5884c2b98ad9b72c884e8b62cfb17688a5b9f8",
+      "sha256_json": "44025528ce68faa3e3b5449daeb68c33312052451e26887c73c8fbfaae9dc027",
       "sha256_txt": "9401f2fb397b73e774485233db696e39cd722cb8a4da59cb8c8095670cfebbfc"
     },
     "88d43b5b941d46558efba6a4747948723e8ba699c2736f455227ddb536e507e0": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "3c6806b273eb82f7e0c917aedf06532c75631b1ef105c87e22088ebdaa5a37ea",
+      "sha256_json": "33b67258718d969ff4b36481a7e309d41c1c3b39643a958e1f1a09a7bdf8c210",
       "sha256_txt": "0db1ae912e98459202576ba2650034347995dc9a5e74e8ecaf114ef9054df9b0"
     },
     "436f283acfdd54a0beaef16860c49e556324566fb7455c67489b0275ad8c13ae": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "61244a1bf21e6d73e7e13fa795d81ec4c9283906c71e498af2f7adff243eb3e9",
+      "sha256_json": "2dee7f6afbfaa5b5e991f34db39efc987e88661e9ea7d49037dc4c91abc8366c",
       "sha256_txt": "5d1f71308b099359735e3083fd261307e5637e0a365247040ca4a725e0d41c2f"
     },
     "5ad481e3f63439a9ef9d6e58cd609022d08062f441babe54b3e5f58e92dd3a3b": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b46b079025c519b6b91e4afd9f1e776d81e007ec5474ba5a51754d28ce1e3ba1",
+      "sha256_json": "90e835835ca623d4becc5593591504d02ec24983be93d8128d13e97cb2d3cc7a",
       "sha256_txt": "ff076e0cce24d580dda8efc85c429baafb6365d3c010f7f2a2472f9fae9c8c2b"
     },
     "9b2ab4eb8f48da53bae6a98cb38aed22eae49762e93cf3fcab9de763814680ea": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8de0b99d030e5ea5de339e0cdb1ddb73f9ed3c541673a1039c4a2d35c1b61488",
+      "sha256_json": "35688a395acb32fb1bd1ca8a52491ad63eea607af5799571c0107f6aed5d7bfc",
       "sha256_txt": "7913051f8f137da2555d743841d4fca4bf84885b0ea2cadde37b8d65e6d775f0"
     },
     "81266eb7f6575381a35d357169bd89397a373105deae138f0d48f9d8e74988d3": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "a17f4fa1f783b4a363fc1e07d334361797c879c9a61d67db30f3fbe96d98dc3a",
+      "sha256_json": "e1ee27957b69454b76b0dc0f71ae4214866122e1fe5210f2b762348a67c6458b",
       "sha256_txt": "77f1371a104298b1131821deb686d13698a2eac9732507e702be8c7e7c17d048"
     },
     "03091a5afff6f230c30758e1c6505fba064c456d09e4f145a382a061953f03cc": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "e547450b820ad534fc5abf1aa7d58ec9f786790a3b9ea8cbc3582bd48b3eef07",
+      "sha256_json": "8d81ccd46a44e256e80d371b2f5f2be7032d839ba5ca8d9bfe867351299a5078",
       "sha256_txt": "681a28d46440d0e8d7d0ec0be9850ae33d1423774d779d67ac03e8a8b8753837"
     },
     "717d7216cb535973012f31bb953c76d0f8adbe6109162a2b832ea8b598087770": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "6468cb18ab27fb17cfaf704fc25a55851beec4f8fe271ccfd838b705994f7ca6",
+      "sha256_json": "eee5deb317ebbdc0ff313c2ea09ad160704ae8f952b3d6d35fb19a723c5d8d32",
       "sha256_txt": "6253dd298e9c6b470b341254541132aba88784066941fcee63794b2c2a5e396b"
     },
     "e6b1b62d3760569bbf373b6044dab13ce5bfef5d4fef14bfc27f3c0127a4dc59": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "26260db4e9511d5306d0a268796a71dda0adf6c9ab93b532bc9ac716a54fe930",
+      "sha256_json": "2a232f92968ec4c896aeff4450b1d2f97d393da84b272352b03af46f579e1ec3",
       "sha256_txt": "462189e4e3b13373ac8ffd7fb8611b2ccf680b08dcfb1f71b402b345153da226"
     },
     "2132348e05d2b85ba80b83facdc3be73fbef2fdd1369a3e3a2946fdfce748578": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "6bb891805aaf8c07a4a60115a9532b49caaa1461d046f8ed771519294b31356a",
+      "sha256_json": "61d9cd0b4de0bd9b13a887fe6bc75356d443cd0a04459612c1b2fd1bcc509674",
       "sha256_txt": "3996ec9222c3a8e77f3c5ef2fc28527d388e8ad3835618eefaea6335b88da8ad"
     },
     "94193ef43300106a0524e1f5dfa51d339f2655347d3ec5a8d04a5fa748343352": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "c1203c7041b630aa3635e1925019e831f18ac6117a878aa6002b722d5f15b67f",
+      "sha256_json": "11c00f52221ed0a7c05a12af93af0e1ff44db0b4e970cded5769985155af2637",
       "sha256_txt": "1b2a1cb9511331a3e6806e4663aaec4701513085601ca0ea9bb2da34bd4704e2"
     },
     "b53abc04bf0b3333ded1406caa053879307f729064c51043a8a0cf97dd26f569": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "3765e9830281bf29e034845ad800192a87d5c0064b19d9ab7d3002d50ad284c3",
+      "sha256_json": "2ff2300e07849b684187a8b87030a5a9212456f8637647bfe3e6f2a2bec803aa",
       "sha256_txt": "9cc6a80e9664a37ca411111412d2a166ab2a6d073abbc0ce9581d92bf074aa47"
     },
     "fe0067491da6f63d82fd52858a7d3eadab936a8cb80e173f63c59fda4432406a": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f3315f5ea18548914a024867740416aff86ac5c1578ff3f9c2914b6586061d25",
+      "sha256_json": "36e3c1f2ab9422d36114769480849abc3f9de503b94b12b17b6a6d74432428fa",
       "sha256_txt": "7cd602dce4e2140c9a66597465736684e06d9b7e99d9f1501abf56bed1c5c4bb"
     },
     "48f55a1ed594f100bc3d0c6bd0dc2c1196b7b3419e5ba9609a9a6fa6b7eeb7a2": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d0c32e675de0b642e949facb5a5a9546f2aaae4cabff524f78a0f418891828c2",
+      "sha256_json": "92ade9054c6407d7ef5ddaf31ac3c38c2565e3a07ec66bd6c1663f8ef2ba4621",
       "sha256_txt": "509703bb20adc2098d98731af661a886ca5b74d0a27213efab8f1e52f76bcdb9"
     },
     "d2143c6a9694e722e0a5d4c008e79bfc01045dfad129fe2aa3e0b2d6816f6148": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "fae6bdd16d54b4060027a165c51329eec23858bf70505dd114804cdafda1c18b",
+      "sha256_json": "ffa88abf379ad4c6cefb7a1225d45e0710862f718bfe42b6fc0fa7bc8e7f3ba4",
       "sha256_txt": "4d755bb3d36661588b1d126697a43288a9cf9411f97b66bdda2e11c1e1f40759"
     },
     "308832ac8373932c3a8c262547e43954b1f525ed78d0a5c33341aaa85383d67b": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8aaffc954770c6dc03e5b3a69d768abc58c7c0cb177f9a83c0c70914496f9b4a",
-      "sha256_txt": "d547d301b6e7331950a66ce964a29436a087e0dd30c1727cb621498cde3a534e"
+      "sha256_json": "f40b9121bf12e4cbdae14d63d472092cd5812b38a19c6792cdd235d82e87b745",
+      "sha256_txt": "c093cfd6352bc0290ff524c06ddfe19ac672efc8148b01e5742b5346d5686f21"
     },
     "5593f310c54f7651fa80070b4761a32d0ead72250fa134e5291140a304d046a8": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "8b713774a2f376eff4ccbd1f95920e53ce88c3550d78a976c2fdfebef7726d97",
+      "sha256_json": "b7a0d377f87f0aa060f8ba807de49b68a9d13518b2c780abd258ea4aecc3814c",
       "sha256_txt": "4ee0ff35fe2d41ca585ecd209bae748c96ba9c8fed524675a9da7006428057d8"
     },
     "f62459f3980ff3de540524ec37a6151c0ed7e0ee3dc7c08ccae967b5344867d8": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b5f5f4f6e2c9038e326456e7096e9df50f49aed1d4172a239d11cb6cbb5d8b3e",
+      "sha256_json": "30f10add71a435588ba77d8215d123728c3de5ab3b1faad1baad5c4abf08ff3f",
       "sha256_txt": "fd54f869ccae72b6c862f05d31b8dc87213818e65f83ea332bfe1360586145c3"
     },
     "04d29a71a84f629d9e7d8d23fa0f876929ffa697f667ea4556e51914fdb668fb": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "96a6395aa2324b76cf8ddbb18d60ab8048980505b8c77295c3819bc20794b58a",
+      "sha256_json": "45fb331e326005108321b70e8415deac9e9c4278de8f887ae688b2a405b9c166",
       "sha256_txt": "de2f801784de7789c5ad3639bfc4a462fb819eb2516afb4522d99e22d7b7034e"
     },
     "3c093dd195313360a2214543ba8507fdebd20c0ddd8c2b9e993287f02b24ba70": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "9d6cff0cdb27ac2f080d36714817f248335d9e13f07c281c6e7e42dfd972175e",
-      "sha256_txt": "252f04d965e548065805bd160728d4c3c74d69bde327d34d4931c5cbad66cea0"
+      "sha256_json": "ea8f9dd68953016b8ff9ed517a95f37c89190db463319dce5849c6a41698f459",
+      "sha256_txt": "8e32d7851476e118c852a77712df2793a45a2e7e1cfdda51473c9e1cc39b79c9"
     },
     "0294fb354fde04019cd8fd89b57a1cc6e6b367c70f85b57a94b34fbe6a6bb58d": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f1177924fc4b64622dc773541c2a6717ce81e1c65a94926cd14f1d076f8bc9a3",
+      "sha256_json": "5f5b5aecd0096776bb94c9046d08144bc039722989c98f766ded90bb65ce420d",
       "sha256_txt": "d231a2608c25ad207124ca6354f33a30b3e2261c0f84a3b624ef1093b0224806"
     },
     "1a93d01dec291d1a413cf30f39c4058571447700935d53a34acf648516deb830": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "6acf84a684c8155221c74192ac0475c4d19d0d95f106c3cec0c34076dd93df12",
+      "sha256_json": "aa76d183149f5c4dac4ae336aeeb58b02a7182dbc9db8e39e21aeeb5d73cc29c",
       "sha256_txt": "c06d8c88182f14e8053d61334cbab37f1f1d09a2e38d726f7cb8eaa2453e7ed6"
     },
     "744379cbfdbf290b88cae976dc0b61fc94579be53f6a3e8af98f1d199377ea08": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "c35bc4faebfd809db8703c19d9eb0727e8532348baaee2a0e582f567b95a2f07",
+      "sha256_json": "84b8dc22876f5dc7958d5a501b96d7f96d08e84277ac45622410efe9e3f021bd",
       "sha256_txt": "afb7ac909a6825dda809adefb60e2566935e85e37fa6023daf02652815bbb5e3"
     },
     "ed50677244f4031e0deab650f8a790a93aff88d00938506d037621714866201e": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "f9f9ffdf82fd2eb099e45ea209c21815494c06464572f107c41990f6f3693c7a",
+      "sha256_json": "4d94a9c04acc6f56f0ca00dd88317ff970a15772cd5ec7e3e2b9c4555a68616b",
       "sha256_txt": "53af252464be537c1643be47abf980948a9a910ff311bef40372ca5aef240375"
     },
     "23d7c99e26dbd2894835268e8e342781acd7a6f93cdbf10b5361ebb2926b61e3": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "5598b32c2702a57f45e98262527f9e4eca269379352bb0277f1d52f18765153f",
+      "sha256_json": "7bc4ad2c87351f8ec205a3bc23cc65b0b83f7853178d6b44cbdfc8c91f213a83",
       "sha256_txt": "ffb067d0d63aa39680634dbff3ac082ad0f3534843df57c4bd72faa2c280fee3"
     },
     "114489d68b0c83a52a2045d376f304d261a3512e9e1307888d897d535d27bade": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "e2fdfc4c3d05b32916c3048f0776be6bb711dcbb2e8f9c67be83ff09a59f9a2b",
+      "sha256_json": "876a52ca9f9b3eb02762668842c6e5730a3dcb42b57f0ed3652f56206537a234",
       "sha256_txt": "6b5aa950058879d9b7085d794dc38993e266eb5d78b1d53821ea1c2643abb7da"
     },
     "0a4e4349fd32b61a71434931ef000e08d21623bba24928dec504aa0778fba38f": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "919e9ca8af494d1b8476689b1ec29dc6e5c793c3ea0e55c61fcf583991a601dc",
+      "sha256_json": "5757fd1e685b6b3f68463316ba4eef11e04b96b4a0a26d44ca6f17d9b81f1144",
       "sha256_txt": "2d62a1edc9fd505ed0ca4e37ebad96a3c829b31a977c2f9e8add0cdab0e52084"
     },
     "97a3894532d4e8e2fc8513b5d43f3354666e483e9a542c07269a8c001b177a26": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "4a6b9e3c93cb01ccf9d1c7b4d8a1e2cad5f4be68e62dbc5e7961ad869f6f516c",
+      "sha256_json": "30441ba8b4e36d6d610c97dc475df0cc97b10fe9fe4bec5cb0558fbb7d4f8c6c",
       "sha256_txt": "cf139c7b416c15280ab97171e520bb395ba8130a77fece68875dd00288af7d8e"
     },
     "202ece69343f521057ef676e9bdb027f07dfa8631c15126b1de9126bb864d390": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "daa9cca66678df5f8be19eabeccc99257bb235268979183f558c42f5b28474e5",
+      "sha256_json": "f1d0d5d5bb0027120bff0a12bfd1f0169f8a56b7d0dda8f784de0c36e5f87893",
       "sha256_txt": "bbde54d5ca7c1a10660cfa826c7a626a2302113003c4773f217000d4d6dead0b"
     },
     "2860010260caa44642d365c364d1de1f9d0109e056ce54a3c29ad378cce397b0": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "ddb366a1054ef58be56d094f9a9b62e645f17a3e083f0eb3b4ff7dacbd3a8232",
+      "sha256_json": "709ebf1acccfa9d834d5e637169d8fa1aee22fb5be8cd228767cc5b1d25c8a47",
       "sha256_txt": "5c3625666acd2c02a048f782b111cb7764ca7808246b58372d4737ac8fc40a0e"
     },
     "27bea7bd3f39d5ebd2b8779673bbd1e9250eabbcb48b8a98c821de35eab8fb3c": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "fcd719b4f731613f064932e20348a9f06749223da485fa2b8ba61e4ced2fe269",
+      "sha256_json": "83e2a130f0960defd5b2e1b49dd7158c80681ecb8798c4ebc62e3412b72a946b",
       "sha256_txt": "2013791cd8cc7bb9dc5c5af9919555fe7e90f3c94377da6dde25d17df0891dc1"
     },
     "4490e31bb648c6e50ce908b4517bb76348238835b4f24037f742ee973a890bb1": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "b2d258b706285d71f2622207f478f71082b689e9559d506be3539d43e52e43dd",
+      "sha256_json": "b39c117224325309aa0f6914af5f5ecbb2f36f32abe494b23fa48b1c30ec35b3",
       "sha256_txt": "f63f293e34878da34344bd3f2c98f942a258d67ee0e14a5f447133c18f79f7a2"
     },
     "24b671fb4d0e6be2bfab8fefd1b41aee710985c8da29e852191d0f844f7dae36": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "e4a6be651bb36ddc47654a0fc3a735141c15be04d1a4280309c02f3766148d47",
+      "sha256_json": "ad2d47aec6cd269d694add615511b8440e5f10997ada752f7bb93f008fa3f98e",
       "sha256_txt": "14dc4ec3d9b13566e1410722024d792f56006bcac67c3b777fd4c87c371acec9"
     },
     "8aa9fd1746c8fa0386af8683f33cb9253990265ee9033e57b90ea772fde83508": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "7249cfbfc115ce110994682398cdfd51226be3c2fc6b84ce17fa6ef73567fc37",
-      "sha256_txt": "c5ac297e8d9a02c64bffa1f0966abdf58400c1852bb7bbff2da42a6051f19f28"
+      "sha256_json": "851679aab5d6b39398cbf9b3f5db2d31d3ea5db12f8c27ddfb9a0dbb435ce3bc",
+      "sha256_txt": "f456fae2fa8235e3f49f923ef17e55a1e18a8c3c9afcee99b5f48ca5f6a14a67"
     },
     "64183091315080614a4043274573fbab66aa9ed8df6943eaf5275cb876f6e5c2": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "1e9a8c112a6b02bca3774ab03f5b0d94c453c91ade63c8b8f6c7718a4ac03d88",
+      "sha256_json": "264cb6002e4160db801f4afba4676dfb3b3ecc20b0ec3c934caab8fba8bb112e",
       "sha256_txt": "2611ae61b65c504fe86222eb0c79c01128a8b8b8e05c11630eeab999cdc16b63"
     },
     "630363149f524824ebe5568d33d8ae42ec24aa3ebf4edceaeb3c7cadfbc2def0": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "e26681ed28f006665e032004d6b7b89af9759487dcc67569bab19e00262736af",
+      "sha256_json": "0a97bc7dfc4f3db838ae9d33956034293f6c211731dfcf03b3511bcf735a5354",
       "sha256_txt": "7276bd906da6e79a130deb67ee74f28bef8b048907ad2534512aa13b4fe0ac8e"
     },
     "f4974327751dd912c777c28ebfaafe8121d1a5d6ddcd9e3a58e82db1c6b2b8f1": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "bbb1c473bb4828b353dbafd75e5c189c143b47b97944b2d393871e7dd1f51899",
+      "sha256_json": "f877a27d977091db37b80118c6c8ac3f62d11dbc8bd47364cdb938f7284fc188",
       "sha256_txt": "a1d55067ddcf43a69579bbf5b9b963ab77d9120f1f3898ab10319489d7ee3db7"
     },
     "68b9841d99c39c751e2d189a259f7b8da7c0933341e7431f4bdffc9c2ac6a088": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "6c1d505840f5c4bf5686a2be9a4dce9cf7f0ded1d29e91fc08f0484ef09c20c1",
+      "sha256_json": "5e366c3b0e0d12fa2a5935c404cccf4b7bb7337da8b52c3e17a6f0117ba16bc8",
       "sha256_txt": "c21140075863cc54f48274c4b7f6186a6537c3d9161f52de123bf131ad4719b9"
     },
     "0acd99bda5413e1343bc2a9f008980d3cdbeb19218b2b51101a751fd61357d21": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "9966b99f3d9c621700e75e894debc33ddc398309702471501cf052a1a62d23f4",
+      "sha256_json": "216d392ae4e6c7fe96f4450e921432346e7347f37f67e1fd9156792da518494a",
       "sha256_txt": "3abcfd920982466459628c095ddf3b6d6394f08727e9b0d7af176f64a1598508"
     },
     "1a7ae1c72aa7057bcd12f7ffd5eda684e804e8fae4fcc5e9452f920e2ef08224": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "cd207d36249c3ef8099ef38612188d652bec4cd8a8f4d6cdc55cf5f7fd7bae2e",
+      "sha256_json": "63a17b8aad919f48e143b0a9ac0ef81fc06a45f4972586298400fdf8afadeb25",
       "sha256_txt": "8828ee9060e040ae89c3ffe0bc7491f09ccaa1701d3f140028f747735c17471d"
     },
     "0ede3fde4e304c1fcf54a101487cfeb417632b29d2d99e6b3eb4e08b47f4da98": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "be8d74ed77327a3584767dff607b21b2e4af96709d1856ce9ea0a300310d24aa",
+      "sha256_json": "89eeff06c5dd8cd0929f3d8afdb5e0f500ada858350ce01d5bf593dafde03dce",
       "sha256_txt": "5dacdf0eb76f5815a5bff3300431b94b46eac05f9d0f9276df27d36b0a212d2a"
     },
     "0a5f2130cd9335ef3403aa5b989a27761964bfdd082e3bc87c71cdc2c54099b7": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "d04adf6d5eb0cee88cbd9867c991e0a40899f0b6c9f7f1c2f0847193f1856d47",
+      "sha256_json": "753ab90c1a32c9282f11a9bcca85f3161846dbb22e3f0755e743574dbb8f61db",
       "sha256_txt": "6dba10b3a0fce71cc2ac3f582c629ea9caa296435386ca5d608230eae6eea994"
     },
     "b056ce127861731786550afaa92f00bfc932327f129dfb203a224676e697d273": {
       "configuracion": {
-        "version_extractor": "1.1.0",
+        "version_extractor": "1.2.0",
         "pymupdf": "2.0",
         "metodo": "get_text(text, sort=True)",
         "min_caracteres": 30,
         "ocr": true,
-        "ocr_dpi": 300
+        "ocr_dpi": 300,
+        "ocr_motor": "tesseract 5.3.4 --psm 3 -c thresholding_method=2"
       },
-      "sha256_json": "68a65c4bdb7347d6caad11f317b3fb10880ed9dd3019654c46a460faaaf79d4f",
+      "sha256_json": "0b035e22d6f016065c1dee076c50565a992aa10688449a0c72980262954424f1",
       "sha256_txt": "7b32774c55451882456b85f3e01a83188223542fcddebff5eb0d5b152654cc6e"
     }
   }
