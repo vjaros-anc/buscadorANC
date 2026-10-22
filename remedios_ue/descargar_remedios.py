@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 """Descarga reproducible de documentos públicos. Python 3.10+, sin dependencias.
 
+Lee por defecto remedios_ue/documentos.csv (inventario de la etapa 2). También
+acepta un manifiesto con las columnas documento_id, caso, titulo, grupo,
+formato y url.
+
 Ejemplos:
   python descargar_remedios.py --piloto --plan
   python descargar_remedios.py --piloto
   python descargar_remedios.py --todos
+  python descargar_remedios.py --todos --incluir-revisiones
 """
 from __future__ import annotations
 
@@ -28,16 +33,29 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 PILOTO = ("M.10341", "M.10262", "M.10646", "M.10896", "M.11253")
-GRUPOS = ("nucleo", "actos_posteriores", "procedimiento", "comunicados")
+GRUPOS = ("nucleo", "actos_posteriores", "procedimiento", "comunicados", "analisis")
 REQUIRED = {"documento_id", "caso", "titulo", "grupo", "formato", "url"}
 REPORT_FIELDS = (
-    "documento_id", "caso", "titulo", "tipo_documental", "grupo", "idioma",
+    "documento_id", "caso", "universo", "titulo", "tipo_documental", "grupo", "idioma",
     "formato_esperado", "url_origen", "url_referencia", "estado", "archivo",
-    "sha256", "bytes", "formato_real", "content_type", "http_status", "url_final",
-    "intentos", "fecha_utc", "detalle", "ejecucion_id",
+    "sha256", "coincide_inventario", "bytes", "formato_real", "content_type", "http_status", "url_final",
+    "intentos", "fecha_utc", "detalle", "paginas_compromisos", "ejecucion_id",
 )
+# tipo_doc de documentos.csv -> grupo de descarga. El orden define la fila principal
+# de un PDF compartido (DEC antes que COMP), que da nombre al archivo.
+GRUPO_POR_TIPO = {
+    "DEC": "nucleo", "COMP": "nucleo", "POST": "actos_posteriores",
+    "CP": "comunicados", "CP_APERTURA": "comunicados",
+    "NOT_PREVIA": "procedimiento", "DICT": "procedimiento", "RES_DO": "procedimiento", "OTRO": "procedimiento",
+    "MB": "analisis", "SENT": "referencia",
+}
+ORDEN_TIPOS = {tipo: i for i, tipo in enumerate(GRUPO_POR_TIPO)}
+# Sitios que responden a las descargas automáticas con un desafío anti-bots
+SITIOS_BLOQUEADOS = ("eur-lex.europa.eu", "curia.europa.eu")
+# Versión de impresión de un comunicado: un PDF, en lugar de la página de Presscorner (JavaScript)
+URL_IMPRESION = "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/{0}/{1}_EN.pdf"
 BLOCK_MARKERS = (
     b"verify that you're not a robot", b"verify that you are not a robot",
     b"verify you are human", b"checking your browser", b"cf-chl-",
@@ -129,12 +147,65 @@ def retry_after(value: str | None, cap: float) -> float | None:
     return min(cap, max(0.0, seconds))
 
 
+def formato_de(url: str, tipo_contenido: str = "") -> str:
+    """pdf, html o indice_do (índice o volumen del Diario Oficial, no un documento individual)."""
+    p = urllib.parse.urlsplit(url)
+    q = urllib.parse.parse_qs(p.query)
+    uri = next((v[0] for k, v in q.items() if k.lower() == "uri" and v), "")
+    if p.hostname == "eur-lex.europa.eu" and re.search(r"(?:[:_])(?:TOC|FULL)$", uri, re.I):
+        return "indice_do"
+    if (p.path.lower().endswith(".pdf") or "/txt/pdf" in p.path.lower() or "pdf" in tipo_contenido.lower()
+            or ("/document/download/" in p.path and any(v.lower().endswith(".pdf") for vs in q.values() for v in vs))):
+        return "pdf"
+    return "html"
+
+
+def url_impresion(ref: str) -> str:
+    """IP/24/761 -> PDF de impresión del comunicado en Presscorner."""
+    m = re.fullmatch(r"([A-Z]+)/(\d{2})/(\d+)", ref.strip().upper())
+    if not m:
+        return ""
+    carpeta = f"{m[1].lower()}_{m[2]}_{m[3]}"
+    return URL_IMPRESION.format(carpeta, carpeta.upper())
+
+
+def sitio_bloqueado(url: str) -> bool:
+    host = (urllib.parse.urlsplit(url).hostname or "").lower()
+    return any(host == s or host.endswith("." + s) for s in SITIOS_BLOQUEADOS)
+
+
+def filas_desde_inventario(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+    """Convierte las filas de documentos.csv al formato interno del descargador."""
+    out = []
+    for r in rows:
+        tipo, url, estado = r.get("tipo_doc", ""), r.get("url", ""), r.get("estado", "")
+        fila = {
+            "documento_id": r["doc_id"], "caso": r["caso_id"], "titulo": r.get("titulo", ""),
+            "tipo_documental": tipo, "grupo": GRUPO_POR_TIPO.get(tipo, "referencia"),
+            "idioma": r.get("idioma", ""), "universo": r.get("universo", "") or "principal",
+            "url": "", "url_referencia": url, "sha256_inventario": r.get("sha256", ""),
+            "paginas_compromisos": r.get("paginas_compromisos", ""), "estado_inventario": estado,
+        }
+        if not url or not estado.startswith("localizado"):
+            fila["formato"] = "sin_url"
+        elif tipo in ("CP", "CP_APERTURA") and url_impresion(r.get("ref", "")):
+            fila["formato"], fila["url"] = "pdf", url_impresion(r["ref"])
+        else:
+            fila["formato"] = formato_de(url, r.get("tipo_contenido", ""))
+            fila["url"] = "" if fila["formato"] == "indice_do" else url
+        out.append(fila)
+    return out
+
+
 def read_manifest(path: Path) -> list[dict[str, str]]:
     with path.open(encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
-        if not REQUIRED.issubset(reader.fieldnames or []):
-            raise ValueError("El manifiesto no tiene las columnas necesarias: " + ", ".join(sorted(REQUIRED)))
+        campos = set(reader.fieldnames or [])
         rows = [{k: (v or "").strip() for k, v in r.items() if k is not None} for r in reader]
+    if {"doc_id", "caso_id", "tipo_doc", "url", "estado"}.issubset(campos):
+        rows = filas_desde_inventario(rows)
+    elif not REQUIRED.issubset(campos):
+        raise ValueError("El archivo no es documentos.csv ni un manifiesto con las columnas: " + ", ".join(sorted(REQUIRED)))
     seen: set[str] = set()
     for row in rows:
         if not row["documento_id"] or row["documento_id"] in seen:
@@ -149,10 +220,28 @@ def read_manifest(path: Path) -> list[dict[str, str]]:
     return rows
 
 
+def fila_principal(rows: list[dict[str, str]]) -> dict[str, str]:
+    """La fila que da nombre a un archivo compartido: DEC antes que COMP, y así."""
+    return min(rows, key=lambda r: (ORDEN_TIPOS.get(r.get("tipo_documental", ""), len(ORDEN_TIPOS)), r["documento_id"]))
+
+
+def nombre_seguro(texto: str, largo: int = 80) -> str:
+    return re.sub(r"[^A-Za-z0-9._-]+", "_", texto).strip("._")[:largo] or "documento"
+
+
+def nombre_original(url: str) -> str:
+    """Nombre del archivo en la URL (o en ?filename=), sin extensión."""
+    p = urllib.parse.urlsplit(url)
+    q = urllib.parse.parse_qs(p.query)
+    nombre = next((v[0] for k, v in q.items() if k.lower() == "filename" and v), "") or p.path.rsplit("/", 1)[-1]
+    return nombre.rsplit(".", 1)[0] if "." in nombre else nombre
+
+
 def make_plan(rows: list[dict[str, str]], args: argparse.Namespace):
     available = {r["caso"] for r in rows}
+    revisiones = {r["caso"] for r in rows if r.get("universo") == "revisiones"}
     if args.todos:
-        cases = available
+        cases = available - revisiones
     elif args.casos:
         cases = set()
         for item in args.casos:
@@ -166,6 +255,8 @@ def make_plan(rows: list[dict[str, str]], args: argparse.Namespace):
             raise ValueError("Indicá al menos un caso")
     else:
         cases = set(PILOTO)
+    if args.incluir_revisiones:
+        cases |= revisiones
     unknown = cases - available
     if unknown:
         raise ValueError("Casos ausentes del manifiesto: " + ", ".join(sorted(unknown)))
@@ -181,7 +272,11 @@ def make_plan(rows: list[dict[str, str]], args: argparse.Namespace):
         elif row["formato"] == "indice_do":
             statuses[rid] = ("requiere_url_individual", "Índice o volumen del Diario Oficial; no es un documento individual")
         elif not row["url"] or row["formato"] == "sin_url":
-            statuses[rid] = ("sin_url", "No hay URL individual; ver url_referencia y pendientes_fuente.csv")
+            estado = row.get("estado_inventario", "")
+            statuses[rid] = ("sin_url", f"Sin URL descargable (estado en el inventario: {estado})" if estado
+                             else "No hay URL individual; ver url_referencia")
+        elif sitio_bloqueado(row["url"]) and not args.intentar_bloqueados:
+            statuses[rid] = ("sitio_bloqueado", "El sitio bloquea las descargas automáticas; bajar a mano desde url_referencia")
         elif row["formato"] == "html" and not args.incluir_html:
             statuses[rid] = ("html_no_solicitado", "Referencia HTML; agregar --incluir-html para intentar guardarla")
         else:
@@ -195,6 +290,8 @@ def make_plan(rows: list[dict[str, str]], args: argparse.Namespace):
             jobs[key]["rows"].append(row)
             statuses[rid] = ("pendiente", "")
     joblist = list(jobs.values())
+    for job in joblist:
+        job["principal"] = fila_principal(job["rows"])
     if args.limite is not None:
         for job in joblist[args.limite:]:
             for row in job["rows"]:
@@ -218,11 +315,12 @@ class Downloader:
         for row in rows:
             status, detail = statuses[row["documento_id"]]
             self.results[row["documento_id"]] = {
-                "documento_id": row["documento_id"], "caso": row["caso"], "titulo": row["titulo"],
-                "tipo_documental": row.get("tipo_documental", ""), "grupo": row["grupo"],
+                "documento_id": row["documento_id"], "caso": row["caso"], "universo": row.get("universo", ""),
+                "titulo": row["titulo"], "tipo_documental": row.get("tipo_documental", ""), "grupo": row["grupo"],
                 "idioma": row.get("idioma", ""), "formato_esperado": row["formato"],
                 "url_origen": row["url"], "url_referencia": row.get("url_referencia", ""),
-                "estado": status, "detalle": detail, "ejecucion_id": self.run_id,
+                "estado": status, "detalle": detail, "paginas_compromisos": row.get("paginas_compromisos", ""),
+                "ejecucion_id": self.run_id,
             }
 
     def cache(self, entry: dict | None, expected: str | None = None) -> dict | None:
@@ -264,6 +362,8 @@ class Downloader:
             "casos": sorted({r["caso"] for r in self.rows}), "filas_documentales": len(self.rows),
             "urls_en_cola": len(self.jobs), "resultados_por_url": dict(self.completed_jobs),
             "resultados_por_documento": dict(Counter(r["estado"] for r in self.results.values())),
+            "distintos_del_inventario": sorted(r["documento_id"] for r in self.results.values()
+                                               if r.get("coincide_inventario") == "no"),
             "validacion": "Firma PDF, marcador EOF, tamaño transmitido y SHA-256; no es validación jurídica ni análisis completo del PDF",
         }
         atomic_json(self.out / "resumen.json", summary)
@@ -342,9 +442,14 @@ class Downloader:
                     relative = existing["archivo"]
                     content_duplicate = True
                 else:
+                    # Nombre legible: la fila principal (p. ej. M.10341_DEC_01) o, si el
+                    # archivo es de varios casos, el nombre original. El hash separa versiones.
                     cases = sorted({r["caso"] for r in job["rows"]})
-                    folder = cases[0].replace(".", "_") if len(cases) == 1 else "compartidos"
-                    target = self.out / "archivos" / folder / f"{job['key'][:12]}_{hexdigest[:16]}.{actual}"
+                    if len(cases) == 1:
+                        folder, stem = cases[0].replace(".", "_"), job["principal"]["documento_id"]
+                    else:
+                        folder, stem = "compartidos", nombre_original(job["url"])
+                    target = self.out / "archivos" / folder / f"{nombre_seguro(stem)}_{hexdigest[:12]}.{actual}"
                     target.parent.mkdir(parents=True, exist_ok=True)
                     if target.exists() and digest(target) != hexdigest:
                         corrupt = self.out / "_corruptos"
@@ -437,10 +542,19 @@ class Downloader:
             self.save_report()
             for number, job in enumerate(self.jobs, 1):
                 current = job
-                print(f"[{number}/{len(self.jobs)}] {job['rows'][0]['caso']} — {job['rows'][0]['titulo'][:90]}", flush=True)
+                principal = job["principal"]
+                print(f"[{number}/{len(self.jobs)}] {principal['caso']} — {principal['titulo'][:90]}", flush=True)
                 result = self.perform(job)
                 for row in job["rows"]:
-                    self.results[row["documento_id"]].update({k: v for k, v in result.items() if k in REPORT_FIELDS})
+                    res = self.results[row["documento_id"]]
+                    res.update({k: v for k, v in result.items() if k in REPORT_FIELDS})
+                    esperado = row.get("sha256_inventario", "")
+                    if esperado and result.get("sha256"):
+                        coincide = result["sha256"] == esperado
+                        res["coincide_inventario"] = "si" if coincide else "no"
+                        if not coincide:
+                            res["detalle"] = (res.get("detalle", "") + "; SHA-256 distinto del inventario: "
+                                              "puede ser una versión nueva publicada por la Comisión").lstrip("; ")
                 self.completed_jobs[result["estado"]] += 1
                 self.log({"url": job["url"], "documentos": [r["documento_id"] for r in job["rows"]], **result})
                 self.save_report()
@@ -467,11 +581,16 @@ class Downloader:
 
 def parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("--manifiesto", type=Path, default=Path(__file__).resolve().with_name("manifiesto.csv"))
+    p.add_argument("--manifiesto", type=Path, default=Path(__file__).resolve().with_name("documentos.csv"),
+                   help="documentos.csv de la etapa 2 (predeterminado) o un manifiesto propio")
     scope = p.add_mutually_exclusive_group()
     scope.add_argument("--piloto", action="store_true", help="Cinco casos predefinidos; es el modo predeterminado")
-    scope.add_argument("--todos", action="store_true", help="Todos los casos del manifiesto")
+    scope.add_argument("--todos", action="store_true", help="Los casos principales (sin el anexo de revisiones)")
     scope.add_argument("--casos", nargs="+", metavar="M.10341", help="Casos separados por espacio o coma")
+    p.add_argument("--incluir-revisiones", action="store_true",
+                   help="Sumar los casos del anexo de revisiones de remedios (universo 'revisiones')")
+    p.add_argument("--intentar-bloqueados", action="store_true",
+                   help="Intentar también EUR-Lex y Curia, que suelen bloquear las descargas automáticas")
     p.add_argument("--destino", type=Path, default=Path("descargas_anc"))
     p.add_argument("--grupos", nargs="+", choices=GRUPOS + ("referencia", "secundaria", "todos"), default=list(GRUPOS))
     p.add_argument("--incluir-html", action="store_true", help="Guardar también páginas HTML individuales; detecta bloqueos básicos")

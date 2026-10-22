@@ -71,7 +71,7 @@ COLUMNAS = [
     "titulo", "fecha_doc", "idioma", "otros_idiomas", "version",
     "url", "fuente", "ref", "estado",
     "http_status", "tipo_contenido", "tamano_bytes", "verificado_el",
-    "archivo_local", "sha256", "paginas", "paginas_compromisos", "notas",
+    "sha256", "paginas", "paginas_compromisos", "notas",
 ]
 # lo que se recalcula en cada corrida: si cambia, se avisa (no se pisa)
 AUTOMATICAS = {
@@ -361,6 +361,16 @@ def verificar_enlace(url: str) -> dict:
             "verificado_el": date.today().isoformat()}
 
 
+def respuesta_valida(url: str, http_status: str, tipo_contenido: str) -> bool:
+    """200 con PDF o HTML; si la URL es de un PDF, tiene que llegar un PDF (una URL
+    vieja puede redirigir a una pagina HTML y responder 200)."""
+    if http_status != "200":
+        return False
+    p = urllib.parse.urlparse(url)
+    es_pdf = p.path.lower().endswith(".pdf") or ".pdf" in p.query.lower()
+    return "pdf" in tipo_contenido or (not es_pdf and "html" in tipo_contenido)
+
+
 def verificar_comunicado(ref: str) -> dict:
     """Los comunicados se verifican con la API de Presscorner (la pagina de
     detalle es una aplicacion que siempre responde 200)."""
@@ -409,7 +419,7 @@ def medir(filas: list[dict], descargar: bool, verificar: bool) -> None:
             f[col] = medida.get(col, "")
         if f["tipo_doc"] == "DEC" or (f["tipo_doc"] == "COMP" and f.get("version") == "no confidencial"):
             f["sha256"], f["paginas"] = medida.get("sha256", ""), medida.get("paginas", "")
-        ok = f["http_status"] == "200" and ("pdf" in f["tipo_contenido"] or "html" in f["tipo_contenido"])
+        ok = respuesta_valida(f["url"], f["http_status"], f["tipo_contenido"])
         if f["tipo_doc"] == "COMP" and f.get("version") == "anexo de la decisión":
             inicio = medida.get("inicio_compromisos", "")
             if f.get("paginas_compromisos"):
@@ -446,9 +456,9 @@ def chequear(filas: list[dict], casos: list[dict]) -> list[str]:
             if not tipos["CP_APERTURA"]:
                 problemas.append(f"{c['caso_id']}: fase II sin CP_APERTURA")
     for f in filas:
-        if f.get("estado") == "localizado_verificado" and not (
-                f.get("http_status") == "200" and ("pdf" in f.get("tipo_contenido", "") or "html" in f.get("tipo_contenido", ""))):
-            problemas.append(f"{f['doc_id']}: verificado sin respuesta 200 con PDF o HTML")
+        if f.get("estado") == "localizado_verificado" and not respuesta_valida(
+                f.get("url", ""), f.get("http_status", ""), f.get("tipo_contenido", "")):
+            problemas.append(f"{f['doc_id']}: verificado sin respuesta válida (200 con PDF, o HTML si no es un PDF)")
     return problemas
 
 

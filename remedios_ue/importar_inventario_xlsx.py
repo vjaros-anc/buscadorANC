@@ -224,7 +224,7 @@ def main() -> int:
         }
         medida, nota = ({}, "") if args.sin_verificar else verificar(url)
         fila.update(medida)
-        ok = medida.get("http_status") == "200" and any(t in medida.get("tipo_contenido", "") for t in ("pdf", "html"))
+        ok = rd.respuesta_valida(url, medida.get("http_status", ""), medida.get("tipo_contenido", ""))
         fila["estado"] = "localizado_verificado" if ok else "localizado_no_verificado"
         fila["notas"] = "; ".join(x for x in (notas, nota) if x)
         documentos[fila["doc_id"]] = fila

@@ -286,27 +286,107 @@ class Downloads(unittest.TestCase):
         self.assertEqual(self.report()[1]['estado'],'fuera_limite')
 
 
-class ManifestPreparation(unittest.TestCase):
-    @classmethod
-    def setUpClass(cls):
-        path=SCRIPT.with_name('preparar_manifiesto.py')
-        spec=importlib.util.spec_from_file_location('prepare',path); cls.mod=importlib.util.module_from_spec(spec); spec.loader.exec_module(cls.mod)
+    # --- documentos.csv como entrada (inventario de la etapa 2) ---
 
-    def source(self,url,kind='prior_notification'):
-        return {'Documento ID':'D0001','Caso':'M.10341','Título':'Aviso','Tipo original':kind,'URL del documento':url}
+    def write_inventory(self, rows):
+        base = {'doc_id':'', 'caso_id':'M.10341', 'universo':'principal', 'tipo_doc':'DEC', 'titulo':'Documento',
+                'idioma':'EN', 'url':'', 'ref':'', 'estado':'localizado_verificado', 'tipo_contenido':'application/pdf',
+                'sha256':'', 'paginas_compromisos':''}
+        full = [{**base, **r} for r in rows]
+        self.manifest = self.root / 'documentos.csv'
+        self.write_manifest(full)
+        return full
+
+    def test_inventory_shared_pdf_is_named_after_decision_and_checked_against_hash(self):
+        sha = hashlib.sha256(self.server.body).hexdigest()
+        self.write_inventory([
+            {'doc_id':'M.10341_COMP_01', 'tipo_doc':'COMP', 'url':self.base+'/valid.pdf', 'paginas_compromisos':'40–55'},
+            {'doc_id':'M.10341_DEC_01', 'url':self.base+'/valid.pdf', 'sha256':sha},
+        ])
+        self.assertEqual(self.run_cli(), 0)
+        self.assertEqual(self.server.calls['/valid.pdf'], 1)
+        rows = {r['documento_id']: r for r in self.report()}
+        self.assertTrue(rows['M.10341_DEC_01']['archivo'].startswith('archivos/M_10341/M.10341_DEC_01_'))
+        self.assertEqual(rows['M.10341_COMP_01']['archivo'], rows['M.10341_DEC_01']['archivo'])
+        self.assertEqual(rows['M.10341_DEC_01']['coincide_inventario'], 'si')
+        self.assertEqual(rows['M.10341_COMP_01']['coincide_inventario'], '')
+        self.assertEqual(rows['M.10341_COMP_01']['paginas_compromisos'], '40–55')
+
+    def test_inventory_hash_mismatch_is_flagged_but_file_is_kept(self):
+        self.write_inventory([{'doc_id':'M.10341_DEC_01', 'url':self.base+'/valid.pdf', 'sha256':'0'*64}])
+        self.assertEqual(self.run_cli(), 0)
+        row = self.report()[0]
+        self.assertEqual(row['estado'], 'descargado'); self.assertEqual(row['coincide_inventario'], 'no')
+        self.assertIn('distinto del inventario', row['detalle'])
+        self.assertTrue((self.out/row['archivo']).is_file())
+        summary = json.loads((self.out/'resumen.json').read_text(encoding='utf-8'))
+        self.assertEqual(summary['distintos_del_inventario'], ['M.10341_DEC_01'])
+
+
+class InventoryConversion(unittest.TestCase):
+    """Conversión de documentos.csv y armado del plan, sin red."""
+
+    def plan(self, rows, *extra):
+        args = dl.parser().parse_args(['--todos', *extra])
+        selected, jobs, statuses = dl.make_plan(dl.filas_desde_inventario(rows), args)
+        return selected, jobs, {k: v[0] for k, v in statuses.items()}, {k: v[1] for k, v in statuses.items()}
+
+    def row(self, **kw):
+        base = {'doc_id':'M.10341_DEC_01', 'caso_id':'M.10341', 'universo':'principal', 'tipo_doc':'DEC',
+                'titulo':'Decisión', 'idioma':'EN', 'url':'https://ec.europa.eu/competition/mergers/cases1/202235/M_10341_8468325_1420_3.pdf',
+                'ref':'', 'estado':'localizado_verificado', 'tipo_contenido':'application/pdf', 'sha256':'', 'paginas_compromisos':''}
+        return {**base, **kw}
 
     def test_oj_table_of_contents_is_never_treated_as_individual_pdf(self):
-        r=self.mod.classify(self.source('https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AC%3A2022%3A327%3ATOC'))
-        self.assertEqual(r['formato'],'indice_do'); self.assertEqual(r['url'],''); self.assertTrue(r['url_referencia'])
+        url = 'https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AC%3A2022%3A327%3ATOC'
+        self.assertEqual(dl.formato_de(url), 'indice_do')
+        fila = dl.filas_desde_inventario([self.row(tipo_doc='RES_DO', url=url, estado='localizado_no_verificado')])[0]
+        self.assertEqual(fila['formato'], 'indice_do'); self.assertEqual(fila['url'], ''); self.assertEqual(fila['url_referencia'], url)
 
-    def test_individual_pdf_url_is_preserved(self):
-        url='https://ec.europa.eu/competition/mergers/cases1/202235/M_10341_8468325_1420_3.pdf'
-        r=self.mod.classify(self.source(url,'clearance_decision'))
-        self.assertEqual(r['url'],url); self.assertEqual(r['formato'],'pdf'); self.assertEqual(r['grupo'],'nucleo')
+    def test_formats_and_groups(self):
+        self.assertEqual(dl.formato_de('https://ec.europa.eu/competition/mergers/cases1/202235/M_10341_8468325_1420_3.pdf'), 'pdf')
+        self.assertEqual(dl.formato_de('https://competition-policy.ec.europa.eu/document/download/x_en?filename=brief_2025-2.pdf'), 'pdf')
+        self.assertEqual(dl.formato_de('https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026M12161'), 'html')
+        self.assertEqual(dl.formato_de('https://example.eu/doc', 'application/pdf'), 'pdf')
+        grupos = {t: dl.filas_desde_inventario([self.row(tipo_doc=t)])[0]['grupo'] for t in dl.GRUPO_POR_TIPO}
+        self.assertEqual(grupos['DEC'], 'nucleo'); self.assertEqual(grupos['COMP'], 'nucleo')
+        self.assertEqual(grupos['MB'], 'analisis'); self.assertEqual(grupos['SENT'], 'referencia')
+        self.assertIn('analisis', dl.GRUPOS); self.assertNotIn('referencia', dl.GRUPOS)
 
-    def test_html_metadata_is_not_promoted_to_full_decision(self):
-        r=self.mod.classify(self.source('https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026M12161','full_decision_record'))
-        self.assertEqual(r['grupo'],'referencia'); self.assertEqual(r['formato'],'html')
+    def test_press_release_is_downloaded_as_print_pdf(self):
+        self.assertEqual(dl.url_impresion('IP/24/761'),
+                         'https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_761/IP_24_761_EN.pdf')
+        self.assertEqual(dl.url_impresion('sin referencia'), '')
+        detalle = 'https://ec.europa.eu/commission/presscorner/detail/en/ip_24_761'
+        fila = dl.filas_desde_inventario([self.row(tipo_doc='CP', url=detalle, ref='IP/24/761', tipo_contenido='text/html')])[0]
+        self.assertEqual(fila['formato'], 'pdf'); self.assertTrue(fila['url'].endswith('/IP_24_761_EN.pdf'))
+        self.assertEqual(fila['url_referencia'], detalle)
+
+    def test_unpublished_document_is_skipped_with_inventory_state(self):
+        _, jobs, estados, detalles = self.plan([self.row(url='', estado='no_publicado_aun')])
+        self.assertEqual(estados['M.10341_DEC_01'], 'sin_url'); self.assertIn('no_publicado_aun', detalles['M.10341_DEC_01'])
+        self.assertFalse(jobs)
+
+    def test_blocked_sites_are_skipped_unless_requested(self):
+        url = 'https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022M10721'
+        rows = [self.row(doc_id='M.10341_RES_DO_M01', tipo_doc='RES_DO', url=url, estado='localizado_no_verificado')]
+        _, jobs, estados, _ = self.plan(rows)
+        self.assertEqual(estados['M.10341_RES_DO_M01'], 'sitio_bloqueado'); self.assertFalse(jobs)
+        _, jobs, estados, _ = self.plan(rows, '--intentar-bloqueados')
+        self.assertEqual(estados['M.10341_RES_DO_M01'], 'pendiente'); self.assertEqual(len(jobs), 1)
+
+    def test_review_annex_only_with_flag(self):
+        rows = [self.row(), self.row(doc_id='M.3280_DEC_01', caso_id='M.3280', universo='revisiones',
+                                     url='https://ec.europa.eu/competition/mergers/cases/decisions/m3280_en.pdf')]
+        selected, _, _, _ = self.plan(rows)
+        self.assertEqual({r['caso'] for r in selected}, {'M.10341'})
+        selected, _, _, _ = self.plan(rows, '--incluir-revisiones')
+        self.assertEqual({r['caso'] for r in selected}, {'M.10341', 'M.3280'})
+
+    def test_shared_pdf_main_row_is_the_decision(self):
+        url = self.row()['url']
+        _, jobs, _, _ = self.plan([self.row(doc_id='M.10341_COMP_01', tipo_doc='COMP', url=url), self.row()])
+        self.assertEqual(len(jobs), 1); self.assertEqual(jobs[0]['principal']['documento_id'], 'M.10341_DEC_01')
 
 
 if __name__=='__main__': unittest.main(verbosity=2)

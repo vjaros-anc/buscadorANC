@@ -10,7 +10,7 @@ Esta carpeta está separada del buscador de la CNDC (raíz del repo) y no lo toc
 |---|---|---|
 | 1. Universo de casos | `casos.csv`, `revisiones_remedios.csv`, `conciliacion.md` | hecha y validada |
 | 2. Inventario documental | `documentos.csv` | hecha, **a validar** |
-| 3. Descarga y extracción | PDF y texto (scripts propios) | pendiente |
+| 3. Descarga y extracción | `descargar_remedios.py` (descarga); extracción de texto | descarga lista; extracción pendiente |
 | 4–5. Fichas problema–remedio | fichas por caso | pendiente |
 
 ---
@@ -191,7 +191,6 @@ El Excel es un insumo interno y no se versiona.
 | `url`, `fuente`, `ref` | Enlace, de dónde salió y referencia (comunicado o Diario Oficial) |
 | `estado` | `localizado_verificado`, `localizado_no_verificado`, `no_publicado_aun`, `no_publico`, `no_encontrado`, `no_aplica` |
 | `http_status`, `tipo_contenido`, `tamano_bytes`, `verificado_el` | Resultado de la verificación |
-| `archivo_local` | **Vacía**: la completa el descargador de la etapa 3 |
 | `sha256`, `paginas` | De las `DEC` (y `COMP` separados) ya bajadas, para que el descargador compruebe lo que baja |
 | `paginas_compromisos` | Rango de páginas del PDF donde están los compromisos |
 | `notas` | Aclaraciones; en las filas del Excel, el tipo original y su nota |
@@ -237,10 +236,104 @@ de los compromisos, coincide con la ubicada (6 de 6).
 - Las decisiones de apertura de fase II (art. 6(1)(c)) no tienen PDF en el JSON; la
   apertura queda documentada con su comunicado.
 
-### Para el descargador de la etapa 3
+Las filas `COMP` con `version = anexo de la decisión` apuntan al mismo PDF que su `DEC`:
+alcanza con bajarlo una vez y usar `paginas_compromisos`. Qué archivo local corresponde a
+cada `doc_id` no se guarda acá (sería una ruta de una máquina en un archivo público): lo
+registra el `reporte.csv` del descargador (etapa 3).
 
-Recorrer `documentos.csv` filtrando por `estado` (`localizado_verificado`, y
-`localizado_no_verificado` si se quiere intentar EUR-Lex) y por `prioridad` o `tipo_doc`.
-Las filas `COMP` con `version = anexo de la decisión` apuntan al mismo PDF que su `DEC`: no
-hace falta bajarlo dos veces, alcanza con usar `paginas_compromisos`. Completar
-`archivo_local` y comparar con `sha256`.
+---
+
+## Etapa 3 — Descarga
+
+`descargar_remedios.py` baja los documentos de `documentos.csv` a una carpeta local,
+comprueba cada archivo y deja un reporte. Es el descargador que aportó la ANC, adaptado
+para leer el inventario de la etapa 2. No necesita instalar nada (Python 3.10 o posterior).
+
+### Cómo usarlo
+
+Desde la raíz del repo (en Windows, `py -3` en lugar de `python`):
+
+```bash
+python remedios_ue/descargar_remedios.py --piloto --plan   # qué bajaría, sin red ni archivos
+python remedios_ue/descargar_remedios.py --piloto          # 5 casos de prueba
+python remedios_ue/descargar_remedios.py --todos           # los 47 casos
+python remedios_ue/descargar_remedios.py --todos --incluir-revisiones   # + los 12 del anexo
+```
+
+Por defecto guarda en `descargas_anc/` (ignorada por git). Para otra carpeta:
+`--destino "C:\ANC\remedios_ue"`. Para reanudar o ampliar, se vuelve a correr con el mismo
+destino: lo ya bajado se comprueba por tamaño y SHA-256 y no se pide de nuevo. Se puede
+cortar con Ctrl+C.
+
+El piloto son M.10341 Prince/Ferro, M.10262 Meta/Kustomer, M.10646 Microsoft/Activision,
+M.10896 Orange/MásMóvil y M.11253 Safran/Collins.
+
+### Qué baja
+
+| Grupo | Tipos de `documentos.csv` | Por defecto |
+|---|---|---|
+| `nucleo` | `DEC`, `COMP` | sí |
+| `actos_posteriores` | `POST` | sí |
+| `procedimiento` | `NOT_PREVIA`, `DICT`, `RES_DO`, `OTRO` | sí |
+| `comunicados` | `CP`, `CP_APERTURA` | sí; se bajan en su versión PDF de impresión de Presscorner |
+| `analisis` | `MB` | sí |
+| `referencia` | `SENT` | no (`--grupos ... referencia`) |
+
+- **Una sola descarga por URL:** una decisión y su anexo de compromisos comparten URL. Se
+  baja una vez y el reporte la asigna a las dos filas.
+- **Lo que no se intenta:**
+  - las filas sin URL, como las decisiones aún no publicadas;
+  - los índices del Diario Oficial;
+  - **EUR-Lex y Curia**: bloquean las descargas automáticas, así que quedan como
+    `sitio_bloqueado` para bajarlas a mano. Se pueden intentar igual con `--intentar-bloqueados`.
+
+### Archivos y reporte
+
+```text
+descargas_anc/
+  archivos/M_10341/M.10341_DEC_01_<hash>.pdf   nombre de la fila principal + hash del contenido
+  archivos/compartidos/...                     archivos de varios casos (p. ej. un Merger Brief)
+  reporte.csv     una fila por documento: doc_id, estado, archivo, sha256,
+                  coincide_inventario, paginas_compromisos, ...
+  resumen.json    conteos de la última ejecución
+  historial.jsonl historial de todas las solicitudes
+  estado.json     índice para reanudar
+```
+
+- **`coincide_inventario`**: compara el SHA-256 de lo bajado con el de `documentos.csv`.
+  Un `no` no impide guardar el archivo, pero avisa que la Comisión pudo haber publicado una
+  versión nueva. Los casos se listan en `resumen.json`.
+- **Estados principales del reporte:**
+  - `descargado`, `ya_descargado`, `contenido_reutilizado`: correcto;
+  - `sin_url`, `requiere_url_individual`, `sitio_bloqueado`, `html_no_solicitado`,
+    `fuera_grupo`: no se intentó, por diseño;
+  - `bloqueado`, `html_en_lugar_pdf`, `pdf_incompleto`, `error_http`, `error_red`: falló.
+- **Códigos de salida:** `0` todo lo intentado salió bien; `2` hubo fallos; `1` error de
+  configuración; `130` interrumpido.
+
+Otras opciones: `--casos M.10341 M.10646`, `--grupos nucleo`, `--limite 2`, `--forzar`
+(vuelve a pedir todo y conserva versiones distintas), `--incluir-html`, `--timeout`,
+`--pausa`, `--help`.
+
+### Pruebas
+
+```bash
+python -m unittest discover -s remedios_ue/tests -v
+```
+
+Son 29 pruebas sin red: usan un servidor local o, si no hay sockets, transporte en memoria.
+
+### Cambios respecto del descargador original
+
+- **Entrada:** lee `documentos.csv` en lugar de su manifiesto propio, armado desde el Excel.
+  Con ese manifiesto faltaban las decisiones de 9 casos.
+- **Grupo nuevo `analisis`:** los Merger Briefs.
+- **Comunicados:** se bajan como PDF de impresión.
+- **Comprobación contra el inventario:** columna `coincide_inventario`.
+- **`sitio_bloqueado`:** para EUR-Lex y Curia, con la opción `--intentar-bloqueados`.
+- **Universo:** `--incluir-revisiones` suma el anexo.
+- **Nombres legibles:** el archivo toma el nombre de la decisión, también cuando comparte URL
+  con su anexo de compromisos (antes podía tomar el de `COMP`).
+- **Reporte:** suma `paginas_compromisos` para la extracción de texto.
+- **Archivos retirados:** el manifiesto, `preparar_manifiesto.py` y los metadatos del ZIP. Las
+  copias del Excel y `FUENTES.md` están en `inventario_excel/`.

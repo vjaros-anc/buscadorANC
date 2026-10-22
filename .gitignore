@@ -40,3 +40,6 @@ unificacion_reporte.txt
 
 # --- Biblioteca de remedios UE: descargas crudas (se regeneran con los scripts) ---
 remedios_ue/datos_crudos/
+
+# --- Biblioteca de remedios UE: descargas de la etapa 3 (PDF, ~230 MB) ---
+descargas_anc/
