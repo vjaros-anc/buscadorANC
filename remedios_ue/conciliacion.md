@@ -109,11 +109,12 @@ Caso en curso: **M.11944 MMG/negocio de níquel de Anglo American**. Está en fa
 compromisos presentados en fase I y pliego de cargos del 16/09/2026; todavía no hay
 decisión.
 
-## Posible ampliación (fuera del criterio actual)
+## Anexo: revisiones de remedios de casos anteriores
 
 En el período hubo decisiones que revisaron o aplicaron remedios de casos autorizados
-**antes** de 2021-10-22. No entran porque la autorización es anterior, pero muestran cómo
-se modifican los remedios con el tiempo:
+**antes** de 2021-10-22. No entran en el universo principal porque la autorización es
+anterior, pero muestran cómo se modifican los remedios con el tiempo. Van en un anexo
+aparte, `revisiones_remedios.csv`, que genera `inventario_casos.py`:
 
 | Caso | Autorizado | Decisiones en el período |
 |---|---|---|
@@ -130,9 +131,12 @@ se modifican los remedios con el tiempo:
 | M.9064 Telia/Bonnier | 2019 | cláusula de revisión (16/12/2025) |
 | M.9546 Gategroup/LSG | 2020 | cláusula de revisión (29/10/2021 y 31/01/2022) |
 
-## Para validar
+## Validación
 
-1. ¿Está bien incluir **M.10108** (adoptado el 22/10/2021, primer día del período)?
-2. ¿Quedan afuera los **casos FSR** (e&/PPF, ADNOC/Covestro, línea de Lisboa)? Tienen compromisos, pero son otro régimen.
-3. ¿Se suman como anexo las **12 revisiones de remedios de casos anteriores**, o quedan afuera?
-4. ¿La clasificación preliminar es razonable? Hay 37 casos estructurales, 4 conductuales y 6 mixtos (ver `casos.csv`).
+Validado por la ANC el 22/10/2026:
+
+1. **M.10108 entra**: el período es inclusive. El universo queda en 47 casos.
+2. **Los casos FSR quedan afuera** (e&/PPF, ADNOC/Covestro, línea de Lisboa): son otro régimen.
+3. **Las 12 revisiones de remedios de casos anteriores van a un anexo aparte**, `revisiones_remedios.csv`, con sus documentos en `documentos.csv` (`universo = revisiones`).
+
+Pendiente: revisar la clasificación preliminar de remedios en `casos.csv` (37 estructurales, 4 conductuales y 6 mixtos). Se confirma en la etapa 4.

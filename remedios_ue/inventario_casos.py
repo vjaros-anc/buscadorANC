@@ -27,6 +27,9 @@ Que hace, en orden:
      DISCREPANCIA y no lo toca.
   5. Imprime el conteo por anio y fase (para conciliar con las estadisticas
      oficiales) y corre los chequeos de consistencia.
+  6. Arma el anexo revisiones_remedios.csv: casos autorizados con condiciones
+     ANTES de DESDE que tuvieron, dentro del periodo, decisiones que revisan,
+     modifican o aplican sus remedios. Misma regla: solo completa celdas vacias.
 
 Uso:
     python inventario_casos.py                 # descarga todo y actualiza casos.csv
@@ -53,6 +56,7 @@ from pathlib import Path
 AQUI = Path(__file__).parent
 CRUDOS = AQUI / "datos_crudos"
 CASOS_CSV = AQUI / "casos.csv"
+REVISIONES_CSV = AQUI / "revisiones_remedios.csv"
 
 DESDE = "2021-10-22"
 HASTA = "2026-10-22"
@@ -80,6 +84,14 @@ EVENTOS_POSTERIORES = {
     "Art. 8(5)(c)": "medidas provisionales art. 8(5)(c)",
     "Art. 8(6)": "revocación art. 8(6)",
     "Art. 14": "multa art. 14",
+}
+
+# decisiones que revisan o aplican remedios: definen el anexo de revisiones
+REVISION_REMEDIOS = {
+    "Decision on the implementation of remedies",
+    "Decision under remedy review clause",
+    "Modification of Art. 6(1)(b) with conditions & obligations",
+    "Modification of Art. 8(2) with conditions & obligations",
 }
 
 # hechos del procedimiento previos a la decision que conviene anotar
@@ -126,6 +138,17 @@ AUTOMATICAS = {
     "fuentes_identificacion",
 }
 OBLIGATORIAS = ["caso_id", "titulo", "fecha_decision", "fase", "base_legal", "url_caso"]
+
+COLUMNAS_REVISIONES = [
+    "caso_id",
+    "titulo",
+    "fecha_autorizacion_original",
+    "base_legal_original",
+    "decisiones_en_periodo",
+    "url_caso",
+    "notas",
+]
+AUTOMATICAS_REVISIONES = set(COLUMNAS_REVISIONES) - {"caso_id", "notas"}
 
 
 # ---------------------------------------------------------------- descarga --
@@ -196,15 +219,20 @@ def ref_a_url(ref: str) -> str:
     return URL_COMUNICADO.format(ref.lower().replace("/", "_"))
 
 
+def decisiones_de(caso: dict) -> list[tuple[str, str, dict]]:
+    """(fecha de adopcion, etiqueta del tipo, decision completa) de cada decision del caso."""
+    out = []
+    for dec in caso.get("decisions", []):
+        m = dec["metadata"]
+        out.append((_primero(m.get("decisionAdoptionDate")), _primero(_etiquetas(m.get("decisionTypes"))), dec))
+    return out
+
+
 def lista_a(datos: dict) -> dict[str, dict]:
     casos = {}
     for caso_id, caso in datos.items():
         md = caso["metadata"]
-        decisiones = []
-        for dec in caso.get("decisions", []):
-            m = dec["metadata"]
-            decisiones.append((_primero(m.get("decisionAdoptionDate")),
-                               _primero(_etiquetas(m.get("decisionTypes"))), m))
+        decisiones = [(f, t, dec["metadata"]) for f, t, dec in decisiones_de(caso)]
         condicionadas = [d for d in decisiones if d[1] in TIPOS_INCLUIDOS and DESDE <= d[0] <= HASTA]
         if not condicionadas:
             continue
@@ -240,6 +268,29 @@ def lista_a(datos: dict) -> dict[str, dict]:
             "url_caso": URL_CASO.format(caso_id),
             "url_comunicado": ref_a_url(comunicados[0]) if comunicados else "",
             "notas": "; ".join(antecedentes),
+        }
+    return casos
+
+
+def lista_revisiones(datos: dict) -> dict[str, dict]:
+    """Casos autorizados con condiciones antes de DESDE con decisiones de
+    revision o aplicacion de remedios dentro del periodo (anexo)."""
+    casos = {}
+    for caso_id, caso in datos.items():
+        decisiones = decisiones_de(caso)
+        originales = sorted((f, t) for f, t, _ in decisiones if t in TIPOS_INCLUIDOS)
+        en_periodo = sorted((f, t) for f, t, _ in decisiones
+                            if t in REVISION_REMEDIOS and DESDE <= f <= HASTA)
+        if not originales or not en_periodo or originales[-1][0] >= DESDE:
+            continue
+        fecha, tipo = originales[-1]
+        casos[caso_id] = {
+            "caso_id": caso_id,
+            "titulo": _primero(caso["metadata"].get("caseTitle")).strip(),
+            "fecha_autorizacion_original": fecha,
+            "base_legal_original": TIPOS_INCLUIDOS[tipo][1],
+            "decisiones_en_periodo": "; ".join(f"{EVENTOS_POSTERIORES[t]} ({f})" for f, t in en_periodo),
+            "url_caso": URL_CASO.format(caso_id),
         }
     return casos
 
@@ -311,33 +362,35 @@ def leer_csv(ruta: Path) -> dict[str, dict]:
         return {r["caso_id"]: r for r in csv.DictReader(f)}
 
 
-def escribir_csv(ruta: Path, filas: list[dict]) -> None:
+def escribir_csv(ruta: Path, filas: list[dict], columnas: list[str] = COLUMNAS) -> None:
     with ruta.open("w", encoding="utf-8-sig", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=COLUMNAS, extrasaction="ignore")
+        w = csv.DictWriter(f, fieldnames=columnas, extrasaction="ignore")
         w.writeheader()
         for fila in filas:
-            w.writerow({c: fila.get(c, "") for c in COLUMNAS})
+            w.writerow({c: fila.get(c, "") for c in columnas})
 
 
-def mergear(existentes: dict[str, dict], nuevos: dict[str, dict]) -> tuple[list[dict], list[str]]:
+def mergear(existentes: dict[str, dict], nuevos: dict[str, dict], columnas: list[str] = COLUMNAS,
+            automaticas: set[str] = AUTOMATICAS, orden=lambda f: (f.get("fecha_decision", ""), f["caso_id"]),
+            archivo: str = "casos.csv") -> tuple[list[dict], list[str]]:
     """Completa solo celdas vacias. Devuelve filas y discrepancias."""
     discrepancias = []
     filas = {}
-    for caso_id, nuevo in nuevos.items():
-        fila = dict(existentes.get(caso_id, {}))
-        for col in COLUMNAS:
+    for k, nuevo in nuevos.items():
+        fila = dict(existentes.get(k, {}))
+        for col in columnas:
             cargado = (fila.get(col) or "").strip()
             calculado = (nuevo.get(col) or "").strip()
             if not cargado:
                 fila[col] = calculado
-            elif col in AUTOMATICAS and calculado and cargado != calculado:
-                discrepancias.append(f"{caso_id} {col}: cargado={cargado!r} / fuente={calculado!r}")
-        filas[caso_id] = fila
-    for caso_id, fila in existentes.items():
-        if caso_id not in filas:
-            discrepancias.append(f"{caso_id}: está en casos.csv pero ya no surge de las fuentes (se conserva)")
-            filas[caso_id] = fila
-    return sorted(filas.values(), key=lambda f: (f.get("fecha_decision", ""), f["caso_id"])), discrepancias
+            elif col in automaticas and calculado and cargado != calculado:
+                discrepancias.append(f"{k} {col}: cargado={cargado!r} / fuente={calculado!r}")
+        filas[k] = fila
+    for k, fila in existentes.items():
+        if k not in filas:
+            discrepancias.append(f"{k}: está en {archivo} pero ya no surge de las fuentes (se conserva)")
+            filas[k] = fila
+    return sorted(filas.values(), key=orden), discrepancias
 
 
 def chequear(filas: list[dict]) -> list[str]:
@@ -407,6 +460,14 @@ def main() -> int:
     print("\nEn el período", DESDE, "a", HASTA, "por año:",
           ", ".join(f"{y}: {en_periodo[(y, 'I')]}+{en_periodo[(y, 'II')]}"
                     for y in sorted({k[0] for k in en_periodo})), "(fase I + fase II)")
+
+    revisiones, disc_rev = mergear(
+        leer_csv(REVISIONES_CSV), lista_revisiones(datos), COLUMNAS_REVISIONES, AUTOMATICAS_REVISIONES,
+        orden=lambda f: (f.get("fecha_autorizacion_original", ""), f["caso_id"]), archivo=REVISIONES_CSV.name)
+    escribir_csv(REVISIONES_CSV, revisiones, COLUMNAS_REVISIONES)
+    print(f"\nAnexo {REVISIONES_CSV.name}: {len(revisiones)} casos anteriores con revisiones de remedios en el período")
+    for d in disc_rev:
+        print("  DISCREPANCIA " + d)
 
     problemas = chequear(filas)
     print("\nChequeos:", "OK" if not problemas else f"{len(problemas)} problemas")

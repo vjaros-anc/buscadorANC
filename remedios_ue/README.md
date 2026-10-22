@@ -8,7 +8,7 @@ Esta carpeta está separada del buscador de la CNDC (raíz del repo) y no lo toc
 
 | Etapa | Qué produce | Estado |
 |---|---|---|
-| 1. Universo de casos | `casos.csv`, `conciliacion.md` | hecha, **a validar** |
+| 1. Universo de casos | `casos.csv`, `revisiones_remedios.csv`, `conciliacion.md` | hecha y validada |
 | 2. Inventario documental | `documentos.csv` | pendiente |
 | 3. Descarga y extracción | PDF y texto (scripts propios) | pendiente |
 | 4–5. Fichas problema–remedio | fichas por caso | pendiente |
@@ -90,6 +90,22 @@ CSV en UTF-8 con BOM (Excel lo abre con los acentos bien). Las columnas marcadas
 | `url_comunicado` | Comunicado de la autorización | Presscorner |
 | `fuentes_identificacion` | En qué listas apareció: `A;C` o `A` | Cruce |
 | `notas` | Antecedentes del procedimiento (remisiones, notificaciones retiradas) + notas manuales | JSON + manual |
+
+### Anexo: `revisiones_remedios.csv`
+
+Son los casos autorizados con condiciones **antes** del 22/10/2021 que, dentro del
+período, tuvieron una decisión que revisó, modificó o aplicó sus remedios: cláusula de
+revisión, implementación de remedios o modificación de compromisos. No forman parte de
+los 47, pero muestran cómo se flexibilizan o terminan los remedios con el tiempo. Hoy
+son 12 casos.
+
+| Columna | Contenido |
+|---|---|
+| `caso_id`, `titulo` | Del JSON |
+| `fecha_autorizacion_original`, `base_legal_original` | La última autorización condicionada del caso |
+| `decisiones_en_periodo` | Tipo y fecha de cada decisión de remedios del período |
+| `url_caso` | Ficha oficial |
+| `notas` | Manual |
 
 ### Criterio para `tipo_remedio_preliminar`
 
