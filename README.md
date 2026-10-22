@@ -19,6 +19,20 @@ la rama de trabajo, `claude/gallant-bardeen-y00h2a`.
 | `estado.json` | Índice que usa el descargador para reanudar |
 | `historial.jsonl` | Historial de solicitudes |
 
+| `datos_crudos/` | Insumos de las etapas 1 y 2 (ver abajo) |
+
+### `datos_crudos/`: para reproducir el inventario exacto
+
+| Archivo | Qué es |
+|---|---|
+| `case-data-M.json` (42 MB) | Copia del 22/10/2026 del dataset de concentraciones de DG COMP. Se actualiza a diario: `casos.csv` y `documentos.csv` salen de **esta** copia (sha256 `d135029e…57b459`, también en `case-data-M.meta.json`) |
+| `comunicados.json` | Lista C de la etapa 1: comunicados "subject to conditions" de Presscorner |
+| `verificaciones.json`, `analisis_pdf.json` | Cachés de `relevar_documentos.py`: verificación de enlaces y análisis de PDF (páginas, SHA-256, inicio del anexo de compromisos) |
+
+Para usarlos, copiarlos a `remedios_ue/datos_crudos/` de la rama de trabajo y correr
+`inventario_casos.py --sin-descarga` y `relevar_documentos.py`: dan los mismos CSV sin
+consultar la red.
+
 Lo generó `descargar_remedios.py` 1.1.0 (`--todos`) el 22/10/2026:
 - 276 PDF descargados y verificados;
 - las 44 decisiones publicadas coinciden con el SHA-256 de `documentos.csv`;

@@ -1,0 +1,542 @@
+{
+ "https://ec.europa.eu/competition/mergers/cases/decisions/m3280_en.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "",
+  "paginas": "55",
+  "sha256": "91aff49bc414800a9d87339bb5af136b4e5d1380cb2887ad2fb389189082f0a7",
+  "tamano_bytes": "428286",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases/decisions/m3770_20050704_20212_en.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "",
+  "paginas": "68",
+  "sha256": "2d8f22f14fc5eb1fda63cd93755b1a7e8f9ed3f610ffecde9a7bbba0c57c5e65",
+  "tamano_bytes": "505729",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases/decisions/m4180_20061114_20600_en.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "",
+  "paginas": "273",
+  "sha256": "494ccaf4e1fdd0c6f4019f5c79767110f3738f634c222b827e10c95fa37aaabd",
+  "tamano_bytes": "1970191",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases/decisions/m5364_20090109_20212_en.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "",
+  "paginas": "17",
+  "sha256": "491f47bc47135e883b789b47b84a92d8c107f09c878f0ee3b450194d02d7d94d",
+  "tamano_bytes": "207742",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases/decisions/m6447_20120330_20212_2452290_EN.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "165",
+  "paginas": "196",
+  "sha256": "66b00e34f1a073e0584690fb2ed9bbc43cc2038ecbfb624d95de988f521cc1a9",
+  "tamano_bytes": "809563",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases/decisions/m8444_6740_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "331",
+  "paginas": "346",
+  "sha256": "870cc9c0e20fc0a8068ca7b62271be45def24ec62673d97d84b7a5c623546a51",
+  "tamano_bytes": "2839799",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases/decisions/m8674_3832_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "287",
+  "paginas": "334",
+  "sha256": "5ab10905b6a6bdf966f640c6bf6e0fce8d4f37562773a69bdda971cc84d54bad",
+  "tamano_bytes": "3291658",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases/decisions/m8744_1326_7.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "67",
+  "paginas": "81",
+  "sha256": "fc7008a5049587526461fb98f674b591e772dd6623516cb92e89448910de3fe6",
+  "tamano_bytes": "1417969",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases/decisions/m8947_5512_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "76",
+  "paginas": "96",
+  "sha256": "e65f14e69bb1be985b6153d51face30a14ea45e4b64b71de0451863a27c5345a",
+  "tamano_bytes": "1389703",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases/decisions/m9041_263_7.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "23",
+  "paginas": "45",
+  "sha256": "219debf7c4b39f84df1695f502a93af2b7a6b34e65158958d6ff4674a1b7201e",
+  "tamano_bytes": "262688",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202110/m9064_3542_11.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "381",
+  "paginas": "407",
+  "sha256": "2a0ac72f8fc31375c8e9b6429fcf8a34fa25ccbbb02b92a0b8a8a6982fed887c",
+  "tamano_bytes": "6430961",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202110/m9546_1608_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "72",
+  "paginas": "105",
+  "sha256": "de38460c9e65da2f7d4bac2151111e40e9e3968c55454a9583cd6ad7a85141bb",
+  "tamano_bytes": "1448367",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202152/M_10249_8105769_1105_9.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "1",
+  "paginas": "22",
+  "sha256": "4acf6b6062ccb05666569b1faa35d0914ede3f7f71300b990f9b3328c9d6c95e",
+  "tamano_bytes": "1240157",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202205/M_10108_8144504_4178_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "252",
+  "paginas": "308",
+  "sha256": "f01980e0a1bd89d749caaf43979825ac1d09defa37a92187ab1334448f1589a3",
+  "tamano_bytes": "10305070",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202209/M_9969_8194861_7057_6.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "396",
+  "paginas": "534",
+  "sha256": "8aa9fd1746c8fa0386af8683f33cb9253990265ee9033e57b90ea772fde83508",
+  "tamano_bytes": "11762627",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202229/M_10506_8413340_1616_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "80",
+  "paginas": "95",
+  "sha256": "0cda62ee817c3696c093f1a19891834016bb15423ff1e5dc4916d3e370cc1bd7",
+  "tamano_bytes": "980863",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202231/M_10078_8433511_6645_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "535",
+  "paginas": "582",
+  "sha256": "18b1e47070394861f7c8c06e6692e385060a81ab18d0c9117c20526b6dbbb78d",
+  "tamano_bytes": "14887926",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202235/M_10341_8468325_1420_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "41",
+  "paginas": "57",
+  "sha256": "c2e112a9be24bc11b45abbbf6fcf130ce9b6dd4d3e679de20181974c310b5a06",
+  "tamano_bytes": "1306427",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202242/M_10262_8559915_3054_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "185",
+  "paginas": "202",
+  "sha256": "d8724636267052aa8a1ee7bfb5f7698bf26869aea509d659c3c4ff5c393eaf97",
+  "tamano_bytes": "3960104",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202244/M_10575_8592618_1886_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "72",
+  "paginas": "92",
+  "sha256": "244f703163d5cf347af54c3a1974596c112508be8c342fa7036fab4e724c9c15",
+  "tamano_bytes": "4221814",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202250/M_10431_8659694_2665_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "80",
+  "paginas": "98",
+  "sha256": "4bbf077c880da067c2b5d2076508472652b42724bccc1266338aaa5b65d43ad0",
+  "tamano_bytes": "839331",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202250/M_10699_8690247_1396_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "37",
+  "paginas": "51",
+  "sha256": "752c2e7a6d79e99ed4fcdf4aecfb378a52dc362ec1da35943d21eb611d1a6fdd",
+  "tamano_bytes": "1543733",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202304/M_10249_8889682_1900_9.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "183",
+  "paginas": "183",
+  "sha256": "60555428a0540a0c6d61869ec58d4334f07ec7fdafdb4a7aa6de93ed08a02317",
+  "tamano_bytes": "12251383",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202317/M_10687_9155250_1812_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "47",
+  "paginas": "64",
+  "sha256": "14936b111e42d2147ca84dde69768d0dfeee8a5576356c837ae1e9289a176b58",
+  "tamano_bytes": "366186",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202322/M_10721_9208023_1695_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "33",
+  "paginas": "61",
+  "sha256": "c7bf32b08a77fb772282cbab8202e2208151d51ab6ced517e4738235d9ccbadf",
+  "tamano_bytes": "1638556",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202328/M_10792_9287312_1588_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "56",
+  "paginas": "74",
+  "sha256": "84d29851af6b8e92855630c87de96525fb521a8d030accecdbb8864f1fc01b86",
+  "tamano_bytes": "2420099",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202330/M_10646_9311516_7443_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "238",
+  "paginas": "258",
+  "sha256": "7d0b3f8f590d6fa6f4205a4a393a4cc5c5a74e1209b2e1b96e595271072350a2",
+  "tamano_bytes": "4422655",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202342/M_10638_9590082_3849_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "50",
+  "paginas": "66",
+  "sha256": "e5e0b27b9af881cd0cd20b2a12cd95cbe9e057f9ac7a085060f9cf34124e4c08",
+  "tamano_bytes": "2741223",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202346/M_10702_9663879_2004_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "58",
+  "paginas": "76",
+  "sha256": "acebb428dec5f88d36d958ff6ec50adfaa1378d3b58d5793f26f076cdb1e707c",
+  "tamano_bytes": "838783",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202346/M_10860_9688172_15061_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "66",
+  "paginas": "88",
+  "sha256": "6bb3b7dc8be98808dcb9d593bd7908323e855be4a411ae6d0bede55162255a3f",
+  "tamano_bytes": "977070",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202349/M_10663_9760254_2225_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "257",
+  "paginas": "267",
+  "sha256": "a18d607ef23ab5930070dd776e613a38a6a57aeebb2778f13ae97d99edcaf7ef",
+  "tamano_bytes": "8747040",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202405/M_11043_9877541_4968_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "1",
+  "paginas": "34",
+  "sha256": "182156d40cae34f3a2198b1bf22e9213b779e3f69bfdd5b8274a9cbbf67a1c54",
+  "tamano_bytes": "176542",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202410/M_10560_9946206_16411_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "212",
+  "paginas": "243",
+  "sha256": "234c3e676e19963fc5448c57924472fdaeb39f1ac8d4d10bfb56a22f40c30007",
+  "tamano_bytes": "3243489",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202412/M_10507_9970009_5690_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "73",
+  "paginas": "98",
+  "sha256": "c961cd499ad6d214c63843d117f37a9f62edd3acf44c84d1d17f25ec82c3380e",
+  "tamano_bytes": "995059",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202423/M_11143_10075444_2480_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "71",
+  "paginas": "93",
+  "sha256": "0ce3927bce74ea35de3229fd47627e08e2844dbf3ccb9ab2468b2756007a58cb",
+  "tamano_bytes": "942500",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202426/M_10896_10132275_5929_5.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "456",
+  "paginas": "469",
+  "sha256": "4da7ad5ecb15e8bb35a2c16ad05a39b7def8459618a560cbb7503846a8192fed",
+  "tamano_bytes": "14656360",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202429/M_11383_10158301_3368_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "1",
+  "paginas": "18",
+  "sha256": "547c069f83656ba3490ef0e90e4bf65ac02a9c2847adc2c4881301afe673088d",
+  "tamano_bytes": "567759",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202439/M_11383_10271258_3504_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "66",
+  "paginas": "83",
+  "sha256": "c798c763d579e081f401c0b635646bd199a60c52ca8e4bce0aff87836917fb48",
+  "tamano_bytes": "3241688",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202447/M_10438_10358171_2981_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "148",
+  "paginas": "168",
+  "sha256": "daef5434eb9c1e6588f83cbb10559293f7e18760e853e228aa97b0820d730ae6",
+  "tamano_bytes": "2085591",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202447/M_11043_10384533_5307_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "55",
+  "paginas": "89",
+  "sha256": "d69d24822bd796bd9c43266730230bfe593d181563c49a3f8289211f52ce79f8",
+  "tamano_bytes": "868967",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202448/M_10433_10400612_13036_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "527",
+  "paginas": "552",
+  "sha256": "ff623e6a8f87e8d64fdd2691dabe6f21b0f106536b9a371afd79e6460aa02de6",
+  "tamano_bytes": "5417353",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202449/M_11159_10409701_6735_4.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "120",
+  "paginas": "141",
+  "sha256": "2af8a683b8c4d89214bd769735365eee67bfa647bad6ded733cbb57efcaab7e3",
+  "tamano_bytes": "1758896",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202508/M_11071_10520043_20204_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "568",
+  "paginas": "595",
+  "sha256": "62c94104116dc03e7477e2c18265b583d805fc897f708542cae64b5127ff030d",
+  "tamano_bytes": "6724599",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202519/M_11564_10618586_4061_7.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "80",
+  "paginas": "117",
+  "sha256": "95a03aa06658e5c3e2d2a2628e9c85b3a3ffaf9eaf5d2ae0095698127b4187c8",
+  "tamano_bytes": "1920038",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202520/M_10806_10624386_6538_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "220",
+  "paginas": "232",
+  "sha256": "06bd4a77795f177857df93153710d75e707e4de30e6d4a2c6dc14639da071846",
+  "tamano_bytes": "4884132",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202536/M_11204_10738327_11668_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "136",
+  "paginas": "152",
+  "sha256": "8911778bdc856c156a2d901220df0a85c1702e852830d8786479e9bac096a735",
+  "tamano_bytes": "2769219",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202540/M_11485_10764590_4013_7.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "71",
+  "paginas": "97",
+  "sha256": "653412292fbf2c18547e60ca2afa6118ae0287e3c794cc782e60540c6c03d523",
+  "tamano_bytes": "995238",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202541/M_11253_10772817_2511_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "82",
+  "paginas": "102",
+  "sha256": "bf8a260c9f5e6949f6e7cd0933395e70101e226c9b1df596a4014989cecba811",
+  "tamano_bytes": "2222934",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202551/M_11577_10847312_904_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "29",
+  "paginas": "48",
+  "sha256": "99e7cb51c514768978613fe2f9ab6bd9a51e44b55472b8615c8b141dfe8e2530",
+  "tamano_bytes": "1392908",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202551/M_11830_10846699_4319_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "60",
+  "paginas": "79",
+  "sha256": "6970e086682d5d0ec9f6d0f14942416f22d113c257dac364a67e8642f124c72c",
+  "tamano_bytes": "926101",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202608/M_11936_10896561_1578_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "66",
+  "paginas": "78",
+  "sha256": "88d43b5b941d46558efba6a4747948723e8ba699c2736f455227ddb536e507e0",
+  "tamano_bytes": "1357203",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202608/M_11956_10891327_5409_8.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "1",
+  "paginas": "25",
+  "sha256": "03091a5afff6f230c30758e1c6505fba064c456d09e4f145a382a061953f03cc",
+  "tamano_bytes": "317045",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202611/M_11578_10911971_2951_3.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "64",
+  "paginas": "116",
+  "sha256": "2c31d26c07c8277a8d2344d06ca919b7094f684e4a09590d02ef8aad0f18cee1",
+  "tamano_bytes": "979931",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202617/M_11956_5590.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "156",
+  "paginas": "180",
+  "sha256": "717d7216cb535973012f31bb953c76d0f8adbe6109162a2b832ea8b598087770",
+  "tamano_bytes": "1871915",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202619/M_10149_20190.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "412",
+  "paginas": "461",
+  "sha256": "05bc51e1ffdd00b969e5bfd2014a4e17af30b40d4a3e9836cb1f70b47b62ca02",
+  "tamano_bytes": "4784098",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202619/M_11481_5975.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "223",
+  "paginas": "250",
+  "sha256": "14433daf1de00ce777d997b6dda831629c36a4cd7fa660f02babda0bed24c2d7",
+  "tamano_bytes": "6478822",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202619/M_11536_3426.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "80",
+  "paginas": "100",
+  "sha256": "52b2acb74eed1252ee3df07c89ab91d69bfbad3bc8853921134a44dd7f41c0eb",
+  "tamano_bytes": "1269893",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202631/M_11974_3830.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "73",
+  "paginas": "111",
+  "sha256": "308832ac8373932c3a8c262547e43954b1f525ed78d0a5c33341aaa85383d67b",
+  "tamano_bytes": "3653588",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202640/M_12278_4279.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "130",
+  "paginas": "143",
+  "sha256": "97a3894532d4e8e2fc8513b5d43f3354666e483e9a542c07269a8c001b177a26",
+  "tamano_bytes": "1525460",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ },
+ "https://ec.europa.eu/competition/mergers/cases1/202641/M_12161_1968.pdf": {
+  "http_status": "200",
+  "inicio_compromisos": "65",
+  "paginas": "98",
+  "sha256": "3c093dd195313360a2214543ba8507fdebd20c0ddd8c2b9e993287f02b24ba70",
+  "tamano_bytes": "1585293",
+  "tipo_contenido": "application/pdf",
+  "verificado_el": "2026-10-22"
+ }
+}

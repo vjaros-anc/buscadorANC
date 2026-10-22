@@ -1,0 +1,237 @@
+{
+ "M.10108": {
+  "ref": "IP/21/5461",
+  "fecha": "2021-10-22",
+  "titulo": "Mergers: Commission approves acquisition of IHS Markit by S&P Global, subject to conditions"
+ },
+ "M.9969": {
+  "ref": "IP/21/6885",
+  "fecha": "2021-12-14",
+  "titulo": "Mergers: Commission approves the acquisition of Suez by Veolia, subject to conditions"
+ },
+ "M.10249": {
+  "ref": "IP/21/6936",
+  "fecha": "2021-12-17",
+  "titulo": "Mergers: Commission clears Derichebourg's acquisition of Groupe Ecore, subject to conditions"
+ },
+ "M.10341": {
+  "ref": "IP/22/575",
+  "fecha": "2022-01-25",
+  "titulo": "Mergers: Commission approves acquisition of Ferro by Prince, subject to conditions "
+ },
+ "M.10262": {
+  "ref": "IP/22/652",
+  "fecha": "2022-01-27",
+  "titulo": "Mergers: Commission clears acquisition of Kustomer by Meta (formerly Facebook), subject to conditions"
+ },
+ "M.10078": {
+  "ref": "IP/22/1329",
+  "fecha": "2022-02-24",
+  "titulo": "Mergers: Commission clears the merger of Cargotec with Konecranes, subject to conditions"
+ },
+ "M.10506": {
+  "ref": "IP/22/2404",
+  "fecha": "2022-04-11",
+  "titulo": "Mergers: Commission approves Parker's acquisition of Meggitt, subject to conditions"
+ },
+ "M.10431": {
+  "ref": "IP/22/3837",
+  "fecha": "2022-06-17",
+  "titulo": "Mergers: Commission approves Ali Group's acquisition of Welbilt, subject to conditions"
+ },
+ "M.10575": {
+  "ref": "IP/22/4603",
+  "fecha": "2022-07-19",
+  "titulo": "Mergers: Commission approves Bouygues' acquisition of Equans, subject to conditions"
+ },
+ "M.10687": {
+  "ref": "IP/22/4825",
+  "fecha": "2022-08-02",
+  "titulo": "Mergers: Commission approves D'Ieteren's acquisition of PHE, subject to conditions"
+ },
+ "M.10721": {
+  "ref": "IP/22/6114",
+  "fecha": "2022-10-11",
+  "titulo": "Mergers: Commission approves Celanese's acquisition of DuPont's Mobility and Materials Business, subject to conditions"
+ },
+ "M.10702": {
+  "ref": "IP/22/6274",
+  "fecha": "2022-10-19",
+  "titulo": "Mergers: Commission approves KPS acquisition of Real Alloy Europe, subject to conditions"
+ },
+ "M.10792": {
+  "ref": "IP/22/6372",
+  "fecha": "2022-10-25",
+  "titulo": "Mergers: Commission approves Philip Morris International's acquisition of Swedish Match, subject to conditions"
+ },
+ "M.10699": {
+  "ref": "IP/22/6425",
+  "fecha": "2022-10-31",
+  "titulo": "Mergers: Commission approves SalMar's acquisition of NTS, subject to conditions"
+ },
+ "M.10638": {
+  "ref": "IP/22/7087",
+  "fecha": "2022-11-25",
+  "titulo": "Mergers: Commission clears ALD's acquisition of LeasePlan, subject to conditions"
+ },
+ "M.10560": {
+  "ref": "IP/23/598",
+  "fecha": "2023-02-08",
+  "titulo": "Mergers: Commission clears the acquisition of MBCC by Sika, subject to conditions"
+ },
+ "M.10663": {
+  "ref": "IP/23/1722",
+  "fecha": "2023-03-20",
+  "titulo": "Mergers: Commission clears the acquisition of VOO and Brutélé by Orange, subject to conditions"
+ },
+ "M.10646": {
+  "ref": "IP/23/2705",
+  "fecha": "2023-05-15",
+  "titulo": "Mergers: Commission clears acquisition of Activision Blizzard by Microsoft, subject to conditions"
+ },
+ "M.10438": {
+  "ref": "IP/23/2781",
+  "fecha": "2023-05-17",
+  "titulo": "Mergers: Commission clears acquisition of OMV Slovenija by MOL, subject to conditions"
+ },
+ "M.10433": {
+  "ref": "IP/23/3136",
+  "fecha": "2023-06-09",
+  "titulo": "Mergers: Commission clears acquisition of Lagardère by Vivendi, subject to conditions"
+ },
+ "M.10860": {
+  "ref": "IP/23/3621",
+  "fecha": "2023-07-04",
+  "titulo": "Mergers: Commission clears Advent's acquisition of GfK subject to conditions"
+ },
+ "M.10806": {
+  "ref": "IP/23/3777",
+  "fecha": "2023-07-12",
+  "titulo": "Mergers: Commission clears acquisition of VMware by Broadcom, subject to conditions"
+ },
+ "M.10507": {
+  "ref": "IP/23/5323",
+  "fecha": "2023-10-30",
+  "titulo": "Commission approves Hitachi Rail's acquisition of Thales' ground transportation business, subject to conditions"
+ },
+ "M.11043": {
+  "ref": "IP/23/6525",
+  "fecha": "2023-12-12",
+  "titulo": "Commission clears Novozymes and Chr. Hansen merger, subject to conditions "
+ },
+ "M.10149": {
+  "ref": "IP/24/761",
+  "fecha": "2024-02-13",
+  "titulo": "Commission approves the acquisition of Asiana by Korean Air, subject to conditions"
+ },
+ "M.10896": {
+  "ref": "IP/24/928",
+  "fecha": "2024-02-20",
+  "titulo": "Commission approves joint venture between Orange and MásMóvil in Spain, subject to conditions"
+ },
+ "M.11143": {
+  "ref": "IP/24/973",
+  "fecha": "2024-02-23",
+  "titulo": "Commission clears acquisition of Bolloré Logistics by CMA CGM, subject to conditions"
+ },
+ "M.11383": {
+  "ref": "IP/24/3464",
+  "fecha": "2024-06-26",
+  "titulo": "Commission clears acquisition of Viatris' over-the-counter business by Cooper, subject to conditions"
+ },
+ "M.11071": {
+  "ref": "IP/24/3604",
+  "fecha": "2024-07-03",
+  "titulo": "Commission clears proposed acquisition of stake in ITA Airways by Lufthansa, subject to conditions "
+ },
+ "M.11204": {
+  "ref": "IP/24/4103",
+  "fecha": "2024-08-01",
+  "titulo": "Commission clears Bunge's acquisition of Viterra subject to conditions"
+ },
+ "M.11577": {
+  "ref": "IP/24/5322",
+  "fecha": "2024-10-16",
+  "titulo": "Commission approves Eiffage's acquisition of EQOS subject to conditions"
+ },
+ "M.11159": {
+  "ref": "IP/24/5403",
+  "fecha": "2024-10-22",
+  "titulo": "Commission clears JD Sports acquisition of Courir subject to conditions"
+ },
+ "M.11481": {
+  "ref": "IP/25/181",
+  "fecha": "2025-01-10",
+  "titulo": "Commission approves Synopsys' acquisition of Ansys subject to conditions"
+ },
+ "M.11564": {
+  "ref": "IP/25/322",
+  "fecha": "2025-01-24",
+  "titulo": "Commission approves International Paper's acquisition of DS Smith subject to conditions*"
+ },
+ "M.11536": {
+  "ref": "IP/25/334",
+  "fecha": "2025-01-29",
+  "titulo": "Commission approves Constantia's acquisition of Aluflexpack subject to conditions"
+ },
+ "M.11253": {
+  "ref": "IP/25/960",
+  "fecha": "2025-04-04",
+  "titulo": "Commission approves Safran's acquisition of part of Collins Aerospace's actuation business, subject to conditions"
+ },
+ "M.11830": {
+  "ref": "IP/25/1565",
+  "fecha": "2025-06-19",
+  "titulo": "Commission approves UniCredit's acquisition of Banco BPM, subject to conditions"
+ },
+ "M.11485": {
+  "ref": "IP/25/1845",
+  "fecha": "2025-07-17",
+  "titulo": "Commission approves Brasserie Nationale's acquisition of Boissons Heintz, subject to conditions"
+ },
+ "M.11936": {
+  "ref": "IP/25/1951",
+  "fecha": "2025-08-11",
+  "titulo": "Commission approves Naspers' acquisition of Just Eat Takeaway.com, subject to conditions"
+ },
+ "M.11578": {
+  "ref": "IP/25/2371",
+  "fecha": "2025-10-14",
+  "titulo": "Commission approves Boeing's acquisition of Spirit, subject to conditions"
+ },
+ "M.11974": {
+  "ref": "IP/25/3111",
+  "fecha": "2025-12-18",
+  "titulo": "Commission approves Vandemoortele's acquisition of Délifrance, subject to conditions*"
+ },
+ "M.11956": {
+  "ref": "IP/26/385",
+  "fecha": "2026-02-13",
+  "titulo": "Commission approves UMG's acquisition of Downtown, subject to conditions"
+ },
+ "M.12237": {
+  "ref": "IP/26/1221",
+  "fecha": "2026-06-02",
+  "titulo": "Commission approves Carlyle's acquisition of BASF Coatings, subject to conditions"
+ },
+ "M.12201": {
+  "ref": "IP/26/1338",
+  "fecha": "2026-06-12",
+  "titulo": "Commission approves Holcim's acquisition of Xella, subject to conditions"
+ },
+ "M.12161": {
+  "ref": "IP/26/1573",
+  "fecha": "2026-07-10",
+  "titulo": "Commission approves Baker Hughes' acquisition of Chart Industries, subject to conditions"
+ },
+ "M.12278": {
+  "ref": "IP/26/1663",
+  "fecha": "2026-07-22",
+  "titulo": "Commission approves Paramount's acquisition of Warner, subject to conditions"
+ },
+ "M.12330": {
+  "ref": "IP/26/2137",
+  "fecha": "2026-10-13",
+  "titulo": "Commission approves Kimberly-Clark's acquisition of Kenvue, subject to conditions"
+ }
+}
