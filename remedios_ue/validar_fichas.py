@@ -230,9 +230,14 @@ class Texto:
         return self._paginas[doc_id]
 
     def rango_compromisos(self, caso: str) -> tuple[int, int] | None:
-        valor = self.docs.get(f"{caso}_COMP_01", {}).get("paginas_compromisos", "")
-        m = re.fullmatch(r"(\d+)\s*[–-]\s*(\d+)", valor.strip())
-        return (int(m[1]), int(m[2])) if m else None
+        """Paginas del anexo de compromisos dentro de la decision: la fila COMP del caso
+        (COMP_01, COMP_02...) que apunta al mismo PDF que la DEC y tiene paginas_compromisos."""
+        dec = self.docs.get(f"{caso}_DEC_01", {}).get("json")
+        for doc_id, fila in sorted(self.docs.items()):
+            m = re.fullmatch(r"(\d+)\s*[–-]\s*(\d+)", fila.get("paginas_compromisos", "").strip())
+            if doc_id.startswith(f"{caso}_COMP_") and m and fila.get("json") == dec:
+                return int(m[1]), int(m[2])
+        return None
 
     def parrafos(self, caso: str) -> dict[str, tuple[int, int]]:
         """Parrafo n -> (pagina donde empieza, pagina donde empieza el siguiente), en la

@@ -262,6 +262,15 @@ class Verificacion(Base):
     def test_incisos_se_verifican_por_su_numero(self):
         self.assertEqual(self.verificar("DEC párr. 7(b) [p. 4]; COMP cl. 2(a) [p. 5]"), ([], []))
 
+    def test_anexo_en_otra_fila_comp(self):
+        # COMP_01 publicado aparte (otro PDF); el anexo de la decisión es COMP_02
+        carpeta = self.texto_extraido()
+        csv_path = carpeta / "documentos.csv"
+        texto = csv_path.read_text(encoding="utf-8-sig").replace("M.10001_COMP_01,", "M.10001_COMP_02,")
+        texto += "M.10001_COMP_01,1–3,documentos/M.10001_POST_01.json\n"
+        csv_path.write_text(texto, encoding="utf-8-sig")
+        self.assertEqual(vf.Texto(carpeta).rango_compromisos("M.10001"), (5, 6))
+
     def test_tablas(self):
         self.assertEqual(self.verificar("DEC tabla 1 [p. 3]"), ([], []))
         _, avisos = self.verificar("DEC tablas 1–2 [p. 3]")
