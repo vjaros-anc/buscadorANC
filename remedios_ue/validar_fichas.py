@@ -55,12 +55,12 @@ COLUMNAS = [
 OBLIGATORIAS = [c for c in COLUMNAS if c != "notas"]
 COLUMNAS_CITA = ["cita_problema", "cita_remedio", "cita_suficiencia"]
 
-# numero o rango ("166", "166–172", "2.1"); listas separadas por coma
-NUM = r"\d+(?:\.\d+)*(?:\s*[–-]\s*\d+(?:\.\d+)*)?"
+# numero o rango ("166", "166–172", "2.1", "272(c)"); listas separadas por coma
+NUM = r"\d+(?:\.\d+)*(?:\([a-z]{1,4}\))?(?:\s*[–-]\s*\d+(?:\.\d+)*(?:\([a-z]{1,4}\))?)?"
 LISTA = rf"{NUM}(?:\s*,\s*{NUM})*"
 GRUPO = re.compile(rf"\s*(?P<nums>{LISTA})?\s*\[(?P<pp>pp?\.)\s*(?P<pags>{LISTA})\]")
 DOC_ID = r"M\.\d{4,5}_[A-Z]+(?:_[A-Z]+)?_M?\d{2}"
-FUENTE = re.compile(rf"(?<![\"“`])(?P<src>DEC párrs?\.|DEC tablas?|COMP cl\.|`?(?P<doc>{DOC_ID})`?(?P<sub>\s+(?:cl\.|párrs?\.))?(?=\s*\S*\s*\[pp?\.))")
+FUENTE = re.compile(rf"(?<![\"“`])(?P<src>DEC\s+párrs?\.|DEC\s+tablas?|COMP\s+cl\.|`?(?P<doc>{DOC_ID})`?(?P<sub>\s+(?:cl\.|párrs?\.))?(?=\s*\S*\s*\[pp?\.))")
 ENCABEZADO = re.compile(r"(?m)^###\s+(?P<id>[PR]\d+)\b")
 VOCABULARIO = re.compile(r"^\*\*[^*]*\(`(?P<col>\w+)`\)[^*]*\*\*(?P<resto>.*)$")
 
@@ -99,8 +99,9 @@ def parsear_citas(texto: str) -> tuple[list[dict], list[str]]:
     clausulas) y paginas. Devuelve tambien las citas mal formadas."""
     citas, errores = [], []
     for m in FUENTE.finditer(texto):
-        fuente = ("TABLA" if m["src"].startswith("DEC tabla") else "DEC" if m["src"].startswith("DEC")
-                  else "COMP" if m["src"].startswith("COMP") else m["doc"])
+        src = " ".join(m["src"].split())  # la cita puede cortarse en dos lineas
+        fuente = ("TABLA" if src.startswith("DEC tabla") else "DEC" if src.startswith("DEC")
+                  else "COMP" if src.startswith("COMP") else m["doc"])
         pos, grupos = m.end(), 0
         while True:
             g = GRUPO.match(texto, pos)
@@ -112,7 +113,7 @@ def parsear_citas(texto: str) -> tuple[list[dict], list[str]]:
                 errores.append(f"'p.' con varias páginas, va 'pp.': {texto[m.start():g.end()]!r}")
             citas.append({"fuente": fuente, "numeros": expandir(g["nums"]) if g["nums"] else [],
                           "paginas": [int(p) for p in expandir(g["pags"]) if p.isdigit()],
-                          "texto": texto[m.start():g.end()].strip()})
+                          "texto": " ".join(texto[m.start():g.end()].split())})
             grupos += 1
             pos = g.end()
             separador = re.match(r"\s*(?:,|y\b)", texto[pos:])  # "177 [p. 48], 180 [p. 49]" o "... y 192 [p. 50]"
@@ -274,7 +275,7 @@ def verificar_cita(cita: dict, caso: str, texto: Texto) -> tuple[list[str], list
         return [f"{cita['texto']!r}: {doc_id} tiene {len(paginas)} páginas"], avisos
     if fuente == "DEC":
         rangos = texto.parrafos(caso)
-        for n in cita["numeros"]:
+        for n in (re.match(r"\d+", x)[0] for x in cita["numeros"]):  # "272(c)" -> 272
             if n not in rangos:
                 avisos.append(f"{cita['texto']!r}: no ubico el párrafo ({n}) en el texto")
             elif not any(rangos[n][0] <= p <= rangos[n][1] for p in pags):
@@ -289,7 +290,7 @@ def verificar_cita(cita: dict, caso: str, texto: Texto) -> tuple[list[str], list
             errores.append(f"{cita['texto']!r}: fuera del anexo de compromisos (pp. {comp[0]}–{comp[1]})")
     if fuente != "DEC" and cita["numeros"]:
         bloque = "\n".join(paginas[p - 1]["texto"] for p in range(max(1, min(pags) - 1), max(pags) + 1))
-        for n in cita["numeros"]:
+        for n in (re.sub(r"\(\w+\)$", "", x) for x in cita["numeros"]):
             if fuente == "TABLA":
                 if not re.search(rf"(?i)\b(?:table|tableau|tabla)\s+{re.escape(n)}\b", bloque):
                     avisos.append(f"{cita['texto']!r}: no encuentro la tabla {n} en esas páginas")

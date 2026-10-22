@@ -146,6 +146,16 @@ class VocabularioYFormato(Base):
             ("M.10001_POST_01", [], [1]), ("M.10001_COMP_M01", ["3"], [5]),
         ])
 
+    def test_incisos(self):
+        citas, errores = vf.parsear_citas("DEC párr. 272(c) [p. 58]; COMP cl. 2(a), 3 [p. 5]")
+        self.assertEqual(errores, [])
+        self.assertEqual([c["numeros"] for c in citas], [["272(c)"], ["2(a)", "3"]])
+
+    def test_cita_cortada_en_dos_lineas(self):
+        citas, errores = vf.parsear_citas("(DEC\n    párrs. 240 [p. 53], 252 [p. 56]; COMP\n  cl. 4 [p. 69])")
+        self.assertEqual(errores, [])
+        self.assertEqual([(c["fuente"], c["numeros"]) for c in citas], [("DEC", ["240"]), ("DEC", ["252"]), ("COMP", ["4"])])
+
     def test_detecta_citas_mal_formadas(self):
         _, errores = vf.parsear_citas("según DEC párr. 192 sin página y DEC párr. 5 [p. 3–4]")
         self.assertEqual(len(errores), 2)
@@ -248,6 +258,9 @@ class Verificacion(Base):
         self.assertEqual(len(errores), 2)
         self.assertIn("tiene 1 páginas", errores[0])
         self.assertIn("no está en texto_extraido", errores[1])
+
+    def test_incisos_se_verifican_por_su_numero(self):
+        self.assertEqual(self.verificar("DEC párr. 7(b) [p. 4]; COMP cl. 2(a) [p. 5]"), ([], []))
 
     def test_tablas(self):
         self.assertEqual(self.verificar("DEC tabla 1 [p. 3]"), ([], []))
