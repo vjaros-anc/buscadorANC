@@ -112,21 +112,30 @@ python remedios_ue/extraer_texto.py --entrada descargas_anc --ocr
 
 - **Qué páginas lee:** solo las que son imagen o no tienen texto (`sin_texto` o
   `imagen_con_texto_escaso`). Una página con poco texto digital y sin imagen no se toca.
-- **Cómo lo lee:** Tesseract, vía PyMuPDF, a 300 dpi (`--ocr-dpi`). El idioma se elige
-  según el `idioma` del reporte (EN → `eng`, FR → `fra`, …).
+- **Cómo lo lee:** PyMuPDF renderiza la página a 300 dpi (`--ocr-dpi`) y la pasa al
+  **ejecutable de Tesseract** con segmentación automática (`--psm 3`) y binarización de
+  Sauvola (`-c thresholding_method=2`). El idioma se elige según el `idioma` del reporte
+  (EN → `eng`, FR → `fra`, …).
+- **Por qué el ejecutable (desde 1.2.0):** el OCR integrado de PyMuPDF
+  (`get_textpage_ocr`) no leía las celdas de las tablas. De las tablas de cuotas solo
+  quedaba el título. Con Sauvola se leen además las filas con fondo de color, como los
+  totales "Combined" y los encabezados.
 - **Cómo queda marcado:** la página tiene `origen_texto = "ocr"` y la alerta `texto_ocr`,
   y sigue marcada para revisión. El TXT la señala con
   `[PÁGINA PDF n | texto OCR: verificar contra el PDF]`. Las demás páginas tienen
   `origen_texto = "pdf"`.
-- **Calidad:** el OCR recupera los párrafos pero comete errores ("combmed",
-  "[80-901 %") y lee mal las tablas. **Una cifra tomada de una página OCR se
-  verifica contra el PDF.**
+- **Calidad:** el OCR recupera los párrafos y las tablas, pero comete errores
+  ("combmed", "[80-901 %", "[5-10J%") y a veces desordena columnas. **Una cifra tomada de
+  una página OCR se verifica contra la imagen del PDF.**
 - **Errores:** si falla en una página, queda la alerta `error_ocr` y la corrida sigue.
-- **Caché:** activar o desactivar `--ocr` cambia la configuración y vuelve a extraer.
-- **Sin Tesseract:** `--ocr` termina con código 1 y un mensaje.
-- **Instalación:** Tesseract con los idiomas `eng` y `fra`. En Windows, el
-  instalador de UB Mannheim. Si no se encuentra solo, se indica la carpeta con
-  `--tessdata RUTA` o con la variable `TESSDATA_PREFIX`.
+- **Caché:** activar o desactivar `--ocr`, o cambiar la versión de Tesseract, cambia la
+  configuración (`ocr_motor` en `resumen.json`) y vuelve a extraer.
+- **Sin Tesseract o sin el idioma `eng`:** `--ocr` termina con código 1 y un mensaje.
+  Si falta otro idioma, solo fallan sus páginas (`error_ocr`).
+- **Instalación:** Tesseract 5 con los idiomas `eng` y `fra`. En Windows, el instalador de
+  UB Mannheim. Si el ejecutable no está en el PATH, se indica con `--tesseract RUTA`. Si
+  no encuentra los idiomas, se indica la carpeta con `--tessdata RUTA` o con la variable
+  `TESSDATA_PREFIX`.
 
 Una salida `requiere_revision` contiene lo que se pudo extraer y necesita
 control humano. `error_archivo` indica un problema de ruta, archivo ausente o
@@ -183,17 +192,23 @@ con PyMuPDF 2.0 y Tesseract 5.3.4.
 | Cobertura | 276 PDF y 9.100 páginas extraídos; sin errores de archivo ni de extracción |
 | Sin OCR | 3 min 42 s, 195 MB de memoria; volver a correrlo reutiliza todo en 4 s |
 | Páginas que son imagen | 505, en 27 documentos (sobre todo decisiones con tablas de cuotas) |
-| Párrafos "(n)" de las 44 decisiones (~30.000) | sin OCR faltan 1.124 (3,7 %), todos en páginas-imagen; **con `--ocr` faltan como máximo 29** |
-| Corrida con `--ocr` | 31,6 min; 505 páginas leídas por OCR, 0 errores, 3 con menos de 30 caracteres útiles |
+| Párrafos "(n)" de las 44 decisiones (~30.000) | sin OCR faltan 1.124 (3,7 %), todos en páginas-imagen; con `--ocr` 1.1.0 faltaban como máximo 29; **con 1.2.0 faltan 23 de 30.004**, medidos con la cadena de párrafos de `validar_fichas.py` |
+| Corrida con `--ocr` 1.1.0 (OCR de PyMuPDF) | 31,6 min; 505 páginas leídas por OCR, 0 errores, 3 con menos de 30 caracteres útiles |
+| Corrida con `--ocr` 1.2.0 (Tesseract `--psm 3`, Sauvola) | 32,0 min, 592 MB; 505 páginas, 0 errores. **Tablas:** 95 páginas con mucho más texto que con 1.1.0 (celdas de cuotas que antes faltaban); caracteres útiles de 839.503 a 976.520. En las 2 páginas con menos texto, lo de 1.1.0 era ruido |
 | Compromisos | en las 44 decisiones, el título del anexo está en la página de inicio de `paginas_compromisos` |
 | Integridad | todos los SHA-256 coinciden con el reporte; 0 diferencias con el inventario |
 | Texto | 0 caracteres de sustitución; acentos franceses correctos; se conservan "[…]" (13.999) y los rangos "[n-n]%" (24.781) |
 | Comparación manual | 3 páginas al azar: 99–100 % de similitud con `pdftotext` |
 
-Los 29 párrafos que siguen "faltando" son una cota superior. En los que revisé
-(Vandemoortele, párrs. 115–121) el texto está, pero la medición se confunde porque el
-OCR lee algunos números de nota al pie entre paréntesis. Las cifras de las páginas
-OCR tienen errores de reconocimiento y se verifican contra el PDF.
+Los párrafos que siguen "faltando" son una cota superior: en los que se revisaron, el
+texto está y lo que falla es el reconocimiento del número "(n)". Las cifras de las páginas
+OCR tienen errores de reconocimiento y se verifican contra la imagen del PDF.
+
+**Cómo se detectó el problema de las tablas:** al completar la ficha de Safran/Collins
+con las cuotas de las tablas 1 a 4 (pp. 42–43), el texto OCR solo traía los títulos.
+Se comparó el OCR de PyMuPDF con el ejecutable de Tesseract en las 505 páginas, se probó
+la binarización con una muestra de 60 páginas y se agregó una prueba de regresión con una
+tabla sintética con filas sombreadas (`test_real_tesseract_reads_table_cells_with_shaded_rows`).
 
 ## Compatibilidad con el descargador activo
 

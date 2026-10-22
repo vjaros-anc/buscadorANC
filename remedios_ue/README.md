@@ -10,8 +10,9 @@ Esta carpeta está separada del buscador de la CNDC (raíz del repo) y no lo toc
 |---|---|---|
 | 1. Universo de casos | `casos.csv`, `revisiones_remedios.csv`, `conciliacion.md` | hecha y validada |
 | 2. Inventario documental | `documentos.csv` | hecha, **a validar** |
-| 3. Descarga y extracción | `descargar_remedios.py`, `extraer_texto.py` | descarga lista; extractor por página implementado, pendiente de validación sobre el corpus UE |
-| 4–5. Fichas problema–remedio | fichas por caso | pendiente |
+| 3. Descarga y extracción | `descargar_remedios.py`, `extraer_texto.py` | hechas; corpus y texto en la rama `corpus-remedios-ue` |
+| 4. Fichas problema–remedio (piloto) | `fichas/`, `validar_fichas.py` | 11 fichas, **a revisar por la ANC** |
+| 5. Biblioteca completa | fichas de los 47 casos | pendiente |
 
 ---
 
@@ -366,7 +367,74 @@ python remedios_ue/extraer_texto.py --entrada descargas_anc --limite 5
 Usa `reporte.csv` del descargador 1.1.0, comprueba los SHA-256 y genera JSON
 y TXT por PDF, más informes de documentos y páginas. Conserva `universo`,
 `paginas_compromisos`, `coincide_inventario` y las fuentes de cada referencia.
-Marca páginas que necesitan revisión o posible OCR; esta versión no ejecuta OCR.
+Marca páginas que necesitan revisión o posible OCR. Con `--ocr` lee con Tesseract
+las páginas que son imagen (tablas de cuotas, sobre todo).
 Para completar el lote, repetí el comando sin `--limite 5`.
 
 Instrucciones, formato de salida y límites: [EXTRACCION_TEXTO.md](EXTRACCION_TEXTO.md).
+
+---
+
+## Etapa 4 — Fichas problema–remedio (piloto)
+
+Cada caso tiene una ficha legible (`fichas/M.xxxxx.md`) y filas en `fichas/relaciones.csv`,
+una por par problema–remedio. Las reglas están en [fichas/PLANTILLA.md](fichas/PLANTILLA.md):
+- estructura de la ficha;
+- formato de las citas, con párrafo o cláusula y página física del PDF;
+- vocabularios controlados.
+
+La ANC aprobó la plantilla y las dos fichas modelo.
+
+### Fichas del piloto
+
+| Caso | Fase | Problema principal | Remedio | Tipo |
+|---|---|---|---|---|
+| [M.11253](fichas/M.11253.md) Safran / Collins | I | horizontal (actuadores THSA) | venta del negocio de Norteamérica, *upfront buyer* | estructural |
+| [M.10646](fichas/M.10646.md) Microsoft / Activision | II | cierre de insumos (juego en la nube) | licencias por 10 años | conductual |
+| [M.11830](fichas/M.11830.md) UniCredit / Banco BPM | I | horizontal local (banca a hogares y pymes) | venta de 209 sucursales y 10 centros de empresas | estructural |
+| [M.11936](fichas/M.11936.md) Naspers / Just Eat Takeaway | I | participación minoritaria en un rival (unilateral y coordinado) | reducción de la participación y abstención | mixto |
+| [M.11578](fichas/M.11578.md) Boeing / Spirit | I | cierre de insumos a Airbus | ventas *fix-it-first* a Airbus y CTRM | estructural |
+| [M.10262](fichas/M.10262.md) Meta / Kustomer | II | cierre de acceso a API de mensajería | acceso y paridad por 10 años (dispensados en 2023) | conductual |
+| [M.10806](fichas/M.10806.md) Broadcom / VMware | II | conglomerado por interoperabilidad | API, código abierto de *drivers* y separación | conductual |
+| [M.11956](fichas/M.11956.md) UMG / Downtown | II | acceso a datos de rivales (Curve) | venta de Curve | estructural |
+| [M.10896](fichas/M.10896.md) Orange / MásMóvil | II | de 4 a 3 operadores móviles | espectro y roaming para Digi, *fix-it-first* | mixto |
+| [M.11071](fichas/M.11071.md) Lufthansa / MEF / ITA | II | rutas de corto y largo radio, *slots* en Linate | entrante con *slots*, SPA y acuerdos de largo radio, *upfront buyer* | mixto |
+| [M.9969](fichas/M.9969.md) Veolia / Suez | I | agua y residuos en Francia | venta del "Nuevo Suez" y de otros tres paquetes | estructural |
+
+La clasificación de `tipo_remedio_preliminar` en `casos.csv` coincide con las 11 fichas.
+
+### Validador
+
+```bash
+python remedios_ue/validar_fichas.py                                   # formato y vocabularios
+python remedios_ue/validar_fichas.py --texto descargas_anc/texto_extraido   # y las citas contra los PDF
+```
+
+Sin `--texto`, controla:
+- las columnas de `relaciones.csv`;
+- los vocabularios, que lee de `PLANTILLA.md`;
+- que cada caso exista en `casos.csv`;
+- que los P/R coincidan con la ficha;
+- el formato de cada cita.
+
+Con `--texto` usa la salida de `extraer_texto.py` y verifica:
+- que cada párrafo citado esté en la página indicada. Distingue las notas al pie numeradas
+  "(n)" y sigue la numeración de párrafos;
+- que las cláusulas citadas caigan en el anexo de compromisos;
+- que las tablas citadas estén en la página indicada;
+- que los documentos citados tengan esas páginas.
+
+También avisa cuando una página citada se leyó por OCR. Sobre las 11 fichas verifica 584 citas
+sin errores. Durante el piloto detectó varias páginas mal citadas, que se corrigieron.
+
+### Método
+
+Para cada caso:
+1. Ubicar en la decisión la conclusión de cada mercado con problemas.
+2. Leer el anexo de compromisos y la evaluación de suficiencia, con los cambios por el
+   *market test*.
+3. Revisar las decisiones posteriores (`POST`).
+4. Leer cada cifra de una página OCR en la imagen del PDF.
+
+El comunicado y el Merger Brief solo orientan.
+

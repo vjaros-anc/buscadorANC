@@ -13,6 +13,8 @@ import io
 import json
 import os
 import re
+import shutil
+import subprocess
 import sys
 import tempfile
 from collections import Counter
@@ -20,7 +22,8 @@ from contextlib import contextmanager
 from datetime import datetime, timezone
 from pathlib import Path, PureWindowsPath
 
-VERSION = "1.1.0"
+VERSION = "1.2.0"
+OPCIONES_TESSERACT = ("--psm", "3", "-c", "thresholding_method=2")  # segmentación automática, Sauvola
 # Idioma del reporte -> idioma de Tesseract para el OCR opcional
 IDIOMAS_OCR = {"EN": "eng", "FR": "fra", "DE": "deu", "ES": "spa", "IT": "ita", "NL": "nld", "PT": "por"}
 SUCCESS = {"descargado", "ya_descargado", "contenido_reutilizado"}
@@ -145,23 +148,42 @@ def ocr_idiomas(referencias: list[dict]) -> str:
     return "+".join(codes) or "eng"
 
 
-def ocr_page(page, language: str, dpi: int, tessdata: str | None) -> str:
-    """Texto de la página por OCR (Tesseract, vía PyMuPDF)."""
-    textpage = page.get_textpage_ocr(language=language, dpi=dpi, full=True, tessdata=tessdata)
-    return page.get_text("text", textpage=textpage, sort=True)
+def ocr_page(page, language: str, dpi: int, motor: dict) -> str:
+    """Texto de la página por OCR: el ejecutable de Tesseract sobre la página renderizada.
+    No se usa el OCR integrado de PyMuPDF (get_textpage_ocr) porque no lee las celdas de
+    las tablas, que es lo que más hay en las páginas-imagen (cuotas de mercado). La
+    binarización de Sauvola lee además las filas con fondo de color (totales, encabezados)."""
+    png = page.get_pixmap(dpi=dpi).tobytes("png")
+    command = [motor["ejecutable"], "stdin", "stdout", *OPCIONES_TESSERACT, "-l", language]
+    if motor.get("tessdata"):
+        command += ["--tessdata-dir", motor["tessdata"]]
+    result = subprocess.run(command, input=png, capture_output=True, timeout=600)
+    if result.returncode != 0:
+        detail = result.stderr.decode("utf-8", "replace").strip()
+        raise RuntimeError(detail or f"Tesseract terminó con código {result.returncode}")
+    return result.stdout.decode("utf-8", "replace")
 
 
-def tessdata_disponible(engine, tessdata: str | None) -> str:
-    """Ubica tessdata antes de empezar: sin Tesseract, --ocr es un error de configuración."""
-    detail = ""
+def tesseract_disponible(ejecutable: str | None, tessdata: str | None) -> dict:
+    """Ubica Tesseract y el idioma eng antes de empezar: sin ellos, --ocr es un error de
+    configuración. Otro idioma que falte queda como error_ocr en sus páginas."""
+    help_text = ("Instalalo con los idiomas eng y fra (en Windows, el instalador de UB Mannheim) "
+                 "o indicá el ejecutable con --tesseract y la carpeta de idiomas con --tessdata.")
+    path = shutil.which(ejecutable or "tesseract")
+    if not path:
+        raise ValueError("No se encontró Tesseract para --ocr. " + help_text)
+    extra = ["--tessdata-dir", tessdata] if tessdata else []
     try:
-        path = engine.get_tessdata(tessdata)
-    except Exception as e:
-        path, detail = None, f" Detalle: {e}"
-    if not path or not Path(path).is_dir():
-        raise ValueError("No se encontró Tesseract para --ocr. Instalalo con los idiomas eng y fra "
-                         "(en Windows, el instalador de UB Mannheim) o indicá la carpeta con --tessdata." + detail)
-    return str(path)
+        version = subprocess.run([path, "--version"], capture_output=True, text=True, timeout=60)
+        langs = subprocess.run([path, "--list-langs", *extra], capture_output=True, text=True, timeout=60)
+    except (OSError, subprocess.SubprocessError) as e:
+        raise ValueError(f"No se pudo ejecutar Tesseract ({path}): {e}. " + help_text) from e
+    available = set(langs.stdout.splitlines()[1:])
+    if "eng" not in available:
+        raise ValueError(f"Tesseract ({path}) no tiene el idioma eng. " + help_text)
+    first = (version.stdout or version.stderr).split()
+    return {"ejecutable": path, "version": first[1] if len(first) > 1 else "desconocida",
+            "tessdata": tessdata, "idiomas": sorted(available)}
 
 
 def page_data(page, minimum: int, ocr: dict | None = None) -> dict:
@@ -202,7 +224,7 @@ def page_data(page, minimum: int, ocr: dict | None = None) -> dict:
     # p\u00e1gina con poco texto digital y sin imagen no se reemplaza.
     if ocr and ("sin_texto" in quality or "imagen_con_texto_escaso" in quality):
         try:
-            recognized = ocr_page(page, ocr["idiomas"], ocr["dpi"], ocr.get("tessdata"))
+            recognized = ocr_page(page, ocr["idiomas"], ocr["dpi"], ocr["motor"])
             record.update(texto=recognized, caracteres=len(recognized),
                           caracteres_utiles=sum(c.isalnum() for c in recognized),
                           origen_texto="ocr", idioma_ocr=ocr["idiomas"])
@@ -215,7 +237,7 @@ def page_data(page, minimum: int, ocr: dict | None = None) -> dict:
     return record
 
 
-def extract_pdf(job: dict, config: dict, engine, tessdata: str | None = None) -> dict:
+def extract_pdf(job: dict, config: dict, engine, motor_ocr: dict | None = None) -> dict:
     with engine.open(job["path"]) as doc:
         if not doc.is_pdf:
             raise ValueError("El archivo no es un PDF, aunque su extensión lo indique")
@@ -225,7 +247,7 @@ def extract_pdf(job: dict, config: dict, engine, tessdata: str | None = None) ->
             raise ValueError("PDF sin páginas")
         ocr = None
         if config.get("ocr"):
-            ocr = {"idiomas": ocr_idiomas(job["referencias"]), "dpi": config["ocr_dpi"], "tessdata": tessdata}
+            ocr = {"idiomas": ocr_idiomas(job["referencias"]), "dpi": config["ocr_dpi"], "motor": motor_ocr}
         pages = [page_data(page, config["min_caracteres"], ocr) for page in doc]
         warnings = ["pdf_reparado_por_motor"] if doc.is_repaired else []
         return {"version_esquema": 1, "version_extractor": VERSION, "configuracion": config,
@@ -278,10 +300,13 @@ def cached_document(root: Path, sha: str, config: dict, entry: dict | None) -> d
 
 def run(args, selected, results, jobs, report: Path, report_sha: str, root: Path, out: Path, engine) -> int:
     # La configuración se guarda con cada salida y decide si la caché sirve: activar o
-    # desactivar el OCR vuelve a extraer. La ruta de tessdata no entra (depende del equipo).
+    # desactivar el OCR o cambiar la versión de Tesseract vuelve a extraer. Las rutas del
+    # ejecutable y de tessdata no entran (dependen del equipo).
+    motor = getattr(args, "motor_ocr", None)
     config = {"version_extractor": VERSION, "pymupdf": engine.VersionBind,
               "metodo": "get_text(text, sort=True)", "min_caracteres": args.min_caracteres,
-              "ocr": bool(args.ocr), "ocr_dpi": args.ocr_dpi if args.ocr else None}
+              "ocr": bool(args.ocr), "ocr_dpi": args.ocr_dpi if args.ocr else None,
+              "ocr_motor": f"tesseract {motor['version']} {' '.join(OPCIONES_TESSERACT)}" if args.ocr and motor else None}
     statepath = out / "estado.json"
     page_rows, counts = [], Counter()
     interrupted = False
@@ -299,7 +324,7 @@ def run(args, selected, results, jobs, report: Path, report_sha: str, root: Path
                     data = None if args.rehacer else cached_document(out, sha, config, state["documentos"].get(sha))
                     reused = data is not None
                     if data is None:
-                        data = extract_pdf(job, config, engine, getattr(args, "tessdata_resuelto", None))
+                        data = extract_pdf(job, config, engine, motor)
                     # Una referencia nueva no obliga a volver a extraer el mismo PDF.
                     data["referencias"] = job["referencias"]
                     data["alertas_referencias"] = [
@@ -357,7 +382,10 @@ def run(args, selected, results, jobs, report: Path, report_sha: str, root: Path
             "paginas": len(page_rows), "paginas_con_alerta": sum(p["requiere_revision"] for p in page_rows),
             "paginas_posible_ocr": sum(p["posible_ocr"] for p in page_rows),
             "paginas_texto_ocr": sum(p.get("origen_texto") == "ocr" for p in page_rows),
-            "nota": "Alertas heurísticas: requieren revisión. No se ejecutó OCR ni análisis jurídico.",
+            "nota": ("Alertas heurísticas: requieren revisión. Las páginas con origen_texto 'ocr' se leyeron "
+                     "con Tesseract y pueden tener errores de reconocimiento. No hay análisis jurídico."
+                     if args.ocr else
+                     "Alertas heurísticas: requieren revisión. No se ejecutó OCR ni análisis jurídico."),
         }
         write_csv(out / "documentos.csv", DOCUMENT_FIELDS, list(results.values()))
         write_csv(out / "paginas.csv", PAGE_FIELDS, page_rows)
@@ -377,6 +405,7 @@ def parser() -> argparse.ArgumentParser:
     p.add_argument("--ocr", action="store_true",
                    help="Leer con OCR (Tesseract) las páginas que son imagen o no tienen texto")
     p.add_argument("--ocr-dpi", type=int, default=300, help="Resolución del OCR (300)")
+    p.add_argument("--tesseract", help="Ejecutable de Tesseract, si no está en el PATH")
     p.add_argument("--tessdata", help="Carpeta tessdata de Tesseract, si no se encuentra sola")
     p.add_argument("--plan", action="store_true", help="Validar selección y SHA-256, sin extraer ni escribir")
     p.add_argument("--version", action="version", version=VERSION)
@@ -419,7 +448,7 @@ def main(argv: list[str] | None = None) -> int:
         except ImportError as e:
             raise ValueError("Falta PyMuPDF. Ejecutá: python -m pip install -r remedios_ue/requirements.txt") from e
         if args.ocr:
-            args.tessdata_resuelto = tessdata_disponible(pymupdf, args.tessdata)
+            args.motor_ocr = tesseract_disponible(args.tesseract, args.tessdata)
         return run(args, selected, results, jobs, report, report_sha, root, out, pymupdf)
     except (OSError, ValueError) as e:
         print(f"Error: {e}", file=sys.stderr)

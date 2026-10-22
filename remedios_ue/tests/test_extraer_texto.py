@@ -149,16 +149,18 @@ class ExtractionTests(unittest.TestCase):
 
     # --- OCR opcional (--ocr) ---
 
-    def run_ocr(self, *args, reconocido="(12) Texto reconocido por OCR"):
+    def run_ocr(self, *args, reconocido="(12) Texto reconocido por OCR", version="5.3.4"):
         calls = []
+        motor = {"ejecutable": "tesseract", "version": version, "tessdata": None, "idiomas": ["eng", "fra"]}
 
-        def fake_ocr(page, language, dpi, tessdata):
+        def fake_ocr(page, language, dpi, motor_ocr):
             calls.append((page.number + 1, language, dpi))
+            self.assertEqual(motor_ocr, motor)
             if isinstance(reconocido, Exception):
                 raise reconocido
             return reconocido
         with patch.object(extractor, "ocr_page", side_effect=fake_ocr), \
-                patch.object(extractor, "tessdata_disponible", return_value=str(self.root)):
+                patch.object(extractor, "tesseract_disponible", return_value=motor):
             return self.run_cli("--ocr", *args), calls
 
     def test_ocr_reads_only_image_or_empty_pages(self):
@@ -175,6 +177,8 @@ class ExtractionTests(unittest.TestCase):
         self.assertIn("[PÁGINA PDF 3 | etiqueta PDF: iii | texto OCR: verificar contra el PDF]", text)
         summary = json.loads((self.out / "resumen.json").read_text())
         self.assertEqual(summary["paginas_texto_ocr"], 2); self.assertTrue(summary["configuracion"]["ocr"])
+        self.assertEqual(summary["configuracion"]["ocr_motor"], "tesseract 5.3.4 --psm 3 -c thresholding_method=2")
+        self.assertIn("Tesseract", summary["nota"]); self.assertNotIn("No se ejecutó OCR", summary["nota"])
 
     def test_ocr_toggle_invalidates_cache(self):
         self.row(self.pdf(image_page=True))
@@ -184,6 +188,13 @@ class ExtractionTests(unittest.TestCase):
         self.assertEqual(code, 0); self.assertEqual(len(calls), 1)
         self.assertEqual(self.documents()[0]["reutilizado"], "False")
         self.assertEqual(self.data()["paginas"][1]["origen_texto"], "ocr")
+
+    def test_tesseract_version_change_invalidates_cache(self):
+        self.row(self.pdf(image_page=True))
+        self.assertEqual(self.run_ocr()[0], 0)
+        self.assertEqual(len(self.run_ocr()[1]), 0)  # misma versión: reutiliza
+        code, calls = self.run_ocr(version="5.4.0")
+        self.assertEqual(code, 0); self.assertEqual(len(calls), 1)
 
     def test_ocr_error_is_recorded_and_run_continues(self):
         self.row(self.pdf(image_page=True))
@@ -196,7 +207,7 @@ class ExtractionTests(unittest.TestCase):
     def test_ocr_without_tesseract_is_a_configuration_error(self):
         self.row(self.pdf(image_page=True))
         self.report()
-        with patch.object(pymupdf, "get_tessdata", side_effect=RuntimeError("No tessdata")), \
+        with patch.object(extractor.shutil, "which", return_value=None), \
                 redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()) as err:
             self.assertEqual(extractor.main(["--entrada", str(self.root), "--ocr"]), 1)
         self.assertIn("Tesseract", err.getvalue()); self.assertFalse(self.out.exists())
@@ -218,6 +229,33 @@ class ExtractionTests(unittest.TestCase):
             self.assertEqual(extractor.main(["--entrada", str(self.root), "--ocr"]), 0)
         page = self.data()["paginas"][0]
         self.assertEqual(page["origen_texto"], "ocr"); self.assertIn("REMEDY", page["texto"].upper())
+
+    @unittest.skipUnless(shutil.which("tesseract"), "Tesseract no está instalado")
+    def test_real_tesseract_reads_table_cells_with_shaded_rows(self):
+        # Como las tablas de cuotas de la Comisión: el OCR integrado de PyMuPDF solo leía el título.
+        with pymupdf.open() as fuente:
+            page = fuente.new_page(width=600, height=300)
+            page.insert_text((60, 40), "Table 1 - Market shares (worldwide)", fontsize=14)
+            rows = [("Supplier", "2024"), ("Safran", "[20-30]%"), ("Combined", "[60-70]%"), ("Parker", "[20-30]%")]
+            for i, row in enumerate(rows):
+                fill = (0.25, 0.65, 0.72) if i == 0 else (0.75, 0.75, 0.75) if row[0] == "Combined" else (0.95, 0.95, 0.95)
+                for j, cell in enumerate(row):
+                    x, y = 60 + j * 200, 60 + i * 40
+                    page.draw_rect(pymupdf.Rect(x, y, x + 200, y + 40), color=(0, 0, 0), fill=fill, width=1)
+                    page.insert_text((x + 40, y + 26), cell, fontsize=13)
+            png = page.get_pixmap(dpi=150).tobytes("png")
+        path = self.root / "archivos" / "M_10646" / "tabla.pdf"
+        path.parent.mkdir(parents=True, exist_ok=True)
+        with pymupdf.open() as doc:
+            doc.new_page(width=600, height=300).insert_image(pymupdf.Rect(0, 0, 600, 300), stream=png)
+            doc.save(path)
+        self.row(path)
+        self.report()
+        with redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()):
+            self.assertEqual(extractor.main(["--entrada", str(self.root), "--ocr"]), 0)
+        text = self.data()["paginas"][0]["texto"]
+        for expected in ("Safran", "Combined", "[60-70]%", "Parker"):
+            self.assertIn(expected, text)
 
     def test_hash_mismatch_and_missing_files_reported(self):
         path = self.pdf()
