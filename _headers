@@ -1,0 +1,10 @@
+# Cloudflare Pages: encabezados por ruta.
+# El area interna (protegida con Cloudflare Access) no se indexa ni queda en caches compartidas.
+
+/interna
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: private, no-store
+
+/interna/*
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: private, no-store
