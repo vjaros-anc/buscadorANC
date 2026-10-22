@@ -18,7 +18,7 @@ la rama de trabajo, `claude/gallant-bardeen-y00h2a`.
 | `resumen.json` | Conteos de la corrida |
 | `estado.json` | Índice que usa el descargador para reanudar |
 | `historial.jsonl` | Historial de solicitudes |
-
+| `texto_extraido/` | Texto por página de cada PDF, con OCR (ver abajo) |
 | `datos_crudos/` | Insumos de las etapas 1 y 2 (ver abajo) |
 
 ### `datos_crudos/`: para reproducir el inventario exacto
