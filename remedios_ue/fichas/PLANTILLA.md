@@ -4,8 +4,9 @@ Cada caso tiene una ficha legible (`fichas/M.xxxxx.md`) y una o más filas en
 `fichas/relaciones.csv`, una por cada par problema–remedio. La ficha es para leer y
 revisar; el CSV, para filtrar y comparar casos.
 
-**Estado:** dos fichas modelo (M.11253 Safran/Collins y M.10646 Microsoft/Activision),
-pendientes de revisión de la ANC antes de seguir con el piloto.
+**Estado:** plantilla aprobada por la ANC junto con las dos fichas modelo (M.11253
+Safran/Collins y M.10646 Microsoft/Activision). Piloto de 9 casos en curso.
+`validar_fichas.py` controla el formato, los vocabularios y las citas.
 
 ## Estructura de la ficha
 
@@ -34,8 +35,14 @@ Cada afirmación lleva su fuente, con la página física del PDF (desde 1) entre
 |---|---|---|
 | Decisión | `DEC párr. n [p. x]` | `DEC párr. 192 [p. 50]` |
 | Compromisos | `COMP cl. n [p. x]` | `COMP cl. 4 [p. 84]` |
-| Otro documento | `doc_id [p. x]` | `M.11253_POST_01 [p. 1]` |
+| Tabla de la decisión | `DEC tabla n [p. x]` | `DEC tabla 3 [p. 43]` |
+| Otro documento | `doc_id [p. x]` o `doc_id cl. n [p. x]` | `M.11253_POST_01 [p. 1]` |
 
+- Varios párrafos o páginas: `DEC párrs. 166–172 [pp. 45–47], 177 [p. 48]` o
+  `DEC párrs. 317, 327 [pp. 78, 80]`. Cada párrafo citado tiene que estar (al menos en
+  parte) en alguna de las páginas indicadas.
+- `COMP` es el anexo de compromisos dentro de la decisión (`paginas_compromisos`). Si los
+  compromisos están publicados aparte, se citan por su `doc_id`.
 - La **página física** es la posición en el PDF (la de `pagina_pdf` del extractor), no el
   número impreso al pie.
 - Las cifras con rangos (`[80-90]%`) se transcriben tal cual. Si salen de una página
@@ -46,7 +53,9 @@ Cada afirmación lleva su fuente, con la página física del PDF (desde 1) entre
 ## Vocabularios controlados
 
 Usados en `relaciones.csv` (columna entre paréntesis). Si un caso no encaja, se agrega
-el valor acá antes de usarlo.
+el valor acá antes de usarlo: `validar_fichas.py` lee las listas de este archivo. Si a un
+par problema–remedio le corresponden dos valores de la misma lista, van separados por `;`
+(p. ej. `acceso;no_discriminacion`).
 
 **Tipo de efecto (`tipo_efecto`)**
 - `horizontal_no_coordinado`: pérdida de competencia entre las partes (unilateral).
@@ -79,8 +88,9 @@ el valor acá antes de usarlo.
 - `no`: el comprador se aprueba después.
 - `no_aplica`: el remedio no es una venta.
 
-**Otras columnas:** `trustee` (`monitoreo`, `monitoreo_y_desinversion`, `no`) y
-`clausula_revision` (`si`, `no`).
+**Trustee (`trustee`):** `monitoreo`, `monitoreo_y_desinversion`, `no`.
+
+**Cláusula de revisión (`clausula_revision`):** `si`, `no`.
 
 ## Columnas de `relaciones.csv`
 

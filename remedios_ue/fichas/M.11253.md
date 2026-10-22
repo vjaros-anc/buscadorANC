@@ -38,6 +38,11 @@ La Comisión descartó dudas en el resto de los mercados que analizó:
     173 [p. 47]).
   - Parker, el tercer proveedor grande, casi no participa en ese segmento (DEC párr. 174
     [p. 47]).
+  - Cuotas de 2024 (las tablas son imagen; cifras leídas de la imagen del PDF):
+    - mercado total y aeronaves civiles: objetivo [40-50]%, Safran [20-30]%, combinada
+      [60-70]%. Siguen Parker con [20-30]% y Moog con [5-10]% (DEC tablas 1–2 [p. 42]);
+    - aviones comerciales grandes: combinada [80-90]%, y [90-100]% entre 2021 y 2023
+      (DEC tabla 3 [p. 43]).
 - **Evidencia clave:**
   - **Competidores cercanos** aunque hoy uno venda THSA eléctricos y el otro hidráulicos. La
     competencia se da en la etapa de diseño de la aeronave, y el objetivo ya había
@@ -144,9 +149,5 @@ compromisos con independencia de ese acuerdo (DEC párrs. 317, 326 [pp. 78, 80])
 
 ## Dudas y pendientes
 
-- Las tablas de cuotas de mercado (Tablas 1 a 4, pp. 42–43) están guardadas como imagen en la
-  decisión. Las cifras de esta ficha salen del texto del párrafo 173. Cuando esté el texto
-  con OCR, conviene completar las cuotas del mercado total de THSA verificándolas contra el
-  PDF.
 - Las duraciones de los TSA y del primer plazo de desinversión están tachadas ("[…]") en la
   versión pública.
