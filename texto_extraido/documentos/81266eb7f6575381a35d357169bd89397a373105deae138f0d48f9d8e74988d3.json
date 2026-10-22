@@ -1,0 +1,107 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "81266eb7f6575381a35d357169bd89397a373105deae138f0d48f9d8e74988d3",
+  "extraido_utc": "2026-10-22T19:44:49+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11936_POST_01",
+      "caso": "M.11936",
+      "universo": "principal",
+      "titulo": "Decisión por cláusula de revisión — NASPERS / JUST EAT TAKEAWAY",
+      "tipo_documental": "POST",
+      "grupo": "actos_posteriores",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202623/M_11936_1721.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202623/M_11936_1721.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11936/M.11936_POST_01_81266eb7f657.pdf",
+      "sha256": "81266eb7f6575381a35d357169bd89397a373105deae138f0d48f9d8e74988d3",
+      "coincide_inventario": "",
+      "bytes": "227928",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202623/M_11936_1721.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:00+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "          EUROPEAN COMMISSION\n\n               DG Competition\n\n\n\n\nCase M.11936 – NASPERS / JUST EAT TAKEAWAY\n\n\n\n\n\n                            Only the English text is available and authentic.\n\n\n\n           REGULATION (EC) No 139/2004\n               MERGER PROCEDURE\n\n\n\n\n\n  Decision on the implementation of the commitments\n                                   Date: 29/05/2026",
+      "caracteres": 373,
+      "caracteres_utiles": 195,
+      "cobertura_imagen_maxima": 0.0115,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "               EUROPEAN COMMISSION\n\n\n\n\n                                                     Brussels, 29.5.2026\n                                             C(2026) 3803 final\n\n                                     PUBLIC VERSION\n\n                                                               In the published version of this decision,\n                                                 some information has been omitted pursuant\n                                                                   to Article 17(2) of Council Regulation (EC)\n                                           No 139/2004 concerning non-disclosure of\n                                                              business  secrets  and  other  confidential\n                                                               information. The omissions are shown thus\n                                                      […].  Where  possible  the  information\n                                                            omitted has been replaced by ranges of\n                                                                  figures or a general description.\n\n                                              Naspers Limited through Prosus\n                                            N.V.\n                                                   40, Heerengracht\n                                           8001 – Cape Town\n                                              South Africa\n\n\n\nSubject:   Case M.11936 – NASPERS / JUST EAT TAKEAWAY\n         Your request of 23 April 2026 for an extension of the First Divestiture\n           Period in respect of the Divestment Shares under clause 4 of the\n         commitments annexed to the Commission decision of 11 August 2025\n\n\n\nDear Sir or Madam,\n\n\n(1)    By decision of 11 August 2025 (the ‘Decision’), adopted in application of\n         Article 6(1)(b)  and  (2)  of  Council  Regulation  (EC)  No 139/2004  of\n       20 January 2004 on the control of concentrations between undertakings (1), the\n       Commission declared the operation by which Naspers Limited (‘Naspers’)\n        intended to acquire sole control within the meaning of Article 3(1)(b) of the\n       Merger Regulation over Just Eat Takeaway.com N.V. (‘JET’) (together with\n        Naspers, the ‘Parties’) (the ‘Transaction’) to be compatible with the internal\n        market and the functioning of EEA Agreement, subject to full compliance with\n         the commitments submitted by Naspers, and which are annexed to the Decision\n         (the ‘Commitments’).\n\n\n(1)    L 24, 29.1.2004, p. 1 (the ‘Merger Regulation’). With effect from 1 December 2009, the Treaty on\n         the Functioning of the European Union (‘TFEU’) has introduced certain changes, such as the\n        replacement of ‘Community’ by ‘Union’ and ‘common market’ by  ‘internal market’. The\n        terminology of the TFEU will be used throughout this decision.",
+      "caracteres": 2903,
+      "caracteres_utiles": 1442,
+      "cobertura_imagen_maxima": 0.0115,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 3,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "(2)     Under clauses 4 to 8 of the Commitments, Naspers committed to reduce its equity\n          interest in Delivery Hero (the ‘Divestment Shares’) to a [specific maximum\n        percentage aimed at ensuring that Prosus would no longer be Delivery Hero’s\n         largest shareholder based on the share interests at the time of the Decision] by 11\n       August 2026 ([…], the ‘First Divestiture Period’).\n(3)     Under clause 42 of the Commitments, the Commission may, where appropriate,\n         in response to a reasoned request from Naspers showing good cause and\n       accompanied by a report from the monitoring trustee, grant an extension of the\n        time periods foreseen in the Commitments.\n(4)    By letter of 23 April 2026, supplemented by subsequent letters of as 22, 24 and\n       26 May 2026, Naspers requested the Commission to grant a […] extension of the\n          First Divestiture Period, invoking, in particular, that:\n                 i.   based on public statements and press reports, Uber and potentially other\n                bidders may launch a tender offer for Delivery Hero;\n                ii.   Naspers may be put at a disadvantage if it were to be required to sell its\n                shares in Delivery Hero ahead of the end of a potential tender process.\n(5)    On 7 May 2026, the monitoring trustee submitted an opinion on the initial request\n         for an extension of the First Divestiture Period of 23 April 2026, in which he\n        supports an extension of the First Divestiture Period until […]. In light of the\n         further submissions made by Naspers, the monitoring trustee confirmed on May\n       28 2026 that he still supports an extension of the First Divestiture Period until\n      […] and that Naspers has shown good cause pursuant to clause 42 of the\n       Commitments. Indeed, the monitoring  trustee considers  that extending the\n        deadlines for Naspers to reduce its shareholding in Delivery Hero would allow\n        “the necessary time to evaluate the shareholding structure of Delivery Hero”.\n(6)     The Commission considers that a timely divestiture of the Divestment Shares is\n       needed to restore effective competition in the markets for online food delivery.\n(7)     At the same time, the Commission acknowledges that, in light of a recent built up\n       by Uber of a significant participation in Delivery Hero and a possible tender offer\n         for the remaining shares  in the company by Uber and/or other  potential\n         purchasers, it might be appropriate to grant Naspers more time to allow it to\n        consider its strategic options.\n(8)     Furthermore, the Commission notes that Naspers has already taken steps towards\n        compliance. In fact, Naspers has already sold part of its participation in Delivery\n       Hero to Uber (4,5%) (2) and Aspex (5%) (3).\n(9)    Any negative impact on third-parties and/or on competition that could be caused\n       by a delay in the sale of the Divestment Shares is mitigated by the fact that (i)\n        Prosus’ shareholding in Delivery Hero has been already reduced from c. 27% to\n          c. 17%, and that (ii) the Commitments impose on Naspers other obligations that\n         limit its potential influence over Delivery Hero. In fact, Naspers undertook to\n        cease exercising rights connected with the Divestment Shares (clause 9 of the\n       Commitments) and to cease exercising voting rights of the remaining equity\n          interest (clause 10 of the Commitments), as well to abstain from appointing\n         representatives in Delivery Hero’s Supervisory and Management Boards (clause\n\n(2)      Prosus’  Press  release  of  17  April  2026,  available  here:  https://www.prosus.com/news-\n         insights/2026/prosus-sells-4-point-5-percent-stake-in-delivery-hero-to-uber.\n(3)      Prosus’  Press  Release  of  11 May  2026,  available  here:  https://www.prosus.com/news-\n         insights/2026/prosus-sells-5-percent-interest-in-delivery-hero-to-aspex-management.\n\n                                                     2",
+      "caracteres": 4079,
+      "caracteres_utiles": 2895,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 4,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "       14 of the Commitments). Moreover, clause 3 of the Commitments provides that\n         in order to maintain effective competition: ‘Naspers/Prosus commit to reduce\n         significantly any potential influence Prosus might have been considered to have\n        over Delivery Hero’s commercial decisions and strategy, as a result of  its\n        minority shareholding in Delivery Hero, and to remove credible opportunities for\n        monitoring  of, or  retaliation  relating  to, Delivery Hero, both during  the\n         divestiture process and thereafter. Naspers/Prosus also commit not to carry out\n       any action, including through JET, during the divestiture process, with the\n        primary or secondary objective of influencing Delivery Hero’s commercial\n        behaviour as regards its food ordering and delivery business in the EEA, or share\n         price.’\n(10)    In addition, Delivery Hero, in its submission to the Commission relating to the\n         potential extension of the First Divestiture Period,(4) supplemented by an email\n       on […],(5) indicated that […]. The Commission notes that […].\n(11)    However, the Commission needs to balance the benefits of granting an extension\n         against the need to achieve a timely divestment in order to restore competition.\n        Therefore, the Commission considers that, in line with the monitoring trustee’s\n        opinion of 28 May 2026, a […] extension would be excessive and therefore not\n        warranted in the current circumstances. The Commission considers that, on\n         balance, an extension [for a period of time to allow clarity on the Delivery Hero\n        shareholder structure] for the [First Divestiture Period], after which the trustee\n         divestiture period would start, would be more appropriate. This should allow\n         sufficient  time  (i)  to  clarify  the  situation  surrounding  Delivery  Hero’s\n        shareholding structure, (ii)  for one or more tender offers for Delivery Hero to\n         materialize and (iii) for Naspers to consider its strategic options.\n(12)      It follows from the above that Naspers has shown good cause for an extension,\n       and that granting the extension is appropriate. Therefore, the Commission has\n        decided in accordance with clause 42 of the Commitments, to extend the First\n         Divestiture Period by [a period of time to allow clarity on the Delivery Hero\n        shareholder structure], until […].\n(13)    According to clause 17 of the Commitments, Naspers shall appoint a divestiture\n         trustee (the ‘Divestiture Trustee’) if it fails to implement the Divestment Share\n       one month before the end of the First Divestiture Period, i.e. by […]. In such case,\n        a list of at least two natural or legal persons whom Naspers/Prosus proposes to\n        appoint as Divestiture Trustee must be submitted to the Commission for approval\n          at the same date, i.e. by […].\n\n\n\n                                           For the Commission\n\n\n                                                  (Signed)\n                                           Anthony WHELAN\n                                                Director-General\n                                                 Directorate-General for\n                                               Competition\n\n\n\n(4)      Delivery Hero’s observations on Prosus' request for extension of the divestment period of […].\n(5)     […]’s email of […].\n\n                                                     3",
+      "caracteres": 3529,
+      "caracteres_utiles": 2313,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

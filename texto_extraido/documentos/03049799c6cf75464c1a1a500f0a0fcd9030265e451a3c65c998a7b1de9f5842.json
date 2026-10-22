@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "03049799c6cf75464c1a1a500f0a0fcd9030265e451a3c65c998a7b1de9f5842",
+  "extraido_utc": "2026-10-22T19:21:15+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20220224131930+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10078_CP_01",
+      "caso": "M.10078",
+      "universo": "principal",
+      "titulo": "Mergers: Commission clears the merger of Cargotec with Konecranes, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_1329/IP_22_1329_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1329",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10078/M.10078_CP_01_03049799c6cf.pdf",
+      "sha256": "03049799c6cf75464c1a1a500f0a0fcd9030265e451a3c65c998a7b1de9f5842",
+      "coincide_inventario": "",
+      "bytes": "45416",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_1329/IP_22_1329_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission clears the merger of Cargotec with Konecranes,\nsubject to conditions\n\nBrussels, 24 February 2022\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed merger\nbetween Cargotec and Konecranes. The approval is conditional on the divestiture of certain\nbusinesses.\n\nExecutive Vice-President Margrethe Vestager, in charge of competition policy, said: “Cargotec and\nKonecranes are two global leaders of container and cargo handling equipment. Port terminal\noperators, logistics companies and a wide range of industrial players in Europe depend on this\nequipment to lift and carry containers and heavy loads. In the current container shipping industry\nlandscape, we needed to make sure that this merger would not harm the supply chains by further\nprice increases. Following the remedies offered by the two companies, customers in Europe will\ncontinue to have sufficient choice of port equipment and will continue benefitting from competitive\nprices and a great choice of technology.”\n\nToday's decision follows an in-depth investigation into the proposed merger of Cargotec and\nKonecranes. The two companies are the largest European and amongst the leading global\nmanufacturers of container and cargo handling equipment, as well as providers of terminal\nautomation solutions.\n\nThe Commission's investigation\n\nDuring its in-depth investigation, the Commission received feedback from a broad range of market\nparticipants, including terminal operators, and cranes and other container handling equipment\nmanufacturers.\n\nFollowing its market investigation, the Commission had concerns that the transaction, as initially\nnotified, would have substantially lessened competition and likely led to higher prices in the\nEuropean Economic Area, with respect to a number of container and cargo handling equipment\ntypes, in particular in the areas of:\n\n    rubber-tired gantry cranes;\n\n    straddle/shuttle carriers;\n\n    mobile equipment, and in particular reach stackers, empty container handlers and\n    heavy-duty lift trucks (>10 tonne capacity).\n\nFor each of these areas, the merged entity would have very large market shares and only face\ncompetition from very few remaining competitors. European customers would not have effective\naccess to new suppliers of container and cargo handling equipment, due to significant existing\nbarriers to entry. As a result, European terminals and industrial customers would have faced higher\nprices and reduced choice of these critical pieces of equipment.\n\nIn addition, the Commission's investigation found that the transaction, given the vertical integration\nof Konecranes' mobile equipment business with Cargotec's spreaders business, would have restricted\naccess to a sufficient customer base for competing mobile equipment spreaders suppliers.\n\nThe proposed remedies\n\nTo address the Commission's concerns the companies offered the following commitments:\n\n    In the rubber-tired gantry cranes, and straddle and shuttle carriers markets, Cargotec\n    committed to divest its full cranes and straddle/shuttle carrier business, including a\n    manufacturing plant in Poland and a licence for use of Cargotec's Kalmar brand for the\n    divested product categories.\n\n    In the mobile equipment markets, including for mobile equipment spreaders, Konecranes\n    committed to divest its business for the manufacturing and commercialisation of reach\n     stackers, full container handlers, empty container handlers, as well as forklift trucks. This",
+      "caracteres": 3574,
+      "caracteres_utiles": 2923,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "     includes manufacturing plants in Sweden and China, and contracts with distributors.\n\nThese commitments fully address the competition concerns identified by the Commission. Feedback\nreceived from several customers, distributors and competitors in the market test of the proposed\ncommitments confirmed the Commission's view that the divested assets constitute viable businesses\nthat would enable suitable buyers to effectively compete with the merged entity.\n\nThe Commission therefore concluded that the proposed transaction, as modified by the\ncommitments, would no longer raise competition concerns. The decision is conditional upon full\ncompliance with the commitments.\n\nCooperation with other competition agencies\n\nA number of competition agencies, including those in the US, the UK, Australia, New Zealand,\nSingapore and Israel, are still investigating the proposed merger. The Commission is in regular\ncontact with these agencies.\n\nCompanies and products\n\nCargotec, based in Finland, offers equipment and services in particular for cargo handling in ports\nand terminals, as well as for ship and road transport (including container handling equipment and\nterminal automated solutions) through its Kalmar business.\n\nKonecranes, also based in Finland, offers equipment and services in particular for lifting and cargo\nhandling in shipyards, ports and terminals, such as container handling equipment and automation\ntechnology.\n\nMerger control rules and procedure\n\nThe transaction was notified to the Commission on 28 May 2021 and the Commission opened an in-\ndepth investigation on 2 July 2021.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nThere are currently three on-going phase II merger investigations: the proposed acquisition of\nRecticel by Greiner, the proposed acquisition of Grail by Illumina, and the proposed acquisition of\nTrimo by Kingspan Group.\n\nMore information will be available on the competition website, in the Commission's public case\nregister under the case number M.10078.\n\n                                                                                                              IP/22/1329\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2846,
+      "caracteres_utiles": 2235,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "3b88ccc116da5ba796a8cbac8d1576dd7b5b45b1a1be34096d963be833007a21",
+  "extraido_utc": "2026-10-22T19:28:47+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20230814160603+02'00'",
+    "modDate": "D:20230814160603+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10438_OTRO_01",
+      "caso": "M.10438",
+      "universo": "principal",
+      "titulo": "Trustee details — MOL / OMV SLOVENIJA",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202333/M_10438_9475462_2843_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202333/M_10438_9475462_2843_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10438/M.10438_OTRO_01_3b88ccc116da.pdf",
+      "sha256": "3b88ccc116da5ba796a8cbac8d1576dd7b5b45b1a1be34096d963be833007a21",
+      "coincide_inventario": "",
+      "bytes": "10218",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202333/M_10438_9475462_2843_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 MONITORING TRUSTEE\n              IN CASE M.10438 - MOL / OMV SLOVENIJA\n\n\n\nOn 30 May 2023 the Commission approved the appointment of:\n\n\nAdvolis SAS\nSquare de Meeûs 37\n1000, Brussels\nBelgium\n\nContact:\nAntoni Vassileff (Project Leader)\navassileff@advolis-orfis.com\nOliver Albrecht (Project Director)\noalbrecht@advolis-orfis.com\n\n\n\n\nas Monitoring Trustee in the above-mentioned case.\n\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of MOL Hungarian Oil\nand Gas Plc with the Commitments attached to the Commission's Decision of 17 May\n2023 and to report to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 878,
+      "caracteres_utiles": 686,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

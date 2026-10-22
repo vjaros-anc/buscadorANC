@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "4dbfa63a7c1b9651dc9e3a3641f5b673ad00f524fb15a1b4a7796dc92d1cce15",
+  "extraido_utc": "2026-10-22T19:28:50+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": " ",
+    "author": "Jonas RASIMAS",
+    "subject": "",
+    "keywords": "EL4",
+    "creator": "Acrobat PDFMaker 17 for Word",
+    "producer": "Adobe PDF Library 17.11.238",
+    "creationDate": "D:20220505164031+02'00'",
+    "modDate": "D:20220505164031+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10506_OTRO_01",
+      "caso": "M.10506",
+      "universo": "principal",
+      "titulo": "Trustee details — PARKER / MEGGITT",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202220/M_10506_8313904_1461_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202220/M_10506_8313904_1461_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10506/M.10506_OTRO_01_4dbfa63a7c1b.pdf",
+      "sha256": "4dbfa63a7c1b9651dc9e3a3641f5b673ad00f524fb15a1b4a7796dc92d1cce15",
+      "coincide_inventario": "",
+      "bytes": "85258",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202220/M_10506_8313904_1461_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "    MONITORING TRUSTEE IN CASE M.10506 – PARKER / MEGGITT\n\n\nOn 05.05.2022 the Commission approved the appointment of:\n\n\n              ING Bank N.V., London branch\n\n                 Address: -8-10 Moorgate London, EC2R 6DA\n\n                  Contact: Matthew Hancox / David Verroken\n                matthew.hancox@ing.com, david.verroken@ing.com\n                   Tel: +44 20 7767 6591 / +44 207 767 1558\n\nas Monitoring Trustee in the above-mentioned case.\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of Parker-Hannifin\nCorporation with the Commitments attached to the Commission's Decision of 11.04.2022\nand to report to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 934,
+      "caracteres_utiles": 676,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

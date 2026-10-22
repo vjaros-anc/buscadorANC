@@ -1,0 +1,169 @@
+[PÁGINA PDF 1]
+                EUROPEAN COMMISSION
+
+
+
+                                  Hearing Officer for competition proceedings
+
+                                                      Brussels, 3 May 2023
+
+
+             Final Report of the Hearing Officer1
+
+       Case M.10646 – Microsoft / Activision Blizzard
+
+                               (Text with EEA relevance)
+
+ 1.  INTRODUCTION
+
+ 1.  On 30 September 2022, the Commission received a notification of a proposed
+      concentration by which Microsoft Corporation  (‘Microsoft’, or the ‘Notifying
+      Party’) intends to acquire, within the meaning of Article 3(1)(b) of the Merger
+      Regulation2, sole control over Activision Blizzard, Inc. (‘Activision Blizzard’) (the
+     ‘Proposed Transaction’). For the purposes of this interim report, Microsoft and
+      Activision Blizzard are together referred to as the ‘Parties’.
+
+ 2.  PROCEDURE
+
+       2.1.    Article 6(1)(c) decision
+
+ 2.  On 8 November 2022, the Commission adopted a decision to initiate proceedings
+      pursuant to Article 6(1)(c) of the Merger Regulation (the ‘Article 6(1)(c) decision’),
+      as the Commission’s  first phase investigation raised serious doubts as to the
+      compatibility of the Proposed Transaction with the internal market.
+
+ 3.  On 24 November 2022, the Notifying Party submitted its response to the Article 6(1)(c)
+      Decision.
+
+       2.2.    First extension of the time-limit
+
+ 4.  On 18 November 2022, the Commission extended the time-period of 90 days in
+      Article 10(3), first subparagraph, of the Merger Regulation for the adoption of a
+      decision pursuant to Article 8 of the Merger Regulation in relation to the Proposed
+      Transaction by 10 working days, pursuant to Article 10(3), second subparagraph,
+        first sentence, of the same regulation.
+
+       2.3.   Statement of objections
+
+ 5.  On 31 January 2023, the Commission adopted a statement of objections addressed
+      to the Notifying Party (the ‘SO’). The SO was formally notified to the Notifying
+      Party on 1 February 2023, after an advance copy was sent on 31 January 2023.
+
+1       Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European
+       Commission of 13 October 2011 on the function and terms of reference of the hearing officer in
+         certain competition proceedings, OJ L 275, 20.10.2011, p. 29 (‘Decision 2011/695/EU’).
+2       Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between
+        undertakings (the EC Merger Regulation), OJ L 24, 29.1.2004, p. 1 (the ‘Merger Regulation’).
+
+[PÁGINA PDF 2]
+     2.4.   Access to the file
+
+6.  The Notifying Party was given access to the file on 1 February 2023 by means of
+    two DVDs. Furthermore, with regard to part of the documents in the  file, the
+     Directorate-General for Competition (‘DG Competition’) provided access by means
+     of a data room, which took place between 2 and 8 February 2023.
+
+7.  By letter of 19 February 2023 to the Hearing Officer, Microsoft submitted a request
+     for further access to the file pursuant to Article 7 of Decision 2011/695/EU (the ‘HO
+     Request’). Microsoft asked in particular that its external advisors be allowed to
+     access certain confidential data that the external advisors had previously consulted
+     in the data room, still on an outside counsel-only basis but in a less restrictive form,
+    such as a confidentiality ring arrangement. This request related to a particular theory
+     of harm developed by DG Competition in the SO. However, following certain
+    developments in the case, on 2 March 2023, Microsoft’s counsel agreed that there
+    was no need to take a decision on the HO Request  at  that stage. Microsoft
+     subsequently withdrew the HO Request on 6 April 2023.
+
+     2.5.   Reply to the SO
+
+8.  On 14 February 2023, the Notifying Party submitted  its reply to the SO, in
+    accordance with the deadline set by DG Competition. In its reply, the Notifying
+     Party requested a formal oral hearing.
+
+     2.6.   Interested third persons
+
+9.   During the course of the proceedings, I admitted (pursuant to Article 5 of Decision
+    2011/695/EU) six undertakings or associations of undertakings as interested third
+     persons.
+
+10.  All interested third persons expressed their interest in participating in a potential
+     oral hearing in this case – and were admitted accordingly, pursuant to Article 6(2) of
+    Decision 2011/695/EU, so as  to express  their views  orally on  the Proposed
+     Transaction.
+
+     2.7.   Oral hearing
+
+11. A formal oral hearing took place on 21 February 2023.
+
+12.  Delegates representing the Parties, four interested third persons, the Commission
+    and the competent authority of a Member State were present in the room. Additional
+     representatives of the Parties, the competent authorities of Member States and the
+    Commission and representatives of certain interested third persons participated
+     remotely.
+
+     2.8.   Second extension of the time limit
+
+13. On 1 March 2023, a further extension of 10 additional working days of the time
+     limit  set for the adoption of a decision pursuant to Article 8 of the Merger
+     Regulation was adopted by the Commission with the agreement of the Notifying
+     Party, pursuant to Article 10(3), second subparagraph, third sentence, of the Merger
+     Regulation.
+
+                                       2
+
+[PÁGINA PDF 3]
+     2.9.   Letter of facts
+
+14. On 9 March 2023, the Commission adopted a letter of facts (‘LoF’), in order to
+    inform Microsoft about additional factual elements which were not yet expressly
+     relied on in the SO and which the Commission considered to be potentially relevant
+     to support some of its preliminary conclusions in the SO and substantiate its final
+     decision.
+
+15. The Commission initially set a deadline for Microsoft to reply to the LoF on 16
+    March 2023. Upon request from Microsoft, DG Competition subsequently extended
+     this deadline until 20 March 2023. On that date, Microsoft submitted its reply.
+
+     2.10.  Commitments
+
+16. On 16 March 2023, Microsoft submitted commitments, with a view to rendering the
+    Proposed Transaction compatible with the internal market and the functioning of the
+   EEA Agreement, pursuant to Article 8(2), second subparagraph of the Merger
+     Regulation  (the  ‘Commitments’).  Accordingly,  the  legal  time  limit  for  the
+    Commission decision was automatically extended by 15 working days, pursuant to
+     Article 10(3), first subparagraph of the Merger Regulation.
+
+17. On 17 March 2023, the Commission launched a market test of the Commitments.
+    The Commission informed the Parties about the results of the market test on 28
+    March 2023.
+
+18. On 3 April 2023, following the outcome of the market test, Microsoft submitted a
+     revised set of commitments. These were market tested on 4 April 2023 and the
+    Commission informed the Parties about the results on 14 April 2023.
+
+19. On 20  April  2023,  Microsoft  submitted amended commitments  (the  ‘Final
+    Commitments’)  addressing  feedback  from  the  market  test  of  the  Second
+    Commitments.
+
+     2.11.  The draft decision
+
+20.  In the draft decision, the Commission concludes  that the Final Commitments
+     address the identified competition concerns and declares the Proposed Transaction
+    compatible with the internal market and the functioning of the EEA Agreement,
+     pursuant to Article 8(2) of the Merger Regulation.
+
+21.  I  have  reviewed  the  draft  decision  pursuant  to  Article  16(1)  of  Decision
+    2011/695/EU and I conclude that it does not deal with any objection in respect of
+    which the Parties have not been afforded the opportunity of making known their
+     views.
+
+3.  CONCLUSION
+
+22.  Overall, I consider that the effective exercise of procedural rights has been respected
+     in the present proceedings.
+
+
+
+                                       ERIC GIPPINI FOURNIER
+                                                    Hearing Officer
+                                       3

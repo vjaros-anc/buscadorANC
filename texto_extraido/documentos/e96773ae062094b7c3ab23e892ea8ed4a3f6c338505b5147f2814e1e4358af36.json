@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "e96773ae062094b7c3ab23e892ea8ed4a3f6c338505b5147f2814e1e4358af36",
+  "extraido_utc": "2026-10-22T19:41:11+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 23 for Word",
+    "producer": "Adobe PDF Library 23.6.156",
+    "creationDate": "D:20240108181600+01'00'",
+    "modDate": "D:20240108181602+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11143_NOT_PREVIA_01",
+      "caso": "M.11143",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — CMA CGM / BOLLORE LOGISTICS",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202402/M_11143_9818381_912_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202402/M_11143_9818381_912_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11143/M.11143_NOT_PREVIA_01_e96773ae0620.pdf",
+      "sha256": "e96773ae062094b7c3ab23e892ea8ed4a3f6c338505b5147f2814e1e4358af36",
+      "coincide_inventario": "",
+      "bytes": "150716",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202402/M_11143_9818381_912_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.11143 - CMA CGM / BOLLORE LOGISTICS\n\n                         SECTION 1.2\n\n                           Description of the concentration\n\nOn 5 January 2024, CMACGM S.A. (“CMA CGM”), a French company whose headquarters\nare in Marseille, notified to the Commission a proposed concentration pursuant to Article 4 of\nCouncil Regulation (EC) No 139/2004, whereby it intends to acquire, within the meaning of\nArticle3(1)(b) of the Council Regulation, sole control over Bolloré Logistics SE(“Bolloré\nLogistics”), a French-based company, via a share purchase deal.\n\nCMA CGM is active at world level in container liner shipping and port terminal services.\nThrough its subsidiary CEVA Logistics S.A. (“CEVALogistics”), CMA CGM is also active\nin freight forwarding and contract logistics services. In the EEA, CEVA Logistics is active in\nAustria, Belgium, Croatia, the Czech Republic, Finland, France, Germany, Greece, Hungary,\nIreland, Italy, Latvia, Lithuania, Luxembourg, the Netherlands, Poland, Portugal, Romania,\nSlovakia, Spain, and Sweden.\n\nBolloré Logistics  is active in freight forwarding and contract logistics services. Bolloré\nLogistics operates in particular in Europe (in France as well as in Austria, Belgium, the Czech\nRepublic,  Denmark,  Finland,  Germany,  Hungary,  Ireland,   Italy,  Luxembourg,  the\nNetherlands, Poland, Portugal, Romania, Spain and Sweden).\n\n\n\n\n\nCommission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111",
+      "caracteres": 1947,
+      "caracteres_utiles": 1511,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

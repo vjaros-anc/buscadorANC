@@ -1,0 +1,1278 @@
+[PÁGINA PDF 1]
+                                                                                                   Clean, Just and Competitive Transition
+
+ Competition Merger Brief
+                                                        Issue 2/2025 | October
+
+
+
+More briefs:                                            In this issue:
+https://competition-
+policy.ec.europa.eu/publicati
+ons/competition-policy-            Page 1: M.10806   Broadcom/VMware – the importance of
+briefs_en
+                                          speaking the same language
+
+                                                            This case is an example of an exceptional scenario where the
+                                                  Commission was able to conclude that an  interoperability
+                                                remedy was suitable to remove non-horizontal competition
+                                                            concerns.
+
+                        Page 5: M.10149   Korean Air/Asiana – a race for cargo space
+
+                                                        This Merger Brief focuses on the cargo aspects of the
+More publications:                                           case, as  the passenger  aspects have  already been
+https://competition-                                     covered by an earlier edition.
+policy.ec.europa.eu/publicati
+ons_en                    Page 8: M.11481    Buying Ansys - A Synopsys of a chip design storyhttp://bookshop.europa.eu
+                                                        This case is an example of the Commission assessing an
+Competition merger  briefs                                   innovation-driven  industry affected by transformative
+are written by the staff of
+                                               market trends, such as multi-die chip design, where  itthe            Competition
+Directorate-General    and                                   investigated  the  possible  impact  of  a  proposed
+provide   background    to                                   transaction from  various  angles:  actual  competition,
+policy   discussions.   They                                    potential competition and conglomerate effects.
+represent the authors’ view
+on the matter and do not
+bind the Commission in any         Page 12: M.11564   International Paper / DS Smith – Blurred Lines
+way.                                                in a Square-Box Deal
+© European  Union, 2025                                  Following  a  Phase   I  investigation,  the  Commission
+Reproduction  is authorised                                     conditionally cleared  IP’s acquisition of DSS, bringing
+provided   the   source   is                                  together two global paper and packaging suppliers.
+acknowledged.
+KD-01-25-015-EN-N             Page 15: M.11536   Constantia / Aluflexpack – Unpacking
+doi 10.2763/9684750                              comPETition concerns
+ISBN 978-92-68-32843-9
+ISSN 2363-2534                                               In particular in a context of high grocery prices, food
+                                              makers should have access  to affordable packaging
+                                                     materials that are competitively produced.
+
+                        Page 17: M.11253   Safran/Collins – Remove Concerns Before Flight
+
+                                                           This case underscores the importance of cooperation between
+                                                         competition authorities to ensure an efficient review while
+                                                           respecting procedural differences across jurisdictions.
+
+[PÁGINA PDF 2]
+                                                                                      Clean, Just and Competitive Transition
+
+
+
+
+Issue 2/2025 | Article 1
+ Competition Merger Brief
+
+Broadcom/VMware – the importance of       same        level       of
+                                                                              interoperability        with
+speaking the same language                      VMware’s           server    In a nutshell
+                                                                               virtualisation software that      In  Broadcom/VMware,  the
+Laura Corbett, Sara Hugelier, Patricia Oliveira                                                          Broadcom provides to  its                                                                                     Commission was  concerned
+                                                     own FC HBAs business unit,                                                                                                  that Broadcom would restrict
+Introduction                                               on the basis of which the                                                                                                    or       degrade       the
+On 12  July 2023,  following an  in-depth  investigation,  the      Commission   conditionally      interoperability     between
+Commission conditionally approved the acquisition of VMware by       approved the transaction.      VMware server virtualisation
+Broadcom.1 This case is an example of an exceptional scenario                                   software and the hardware
+                                                                                In the market investigation,
+where  the  Commission  was  able  to  conclude  that  an                                     of Marvell,  its only FC HBA                                                                  respondents  also  raised
+interoperability remedy was suitable to remove non-horizontal                                                rival.                                                                   concerns  that  VMware’scompetition concerns, similar to its Broadcom/Brocade decision.2
+                                                                            licensing    policy    could
+                                                                                                 Following    an    in-depth
+Broadcom  is mainly a hardware company that offers, among      change  once  Broadcom                                                                                                           investigation,            the
+other products, a variety of hardware components that connect        controlled VMware  -  for                                                                                     Commission considered that
+servers to storage or networks. These components include Fiber        instance,  through  higher                                                                                  an            interoperability
+Channel Host-Bus Adapters (‘FC HBAs’).3 VMware supplies mainly        prices or reduced support                                                                                 commitment  was  effective
+virtualisation software, including for servers. In essence, server        for    customers     with                                                                                  and capable of alleviating its
+virtualisation software emulates computer hardware to enable       perpetual  licenses,  unless                                                                                             concerns  given  the  very
+the hardware of a single server to be divided into multiple       they     moved       to                                                                                                            specific   circumstances   of
+computers, known as “virtual machines”. Virtualisation software       subscription-based
+                                                                                                              this case.
+interoperates with hardware components in the server, such as        licenses.  However,  such
+FC HBAs, via a type of server Operating System (‘OS’), called the       concerns   relate   to  the
+‘hypervisor’.                                                                exploitation of VMware’s pre-existing market power.  VMware
+                                                       was already able  to engage  in such conduct before  it was
+The Commission was concerned that the transaction would harm       acquired by Broadcom. Therefore, these concerns are linked to
+competition in the worldwide FC HBA market, as the merged       changes in commercial strategy that is not caused by structural
+entity would have the ability and incentive to foreclose Marvell,      changes brought about by the transaction, which is what merger
+its only rival on the FC HBA market, by delaying or degrading        control looks at.
+certified interoperability of Marvell’s hardware with VMware’s
+server virtualisation software. This would hamper Marvell's ability        In this brief, we highlight a few interesting aspects of this case,
+to compete in a market where Broadcom is dominant, or at least       notably how the Commission (1) defined the market for server
+holds a very strong position,4 ultimately leading to higher prices,        virtualisation software taking into consideration the transition of
+lower  quality, and  less  innovation  for  business  customers.       workloads from the on-premises environment to the public cloud,
+Broadcom proposed a remedy ensuring that Marvell has the        (2) pursued a conglomerate foreclosure theory of harm related to
+                                                                     the interoperability of VMware’s server virtualisation software
+1 An appeal against the Commission’s decision is currently pending before       with Broadcom’s hardware, (3) assessed possible incentives to
+  the  General  Court.  Case  T-503/25 –  CISPE  v.  Commission,  see       degrade interoperability despite a high critical switching rate, (4)
+  https://curia.europa.eu/juris/document/document.jsf?text=&docid=3043
+                                                                assessed effects in this case where technically a large part of the  75&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid
+  =215088.                                                         addressable market remained available, and (5) accepted the
+2 Commission decision of 12 May 2017 in case M.8314 – Broadcom  /       targeted remedy that neatly fit the specific characteristics of this
+  Brocade.3                                                                        case.  HBAs are hardware devices that connect servers to storage networks
+  via the FC protocol.
+4 Commission decision of 12 July 2023 in case M.10806 – Broadcom  /
+  VMware, Section 8.4.3.2.3.1.
+
+
+
+The content of this article does not necessarily reflect the
+ official position of the European Commission. Responsibility
+for the information and views expressed lies entirely with
+the authors.                                          1
+
+[PÁGINA PDF 3]
+                  M.10806 Broadcom / VMware | Competition Merger Brief No 2/2025
+
+
+
+1. Trend towards cloud computing and market      2.  Foreclosure  by  hampering  interoperability
+definition                                      between VMware’s  hypervisor and Broadcom
+Historically, virtualisation software has been used by enterprises       rival FC HBAs
+to create virtual machines from physical infrastructure they own
+                                                                   2.1. Interoperability of VMWare’s server virtualisationand operate themselves in datacentres on their premises (“on-
+premises”). Currently, enterprises are migrating a proportion of      software with FC HBAs
+their  workloads  away  from  their  on-premises  traditional      VMware’s  virtualisation  software  (specifically  its  hypervisor)
+datacentres  towards  the  public  cloud.  Enterprises  are  also      communicates with underlying hardware (including FC HBAs) via
+developing  cloud-native  applications.  Accordingly,  Broadcom       device drivers.5 These device drivers are developed and tested as
+considered that there should be an overall virtualisation software        part of a relatively lengthy interoperability process. Given that
+market encompassing  all  types  of deployment models and       each  operating system  (“OS”) communicates  with  drivers  in
+environments.                                                             different ways, FC HBA vendors must create OS-specific drivers
+                                                                            for their FC HBA’s which are then certified by the server OS (i.e.,
+However, despite this industry trend towards public cloud, based       the server OS confirms that a driver interoperates with the OS).
+on the results of its market investigation, the Commission found
+that there are still workloads which customers have so far been      The  Commission  found  that  interoperability  with  VMware’s
+more reluctant or unable to migrate to or create in the public        hypervisor is a critical feature of competition between suppliers
+cloud due to a number of reasons, namely legacy or mission-       of FC HBAs. Essentially, FC HBA’s main customers, which are
+critical  applications,  contractual  obligations,  or  security, data        server manufacturers (“OEMs”), typically require devices to have
+privacy, data sovereignty or regulatory concerns. Respondents to       the broadest OS support (i.e., devices that are interoperable with
+the market investigation indicated that the distinction between       Windows, Linux and VMware’s server OS).
+on-premises and private cloud was blurry, as opposed to the
+                                                                  Given its high market share of between 60 and 70% in 2021 indistinction with the public cloud. In practice, enterprises tend to
+create a type of hybrid cloud environment where enterprises       the highly concentrated market for the supply of FC HBAs, the
+distribute workloads across on-premises infrastructure, as well as      Commission concluded that Broadcom is dominant or at least
+private and public cloud.                                              holds a very strong position in such market in which its only rival
+                                                                                           is Marvell.6
+Similarly, from a supply-side perspective, based on the results of
+the  market  investigation,   it  appeared  that  a  virtualisation       2.2. Discreet foreclosure mechanisms
+software  provider  could  easily  switch  between  developing      The Commission found that the merged entity would have the
+virtualisation software for the on-premises and the private cloud         ability and incentive to engage  in a market-wide foreclosure
+environment, but to offer virtualisation software for the public        strategy vis-à-vis Marvell.
+cloud would be more difficult, or not possible.
+                                                             As set out above, interoperability of FC HBAs with VMware server
+In view of these demand- and supply-side considerations, the        virtualisation software is important. Such interoperability is made
+Commission found that there is a market for server virtualisation        possible  through  extensive  information  exchange  between
+software  which  should  be  further  segmented  based  on      VMware and FC HBA suppliers, including the disclosure of the
+deployment model,  i.e., depending on whether the software is        application  programming  interfaces  (‘APIs’) 7 and  information
+deployed  (i) on-premises and in the private cloud, or  (ii) in the       about  future  versions  of hardware and  software. VMware’s
+public cloud.                                                          cooperation is therefore essential to the FC HBA development
+                                                                         process.  At  the end  of  the  process, VMware  certifies  the
+VMware’s market share in the market for server virtualisation        interoperability such that hardware customers can verify that the
+software in the on-premises and private cloud environment  is      FC HBA  is  compatible  with  VMware’s  server  virtualisation
+significant and customers view VMware’s product as particularly       software.
+important. Further, there are no relevant alternatives to VMware’s
+product.  Therefore,  in  line  with  the  Non-Horizontal  Merger        Concretely, the Commission found that the foreclosure could
+Guidelines,  the  Commission  found  that  VMware  holds  a       occur through discreet mechanisms that degrade or delay the
+significant degree of market power on the on-premises and        interoperability between Marvell’s FC HBAs and VMware’s server
+private cloud server virtualisation market.                                   virtualisation software. More specifically, VMware could hamper
+
+
+                                                                                                 5 A driver is a programme that tells software how to communicate with a
+                                                                                       device, providing an interface between the two.
+                                                                                                 6 Commission decision of 12 July 2023 in case M.10806 – Broadcom  /
+                                                                      VMware, Section 8.4.3.2.3.1.
+                                                                                                 7 APIs are  sets  of  rules  that  allow  different  software systems  to
+                                                                      communicate and interact with each other.
+
+
+
+                                                   2
+
+[PÁGINA PDF 4]
+                  M.10806 Broadcom / VMware | Competition Merger Brief No 2/2025
+
+
+
+the information exchange in the development process, degrade      4. Effects based on strengthening of dominance,
+the  provision  of  technical  support,  or  delay  certification  of      or at least market power
+interoperability.
+                                                             As set out above, the Commission concluded that Broadcom
+3. Incentives to foreclose despite high  critical      would have the ability and incentive to foreclose Marvell. Such
+switching rate                                                      foreclosure strategy would  likely have  significant  effects on
+                                                                     competition in the market for FC HBAs, by reducing the ability of
+The Commission concluded that the merged entity would have an       Broadcom’s only FC HBA rival to compete.
+incentive  post-Transaction   to  engage   in  a  market-wide
+foreclosure strategy vis-à-vis its rival Marvell.                       The Non-Horizontal Merger Guidelines9 set out that bundling or
+                                                                           tying may result in a significant reduction of sales prospects
+Notably, according to the Non-Horizontal Merger Guidelines8 , the       faced by single-component rivals in the market. The reduction in
+incentive to foreclose rivals depends on the degree to which the        sales by competitors is not in and of itself an impediment to
+strategy  is  profitable. The merged  entity  faces a  trade-off        competition.  Yet,  in  particular  markets,  if  this  reduction  is
+between the possible costs associated with foreclosure  (e.g.,        significant enough, it may lead to a reduction in rivals' ability or
+VMware customers that move away from VMware) and the        incentive  to compete.  This may allow the merged  entity  to
+possible gains from expanding market shares in the markets       subsequently acquire market power (in the market for the tied or
+concerned (e.g., VMware customers that replace rival hardware       bundled good) and/or to maintain market power (in the market
+with Broadcom hardware). The Commission measures whether        for the tying or leveraging good). The Non-Horizontal Merger
+these potential gains could outweigh the potential losses by       Guidelines specify that it is only when a sufficiently large fraction
+assessing  the  critical  switching  rate,  which  refers  to  the       of market output is affected by foreclosure resulting from the
+percentage of customers that could be lost due to foreclosure      merger  that  the merger may  significantly impede  effective
+before the strategy becomes unprofitable.                               competition.
+
+The Commission found that the actual switching rate would      The Parties claimed that  rival hardware vendors would have
+remain quite high, i.e., a significant number of customers would      ample opportunities to sell their products, given that most servers
+need to move away from rivals to Broadcom’s FC HBAs. However,       worldwide  are  either  non-virtualized,  or  non-virtualized  by
+while the Commission acknowledges that the critical switching      VMware. Therefore, any putative degradation of interoperability
+rate implied by such standard analysis is high, it does not imply      would not deprive  rival hardware vendors that compete with
+that foreclosure would be unprofitable.  It merely means that      Broadcom of minimum viable  scale, as these non-virtualized
+nearly all customers would need to switch from rival hardware to        servers  would  not  require  interoperability  with  VMware’s
+Broadcom to make it profitable.                                        software.
+
+In that respect, the market investigation indicated that virtually       Nevertheless, the Commission found  that there would be a
+all end-customers were likely to switch from rival to Broadcom        significant effect on the worldwide market for FC HBAs.  First,
+FC HBAs  in a  foreclosure  scenario  post-Transaction.  This  is      Broadcom is dominant or at least holds a very strong position
+because end-customers are generally indifferent to the supplier       with between 60 and 70% market share in 2021 in the highly
+of such components which is typically selected by OEMs as part       concentrated FC HBA market where it faces only one challenger,
+of an  overall  server package  with  generally no  significant        Marvell.  Second,  Broadcom’s  only  FC HBA  rival  would  be
+difference between brands of such components. At the same      hampered in its ability to compete on the merits and effectively
+time, end-customers determine which virtualisation software they         in an important part of that market. Third, Broadcom’s FC HBA
+run, and  invest  significantly  in  their software  infrastructure,         rival would invest less. This would allow Broadcom to maintain
+including  trained  IT  personnel.  Therefore, they would  find a       and/or strengthen its dominance, or at least very strong position,
+change in hypervisor difficult and disruptive to their business. In         in the FC HBA market.
+addition, server virtualisation software represents a significant
+cost relative to the price of FC HBAs. Finally, no end-customer      5. Remedies targeted to Broadcom’s only rival on
+would purchase a hardware component without certification of     the FC HBA market
+interoperability with the software on which they are running their
+workloads.                                                     The Commission’s Notice on Remedies clarifies that divestiture
+                                                                remedies  are  systematically  preferred  and  serve  as  the
+                                                            benchmark  against  which  other  potential  solutions  will  be
+                                                                     assessed.  Non-structural commitments  related  to  the  future
+
+
+8 Guidelines on the assessment of non-horizontal mergers under the
+  Council  Regulation  on  the  control  of  concentrations  between
+  undertakings  (‘Non-Horizontal  Merger   Guidelines’),  OJ  C  265,
+  18.10.2008, paragraph 105.                                                             9 Non-Horizontal Merger Guidelines, paragraph 111.
+
+
+
+                                                   3
+
+[PÁGINA PDF 5]
+                  M.10806 Broadcom / VMware | Competition Merger Brief No 2/2025
+
+
+
+
+behaviour of the merged entity will only be accepted in very       Following a thorough and positive market test, the Commission
+specific circumstances.10                                            concluded these commitments were capable of eliminating its
+                                                                        concerns. Broadcom’s commitment to make the necessary tools
+The Commission agreed to explore Broadcom’s non-structural
+                                                           and support available on equal terms ensures that Marvell and
+commitments  proposal.  Throughout  the   investigation,  the
+                                                             any potential future entrant will be able to develop and introduce
+Commission gathered information as to the FC HBA development
+                                                             any new features without delay and enable timely  certified
+process and  rivals’ interactions with VMware throughout that
+                                                                              interoperability of their FC HBAs. Access seekers can verify that
+process to ensure interoperability between the hardware and the
+                                                                    they have access to the same necessary information as the
+software, as well as a smooth certification process. The server
+                                                          merged entity through the source code library. Furthermore, the
+OEMs, as the main customers of FC HBAs, were also closely
+                                                                         protection of access seekers’ confidential information will ensure
+involved in the process. This allowed the Commission to test and
+                                                                        that  the merged  entity  will be  precluded from  using such
+accept the proposed commitments, which effectively addressed
+                                                                     information to its own benefit, for example to make alterations to
+the concern at issue, namely that a degradation of certified
+                                                                                            its products that would ensure better interoperability with its own
+interoperability between Marvell’s FC HBAs and VMware’s server
+                                                                   hardware. The monitoring  trustee  will keep a  close eye on
+virtualisation  software  would  hamper  Marvell’s   ability  to
+                                                               whether technical support and access to development tools  is
+effectively compete in the market for FC HBAs.
+                                                                     provided in line with VMware’s pre-transaction practice and in an
+First, Broadcom committed that the merged entity would ensure       equal manner as to Broadcom and will ensure that adequate
+that  Marvell would be  able  to  develop FC HBAs  that  are      measures  are  put  in  place  to  ensure a  hold-separate  of
+interoperable with VMware server  virtualisation software and        confidential information. These commitments, along with the
+obtain certification of that interoperability in an equal manner to        possibility for the access seeker to raise doubts with the trustee
+Broadcom’s own FC HBAs. This requires access to the  APIs,        or  through a  fast-track  dispute  resolution mechanism,  are
+technical and engineering support in the same timely manner as       adequate  to  capture  also  the  potential  discreet  foreclosure
+provided to the merged entity itself, and at a cost in line with      mechanisms in this case.
+earlier  practice. Furthermore,  the merged  entity  will  provide
+                                                                         This case presented a specific situation with only one remedy
+access to the source code for  all of Broadcom’s current and
+                                                                        taker at the time of the decision, which allowed for a targeted
+future FC HBA drivers through an irrevocable license, thereby
+                                                                          solution without the need to consider different interoperability
+allowing Marvell to ascertain that equal access is provided to the
+                                                                remedies for each remedy taker. Furthermore, the commitments
+information necessary to ensure interoperability.
+                                                                resemble those accepted in an earlier case, Broadcom/Brocade11,
+                                                            where the Commission was able to satisfactorily monitor theSecond, an organisational separation within the merged entity
+                                                                 remedy’s  proper  implementation and found  that  they werebetween Broadcom’s FC HBA division and VMware’s certification
+                                                                           effective in preventing anticompetitive effects. The facts of theand support team for server virtualisation software will be set up
+                                                                 case therefore allowed  for the acceptance of non-structuralto protect Marvell’s confidential information that the merged
+                                                                     remedies. Since the date of implementation of the remedies,entity obtains in the course of the interoperability process.
+                                                                      Marvell continues to be active on the global market for FC
+The  commitments  targeted  Marvell  as  Broadcom’s  only       HBAs. 12 In  addition,  the  Marvell  FC  HBAs  continue  to  be
+competitor in the global market for FC HBAs. Nevertheless, to        interoperable with VMware’s software.13
+avoid  an  increase  of  entry  barriers  in  the  market,  the
+commitments are also open to any potential future entrant, even     Conclusion
+if such entry appeared to be unlikely at the time of the decision                                                                              Overall,  in  the  course  of   its  in-depth  investigation,  the
+as the market for FC HBAs is mature and new technologies may                                                             Commission delved into several interesting issues and ultimately
+take over going forward. The commitments will remain in place                                                                   obtained  sufficient  comfort  that  exceptionally  non-structural
+for a  period  of 10  years,  which  the Commission deemed                                                                remedies  could  be  accepted  in  light  of  the  very  specific
+appropriate given the fast-moving nature of the sector. After 10                                                                   circumstances of this case. The limited number of access seekers
+years, the Commission expects that the market structure or                                                           and straightforward set of pre-existing access terms set this case
+consumer  behaviour   will  have  changed  such  that  the                                                                     apart  from   earlier  investigations  involving  interoperability
+commitments will no longer be required. The need for only a                                                                       concerns, where the multitude of access seekers and tailor-made
+limited duration rendered this non-structural remedy particularly                                                               commercial  terms  would   likely  have  made  any  remedy
+apt at obtaining an effect equivalent to a divestiture.                                                           unmanageable and difficult to monitor.
+Finally, the implementation of the commitments will be aided by
+the supervision of a monitoring trustee and a fast-track dispute
+resolution mechanism.                                                                    11                                                                      Commission decision of 12 May 2017 in case M.8314 – Broadcom  /
+                                                                                Brocade.
+10 Commission notice on remedies acceptable under Council Regulation          12         https://www.marvell.com/products/fibre-channel-adapters-and-
+  (EC) No 139/2004 and under Commission Regulation (EC) No 802/2004           controllers.html
+  [2008] OJ C267/1, paragraphs 15-17.                                                  13 https://compatibilityguide.broadcom.com/
+
+
+
+                                                   4
+
+[PÁGINA PDF 6]
+                                                                                      Clean, Just and Competitive Transition
+
+
+
+
+Issue 2/2025 | Article 2
+ Competition Merger Brief
+
+Korean Air/Asiana – a race for cargo        How      competition
+space                                                  plays out  in the  air    In a nutshell
+                                                      cargo market
+                                                                                                             In late 2024, the Commission
+Chrysanthi Tramountana, Stefano Callari                                    In  2023, more  than €5
+                                                                                        approved  Air Incheon as a                                                                                              trillion  worth  of  goods
+                                                                                                      suitable    purchaser    forIntroduction                                               were    imported    and
+                                                                                                  Asiana’s     global    cargo                                                                    exported     to    non-EU
+In November 2024, the Commission approved Air Incheon as a                                        freighter  business,  marking                                                                             countries; around 26% of
+suitable purchaser for the cargo divestment business offered by                                    the    last   step    in   the                                                                     the  EU’s  extra-EU  export
+Korean Air in order to acquire control over Asiana. This decision                                        acquisition  of  Asiana  by                                                                    value and around 17% of
+marks the last step in the proposed acquisition of Asiana by                                  Korean Air. This Merger Brief                                                                                            its import value in goods
+Korean  Air, which was formally notified in January 2023 and                                                            were  transported by  air,3     focuses on the cargo aspects
+conditionally approved in February 2024.                                                                      while around 25% of  all      of the case, as the passenger
+                                                                    extra-EU  trade was  with     aspects have  already beenMore  specifically,  by  decision  of 13  February  2024,  the
+                                                                    Eastern Asia.4                 covered by an earlier edition.Commission  declared  the  concentration  compatible  with  the
+internal  market,  subject  to  compliance  with  conditions and                                                               These  figures  underscore     The  proposed  Transaction
+obligations. These commitments  are  divided  into  ‘Passenger                                                                     the importance of a well-     gave  the  Commission  the
+Commitments’ and ‘Cargo Commitments’. As part of the latter,                                                                        functioning     air    cargo      opportunity to dive into the
+Korean Air committed to divest Asiana's global cargo freighter                                                              market    for   European      specific complexities of the
+business, including – among others – freighter  aircraft,  slots,                                                             consumers and businesses.       air  cargo  market,  defining
+traffic  rights,  flight crew and  other employees, as  well as                                                                    High-value      European      the  boundaries  with  other
+customer cargo contracts.
+                                                                            exports,  such  as  luxury      neighbouring       markets,
+                                                                    goods, medical equipment,      assessing           capacityA  previous  Merger  Brief1 has  already examined  the  issues
+                                                                       perishable   goods    (e.g.      considerations, and designingconcerning the air passenger market, in conjunction with those
+                                                                       fresh    seafood)    and     a remedy that would solvearising in the Lufthansa/MEF/ITA and IAG/Air Europa cases. This
+                                                                               industrial  machinery  as      competition  concerns on aarticle specifically focuses on the air cargo market, first providing
+                                                                         well as key imports such      global scale.a brief overview of how competition in the air cargo market
+                                                               as      electronics    andworks and then zooming  in on three  particularly  interesting
+                                                                  semiconductors      oftenaspects: (i) the boundaries of the relevant market in the case of
+                                                                             travel by air.integrators,2 (ii) entry, expansion, and the role of excess capacity
+as a competitive constraint, and  (iii) how to ensure that the
+                                                                      Several types of  carriers provide  air cargo services between
+business  to be  divested would be  stand-alone,  viable and
+                                                                Europe and South Korea. For example, airlines like Korean Air and
+competitive.
+                                                                  Asiana both operate dedicated freighter planes and utilize belly
+                                                                space on direct passenger flights to and from European airports
+                                                                          to  transport  cargo. Most  other  carriers, however,  could  not
+1 Competition merger  brief.  Issue  4, November 2024.  Available  at        replicate a similar value proposition as the Parties. Some carriers
+  Competition merger  brief. Issue  4, November 2024  - Publications        rely solely on belly-hold cargo capacity,5 while some others rely
+  Office of the EU
+2 Companies such as DHL, FedEx, and UPS. Integrators offer not only (i)
+   airport to airport services, but also (ii) handle cargo from the point of          3 Value of EU goods transported by sea was 47% in 2023 - News articles
+   origin to the airport and from the airport to the final destination,            - Eurostat
+  including legal formalities, such as customs clearance.                               4 Air freight transport statistics - Statistics Explained
+                                                                                                 5 Carriers can transport cargo using the space available in the underfloor
+                                                                      compartments of passenger aircrafts, which are known as the "belly" of
+                                                                               the aircraft. This approach allows carriers to maximize revenue by
+
+
+
+The content of this article does not necessarily reflect the
+ official position of the European Commission. Responsibility
+for the information and views expressed lies entirely with
+the authors.                                          5
+
+[PÁGINA PDF 7]
+         M.10149 Korean Air/Asiana – a race for cargo space  | Competition Merger Brief No 2/2025
+
+
+
+
+only on indirect connections whereby the cargo is transhipped at       of  service  offered,  i.e. door-to-door  service,  contrary  to the
+a hub outside Europe. Within the picture, one can also find the        airport-to-airport services of air carriers; the time commitment;
+integrators such as DHL, FedEx, and UPS, which only offer air       the customers targeted; as well as the pricing, which is typically
+cargo services if last-minute capacity is available on their flights.        higher than the air cargo carriers’ pricing. Airport-to-airport cargo
+                                                                         services are nevertheless still provided by integrators, but only in
+The Commission examined whether air cargo services should be       order to fill any remaining available capacity in their aircraft.
+considered a single market encompassing  all these transport
+methods or  if they should be further segmented. While the      The Commission has therefore pointed out the existence of two
+Commission found the segmentation of the market for air cargo       separate markets, those of  (i) airport-to-airport cargo services,
+services by the type of aircraft or between direct and indirect      and (ii) door-to-door small package delivery services.
+flights with and without transhipment not to be appropriate,  it
+excluded the door-to-door small package delivery services of the      The  integrators’  limited  airport-to-airport cargo  activities are
+integrators, as these constitute a service of different nature,       considered part of the market where  traditional  air  carriers
+while   it  included  the more  limited  airport-to-airport  cargo        operate. As discussed above, while the  integrators’ business
+services of the integrators, as discussed in more detail below.          model and service offering are fundamentally different to that of
+                                                                     the Parties, the integrators may nevertheless occasionally serve
+Nevertheless, the Commission also acknowledged  that these      some of the same customers of the latter, for example to fill any
+markets are differentiated in different ways, namely whether the       remaining available capacity in their aircraft. The Commission
+carriers operate freighter aircraft or passenger aircraft, whether       therefore considered in its competitive assessment the limited
+they offer direct services or services with transhipment, and from       extent to which integrators do exert some competitive pressure
+which  airports  in Europe they  offer  their  services  at which      on  traditional  air  carriers due  to  this spare  offering.   The
+frequencies.  These  are  all  elements  that  customers  value      Commission found that the integrators’ competitive pressure was
+differently,  as  they  can  affect  capacity  considerations,  the        insufficient  to  counter  the  Parties’ market power  after  the
+quality,  i.e. timeliness and reliability, of delivery, or the risk of        Transaction, mainly due to insufficient capacities and last-minute
+cargo  loss or damage. Therefore, the Commission took that         availability.
+differentiation into account in the competitive assessment of the
+case,  in  particular when assessing how  closely the  different        In addition, the Commission analysed any constraint possibly
+carriers compete.                                               posed by the integrators’ door-to-door services to the Parties as
+                                                                           potential indirect and out-of-market constraints. In other words,
+Ultimately, the Transaction raised concerns about the reduction       the Commission assessed whether the Parties’ market power in
+of competition in air cargo transport between Europe and South       the  market  for  airport-to-airport  cargo  services  could  be
+Korea. This is because Korean Air and Asiana were found to be       constrained by the integrators’ door-to-door offering, for example
+each other’s closest competitors, and because other competitors       because the final customer wishing to ship goods could purchase
+could not  exert a meaningful competitive  constraint on the       door-to-door  services  from  integrators  instead  of  typically
+merged entity. No other competitor could match sufficiently the       purchasing transportation services from freight forwarders that
+Parties’ competitive, high-quality  offering,  i.e. high frequency,      would in turn source air cargo services from air carriers like the
+high capacity (both freighter and belly-hold), and direct services        Parties. The Commission found that such  indirect constraints
+without transhipment.                                          were at best minimal, mainly because the door-to-door services
+                                                                      of integrators focus on small packages and therefore not on the
+Defining  boundaries:  the  hybrid  nature  of        kind of heavier and bulkier cargo handled by freight forwarders,
+integrators                                                       but also because the nature of the service is inherently different
+                                                                       (door-to-door vs  airport-to-airport),  including  different  pricing
+The large focus of the case on the air cargo market provided the                                                                          considerations.  Shippers  would   therefore  not  switch   to
+opportunity to investigate in depth the interaction and dynamics                                                                             integrators’ door-to-door services to avoid the market power of
+between  air  cargo  transport,  where  traditional  air  carriers                                                                     the merged entity.
+operate, and small package delivery services, where air freight
+integrators mainly operate.                                     Entry, expansion, and the role of excess capacity
+The integrators’ primary focus and business model lies on the     as a competitive constraint
+shipment of small packages  (or else door-to-door  business),      The Commission found that the merger would have increased
+which  is a separate market from air cargo services. Different       Korean  Air and Asiana’s market power  in  air cargo between
+considerations apply in key fields: for example, the type of cargo       Europe and South Korea, giving the combined entity the incentive
+transported, i.e. mainly small packages and documents; the type        to reduce capacity and increase prices, and that competitors were
+
+   utilizing  the  available  space  on  flights  primarily  intended  for
+  passengers, without needing dedicated freighter aircraft.
+
+
+
+
+                                                   6
+
+[PÁGINA PDF 8]
+         M.10149 Korean Air/Asiana – a race for cargo space  | Competition Merger Brief No 2/2025
+
+
+
+unlikely to increase their supply sufficiently to counteract the     Remedies
+effects of the Transaction.
+                                                             The complexity of the business model of  air  carriers, where
+First, excess capacity in the market was limited and the merger        services and assets are integrated between passenger services
+further reduced the excess capacity faced by each party pre-      and air cargo transport services, and across a sizeable network of
+merger, thereby  softening competitive  pressure.  In  fact, the        operations, gave rise to complexities with regard to the remedy
+combined excess capacity of all competitors was only a fraction        design. The cargo business of Asiana operating between Europe
+of the Parties’ combined volumes on the routes between Europe      and South Korea was integrated (i) within a network of global air
+and South  Korea.  Rivals’  excess  capacity would have been       cargo operations and (ii) with passenger operations.
+insufficient to fully accommodate the merged entity’s sales thus
+                                                             To ensure that the divestment business would be stand-alone,giving the merged entity an incentive to raise prices. Many of the
+                                                                          viable and competitive, Korean Air committed to divest all airParties’ customers would  not have been  able  to  switch  to
+                                                                  cargo assets and personnel currently owned and employed byalternative  suppliers  to  avoid  the  Parties’  price  increases.
+                                                                  Asiana in the operation of its global cargo freighter activities,Moreover, customers who switched would create an unexpected
+                                                                           including its fleet of freighter aircraft, slots, traffic rights, flightincrease in demand for competitors, who, facing limited spare
+                                                              crew and other employees, as well as customer cargo contracts.capacity, could respond by raising prices even as they take on
+                                                            Any assets solely related to Asiana’s belly space or passengeradditional volumes. These post-merger  price increases would
+                                                                      operations were excluded from the divestment.likely have occurred even without capacity constraints, but the
+combination of reduced spare capacity and the close competition
+                                                                  Given this complexity, the Commission only accepted the remedy
+between the merging parties reinforces the likelihood of higher
+                                                            on the basis of a careful design with  sufficient safeguards,
+prices across the market.
+                                                                           including strict purchaser criteria and an ‘upfront buyer’ solution,
+                                                           a detailed description of the assets and personnel pertaining toSecond, customers regarded capacity in cargo as differentiated
+                                                                     the divestment business  in order to ensure the  viability andas  air cargo services vary by factors such as delivery times,
+                                                                    competitiveness of the divestment business, as well as  strictfrequencies, and  reliability. For example, non-stop connections
+                                                                            legal safeguards ensuring the integrity of the assets during thewith air cargo carriers like those offered by the Parties generally
+                                                                              transition period.represent a  higher  value  proposition  than  connections  with
+transhipment or via integrators. This meant that many of the
+                                                    ConclusionParties’ customers would be unlikely to switch to alternative
+suppliers offering lower-quality capacity at pre-merger prices. As       While the spotlight of concentrations in the airline industry most
+a result, these customers would either face higher prices or be       often  falls on the effects  for passengers, Korean  Air/Asiana
+forced to accept less favourable options, such as transshipment       proves that significant competition issues can also be identified
+or services offered by integrators.                                             in other areas.
+
+Third, competitors faced both structural and economic constraints       Although air transport represents only a small share of the EU’s
+that prevented them from expanding their capacity in practice.       trade volumes,  it accounts for a significant proportion of trade
+These barriers include restricted access to traffic rights, network        value, as it is the preferred mode for high-value, time-sensitive,
+limitations (especially for passenger carriers that transport belly-        or perishable goods. This means that the effects of increased
+hold cargo), and challenges  in acquiring  aircraft and trained       concentration in the air cargo market may ultimately be felt in
+personnel.  Moreover,  even  where  competitors  were  not       our daily lives and cost of living, even beyond travelling. Korean
+constrained by these  barriers, they had limited incentives to        Air/Asiana was a rare example of a case where the Commission
+redeploy  capacity  to  the  Europe–South  Korea  routes  as       took an in-depth look at the specificities of the air cargo market,
+alternative routes within East Asia and Europe appeared to have        investigated what drives the customers’ choice and demand, and
+been more commercially attractive. This further limited the ability       assessed  the  effects  on  competition when  –  in a  highly
+of competitors to offset potential price increases by the merged        differentiated market – the two competitors with the closest
+entity.                                                                   offerings  to one another  decided  to merge. The case  also
+                                                                                illustrated that a  traditional  divestiture remedy  in an  airline
+These  factors  reinforced the Commission’s concern  that the                                                             merger was  successfully implemented and  helped  preserve
+merger could result in a significant reduction of competition,                                                                        competition.
+allowing  the merged  entity  to  exercise market power and
+increase prices between Europe and South Korea.
+
+
+
+
+
+                                                   7
+
+[PÁGINA PDF 9]
+                                                                                      Clean, Just and Competitive Transition
+
+
+
+
+Issue 2/2025 | Article 3
+ Competition Merger Brief
+
+Buying Ansys: A Synopsys of a chip              complementary,       the
+                                                             Commission     expressed
+design story                                                 concerns in three markets    In a nutshell
+                                                            where    their    activities     The            Commission
+Julie Eve, Joachim Marchandise, Leonor Bettencourt Nunes, Ana        directly overlap, and where                                                                                                        conditionally  approved  the
+Pendes                                                                           limited alternatives would                                                                                            combination  of  the  largely
+                                                               remain   post-Transaction.
+Introduction                                                The   Commission    also     complementary   businesses                                                                                                 of the chip design software
+On 10 January 2025, the Commission conditionally cleared the        carefully        assessed      of   Synopsys   and   the
+acquisition of Ansys, Inc. (‘Ansys') by Synopsys, Inc. (‘Synopsys'),        potential competition and      simulation   and    analysis
+for USD 35 billion (the ‘Transaction’) in Phase  I, subject to the       conglomerate relationships     software of Ansys, after they
+divestment of the Parties’ businesses relating to the markets in        to ensure innovation and     committed  to  divest  to a
+which the Commission found competition concerns.                        interoperability would not                                                                                                      suitable purchaser the entire
+                                                             be harmed.
+                                                                                                overlap on the three global
+Synopsys  is a US-based company providing electronic design
+                                                                                           software markets where theautomation (‘EDA’) software tools used to develop and verify the      Relevant Markets
+                                                                                     Commission  had  identified
+design of semiconductor integrated circuits (commonly referred       Electronic       Design
+                                                                                               competition concerns.
+to as  ‘chips’) before these are sent to manufacturing plants      Automation (EDA) tools
+(commonly referred to as ‘foundries’) for production. Synopsys                                                                                                     This case  is an example of
+also offers semiconductor  IP, for instance for memory access,      The   chip   development                                                                                              the Commission assessing an
+which customers can incorporate in their chip designs. Ansys is a       process  typically  consists                                                                                                   innovation-driven    industry
+US-based company  offering  simulation and  analysis  (‘S&A’)       of  the  following  stages:
+                                                                                                affected  by  transformative
+software that  is used across a range of industries (including       design (defining what the
+                                                                                      market trends, such as multi-
+semiconductors) to simulate and analyse the various physical        chip          will         do),
+                                                                                                      die  chip  design,  where   it
+effects (e.g. heat dissipation, wind circulation) encountered by a       implementation   (creating
+                                                                                                   investigated   the   possible
+product in a given environment. Some of Ansys’ S&A tools are      and optimizing the physical
+                                                                                         impact   of   a   proposed
+exclusively used  for the design of semiconductor  chips and       layout   of   the    chip),
+                                                                                                   transaction   from   variouscompete with Synopsys’ EDA tools.                                       functional       verification
+                                                                                                     angles:  actual  competition,                                                                       (ensuring  that  the  chip
+The increasing complexity of chip applications and smart systems        functions according to the      potential  competition  and
+has been driving innovation in EDA, with transformative market       intended  design), physical     conglomerate effects.
+trends such as multi-die1 chips and silicon-to-systems2 shifting        verification   (testing   the
+the chip design paradigm and posing new challenges to be solved        chip’s  layout  design) and  sign-off  (testing  compliance  with
+by EDA tools. In this context, the combination of Synopsys and       foundry requirements and regulations).
+Ansys aims  to address  these  trends by  allowing a deeper
+integration  of EDA  and S&A  software  to  meet  customer       Depending on the chip being developed, customers may use
+requirements.  While   the   Parties’   portfolios   are   largely      between five and twenty EDA tools across the different stages,
+                                                                     often sourced from different EDA companies. Those customers
+1                                                                   thereby  rely  on  the  interoperability  between  the  different  Muti-die chip design consists in integrating multiple dies, or chiplets,
+   into a single package by stacking dies on top of each other (3D design).        vendors’ EDA tools, which ensures that each tool works with an
+2  Chips, software, and hardware of an electronic system being designed       adjacent tool in the design flow, irrespective of the EDA provider.
+  together instead of separately, leveraging virtual models of the chip.
+  The silicon-to-systems design paradigm allows the creation of high-                                                       A  noteworthy  feature  of  the  case   is  the  Commission’s
+   fidelity virtual models of the full physical product (i.e., a “digital twin”
+  including the electronics, electrical and mechanical components) and its      engagement with the  Parties and  their main competitors to
+  changing environment  conditions  to  enable comprehensive  virtual       comprehensively map the Parties’ and their competitors’ EDA
+  testing through simulation                                                      tools,  the  different EDA segments  in which  these  products
+
+
+The content of this article does not necessarily reflect the
+ official position of the European Commission. Responsibility
+for the information and views expressed lies entirely with
+the authors.                                          8
+
+[PÁGINA PDF 10]
+       M.11481 Buying Ansys: A Synopsys of a chip design story  | Competition Merger Brief No 2/2025
+
+
+
+
+compete  with one  another as  well as how  these  products        Parties’  main  competitors)  were  not  considered  to  closely
+interoperate, both with EDA tools from the same provider and      compete with Synopsys or Ansys. 3
+with EDA tools from other providers.
+                                                        Multi-die  chip  design:  no  loss  of  potential
+Based on this feedback, the Commission concluded that markets     competition
+for EDA tools should be defined at the functional (i.e. tool) level,
+without further segmentation into narrower markets, according to        Multi-die chip design is a growing trend in EDA tools, driven by
+the type of chip that is being developed, design stage or industry.       the  increased  demand  for  higher  processing  power  and
+These markets are all worldwide in scope.                           performance  of  chips, namely  for  AI and  hyperscaler data
+                                                                            centers. Such type of design poses more challenges in terms of
+Optics and photonics software                                      multiphysics effects (thermal effects, structural integrity, etc) and
+                                                                       therefore  calls  for better integration between EDA and S&A
+Optical and photonic software are both used to simulate the       software.
+ways in which light behaves, in macro-scale systems (e.g., screen
+or car headlight) for optical software, and in nano-scale systems       Both Synopsys and Ansys have been investing in R&D for multi-
+(e.g., digital camera or solar panel) for photonic software.                die chip design. As previously mentioned, Synopsys focuses on
+                                                                 EDA, while Ansys is a broader S&A player offering EDA tools as
+The Commission concluded that the market for optics software is        part of a wider  portfolio.  Accordingly, Ansys EDA  tools are
+distinct from the market for photonics software, as they each        generally used for multiphysics analysis, which is typically done
+serve distinct purposes.                                                 at the sign-off stage of the EDA design flow.
+
+Semiconductor IP                                                           In this context, the Commission analysed each of Synopsys’ and
+                                                                      Ansys’ R&D projects  in the EDA  field to assess whether the
+While  Ansys  does  not  offer  any  semiconductor   IP,  the       Transaction would result in elimination of potential competition in
+Commission  looked  at  these  products  because  they  are        certain functional markets for EDA tools for multi-die chip design,
+purchased by customers designing chips as well as by companies        specifically whether either of them was likely to grow into an
+developing EDA tools. The Commission concluded that the precise        effective competitor in such markets. In line with case law,4 the
+market  definition  for semiconductor  IP  (predesigned  building      Commission checked whether there were “real and concrete
+blocks that perform a specific function within a chip, and that can                                                                       possibilities”  of  entry  by  reviewing  the  Parties’  internal
+be used in different chip designs), can be left open since the                                                                documents.  It found that the R&D  projects were developing
+Transaction does not raise competition concerns  in  this area                                                                     capabilities that would be embedded into existing tools,
+regardless.
+                                                                which would not be sufficient to enter new markets, and did not
+                                                                 constitute sufficiently concrete plans to develop tools which
+Concerns found  in  three markets where  the
+                                                              would be substitutable with those of the other Party. In addition,
+Parties’ activities horizontally overlap                                                                     the Commission concluded that the economic viability to enter
+Synopsys and Ansys’ tool offerings are largely complementary,        certain specific markets was merely hypothetical and there were
+and the Transaction gives rise to nine horizontal overlaps      other potential competitors (namely S&A players) better
+in EDA tools and optics and photonics software. The Commission      placed to enter those functional markets.
+investigated  the  effects  of  the  Transaction on  overlapping        In conclusion, the internal documents showed that these R&D
+markets where the Parties hold high market shares.                      projects would only increase the functionality of existing tools but
+                                                        would not lead either party to enter new markets.
+In optics and photonics software,  the  Parties’ combined
+market shares post-Transaction are significant. The Commission     Conglomerate links
+had competitive concerns on these markets, as  the market
+                                                             As part of the transaction rationale, Synopsys announced theinvestigation confirmed that the Parties’ tools compete closely
+                                                                           integration of Ansys’ software with its own. The Commission’sand switching provider will be difficult given the limited number
+                                                              assessment therefore also concerned the Parties’ relationships inof credible alternatives remaining on both markets.
+                                                                            closely related EDA markets and semiconductor IP. Both Synopsys
+In EDA tools, the Commission focused its investigation on the      and Ansys supply EDA tools, albeit largely at different stages of
+tools offered by the Parties at the chip design stage for analysing          3                                                                       The Commission dismissed concerns  in  the  six  other EDA  tools’
+how much power a chip consumes (called register-transfer-           overlaps, where the Parties’ combined share is moderate, the increment
+level (‘RTL’) power consumption analysis tool), where the          brought by the Transaction is limited, sufficient credible alternatives
+                                                                         remain or when the Parties’ EDA tools compete loosely.combined share  is high. The Commission concluded that the          4                                                                             General Court judgment of 13 November 2024, Deutsche Telekom AG v
+Transaction raises competitive concerns, since the Parties’       CMA  (T-64/20,  ECLI:EU:T:2024:815), paragraph 135 and  Court  of
+tools have  similar  features and Cadence and Siemens  (the           Justice judgment of 30 January 2020, Generics (UK) e.a. v CMA (C-
+                                                                            307/18, ECLI:EU:C:2020:52) paragraph 36, and case law cited therein.
+
+
+
+                                                   9
+
+[PÁGINA PDF 11]
+       M.11481 Buying Ansys: A Synopsys of a chip design story  | Competition Merger Brief No 2/2025
+
+
+
+
+the chip design process (commonly referred to as the design      most  cases,  while  for  products  interoperating  based  on
+flow). Most of Ansys’ EDA tools are typically used for the physical        proprietary interfaces, industry standards are a "fall-back" option
+verification and sign-off analysis,  i.e. for the final stage of the         in  almost  all  cases.  Further,  interoperability  between EDA
+chip design flow before sending the chip for manufacturing in the       software as well as design IP is particularly important in the chip
+foundry. In contrast, Synopsys offers a suite of EDA tools used       design  process. EDA  vendors  are  generally  incentivised  to
+across all chip design stages EDA tools interoperate in the chip       maintain    effective    interoperability   and    interoperability
+design  process by exchanging data  through a  bi-directional      agreements are a standard practice. In addition, customers often
+import or export relationship. Interoperability is required for EDA      demand interoperability as they generally do not rely on a single
+tools to function properly as it enables EDA tools to read input       vendor’s tools for an entire chip design flow but choose the “best
+from other EDA tools and send output that can be read by other       of breed” EDA tools and semiconductor IP. Finally, the merged
+EDA tools in the chip design flow. In addition, customers usually        entity’s main EDA competitors have themselves strong EDA tools
+mix and match several EDA tools from different vendors  in        that customers combine with Synopsys’ and Ansys’ EDA tools and
+search of “best of breed” tools. In that context, interoperability is        that must effectively interoperate. Such mutual dependence on
+particularly important as it enables the tools of different vendors        interoperability gives rivals ample possibility to retaliate.
+to work well together. On a similar basis, the Commission also
+considered  the  relationship between  Ansys’ EDA  tools and        In terms of incentives, the Commission found  it unlikely that
+Synopsys’ semiconductor IP. Companies designing a chip need to        sufficient customers would switch to the merged entity’s EDA
+procure both semiconductor IP and EDA tools, and EDA tools are        tools  or  semiconductor   IP  to  make  any  hampering  of
+also  used  by  semiconductor  IP  licensors  to  develop  their        interoperability  or  anticompetitive  bundling  profitable  post-
+semiconductor IP.                                                        Transaction. For instance, some EDA tools pairings based on
+                                                                          proprietary interfaces are not used by a significant proportion of
+The Commission considered two practices by way of which the       customers, because they are an optional step required only for a
+merged entity could potentially leverage a strong position in EDA        specific use-case. In addition, having investigated Synopsys’ and
+and semiconductor IP markets to foreclose its competitors in EDA       Ansys’ past acquisitions and industry practices, the Commission
+and  semiconductor  IP  markets:   (i)  technical  tying  via  total       found no convincing evidence of examples where the Parties
+restriction or degradation of interoperability between EDA tools      hampered  interoperability or refused to  sell EDA tools on a
+and EDA tools and semiconductor IP based on industry standards       standalone basis.
+and/or proprietary interfaces, and (ii) anticompetitive (pure and/or
+mixed) bundling. As part of the Transaction rationale, Synopsys      The Commission ultimately concluded that Synopsys would not
+was planning to “natively” integrate some of Ansys’ EDA tools      have the ability or the incentive to foreclose competitors in EDA-
+into Synopsys’ EDA tools at the source code level such that they      and semiconductor IP markets, either through totally restricting
+deliver their capabilities as one single product. Native integration        or degrading  interoperability or by means of anticompetitive
+is generally not possible between EDA competitors due to the       bundling to such an extent that competitors could no longer
+risks of IP expropriation that appear when combining EDA tools at        effectively compete or have no counter-strategies available to
+the  source  code   level.  When   investigating  impact  on       them. The evidence further confirmed that the effect of any such
+interoperability,  the  Commission  focused  on  whether  the        strategy would in any case be limited.
+Transaction could change the existing interoperability between
+the parties’ and rival EDA tools enabling effective competition,     Remedies addressing all competition concerns
+while the future native integration between the Parties’ products                                                                  Given the  Parties’ important position  in optics and photonics
+was not considered in this context.                                                                       software,  Synopsys  offered  at  an  early  stage  of  the
+                                                                Commission’s investigation to divest Synopsys’ optics and
+The Commission concluded that the merged entity would not
+                                                              photonics  businesses  (‘OSG  business’).  To  address  the
+have the ability or incentive to foreclose EDA and semiconductor
+                                                                Commission's  competitive  concerns  based  on  the  marketIP competitors, with either foreclosure strategy.
+                                                                              investigation, Synopsys also committed to divest Ansys’ RTL
+In terms of ability, the Commission found that the merged entity      power consumption software (‘PCA business) to a suitable
+would   unlikely  have   the   technical   ability   to  hamper       purchaser. These commitments cover the entire overlap  in
+interoperability between its EDA tools and semiconductor IP, and       terms of the Parties' respective activities in the markets where
+third-party EDA tools. The investigation distinguished between       the Commission identified competition concerns.
+different types of interoperability to fully assess the practical
+ability to diminish interoperability. Nearly all design IP and EDA        In  light of the  results of the market  test, the Commission
+tools interoperate through industry-based standard interfaces       considered that the remedies are suitable to address the
+(“baseline  interoperability”), but companies may also develop      Commission’s competition concerns by ensuring that there
+proprietary interfaces. The investigation confirmed that it would         will be sufficient competition and choice in optics and photonics
+be  unlikely  possible  to hamper  baseline  interoperability.  In
+addition, interoperability is based only on industry standards in
+
+
+
+                                                  10
+
+[PÁGINA PDF 12]
+       M.11481 Buying Ansys: A Synopsys of a chip design story  | Competition Merger Brief No 2/2025
+
+
+
+software and in RTL power consumption analyse software.5 The      arrangement” where  they  will agree  not  to  enforce  their
+Commission also concluded that the remedies include all assets       intellectual  rights   (‘IP’)  relating  to  the  divestment
+and staff that contribute to the current operation, or are       businesses,  that needed  to be reviewed by the monitoring
+necessary to ensure the viability and competitiveness, of        trustee and  the Commission  at  the time  of  the  purchaser
+the OSG business and PCA business (in particular, all tangible and        approval. The signed purchase agreements did not contain a
+intangible assets, as well as licenses, authorisation, contracts,        “non-assertion” clause, and the Parties have not entered into any
+personnels,  and  transitional  supply  arrangements).  In  that       separate agreement. The Parties explained that the transfer of
+respect,  the Commission   required a  clear and  exhaustive       the IP assets in a legally valid and proper manner serves as a
+description of what is included in both PSG business and OSG        self-executing non-assertion mechanism. The Trustee, as well as
+business to ensure the purchaser has everything  it needed to       the Commission, agree with this approach.
+operate in the markets  .
+                                                             The  Commission  has  been  in  close  contact  with  national
+The  Parties were  in discussions with a technology company       competition authorities which had to assess the transaction, such
+already active in software tools designed to support electronic       as the Competition and Markets Authority in the United Kingdom,
+design and simulation, Keysight. The Parties had already signed       during   its  investigation  and  including  for  the  remedies
+the purchase agreement with Keysight for the OSG business but       workstream. The national competition authorities also authorised
+had not had time to finalise an agreement with Keysight for the       the transaction with remedies.  .
+PCA  business  before  submitting  the  commitments.  The
+Commission considered there to be a need for an additional     Conclusion
+safeguard  in the form of an upfront buyer clause as the
+market test revealed little interest of buying in the PCA business6.      The  Commission's   investigation  showed   that,  while  the
+Therefore,  Synopsys would  only be  able  to implement  the       companies' activities are largely complementary, the transaction,
+acquisition  of  Ansys  following  the  approval  of a  suitable       as initially notified, would have reduced competition in the global
+purchaser. The Commission also requested to have a condition       markets  for the supply  of:  (i) optics software;  (ii) photonics
+that any purchaser must be active in the EDA sector.                    software; and (iii) RTL power consumption analysis software.
+
+Based on the reasoned opinion from the monitoring trustee, the       However, the comprehensive commitment package - involving the
+purchaser and the purchase agreements were approved by the       divestment  of  the  entire  overlap  on  the  above-mentioned
+Commission on 23 May 2025. In its purchaser approval decision,       markets - fully addresses the competition concerns by ensuring
+the Commission:                                                        that there  will be  sufficient competition and choice  in  said
+                                                                    markets.
+    a)  Considered  that  Keysight  fulfils  all the Purchaser
+       criteria as set out in the commitments, including that it        In a separate procedure, the Commission has approved Keysight
+      has the resources, expertise, and incentive to maintain       as a  suitable  buyer  for  the  divested  businesses,  allowing
+      and develop the divestment businesses as a viable and       Synopsys to proceed with the acquisition of Ansys.
+        active competitor.
+                                                                         This case  is an example  of  the Commission assessing the    b)  Concluded that the purchase agreements relating to
+                                                                        possible impact of a proposed transaction from various angles:       the OSG business and the PCA business are in line with
+                                                                        actual  competition,  potential  competition  and  conglomerate
+      the commitments.
+                                                                               effects.
+    c)  Approved Keysight as a suitable purchaser.
+                                                                                                                                                                   .
+It is worth mentioning that the commitments contained a “non-
+assertion mechanism”. The commitments mentioned  that the
+Parties  and   Keysight   will   enter   into  a  “customary
+
+
+5 Based  on  the  results  of  the  market  test,  the  following  main
+  improvements have been made  in the  final commitments:  (i) the
+  purchaser will have to be active in the EDA sector, (ii) clearer wording
+  with respect to intellectual property rights,  (iii) customer contracts will
+  be transferred in their entirety (including intellectual property rights
+  and  price  terms),  and   (iv)  interoperability  agreements   will  be
+  transferred to the purchaser.
+6 While  Keysight had  already  signed  the agreement  for  the OSG
+  business, the commitments did not mention Keysight as the purchaser
+  and the assessment was therefore not a  fix-it-first but a standard
+  assessment. However, given the above agreement the Commission did
+  market  test the  suitability of Keysight as purchaser of the OSG
+  business.
+
+
+
+                                                  11
+
+[PÁGINA PDF 13]
+                                                                                                    Clean, Just and Competitive Transition
+
+
+
+
+Issue 2/2025 | Article 4
+ Competition Merger Brief
+
+International Paper / DS Smith – Blurred       Against this background, in
+                                                                                            its 2025 assessment of the
+Lines in a Square-Box Deal                             Transaction,            the    In a nutshell
+                                                             Commission    not    only      Following   a   Phase      I
+Anne Jussiaux, João Barreiros, Schéhérazade Oozeerally, Gonçalo        carefully    reviewed     all      investigation,           the
+Gomes                                                                      overlaps   between    the     Commission    conditionally
+                                                                               Parties’  activities but also      cleared  IP’s  acquisition of
+1. Introduction                                                assessed in detail whether     DSS, bringing together two
+On 24 January 2025, the European Commission conditionally       the  competitive  landscape      global paper and packaging
+cleared  International  Paper’s  acquisition  of DS  Smith  (the         in these  specific areas of      suppliers.
+‘Transaction’). International Paper  (‘IP’, United States) and DS       France  and  Portugal  had
+Smith (‘DSS’, United Kingdom) (together, the ‘Parties’) are two      changed    sufficiently   to     While                largely
+vertically integrated companies active worldwide  in the  pulp,       warrant    a     different     complementary,        the
+paper, and packaging sectors.                                          conclusion from the one in      Transaction   as    initially
+                                                                     the DSS/Europac case.            notified    would    have
+This Transaction combines two paper and packaging companies                                       resulted  in high combined
+with geographically complementary activities, with IP primarily        This   Brief  analyses  the     market     shares,     high
+active  in  the US and DSS  in  the  EEA.  Despite  this,  the       Commission’s approach  to      concentration   levels,  and
+Commission’s Phase  I market  investigation showed that the       competitive issues raised by                                                                                                             insufficient      remaining
+Transaction, as initially notified, would have reduced competition         this  Transaction  and  the                                                                                                 competitive   pressure   in
+in many  local markets  for the manufacture and supply  of       remedies   ultimately   put                                                                                                       certain  local  markets  in
+corrugated sheets and cases in France, Portugal, and Spain.             forward by the Parties.                                                                                                    France, Portugal, and Spain.
+                                                             2. Unclear marketA consolidation wave in the paper sector?                                                       Following the submission by
+In recent  years, a number of M&A deals  in the paper and      definition borders          the     Parties     of    a
+packaging sectors suggests that the industry might be witnessing                                                                                In the EEA, the Parties are     comprehensive     remedya  consolidation  wave.  By way  of  example,  in 2025  the
+                                                                     notably active in the supply     package,   by   which   IPCommission cleared the acquisition by Mondi (United Kingdom) of
+the Western European  operations  of Schumacher Packaging       of  corrugated  sheets and     committed  to  divest  five
+(Germany).1 A year earlier, it had approved the merger between        cases.  Corrugated  sheets      plants     in    the    EEA,
+Smurfit Kappa (Ireland) and WestRock (United States), creating       are made  of base paper      eliminating    the    entire
+Smurfit WestRock, a global paper and packaging company.2           components    (i.e.,  flutings      overlaps in the problematic
+                                                           and   liners).  Sheets  are      areas,   the   Commission
+The Commission had looked at corrugated packaging markets in      combined to form the walls      could clear the Transaction.
+some of the same regions in the context of DSS’s acquisition of       of corrugated cases. These
+Europac in 2018.3 In that case, competition concerns relating to       cases –   i.e., boxes – are
+France and Portugal had required DSS to divest two plants in      used by  businesses  to  deliver  their  products  to  customers.
+France and one in Portugal. The remedy taker at the time was IP.       Corrugated  cases’  walls may be one  or more sheets  thick,
+As  such,  by  possibly  combining  DSS’  and  IP’s  corrugated       depending on the transported products.
+packaging   activities,  the  Transaction  would  have  united
+businesses that the Commission had required to remain separate      Product market definition. The investigation showed that it is
+only a few years prior.                                              necessary to segment the markets for corrugated sheets and
+                                                                         cases, between conventional and heavy-duty products. This  is
+1 M.11786 – Mondi  / Schumacher Packaging (German & Dutch & UK       because heavy-duty cases’ walls are thicker, more resistant, and
+  Business).
+2 M.11323 – SKG / WestRock.                                             therefore more expensive to produce than conventional ones. As
+3 M.8915 – DS Smith / Europac.                                            such,  heavy-duty  cases  are mostly  procured by  businesses
+
+
+
+The content of this article does not necessarily reflect the
+ official position of the European Commission. Responsibility
+for the information and views expressed lies entirely with
+the authors.                                          12
+
+[PÁGINA PDF 14]
+             M.11564 International Paper / DS Smith – Blurred Lines in a Square-Box Deals |
+                                   Competition Merger Brief No 2/2025
+
+
+delivering bulkier, heavier, and/or delicate products to customers       otherwise deteriorate the quality of  (i) conventional corrugated
+(e.g., automotive spare parts). Companies active in the sector       sheets  in  the  North and West  of  Portugal,   (ii)  heavy-duty
+agree that a distinction should be made, but, in the absence of an       corrugated sheets  in North-East Spain, and  (iii) conventional
+industry-wide definition, disagree on what exactly qualifies as a       corrugated cases in North-West France.
+‘heavy-duty’ sheet and case. Most market participants consider
+that products with three sheets or more are to be considered      The Commission’s conclusions were supported by the large pre-
+heavy-duty, while it was difficult to determine at which point the       Transaction market share of DSS in the relevant markets, the
+weight would mean that a two-sheet case is heavy-duty.                  significant  increment  from  IP,  the  high  degree  of  market
+                                                                         concentration, the closeness of competition between the Parties,
+Geographic market definition. The transport costs of sheets      and  the  absence  of  sufficient  competitive  pressure.  The
+and cases are  relatively high compared to the low cost of      Commission  also  noted  high   barriers   to   entry,   limited
+production of these simple products, making it uneconomical to        countervailing buyer power, and negative market feedback from
+transport them  beyond  a  limited  distance.  Most  suppliers       both customers and competitors.
+informed the Commission that they supply within a certain radius
+around their plants, while customers agreed that proximity of      Sheets in Portugal
+suppliers to their own factories was of key importance.             When the Commission last assessed the competitive landscape in
+                                                                           Portugal, in its 2018 DSS/Europac decision,  it found significant
+In cases with these characteristics, the Commission may  define        levels of concentration  in the local markets for conventional
+the relevant geographic markets based on catchment areas. The       corrugated sheets.
+exact market boundaries and the methods used to define the size
+of catchment areas can vary significantly from sector to sector.      The Parties argued that the market had changed significantly
+With  this  Transaction,  supply  patterns  revealed  that  it was        since then, with expansion by existing competitors and entry by
+appropriate to define catchment areas corresponding to radii of      new  players. To  verify  the  accuracy  of  this argument,  the
+(i) 400 km from the Parties’ plants producing corrugated sheets      Commission conducted a market reconstruction by collecting the
+and  (ii) 300 km from the Parties’ plants producing corrugated       actual sale volumes of all main competitors in the Portuguese
+cases.                                                               markets. This exercise found that the Parties’ accounted for [40-
+                                                       50]% of the relevant markets, a much higher estimate than that
+For  purposes  of market  share  calculation,  the Commission       submitted by the Parties.
+considered all sales generated by each production plant in the
+catchment area, regardless of where these actually took place, in      The Commission's market investigation further concluded that
+line with the Market Definition Notice.4 In addition, it explored an       there were high barriers to entry in the market and a lack of
+alternative approach whereby the sales of each production plant        credible supply alternatives. Corrugated sheets suppliers active in
+would be proportionally allocated to a catchment area only  if       Portugal were found to focus their production predominantly on
+they were made to customers in that catchment area. In this        their  own  internal  needs   (for  subsequent  production  of
+case,  the  alternative  proportional  approach  did  not  yield       corrugated cases) rather than on external sales available to the
+significant market share differences.                                  wider market. On that basis, customers producing corrugated
+                                                                 cases showed widespread concern that they would be vulnerable
+Topographic elements, insofar as they impacted the delivery of        to significant price increases post-Transaction.
+the relevant products, were also reflected in the analysis. By way
+of example, the fact that, practically, corrugated sheets are not     Cases in France
+transported from the island of Sicily to mainland Italy (or vice-        In France, the market investigation revealed that the competitive
+versa) led the Commission to consider that the Parties were not        situation did not dramatically change since the Commission’s
+actual competitors in this region – while both are active in the       previous review of the relevant markets in the context of the
+same catchment area covering Sicily and part of the mainland,       DSS/Europac transaction.
+one of them is active on the island and another on the mainland.
+                                                                   While in most catchment areas the Transaction did not raise
+3. Competitive assessment                                     concerns, the Commission found that the Transaction would raise
+                                                                        serious  doubts  in  the  North-West  region.  In  the  relevant
+As the  relevant markets are  local, the market  investigation
+                                                               catchment areas, not only would the Parties have had high
+required a tailormade approach to obtain feedback from purely
+                                                              market shares, but the Transaction would also have further
+local, often family-owned, businesses in several EU countries. The
+                                                                         reinforced an already high level of concentration in the markets.
+investigation showed that, in view of the Parties’ overlaps, the
+                                                                                In most areas, the top two competitors, including the merged
+merged entity would be able to increase price, reduce output, or
+                                                                                    entity, would have represented more than 60% of the market,
+                                                           and  in  some  cases  more  than  80%.  The  Commission’s
+4 Communication from the Commission – Commission Notice on the
+                                                                           investigation also revealed that despite IP having more limited   definition of the relevant market for the purposes of Union competition
+  law, OJ C/2023/6789 (‘Market Definition Notice’), paragraph 109.            market shares, the Parties were close competitors.
+
+
+
+                                                  13
+
+[PÁGINA PDF 15]
+             M.11564 International Paper / DS Smith – Blurred Lines in a Square-Box Deals |
+                                   Competition Merger Brief No 2/2025
+
+
+The market investigation also confirmed that one competitor had       overlaps  in these areas and allowing the new purchaser  to
+expanded  its capacity by opening a new plant. However, the        replicate IP’s current position in those areas. The Commission’s
+production plant was either not located in the same catchment       assessment confirmed that the plants were viable and relatively
+area  or  the  added  capacity  would  not  be  sufficient  to      autonomous entities, that could be easily transferred to another
+substantially change the competitive dynamics.                        owner, especially as three of them had been previously divested
+                                                              by DS Smith in the context of the DSS/Europac transaction.
+As a  result, customers would have been  left with very few
+alternatives  post-Transaction and  limited  options  to  secure        In view of the local nature of the problematic markets, the plants
+competitive prices.                                                       did not have to be divested to a single purchaser, with the
+                                                                      exception of the French plants, which had to be divested as a
+Sheets in Spain                                                  package, in order to recreate the competitive pressure exerted by
+In  Spain,  the  Commission’s  market  reconstruction  similarly        IP locally.
+resulted  in  market  shares  significantly  higher  than  those
+estimated by the Parties. This was particularly true in the markets         Finally, the commitments provide  that the purchaser of the
+for heavy-duty sheets in North-East Spain, where the Parties had       divested plants must have a preexisting footprint in the paper
+initially estimated a market share of [20-30]% and [30-40]%        industry in the EEA or in the UK (with plans for expansion in the
+around the two local markets. The Commission’s reconstruction        EEA), in particular in the production of corrugated sheets and/or
+rather pointed to significantly higher combined market shares,        cases.
+which also suggest the markets changed materially since the
+Commission’s decision in the DSS/Europac case.                     4. Conclusion
+                                                             The Commission’s review of this Transaction reflects its extensive
+The Commission's market investigation corroborated this finding,                                                                     experience in the paper and packaging paper sectors, in a period
+with market participants concerned that no sufficient alternative
+                                                                      of growing M&A deals in this industry. The expertise allowed the
+to  the  Parties now merging  existed. The Commission  also
+                                                             Commission to navigate the blurred boundaries of product and
+contacted heavy-duty sheet suppliers in neighbouring countries to                                                                   geographic market definition and assess the Transaction’s effects
+enquire whether they could step in to serve the Spanish market.
+                                                                                   in the dozens of affected catchments areas throughout Europe –
+This outreach however confirmed that  it was uneconomical to                                                                         within a Phase I timeline.
+transport heavy-duty sheets beyond a certain distance, and that
+customers in the Spanish market could not rely on international                                                                     At the same time, this experience allowed the Commission to
+suppliers.                                                                              clearly identify, at an early stage of the procedure, the most
+                                                                    problematic areas of concern  in France, Portugal, and Spain,
+3. A déjà vu divestment package                           paving the way to an efficient Phase I investigation and clear-cut
+As a rule, the Commission accepts remedies in Phase I when they       remedies.
+unambiguously   eliminate   competition   concerns.   Structural
+                                                                                     Finally, this Transaction illustrates the Commission’s openness tosolutions removing the  entire overlap normally  qualify, as a
+                                                                   approving complex deals between large global operators in Phaseclear-cut solution. The divested assets also need to be a viable
+                                                                                                                                       I, provided that their activities are largely complementary and/orbusiness that a purchaser can use to effectively compete post-
+                                                                     the   parties  present  comprehensive  divestment  packagestransaction on a lasting basis.
+                                                                         eliminating – in a clear and straightforward manner – all the
+In this case, IP offered to divest  all  its plants located in the       Commission’s serious doubts.
+problematic catchment  areas,  thereby  eliminating  the  entire
+
+
+
+
+
+                                                  14
+
+[PÁGINA PDF 16]
+                                                                                      Clean, Just and Competitive Transition
+
+
+
+
+Issue 2/2025 | Article 5
+ Competition Merger Brief
+
+Constantia / Aluflexpack – Unpacking              detect), thereby forcing the
+                                                                       container and lid producers
+comPETition concerns                                      to adjust their production.       In a nutshell
+
+                                                                                                             In particular in a context ofRosa Aldonza Rubio, Amine Mansour, Constanza Marco Dufort,       While wet pet food is also
+Caterina Papadimitriou, Andreas Sowa                              packaged      in     other      high  grocery   prices,  food
+                                                                                   makers should have access                                                                  packaging  materials   like
+Introduction                                                              plastic  pouches,  supply-      to   affordable   packaging
+                                                           and         demand-side      materials      that      areOn 29 January 2025, the Commission conditionally cleared the
+                                                                               substitutability  is  limited.      competitively produced.acquisition of Aluflexpack AG (‘AFP’, Switzerland), by Constantia
+                                                              Not all suppliers make both
+Flexibles GmbH (‘Constantia’, Austria).                                                        The     combination      of                                                                aluminium-  and   plastic-
+                                                                                               Constantia and AFP  would
+Both AFP and Constantia produce many packaging products and      based   wet   pet   food
+                                                                                     have  created a  very  large
+they are both strong players in aluminium packaging for human       packaging, and  significant
+                                                                                                  player    in   the   alreadyfood (e.g. aluminium foil for chocolate). But the main overlap in       investment  is needed  to
+                                                                                              concentrated market for wetthe parties’ activities concerned the production and supply of       enter    the    aluminium
+aluminium packaging for wet pet food. As this overlap gave rise       segment. This is the case,      pet     food     aluminium
+to competition concerns, the  parties offered  to  divest AFP’s         in  particular, due  to  the      packaging.
+overlapping activities in aluminium wet pet food packaging.              required expertise and long                                                                                      The   proposed   remedies                                                                             qualification times to get a
+                                                                                                          alleviate  that  concern, and
+Aluminium packaging for wet pet food                new  containers  and  lids                                                                                           ensure  that  the  purchaser,                                                                    product  into  the  market.Aluminium  is used as a packaging  material  for many end                                                                                        MTX,  is able  to  effectively                                                                              Also, pet-food makers areapplications, including for a wide range of food products. While                                                                                    compete post-transaction by                                                                           unwilling  to  switch awayalternative packaging materials are in use for food products (e.g.                                                                                     becoming            vertically                                                            from aluminium containerspaper or  plastic, depending on the food product in question),
+                                                           and    lids,   because   a      integrated, hence managingaluminium has certain characteristics that make it preferable for
+                                                           segment of end-customers      the availability and quality ofsome  customers  and  end-uses.  For  example,  aluminium
+                                                                    value the barrier protection       its own material supplies.packaging  is in principle infinitely recyclable and has superior
+                                                                              qualities of aluminium andbarrier  protection  qualities  compared  to  other  packaging
+                                                                           single-portion containers.materials (ensuring long shelf-life while retaining the high quality
+of the packaged product).
+                                                    Constantia and AFP
+In particular, aluminium containers and lids used for packaging     are market leaders
+wet pet food are complex products. Wet pet food is packaged into
+                                                                Europe is a centre of excellence for aluminium production. This
+the container, the container is closed with a  lid, and then the
+                                                                         applies also in particular to aluminium for food packaging and
+packaged wet pet food is retorted,  i.e. the pet food is cooked
+                                                              even more so for complex packaging like retortable containers
+inside the sealed packaging, thereby making it storable for a long
+                                                           and lids (for wet pet food or human food like pâté). Therefore,
+time. This means that the closed container and lid have withstood
+                                                                       there are no relevant imports of aluminium containers and lids
+the  retorting process, while remaining easy to open  for the
+                                                                            for wet pet food into Europe – in fact, European producers export
+customer.
+                                                                       containers and lids to the rest of the world.
+
+Crucially, aluminium containers and lids for wet pet food also
+                                                                                In the European market for aluminium containers and lids for wet
+have to pass quality control with a group of very picky testers:
+                                                                     pet food, Constantia and AFP would have had a very large
+pets. Pet food makers test their packaged food products with cats
+and dogs – the pets may reject certain batches of the containers
+and lids (smelling or tasting impurities impossible for humans to
+
+
+The content of this article does not necessarily reflect the
+ official position of the European Commission. Responsibility
+for the information and views expressed lies entirely with
+the authors.                                          15
+
+[PÁGINA PDF 17]
+  M.11536 Constantia / Aluflexpack – Unpacking comPETition concerns  | Competition Merger Brief No 2/2025
+
+
+
+
+combined  market  share  [70-80%].1 The  transaction  brought        things) (i) the suitability of MTX as a potential purchaser, and (ii)
+about a significant increment [20-30%], and the market was       whether  the  separation  of  AFP’s  upstream  pre-treated  foil
+highly concentrated overall. Post-transaction, only two rivals with       production  from  AFP’s  downstream   retortable  aluminium
+a market share of more than 5% would have remained.                 containers and  lids production would prevent the Divestment
+                                                                   Business from operating on the market on a long-term basis.
+The Commission's market  investigation  further showed  that
+Constantia and AFP competed head-to-head for customers, and       While the market test broadly confirmed the suitability of MTX, it
+that customers considered them to be close competitors. Further,        raised some key  risks about the proposed  structure of the
+the barriers to entry and expansion in the production and supply       remedies. In particular, market participants highlighted that they
+of aluminium containers and lids for wet pet food are significant,        did not consider that a purchaser, such as MTX, would be able to
+as explained above.                                                         start  producing  internally  the  pre-treated  foil,  which would
+                                                                  disadvantage that purchaser in the market. Indeed, customers
+In light of these market dynamics, customers expressed concerns        prefer to purchase aluminium retortable containers and lids from
+that the acquisition of AFP by Constantia would lead to a price       producers who are vertically integrated, for both quality and cost
+increase for retortable aluminium containers and lids for wet pet        considerations. Furthermore, the customers for containers and
+food in Europe. Such price increases for pet food makers could in         lids indicated that it was very difficult to begin production of this
+turn  translate  to  higher  prices  for customers  shopping  for          foil internally, meaning that  it would be necessary for AFP to
+packaged wet pet food.                                                  transfer knowledge to the purchaser of the Divestment Business.
+
+Remedies                                                                  In light of this feedback, the parties introduced into the remedies
+                                                           a Technology Transfer Agreement (‘TTA’), enabling the purchaser
+In  order  to address the Commission’s  concerns, the  parties
+                                                                          to replicate AFP’s capabilities to internally produce the required
+submitted structural remedies.
+                                                                       pre-treated  foil. On  the  basis  of  these  improvements,  the
+                                                             Commission  conditionally  approved  the  Transaction  on 29The remedies consisted of the divestiture of AFP’s entire EEA
+                                                                 January 2025 and MTX as a purchaser on 6 May 2025.business for retortable aluminium containers and lids for wet pet
+food and for the human food business of AFP, removing the
+                                                             The  structural remedies enable MTX  to run the Divestment
+complete overlap between the parties’ activities in these two
+                                                                   Business as a viable competitor on the market on a lasting basis,
+markets (‘Divestment Business’). The remedies did not include
+                                                                         replacing the competition that would have been lost following the
+AFP’s upstream production assets for pre-treated (co-extruded)
+                                                                   merger. The remedies will also enable MTX to become vertically
+aluminium foil which AFP used for the production of retortable
+                                                                        integrated and, therefore, a fully independent market player, able
+aluminium  lids for pet and human food. These assets were
+                                                                          to compete with the parties on an equal footing.
+located in another AFP plant.
+In parallel, the parties indicated that they had signed a Share and     Conclusion
+Purchase Agreement  with MTX Group  a.s  (‘MTX’), a  holding      The  transaction  as  notified would  have  left  customers  of
+company  active  in  packaging  via  its  subsidiary AL INVEST       aluminium containers and  lids  for wet pet food with fewer
+Břidličná, a.s. (‘AL Invest’), which produces flexible packaging for       choices and the risk of price increases. The divestiture of AFP’s
+food,   non-food,  animal   feed,   industry,  and  household       aluminium  containers and  lids  packaging  business  to MTX
+applications.                                                         preserves  effective  competition  in  the European market  for
+                                                               aluminium containers and lids for wet pet food and ensures that
+The Commission conducted a market test on these remedies. In                                                               European pet food shoppers will not be harmed.
+particular, the Commission sought to understand (among other
+
+
+
+
+
+1 With respect to aluminium containers and lids for human food, the
+  Parties have a combined market share of [50-60%] – the Commission
+  also found competition concerns with respect to this market.
+
+
+
+                                                  16
+
+[PÁGINA PDF 18]
+                                                                                      Clean, Just and Competitive Transition
+
+
+
+
+Issue 2/2025 | Article 6
+ Competition Merger Brief
+
+Safran/Collins – Remove Concerns               change    during     flight,
+                                                                   minimising    drag   and
+Before Flight                                                   helping  the   aircraft   fly    In a nutshell
+                                                         more    smoothly    and      Safran’s acquisition of parts
+Fotios Filios-Metentzidis                                                                                    efficiently.  This  not  only      of      Collins     Aerospace
+                                                                 improves       passenger                                                                                                recreated an overlap in the
+Introduction                                                   comfort but also leads to                                                                                               supply of THSA systems that
+On 4  April 2025, the Commission conditionally approved the       lower   fuel  consumption      the Commission had found
+acquisition of parts of Collins Aerospace’s actuation business       and, as a  result, reduced      problematic  in  a  previous
+(‘the Target’) by Safran S.A. (‘Safran’) (together referred to as ‘the      CO₂ emissions—making  it      concentration.          The
+Parties’).                                                    an  important  feature  for     Commission     conditionally
+                                                         more sustainable aviation.                                                                                                 cleared   the    transaction,
+Safran, headquartered in France, is involved in the entire lifecycle                                                                                                   subject to the divestment of                                                                  Safran became one of theof engines, systems, and equipment for both civil and military                                                                                                 Safran’s THSA operations.                                                            two  largest  suppliers  ofaircraft. The Target, part of RTX (formerly Raytheon Technologies,
+                                                        THSA  systems  in  2018,previously United Technologies Corporation), is an aerospace and                                                                                      Even though at the time of
+                                                       when it acquired the THSAdefence company based  in the United  States. Through  this                                                                                                           notification   Safran   had                                                                    business     of     Unitedtransaction, Safran will strengthen its presence in the aerospace                                                                                               already agreed to divest its                                                                    Technologies   Corporationsector  and  expand    its   product   offerings   for   aircraft                                                                               THSA business to Woodward,                                                                                     (‘UTC’), as a remedy buyermanufacturers in both civil and defence sectors.                                                                                              the Commission, adhering to                                                                                   in  the  context  of  UTC’s
+                                                                                              the  standard  practice  andInitially,  Italy vetoed Safran’s  acquisition of Microtecnica, an        acquisition   of   Rockwell
+                                                                                                        legal  framework,  reviewedItalian subsidiary of the Target, on public security grounds. This        Collins (M.8658 – UTC   /
+                                                                                              the  entire  scope  of  theveto was later lifted following bilateral discussions between Italy       Rockwell    Collins).   Back
+and Safran, without impacting the Commission’s review.                  then, the Commission had      transaction and treated the
+                                                               found that the combination     divestment  as  a  formal
+Both Safran and the Target operate globally, manufacturing a       of  UTC’s  and  Rockwell     remedy.
+wide array of aircraft systems and components. While most of         Collins’  THSA  businesses
+                                                                                      The  case  underscores  thethe horizontal overlaps and non-horizontal relationships arising      would   raise  competition
+                                                                                          importance  of  internationalfrom   this   transaction  were  deemed  unproblematic,  the        concerns.
+Commission's  investigation revealed  that the  transaction, as                                      regulatory       cooperation,
+initially  notified, would reduce competition  in the market for      By  acquiring  the  Target,      exemplified     by      the
+trimmable horizontal stabiliser actuator systems (THSA), because       Safran would recreate the      coordinated  efforts  of  the
+Safran and the Target were two of the main THSA system      same     overlap     the     Commission, the DoJ and the
+suppliers.                                                     Commission     previously     CMA.   This   facilitated  an
+                                                               found    problematic     in      efficient   review   process,
+The Commission conditionally cleared the transaction, subject to       M.8658,  i.e. by combining     safeguarding    competition
+Safran’s commitment to divest its entire North American THSA       Safran’s (previously UTC’s)      while     respecting    each
+business, which primarily serves  civil aviation and represents      THSA    business    with       jurisdiction’s      regulatory
+most of Safran’s THSA business.                                         (Rockwell)   Collins’  THSA     frameworks.
+                                                                         business.            The
+THSA systems – Reviving an Old Concern                 Commission’s investigation
+                                                                       therefore    focused   on
+A THSA system moves the horizontal  stabiliser wing that  is
+                                                               whether the concerns from M.8658 still existed.
+incorporated in the tail of an aircraft, which in turn controls the
+angle of the aircraft’s nose up or down. Its purpose is to optimise      The Commission evaluated whether the market dynamics had
+the aircraft’s balance and aerodynamic efficiency as conditions      changed since 2018 to warrant distinguishing THSA systems by
+
+
+The content of this article does not necessarily reflect the
+ official position of the European Commission. Responsibility
+for the information and views expressed lies entirely with
+the authors.                                          17
+
+[PÁGINA PDF 19]
+       M.11253 Safran/Collins – Remove Concerns Before Flight  | Competition Merger Brief No 2/2025
+
+
+
+
+technology—hydraulic (‘H-THSA’) vs. electric (‘E-THSA’). Such a       concerns. The  conditional  clearance  decision  noted  Safran’s
+distinction would eliminate the overlap, as Safran focuses on      agreement to sell the business to Woodward, though without
+E-THSA and the Target on H-THSA. The investigation revealed a       formally approving Woodward as purchaser. 1 The Commission
+trend towards more electric motors in aircraft, driven by fuel       separately reviewed Woodward's suitability and approved  it as
+efficiency  needs  to  meet  carbon  targets.  However,  the       the purchaser of the Divestment Business on 17 June 2025.
+investigation suggested that the shift will be gradual, with both
+hydraulic  and  electric  actuators  coexisting  for  the  coming     Cooperation with other competition authorities
+decades.  Airframers   still  consider  both  technologies  in  the
+                                                                   During the investigation, the Commission closely cooperated with
+development of new aircraft, indicating continued competition.
+                                                                     the US Department of Justice (DoJ) and the UK Competition and
+Moreover, the Commission found that, absent the transaction, the
+                                                                Markets Authority (CMA).
+Target was likely to expand into the supply of E-THSA systems,
+and that  it would likely maintain  its position as an important                                                       A major focus was the timing of each  jurisdiction’s review
+supplier in the increasingly electric future of the market for THSA                                                                         process. In the US process, Safran was willing to divest its THSA
+systems.                                                                    business before the notification of the transaction, which would
+                                                             have  constituted  a   “fix-it-first”  approach  in  that  process,
+The Commission’s market investigation further confirmed that
+                                                                       excluding the problematic overlap from the notification with a
+the  Target and Safran were  the two  largest THSA system
+                                                                 view to receiving an unconditional clearance. As explained above,
+suppliers globally. It confirmed, moreover, that the Parties were
+                                                                     the process before the Commission was different and required a
+close competitors, in particular for the supply of THSA systems to
+                                                                  formal remedies’ assessment.
+large commercial aircraft, which account for more THSA sales
+than all other types of aircraft combined (e.g. regional aircraft,                                                                  Safran made sure that the Commission, DoJ, and CMA could align
+business  jets  etc.). The Commission did not  find substantial                                                            on their timelines to the extent possible, so as to ensure  all
+evidence that new entrants or competitor expansion would offset                                                                            authorities reviewed the proposed remedy and purchaser  in
+the transaction’s adverse effects on the THSA supply market.                                                                               parallel before any decisions were issued.
+
+Thus, the Commission concluded that  this transaction posed                                                             The Commission, the DoJ and the CMA cooperated on  their
+competition concerns related to THSA systems.                                                                      substantive assessments of the transaction, as well as on their
+                                                               assessments on the suitability of the proposed remedy and the
+The Remedy                                              remedy purchaser.
+To address these concerns, Safran offered to divest  its North
+American THSA business (the ‘Divestment Business’), covering     Key takeaways
+sites in Canada and in the US, as well as assets in Mexico. This                                                                                In  line with the standard  practice and legal framework, the
+business largely comprises what Safran acquired from UTC as a                                                                              notification to the Commission should cover the full scope of a
+remedy in case M.8658 and represents nearly  all of Safran’s                                                                        transaction as envisaged, in the context of which any divestments
+THSA operations.                                                                          to  address  competition  concerns  are  considered  as  formal
+                                                              commitments. The Commission welcomes the early engagement
+Recognising the likelihood of competition issues, Safran indicated
+                                                                      of  parties  in  discussing  solutions  to  potential  competition
+to the Commission  its intention to  divest  its THSA business
+                                                                   concerns but still expects to formally approve any remedies once
+already during the pre-notification period and started engaging                                                                                     officially submitted and market tested.
+with  potential  purchasers.  Safran’s  original  intention was  to
+exclude its THSA business from its notification of the transaction.      The  case  also  underscores  the  importance  of  cooperation
+The Commission, however,  in  line with  its  legal framework,                                                            between competition authorities to ensure an efficient review
+recalled that the notification should include all of the Parties’       while respecting procedural differences across jurisdictions.
+activities, and that any divestment should be treated within the
+formal remedy framework  after  the  notification.  Therefore,        In this case, Safran’s constructive engagement, including granting
+Safran’s THSA activities were included in the notification. The       information exchange  waivers,  facilitated  effective  authority
+Commission monitored Safran’s continued negotiation process        cooperation,  resulting  in a remedy that resolved competition
+with potential purchasers. Some guidance was provided at case       concerns across all jurisdictions.
+team  level on  the remedy package and  suitable  purchaser
+characteristics, though without prejudice to the Commission's
+assessment   during   the   formal  remedy  and   purchaser
+assessments.                                                                               1                                                                       As would have been the case in a fix-it-first remedy, where the exact
+                                                                                           identity of the purchaser is crucial for the effectiveness of the remedy.
+After a  full market test, the Commission's decision confirmed         See also Commission notice on remedies acceptable under Council
+that selling the Divestment Business to a purchaser with proven          Regulation (EC) No 139/2004 and under Commission Regulation (EC)
+expertise  in aerospace  actuation would address  competition        No 802/2004, paragraphs 56 et seq.
+
+
+
+                                                  18

@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "94193ef43300106a0524e1f5dfa51d339f2655347d3ec5a8d04a5fa748343352",
+  "extraido_utc": "2026-10-22T19:44:55+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11956_DICT_01",
+      "caso": "M.11956",
+      "universo": "principal",
+      "titulo": "Dictamen del Comité Consultivo — UMG / DOWNTOWN",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202614/M_11956_5567.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202614/M_11956_5567.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11956/M.11956_DICT_01_94193ef43300.pdf",
+      "sha256": "94193ef43300106a0524e1f5dfa51d339f2655347d3ec5a8d04a5fa748343352",
+      "coincide_inventario": "",
+      "bytes": "193166",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202614/M_11956_5567.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "              EUROPEAN COMMISSION\n\n                                Directorate-General for Competition\n\n\n\n                   OPINION\n\n                   of the ADVISORY COMMITTEE on MERGERS\n                            at its meeting on 04/02/2026\n                         concerning a draft decision\n                     in case M. 11956 - UMG / DOWNTOWN\n\n                          RAPPORTEUR: ITALY\n\n\nConcentration\n1.    The Advisory Committee (13 Member States) agrees with the Commission that the\n        notified transaction constitutes a concentration within the meaning of Article 3(1)(b)\n       of the Council Regulation (EC) No 139/2004 of 20.1.2004 on the control of\n       concentrations between undertakings (the \"Merger Regulation\")1.\n\nMarket definition\n2.    The Advisory Committee (13 Member States) agrees with the conclusions reached\n      by the Commission in the draft Decision in relation to the definition of the relevant\n       product and geographic markets for:\n\n            a) The  supply  of A&L  services  (including  plausible  product  market\n              segmentations).\n\n           b) The wholesale distribution of recorded music (including plausible product\n             market segmentations).\n\n            c) The supply of music publishing services (including plausible product market\n              segmentations).\n\n           d) The supply of stand-alone royalty accounting services to third parties.\n\nCompetitive assessment\n    3. The Advisory Committee (13 Member  States) agrees with  the Commission’s\n       assessment that the notified transaction is likely to significantly impede effective\n       competition, as a result of non-horizontal non-coordinated effects as a result of\n    UMG  accessing commercially  sensitive  information  of  its  rivals through  the\n        acquisition of Downtown’s Curve product.\n\n\n\n\n1      OJ L 24, 29.1.2004, p. 1.",
+      "caracteres": 1891,
+      "caracteres_utiles": 1239,
+      "cobertura_imagen_maxima": 0.0116,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "AdCom M. 11956 - UMG / DOWNTOWN                                                                         2\n    4. The Advisory Committee (13 Member  States) agrees with  the Commission’s\n       assessment that the notified transaction is unlikely to significantly impede effective\n       competition as a result of:\n\n             a.  Horizontal non-coordinated effects in the EEA market for the wholesale\n                digital distribution of recorded music.\n\n            b.  Horizontal non-coordinated effects in the EEA market for the supply of A&L\n                services.\n\n             c.  Horizontal non-coordinated effects in the EEA market for the supply of self-\n             aggregator/DIY platforms.\n\n            d.  Horizontal non-coordinated effects in the EEA market for the supply of\n             music publishing services.\n\n             e.  Non-horizontal  non-coordinated  effects  as a  result  of UMG  accessing\n              information on Downtown’s CD Baby, FUGA and Songtrust products.\n\n               f.  Conglomerate effects resulting from the conglomerate relationship between\n            Downtown’s delivery services segment of the A&L services market and\n          UMG’s offering in the wider A&L market.\n\nCommitments\n5.    The Advisory Committee (13 Member  States) agrees with  the Commission’s\n       conclusion that the Updated Commitments offered by the Parties on 15 January 2026\n      remove the significant impediment to effective competition identified in the draft\n       Decision.\n\n6.    The Advisory Committee (13 Member States) agrees with the Commission that,\n       subject to the  full compliance with the Updated Commitments offered by the\n       Notifying Party on 15 January 2026, the  notified transaction  is not  likely to\n        significantly impede effective competition in the internal market or in a substantial\n        part of it.\n\nCompatibility with the internal market and the Agreement on the European Economic\nArea\n7.    The Advisory Committee (13 Member States) agrees with the Commission that the\n        notified concentration must therefore be declared compatible with the internal\n      market and the Agreement on the European Economic Area2 in accordance with\n        Article 2(2) and Article 8(2) of the Merger Regulation and Article 57 of the\n      Agreement on the European Economic Area.\n\n                               *     *     *\n\n\n\n\n\n2      OJ L 1, 3.1.1994, p.3.",
+      "caracteres": 2440,
+      "caracteres_utiles": 1644,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

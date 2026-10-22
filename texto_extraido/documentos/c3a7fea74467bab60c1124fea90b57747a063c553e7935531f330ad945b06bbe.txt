@@ -1,0 +1,130 @@
+[PÁGINA PDF 1]
+               EUROPEANEUROPEANCOMMISSIONCOMMISSION
+                        DIRECTORATE-GENERALDIRECTORATE-GENERALFORFORCOMPETITIONCOMPET TION
+
+                              Markets and cases IV: Basic industries, Manufacturing and Agriculture
+                         The Director
+
+
+                   OPINION
+
+                   of the ADVISORY COMMITTEE on MERGERS
+                            at its meeting on 03/05/2023
+
+                         concerning a draft decision
+
+           in case M.10646 – MICROSOFT / ACTIVISION BLIZZARD
+
+
+                        RAPPORTEUR: ROMANIA
+
+
+                              (Text with EEA relevance)
+
+Concentration
+1.    The Advisory Committee (15 MS) agrees with the Commission that the notified
+        transaction constitutes a concentration within the meaning of Article 3(1)(b) of the
+       Council Regulation (EC) No 139/2004 of 20.1.2004 on the control of concentrations
+      between undertakings (the "Merger Regulation")1.
+
+Market definition
+Product market definition
+2.
+
+            a) The Advisory Committee (15 MS) agrees with the conclusions reached by
+               the Commission in the draft Decision in relation to the definition of the
+               relevant product markets for development and publishing of video games
+             segmented by platform (PC, console, mobile), by types of video game (AAA
+            games vs. non-AAA games) and by genre (action and adventure,
+               shooter/battle royale, role-playing games, sports, racing, fighting, and
+                strategy).
+           b) The Advisory Committee (14 MS) agrees with the conclusions reached by
+               the Commission in the draft Decision in relation to the definition of the
+              following relevant product markets distribution of video games segmented by
+              platform (PC, console, mobile); 1 MS abstains.
+            c) The Advisory Committee (15 MS) agrees with the conclusions reached by
+               the Commission in the draft Decision in relation to the definition of the
+              following relevant product markets operating systems for PC.
+
+
+
+
+
+1      OJ L 24, 29.1.2004, p. 1.
+
+[PÁGINA PDF 2]
+Geographic market definition
+3.
+
+            a) The Advisory Committee (15 MS) agrees with the conclusions reached by
+               the Commission in the draft Decision in relation to the definition of the
+               relevant geographic market for the product markets development and
+              publishing of video games (i.e., at least EEA-wide, if not worldwide).
+           b) The Advisory Committee (14 MS) agrees with the conclusions reached by
+               the Commission in the draft Decision in relation to the definition of the
+               relevant geographic market for the product markets distribution of video
+            games (i.e., at least EEA-wide, if not worldwide); 1 MS abstains.
+            c) The Advisory Committee (15 MS) agrees with the conclusions reached by
+               the Commission in the draft Decision in relation to the definition of the
+               relevant geographic market for the product markets operating systems for PC
+                   (i.e. worldwide).
+
+Competitive assessment
+4.    The Advisory Committee (15 MS) agrees with the Commission’s assessment that the
+        notified transaction is unlikely to significantly impede effective competition, as a
+        result  of  horizontal  non-coordinated  effects  arising from  the combination  of
+       Microsoft’s and Activision Blizzard’s activities.
+
+5.    The Advisory Committee (15 MS) agrees with the Commission’s assessment that the
+        notified transaction is unlikely to significantly impede effective competition as a
+        result of vertical non-coordinated effects arising from the targeted foreclosure of
+        rival distributors of console video games as a result of the merged entity’s targeted
+        total or partial input foreclosure strategy by restricting or degrading access to
+       Activision Blizzard’s AAA shooter console video games.
+
+6.    The Advisory Committee (15 MS) agrees with the Commission’s assessment that the
+        notified transaction would likely significantly impede effective competition as a
+        result of vertical non-coordinated effects arising from the targeted input foreclosure
+       of rival distributors of console or PC video games that offer cloud game streaming
+       services as a result of the merged entity foreclosing the supply of Activision
+       Blizzard’s console and PC games.
+
+7.    The Advisory Committee (15 MS) agrees with the Commission’s assessment that the
+        notified transaction would likely significantly impede effective competition on the
+       market for the supply of PC OS as a result of conglomerate effects arising from tying
+       of Activision Blizzard’s games and of Microsoft’s distribution of games via cloud
+      game streaming services to the Windows OS.
+
+Commitments
+8.    The Advisory Committee (12 MS) agrees with the Commission’s conclusion that the
+      Consumer License and the Streaming Provider License offered by the Notifying
+       Party on 20 April 2023 remove concerns as to the (i) input foreclosure of providers
+       of rival distributors of console or PC video games that offer cloud game streaming
+       services as a result of the merged entity foreclosing the supply of Activision
+       Blizzard’s console and PC games and (ii) conglomerate effects arising from tying of
+       Activision Blizzard’s games and of Microsoft’s distribution of games via cloud
+      game streaming services to the Windows OS. 1 MS disagrees. 2 MS abstain.
+
+9.    The Advisory Committee (12 MS) agrees with the Commission that, subject to the
+         full compliance with the final commitments offered by the Notifying Party on
+
+[PÁGINA PDF 3]
+      20 April 2023, the notified transaction is not likely to significantly impede effective
+       competition in the internal market or in a substantial part of it. 1 MS disagrees. 2 MS
+        abstain.
+
+Compatibility with the internal market and the Agreement on the European Economic
+Area
+10.   The Advisory Committee (12 MS) agrees with the Commission that the notified
+       concentration must therefore be declared compatible with the internal market and the
+      Agreement on the European Economic Area2 in accordance with Article 2(2) and
+        Article 8(2) of the Merger Regulation and Article 57 of the Agreement on the
+      European Economic Area. 1 MS disagrees. 2 MS abstain.
+
+                                 ***
+
+
+
+
+
+2      OJ L 1, 3.1.1994, p.3.

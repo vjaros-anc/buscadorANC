@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "673ed7034c71d2353bfcb52810e52231e70be425b884808a2f1da58a634bd7d5",
+  "extraido_utc": "2026-10-22T19:34:42+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20221019184741+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10702_CP_01",
+      "caso": "M.10702",
+      "universo": "principal",
+      "titulo": "Mergers: Commission approves KPS acquisition of Real Alloy Europe, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_6274/IP_22_6274_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_6274",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10702/M.10702_CP_01_673ed7034c71.pdf",
+      "sha256": "673ed7034c71d2353bfcb52810e52231e70be425b884808a2f1da58a634bd7d5",
+      "coincide_inventario": "",
+      "bytes": "43152",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_6274/IP_22_6274_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission approves KPS acquisition of Real Alloy Europe,\nsubject to conditions\n\nBrussels, 19 October 2022\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof Evergreen Holding Germany GmbH and Real Alloy UK Holdco Ltd (‘Real Alloy Europe') by KPS\nSpecial Situations Fund V, a fund managed by KPS Capital Partners, LP (‘KPS') through its subsidiary\nSpeira BidCo I GmbH (‘Speira'). The approval is conditional on full compliance with commitments\noffered by KPS.\n\nExecutive Vice-President Margrethe Vestager, in charge of competition policy, said: “Access to\nrecycled aluminium is important to achieve the objectives of the circular economy and green\ntransition. We had concerns that the combined entity could foreclose critical input for producers of\naluminium flat rolled products. These are necessary for the manufacturing of daily products, like\nbeverage cans. KPS offered to divest a stand-alone business which consists of two plants and this\naddresses our competition concerns”.\n\nKPS is an investment fund controlling manufacturing companies across multiple industries. KPS's\nsubsidiary Speira produces recycled aluminium and manufactures flat rolled aluminium products.\nReal Alloy Europe manufactures and supplies recycled aluminium. It also provides recycling\nservices to third parties for (hazardous) by-products from the aluminium recycling process, such as\ndross and salt slag.\n\nThe Commission's investigation\n\nThe Commission's investigation showed that following the transaction, the parties could restrict\naccess to recycled aluminium as well as dross and salt slag recycling services.\n\nReal Alloy Europe has a significant market position in those markets, there are only a few alternative\nsuppliers, and competitors of Speira for flat rolled products rely on those inputs currently provided by\nReal Alloy. The recycling of these products is critical for the production of recycled aluminium. The\nrecycling allows extracting their aluminium content and other components. At the same time,\nhazardous waste needs to be recycled as it is subject to stringent regulations in relation to storage\nand recycling requirements.\n\nFollowing the transaction, the parties would have the incentive and ability to restrict the competitors'\naccess to necessary products and services in the aluminium recycling chain. In turn, this could lead\nto higher prices for aluminium flat rolled products used to manufacture beverage cans.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, KPS offered to divest Real Alloy's recycled\naluminium production and dross recycling facility in Swansea (UK) as well as Real Alloy's salt\nslag recycling plant in Sainte-Menehould (France).\n\nThe commitments include the structural divestiture of a stand-alone business consisting of two\nplants, which have sufficient capacity and ability to continue providing services and supplying\ncompetitors for aluminium flat rolled products. The Commission will closely monitor the divestment\nprocess, including the choice of a suitable purchaser for the divested business that will have to be\napproved by the Commission.\n\nFollowing the market test, the Commission concluded that the transaction, as modified by the\ncommitments, would no longer raise competition concerns. The decision is conditional upon full\ncompliance with the commitments.\n\nBackground\n\nKPS is a US private equity company managing manufacturing and industrial companies, across\nmultiple industries, including aluminium products manufacturers of active in the European Economic\nArea ( ‘EEA') and worldwide.",
+      "caracteres": 3675,
+      "caracteres_utiles": 3030,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Speira, ultimately controlled by KPS and based in Germany, is a manufacturer of advanced flat rolled\naluminium products used across multiple industries (e.g. automotive, packaging, printing,\nengineering, building and construction) and is active in the production of recycled aluminium. FRPs\ncan be used for a number of applications.\n\nReal Alloy Europe is the EEA and UK business of the Real Alloy Group. Real Alloy Europe is engaged\nin the sourcing, processing and recycling of aluminium and magnesium by-products and is a recycled\naluminium specification alloys producer.\n\nMerger control rules\n\nThe transaction was notified to the Commission on 31 August 2022.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working\ndays, bringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.10702.\n\n                                                                                                              IP/22/6274\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1873,
+      "caracteres_utiles": 1411,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

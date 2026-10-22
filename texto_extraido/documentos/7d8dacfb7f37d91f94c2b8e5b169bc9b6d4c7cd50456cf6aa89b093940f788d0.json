@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "7d8dacfb7f37d91f94c2b8e5b169bc9b6d4c7cd50456cf6aa89b093940f788d0",
+  "extraido_utc": "2026-10-22T19:28:20+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20220125182842+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10341_CP_01",
+      "caso": "M.10341",
+      "universo": "principal",
+      "titulo": "Mergers: Commission approves acquisition of Ferro by Prince, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_575/IP_22_575_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_575",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10341/M.10341_CP_01_7d8dacfb7f37.pdf",
+      "sha256": "7d8dacfb7f37d91f94c2b8e5b169bc9b6d4c7cd50456cf6aa89b093940f788d0",
+      "coincide_inventario": "",
+      "bytes": "38442",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_575/IP_22_575_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:02+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission approves acquisition of Ferro by Prince, subject to\nconditions\n\nBrussels, 25 January 2022\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof Ferro by Prince, both active in the manufacturing of mineral-based chemicals and industrial\nadditives and products. The approval is conditional on full compliance with commitments offered by\nPrince.\n\nPrince and Ferro are both manufacturers and suppliers of porcelain enamel coatings and glass\ncoatings in the European Economic Area (EEA).\n\nPorcelain enamel coatings are used as an input for coating the surface of appliances, water-heaters,\nsanitary-ware and cookware. Glass coatings serve both functional and aesthetic purposes for a\nvariety of application techniques including automotive glass, flat glass and container glass.\n\nThe Commission's investigation\n\nThe Commission investigated concerns that the proposed acquisition would significantly reduce the\nlevel of competition with respect to the manufacture and supply of porcelain enamel coatings and\nglass coatings within the EEA. In particular, the combined entity would become the largest\nmanufacturer and supplier of these products in the EEA.\n\nThe market investigation revealed that the transaction would reduce the numbers of suppliers in the\nmarket leaving insufficient choice for customers.\n\nThe Commission therefore found that the transaction, as originally notified, would have raised\ncompetition concerns with respect to:\n\n    the market for the manufacture and supply of porcelain enamel coatings in the EEA, and\n\n    the market for the manufacture and supply of glass coatings in the EEA overall, as well as on\n    each of the plausible narrower markets identified, e. automotive glass, flat glass and container\n     glass.\n\nThe proposed remedies\n\nTo alleviate these concerns and preserve competition in the market, Prince offered:\n\n    To divest Prince's European porcelain enamel and glass coatings businesses, including the\n    manufacturing facilities in Bruges, Belgium, and Cambiago, Italy, where all of Prince's\n     porcelain enamel coatings and glass coatings (except for forehearth colourants concentrates)\n     for supply into the EEA are manufactured, and\n\n    To transfer its production unit of forehearth colourants concentrates located in Fenton, UK, to\n      its production facility in Bruges.\n\nThese commitments fully remove the overlaps existing between Prince and Ferro's activities in the\nmarkets where the Commission had identified competition concerns.\n\nThe Commission therefore concluded that the transaction, as modified by the commitments, would\nno longer raise competition concerns. The decision is conditional upon full compliance with the\ncommitments.\n\nCompanies and products\n\nPrince is a US company active globally in the manufacturing of mineral-based chemicals, minerals\nand industrial additives and products focussed on the development, manufacture and marketing of\nspecialty products for applications in a variety of industries. Prince is ultimately controlled by\naffiliated funds managed by American Securities LLC.\n\nFerro is a US company active globally in the supply of (i) functional coatings for glass, metal,\nceramic and other substrates, and (ii) colour solutions in the form of pigments and colorants, for a",
+      "caracteres": 3384,
+      "caracteres_utiles": 2756,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "broad range of applications and industries. Ferro operates in various locations around the world,\nincluding Europe.\n\nMerger control rules and procedures\n\nThe transaction was notified to the Commission on 26 November 2021.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). This deadline is extended to 35 working days in cases where remedies are submitted by\nthe parties, such as in this case.\n\nMore information will be available on the Commission's competition website, in the\nCommission's public case register under the case number M.10341.\n\n\n\n\n                                                                                                                IP/22/575\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1399,
+      "caracteres_utiles": 1023,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

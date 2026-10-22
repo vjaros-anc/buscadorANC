@@ -1,0 +1,576 @@
+[PÁGINA PDF 1]
+       EUROPEAN COMMISSION
+          DG Competition
+
+
+
+
+           Case M.10506 – PARKER / MEGGITT
+
+
+
+
+
+                             Only the English text is available and authentic.
+
+
+          REGULATION (EC) No 139/2004
+              MERGER PROCEDURE
+
+
+
+Decision on the implementation of the commitments -
+                               Purchaser approval
+                                 Date: 01/07/2022
+
+[PÁGINA PDF 2]
+              EUROPEAN COMMISSION
+
+
+
+
+                                                         Brussels, 1.7.2022
+                                             C(2022) 4781 final
+
+                                     PUBLIC VERSION
+
+                                                                  In the published version of this decision,
+                                                  some   information   has   been   omitted
+                                                           pursuant   to   Article  17(2)  of  Council
+                                                             Regulation (EC) No 139/2004 concerning
+                                                             non-disclosure of business secrets and other
+                                                                  confidential information. The omissions are
+                                                 shown  thus  […].  Where  possible  the
+                                                               information omitted has been replaced by
+                                                            ranges of figures or a general description.
+
+                                                   Parker-Hannifin Corporation
+                                           6035 Parkland Boulevard
+                                           44124 Cleveland, Ohio
+                                                   United States of America
+
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.10506 – PARKER / MEGGITT
+          Approval of Kaman Corporation as purchaser of Parker-Hannifin
+           Corporation’s Aircraft Wheels and Brakes Division following your letter of
+          25 May 2022 and the Trustee’s opinion of 1 June 2022
+
+
+1.     FACTS AND PROCEDURE
+
+(1)    By  decision  of 11  April 2022  (the  ‘Decision’)  based on  Article  6(1)(b)  in
+         connection with Article 6(2) of the Merger Regulation,1  the Commission declared
+         the  operation by which  Parker-Hannifin Corporation (‘Parker’  or  the  ‘Notifying
+          Party’, United States) intends to acquire within the meaning of Article 3(1)(b) of
+         the Merger  Regulation sole  control over  the whole of Meggitt PLC  (‘Meggitt’,
+         United Kingdom) by way of purchase of shares (the ‘Transaction’) compatible with
+         the  internal market  following  modification by  Parker,  subject  to  conditions and
+          obligations (the ‘Commitments’). Parker and Meggitt are together referred to as the
+          ‘Parties’.
+
+
+
+
+1      OJ L 24, 29.1.2004,  p. 1 (the ‘Merger Regulation’).
+
+
+
+Commission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE
+Europese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË
+
+Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.
+
+[PÁGINA PDF 3]
+(2)      In particular, the Commitments provide that Parker  is to divest  its Aircraft Wheels
+        and Brakes  Division, which includes a  facility in Avon, Ohio, US and  all tangible
+         assets  located  there  (as  well as  certain assets  located  at a  plant  in Guaymas,
+        Mexico),  as  well as  intangible assets such as the ‘Cleveland Wheels & Brakes’
+         brand,  other brand  agreements,  designs/drawings,  contracts, R&D projects, trade
+          secrets, patents and knowledge transfers (the ‘Divestment Business’).
+
+(3)    By  letter  of 25 May 2022,  the  Notifying Party proposed Kaman Corporation
+        (‘Kaman’)  for  approval by  the Commission  as  purchaser  of  Parker’s  Aircraft
+        Wheels  and  Brakes  Division  and  submitted  the  proposed  Asset  Purchase
+        Agreement and further related agreements  (the ‘Proposed Agreements’).
+
+(4)    On 1  June  2022, ING Bank N.V.  as  the  Monitoring  Trustee  (the  ‘Trustee’)
+         submitted an assessment of Kaman’s  suitability as a purchaser and,  in  particular,
+        has indicated that  it  fulfils the criteria of the purchaser requirements in section D of
+         the Commitments  attached  to  the  Decision.  In  this  assessment,  the Trustee also
+          indicated  that, on the basis of the Proposed Agreements, the Divestment Business
+        would be sold in a manner consistent with the Commitments.
+
+2.     ASSESSMENT OF THE PROPOSAL
+
+(5)      Pursuant to paragraph 16 of the Commitments, the Commission has to verify that
+         the remedy-taker  fulfils the purchaser  criteria and  that the Divestment Business  is
+         being transferred in a manner consistent with the Commitments.
+
+2.1.    Assessment of the purchaser criteria
+
+(6)      In accordance with paragraph 15 of the Commitments, in order to be approved by
+         the Commission, any remedy-taker must fulfil the following  criteria:
+
+          (a)   The remedy-taker  shall be independent of and unconnected to the Notifying
+              Party and  its  Affiliated Undertakings  (this being assessed  having regard to
+                the situation following the divestiture);
+
+         (b)  The  remedy-taker  shall have  the  financial resources, proven expertise and
+                incentive  to  maintain and develop the Divestment Business as a  viable and
+                active   competitive   force   in  competition  with  the   Parties  and   other
+               competitors;
+          (c)   The  acquisition of the Divestment Business by the remedy-taker must neither
+            be  likely to  create,  in  light of the information available to the Commission,
+            prima  facie  competition  concerns  nor  give   rise  to  a   risk  that  the
+              implementation  of  the  Commitments  will  be  delayed.  In  particular,  the
+              remedy-taker must reasonably be expected to obtain all necessary approvals
+             from the relevant regulatory authorities  for the  acquisition of the Divestment
+               Business.
+         (d)  The   remedy-taker   shall  be  an   existing   manufacturer   of  aerospace
+             components.
+          (e)   The  remedy-taker  shall have  experience  in  dealing  with  direct or  indirect
+                supplies to military and government customers.
+
+
+
+
+
+                                                   2
+
+[PÁGINA PDF 4]
+2.1.1.   Brief description of the proposed purchaser
+
+(7)    Kaman  is  a  publicly  listed company headquartered  in the US, which develops,
+         manufactures  and  markets  aerospace  and  aviation  components,  systems  and
+           aircraft. In 2021, Kaman had revenue of approximately EUR 626m (US709m)2 and
+         net  earnings  of  approximately EUR 38.6m (US43.7m)3. Kaman  operates  three
+         business segments: Engineered Products, Precision Products and Structures.
+
+2.1.2.   Independence from the Parties
+
+(8)     The  Notifying Party submits  that Kaman  is independent  of, and unconnected to
+        Parker  and  Meggitt,  with  no  overlap   in  major  shareholders  and  no-cross
+          directorship   links  between Kaman  and  Parker/Meggitt.  The  commercial  links
+        between Kaman and Parker/Meggitt are limited to minor amounts of supply on an
+        arm’s length basis.  Specifically,  in 2021 Kaman made purchases of approximately
+      EUR […] from Parker and of approximately EUR […] from Meggitt.  Further,
+      Kaman made  sales of approximately EUR […]  to Parker and of approximately
+      EUR […]  to  Meggitt.  In  addition, Kaman  has  historically  acquired  a  limited
+        number of […] from the Divestment Business, but made no such purchases in 2021.
+
+(9)     The Trustee in  its Reasoned Opinion concluded that Kaman  is independent of and
+        unconnected to the  Parties, and that any economic links between Kaman and the
+          Parties  relate  primarily to ordinary course trading activities and are not material in
+         terms of magnitude.
+
+(10)    Given the comparatively minor scope of the supply relationships between Kaman
+        and  Parker/Meggitt,  as  well  as  in  light  of  all of  the  above,  the Commission
+         concludes that Kaman  fulfils the Purchaser criterion set out in paragraph 15 of the
+        Commitments of being independent of and unconnected to the Notifying Party and
+             its Affiliated Undertakings.
+
+2.1.3.   Financial resources, proven expertise and incentive to maintain and develop the
+        Divested Business as a viable and active competitor
+
+        Financial resources to maintain and develop the Divestment Business
+
+(11)   Kaman  is a public company listed on the New York Stock Exchange, Kaman  is
+          principally funded by equity and has a market capitalisation of USD1.01bn as at 1
+        June 2022.
+
+(12)    Kaman’s debt is currently rated BB by S&P with a stable outlook at the last time of
+        review (8 March 2022).4
+
+(13)    Based on estimates presented by financial analysts5, the net debt/EBITDA ratio of
+      Kaman following the transaction is expected to reach the upper end of the leverage
+
+
+
+2       Converted with the ECB’s currency converter with the exchange rate of 31 December 2021.
+3       Converted with the ECB’s currency converter with the exchange rate of 31 December 2021.
+4        Trustee’s Reasoned Opinion, Annex 2 ‘S&P Global – Ratings: Kaman Corp. Outlook Revised To
+        Stable From Negative On Aviation Recovery; Ratings Affirmed’
+5        Trustee’s Reasoned Opinion, Annex 2 ‘KeyBanc Capital Markets – Merger/Acquisition: KAMN:
+         Aircraft Wheel and Brake Deal Adds Margin Accretion & Stability; Maintain OW’
+
+                                                   3
+
+[PÁGINA PDF 5]
+         of comparable companies following the  acquisition and  is expected  fall back to a
+         leverage that is comparable to some companies of its peer group6.
+
+(14)     Considering  the  financing  structure,  as  explained   in  the  Trustee’s  Reasoned
+         Opinion, Kaman had USD 129 million in cash on its balance sheet as of 31 March
+       2022 and explained that  it had access to an agreed credit facility with JP Morgan
+        which would cover well over the acquisition price. SEC  filings show that Kaman’s
+         lenders  have  agreed  certain amendments  to  Kaman’s  credit  facilities  to  take
+        account  of  the  proposed  acquisition.7  This  total  available  funding  leaves some
+       headroom compared to the agreed purchase price for the Divestment Business of
+     USD 440 million.
+
+(15)     In addition to the debt financing headroom, Kaman is listed on the New York Stock
+        Exchange, and may be able to  raise additional financing through share issuances,
+         should the need arise.
+
+(16)    With regards to operating  profit, Kaman achieved an EBITDA margin of 17% in
+        2021, which appears to be a healthy margin level, slightly above the average of the
+        comparable companies provided by the Trustee in its Reasoned Opinion8.
+
+(17)    The EBITDA margin of the Divestment Business in 2021 was  [financial data] %,
+        which  would   accordingly   result   in  an  improvement  following  the   potential
+          acquisition.  In  addition,  the  [financial data] % EBIDTA margin was kept as the
+        base assumption for Kaman Business  plan, which seems conservative contrary to
+         the Divestment Business management, which assumed an increase  to a  [financial
+         data] % EBITDA margin in their business plan.
+
+(18)    Based on the above, the Commission considers, in line with the Trustee’s Reasoned
+         Opinion,  that Kaman  has  the  financial resources  to  maintain and  develop  the
+        Divestment Business.
+
+       Proven expertise
+
+(19)    Regarding  the  Purchaser’s  proven  expertise,  the  Notifying  Party  submits  that
+      Kaman has a long history in the aerospace industry with both OEM and aftermarket
+          sales  to a wide range of large aerospace customers such as Sikorsky, Boeing,
+         Airbus,  Lockheed  Martin,  Rolls  Royce,  Raytheon,  and  Bell.  In  particular,  the
+         Notifying Party puts forward that Kaman provides, via  its three reporting segments,
+        a wide range of aerospace components  (see  also  para.  (20) below  for  further
+           details) such as precision bearings,  seals,  springs, arming solutions, and composite
+          aerostructures.  In  addition,  the  Notifying  Party  submits  that Kaman  is  a  niche
+          helicopter OEM  producing  platforms  such  as   its  heavy   lift K-MAX manned
+          helicopter, the K-MAX TITAN unmanned  aerial system, and the KARGO UAV
+       unmanned  aerial system. The Notifying Party further submits that, by acquiring 23
+        companies over the  last 14  years, Kaman has developed a  significant experience
+          integrating  and  running  companies  and  that  two  of   its  three  most  recent
+
+
+
+
+6        Parker net debt/EBITDA ratio is prior to any impact of the Meggitt transaction.
+7      SEC    Filings   –   FORM8-K    https://kaman.gcs-web.com/static-files/4364cc29-c706-4414-9491-
+        c292476eecf2
+8        Trustee’s Reasoned Opinion, Figure 11
+
+                                                   4
+
+[PÁGINA PDF 6]
+          acquisitions were aerospace companies, namely Bal Seal Engineering, and EXTEX
+        Engineering Products.
+
+(20)     In  its Reasoned  Opinion,  the  Trustee  reviewed Kaman’s  business segments and
+        concluded  that   it  has  a  proven  track  record  of  developing,  manufacturing and
+           selling aerospace components, both directly to OEM customers as well as to supply
+             its own  aircraft. As a  manufacturer of aerospace components, Kaman  is  active
+         across  three  business  segments,   all  covering  the  manufacture  and  supply  of
+        aerospace components:
+
+          (a)   Engineered Products, which  is Kaman’s largest business segment by revenue
+             and by number of employees, produces, among others,  (i) bearings for use in
+             commercial  aviation and  military programs,   (ii)  springs,  seals and  contacts
+                for use  in the aerospace and defence markets to protect  critical equipment
+             from failure and  (iii) bearings, precision seals, spring sand contacts for use in
+               high performance  applications  including  radar  systems,  fuel pumps, motors
+             and robotics;
+         (b)   Precision  Products,  which  is  the  business segment  that produces  precision
+                safe  and  arming  solutions  for  missile  and  bomb  systems,  subcontract
+                helicopter work,  modification and  support  for  the SH-2G Super Seasprite.
+               This business segment also covers the manufacture of Kaman’s  aircraft, the
+          K-MAX, K-MAX TITAN, and the KARGO UAV;
+          (c)   Structures,  which   is  the  business  segment  that  produces  metallic  and
+              composite products for use in both commercial and defence aerospace, such
+              as  (i)  metallic  structures and  assemblies  such  as  airframes and  fuselages,
+                  aircraft doors,  nascelles and  (ii) composite bonded  structures such as rotor
+              blades and workstations.
+
+(21)      Specifically,  with  respect  to  the  business  segment  within which  the  Divestment
+         Business would operate  (i.e. the Engineered Products segment), the Trustee notes
+          that   it has grown  in each period  since Kaman has separately reported  financial
+         information  for  that segment and  that   it  accounts  for  half of Kaman’s  capital
+         expenditure  for the three-year period from 2019-2021.
+
+(22)     Furthermore,  the  Trustee submits  that Kaman’s management team has experience
+         of  operating  in  the  aerospace  industry and  notes  in  particular  that Kaman’s
+         independent directors appear to have a range of management experience including
+         previously holding senior roles at aerospace businesses.
+
+(23)    Moreover,  the Trustee reviewed Kaman’s  acquisition experience,  in particular the
+        most recent acquisition of Bal Seal in 2020 and found that Kaman has successfully
+          integrated the acquired businesses.
+
+(24)    The  Trustee  also  analysed Kaman’s  plans  regarding R&D  projects underway in
+         acquired businesses and concluded that Kaman has demonstrated a track record of
+         investing in acquired business  in order to maintain and develop those businesses.
+
+         Incentive to maintain and develop the Divestment Business as a viable and active
+        competitive force
+
+(25)    The  Notifying  Party  submits  that  post-Transaction,  the Divestment Business  will
+        form a significant part of Kaman’s overall business and that in view of  it size and
+         importance  within Kaman,  the  latter  will have  a  strong  incentive  to compete
+                                                   5
+
+[PÁGINA PDF 7]
+         aggressively and  ensure  that  the Divestment Business  continues to be  successful.
+       The  Notifying  Party  stresses  that Kaman  has  strong R&D  capabilities and  a
+           historically  consistent  investment  in R&D as evidenced by the  commercialisation
+         of major R&D  projects  such  as  Titanium  Diffusion  Hardening,  and  developing
+          entire new aircraft platforms such as the KARGO UAV. The Notifying Party also
+         submits  that  in view of Kaman’s  track record of progressing and  finalising the
+     R&D  projects  of acquired  companies, Kaman  intends  to  provide  all necessary
+         support to continue and commercialise the R&D projects  that are currently being
+          carried out by Divestment Business.
+
+(26)     In  its Reasoned Opinion, the Trustee has concluded that the Divestment Business
+        would  fit well into Kaman’s engineered products business and that Kaman has the
+          relevant  incentives  to  maintain and  further grow  the  Divestment  Business  given
+           that:
+
+          (a)   the Divestment Business represents a  significant transaction for Kaman, both
+                 in terms of valuation (44% of Kaman’s current market capitalisation) and in
+              terms of the additional revenue and EBITDA that the acquired business will
+                contribute (representing [2021 financial data] % and [2021 financial data] %
+                respectively of Kaman’s 2021  revenue and EBITDA), which  will strongly
+                incentivised Kaman’s management to ensure the success of the transaction;
+         (b)   the transaction appears  in  line with Kaman’s announced strategy of focusing
+            on higher margin aerospace products,  including through acquisitions and  will
+              enable  it to expand  its current product offering in the aerospace components
+                sector;
+
+          (c)   the  financial  forecasts  presented by Kaman  for  the  Divestment  Business
+                 outline a growing business  in terms of both revenue and  profitability. These
+                forecasts are  in  line with those presented by management of the Divestment
+              Business  in terms of revenue and more conservative in terms of profitability,
+             and in this respect do not appear unreasonable; and
+
+         (d)   the HSM  expressed  to  the  Trustee  that he and  his management have a
+                positive  impression of Kaman as the  potential purchaser of the business  in
+              terms of  cultural  fit, sector experience, and Kaman’s commitment,  incentive
+             and willingness to maintain and develop the business.
+
+(27)     In  light  of  the  above,  and  based on  the  information made  available  to  the
+        Commission,  the Commission concludes  that Kaman has the  incentive to maintain
+        and develop the Divested Business as a viable and active competitive force in the
+           aircraft wheels and brake sector.
+
+2.1.4.   Existing manufacturer of aerospace components
+
+(28)    As  stressed  in paragraph  (20)  above, Kaman  is  a  manufacturer  of aerospace
+        components  active  across  three  business  segments,   all  of  which  cover  the
+         manufacture and supply of aerospace components. Kaman supplies as such major
+        aerospace  original  equipment  manufacturers  including  Airbus,  Boeing, Lockheed
+         Martin, Rolls-Royce, Raytheon, Bell Helicopter (part of Textron) and Sikorsky.
+
+(29)     In addition, Kaman has divested in 2019  its  distribution business in order to focus
+          specifically on its aerospace and defence business. In this respect, at the time of its
+
+
+
+                                                   6
+
+[PÁGINA PDF 8]
+        announcement  it outlined  that the transaction would enable the company to ‘focus
+       on accelerating growth of aerospace and engineered products businesses’.9
+
+(30)     In   its  Reasoned  Opinion,  the  Trustee  considers  that Kaman   is  an  existing
+         manufacturer of aerospace components who has been active  in the development,
+         manufacture and  sale  of products  in the aerospace  sector. The  Trustee  further
+          stresses  that Kaman  is  active  in  the  manufacture  of  helicopters  in  addition to
+        producing  a  range  of components  for  use  in  the  aerospace  industry  including
+          bearings,  seals,  springs,  contacts  and  metallic  and  composite  structures.  The
+         Trustee also analysed Kaman’s sales breakdown and notes that it derives 26% of its
+        revenue  from  commercial,  business  and  general  aviation  applications  while  a
+          further 24%  of  its  revenue   is  derived from defence  applications,  a  significant
+         proportion of which relates to aerospace components.
+
+(31)     In  light  of  the  above,  and  based on  the  information made  available  to  the
+        Commission,  the Commission concludes  that Kaman  fulfils the purchaser  criterion
+         of being an existing manufacturer of aerospace components.
+
+2.1.5.   Experience in dealing with direct or indirect supplies to military and government
+        customers
+
+(32)   Kaman   is  already  a  manufacturer  of  components  and   aircraft  for  military
+          applications.  It produces  military aircrafts such as SH-2G and K-Max helicopters.
+      Kaman also produces components for use across a range of applications such as (i)
+         bearings  used   in  the  manufacture  of  the  AH-64  helicopter,  Virginia  Class
+         submarine, Joint Strike Fighter aircraft and Typhoon aircraft,  (ii) fuses to allow the
+         safe  arming of devices, and   (iii) composite and  metallic  aero-structures used  in
+          fixed and rotary wing aircraft.
+
+(33)     In 2021, Kaman derived [2021  sales  data] % of  its revenue from government
+         customers. Kaman’s direct and indirect sales to the US government in 2021 totalled
+     USD [2021 sales data] (approx. EUR [2021 sales data]), representing [2021 sales
+         data] % of Kaman’s total sales. Of this amount, USD [2021 sales data] (approx.
+      EUR [2021 sales data]) was represented by direct sales to the US government, with
+         the remainder (USD [2021 sales data] - approx. EUR [2021 sales data]) in indirect
+          sales  to  the US  government  (i.e.  sales  of  products  to  original  equipment
+        manufacturers where the US government is the end user).
+
+(34)     In 2021, Kaman also made sales of USD [2021 sales data] (approx. EUR [2021
+          sales  data])  to  international  governments  customers  ([international  government
+         customers]), representing [2021 sales data] % of Kaman’s overall sales.
+
+(35)    The  Trustee  has assessed Kaman’s  experience  in dealing and  supplying  military
+        and government customers and came to the conclusion that, as a manufacturer of
+        components and  aircraft for military applications, Kaman has a proven track record
+         of supplying  military and government customers, both directly, and through other
+          original equipment manufacturers. This conclusion  is based on the fact that Kaman
+         achieves high volume of sales with government customers.
+
+
+
+9        See:      https://www.businesswire.com/news/home/20190626005336/en/Kaman-Announces-Sale-of-
+         Distribution-Segment-to-Littlejohn-Co.-for-700-Million-in-Cash, accessed on 23 June 2022.
+
+                                                   7
+
+[PÁGINA PDF 9]
+(36)     In  light  of  the  above,  and  based on  the  information made  available  to  the
+        Commission,  the Commission considers  that Kaman  fulfils the purchaser  criterion
+         of having  experience  in  dealing  with  direct  or  indirect  supplies  to  military and
+        government customers.
+
+2.1.6.   Absence of prima facie competition problems
+
+(37)    The  Notifying  Party  submits  that  the  acquisition of the Divestment Business by
+      Kaman will not give rise to any prima facie competition concerns, nor any risk that
+         the  implementation of the Commitments  will be delayed. There are no  horizontal
+         overlaps between the  activities of Kaman and  the Divestment Business and any
+          vertical  links  are  minor […]  from  the  Divestment  Business  to Kaman – no
+          deliveries  in 2021, deliveries of approximately EUR […] in 2022).
+
+(38)    The  Trustee  agrees  with  this  analysis,  as   it has  not  identified any  activities of
+      Kaman  that  could  be  considered  as  overlapping  with  the   activities  of  the
+        Divestment  Business.  Further  the  Trustee  also  has  not  identified  any  vertical
+         competition or  foreclosure  concerns,  in  particular due  to  the minor presence of
+      Kaman in helicopters (estimated global market share of 0.5%).
+
+(39)     In  addition,  according  to  the  Notifying Party,  the  acquisition of the Divestment
+         Business by Kaman may be  notifiable  to  competition  authorities  in  the United
+          States, but expects a clearance to be achieved within a short period of time due to
+         the  absence  of  potential  competition  issues.  Further,  the  acquisition  of  the
+        Divestment  Business  by Kaman may  be  subject  to  foreign  direct  investment
+        approval in  Italy, where the Notifying Party intends to make a precautionary filing
+        and expects to receive a clearance in short order.
+
+(40)    Based on the above, the Commission considers, in line with the Trustee’s Reasoned
+         Opinion,  that the  acquisition of the Divestment Business by Kaman does not give
+           rise to prima facie competition concerns or poses any risk that the implementation
+         of the Commitments  will be delayed.
+
+(41)     This prima  facie assessment  is based on the information available for the purpose
+         of  this buyer approval and does not prejudge the competition assessment of the
+          acquisition of  the  Divestment  Business by Kaman by a  competent  competition
+          authority under applicable merger control rules, or  its assessment by any authority
+          in charge of clearing foreign direct investments.
+
+2.2.     Sale in a manner consistent with the Commitments
+
+(42)    The Trustee considers that the assets that are listed as included and excluded in the
+        scope of the business to be sold under the Asset Purchase Agreement are materially
+          in line with the provisions of the Commitments.
+
+(43)    The Commission observes that in line with the Commitments, two engineers are to
+        be hired  for the Divestment Business  for the purposes of supervising and  further
+         developing the […] R&D Project and  that Parker  will arrange  for  training and
+          transfer of skills and knowledge.
+
+(44)    The Commitments also foresee that a single employee based in China is to be part
+         of the personnel to  transfer to the Purchaser as part of the Divestment Business.
+        However,  as  explained by  the  Notifying  Party and  confirmed by  the  Trustee,
+
+                                                   8
+
+[PÁGINA PDF 10]
+      Kaman would  like to exclude  this employee as  it has  its own sales presence  in
+         Asia,  covering  also  China. The Commission can accept  this  deviation from the
+        Commitments.
+
+(45)   Two permits  listed  in the Commitments as to be  transferred with the Divestment
+         Business  are  not  transferable  under  current  applicable  law. Kaman  however
+         confirmed to the Trustee  that  it  is  in the process of obtaining these permits and
+          further submits that it is confident  that it will obtain all necessary permits.10
+
+(46)    The Commitments  include a number of agreements  for the supply of transitional
+         support  services by Parker. The  timeframe  foreseen  in the Commitments  is 3-6
+         months, extendable upon request by the Purchaser. However, the Trustee notes that
+         the Asset Purchase Agreement includes  transitional services  for up to 12 months
+         post-Closing, as  this was requested by Kaman. As the Commitments allow for an
+         extension of such transitional arrangements of up to 12 months upon request by the
+         purchaser, the Trustee has no objection to these proposed  timelines. Further, the
+        Divestment Business explained that such a timeframe  is required to ensure business
+          continuation,  prevent  disruptions  and  ensure  compliance  with  contracts.  In any
+         case, Kaman explains  that the goal  is to  transition within 6 months but  that the
+         greater length of time foreseen  is simply to provide a buffer in case more time  is
+          required.11 In light of this, the foreseen period for transitional services of up to 12
+        months does not appear problematic.
+
+(47)    The  Commitments  foresee  the  inclusion  in  the  Divestment  Business  of  certain
+         assets used by Parker’s aircraft wheels and brakes division which are located at a
+          plant  in Guaymas, Mexico which supplies  limited  basic machining to the  aircraft
+        wheels and brakes division. These assets located in Mexico are part of the assets to
+        be transferred under the Proposed Agreements. The Trustee notes that according to
+         the Hold Separate Manager of the Divestment Business these assets are mostly
+          cutting equipment  that create a  significant amount of noise and dust which would
+           result  in environmental implications should they be  transferred to the Avon, Ohio
+            site.  Therefore,  the Hold Separate Manager  stated  that  the Divestment Business
+        does  not  currently intend to  transfer these  assets to the Avon, Ohio  facility and
+          instead would prefer to identify a local supplier to perform such work. Until such a
+          solution  is found, the assets would need to remain at Parker’s Guaymas  facility in
+         order to supply the machining work to the Divestment Business under a transitional
+         services  agreement.  During  the   transitional  services  period,  a  longer  term
+        arrangement will be developed – either by (i) setting up of an arrangement whereby
+         the  Divestment  Business  buys  directly  from  the  Parker Guaymas  facility,   (ii)
+          identifying  another  supplier,  or   (iii)  insourcing  the  production  to  the Divestment
+         Business’ Avon, Ohio  facility.12 The Divestment Business explains that in any case
+         as  it  is the Divestment Business which  is providing the material to be cut to  the
+       Guaymas  facility (and to any other potential supplier in the future), the Divestment
+         Business considers  that  it  will be easy to find a source for these basic machining
+          services.13  Therefore,  the  independence,   viability  and  competitiveness  of  the
+        Divestment Business does not appear to depend on the transfer of the assets used
+          for the basic machining work that are currently located in Guaymas, Mexico.
+
+
+10       Email from Trustee, 17 June 2022.
+11       Email from Trustee, 17 June 2022.
+12       Email from Trustee, 17 June 2022.
+13       Email from Trustee, 22 June 2022.
+
+                                                   9
+
+[PÁGINA PDF 11]
+(48)    Based on the above and  in  line with the Reasoned Opinion by the Trustee, the
+        Commission concludes  that  the  Divestment  Business  is being sold  in a manner
+          consistent with the Decision and the Commitments.
+
+3.     CONCLUSION
+
+(49)   On the  basis of the above  assessment,  the Commission approves Kaman as a
+          suitable purchaser.
+
+(50)   On the basis of the Proposed Agreements, the Commission further concludes that
+         the  Divestment  Business   is  being  sold   in  a  manner  consistent  with  the
+        Commitments.
+
+(51)     This decision only constitutes approval of the proposed purchaser identified herein
+        and of the Proposed Agreements. This decision does not constitute a confirmation
+          that Parker has complied with its Commitments.
+
+(52)     This  decision   is  based  on  Section D  of  the  Commitments  attached  to  the
+       Commission Decision of 11 April 2022.
+
+                                          For the Commission
+
+
+                                                   (Signed)
+                                                      Olivier GUERSENT
+                                                 Director-General
+
+
+
+
+
+                                                   10

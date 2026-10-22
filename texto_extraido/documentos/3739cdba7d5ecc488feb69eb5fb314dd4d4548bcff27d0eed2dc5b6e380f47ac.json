@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "3739cdba7d5ecc488feb69eb5fb314dd4d4548bcff27d0eed2dc5b6e380f47ac",
+  "extraido_utc": "2026-10-22T19:40:48+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10896_DICT_02",
+      "caso": "M.10896",
+      "universo": "principal",
+      "titulo": "Dictamen del Comité Consultivo — ORANGE / MASMOVIL / JV",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202426/M_10896_10132326_5931_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202426/M_10896_10132326_5931_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10896/M.10896_DICT_02_3739cdba7d5e.pdf",
+      "sha256": "3739cdba7d5ecc488feb69eb5fb314dd4d4548bcff27d0eed2dc5b6e380f47ac",
+      "coincide_inventario": "",
+      "bytes": "184223",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202426/M_10896_10132326_5931_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "              EUROPEAN COMMISSION\n                       DIRECTORATE-GENERAL FOR COMPETITION\n\n\n                   OPINION\n\n                   of the ADVISORY COMMITTEE on MERGERS\n                              at its meeting on 15/02/2024\n                           concerning a draft decision\n                    in case M.10896 – ORANGE / MASMOVIL / JV\n\n                          RAPPORTEUR: LATVIA\n\n    Concentration\n\n1.  The Advisory Committee (13 Member States) agrees with the Commission that the\n     notified transaction constitutes a concentration within the meaning of Articles 3(1) and\n    3(4) of the Council Regulation (EC) No 139/2004 of 20.1.2004 on the control of\n    concentrations between undertakings (the \"Merger Regulation\")1.\n\n2.  The Advisory Committee (13 Member States) agrees with the Commission the notified\n    transaction has a Union dimension pursuant to Article 1(2) of the Merger Regulation.\n\n   Market definition\n\n3.  The Advisory Committee (13 Member States) agrees with the conclusions reached by\n    the Commission in the draft Decision in relation to the definition of the relevant product\n    and geographic markets for:\n\n            a) The retail supply of mobile telecommunications services;\n\n           b) The retail supply of M2M services;\n\n            c) The retail supply of fixed internet access services;\n\n           d) The retail supply of fixed telephony services;\n\n            e) The retail supply of multiple-play bundles including FMC bundles;\n\n             f)  The wholesale supply of access and call origination services on mobile\n              networks;\n\n           g) The wholesale supply of broadband access services;\n\n           h) The wholesale supply of call termination services on mobile networks;\n\n               i)  The wholesale supply of call termination services on fixed networks;\n\n\n1      OJ L 24, 29.1.2004, p. 1.",
+      "caracteres": 1881,
+      "caracteres_utiles": 1230,
+      "cobertura_imagen_maxima": 0.0108,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "AdCom M.10896 – ORANGE / MASMOVIL / JV                                                                    2\n\n               j)  The wholesale supply of international roaming services.\n\nCompetitive assessment\n\n    4. The Advisory Committee (13 Member  States) agrees with  the Commission’s\n       assessment  that  the  notified  transaction would  significantly impede  effective\n       competition, as a result of horizontal non-coordinated effects in:\n\n              a. The market for the retail supply of mobile telecommunication services;\n\n             b. The market for the retail supply of fixed internet services;\n\n              c. The hypothethical market for the retail supply of multiple-play bundles (and\n              hypothetical market segment for the retail supply of multiple-play bundles\n              without premium Pay-TV football content);\n\n             d. The hypothetical market for the  retail supply of FMC bundles (and the\n              hypothetical market segment for the retail supply of FMC bundles without\n           premium Pay-TV football content).\n\n    5. The Advisory Committee (13 Member  States) agrees with  the Commission’s\n       assessment that the notified transaction is unlikely to significantly impede effective\n       competition as a result of non-horizontal effects.\n\nCommitments\n\n    6. The Advisory Committee (11 Member  States) agrees with  the Commission’s\n       conclusion that the Commitments offered by the Notifying Parties on 30 January\n      2024 remove the significant impediment to effective competition identified in the\n        draft Decision (2 Member States abstain).\n\n    7. The Advisory Committee (11 Member States) agrees with the Commission that,\n       subject to the full compliance with the Commitments offered by the Notifying\n        Parties on 30 January 2024, the notified transaction is not likely to significantly\n      impede effective competition in the internal market or in a substantial part of it (2\n     Member States abstain).\n\nCompatibility with the internal market and the Agreement on the European Economic\nArea\n\n    8. The Advisory Committee (11 Member States) agrees with the Commission that the\n        notified concentration must therefore be declared compatible with the internal\n      market and the Agreement on the European Economic Area2 in accordance with\n        Article 2(2) and Article 8(2) of the Merger Regulation and Article 57 of the\n      Agreement on the European Economic Area (2 Member States abstain).\n\n                                 ***\n\n\n\n\n\n2      OJ L 1, 3.1.1994, p.3.",
+      "caracteres": 2584,
+      "caracteres_utiles": 1804,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

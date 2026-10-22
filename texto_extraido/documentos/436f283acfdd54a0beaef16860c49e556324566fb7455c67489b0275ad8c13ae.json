@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "436f283acfdd54a0beaef16860c49e556324566fb7455c67489b0275ad8c13ae",
+  "extraido_utc": "2026-10-22T19:44:49+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20250821165334+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11936_CP_01",
+      "caso": "M.11936",
+      "universo": "principal",
+      "titulo": "Commission approves Naspers' acquisition of Just Eat Takeaway.com, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_1951/IP_25_1951_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1951",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11936/M.11936_CP_01_436f283acfdd.pdf",
+      "sha256": "436f283acfdd54a0beaef16860c49e556324566fb7455c67489b0275ad8c13ae",
+      "coincide_inventario": "",
+      "bytes": "44527",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_1951/IP_25_1951_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:04+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission approves Naspers' acquisition of Just Eat Takeaway.com,\nsubject to conditions\n\nBrussels, 11 August 2025\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition of\nJust Eat Takeaway.com (‘JET') by Naspers through its subsidiary Prosus. The approval is conditional\nupon full compliance with the commitments offered by Naspers.\n\nJET operates online food delivery platforms in several Member States. Prosus is Naspers' investment\ncompany, holding stakes in several portfolio companies. Prosus holds a minority share of 27.4% in\nJET's competitor Delivery Hero. JET and Delivery Hero both offer online food delivery services in\nAustria, Bulgaria, Italy, Poland, and Spain.\n\nThe Commission's investigation\n\nThe Commission had concerns that the structural link between JET and Delivery Hero created by the\ntransaction, as initially notified, could have:\n\n    decreased JET's incentives to compete with Delivery Hero in the five Member States where both\n    companies are active (taken together, they would be by far the largest players) and across the\n    European Economic Area (EEA).\n    increased the likelihood of tacit coordination between JET and Delivery Hero, which could have\n     led to higher prices or market exits and/or prevented these companies' entry in new markets in\n    the EEA.\n\nAs a result, the Commission concluded that the transaction was likely to raise serious doubts as to its\ncompatibility with the internal market, in particular due to decreasing JET's incentives to compete and\nincreasing the likelihood of coordination between JET and Delivery Hero.\n\nProposed remedies\n\nTo address the Commission's concerns, Naspers offered to significantly reduce its shareholding in\nDelivery Hero, below a specified very low percentage, within 12 months and to implement a set of\nadditional commitments. While the Commission cannot disclose that percentage, the divestment and\nadditional commitments ensure that Naspers will have no influence over nor material interest in\nDelivery Hero's commercial decisions or strategy. As a consequence, Prosus will also no longer be\nDelivery Hero's largest shareholder based on current third-party share interests.\n\nFurthermore, under the commitments, for a specified considerable time, Naspers will:\n\n    not exercise the voting rights associated with its remaining limited shareholding in Delivery\n    Hero;\n    not recommend, propose or approve any person engaged by Naspers or any of the companies\n     in which it holds an equity interest to be appointed to the Management Board or the\n    Supervisory Board of Delivery Hero; or\n    not increase Naspers' equity interest in Delivery Hero beyond the specified maximum level.\n\nFollowing the market test, the Commission concluded that the transaction, as modified by the\ncommitments, would no longer raise competition concerns. The clearance decision is conditional upon\nfull compliance with the commitments. Under the supervision of the Commission, an independent\ntrustee will monitor their implementation.\n\nThese commitments fully address the competition concerns identified by the Commission, by ensuring\nthat Delivery Hero will continue to be an independent competitor of JET in food delivery in the EEA.",
+      "caracteres": 3314,
+      "caracteres_utiles": 2678,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Background\n\nThe transaction was notified to the Commission on 20 June 2025.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a turnover\nabove certain thresholds (see Article 1 of the Merger Regulation) and to prevent concentrations that\nwould significantly impede effective competition in the EEA or any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of 25\nworking days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working days,\nbringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nOn 2 June 2025, the Commission fined Delivery Hero and Glovo a total of €329 million for\nparticipating in a cartel in the online food delivery sector.\n\nFor More Information\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.11936.\n\n                                                                                                            IP/25/1951\n\nQuote(s):\n\n\n \"We had concerns that the acquisition of Just Eat Takeaway.com by Naspers could allow the parties to coordinate their behaviour\n in the food delivery market, reducing competition and consumers choice. Today’s binding commitments preserve both competition\n and consumer choice when ordering food at home. This decision also sends a clear warning to an industry with recent antitrust\n issues: we won’t tolerate any anticompetitive behaviour that may harm consumers.\"\n Teresa Ribera, Executive Vice-President for Clean, Just and Competitive Transition - 11/08/2025\n\n\n Press contacts:\n\n      Lea ZUBER (+32 2 29 56298)\n      Sara SIMONINI (+32 2 29 83367)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2027,
+      "caracteres_utiles": 1534,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "630363149f524824ebe5568d33d8ae42ec24aa3ebf4edceaeb3c7cadfbc2def0",
+  "extraido_utc": "2026-10-22T19:48:12+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDF CoDe 5.2109.568.0 (c) 2002-2021 European Commission",
+    "producer": "PDF CoDe 5.2109.568.0 (c) 2002-2021 European Commission",
+    "creationDate": "D:20211022152204+02'00'",
+    "modDate": "D:20211022152204+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.9969_NOT_PREVIA_01",
+      "caso": "M.9969",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — VEOLIA / SUEZ",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "FR",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202144/M_9969_7987394_2642_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202144/M_9969_7987394_2642_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_9969/M.9969_NOT_PREVIA_01_630363149f52.pdf",
+      "sha256": "630363149f524824ebe5568d33d8ae42ec24aa3ebf4edceaeb3c7cadfbc2def0",
+      "coincide_inventario": "",
+      "bytes": "31040",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202144/M_9969_7987394_2642_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": "1",
+      "origen_texto": "pdf",
+      "texto": "FR\n\n\nClause de non-responsabilité:\n\n\nLa DG Concurrence met à la disposition du public, dans un souci de transparence accrue, les renseignements\ncommuniqués par les parties notifiantes dans la section 1.2 du formulaire CO. Ces informations ont été\nélaborées par les parties notifiantes, qui en sont seules responsables, et leur teneur ne préjuge nullement la\nposition de la Commission sur l'opération envisagée. La Commission ne peut pas davantage être tenue pour\nresponsable des renseignements inexacts ou dénaturés qui y figureraient.\n\nM. 9969 ― VEOLIA / SUEZ\n\n\n                         SECTION 1.2\n\n\n                           Description de la concentration\n\n\nLe 22 octobre 2021, la Commission a reçu notification d’un projet de concentration consistant\nen l’acquisition du contrôle exclusif de SUEZ S.A. (« Suez ») par Veolia Environnement S.A.\n(« Veolia »).\n\n\nVeolia et Suez sont toutes deux actives dans les secteurs de l’eau et des déchets, en Europe et\ndans le monde. L’opération permettra de créer un acteur mondial de  la transformation\nécologique, capable de proposer des solutions innovantes tout en accélérant le développement\ninternational de ces deux groupes. La nouvelle entité pourra fournir aux acteurs publics et\nprivés les moyens de réduire durablement leur impact environnemental afin de répondre à\nl’urgence écologique. De plus, en combinant les savoir-faire opérationnels de Veolia et de\nSuez, l’opération entraînera des gains d’efficacité bénéficiant aux clients de la nouvelle entité.\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 1737,
+      "caracteres_utiles": 1354,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

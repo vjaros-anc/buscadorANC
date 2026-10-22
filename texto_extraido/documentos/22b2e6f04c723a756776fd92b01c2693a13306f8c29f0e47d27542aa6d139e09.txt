@@ -1,0 +1,1527 @@
+[PÁGINA PDF 1]
+Competition merger brief
+                                                        Issue 1/2023 – May
+
+
+
+
+
+More briefs:                                                   In this issue:
+https://competition-
+policy.ec.europa.eu/publications/co
+mpetition-policy-briefs_en
+                              Page 1: M.10108  S&P Global/IHS Markit
+More publications:
+https://competition-                                    A benchmark in preserving fair data markets
+policy.ec.europa.eu/publications_en
+http://bookshop.europa.eu
+                              Page 4: M.9969     Veolia/Suez
+Competition merger briefs are
+written by the staff of the                                No wasted effort
+Competition Directorate-General
+and provide background to policy
+discussions. They represent the             Page 10: M.10262  Meta/Kustomer
+authors’ view on the matter and
+                                                       What’s the Meta with Kustomer?do not bind the Commission in any
+way.
+© European Union, 2023                Page 15: M.10078  Cargotec/Konecranes
+Reproduction is authorised
+provided the source is                                               Heavy-lifting to protect European customers
+acknowledged.
+                              Page 19: M.10431   Ali/Welbilt
+
+KD-AL-23-001-EN-N                                    A Hot N Cold decision about ovens and ice machines
+doi 10.2763/802841
+ISBN 978-92-68-01794-4
+ISSN 2363-2534                    Page 22: M.10575  Bouygues/Equans
+
+                                                       Keeping competition “on track”
+
+[PÁGINA PDF 2]
+Competition Merger Brief 1/2023 – Article 1
+Competition merger brief
+
+ S&P Global/IHS Markit A benchmark in       as  the  Brent benchmark  for
+                                                                     crude  oil. PRAs therefore play    In a nutshell  preserving fair data markets                     an important role in ensuring
+                                                                                   efficient   and    transparent     The   USD   44     billion
+   Sophie Ahlswede, Youenn Beaudouin, Eva Sotosek                        trading in commodity markets.       acquisition of IHSM by S&P
+                                                                                  was conditionally cleared in
+  Introduction                                                 S&P, via S&P Platts, and IHSM,     Phase I, subject to a remedy
+                                                                              via OPIS, PCW and CMM, were  On 22 October 2021, the Commission cleared the USD 44 billion                                     package   across   multiple
+                                                              two of the main providers of
+   acquisition of IHS Markit (“IHSM”, UK) by S&P Global (“S&P”, US)                                        markets.
+                                                                                price assessments globally in a
+   (the “Transaction”), subject to an extensive remedy package. Both
+                                                            number of commodity markets     While the Parties’ portfolios  S&P and IHSM (“the Parties”) were major providers of data and
+                                                                                (including oil, coal, biofuels and     were                 largely   analytics to global financial markets, industries and governments.
+                                                                           petrochemicals). S&P was  a                                                                                               complementary,  they  gave
+                                                                               clear leader  in such markets,   The  Parties  inter  alia operated two of the  four main  price                                               rise to overlaps in the areas
+                                                                        with IHSM normally being the   reporting agencies  (“PRAs”), which provide data on  prices  in                                         of commodity and financial
+                                                                                   third largest player, depending   physical and derivative commodity markets. In anticipation of                                           data.   The   Commission’s
+                                                               on the exact relevant market.   possible competition concerns, and  in the context of  parallel                                            investigation revealed both
+                                                                The other two main PRAs were   reviews in other jurisdictions, the Parties publicly announced their                                           horizontal   and    vertical
+                                                                   Argus    and      ICIS.    The   intention  to  divest  IHSM’s PRA  already  before  notification.                                        competition   issues   in  a
+                                                                            consolidation in these markets   Ultimately, the Commission  identified preliminary competition                                  number   of  markets.  To
+                                                                                               is in part due to their specific   concerns  in  the market  for  price assessments, which were                                       address  these, the  Parties
+                                                                                characteristics  whereby  price   addressed by the divestment.                                                                          offered extensive and clear-
+                                                                 assessments  are  embedded
+                                                                                                         cut  divestment  packages,
+   While the remainder of the Parties’ broad portfolios were largely        into a large number of long-                                                                                                        leading  to  a  conditional
+   complementary, the transaction gave rise to a large number of      term   contracts,   leading   to                                                                                                      clearance decision in Phase
+   horizontally and non-horizontally affected markets related to       extremely high switching costs
+                                                                                                                                                                                                  I.
+   financial data and services. Many of the overlaps involved critical      and  barriers  to  entry.  The
+   data  and   infrastructure,  and  thus  required  a  thorough      Commission  was   therefore                                                                                                                                All divested businesses were
+   assessment. The Commission’s  investigation revealed  further       concerned that the Transaction                                                                                                           ultimately    acquired   by
+   potential  horizontal and  vertical competition concerns  in the      would  harm  competition   in                                                                                                      strong industrial purchasers,
+   markets for the supply of loan identifiers, leveraged loan market       these   already   concentrated                                                                                                        preserving  competition  for
+   intelligence and leveraged loan indices, in addition to those in       markets.
+   price assessments. To address these concerns, the Parties offered
+                                                                To address these concerns, the Parties offered to divest IHSM’s   additional divestments of S&P’s businesses.
+                                                                 OPIS  (including PCW  and  CMM),  which  fully  removed  the
+   The clear-cut divestment package, which removed the relevant       problematic overlap.
+   overlaps, led the Commission to clear the case conditionally in
+                                                                The Parties signed a share purchase agreement with News Corp,   Phase I.
+                                                             a US media and publishing company, with respect to the OPIS
+  Commodity price assessments                              divestment business already  prior  to the  notification of the
+                                                                         Transaction to the Commission. Nevertheless, the Commission’s
+   The Parties both operated price reporting agencies (“PRAs”). PRAs       market test and the commitments did not exclude the possibility
+   provide data on prices  in physical and derivative commodity       of other purchasers. Ultimately, News Corp was found to be
+   markets, which  are  in  turn used  in  physical  contracts and        suitable purchaser meeting all the purchaser criteria, which on
+   financial trades. These prices may become the market standard       top of the standard criteria, required the purchaser to not be a
+   for a specific commodity, and thus qualify as benchmarks, such        financial  investor,  having  global  presence and no  material
+
+
+   The content of this article does not necessarily reflect the
+     official position of the European Commission. Responsibility
+    for the information and views expressed lies entirely with
+    the authors.
+
+[PÁGINA PDF 3]
+                M.10108 - S&P Global/IHS Markit | Competition Merger Brief No 1/2023
+
+
+
+
+exposure to the price of underlying commodities to safeguard the      be a viable and competitive business on a standalone basis, in
+divestment business’ independence.                                        particular due to the small size of the Loan CUSIP business, and
+                                                                                 their link with and dependence on the overall CUSIP business.
+Throughout the process, the Commission cooperated closely with
+its counterparts in the US (DoJ) and the UK (CMA), which were       As a result of the negative market feedback, the Parties offered a
+reviewing the Transaction in parallel. Both the DoJ and the CMA        significantly broader divestment of the overall CUSIP business to
+also raised concerns in the area of commodity price assessments       address the  viability concerns of the Loan CUSIP carve-out
+and ultimately approved News Corp as a suitable purchaser of        identified in the market test. The standalone nature of the CUSIP
+the price assessment divestment.                                     business allowed the Commission to conclude that the broader
+                                                          commitment did not suffer from any of the issues identified
+Loan identifiers                                                  during the market test of the Loan CUSIP carve-out.
+
+The horizontal overlap                                       As S&P operated the CUSIP business under the license of the
+Both Parties provided loan identifiers. These are unique identifiers       American Bankers Association (“ABA”) and required an agreement
+assigned to loans, and provide a globally standardised way for       with the Loan Syndication and Trading Association (“LSTA”), the
+identifying loans used for the purposes of financial transactions       purchaser criteria included a condition that both ABA and LSTA
+but also analytics (e.g. market intelligence). S&P operated CUSIPs,        shall have consented to the transfer of the CUSIP business to the
+key identifiers covering all security types, including loans (“Loan       purchaser.  Ultimately,  the CUSIP  business was  acquired by
+CUSIPs”).1 IHSM, on the other hand, operates the market-leading        FactSet, a US financial data and software company, which the
+loan identifier LXID to track individual loans in their loan pricing      Commission found to have met  all the necessary purchaser
+and reference data products.                                                      criteria.
+
+The  Parties argued that Loan CUSIPs and LXIDs are  highly     Leveraged   loan   market   intelligence   and
+differentiated products. Mainly, they are created and updated at     leveraged loan indices
+different stages of a  loan’s  lifecycle, and Loan CUSIPs are
+created on a request by a borrower or a bank, while LXIDs are      LXIDs as an input into loan market intelligence
+only  created  for  loans  included  in IHSM’s  loan  pricing and      The Commission found that the above-mentioned LXIDs (sold
+reference data. In spite of this commercial link between LXIDs       together with IHSM’s loan pricing and reference data) were an
+and the remainder of IHSM’s loan data offering, the Commission       important input into leveraged loan market intelligence products,
+considered LXIDs as a standalone  identifier, based on usage       of which S&P was the market leader with its Loan Commentary
+patterns and market feedback, in competition with Loan CUSIPs.        and Data  (LCD)  product. The Commission  identified  vertical
+                                                                     competition concerns, as it found that the Parties would have the
+The Commission found that LXIDs were the clear market leader                                                                                     ability and incentive to foreclose LCD’s competitors, which would
+and likely the dominant loan identifier, while Loan CUSIPs were                                                                                      likely increase prices for end-customers and reduce choice and
+the number two in this market. Despite the differences outlined                                                                           innovation.
+above, the Commission found  that the two  identifiers were
+substitutes at least for a number of specific use cases, and that     Leveraged loan indices
+Loan CUSIPs were the closest alternative to LXIDs, and its main                                                             The Parties were also both active in the provision of financial
+challenger. At the same time, none of the competing identifiers                                                                                indices, where their portfolios were largely complementary with
+(from e.g. Bloomberg or Refinitiv) seemed to have posed any                                                     S&P focusing on equity indices and IHSM on fixed income indices.
+meaningful constraint on the Parties, in particular due to a lower
+loan  coverage.  In  addition, as  is  the case  for  all  security       However,  based  on  precedents  and  market  feedback,  the
+identifiers, these markets are prone to network effects, high      Commission  found   that   there   are  numerous   plausible
+switching costs and high barriers to entry, since the products are       segmentations  of  the  market  for  financial   indices.  The
+meant to be a standard way of identifying specific assets. The       Commission’s investigation found that leveraged loan indices
+Commission therefore had serious doubts about the impact of      were a plausible product market, as fixed income indices could be
+the Transaction on competition in the market for loan identifiers.         distinguished by investors based on the underlying instrument
+                                                                    type  (leveraged  loans,  bonds  or  credit  default  swaps  for
+The CUSIP Commitment                                               instance). In leveraged loan indices, a small sub-category of fixed
+To address the concern, the Parties initially offered to divest Loan      income indices, the Parties were the only two players. Out-of-
+CUSIPs, by way of a carve-out from S&P’s CUSIP business. The       market players were found to be insufficient to constrain the
+initial commitment was market tested. However, the results of        Parties in this market. In particular, companies trading leveraged
+the market test showed that Loan CUSIPs were not considered to       loans  over  the  counter were found  not  to  exert a  strong
+                                                                          constraint on the Parties. IHSM  is the market leader for loan
+1 S&P also offered LCD IDs, but these were found to be only a distant        pricing data which is relevant for the trading of leveraged loans
+  competitor to LXIDs.                                                     that these other players also rely on. The Commission therefore
+
+
+
+
+
+                                                   2
+
+[PÁGINA PDF 4]
+                M.10108 - S&P Global/IHS Markit | Competition Merger Brief No 1/2023
+
+
+
+found that the Transaction would create a monopoly  in the     Conclusion
+market  for  leveraged  loan  indices, which would be  further
+strengthened by IHSM being a supplier of an essential input (loan     S&P and IHSM were global leaders in commodity and financial
+pricing data). Therefore, despite leveraged loan indices being a       data markets. While the large majority of their portfolios were
+relatively  niche  category  of  overall  financial  indices,  the       complementary,  the Commission  assessed  carefully a  large
+Commission identified horizontal concerns in this market.             number of markets where the Transaction could have limited
+                                                                    customers’ access to competitive and reliable data.
+The LCD Commitment
+Given that S&P offered their leveraged loan indices as part of      The remedy package consisted exclusively of structural remedies,
+their LCD  product, the  Parties offered  to  divest S&P’s LCD      namely divestments. The divestments were used to address both
+business including its leveraged loan index in order to address the        horizontal and non-horizontal concerns (e.g. LXIDs as an input
+two separate concerns outlined above. This divestiture was a        into loan market intelligence), and were in some markets much
+clear-cut way to remove both the horizontal overlap (by removing        larger than the overlap (e.g. all CUSIPs to address the issues in
+the  increment  in  leveraged  loan  indices)  and  the  vertical       loan identifiers). The remedies ensured that competition in those
+relationship (by removing the merged entity’s activity in loan       markets was preserved, which  is  in turn essential to ensure
+market intelligence), and therefore addressed the Commission’s       transparency (and therefore the fairness) of physical commodity
+preliminary concerns.                                                  trades and all trades carried over financial markets.
+
+Like for the CUSIP Commitment, the purchaser criteria included
+the consent of the LSTA as well as other technical capabilities.
+Ultimately, the Commission approved Morningstar as a purchaser
+of the LCD business.
+
+
+
+
+
+                                                   3
+
+[PÁGINA PDF 5]
+Competition Merger Brief 1/2023 – Article 2
+Competition merger brief
+
+  Veolia/Suez – No wasted effort                       This   Brief   analyses   the
+                                                                   Commission’s approach to the    In a nutshell                                                                         substantive issues  raised by   Daniel Coublucq, David Dubois, Simon Genevaz, Pierre Pêcheux,
+   Camille Vardon                                                       the   Transaction  and   the      Following   a   constructive
+                                                                   remedies ultimately adopted.      period  of   pre-notification,
+  Introduction                                                                                  It  also  covers  the  specific      the Commission approved, in
+  On 14 December 2021, the Commission approved the acquisition        issue     raised    by    the     Phase   I, the  acquisition of
+                                                                            Transaction’s       staggered     Suez  by   Veolia,   bringing   by Veolia Environnement S.A. (“Veolia” or the “Notifying Party”,
+                                                                             structure and the applicability      together two leading French   France)  of Suez  S.A.  (“Suez”,  France)1 subject  to  substantial
+   remedies  (the  “Transaction”).2 The combination of Veolia and       of the automatic derogation     waste     and      water-
+                                                                             to  the  standstill  obligation     management firms.   Suez creates a world leading  provider  of waste and water
+                                                                        provided for by the EU Merger  management services to local authorities and businesses. By this
+   decision, the Commission ensured that this acquisition would not        Regulation.                     The   transaction   involved
+   adversely affect competition in water and waste management                                     dozens of affected markets,
+   services, sectors crucial to the European Green Deal and the    On the scope of the     and would have resulted in a
+   circular economy.                                               Article 7(2) derogation      near monopoly in France in
+                                                                                                    the absence of remedies.  It
+                                                       On 30 August 2020,  Veolia
+   The acquisition of Suez by Veolia was staggered over time. As a                                        could  only be approved  in
+                                                               announced   its  intention  to
+    first step, Veolia acquired a minority non-controlling share of                                    Phase   I  thanks  to a  very
+                                                                         acquire   control   of   Suez
+  29.9%  in Suez. As a second  step, Veolia launched a  hostile                                     comprehensive     set    of
+                                                                     through  an  operation  that
+   takeover  bid  for the remaining shares of Suez. Following a                                  commitments by Veolia, who                                                                would consist of two phases.
+   thorough analysis of the facts of the case, the Commission                                     agreed to divest almost the                                                                            Setting  into motion the  first
+   considered that the Transaction (i.e. the first and second steps)                                            entirety  of  the  overlap  in                                                                       phase, on 30 August 2020
+   formed a  single  concentration  that  could  benefit from  the                                          France, where the companies                                                                           Veolia  offered  to  acquire a
+   derogation to the standstill obligation provided for by Article 7(2)                                                                                                    are historical competitors.                                                           29.9% non-controlling stake in
+   of the EU Merger Regulation.3
+                                                                         Suez. On the same day, Veolia
+                                                                                           The  transaction  was  also
+                                                               announced the second phase,  From a substantive standpoint, the merger combined worldwide                                                                                                     notable  because   of   the
+                                                                                indicating its intention to file a   players that operate assets across the whole water treatment                                                                                                          adversarial circumstances in                                                                         voluntary  public  bid  for the  and waste and water management value chains. The Transaction                                                                                              which  it took place, and of                                                                     remaining  shares   in  Suez.   involved hundreds of markets, most located in France. Many of                                                                                                    the    multiple   derogation                                                                  Through  these  two  phases,   these markets resulted in significant overlaps, which made  it                                                                                                     requests  made  by  Veolia                                                                           Veolia  would  acquire  more   clear at very early stages of the review that competition concerns
+                                                                                                  (and resisted by Suez) as  it                                                                    than 50%  of the shares  in   were  likely. As Veolia submitted comprehensive and clear-cut
+                                                                                               proceeded  with  its  hostile                                                                Suez and as such would take  remedy packages to resolve these concerns on all problematic
+                                                                                                          takeover.                                                                            sole control of Suez.   markets in a timely fashion, the Transaction was conditionally
+   cleared in Phase 1.
+                                                       On 16 October 2020, Suez formally invited the Commission,
+                                                                   under Article 265 TFEU, to declare that, by implementing the first
+                                                                phase of its takeover without obtaining the Commission’s prior
+    1   Veolia and Suez are hereinafter referred to as the “Parties”.                 clearance, Veolia infringed the standstill obligation under Article
+    2   M.9969 – Veolia/Suez, decision dated 14 December 2021,
+    3   M.9969 – Veolia/Suez (rejection of a request to act), decision dated
+      17 December 2020. The Commission’s decision was challenged by
+      Suez on 25 February 2021. However, following the announcement, on
+      14 May 2021, that Veolia and Suez had reached an agreement, the
+       case was removed from the General Court’s register.
+
+
+
+   The content of this article does not necessarily reflect the
+     official position of the European Commission. Responsibility
+    for the information and views expressed lies entirely with
+    the authors.
+
+[PÁGINA PDF 6]
+                        M. 9969 Veolia/Suez | Competition Merger Brief No 1/2023
+
+
+
+7(1) of the EU Merger Regulation.4 By a decision of 17 December      Commission considered that  if two transactions  constitute a
+2020, the Commission rejected Suez’s request to act.5                    single concentration, it cannot exclude the acquisition constituting
+                                                                     the first stage of that single concentration from the scope of
+First, the Commission concluded that the  first step  (i.e., the         Article  7(2)  derogations.   It  follows  that   all  transactions
+acquisition of a 29.9% non-controlling stake in Suez) and the        contributing to an acquisition of control and forming part of a
+second step (i.e., the launch of a public bid for the acquisition of        single concentration should be subject to the same legal regime.8
+the remaining shares of Suez) of the Transaction constituted a
+single concentration within the meaning of Article 3 of the EU    On the competitive assessment
+Merger Regulation. The Commission considered that the first and
+                                                             The Commission found that the Transaction resulted in significantsecond  steps  were  interdependent,  as  they  had  been
+                                                                      overlaps between Veolia and Suez in France, where the Partiessimultaneously designed and planned by Veolia to reach the
+                                                            were  already  pre-Transaction  the number 1 and number 2same economic goal: the acquisition of control over Suez. The
+                                                                       players  for the  provision  of waste and water managementCommission’s  assessment  was  based  on  Veolia’s  public
+                                                                               services.9declarations and internal documents indicating that it would not
+have sought to first acquire a non-controlling minority stake in
+                                                                      For most affected markets where the Commission raised serious
+Suez if it did not intend to acquire control over the company, thus
+                                                                       doubts, the Transaction resulted in the creation or strengthening
+making the initial acquisition of the minority stake a key means
+                                                                       of a dominant  position.  In  its assessment, the Commission
+to achieve the takeover. Therefore, the Commission concluded
+                                                                    considered  the  already  large market shares  of  Veolia  pre-
+that it would be artificial to consider that the acquisition of the
+                                                                            transaction, the significant increment brought about by Suez, the
+minority stake was economically autonomous.
+                                                                     increased concentration level resulting from the combination of
+                                                                     the Parties’ activities, the Parties’ close competitive relationshipSecond, the Commission concluded that, since the two steps of
+                                                           and  the  lack  of  a  sufficient  competitive  constraint  fromthe Transaction constituted a single concentration, the derogation
+                                                                        competitors. The Commission also took into account the existencefrom the standstill obligation provided for by Article 7(2) of the
+                             6                                               of high barriers to entry and the lack of sufficient countervailingEU  Merger  Regulation  covered  the  entire  Transaction.  The
+                                                             power  from  customers.  The  Commission’s  assessment wasCommission  considered  that   Article  7(2)  derogations  are
+                                                                 confirmed by overwhelmingly negative feedback and supportingapplicable to hybrid situations where control is acquired through
+                                                                 data received from both customers and competitors during thethe combination of a transaction in securities and a public bid, as
+                                                              market investigation.long as  they  constitute a  single  concentration.7 Indeed,  the
+
+                                                                       Thus, the Commission pursued a rather classic dominance case
+4   Pursuant  to  Article  7(1)  of  the  EU  Merger  Regulation,   “[a]                                                           and relied on a series of consistent structural factors pointing to
+    concentration with a Community dimension as defined in Article 1, or
+    which is to be examined by the Commission pursuant to Article 4(5),        highly concentrated markets, and the unlikelihood that actual or
+     shall not be implemented either before its notification or until it has        potential competitors would contest the merged entity’s position.
+    been declared compatible with the common market pursuant to a       Notable aspects of the Commission’s assessment include the use
+    decision under Articles 6(1)(b), 8(1) or 8(2), or on the basis of a
+                                                                       of bidding data, its approach to defining catchment areas, as well    presumption according to Article 10(6)”.
+5   Case M.9969 – Veolia/Suez (rejection of a request to act), decision       as the impact of customers’ ability to internalize their demand on
+    dated 17 December 2020. The Commission’s decision was challenged       the competitive assessment.
+    by Suez on 25 February 2021. However, following the announcement,
+    on 14 May 2021, that Veolia and Suez had reached an agreement,
+                                                        The use of bidding data in the presence of high market    the case was removed from the General Court’s register.
+6    Article  7(2)  of  the EU Merger  Regulation  establishes  that  the      shares
+     standstill obligation provided for by Article 7(1) “shall not prevent the
+    implementation of a public bid or of a series of transactions  in        In the presence of bidding markets, the analysis of companies’
+     securities including those convertible into other securities admitted to       tender data can play a central role in showing the existence10 or
+    trading on a market such as a stock exchange, by which control
+                                                                              lack11 of competition concerns.    within the meaning of Article 3  is acquired from various  sellers,
+    provided that:
+     (a) the concentration is notified to the Commission pursuant to Article
+   4 without delay; and                                                                    8   Provided that the first transaction does not confer upon the acquirer
+     (b) the acquirer does not exercise the voting rights attached to the           any control over the target. In the Marine Harvest ruling (T-704/14,
+     securities in question or does so only to maintain the full value of its            Marine  Harvest  v  Commission),  the  General  Court examined a
+    investments based on a derogation granted by the Commission under             situation in which a buyer first acquired a controlling stake in the
+    paragraph 3”.                                                                    target through a single transaction, and subsequently acquired the
+7   This interpretation is in line with the principles established by the EU            remaining shares through a public bid. The General Court considered
+    case law. In Marine Harvest, the General Court clarified “that  it is             that Marine Harvest had broken the standstill obligation after having
+    possible that the acquisition of a minority stake which does not            acquired a controlling stake of 48.5% in the target through the first
+    confer control of the target undertaking, followed by a public bid, may             transaction, prior any clearance decision from the Commission.
+    form part of a single concentration which falls within the scope of          9   The Transaction also gave rise to horizontally affected market in
+     Article 7(2) of Regulation No 139/2004”. Judgment of 26 October            Belgium, Czechia, Germany, Poland and Spain.
+   2017  in Marine Harvest v Commission, T-704/14, EU:T:2017:753,          10  See for instance Case M.9779 – Alstom/Bombardier, decision dated
+    paragraph 191.                                                  31 July 2020.
+
+
+
+
+
+                                                   5
+
+[PÁGINA PDF 7]
+                        M. 9969 Veolia/Suez | Competition Merger Brief No 1/2023
+
+
+
+In  Veolia/Suez, most  of  the waste and water management       often bidding against one another, and losing a high proportion of
+services concerned by the Commission’s competitive assessment       tenders to the other Party’s benefit,16
+were procured by both local authorities and businesses through
+tender procedures. Thus, the Commission conducted a series of         Third, the Commission analysed the Parties’ respective contract
+statistical analyses based on bidding data to assess the intensity       renewal rates. Indeed, while a low renewal rate indicates that
+of  competition between  the  Parties and  the  extent  of  the       customers can easily switch suppliers and is a sign of a dynamic
+potential unilateral effects resulting from the Transaction. The       competitive landscape, a high renewal rate is consistent with a
+Commission carried out its analyses of the bidding data both in        certain  inertia  in  the  market and a  limited  possibility  for
+number of tenders and in terms of the values of tenders, and       customers  to switch  suppliers. A high renewal  rate  is  thus
+eventually  relied  mainly  on  the  analyses  by  value,  more        consistent with the existence of important switching costs and
+representative of the Parties’ situation.12                               high barriers to entry. Here, the Commission’s analysis showed
+                                                                       several markets  to have  very high renewal  rates,  with  for
+First,  the  Commission  analysed  the  average  number  of       instance renewal rates going up to 90-100% for Veolia and 80-
+participants  in each  tender  pre- and  post-Transaction.  This     90%  for Suez on  the markets  for  the  provision  of water
+analysis  indicated  that  the  market  structure was  already      management services in France.
+concentrated pre-Transaction with only a  limited number of
+participants  in the vast majority of tenders. The Transaction      The   quantitative  evidence   therefore   indicated   that  the
+would therefore only increase the level of market concentration,       Transaction would have led to a significant loss of competition in
+leaving only little choice of alternative suppliers to customers.13          multiple waste and water managements markets.
+
+In the absence of reliable market share data,14 such analysis      By contrast, the bidding analyses carried out by the Commission
+played a critical role in assessing the Parties’ position on the      on the basis of the Parties’ data played a critical role in dispelling
+market for the provision of mobile water services in the EEA.       the Commission’s competition concerns in some other affected
+While the Parties argued that they held a limited position on this       markets (e.g., markets for the provision of water management
+market in the EEA, with a low combined market share (<20%),        services in Czechia and in Spain, the market for the incineration
+the investigation revealed that the Parties were considered as       of hazardous waste in Spain or the market for the supply of
+significant players by most of their customers and competitors,       chemical treatment of hazardous waste in Belgium). For these
+facing only a limited number of credible competitors. In order to       markets, the analysis of tender data showed that the Parties
+shed some light on the competitive landscape, the Commission      were not  particularly close competitors and importantly  that
+notably relied on the Parties’ tender data which showed the       several credible alternatives would constrain the merged entity
+market for the provision of mobile water services in the EEA to be        post-Transaction.
+highly concentrated, with a rather limited number of operators
+                                                        The approach taken when defining catchment areasparticipating in the same tenders as the Parties.15
+                                                                                In markets where demand is highly localised, the Commission will
+Second, the Commission analysed the bidding data to determine                                                                        generally  resort  to  defining  the  relevant geographic market
+the closeness of competition between the Parties and identify the                                                                     according to catchment areas around either a customer or a
+other  potential competitive  constraints. More  specifically, the                                                                                supplier. This will typically be the case where a product can only
+Commission analysed how often the Parties participated against                                                             be transported over short distances because of  logistics and
+each other in tenders, relative to other suppliers (i.e., conditional                                                                        regulatory issues or because transport costs are high.
+participation analysis) and how often the Parties lost to each
+other, also relative to other bidders (i.e., conditional loss analysis).        In  this case, the Commission considered that the geographic
+These analyses indicated that the Parties were close competitors,       scope of the markets for the treatment of hazardous waste
+                                                                   should be based on catchments areas. This marked a departure
+                                                             from the Commission’s previous practice which had considered
+11  See  for instance Case M.7429 – Siemens/Dresser-Rand, decision       these markets  likely to be EU-wide due to significant cross-
+    dated 29 June 2015.                                               border flows and low  regulatory  barriers.17 In  this  case, the12    See also case M.9829 – Aon/Willis Towers Watson, decision dated 9
+                                                                Commission’s investigation showed that the market conditions    July 2021 and case M.8677 –Siemens/Alstom, decision dated 6
+    February 2019.                                             had significantly evolved and that the vast majority of hazardous
+13  For example, post-Transaction, [70-80]% of the tenders would have      waste produced in Europe was now treated within its country of
+    been characterised by a monopoly or a duopoly in the market for the
+    provision  of water management  services  to  local  authorities  in
+    France.
+14  M.9969 – Veolia/Suez, decision dated 14 December 2021, recitals          16  The Commission noted as well that participation rate and loss rates
+    345-346.                                                            between the Parties were higher in value, which indicates that the
+15  As part of its assessment, the Commission relied on a strong body of             Parties were even closer competitors for high value tenders.
+    evidence, both of qualitative (e.g. internal documents, results of the          17  Case M.295 – SITA-RPC/SCORI, decision dated 19 March 1993, recital
+    market  investigation) and  quantitative  (e.g.  tender  data,  partial          19 and case M.4576 – AVR/Van Gansewinkel, decision dated 3 April
+    market reconstruction collected from the main third parties) nature.             2007, recital 18.
+
+
+
+
+
+                                                   6
+
+[PÁGINA PDF 8]
+                        M. 9969 Veolia/Suez | Competition Merger Brief No 1/2023
+
+
+
+origin.18 This change was notably due to European and national       below. This approach had a number of advantages.  First,  it
+regulations which actively encourage waste to be treated as close        reflected the  actual flows  of waste sent by customers  for
+as possible to where it is produced19 and customers’ preferences       treatment, and did not require setting a specific radius for a
+(customers  indicated  that  treating waste  over  the  shortest       catchment area. Second, by allowing the Commission to more
+possible distance was very important,  in order to  limit both        precisely identify the Parties’ sites in direct competition with each
+transport costs and carbon emissions20).                                   other,  it helped to identify the sites that would constitute the
+                                                           most suitable candidates for divestments to remedy competition
+The Commission concluded that for the treatment of hazardous       concerns.
+waste, the relevant geographic scope was a catchment area
+around each landfill or incinerator of the merging parties. In order       Figure  2:  Veolia  and  Suez  combined  market  shares
+to  carry  out  this  supplier-centric  analysis,  the  Commission       following a customer-centric approach for the landfilling
+analysed data on the volumes of dangerous waste that were       of hazardous waste in France.
+collected by each site of the merging Parties and their main
+competitors and calculated the distance travelled by 70, 80 and
+90% of the waste to reach the treatment site.
+
+This led to the Commission to define catchment areas of 300 km
+radius for both the landfilling and the incineration of hazardous
+waste. In practice, a circle of 300 km radius was drawn around
+each site of Parties, and market shares were calculated by taking
+into consideration the total volume that was treated by each site
+included in the catchment area (see Figure 1 below). Since data
+on the total volume that  is treated by a  site was generally
+available for both the Parties and their competitors, the site-
+centric approach was relatively straightforward to implement.
+
+Figure  1:  illustration of market shares by  site-centric
+catchment areas
+
+
+
+
+
+                                                                               Source:  extract  from  the  Commission’s  decision  in  Case  M.9969  –
+                                                                                Veolia/Suez
+
+                                                        The  assessment  of  in-house  services  supplied  by
+                                                         customers
+
+                                                        One key argument put forward by the Notifying Party to dismiss
+                                                                     competition concerns on the markets for the provision of water
+                                                       management   services   was   the   trend   towards   the
+                                                                           “remunicipalisation”  of water management  services by  local
+                                                                               authorities. 21  According   to   Veolia,   local   authorities    (i.e.
+The Commission complemented the commonly used site-centric        municipalities) that tender out water management services are
+approach  with  a  customer-centric  approach.  To  that  end,       also able to internalize those services and provide them in-house.
+customers were grouped according to the French administrative      As  a  result,  Veolia  claimed  that  municipalities  exercised
+district  (“département”)  where  they  were  based.  For  each        countervailing buyer power given the option of turning to in-
+département, the Commission analysed which volumes were sent       house services in the event that bids by private companies for
+to each site of the Parties and their competitors for treatment,       water   services   contracts  were   insufficiently   competitive.
+and calculated market shares accordingly, as shown in Figure 2       According to the Notifying Party, such “return” of water services
+                                                                          to full public management is significant and, as such, needed to
+18  More specifically, the Commission found that only 5-10% of the      be accounted for at the stages of the market definition and the
+    hazardous waste landfilled, and 10-20% of that which is incinerated,
+                                                                      competitive assessment.    crosses a national border.
+19   Directive  2008/98/CE  relative  to  waste,  article  16(3);  French
+    Environmental Code, article L. 541-1 (II - 4°).
+20  M.9969 – Veolia/Suez, decision dated 14 December 2021, recital
+    908.                                                                                       21  M.9969 – Veolia/Suez, decision dated 14 December 2021, recital 60.
+
+
+
+
+
+                                                   7
+
+[PÁGINA PDF 9]
+                        M. 9969 Veolia/Suez | Competition Merger Brief No 1/2023
+
+
+
+First, Veolia argued that municipal water management services       Competitive pressure from enterprises with public and private
+performed by French local authorities themselves  (i.e., “régies”)        capital seemed likely to grow in the years to come, given the
+should be part of the relevant product market because local       strong trend in the return to public or semi-public management
+authorities can choose to self-supply even after launching a        currently experienced by the Czech market, as indicated by a
+formal tender22 Moreover, Veolia claimed that there existed a        competitor.28
+growing trend for French local authorities to take back these
+services in-house over the last 10 years.23                                    Finally, Veolia presented comparable arguments in relation to the
+                                                              market  for the  provision  of water management  services  to
+The Commission dismissed  this argument  in  relation  to the        industrial customers, considering that industrial customers may
+French markets based on two main findings.24 Firstly, the market       consider  it economically and technically appropriate to handle
+investigation showed  that  French  local  authorities  generally       these services in-house and have the  ability to develop the
+decide to internalise municipal water management services long       necessary knowledge and assets to do so. Again, the Commission
+before any public tender is launched. The reasons given by local        rejected Veolia’s arguments. First, the Commission dismissed the
+authorities to internalise the management of municipal water are      argument according to which services performed in-house by
+based  on   political  considerations  rather  than  competitive        industrial customers were part of the relevant product market
+considerations such as price increases or the worsening of service       because most industrial customers interviewed as part of the
+levels.   Secondly,   local   authorities   with   in-house  water      market investigation lack the required capacities to handle such
+management services use their assets and knowledge of the        services in-house, and those who may have the required skills do
+sector  strictly  in  relation  to  their own needs and do  not       not provide their services on the market.29 Second, the results of
+participate in tenders involving other territories. Therefore, they       the market  investigation  clearly showed  that a  majority  of
+do not exercise any competitive pressure in public tenders and        industrial customers would, post-Transaction, be locked in with
+cannot be considered to be active in the relevant markets.               the combined entity because of (i) the lack of alternative credible
+                                                                     competitors they could turn to and  (ii) the lack of expertise to
+By  contrast,  the  market  investigation  carried  out  by  the        internalise  these   services   in-house.   Industrial  customers’
+Commission showed that some public companies owned by Czech       bargaining power would thus not be sufficient to counterbalance
+local authorities do participate in tenders organised by other local       the negative effects - price increase or worsening of service
+authorities and directly compete against private operators. In its        levels - resulting from the transaction.30
+decision, the Commission therefore considered that these public
+companies to be active in the relevant market.25               An  industrial  consolidation  subject  to  large
+                                                remediesSecond, Veolia submitted that the possibility for French local
+authorities to internalise water management services could be        In the initial stages of the Transaction, Veolia indicated having
+used as a leverage during public tender negotiation and thus        identified the “the limited antitrust issues that such a transaction
+exercised a competitive constraint on private operators.26              would entail” and “anticipated remedies” which would include
+                                                                      Suez’s French water management services to local authorities,
+The  Commission  rejected  the  argument  as   its  market        certain waste management assets  activities  in France and a
+investigation showed that the move from an external service        limited number of activities outside of France to be acquired by a
+provider  to self-supply generally needed to be decided well        pre-identified purchaser.31
+before the launch of a  call for tender. This  is because the
+provision  of water management  services  requires  important      As a general rule, the Commission accepts remedies in Phase 1
+technical skills as well as human and operational resources that      when they constitute a clear-cut solution and unambiguously
+many local authorities consider not to have when launching a       eliminate the competition concerns. Structural solutions removing
+tender. That is why the decision of a local authority to internalise       the entire overlap normally qualify as a clear-cut solution. The
+water services is made long any call for tenders in France.27             divested  assets  also need  to be a  viable  business  that a
+                                                                   purchaser can use to effectively compete post-transaction on a
+By  contrast,  the Commission found  that some Czech  local        lasting basis. The Commission is prepared to examine remedy
+authorities, when launching calls for tenders, require to enter the       proposals at early stages of the investigation, sometimes even
+capital of the operation company of the selected operators, who       already  during  the  pre-notification  stage  in  order  to make
+then becomes a co-shareholder alongside the local authority.
+
+                                                                                                  28  M.9969 – Veolia/Suez, decision dated 14 December 2021, recital
+22  Idem.                                                                     184.
+23  Idem.                                                                                      29  M.9969 – Veolia/Suez, decision dated 14 December 2021, recital
+24  M.9969 – Veolia/Suez, decision dated 14 December 2021, recital 68.             252.
+25  M.9969 – Veolia/Suez, decision dated 14 December 2021, recital          30  M.9969 – Veolia/Suez, decision dated 14 December 2021, recitals
+    170.                                                                  310-320.
+26  M.9969 – Veolia/Suez, decision dated 14 December 2021, recital 78.            31   Veolia’s press release dated 20 August 2020 “Veolia is offering to
+27  M.9969 – Veolia/Suez, decision dated 14 December 2021, recital            acquire 29.9%  of Suez from  Engie, to create the French world
+    112.                                                                champion of ecological transformation”.
+
+
+
+
+
+                                                   8
+
+[PÁGINA PDF 10]
+                        M. 9969 Veolia/Suez | Competition Merger Brief No 1/2023
+
+
+
+progress before the case  is  notified, given the  tight merger     Conclusion
+assessment deadlines that the Commission must observe  in
+                                                                      Following a constructive pre-notification, the Commission foundPhase  1.  However, even when companies  offer  substantial
+                                                                        that the proposed transaction would raise serious competitionremedies to eliminate all competition concerns in pre-notification,
+                                                                   concerns on markets  for  the  provision of waste and waterthe  Commission  must   still  carry  out  a  thorough  market
+                                                       management services, especially in France. Given the extensiveinvestigation  to  identify  competition  concerns.  Any  remedy
+                                                           and clear-cut remedies offered by Veolia, the Commission wasdiscussion  taking  place  before  the  Commission’s  market
+                                                                     able to approve the Transaction in Phase I, although the length ofinvestigation remains preliminary and without prejudice to the
+                                                                     the  decision  reflects the depth of the  investigation  actuallyresults of the formal merger review.
+                                                                           carried out.
+In the case at hand, the Commission collected a very significant
+amount of information from the Parties (including market share
+and tender data) and analysed large volumes of internal business
+documents. The Commission also contacted several hundreds of
+local  authorities  and  businesses.  The  Commission’s  early
+engagement and  quality  of  the evidence gathered made  it
+possible to identify all plausible competition concerns raised by
+this case still in Phase 1.
+
+The initial remedy package offered by the Parties included a pre-
+existing  viable and  stand-alone  business  that removed  the
+concerns in the markets for the municipal water management in
+France,  the  collection and treatment  of non-hazardous and
+regulated waste and the treatment of hazardous waste in France.
+During   pre-notification,  the   Notifying  Party   identified  a
+consortium  associating  investors  GIP 32 and  Meridiam 33 as
+potential  acquirers  of  this  package. As  the  identity  of  the
+acquirers was known early in the process, the Commission was in
+a position to test with market participants the  ability of the
+consortium  to  take  over  the  divested  assets and compete
+effectively with Veolia going forward. In that regard, the results
+of the market test gave further assurances that the consortium
+would be suitable to operate and develop the business going
+forward.
+
+In addition, the market investigation showed that the Transaction
+raised additional competition concerns in the markets for the
+treatment of hazardous waste in France, for  industrial water
+management, also  in France, and  for mobile water  services
+market in the EEA. In order to address those concerns, Veolia
+committed to divesting almost all of its activities in the industrial
+water management and mobile water services markets, as well
+as  assets  of  both  Veolia  and  Suez  in  hazardous  waste
+management, going significantly beyond the assets included in
+the first remedy package. After some improvements offered by
+Veolia following the results of the market test, the Commission
+considered that the additional remedy proposals would remove
+the competitive concerns and be viable going forward.
+
+
+
+
+
+32 GIP (US) is a private investment fund specialized in infrastructure in the
+  energy, transport and water and waste facilities.
+33 Meridiam (France) is an investment company and an asset manager
+  specialized in mobility, energy and environmental transition.
+
+
+
+
+
+                                                   9
+
+[PÁGINA PDF 11]
+Competition Merger Brief 1/2023 – Article 3
+Competition merger brief
+
+  Meta/Kustomer – What’s the Meta with         This case is an example of an
+                                                                                      scenario                                                                                  where  Kustomer?                                                       exceptional                                                                        the Commission                                                                      was able                                                                                                        to    In a nutshell
+                                                                      conclude   that  an  access      In    Meta/Kustomer,     the  Liam Biser, Christian Grobecker, Sean Mernagh, Patricia Oliveira
+                                                             remedy  was   suitable   to     Commission  was  concerned
+  Introduction                                              remove        non-horizontal      that through  its control over
+                                                                        competition   concerns    at                                                                                                 Meta’s  important messaging  On 27 January 2022, following an in-depth investigation, the                                                                                  issue,     similar    to     its                                                                                                        channels,         Messenger,   Commission  cleared  the  acquisition  of  Kustomer  by  Meta                                                                               Google/Fitbit  decision1.  It  is                                                                                     WhatsApp and Instagram, the   (formerly Facebook), subject to remedies.                                                                          also  the   first  case  since                                                                                      merged entity would unfairly
+                                                                               Google/Fitbit   where    the   Kustomer offers a customer relationship management (‘CRM')                                    advantage   Kustomer   and
+                                                               Commission assessed data-   Software as a Service (SaaS) tool that aids businesses with                                         foreclose rival CRM software
+                                                                            related   strengthening   of  managing  their customer  service.  Kustomer's CRM  software                                         providers that rely on Meta’s
+                                                               dominance concerns in depth,   supports business-to-consumer (‘B2C’) communication through                                        channels,  by  removing  or
+                                                                     although   it was  ultimately
+   various channels, notably phone, email, webchat, SMS, WhatsApp,                                      degrading their access.
+                                                                        able to rule them out.   Instagram,  Messenger,  and  Twitter.  Meta  provides  various
+   websites and  applications  for mobile devices  offering  social                               A 10-year access commitment                                                                                   In  this  brief, we  focus on
+   networking, consumer communications and photo and video-                                         to continue providing free and                                                        some of the more interesting
+   sharing functionalities. These include WhatsApp, Instagram and                                        non-discriminatory access  to                                                                             or novel points raised by the
+   Messenger (‘Meta’s messaging channels’).                                                           Meta’s messaging channels to                                                                            case, namely  (1) an  input
+                                                                                             competing   third-party  CRM                                                                           foreclosure  theory  of harm
+   The stated rationale of the transaction was to accelerate the shift                                      software    providers,    with                                                                        targeted  at  a  sub-set  of
+   in B2C communications from more traditional channels, such as                                        appropriate   safeguards   to                                                                           competitors,  (2) the factors
+   phone and email, to app-based over-the-top (“OTT”) messaging                                      cover future improvements of                                                                            that allowed the Commission
+   channels, such as Meta’s messaging channels.                                                       those channels, alleviated the                                                                             to  conclude  that  a  non-
+                                                                                               Commission’s concerns.   Despite the approximately USD 1 billion price paid by Meta, in        divestiture  access  remedy
+   view of Kustomer’s low turnover, the transaction did not meet the      was suitable in this case, and
+   notification thresholds under the Merger Regulation. Instead, the        (3) the reasons the Commission was able to exclude concerns in
+   Commission  obtained  jurisdiction  following a  referral  under        relation to data accumulation.
+   Article 22 of the Merger Regulation by Austria, where the case
+  was  initially notified, and nine other EEA national competition      1. Targeted input foreclosure
+   authorities.                                                          Popular  OTT  messaging  channels,  and  Meta’s  messaging
+                                                                     channels  in  particular,  are  increasingly  important  channels
+   Although small, Kustomer was considered an innovative, and fast                                                                     through which businesses interact with their customers. Because
+   growing, player in the customer service CRM software market.                                                                          of  the  specific  features and  uses  of  these  channels,  the
+   The Commission was concerned that through  its control over                                                               Commission found  that they  constituted a separate market,
+   important B2C OTT messaging channels, WhatsApp, Instagram                                                                                     distinct from phone or email, and that they were inputs for
+  and Messenger, Meta would unfairly advantage Kustomer and                                                                  customer service CRM software providers, such as Kustomer and
+   foreclose rival CRM software providers by removing or degrading                                                                                                its  competitors. Meta and  Kustomer  therefore  operated  in
+   their access to Meta’s messaging channels. The Parties proposed
+  a remedy providing for continued open and free access to Meta’s
+   messaging  channels  for  third  party CRM  providers,  with
+   appropriate safeguards to cover future improvements of those
+   channels, on the basis of which the Commission conditionally          1                                                                     M.9660 – Google/Fitbit (2020). See Competition Merger Brief issue
+   approved the transaction.                                                   1/2021, Google/Fitbit: Preserving healthy competition in digital markets.
+
+
+
+   The content of this article does not necessarily reflect the                                      The authors would like to thank Annemiek Wilpshaar for her valuable
+       official position of the European Commission.                                                            contribution to this article
+      Responsibility for the information and views expressed lies
+      entirely with the authors.
+
+[PÁGINA PDF 12]
+            M.10262 Meta (formerly Facebook)/Kustomer | Competition Merger Brief No 1/2023
+
+
+
+
+vertically-related  markets,  with access  to  Meta’s messaging       degrading API access to perceived competitors in the past. In
+channels being granted via APIs.2                                           addition, such a strategy would be possible not only where Meta
+                                                              has a direct supplier relationship with the API access seeker but
+The Commission's in-depth  investigation focused on whether       also in circumstances where API access to Meta’s channels is
+Meta may disadvantage Kustomer's rival providers of customer       provided  indirectly through  third party  intermediaries. This  is
+service CRM software, and in particular Kustomer’s close rivals       because Meta had  the  contractual  ability  to  require  such
+and new entrants, which—similarly to Kustomer—tend to focus       intermediaries to refuse API access to a specific customer if it so
+on small and medium business customers (‘SMBs') and on the       wished. For that reason it would also not have been possible for a
+impact such a strategy might have, notably on innovation in the     CRM provider whose direct access was cut off to regain access
+CRM software market.                                              through other means, e.g. via a third party intermediary.
+
+1.1 The ability to block or degrade API access for      1.2 The incentive to foreclose and the added benefit
+targeted competitors                                     of steering businesses into the Meta ecosystem
+The Commission concluded that Meta would have the ability to      An input foreclosure strategy would, on the one hand, steer
+engage in input foreclosure through blocking or degrading API       businesses using the foreclosed CRM providers towards Kustomer
+access to  its messaging channels for targeted competitors of        (at the downstream  level), resulting  in gains for the merged
+Kustomer. This overall conclusion involved several elements.               entity. On the other hand, input foreclosure would result in the
+                                                                       foreclosed CRM providers switching to other B2C channels (at the
+First, the Commission found that Meta holds market power on the                                                              upstream level), resulting in losses for the merged entity.
+upstream market for OTT B2C messaging. Meta’s messaging
+channels  collectively account  for over 40% of the upstream      The  Commission  found  that  downstream  gains  would  be
+market for OTT B2C messaging channels in the EEA, as well as       numerous, diverse and significant. First, and most directly, the
+having high user bases in the EEA, even exceeding 90% of the      merged  entity would  gain from  additional businesses  using
+population  of some Member  States. Such  channels  are an      Kustomer  (i.e. SaaS revenue). Second, but no less importantly,
+important input for the downstream CRM software market today,        significant  gains would  also come from  outside  the  direct
+and are expected to become even more important in the coming      downstream  market.  Meta’s many  different  closely  related
+years as communication  shifts more and more away from       products provide  it with many avenues from which to benefit
+traditional channels such as phone, email and SMS, to more      from  foreclosure, and  in  particular from business customers
+modern OTT channels. Even today, there is a limited number of       switching to Kustomer. For example, Meta is also able to benefit
+CRM software providers that do not offer integrations with Meta      from  (i) additional data obtained via businesses switching to
+communication channels as part of their customer service CRM      Kustomer which could be used  for  online ads purposes,  (ii)
+offerings.                                                                 additional click-to-message ads revenue from such businesses,
+                                                           and  (iii)  it would benefit from steering such businesses into its
+Second, the Commission’s investigation found that Meta has the                                                              ecosystem of products (i.e. Meta’s suite of business and personal
+ability to either restrict (i.e. cut off entirely) or degrade access to                                                                         products, including Meta’s ecommerce products). In that regard,
+any or  all of  its OTT messaging channels. Degradation could                                                                   Meta’s presence  across  multiple markets was an important
+involve removing  certain features  or  functionalities  for  third                                                               element in the Commission’s finding of a competition concern.
+parties and/or providing superior versions to a select few players,
+including Kustomer, and there was evidence that in the past Meta      The Commission found that upstream losses would be limited to
+provided an alternate version of its Messenger API with reduced      a  sufficient  degree  by  Meta  targeting  Kustomer’s  close
+functionality or features to access seekers based in the EEA.             competitors. Doing so would maximize the number of business
+                                                                customers switching  to Kustomer (downstream  gains),  whilst
+Third, even if Meta may not have a reason to cut off access to its                                                                               sufficiently  minimizing  the  number  of  business  customers
+channels to certain large CRM providers, such as Salesforce,                                                                       switching away from Meta (upstream losses). The Commission
+which focused on large enterprise customers and therefore did                                                               found that a significant proportion of the business customers of
+not complete closely with Kustomer, which focused on small and                                                                  Kustomer’s  close  competitors would  switch  to Kustomer  in
+medium-sized  business customers  (“SMBs”),  the Commission                                                                  response to foreclosure, which would result in downstream gains
+concluded that Meta has the ability to target specific API access                                                                   outweighing upstream losses. However, the available evidence
+seekers  for  foreclosure,  in  particular  close  competitors  of                                                       was not as conclusive for more distant rivals of Kustomer. As
+Kustomer such as CRM providers that also focus on serving e-                                                                         such, the Commission conservatively took the view that only a
+commerce businesses and SMBs. Notably, the Commission found                                                                     targeted input foreclosure strategy would be profitable for the
+that Meta may have engaged in similar practices of refusing or                                                          merged entity, and that a market-wide input foreclosure strategy
+                                                  may have led to too many losses upstream.
+2 In essence, API, or application programming interfaces, allow software
+  programmes and hardware, or  different software programmes, to       However, whilst a targeted foreclosure strategy does increase the
+  communicate with each other.                                                                           incentive to foreclose, since it minimises losses upstream, it also
+
+
+
+
+
+                                                  11
+
+[PÁGINA PDF 13]
+            M.10262 Meta (formerly Facebook)/Kustomer | Competition Merger Brief No 1/2023
+
+
+
+
+has the potential to reduce the scale of any anticompetitive        In this context, the Commission investigated whether potentially
+effects on the downstream market, since some players in that       foreclosed firms played a  sufficiently important  role  in the
+market would remain unaffected by the foreclosure strategy. This       competitive process in the downstream market. The Commission
+link between the weighing of incentives and effects was an       found that these smaller CRM players and new entrants are
+important point throughout the in-depth investigation.                     particular drivers of innovation and foreclosure of such players
+                                                              would lead to lower quality and less innovation (especially for
+The  Commission  also  assessed  the  profitability  of  total      SMBs) in the overall CRM software market. This is because the
+foreclosure (i.e. blocking access outright) and partial foreclosure       Commission’s  in-depth  investigation,  notably  input from  its
+(i.e.  degrading  functionalities  or  features  of  the messaging       market  investigation,  outlined  that  disruptive  technological
+channels) separately, as the magnitude of gains and losses may       approaches were typically adopted by newcomers to the CRM
+have  varied  depending  on  the  exact  foreclosure  strategy.        industry whose approach and agility are difficult to replicate by
+However, the Commission found  that,  whilst these  different        larger incumbents. Moreover, innovations from those players
+foreclosure strategies changed the magnitude of the gains and      were often quickly emulated by the other companies  in the
+losses, they would not significantly impact the merged entity’s       market, thereby benefiting the market as a whole.
+incentive to foreclose. Indeed, the benefits remained significant
+relative to the limited losses similarly between total and partial       Although it can be challenging to determine what constitutes an
+foreclosure. The Commission found that, in this case,  if total       innovation  in  the customer  service CRM market  (e.g., what
+foreclosure is profitable then partial foreclosure would also be        constitutes an innovative feature? And, to what extent is an add-
+profitable, and vice versa. As such, it was not necessary for the      on an  innovation?), the Commission considered that  internal
+Commission, for the purposes of its assessment and conclusions,      documents of the merging parties, industry reports and public
+to distinguish between total and partial foreclosure strategies or       information pointing to a very high number of innovative start-
+to determine the relative likelihood for these different foreclosure       ups in the market, all supported that these small CRM players
+strategies.                                                            focusing  on  SMBs  as  well  as  new  entrants  played  a
+                                                                        disproportionate role in innovation.
+Lastly, it is worth noting that, whilst the Commission was able to
+conduct a quantitative analysis of the losses and most of the      The Commission  therefore  concluded  that a  targeted  input
+gains resulting from foreclosure, some gains were difficult to        foreclosure strategy would have significant negative effects on
+quantify  precisely, as acknowledged  in  Meta’s own  internal       competition in the downstream CRM software market as a whole.
+valuation modelling of Kustomer. These unquantifiable gains
+were often inherently forward-looking and uncertain, since they       1.4. A brief note on Meta’s ecosystem
+are likely to become salient only after a number of years. For                                                             As outlined in the Commission’s December 2022 Policy Brief
+example, such difficult to quantify gains included the longer-term                                                                     ‘Merger Enforcement in Digital and Tech Markets: an Overview of
+benefits from steering businesses into the Meta ‘ecosystem’ of                                                                     the European Commission’s  Practice’3,  competition  in  digital
+products and increasing Meta’s ability to defend its position in the                                                                         services  increasingly occurs among a few large ecosystems.
+highly valuable B2C messaging market in the future. Therefore, it                                                         Where a merger may complement, extend or reinforce an existing
+was necessary to qualitatively assess these additional longer-                                                              ecosystem that may raise specific issues relevant to a merger
+term gains. However, in this instance, the qualitative assessment                                                                          review. Those concerns are gaining increasing relevance in the
+was conservative, since the Commission did not consider there to                                                                Commission’s decisional practice, for example where enlarging
+be any qualitative losses, and in any event the Commission was                                                                     the ecosystem by an acquisition may lead to the creation or the
+able to conclude that Meta would have an incentive to foreclose                                                                     strengthening of a company’s dominant position in one “core”
+even without taking into account such longer-term gains, i.e. on                                                              market  (or more), and  in turn  further  lock customers  in  or
+the basis of a quantitative assessment alone.                                                                             incentivise them to remain within its so-called “walled garden” of
+                                                                              services.
+1.3 The detrimental effect of foreclosing particular
+drivers of innovation in the CRM market                           In Meta/Kustomer, the Commission considered theories of harm
+To assess the effects of a targeted input foreclosure strategy, the        related to Meta’s ecosystem of products and, as outlined above,
+Commission had to consider whether foreclosing a subset of       concluded that Meta would have the incentive to engage in input
+competitors  (namely  smaller  customer  service CRM  players        foreclosure,  including because of the  benefits from  steering
+focused on SMBs and new entrants  into the CRM software       businesses into its ecosystem of products. In that regard, Meta’s
+market) would have  detrimental  effects on  competition  or       presence across multiple markets was an important element in
+                                                                     the Commission’s finding of a competition concern.whether post-Transaction, non-foreclosed CRM rivals  (i.e., large
+customer service CRM providers) could potentially replace the role
+of the foreclosed CRM players and exert competitive pressure on          3   https://competition-policy.ec.europa.eu/document/download/dac56b61-
+Kustomer.                                                             7ada-4013-b6eb-
+                                                                           ae1fbae41295_en?filename=kdak22002enn_competition_policy_brief
+                                                                                     _digital_mergers.pdf.
+
+
+
+
+
+                                                  12
+
+[PÁGINA PDF 14]
+            M.10262 Meta (formerly Facebook)/Kustomer | Competition Merger Brief No 1/2023
+
+
+
+2. The suitability of an API access commitment        This was notably because the type of plausible conduct Meta
+to resolve the vertical competition concerns               could engage in to carry out a foreclosure strategy was well-
+                                                                              identified  and  circumscribed,  and  preventable  through  the
+It   is  important  to   recall  that   structural  remedies  are       remedy. The fact that API access was already granted pre-merger
+systematically preferred in the Commission’s decisional practice,      was relevant, as pre-existing access terms could constitute a
+and are the benchmark against which any other solution  is      benchmark that the Commission could rely upon. Further, the
+assessed.4 However, other remedies can be appropriate in specific        overall number of access seekers was reasonable and could
+cases, when such remedies constitute an effective way to solve a        easily be  identified at the moment of the  decision, namely
+specific  competition concern and do not  require  excessively        providers of customer service and support CRM software, which is
+onerous or indefinite monitoring.5                                a specific type of software application, and was clearly defined in
+                                                                     the commitments. Another important element was that the type
+Meta/Kustomer  was  one  such   specific   case,  where  a                                                                       of access was standardised, i.e. all access seekers got the same
+comprehensive  set  of  access commitments  with a 10-year                                                                    type of access to the same APIs, and access was free of charge.
+duration were deemed sufficient to address the input foreclosure                                                                        Providing for tailor-made access arrangements, or introducing
+concerns.                                                                              pricing  elements  may  have   materially  complicated  the
+                                                           commitments and the Commission, under its Remedies Notice, is
+These included a commitment to guarantee non-discriminatory
+                                                                       only able to accept commitments where the complexity does not
+access, without charge, to Meta’s publicly-available APIs for its
+                                                                     lead to a risk of their effectiveness from the outset.6
+messaging  channels  to  competing  customer  service  CRM
+software providers, and new entrants. This limb of the remedy
+                                                             3. Clearing data accumulationensured that the same access that was available pre-transaction
+would be maintained post-transaction.                               With respect to the market for the supply of online display
+                                                                          advertising   services,  where  the  Commission  had  raised
+The commitment also included safeguards  related  to future       preliminary concerns, the Commission found that the merger was
+improvements and new functionalities over the lifetime of the       not  likely  to  lead  to a  significant impediment  of  effective
+commitments, to prevent Meta creating superior non-public APIs        competition. While the Commission found that Meta holds at
+that would only be made available to Kustomer and its users. To        least significant market power on a market for online display
+the extent any features or functionalities of Meta’s messaging        advertising services (and certain segments thereof) and has data
+channels used by Kustomer’s customers pre-transaction may be        collecting capabilities that provide a significant data advantage, it
+improved or updated after the transaction, Meta committed to       concluded that any additional data that Meta may gain access to
+also make  any  such  improvements  available  to  rivals  of       as a result of the acquisition of Kustomer would not result in a
+Kustomer and new entrants on an equivalent basis. This would        significant negative impact on competition.
+also  hold  for any new  features  or  functionalities  of Meta
+messaging channels in the future if used by a material portion of      Kustomer does not separately trade data that businesses store
+Kustomer’s customers.                                          on  its systems. Therefore, the Commission did not assess an
+                                                                         input foreclosure concern. Rather, the Commission investigated
+Finally, to ensure the commitments would be largely self-policing,       the potential accumulation of data by Meta within the framework
+Meta committed  to  publish an  up-to-date  list  of any new       of   horizontal   non-coordinated   effects.   Specifically,   the
+messaging channel functionalities used by a material portion of      Commission assessed whether the data concerned could be
+Kustomer’s customers, and committed to a fast-track dispute       considered as an important asset to Meta for  its activities in
+resolution mechanism  that API access seekers could use  to        online display advertising, which would make expansion or entry
+quickly resolve any issues.                                        by rivals more costly or difficult to the detriment of competition.7
+
+On balance, and having secured significant improvements of the        In  assessing  the  importance  of  the  data  concerned,  the
+commitments compared to the initial proposal, the Commission      Commission found that only a  limited volume of data was
+was able to conclude that they would be sufficient to remove the        involved as a result of Kustomer’s small market size at the time
+concern that Meta might revoke or degrade API access to close
+competitors of Kustomer and new entrants.
+                                                                                                 6 Commission Remedies Notice, paragraphs 14 and 66. See also the
+                                                                           Commission’s December 2022  policy  brief ‘Merger Enforcement  in
+                                                                                            Digital and Tech Markets: an Overview of the European Commission’s
+4 See  Commission  notice  on  remedies  acceptable  under  Council            Practice’           available           at           https://competition-
+  Regulation (EC) No 139/2004 and under Commission Regulation (EC)          policy.ec.europa.eu/document/download/dac56b61-7ada-4013-b6eb-
+  No  802/2004,  (2008/C  267/01)  “Commission  Remedies  Notice”),          ae1fbae41295_en?filename=kdak22002enn_competition_policy_brief
+  paragraphs 10 and 17.                                                            _digital_mergers.pdf.
+5 Furthermore, under Council Regulation (EC) No 139/2004 (the ‘Merger          7 Guidelines on the assessment of horizontal mergers under the Council
+  Regulation’) and applicable case law, the Commission must clear a           Regulation on the  control of concentrations between undertakings
+  modified transaction that no longer significantly impedes effective          (2004/C  31/03)  (“Commission   Horizontal  Merger   Guidelines”),
+  competition                                                              paragraph 36.
+
+
+
+
+
+                                                  13
+
+[PÁGINA PDF 15]
+            M.10262 Meta (formerly Facebook)/Kustomer | Competition Merger Brief No 1/2023
+
+
+
+of the transaction. Even in the future, if Kustomer were to grow     Conclusions
+significantly in the hands of Meta, the Commission considered
+                                                                 Meta/Kustomer, which was referred to the Commission under thethat the volume of new data would remain relatively limited. Any
+                                                                                     ‘traditional’ Article 22 procedure, is an example of a case where,market growth  for Kustomer would  likely  result from cross-
+                                                                                   in spite of the small size and low turnover of the target, theselling its services to existing customers of Meta, for which Meta
+                                                             merger would have led to significant competition concerns, andalready holds similar commercial data. The Commission also
+                                                           shows the need for the Commission to have the jurisdictionalassessed what the value of any new categories of data would be
+                                                                            tools to review problematic cases irrespective of the size of onefor Meta’s  activities  in  online  display  advertising. The main
+                                                                       of the parties.category of new data that Meta could potentially get access to
+would be unstructured customer interaction data over channels
+                                                                     Yet  following  an  extensive  investigation  and  constructive
+not owned by Meta. This category of data is however not used for
+                                                                     cooperation  from  the  merging   parties   in  developing  a
+online advertising purposes today.
+                                                                comprehensive API access remedy that was well-received by
+                                                                                  rivals during market testing, the Commission was able to permitBeyond the importance of the data concerned, the Commission
+                                                                     the  merger  to  proceed  while  protecting  competition  andinvestigated whether any accumulation of data could result in
+                                                                       innovation in the CRM software market.increased barriers to entry or expansion for Meta’s rivals. The
+investigation showed that rivals have and will continue to have
+                                                                                In the EEA, Germany had not joined the referral by Austria since
+access to similar commercial data, both through third party CRM
+                                                       when the Bundeskartellamt concluded  that  the merger was
+software and other business platforms or software. For example,
+                                                                              notifiable in Germany, the deadline to join the Article 22 referral
+CRM software of other players  like Salesforce and Hubspot
+                                                           had passed. Therefore, the Bundeskartellamt investigated the
+already contain integrations for businesses to share data with
+                                                                        transaction directly, in parallel to the Commission, and cleared it
+Google. Not only  will Meta’s  rivals have continued access to
+                                                                         unconditionally following a phase 1 review.  In doing  so, the
+commercial data, but businesses have and will continue to have
+                                                                   Bundeskartellamt took into account inter alia the commitments
+an interest in sharing such data with Meta and its rivals in order
+                                                                  accepted  by  the  Commission  in  their  assessment  before
+to measure and optimise the performance of  their own ad
+                                                                     concluding that competition concerns in the CRM software market
+campaigns.
+                                                                     could be excluded.10
+
+Finally, the Commission concluded that CRM providers do not own
+                                                                                In concluding,  it  is important to stress that access remedies
+the data that businesses store on their systems. As a result, for
+                                                               remain the exception to the rule. They are only considered in a
+Meta to get access to any data following the transaction, they
+                                                                     very narrow set of circumstances, such as the ones specific to the
+would not only require the agreement of the businesses using
+                                                                     present case, but are certainly not a one-size-fits-all remedy to
+Kustomer’s CRM software but a business would also need to
+                                                           remove vertical input foreclosure concerns.
+obtain the consent from the end-customer in compliance with the
+GDPR8 and the e-Privacy directive9.
+
+
+
+
+
+8 Regulation (EU) 2016/679 of the European Parliament and of the
+  Council of 27 April 2016 on the protection of natural persons with
+  regard to the processing of personal data and on the free movement of
+  such data, and repealing Directive 95/46/EC,OJ L 119, 4.5.2016.
+9 Directive 2002/58/EC of the European Parliament and of the Council of          10 See Bundeskartellamt ‘Case summary: Acquisition of Kustomer by Meta
+  12 July 2002 concerning the processing of personal data and the           (formerly       Facebook)         cleared’,        available          at:
+  protection of privacy in the electronic communications sector, OJ L 201,           https://www.bundeskartellamt.de/SharedDocs/Entscheidung/EN/Fallberic
+  31.7.2002.                                                                    hte/Fusionskontrolle/2022/B6-21-22.pdf?__blob=publicationFile&v=3
+
+
+
+
+
+                                                  14
+
+[PÁGINA PDF 16]
+Competition Merger Brief 1/2023 – Article 4
+Competition merger brief
+
+  Cargotec/Konecranes: Heavy-lifting to            to a significant customer base
+                                                                                for                                                                         competing                                                                                          mobile    In a nutshell  protect European customers                                                                 equipment                                                                                          spreaders
+                                                                                  suppliers.                   On  24   February   2022,
+   Jaroslav  Kračún,  Jean-Christophe  Mauger,  Andreas  Sowa,                                                                                                          following    an     in-depth
+   Christina Von Busch                                             The Commission’s assessment                                                                                                                 investigation,            the
+                                                                                      in this case was notable for its                                                                                          Commission     conditionally
+  Introduction                                                         analysis  of  the  scope  of                                                                                                        cleared the merger between
+                                                                      geographic           markets,  On 24 February 2022, following an in-depth investigation, the                                       Cargotec and Konecranes in
+                                                                        competition from China-based   Commission conditionally cleared the merger between Cargotec                                        the field of port equipment.
+                                                                companies   and   customer  and  Konecranes  (referred  to  below  respectively  as  the
+                                                                           foreclosure risks.                   This  case was  particularly   ‘Transaction’ and the ‘Parties’). Cargotec, based in Finland, offers
+   equipment and services for cargo handling in ports and terminals                                            interesting  as    it   tackled
+                                                   Geographic    market      various  challenges such as   globally, as well as for ship and road transport. Konecranes, also
+   based in Finland, offers equipment and services for lifting and      definition                     scope of geographic market,
+   cargo handling in shipyards, ports and terminals at global level. A      The  Parties  considered  that      competition   from   China-
+   key overlap between the Parties is in their product offering for       the markets  in the container     based companies and  risks
+   container handling, namely machinery used to load and stack       handling sector are worldwide      of customer foreclosure.
+   containers by port and terminal operators, and industrial players.        and,  if not global, should at
+                                                                                                             Ultimately,  the merger  did
+                                                                              least include the EEA together
+   In this case, the Commission was concerned that the Transaction,                                       not go through as  it was                                                                        with    Switzerland,    Turkey,
+   as   initially   notified,  would  have   substantially  lessened                                       blocked  by  the  UK  CMA.                                                                       Ukraine and the UK.
+   competition and  likely  led  to higher  prices  in the European                                         Differences    in    regional
+   Economic Area (the “EEA”), with respect to a number of container      As regards RTGs as well as     market  conditions  and   in
+  and cargo handling equipment types, in particular in the areas of:       mobile    equipment,     the      legal    framework    and
+                                                               Commission  however  found     standards  may   lead   to
+           rubber-tired gantry cranes (RTGs)                              that  the  relevant market  is      diverging outcomes between
+           straddle/shuttle carriers                                  EEA-wide in light of significant       jurisdictions. The Commission
+          mobile equipment, in particular reach stackers, empty        differences in the structure of      cleared the case based on
+            container  handlers and heavy-duty  lift  trucks (>10        supply, competitive landscape,     two   comprehensive   and
+           tonne capacity).                                   demand  characteristics  and     stand-alone packages which
+                                                                  customer preferences, as well                                                                                             remedied  the  competition
+   For each of these areas, the merged entity would have held very       as    differences     in    the                                                                                                  concerns the EU Commission
+   large market shares and only face competition from a very        regulatory  environment  and                                                                                                                       identified.
+   limited number of remaining players. European customers would        transport costs in the EEA as
+   not have effective access to new suppliers, due to significant      compared to other regions.
+   existing barriers to entry. As a result, European terminals and
+                                                                                   In particular, the Commission found that a regional sales system
+   industrial customers would have faced higher prices and reduced
+                                                              and regional after-sales support are of key importance for the
+   choice of container and cargo handling equipment.
+                                                                       supply of RTGs as well as in the supply of mobile equipment in
+                                                                        the EEA. More specifically for RTGs, a successful track record in   In addition, the Commission's investigation found that, in light of
+                                                                        the EEA was a prerequisite to be considered as a valid supplier in   the  vertical  integration  of  Konecranes'  mobile  equipment
+                                                                        the region.   business with Cargotec's spreaders business (and the fact that
+   spreaders are attached to mobile equipment to enable them to       Furthermore, the Commission found that the relevant market
+  move containers), the Transaction would have restricted access       does not include Switzerland, Turkey, Ukraine or the UK due to
+                                                                        the lack of suppliers in these countries that could supply the EEA.
+
+
+   The content of this article does not necessarily reflect the
+     official position of the European Commission. Responsibility
+    for the information and views expressed lies entirely with
+    the authors.
+
+[PÁGINA PDF 17]
+                 M.10078 Cargotec/Konecranes | Competition Merger Brief No 1/2023
+
+
+
+As regards straddle/shuttle carriers, the Commission found that     Customer foreclosure
+the market is at least EEA-wide and potentially global in scope.
+                                                             The transaction created a risk of customer foreclosure for anWhile  the  structure  of  supply,  competitive  landscape  and
+                                                                  independent  spreader  manufacturer  for  mobile  equipment,customer preferences are fairly similar across the world, and
+                                                                       leading to a likely price increase for mobile equipment.differences in the regulatory environment and transport costs did
+not appear significant, the Commission nevertheless found that       Spreaders are the mechanical devices attached to cranes and
+regional access with a  specific sales system and after-sales       mobile  equipment  enabling  then  to  grab  and  manipulate
+support are also significant. In  light of  this, the Commission        containers. They  represent approximately 1/5  of  the mobile
+assessed those markets both at EEA-level and at global level.          equipment value.
+Taking into account competition from China              Cargotec  is the only mobile equipment manufacturer with an
+                                                                        integrated  spreader  production  facility  for  both  cranes and
+Competition from China-based companies  in the EEA was a
+                                                                  mobile equipment. Other independent spreader manufacturers
+feature in all three product areas in which the Commission found
+                                                                 produce mainly crane spreaders and only one  specialises  in
+competition concerns. The Parties claimed that competition from
+                                                                  mobile equipment spreaders.
+Chinese players exerted a significant constraint on the Parties in
+the EEA, and that this constraint was set to increase substantially      The Parties claimed that all spreader manufacturers are capable
+in the future.                                                          of manufacturing all types of spreaders, the latter constitutes
+                                                             one single market. The Parties added that post transaction,  if
+In assessing the importance of Chinese presence and expansion,
+                                                                   Konecranes’ demand for mobile equipment spreaders would shift
+it  is important to recognise the specific circumstances in the
+                                                                          to Cargotec’s internal spreader manufacturing capacity (even if
+product markets in question.
+                                                                    they submitted it was not envisaged), the remaining independent
+With respect to cranes, the Commission observed that while a       spreader players would in any event have enough opportunities
+Chinese supplier, ZPMC, has a strong presence in ship-to-shore        to recoup the lost sales.
+cranes in the EEA, its European activities in rubber-tyred gantry
+                                                                                           First, the market investigation showed that, for technical reasons,
+cranes are more limited. With respect to straddle carriers, ZPMC
+                                                                   crane and mobile equipment spreaders are two distinct markets.
+had only recently entered Europe, commanding a very small
+                                                                     Furthermore, while crane spreaders were available from multiple
+market position. In mobile equipment, another Chinese company,
+                                                                  independent suppliers, only one plausible independent supplier
+Sany, has a strong global position, but a very low market share in
+                                                       was active for mobile equipment spreaders, and pooled demand
+Europe.  The  actual  constraint  exerted  by  Chinese  players
+                                                             from  various mobile equipment manufacturers  for optimum
+therefore differed, depending on the product market.
+                                                                              pricing conditions.
+Taking  into account  the  specificities  of each  market,  three
+                                                                       Secondly, the market investigation showed, that post-transaction,
+considerations proved to be particularly relevant to assess the
+                                                                   Cargotec  would  have  the  capacity  to  absorb  Konecranes’s
+importance of the competitive constraints exerted by Chinese
+                                                      demand for mobile equipment spreaders, providing it with its own
+players:
+                                                               comparable quality alternative.
+First, successful entry into one European product market is not
+                                                                                  Thirdly, Cargotec would have the incentive  to internalise the
+necessarily indicative of success on other markets, even if these
+                                                                     supply of mobile equipment spreaders for the future merged
+are related in terms of products, customer groups and active
+                                                                              entity in order to fully use  its capacity and eliminate double
+suppliers. While one market may favour Chinese suppliers (e.g.,
+                                                                     margins.
+because large steel structures can be delivered to sea-facing
+ports), other markets may require a significant local presence        Fourthly, based on the Commission’s analysis, with the loss of a
+(e.g., via an elaborate distributor network).                             customer, the independent spreader manufacturer would lose its
+                                                                               scale, which would lead to a price increase of mobile equipment
+Second,  successful  entry  into  a  European  market   is  not
+                                                                    spreaders on the independent market. Such price increase would
+necessarily indicative of likely significant future expansion in that
+                                                                      create further room for the merged entity either to increase its
+market. A competitor based outside of the EEA (e.g., in China)
+                                                               margin on mobile equipment or to increase its sales of these
+may have been able to enter a segment of a European market
+                                                                         benefiting  from  lower  costs stemming  from  the  increased
+with a price-competitive offering, but face persistent challenges
+                                                                             internal  scale  and  double  margin  elimination  on  mobile
+in expanding to other segments of this market.
+                                                              equipment spreaders.
+Third, even an established presence in a European market is not
+                                                                                     Finally, the market investigation has not identified any plausible
+necessarily indicative of an ability to constrain the Parties across
+                                                                           alternative  strategy  for  the  independent  mobile  equipment
+the entirety of the market. While a competitor from outside
+                                                                   spreader manufacturer to recoup its lost scale in the near future
+Europe may command a  meaningful market  share on  the
+                                                             on any of the neighbouring markets, in particular due to mature
+European market, it may nevertheless not be a viable alternative
+                                                                     competition and  the  different  distribution model  necessary,
+for  certain customers  in Europe –  this can be the case  in
+                                                                           especially for crane spreaders.
+particular in differentiated product and/or geographic markets.
+
+
+
+                                                  16
+
+[PÁGINA PDF 18]
+                 M.10078 Cargotec/Konecranes | Competition Merger Brief No 1/2023
+
+
+
+The   commitments   and    multijurisdictional      The CMA rejected the remedies as it would entail “(…) carving out
+cooperation                                                     these assets from the merging businesses’ existing operations,
+                                                           and knitting them together into a new combined business, (that)
+To address the Commission’s concerns, the Parties offered a       would be complex and risky (…)”.2
+comprehensive set of commitments:
+                                                             The  Commission’s  policy  is  also  hostile  to  mix-and-match
+In the rubber-tyred gantry cranes, and straddle/shuttle carriers       remedies and  rather  requires the  divestiture  of  stand-alone
+markets, Cargotec committed to divest its full business, including        businesses. From the perspective of the Commission however, the
+a manufacturing  plant  in Poland and a  licence  for use  of       package in this case did not consist of a ‘mix-and-match’ remedy,
+Cargotec’s Kalmar brand for the divested product categories.            but rather two stand-alone packages to remedy two separate
+                                                                     competition concerns. In this respect, there was no substantial
+In the mobile equipment markets, including for mobile equipment       evidence on file that there were commercial or operational links
+spreaders, Konecranes committed to divest its business for the      between the two business areas in the two packages. On the
+manufacturing and commercialisation  of reach  stackers,  full        contrary, extensive market feedback enabled the Commission to
+container handlers, empty container handlers, as well as forklift       conclude that customers in the market source the products from
+trucks, which include the problematic product areas. This includes       the two packages separately.3 Moreover, dozens of respondents
+manufacturing plants in Sweden and China, and contracts with        to  the market  test  suggested  that  the  Parties  divested a
+distributors.                                                                 structural and viable business, encompassing two self-standing
+                                                                remedies  packages.  Respondents,  and  in  particular  several
+These commitments fully addressed the competition concerns       European  customers,  were  satisfied  that,  thanks  to  those
+identified by the Commission. Feedback received from several       remedies,  there  would  be  as many  choices  for  European
+customers, distributors and competitors in the market test of the       customers as before the merger.  This was  in  line with the
+proposed commitments confirmed the Commission’s view that       extensive  evidence  gathered  by  the  Commission,  including
+the divested assets constituted viable businesses that would       thousands  of  internal  documents  examined  to  assess  the
+enable suitable buyers to effectively compete with the merged        concentration. In other words, in its assessment of stand-alone
+entity.                                                                      structural remedies, the Commission checks on the one hand that
+                                                                    they fulfil the criteria of adequacy and viability in view of all the
+Therefore, the Commission concluded that the Transaction as                                                                   evidence on file, and on the other hand that this is in line with the
+modified by the commitments would no longer raise competition                                                                 feedback of the numerous customers and competitors who were
+concerns. However, primarily in light of the UK CMA’s decision to                                                                     given a chance to provide information concerning the remedy
+block the transaction, the Parties decided to cancel the merger.                                                                    packages.
+
+However, the Parties run global businesses and the deal was also      As in many cases where the Commission deals with divestitures,
+reviewed in other jurisdictions. On 29 March 2022, the UK CMA       there could be some implementation risks. In order to address
+prohibited the merger and the Parties announced their intention       them,  the  Commission  took  adequate  safeguards,  notably
+to abandon the deal shortly thereafter. At that time, the US DoJ       regarding staff and equipment unrelated to cranes and straddle
+issued a  statement  taking  note  of  the abandonment and         carriers, that Cargotec planned to move out of the divested plant.
+indicating that it was about to challenge the deal.                    The Commission also secured an upfront buyer requirement,
+                                                           meaning that the parties could not consummate the mergerAs per usual practice, the Commission has engaged  in close
+                                                                    before the Commission had approved the purchaser for bothcooperation with other competition authorities in this case. As
+                                                                  divestment businesses. This increases the companies’ incentivesexplained above, the markets are regional in scope, so different
+                                                                          to swiftly find a suitable purchaser.authorities had a different focus. For example, the US DOJ did
+not mention concerns in mobile equipment1 whereas it was a key        This was why the Commission, following a transparent process
+product area of concern in the EEA. Conditions of competition,      and an extensive investigation with European market participants,
+and  therefore  scope  of  concerns, may  also  vary  across       cleared the deal conditionally in line with its legal mandate and
+jurisdictions.                                                         the Remedies Notice.
+
+The Parties tried to address these issues in all jurisdictions with
+the same  package  of  divestitures.  Although  they  did  not
+                                                                                                 2     https://www.gov.uk/government/news/cma-blocks-planned-cargotec-necessarily have the same concerns due to different conditions
+                                                                           konecranes-merger
+of  competition,  the  Commission  discussed  extensively  the          3 The fact that it is not necessary to own assets in the two business areas
+possible remedies with other jurisdictions.                                      to compete on the markets, and that there are no strong links affecting
+                                                                                the  viability of either business, seem to be  in line with Cargotec’s
+                                                                                  recent  decision  to  transfer  its heavy cranes business  to Chinese
+                                                                  company  RIC, and  continue  to operate and  focus on  its mobile
+                                                                        equipment  business. See  https://www.cargotec.com/en/nasdaq/stock-
+1  https://www.justice.gov/opa/pr/shipping-equipment-giants-cargotec-              exchange-release-kalmar-hiab-macgregor/2022/kalmar-to-move-
+  and-konecranes-abandon-merger-after-justice-department                        heavy-cranes-related-intellectual-property-to-ric-in-china
+
+
+
+                                                  17
+
+[PÁGINA PDF 19]
+                 M.10078 Cargotec/Konecranes | Competition Merger Brief No 1/2023
+
+
+
+Conclusion
+
+The  Cargotec/Konecranes  merger  assessment  shows  that
+expansion of China-based companies in the EEA does not always
+follow a consistent and systematic pattern, even when some
+customers are the same. Because of the specificities of each
+product, the success of some companies in one product area
+cannot be presumed from  their achievements  in other (even
+neighbouring) product areas.
+
+The  divergences  in  remedies  assessment  between  various
+competition authorities came down to differences in the market
+situations and in the competition concerns identified. Different
+legal frameworks and standards in each jurisdiction may lead to
+different outcomes. The Commission’s assessment of remedies is
+guided by  its preference for stand-alone structural remedies,
+whose adequacy and viability are assessed through the gathering
+of a robust set of quantitative and qualitative evidence, and also
+taking into account the feedback of customers and competitors
+who provide information in its market test.
+
+
+
+
+
+                                                  18
+
+[PÁGINA PDF 20]
+Competition Merger Brief 1/2023 – Article 5
+Competition merger brief
+
+  Ali/Welbilt – A Hot N Cold decision                Europe  is  still  in the  early
+                                                                            stages.                                                                       The                                                                                            delimitation                                                                                                    of    In a nutshell  about ovens and ice machines                                                                        the relevant                                                                                    product                                                                                    market
+                                                         was made more difficult by     The acquisition of Welbilt by
+   Irina Alexandru, Fabio Chiovini                                         the             considerable       Ali Group – both suppliers of
+                                                                                  diversification    of   speed      professional           kitchen
+  Introduction                                                       ovens,   which   come    in     equipment – was conditionally
+  On 17 June 2022, the Commission approved, subject to remedies,        different sizes and are used      cleared in Phase  I, subject to
+   the acquisition of the US business of Welbilt by the  Italian        to cook a broad variety of      divestments.
+  company Ali Group. Both parties are active in the production and       foods  relying  on  different
+   sale of professional kitchen equipment on a global level, with       combinations of technologies.     The Commission’s assessment
+   significant overlaps  in the markets  of speed ovens and  ice       Moreover,  the  terminology     focused on two main areas of
+   making machines.                                               used   in   the  market    is      overlap: speed ovens and ice
+                                                               sometimes ambiguous, with     making machines.
+   The Commission’s assessment of the impact of the merger on       the  terms   ‘speed’,   ‘fast’,
+   these  markets was  contrasted.  While  speed  ovens  are an        ‘accelerated’   and    ‘rapid’     Before ruling out concerns in
+   innovative and relatively recent product, ice machines are not.       ovens used to refer to the      relation to speed ovens, the
+   Thus, in the absence of prior decisions and of reliable data on      same or different products.       Commission    focused     its
+   speed ovens, the Commission undertook a sophisticated market                                          investigative  efforts on  the
+   definition   exercise  and   conducted  a   detailed   market      To    correctly   draw    this      definition  of  the  relevant
+   reconstruction. Eventually, the Commission concluded that the       market’s  demarcation  lines,     market and the reconstruction
+   transaction  raised no  competition  concerns  in  this  market,       the Commission centred  its      of the suppliers’ shares.
+   particularly in light of the potential entry and expansion of rival        analysis      of      product
+   suppliers.                                                                     substitutability  around  the     To address concerns relating
+                                                                                  specific use case  of speed      to ice making machines, the
+   Conversely, the Commission’s substantive analysis in the market       ovens.  Market   participants      parties      offered      the
+   of ice making machines was more straightforward: this mature       explained  that  this  specific     divestment     of     Welbilt
+   market had already been considered in previous cases, and the       use case is the provision of      business  in  this  market. A
+   concerns raised by the transaction in this area were less disputed.       hot food to customers at the     purchaser was  identified by
+   The Commission’s investigative efforts therefore focused on the       counter (as opposed to the      the   parties   during   pre-
+   proposed remedies and the transaction was cleared subject to         table),  particularly  in  fast      notification and approved by
+   divestment commitments.                                          food      restaurants      or      the Commission shortly after
+                                                                                 cafeterias. The distinguishing                                                                                                           clearance.
+  Product market definition: a focus on the use       feature of a speed oven  is
+  case of innovative products                                    therefore  its  ability to cook
+                                                                   food within the short time required for the customer to make the
+   During the market investigation, considerable efforts were made                                                             payment and for the server to prepare the drink and finalize the
+   to delineate the most appropriate market  definition  for the                                                                                 order. The market investigation showed that such a short cooking
+   assessment of the transaction. This is a particularly important                                                                    time is typically achieved through a combination of microwave
+   step of the Commission’s review, as  it sets the stage for the                                                                       technology and at least one type of convection technology  (i.e.,
+   assessment  of market shares and  the  competitors’  relative                                                                    fan or impingement convection).
+   strength.
+                                                                            This led the Commission to include  all products having the
+  A first challenge was the product market definition for speed                                                                            technological setup required to serve the specific use case in the
+   ovens, an area  in which, no previous decisional practice was                                                                           relevant  market, such as  Welbilt’s  Eikon  series,  Ali  Group’s
+   available. Indeed the introduction of these products in continental                                                                    XpressChef and  Lainox  ovens,  Middelby’s  TurboChef  ovens,
+
+
+   The content of this article does not necessarily reflect the
+     official position of the European Commission. Responsibility
+    for the information and views expressed lies entirely with
+    the authors.
+
+[PÁGINA PDF 21]
+                  M.10431 – Ali Group/Welbilt | Competition Merger Brief No 1/2023
+
+
+
+
+AtollSpeed’s AS  series and  others. The Commission  instead        In this case, the Commission conducted a market reconstruction
+excluded from the relevant market  all multi-technology ovens        exercise to obtain robust share estimates in line with the market
+without microwaves (such as  Lincat’s CiBo oven) or without        definition for speed ovens described above.1 The Commission
+convection (such as Electrolux’s SpeeDelight), as these were not       reached out to suppliers to collect actual sales data over the
+considered viable alternatives for the same use case.                   reference  period  in  the  different  product segments. With a
+                                                                 coverage of more than 90% of the market, the reconstruction
+While focusing its assessment on the market of speed ovens, as        exercise was particularly successful.
+defined above, the Commission also took into account the (albeit
+limited) competitive pressure from other products with respect to      The market reconstruction showed that the parties’ combined
+specific geographic markets or customer segments (e.g., panini       shares  for speed ovens were  significantly  higher  than  the
+presses in the Italian market).                                             notifying party’s initial estimates. Nonetheless, the Commission
+                                                                       cleared the transaction in relation to this market because of other
+Geographic  market  definition: a  multifaceted        countervailing considerations which, even in the presence of high
+sector where competition happens at different      market shares, were sufficient to dispel competition concerns.
+levels                                                                                In particular, the market investigation showed that high market
+A second challenge was the definition of the relevant markets’       shares at the national level were often volatile and mainly due to
+geographic scope. The market investigation confirmed that there        sizeable  but  occasional  orders  from  large  customers  or
+are no significant obstacles to the international delivery of speed         distributors. Market participants also confirmed that competing
+ovens and ice making machines and that the design and setup of        suppliers  are  able  to  easily  enter  national  markets  from
+these  products  is  substantially  the same  across  different       neighbouring  countries and can  quickly gain shares through
+geographic areas. However, these markets are also characterized       partnerships with local dealers. New entrants did so in recent
+by significant local specificities. In particular, the availability of a        years, expanding from ex-EU  regions  or from  neighbouring
+local branch or partner for the provision of after sale services is       product categories. Moreover, technological barriers to entry are
+required  to  effectively compete  in these markets. Customer        relatively low and customers can easily switch to alternative
+purchasing strategies are also conducted at different levels, with        suppliers. Finally, Welbilt’s strong market position is at least in
+large key accounts buying from producers through international        part due to first-mover advantage, while the forecasted growth
+supply agreements while small customers purchase from local       of this market  is expected to attract new competitors in the
+distributors and dealers. Because of these specificities, suppliers’      coming years.
+market shares in different EU countries can diverge significantly.
+                                              Commitments: a global remedy removing the
+This case therefore shows that, even when the supply side of the      overlap in ice making machines
+market  has a  European  or  global  dimension,  demand-side
+specificities may require an assessment of the  transaction’s      As mentioned above, competition concerns were however found
+effects  at  the  national  level.  In  order  to  fully  take  these         in the more concentrated market of ice making machines. The
+considerations into account, the Commission did not reach a        transaction combined two leading global producers of ice making
+conclusive definition of the geographic market and assessed the       machines, with high market shares in many EEA countries. These
+transaction’s effects both at the European level and in each       markets are also characterized by high barriers to entry and a
+individual Member State.                                             small number of alternative competitors. The notifying party
+                                                                       therefore  proposed   structural  remedies   to   secure   the
+Assessment  of  market  shares:  the  market       Commission’s clearance.
+reconstruction exercise                                                                Both  Parties  were  active  globally  and  had  manufacturing
+After delineating the markets affected by the transaction, the         facilities  operating  for  the  ice  making  machines  business
+Commission went on to assess the competitors’ market shares.       throughout  the  Americas,  Europe and  Asia. To  address  all
+This analysis  is generally based on market share estimates       competitive concerns by completely removing the overlap,  Ali
+provided by the notifying party. However, in cases where the      Group proposed to divest Welbilt’s global Manitowoc ice machine
+notifying  parties  do  not  have  complete  visibility  on  their        business.  This  business  operates  under  the Manitowoc and
+competitors’ sales data and have to rely on assumptions and       Koolaire  brands,  including manufacturing  facilities located  in
+approximations, these estimates may not be fully accurate. If not      Manitowoc (USA), Monterrey (Mexico), and Hangzhou (China). The
+supported  by  independent  sources  or  internal  intelligence      remedy package was clear-cut and created a structural change in
+developed  in the ordinary course of business, market share       the market, while being viable and competitive.
+estimates may be considered to be unreliable.
+
+                                                                                                 1 A similar exercise was not carried out for the market of ice making
+                                                                            machines, where the parties indisputably held a particularly strong
+                                                                      combined market position.
+
+
+
+
+
+                                                  20
+
+[PÁGINA PDF 22]
+                  M.10431 – Ali Group/Welbilt | Competition Merger Brief No 1/2023
+
+
+
+Given the particular importance of a strong distribution network     Main takeaways
+to ensure the competitiveness of the divestment business in this
+                                                                         This case confirms that the assessment of market shares is aparticular market – and also to facilitate a smooth transition of
+                                                                     core element of the merger review. The Commission  will notthe divestment business to the buyer – the remedy package was
+                                                                         hesitate  to use  its  investigative powers  to  cross-check  thedesigned to include a robust distribution network in support of
+                                                                           notifying  party’s  estimates,  particularly when  these are  notthe business.
+                                                                               sufficiently  supported  by  independent  sources  or  internal
+The  decision  therefore  confirms  that  competition  concerns        intelligence  developed  in  the  ordinary  course  of  business.
+relating to manufacturing activities can be successfully solved       Nonetheless, the Commission’s approach to market shares may
+through comprehensive, and when necessary global, structural        well lead to a clearance decision even in the presence of high
+divestitures with adequate safeguards.                             combined shares, particularly when new entry or expansion of
+                                                                           alternative competitors has occurred in the recent past or is likely
+Procedural aspects: a ‘hybrid’ fix-it-first remedy          to occur in the near future.
+After designing the remedy package, the Parties started engaging      The Commission will also welcome the parties’ early engagement
+with possible buyers and identified a purchaser during the pre-      on remedies and may well accommodate the companies’ timeline
+notification process.                                                        for the completion of divestments. But it will grant no discounts
+                                                             on the approval requirements: a separate (but possibly shorter)
+While the Commission took note of the sale agreement in its                                                                   purchaser approval process will still be required if the identity of
+clearance  decision,  this was  without  prejudice  to  the  full                                                                     the buyer is not a crucial element of the remedies’ design and the
+assessment  of  the  purchaser’s  suitability.  In  particular,  the                                                                                   suitability of the proposed buyer cannot be conclusively assessed
+Commission  decided  not  to  approve  the  purchaser  in  the                                                                    before the end of the merger review.
+clearance decision (as it would be the case in an ordinary fix-it-
+first process, where the identity of the buyer is a crucial element
+of the remedy’s design2). Instead, the Commission adopted a
+separate approval decision following the complete vetting of the
+proposed  buyer.  Nonetheless,  the  parties’  early engagement
+allowed them to secure the purchaser approval decision within a
+short timeframe, just a couple of weeks after the clearance
+decision.
+
+
+
+
+
+2 Commission notice on remedies acceptable under Council Regulation
+  (EC) No  139/2004  and  under  Commission  Regulation  (EC) No
+  802/2004, paras. 56 f.
+
+
+
+
+
+                                                  21
+
+[PÁGINA PDF 23]
+Competition Merger Brief 1/2023 – Article 6
+Competition merger brief
+
+  Bouygues/Equans – keeping competition       overhead  contact   lines.  An
+                                                                  overhead                                                                                    contact                                                                                                             line                                                                                                                              is an
+                                                                               In a nutshell  “on track”                                                                                     electrical                                                                                            cable,                                                                                     which                                                                                                                                    is
+                                                                 suspended above the train and     The acquisition of Equans by
+   Julia Tew, Thorsten Schiffer, Fotios Filios-Metentzidis                                                                         transmits electrical energy to     Bouygues    would    have
+  Introduction                                                      the train, while the catenary is      resulted in a dominant player
+                                                             a stabilising cable attached to       in  the  Belgian market  for
+  On 19 July 2022, the Commission conditionally approved the       the overhead line.                  railway    electrification.    It
+   acquisition of Equans by Bouygues.
+                                                                                           would  have  reduced  the
+   Both companies are based in France, providing a diversified set        Installation and maintenance      nation-wide service providers
+   of multi-technical services globally, including energy and digital        services  for  catenaries  and                                                                                         from  three  to  two,  in  a
+   network  infrastructure,   facility  management  and  electrical,       overhead  contact  lines  are
+                                                                                           market with high barriers to
+   mechanical,  heating,  ventilation and  air-conditioning  (“HVAC”)        typically   sourced   through
+   engineering.                                                                                                   entry.                                                                       tenders by national and urban
+   Bouygues and Equans’ activities overlapped in a large number of       railway          infrastructure                                                                                          Bouygues offered to divest
+   markets mainly in the EEA, in most of which however several        operators. Differences  in the                                                                                                                                   its entire business in Belgium
+   large players would remain active after the transaction. The                                                                             technical aspects of railways                                                                                                          (Colas      Rail     Belgium),   Commission was only concerned in relation to the market for                                                               between countries, as well as   railway electrification services in Belgium, which represented a                                         excluding its participation to
+                                                                        the need for service providers   relatively small part of the Parties’ activities.                                                    one project which could have
+                                                                             to  comply   with   extensive                                                                                                     created high liability risks for   The  approval was  conditional on  full  compliance  with  the                                                                            national  regulations,  lead  to
+  commitments  offered  by  Bouygues,  pertaining  to  the  full                                        the suitable purchaser.                                                                  markets  that  tend  to  be
+   divestment of Colas Rail Belgium, Bouygues’ subsidiary active in
+                                                                            national in scope.   railway electrification services in Belgium, a standalone business
+  and a separate legal entity. The remedy package ensured that
+   Colas  Rail Belgium  will remain a  credible and independent      Effective competition on course for derailment
+   competitor to Bouygues in the relevant market.
+                                                                The transaction, as notified, would have resulted in the creation
+   In parallel to the Commission, the transaction was reviewed by       of a  dominant  player  in  the market  for  the  provision  of
+   the UK Competition and Markets Authority (“CMA”), in relation to        installation  and  maintenance  services  for  catenaries  and
+   Bouygues and  Equans’  activities  in  the market  for  railway       overhead contact lines in Belgium, by combining two out of three
+   electrification services in the UK. The CMA conditionally approved       leading service providers.
+   the transaction in Phase I.1
+                                                                                               First, in 2021 the Parties’ combined market shares in Belgium
+  Railway electrification services                           were in the range of 60-70%. The merged entity would thus be
+                                                                           positioned well ahead of  its main competitor, whose market
+   The Commission’s  investigation focused on  the  provision  of
+                                                                     shares did not exceed 10-20% in 2021.
+   installation and maintenance services for railway contact lines.
+   Railway contact lines are transmission systems for supplying                                                                The Parties argued that their market shares were not indicative
+   trains with electric current.                                                                          of their competitive significance, given that their shares could
+                                                                             fluctuate significantly from year to year, based on the outcome
+   Bouygues and Equans were primarily active in the provision of
+                                                                          of each tender of a new project. However, the Commission found
+   installation and maintenance services  for a  specific type of
+                                                                            that the combined market shares of the Parties were consistently
+   railway  contact  lines,  namely  systems  of  catenaries  and
+                                                                                 high, with an increasing tendency in the years from 2018 to
+                                                                 2021.
+    1Full text decision of the CMA available at:
+      https://assets.publishing.service.gov.uk/media/633eb569e90e0709df74       Second,  the  proposed  acquisition  would   limit  the  main
+     1cca/Bougyes_Equans_decision_for_final_acceptance_of_UILs.pdf
+                                                                        competitors from three to two, in a market that was already
+
+
+   The content of this article does not necessarily reflect the
+     official position of the European Commission. Responsibility
+    for the information and views expressed lies entirely with
+    the authors.
+
+[PÁGINA PDF 24]
+                  M.10575 – Bouygues/Equans | Competition Merger Brief No 1/2023
+
+
+
+characterised  by  high  degrees  of  concentration.  After  the      Pulling  the  breaks  with a  structural remedy
+proposed transaction, the combined entity would have faced     package
+limited competitive constraints from only one competitor with a
+comparable footprint.                                            To address the Commission’s concerns, Bouygues offered to
+                                                                          divest Colas Rail Belgium,  its subsidiary active in the Belgian
+According to the Parties, after the transaction they would be       market for railway contact lines and railway tracks. This remedy
+facing competition from at least another two service providers       package pertained to the divestment of Colas Rail Belgium as an
+active  in  Belgium. The Commission’s  investigation,  however,       independent legal entity, including the necessary qualifications,
+showed that these players were active either in the Dutch- or the        assets,  personnel  and  ongoing  and  future  contracts  with
+French-speaking parts of Belgium, and were mainly addressing       customers.
+smaller railway electrification projects.
+                                                                Market participants had however expressed some reservations
+Third, barriers to entry are high in Belgium, and the possibility of       about potential contractual  liabilities (and associated financial
+short-term entry of new  credible competitors  in the market        penalties) faced by Colas Rail Belgium as a contractor in the
+appeared remote. Such entry barriers consisted mainly of (i) high       Liège Tramway Project.
+qualification requirements faced by potential entrants for their
+eligibility  to  participate  in  tenders  for  railway  electrification        In order to ensure the  viability of the business, the remedy
+projects in Belgium, (ii) technical differences in Belgium’s railway       package explicitly excluded any  liability of Colas Rail Belgium
+network compared to its neighbouring countries, requiring special       connected with  its participation in the Liège Tramway Project.
+know-how and equipment, and (iii) the requirement to speak both       Furthermore, in close cooperation with the Commission, Bouygues
+French and Dutch, which for safety reasons the personnel would       devised a “Hold-Harmless-Mechanism”, a contractual warranty to
+be required to understand and speak in order to operate in the       indemnify the purchaser without  limitation and to discharge
+relevant regions.                                                     Colas Rail Belgium of any obligation of further engagement in the
+                                                                     Liège Tramway Project.
+The  Commission  therefore  concluded  that  the  proposed
+acquisition  raised  competition  issues  in  the market  for  the     Conclusion
+provision of installation and maintenance services for catenaries
+                                                                              Overall, the structural commitments offered by Bouygues fully
+and overhead contact  lines  in Belgium, both on the  overall
+                                                                addressed the competition concerns identified by the Commission
+railway market, as well as the potential market segments for
+                                                                      while  remaining  an   attractive  business   for  the  market
+long-distance and metropolitan rail.
+                                                                               participants. The divestment of Colas Rail Belgium would ensure
+                                                                     the existence of a  third  credible competitor  in the relevant
+Prochain arrêt: Luxembourg                                                                    market, who  will  actively compete with Bouygues. Feedback
+Outside of Belgium, the transaction resulted in similar degrees of       received during the market test of the remedy package confirmed
+concentration in Luxembourg, where the Parties were at that time        that Colas Rail Belgium would be a viable and attractive business
+two out of the three service providers. However, the Commission        that would enable suitable buyers to effectively compete with the
+did not find competition concerns in this market, mainly because      merged entity. The Hold-Harmless-Mechanism was considered to
+the barriers to entry described for the Belgian market were not        sufficiently address any potential liabilities faced by Colas Rail
+present in Luxembourg.                                               Belgium.
+
+Indeed,  the  market  in  Luxembourg  is  serviced  by  French      On 30 November 2022, the Commission approved EQOS as a
+providers, which move to Luxembourg temporarily on a project-        suitable purchaser of Colas Rail Belgium. EQOS  is a German-
+by-project basis. This  is because in Luxembourg the technical      based multinational group with long experience in the railway
+specificities of the network and the qualification requirements        infrastructure sector, which currently has limited presence in the
+are identical to those in France, and the only language required       Belgian market for long-distance  rail. Consequently,  it  is in a
+for the personnel is French.                                                position to maintain and develop Colas Rail Belgium as a viable
+                                                           and active competitor in the market.
+The Commission’s investigation showed that a number of French
+companies were eligible and able to participate in tenders for
+projects in Luxembourg. In fact, one major French player was
+already on its way to addressing future projects in Luxembourg,
+while another was being assessed by the railway operator in
+Luxembourg. The Commission considered this as sufficient to
+maintain the competitiveness of the market at pre-transaction
+levels.
+
+
+
+
+
+                                                  23

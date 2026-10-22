@@ -1,0 +1,494 @@
+[PÁGINA PDF 1]
+        EUROPEAN COMMISSION
+           DG Competition
+
+
+
+
+          Case M.10575 - BOUYGUES / EQUANS
+
+
+
+
+
+                            Only the English text is available and authentic.
+
+
+          REGULATION (EC) No 139/2004
+              MERGER PROCEDURE
+
+
+
+Decision on the implementation of the commitments -
+                                Purchaser approval
+
+                                  Date: 28/09/2022
+
+[PÁGINA PDF 2]
+               EUROPEAN COMMISSION
+
+
+
+
+                                                     Brussels, 28.9.2022
+                                             C(2022) 7019 final
+
+                                     PUBLIC VERSION
+
+                                                                 In the published version of this decision,
+                                                some  information  has  been  omitted
+                                                              pursuant  to  Article  17(2)  of  Council
+                                                           Regulation (EC) No 139/2004 concerning
+                                                            non-disclosure of business secrets and other
+                                                                confidential information. The omissions are
+                                                  shown  thus  […].  Where  possible  the
+                                                           information omitted has been replaced by
+                                                            ranges of figures or a general description.
+
+                                             Bouygues S.A.
+                                                   32, avenue Hoche
+                                           75008 Paris
+                                               France
+
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.10575 – BOUYGUES / EQUANS
+          Approval of EQOS Energie Deutschland GmbH as purchaser of the
+          Divestment Business following your letter of 5 September 2022 and the
+          Trustee’s opinion of 9 September 2022
+
+
+1.    FACTS AND PROCEDURE
+
+(1)    By decision of 19  July 2022  (the  “Decision”) based on  Article 6(1)(b)  in
+        connection with Article 6(2) of Council Regulation No 139/20041, the Commission
+        declared the operation by which Bouygues S.A. (“Bouygues”, France) acquired,
+        within the meaning of Article 3(1)(b) of the Merger Regulation, sole control of
+        Equans S.A.S. (“Equans”, France) compatible with the internal market, subject to
+         conditions  and  obligations  (the “Commitments”).  Bouygues  and  Equans  are
+         together referred to as “the Parties”.
+
+
+
+
+1      OJ L 24, 29.1.2004, p. 1 (the “Merger Regulation”). With effect from 1 December 2009, the Treaty
+       on the Functioning of the European Union (“TFEU”) has introduced certain changes, such as the
+        replacement  of “Community” by “Union” and “common market” by  “internal market”. The
+        terminology of the TFEU will be used throughout this decision.
+
+
+
+Commission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE
+Europese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË
+
+Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.
+
+[PÁGINA PDF 3]
+(2)      In particular, the Commitments provide for the divestment of Colas Rail Belgium,
+        a Belgian legal  entity, currently wholly owned by Bouygues, which is active in
+          installation and maintenance of catenaries and overhead contact lines and tracks
+       works in Belgium, excluding any liability for the Liège Tramway Project under the
+        terms described in Schedule 2 to the Commitments attached to this Decision (“the
+        Divestment Business”).
+
+(3)     The  Divestment  Business  includes,  as  described  in  Schedule  1  to  the
+       Commitments:
+         (a)    all tangible and intangible assets necessary to provide catenary and overhead
+               contact line installation and maintenance services as well as track installation
+             and  maintenance  services,  including a  real  estate  site,  machinery, and
+              software programmes;
+         (b)   licenses,  permits and  authorisations necessary for  the tendering for and
+              execution of catenary and overhead contact line engineering and rail works
+               projects, as well as quality and security certifications;
+         (c)   customer contracts for any ongoing and future catenary and overhead contact
+                line installation and maintenance as well as track works projects;
+         (d)   customer accounts, credit and other records held by Colas Rail Belgium;
+         (e)   the personnel included in Table 2 of Schedule 1 to the Commitments;
+           (f)  Key personnel, notably Colas Rail Belgium’s CEO, CFO, and COO; and
+         (g)   transitional arrangements for a number of products and services.
+
+(4)    By email of 5 September 2022, the Parties proposed EQOS Energie Deutschland
+     GmbH (“EQOS”, Germany) for approval by the Commission as purchaser of the
+        Divestment Business and submitted the proposed Share Purchase Agreement dated
+       2 September 2022 and  related agreements  (the “Proposed Agreements”). The
+         acquisition of the Divestment Business by EQOS will be  referred  to as  the
+        “Proposed Transaction”.
+
+(5)      In  its  reasoned  opinion dated 9 September 2022  (the “Reasoned Opinion”),
+        received by the Commission on 12 September 2022, the Monitoring Trustee Alcis
+        Advisers (the “Trustee”) has assessed EQOS’ suitability as a purchaser and, in
+          particular, has indicated that it fulfils the criteria of the purchaser requirements in
+         section D of the Commitments attached to the Decision. In its Reasoned Opinion,
+         the Trustee also indicated  that, on the basis of the Proposed Agreements, the
+        Divestment Business would be sold in a manner consistent with the Commitments.
+
+2.    ASSESSMENT OF THE PROPOSED PURCHASER
+
+2.1.    Legal framework
+
+(6)      Pursuant to paragraph 17 of the Commitments, the Commission has to verify that
+         the purchaser  fulfils the purchaser criteria and that the Divestment Business is
+        being sold in a manner consistent with the Commitments.
+
+(7)     According to paragraph 16 of the Commitments, in its assessment of the proposed
+         purchaser, the Commission should ensure in particular that:
+
+
+
+
+                                                      2
+
+[PÁGINA PDF 4]
+         (a)   the Purchaser is independent of and unconnected to the Notifying Party2 and
+                   its Affiliated Undertakings;
+         (b)   the  Purchaser  has  the  financial  resources, proven  expertise  in railway
+                infrastructure  and  incentives  to  maintain  and  develop  the  Divestment
+              Business as a viable and active competitive force in competition with the
+               Parties and other competitors;
+         (c)   the acquisition of the Divestment Business by the Purchaser is neither likely
+                to create, in light of the information available to the Commission, prima facie
+              competition concerns, nor to give rise to a risk that the implementation of the
+            Commitments will be delayed. In particular, the Purchaser must reasonably
+             be expected to obtain all necessary approvals from the relevant regulatory
+                authorities for the acquisition of the Divestment Business.
+
+2.2.     Description of the proposed purchaser
+
+(8)    EQOS  is a German-based multinational group specializing in the construction,
+        maintenance and optimization of infrastructure solutions in the areas of railway
+         technology,  overhead   line  construction,  energy,  communications,  industrial
+        technology and engineering. EQOS’  activities began in 1920 within ENERGIE
+         Gesellschaft  für  elektrische und  industrielle Unternehmungen mbH, a company
+        founded by Wilhelm  Blättchen  in  Stuttgart  (Germany),  which  later became
+      ALPINE-ENERGIE (in 2002 following a joint-venture with ALPINE Bau GmbH
+         in Austria), then EQOS Energie (in 2014, following its takeover by Triton).
+
+(9)    EQOS is currently wholly owned by funds advised and managed by Triton. Triton
+          is an international investment firm founded in 1997, which invests primarily in
+        German-speaking  countries,  the Nordic  countries,  the Benelux region, France,
+           Italy, Spain and the United Kingdom, and focuses on medium-sized businesses
+         operating in the Industrial, Business Services and Consumer/Health sectors.
+
+(10)   EQOS is present in 40 locations across 5 countries: Germany, Austria, France,
+       Belgium and Luxembourg and employs approx. 1,600 employees (80% of which in
+         technical professions, i.e., engineering and installation service). EQOS’ activities
+         are organized under 4 business units, including high-voltage (overhead) powerline
+         construction,   energy   technology,  communication  technology  and  railway
+         technology.
+
+(11)    The  Railway  Technology  business  unit  employs  approx. […] FTEs  across
+       Germany,  Austria, and Belgium and  is active in construction,  installation, and
+        maintenance of overhead contact lines (catenary systems) for tramways and/or
+         long-distance railway, including technical equipment.
+
+(12)     In Belgium, EQOS has been active in local transportation for more than 15 years
+        and currently employs […] FTEs. EQOS possesses all required certificates to
+        perform construction works in relation to catenaries and overhead contact lines,
+         including a qualification in Category H2 Class 8, meaning that EQOS is technically
+        capable of performing catenaries and overhead contact line installation services in
+        Belgium.
+
+
+
+2        All capitalised terms used in this decision shall have the meaning as set out in the Decision or in the
+       Commitments, as the case may be, unless otherwise specified.
+
+
+                                                      3
+
+[PÁGINA PDF 5]
+2.3.    Independence from the Parties
+
+(13)    Pursuant to paragraph 16(1) of the Commitments, in order to be approved by the
+        Commission, the Proposed Purchaser must be independent from and unconnected
+         to the Notifying Party and its Affiliated Undertakings.
+
+(14)    According to the information provided by the Trustee in the Reasoned Opinion,
+         there is no direct or indirect capital interest between EQOS and the Parties, nor
+       between EQOS’ and the Parties’ Affiliated Undertakings. EQOS also does not
+        share any executive or non-executive directors with the Parties.3
+
+(15)    According to the Trustee, EQOS does not have any commercial relationships with
+        any of the Parties, or the Parties’ Affiliated Undertakings.4
+
+(16)   On the basis of the information provided by the Notifying Party and taking into
+        account  the Reasoned  Opinion,  the Commission considers  that  the Proposed
+        Purchaser  is independent from and unconnected to the Notifying Party and  its
+         Affiliated Undertakings.
+
+2.4.     Financial resources, proven expertise and incentive to maintain and develop
+        the Divested Business as a viable and active competitor
+
+(17)    Pursuant to paragraph 16(2) of the Commitments, in order to be approved by the
+        Commission, the Proposed Purchaser must have the financial resources, proven
+         expertise  in railway infrastructure and  incentive  to maintain and develop  the
+        Divestment Business as a viable and active competitive force in competition with
+         the Parties and other competitors.
+
+(18)    The Trustee submits, in its Reasoned Opinion, that the Proposed Purchaser has
+          sufficient  financial  resources, proven expertise and incentives to maintain and
+        develop the Divestment Business as a viable and active competitive business.
+
+        Financial resources
+
+(19)    According to its most recent audited annual report and financial statements, EQOS’
+         turnover for the year 2021 was EUR […] and it had an EBITDA of EUR […] and a
+         net profit of EUR […].
+
+(20)    The  total  funding  needed  to  successfully  complete  the  acquisition  of  the
+        Divestment  Business  will  amount  to EUR […]. The  Trustee  notes  that no
+         significant  additional  funding  from EQOS  will  likely be  required,  as  the
+        Divestment Business  is cash-generating and, therefore, largely self-financing.  If
+         nonetheless  required, EQOS  would  be  capable  and  willing  to  provide
+        complementary funding to the Divestment Business.5
+
+(21)    The Trustee submits  that EQOS has steadily grown  its sales and managed to
+         significantly increase  its EBITDA in the  last three years. EQOS demonstrates
+        a sound financial and cash position and plans to fund the Proposed Agreements
+         solely with its available cash, without raising any bank debt nor applying for any
+
+
+3       See Reasoned Opinion, paras. 53 et seq.
+4       See Reasoned Opinion, para. 55.
+5       See Reasoned Opinion, para. 96.
+
+
+                                                      4
+
+[PÁGINA PDF 6]
+         subsidies for this purpose. The Trustee has not identified any risk affecting EQOS’
+        payment capabilities and concludes that EQOS’ financial resources are more than
+          sufficient to maintain and develop the Divestment Business.6
+
+       Proven expertise in railway infrastructure
+
+(22)   EQOS has extensive and proven experience in the railway technology business in
+       Germany,  Austria  and  Belgium. According  to  the  Trustee, EQOS  relies on
+        a well-equipped fleet of catenary installation equipment and holds all necessary
+          certificates  and  qualifications  to  operate  in  the  market  for  installation and
+        maintenance of catenaries and overhead contact lines in Belgium.7 The Trustee
+          further submits that EQOS has a track record of successful railway electrification
+         projects, including in Belgium.8 The management of EQOS is considered by the
+        Trustee to possess  sufficient expertise and resources to provide support to the
+        Divestment Business for its growth and viability.9 Based on the above, the Trustee
+        concludes  that EQOS possesses  sufficient proven expertise and experience to
+         successfully complete the acquisition of the Divestment Business and to develop
+        and maintain it.10
+
+         Incentive to maintain and develop the Divestment Business
+
+(23)    According to the Trustee, EQOS intends to expand  its activities in the railway
+         business, as well as  its overall  activities in Belgium.11 In Belgium, EQOS is
+         currently active mainly on the tramway segment and the Proposed Agreement will
+        allow EQOS to expand in the long-distance rail segment, as well as to diversify its
+         portfolio by entering the market for track construction.
+
+(24)   On the basis of the information provided by the Notifying Party and taking into
+        account  the Reasoned Opinion,  the Commission considers  that  the Proposed
+        Purchaser has the financial resources, proven expertise in railway infrastructure and
+         incentives to maintain and develop the Divestment Business as a viable and active
+        competitive force in competition with the Parties and other rivals.
+
+2.5.    Absence of prima facie competition problems
+
+(25)    Pursuant to paragraph 16(3) of the Commitments, the acquisition of the Divestment
+        Business by the Proposed Purchaser must not be likely to create prima facie
+        competition concerns,  nor  give  rise  to a  risk  that the implementation of the
+       Commitments will be delayed.
+
+(26)     In light of the information provided by the Parties and the Trustee in its Reasoned
+        Opinion,  the  Proposed  Transaction does  not  create prima  facie  competition
+         concerns.
+
+(27)    The  Decision  defined  national  markets  for  the  provision of  installation and
+        maintenance services for catenaries and overhead contact lines, excluding third rail
+
+
+6       See Reasoned Opinion, paras. 99 et seq.
+7       See Reasoned Opinion, para. 59.
+8       See Reasoned Opinion, para. 62.
+9       See Reasoned Opinion, para. 93.
+10        Ibid.
+11      See Reasoned Opinion, para. 107 et seq.
+
+
+                                                      5
+
+[PÁGINA PDF 7]
+         systems.12 The Decision considered, but ultimately left open, a potential further
+        segmentation by type of customer (long-distance versus metropolitan rail).
+
+(28)   EQOS is currently active in catenary and overhead contact line installation and
+        maintenance services in Belgium (primarily in the metropolitan rail segment) as
+        well as, to a very limited extent, on the upstream level of the manufacturing and
+        supply of catenary equipment.
+
+(29)     First,  the  implementation  of  the Commitments  leads  to a  horizontal  overlap
+       between the Divestment Business’ and EQOS’ activities in catenary and overhead
+         contact line installation and maintenance in Belgium.
+
+(30)     In  its Reasoned  Opinion,  the  Trustee  notes  that EQOS’ and  the Divestment
+        Business’ main activities are complementary,13 as in fact, EQOS generates 90% of
+           its  revenues from  catenaries  and overhead  line  installation and maintenance
+          activities in the metropolitan rail (tramway) segment,14 whereas the Divestment
+        Business is active only in the long-distance rail segment.15
+
+(31)    The Trustee further submits16 that the combined market share of EQOS and the
+        Divestment Business on the overall market comprising both long-distance and
+        metropolitan rail will remain below [40-50]%, with a share increment below
+       [5-10]% for each of the last three financial years. While in 2019-2020 and 2022
+       (YTD), the combined share was around [30-40]% (with an increment between
+        around [5-10]%),  the combined market share  in 2021 was [30-40]% due  to
+         exceptional performance of the Divestment Business under two distinct framework
+         contracts (the share increment having remained at only [5-10]%).17 The Trustee
+         notes that the significant combined share post-Transaction stems mainly from the
+        Divestment Business’ already significant market presence of [20-30]-[30-40]%
+        over the last three years.
+
+(32)     In addition, EQOS and the Divestment Business will continue to face at least four
+         large competitors  in Belgium including Bouygues/Equans, Mobix, Strukton and
+         Eiffage Duchêne with individual market shares between [5-10]% and [20-30]%
+         each.
+
+(33)    Second, although the implementation of the Commitments technically also leads to
+        a vertical relationship between the Divestment Business’ catenaries installation
+
+
+12     M.10575 – Bouygues / Equans, paras. 25, 29.
+13      The combination of EQOS’ and the Divestment Business’ complementary activities prima facie does
+        not lead to conglomerate effects, as services in the potential segments for (i) long-distance rail and
+           (ii) metropolitan  rail  are  typically procured by  different customers through  separate tender
+        procedures, see Decision, para. 23.
+14      See Reasoned Opinion, para. 148.
+15      See Reasoned Opinion, exhibit 11. EQOS and the Divestment Business therefore do not overlap on
+         the potential segment for metropolitan rail. On the potential segment for long-distance rail, EQOS’
+         individual market shares were below [0-5]% in each of the last three financial years. EQOS’ and the
+        Divestment Business’ combined market shares in this segment ranged from [30-40]% in 2019, to
+       [30-40]% in 2021.
+16      See Reasoned Opinion, para. 157 et seq.
+17      The exceptional character of production volumes for both projects was due to exceptional production
+         levels in 2021 under both contracts. Forecast production levels under both contracts are significantly
+        lower for 2022. Based on Eqos’ and the Divestment Business’ turnover data for H1 2022, the Trustee
+        notes a return as of 2022 to historical average combined market share levels of around [30-40]%, see
+       Reasoned Opinion, para. 157.
+
+
+                                                      6
+
+[PÁGINA PDF 8]
+         services in Belgium and EQOS’ upstream activities as regards the manufacturing
+        and supply of catenary equipment,  the Commission notes  that EQOS’ market
+         shares in catenary equipment manufacturing and supply on an EEA level remain
+       below [0-5]% on the narrowest possible markets. Furthermore, EQOS does not
+        supply catenary equipment in Belgium. The Proposed Transaction therefore does
+         not give rise to prima facie concerns as regards this vertical relationship.
+
+(34)    There  is  no  regulatory  approval  required  for  completion  of  the  Proposed
+        Transaction apart from the Commission’s approval of EQOS as the Divestment
+        Business’ purchaser.
+
+(35)   On the basis of the information provided by the Notifying Party and taking into
+        account the Reasoned Opinion, the Commission concludes that the acquisition of
+         the  Divestment  Business by EQOS  is  neither  likely  to  create  prima  facie
+        competition concerns,  nor  give  rise  to a  risk  that the implementation of the
+       Commitments will be delayed.
+
+2.6.    Conclusion on the Purchaser Criteria
+
+(36)     In light of the above considerations and taking into account the Reasoned Opinion
+        submitted by  the  Trustee,  the Commission concludes  that EQOS  meets  the
+        Purchaser Criteria set out in paragraph 16 of the Commitments.
+
+3.    ASSESSMENT OF THE PROPOSED AGREEMENTS
+
+(37)    The Proposed Agreements comprise (i) the Share Purchase Agreement (“SPA”),
+        covering the sale of shares and the transfer of the Divestment Business to EQOS
+        excluding any liability for the Liège Tramway Project, and (ii) the Transitional
+        Services Agreement (“TSA”), which  regulates  the  transitional  services  to be
+        provided to the Divestment Business by Bouygues or any of its subsidiaries to
+      EQOS, to ensure the operational continuance of the Divestment Business and to
+          facilitate its smooth transfer to EQOS.
+
+(38)    According  to  the  Trustee18,  in  its Reasoned Opinion,  the SPA describes  the
+        Divestment Business in accordance with the Commitments as comprising all assets
+          that contribute to the current operation or are necessary to ensure the viability and
+        competitiveness of the Divestment Business.  It  further comprises  all licenses,
+        permits and authorizations issued for the benefit of the Divestment Business, all
+         contracts, leases, commitments and customer orders of the Divestment Business, as
+        well as records of the Divestment Business and its personnel.
+
+(39)   As regards the exclusion of any liability of the Divestment Business in relation to
+         the Liège Tramway Project, the Trustee submits19 that the SPA accurately reflects
+         the Commitments. According to the SPA, Bouygues shall indemnify the Proposed
+        Purchaser against any actual loss borne by the Divestment Business in connection
+        with  the  construction  or  maintenance  of  the  Liège Tramway  Project. Such
+       commitment is not limited by any cap, de minimis or deductible, nor otherwise
+         qualified in the SPA. The amount of losses shall be computed under customary
+         standards,  taking  into  account any  net cash  profit  benefitting  the Divestment
+
+
+18      See Reasoned Opinion, para. 173.
+19      See Reasoned Opinion, para. 190 et seq.
+
+
+                                                      7
+
+[PÁGINA PDF 9]
+        Business in connection with the Liège Tramway Project. [Details of hold-harmless
+        mechanism]20.
+
+(40)    Based on the above considerations, the Trustee deems the SPA consistent with the
+        Commitments.21
+
+(41)    The TSA provides for a transitional period of up to two years after closing of the
+      SPA in which Bouygues will provide certain limited corporate support services to
+         the Divestment Business, ensuring its uninterrupted operation. The Trustee submits
+           that, from an operational  point of view,  the Divestment Business  is  largely
+         functioning on a stand-alone basis. To the extent that any of such corporate support
+         services  cannot be assumed immediately  at Closing of  the SPA by EQOS,
+        Bouygues will continue offering them to the Divestment Business on terms and
+         conditions equivalent to those at the time of the Decision. The Trustee submits that
+         the TSA provisions ensure that the links between the Divestment Business and
+        Bouygues will be as limited in time and scope as possible. The Trustee further
+        submits that EQOS will commit to keep the transitional period as short as possible
+        and will ensure that the Divestment Business will have appropriate replacement
+         service providers. Therefore,  the Trustee deems  the TSA consistent with the
+         contents and the purposes of the Commitments.22
+
+(42)     In light of the above considerations, and taking into account the Reasoned Opinion
+        submitted by the Trustee, the Commission concludes that the Proposed Agreements
+         are  consistent  with  the  Commitments  and  that,  accordingly,  the  Divestment
+        Business is being sold in a manner consistent with the Commitments.
+
+4.    CONCLUSION
+
+(43)   On  the  basis  of  the above  assessment,  the Commission approves EQOS  as
+        a suitable purchaser for the above-mentioned reasons.
+
+(44)   On the basis of the Proposed Agreements, the Commission further concludes that
+         the  Divestment  Business  is  being  sold  in  a  manner  consistent  with  the
+       Commitments.
+
+(45)    This decision only constitutes approval of the proposed purchaser identified herein
+        and of the Proposed Agreements. This decision does not constitute a confirmation
+          that Bouygues has complied with its Commitments.
+
+(46)    This  decision  is  based on  Section D  of  the Commitments  attached  to  the
+       Commission Decision of 19 July 2022.
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                    Olivier GUERSENT
+                                                Director-General
+
+
+20       [Confidential].
+21      See Reasoned Opinion, para. 220.
+22      See Reasoned Opinion, para. 221 et seq.
+
+
+                                                      8

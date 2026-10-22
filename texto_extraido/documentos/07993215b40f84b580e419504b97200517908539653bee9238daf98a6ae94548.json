@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "07993215b40f84b580e419504b97200517908539653bee9238daf98a6ae94548",
+  "extraido_utc": "2026-10-22T19:44:02+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11485_OTRO_01",
+      "caso": "M.11485",
+      "universo": "principal",
+      "titulo": "Trustee details — BRASSERIE NATIONALE / BOISSONS HEINTZ",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "FR",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202534/M_11485_10723140_3998_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202534/M_11485_10723140_3998_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11485/M.11485_OTRO_01_07993215b40f.pdf",
+      "sha256": "07993215b40f84b580e419504b97200517908539653bee9238daf98a6ae94548",
+      "coincide_inventario": "",
+      "bytes": "76773",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202534/M_11485_10723140_3998_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "      MANDATAIRE CHARGÉ DU CONTRÔLE DANS L’AFFAIRE\n         M.11485 – BRASSERIE NATIONALE / BOISSONS HEINTZ\n\n\nLe 6 août 2025, la Commission a approuvé la nomination de :\n\n                 Alfa Partners SAS\n                    6, rue d’Armaillé\n               75017 Paris\n                 France\n\n                 Contact : François Dumonteil\n                       +33 (0) 7 80 99 40 59\n                           fdumonteil@alfapartners.eu\n\n\nen tant que mandataire chargé du contrôle dans l’affaire susmentionnée.\n\nLe rôle du mandataire chargé du contrôle est de contrôler le respect par Munhowen S.A.\ndes engagements joints à la décision de la Commission du 17 juillet 2025 et de faire\nrapport à la Commission à ce sujet.\n\nLes tiers qui ont des questions sur les engagements peuvent contacter le mandataire au\nmoyen des coordonnées susmentionnées.\n\nCe qui précède est sans préjudice de la compétence de la Commission en matière de\ncontrôle de la mise en œuvre des engagements joints à sa décision.",
+      "caracteres": 999,
+      "caracteres_utiles": 680,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

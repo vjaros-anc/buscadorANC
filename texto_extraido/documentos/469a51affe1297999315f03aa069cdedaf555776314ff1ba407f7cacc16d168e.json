@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "469a51affe1297999315f03aa069cdedaf555776314ff1ba407f7cacc16d168e",
+  "extraido_utc": "2026-10-22T19:27:13+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 17 for Word",
+    "producer": "Adobe PDF Library 17.11.238",
+    "creationDate": "D:20211027184137+02'00'",
+    "modDate": "D:20211027184137+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10249_NOT_PREVIA_01",
+      "caso": "M.10249",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — DERICHEBOURG ENVIRONNEMENT / GROUPE ECORE HOLDING",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "FR",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202145/M_10249_8002336_388_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202145/M_10249_8002336_388_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10249/M.10249_NOT_PREVIA_01_469a51affe12.pdf",
+      "sha256": "469a51affe1297999315f03aa069cdedaf555776314ff1ba407f7cacc16d168e",
+      "coincide_inventario": "",
+      "bytes": "143900",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202145/M_10249_8002336_388_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:00+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "FR\n\nClause de non-responsabilité:\n\nLa DG Concurrence met à la disposition du public, dans un souci de transparence accrue, les renseignements\ncommuniqués par les parties notifiantes dans la section 1.2 du formulaire CO. Ces informations ont  été\nélaborées par les parties notifiantes, qui en sont seules responsables, et leur teneur ne préjuge nullement la\nposition de la Commission sur l'opération envisagée. La Commission ne peut pas davantage être tenue pour\nresponsable des renseignements inexacts ou dénaturés qui y figureraient.\n\nM. 10249 – DERICHEBOURG ENVIRONNEMENT / GROUPE ECORE HOLDING\n\n                         SECTION 1.2\n\n                           Description de la concentration\nL’opération notifiée consiste en la prise de contrôle exclusif de la société Groupe Ecore\nHolding SAS par la société Derichebourg Environnement.\nLa société Derichebourg Environnement est une filiale du Groupe Derichebourg, lequel est\nprésent dans les secteurs des services à l’environnement (collecte et valorisation de déchets,\nservices aux collectivités tels que la collecte de déchets ménagers) et des services aux\nentreprises (prestations dans la propreté (nettoyage), l’intérim, les services aéronautiques\nexternalisés, l’énergie, etc.).\nLa société Groupe Ecore Holding SAS est à la tête du Groupe Ecore, lequel est actif dans le\nsecteur de la gestion des déchets. L’activité du Groupe Ecore couvre l’ensemble des activités\nde la chaîne du\nrecyclage, à savoir la collecte, la valorisation et la commercialisation de matériaux en fin de\nvie. Elle intervient principalement dans le recyclage des déchets métalliques, ainsi que dans le\nrecyclage des déchets de papiers-cartons et plastiques.\nLes activités du Groupe Derichebourg et du Groupe Ecore se chevauchent principalement\ndans le secteur du recyclage des déchets en Allemagne, en Belgique et en France, en\nparticulier le recyclage de déchets métalliques.\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 2135,
+      "caracteres_utiles": 1705,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

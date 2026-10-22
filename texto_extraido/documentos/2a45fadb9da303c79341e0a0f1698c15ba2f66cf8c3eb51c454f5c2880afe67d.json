@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "2a45fadb9da303c79341e0a0f1698c15ba2f66cf8c3eb51c454f5c2880afe67d",
+  "extraido_utc": "2026-10-22T19:36:45+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20221220171527+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10806_CP_APERTURA_01",
+      "caso": "M.10806",
+      "universo": "principal",
+      "titulo": "Comunicado de apertura de fase II — BROADCOM / VMWARE",
+      "tipo_documental": "CP_APERTURA",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_7835/IP_22_7835_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_7835",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10806/M.10806_CP_APERTURA_01_2a45fadb9da3.pdf",
+      "sha256": "2a45fadb9da303c79341e0a0f1698c15ba2f66cf8c3eb51c454f5c2880afe67d",
+      "coincide_inventario": "",
+      "bytes": "39204",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_7835/IP_22_7835_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission opens in-depth investigation into the proposed\nacquisition of VMware by Broadcom\n\nBrussels, 20 December 2022\n\nThe European Commission has opened an in-depth investigation to assess, under the EU Merger\nRegulation, the proposed acquisition of VMware by Broadcom. The Commission is particularly\nconcerned that the transaction would allow Broadcom to restrict competition in the market for certain\nhardware components which interoperate with VMware's software.\n\nBroadcom is a hardware company that offers, among other products, Network Interface Cards\n(‘NICs'), Fibre Channel Host-Bus Adapters (‘FC HBAs') and storage adapters.  Broadcom recently\nstarted expanding into software markets. VMware is a software provider offering mainly\nvirtualisation software which interoperates with a wide range of hardware, including NICs, FC HBAs\nand storage adapters. The companies' portfolios are largely complementary.\n\nThe Commission's preliminary competition concerns\n\nThe Commission's preliminary investigation indicates that the transaction may allow Broadcom to\nrestrict competition in the market for the supply of NICs, FC HBAs and storage adapters by:\n\n   i. degrading interoperability between VMware's server virtualisation software and competitors'\n    hardware to the benefit of its own hardware, and/or\n\n  ii. foreclosing competitors' hardware by preventing them from using VMware's server\n     virtualisation software or degrading their access to it.\n\nThis, in turn, could lead to higher prices, lower quality and less innovation for business customers,\nand ultimately consumers.\n\nIn addition, the Commission will also examine whether:\n\n   Broadcom may hinder the development of SmartNICs by other providers. In 2020,\n    VMware launched Project Monterey with three SmartNICs sellers (NVIDIA, Intel and AMD\n    Pensando). Broadcom may decrease VMware's involvement in Project Monterey to protect its\n   own NICs revenues. This could hamper innovation to the detriment of customers.\n\n   Broadcom may start bundling VMware's virtualisation software with its own software\n    (namely mainframe and security software) and no longer offer VMware's virtualisation software\n    as a stand-alone product reducing choice and potentially foreclosing rival software providers.\n\nThe proposed transaction was notified to the Commission on 15 November 2022. The Commission\nnow has 90 working days, until 11 May 2023, to take a decision. The opening of an in-depth inquiry\ndoes not prejudge the final result of the investigation.\n\nCompanies and products\n\nBroadcom is a US based hardware company active in the production of NICs, FC HBAs and storage\nadapters, amongst other products. NICs are server components that provide an interface between\nthe server and other computers and equipment on a network. FC HBAs are storage adapters that\nconnect servers to storage located outside the server on a storage-area network using the fiber\nchannel protocol, typically through a switch. Storage adapters connect servers' central processing\nunits to storage directly. Broadcom recently started expanding into software markets, notably\nthrough the acquisition of CA Technology and Symantec.\n\nVMware is a US based software company that mainly offers virtualization software, whichenables IT\noperators to create virtual versions of computer resources (e.g. hardware, operating systems (‘OS'),\nstorage devices, or network resources) known as virtual machines. This enables IT organizations to\nrun more than one virtual system – and multiple OS and applications – on a single server at the\nsame time.\n\nMerger control and procedure",
+      "caracteres": 3677,
+      "caracteres_utiles": 2988,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "The Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the European Economic Area\nor any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nIn addition to the current transaction, there are currently six on-going Phase II merger\ninvestigations: (i) the proposed acquisition of OMV Slovenija by MOL; (ii) the proposed acquisition of\nVOO and Brutélé by Orange; (iii) the proposed acquisition of Alumetal by Hydro; (iv) the proposed\nacquisition of Activision Blizzard by Microsoft; (v) the proposed acquisition of eTraveli by Booking;\nand (vi) the proposed acquisition of Lagardère by Vivendi.\n\nMore information will be available on the Commission's competition website, in the Commission's\npublic case register under the case number M.10806.\n\n                                                                                                              IP/22/7835\n\nQuotes:\n\n\n Broadcom, a major supplier of hardware components, is acquiring VMware, a key server virtualisation software provider. Our initial\n investigation has shown that it is essential for hardware components in servers to interoperate with VMware’s software. We are\n concerned that after the merger, Broadcom could prevent its hardware rivals to interoperate with VMware’s server virtualisation\n software. This would lead to higher prices, lower quality and less innovation for customers and consumers.\n Margrethe Vestager, Executive Vice-President in charge of competition policy - 20/12/2022\n\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2108,
+      "caracteres_utiles": 1604,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

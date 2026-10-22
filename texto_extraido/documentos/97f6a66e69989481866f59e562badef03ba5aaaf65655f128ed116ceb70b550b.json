@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "97f6a66e69989481866f59e562badef03ba5aaaf65655f128ed116ceb70b550b",
+  "extraido_utc": "2026-10-22T19:41:08+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "EN",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDF CoDe 5.2311.751.0 (c) 2002-2023 European Commission",
+    "producer": "PDF CoDe 5.2311.751.0 (c) 2002-2023 European Commission",
+    "creationDate": "D:20231201095706+01'00'",
+    "modDate": "D:20231201095706+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11071_NOT_PREVIA_01",
+      "caso": "M.11071",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — DEUTSCHE LUFTHANSA / MEF / ITA",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202348/M_11071_9737898_1362_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202348/M_11071_9737898_1362_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11071/M.11071_NOT_PREVIA_01_97f6a66e6998.pdf",
+      "sha256": "97f6a66e69989481866f59e562badef03ba5aaaf65655f128ed116ceb70b550b",
+      "coincide_inventario": "",
+      "bytes": "105933",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202348/M_11071_9737898_1362_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "EN\n                         Prior notification of a concentration\n              (Case M.11071 – DEUTSCHE LUFTHANSA / MEF/ ITA)\n\n\n                             (Text with EEA relevance)\n                              (2023/C…/…)\n\n\n1.    On 30 November  2023,  the Commission  received  notification  of  a proposed\n       concentration pursuant to Article 4 of Council Regulation (EC) No 139/20041.\n\n       This notification concerns the following undertakings:\n\n   —    Deutsche Lufthansa AG (Germany),\n   —     Italian Ministry of Economy and Finance (Italy),\n   —      Italia Trasporto Aereo S.p.A.  (Italy) controlled by the Italian Ministry of\n           Economy and Finance.\n\n      Deutsche Lufthansa AG (‘Lufthansa’) and the  Italian Ministry of Economy and\n       Finance (‘MEF’) will acquire within the meaning of Article 3(1)(b) and 3(4) of the\n      Merger Regulation joint control of Italia Trasporto Aereo S.p.A (‘ITA’).\n\n      The concentration is accomplished by way of purchase of shares.\n\n2.    The business activities of the undertakings concerned are the following:\n\n   —    Lufthansa  is  the  holding company  of  the  Lufthansa Group  which  is\n              headquartered in Cologne, Germany. Its air transport business includes, inter\n                  alia, Lufthansa Passenger Airlines, Swiss International Air Lines Ltd., Brussels\n               Airlines S.A./N.V., Austrian Airlines AG, Air Dolomiti L.A.R.E. S.p.A.,\n            Eurowings GmbH, EW Discover GmbH, Edelweiss Air AG and  its joint\n              venture with Türk Hava Yolları A. O. (“Turkish Airlines”), Güneş Ekspres\n              Havacılık A.Ş. (“SunExpress”). DLH operates hubs in Frankfurt, Munich,\n               Brussels, Zurich and Vienna. DLH is also a member of the global airline\n               alliance Star Alliance. Lufthansa is active worldwide.\n\n   —   MEF carries out the tasks and responsibilities of the Italian Government in the\n                fields of economic policy, financial policy, budgeting, and tax policies. MEF\n              holds shareholdings in public and strategic companies in Italy, among others in\n               the transport sector (ENAV S.p.A., Ferrovie dello Stato) and  is the sole\n              shareholder in ITA. The undertakings in which MEF has shareholdings are\n               active worldwide.\n\n   —   ITA is an Italian airline company, created by the Italian State on 9 October\n             2020, which is active worldwide. It is headquartered in Rome. ITA is wholly\n           owned by the MEF and is a member of the global airline alliance Sky Team.\n\n\n1      OJ L 24, 29.1.2004, p. 1 (the ‘Merger Regulation’).",
+      "caracteres": 2652,
+      "caracteres_utiles": 1736,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "3.    On preliminary examination, the Commission finds that the notified transaction could\n         fall within the scope of the Merger Regulation. However, the final decision on this\n       point is reserved.\n\n4.    The Commission invites interested third parties to submit their possible observations\n      on the proposed operation to the Commission.\n\n       Observations must reach the Commission not later than 10 days following the date of\n        this publication. The following reference should always be specified:\n\n      M.11071 – DEUTSCHE LUFTHANSA / MEF/ ITA\n\n       Observations can be sent to the Commission by email or by post. Please use the\n       contact details below:\n\n       Email: COMP-MERGER-REGISTRY@ec.europa.eu\n\n       Postal address:\n      European Commission\n       Directorate-General for Competition\n      Merger Registry\n      1049 Bruxelles/Brussel\n     BELGIQUE/BELGIË",
+      "caracteres": 901,
+      "caracteres_utiles": 654,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

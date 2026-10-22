@@ -1,0 +1,605 @@
+[PÁGINA PDF 1]
+        EUROPEAN COMMISSION
+
+           DG Competition
+
+
+
+
+     Case M.10108 - S&P GLOBAL / IHS MARKIT
+
+
+
+
+
+                             Only the English text is available and authentic.
+
+
+
+
+
+          REGULATION (EC) No 139/2004
+
+              MERGER PROCEDURE
+
+
+
+
+
+Decision on the implementation of the commitments -
+                               Purchaser approval
+
+                                 Date: 22/02/2022
+
+[PÁGINA PDF 2]
+              EUROPEAN COMMISSION
+
+
+
+
+                                                         Brussels, 22.2.2022
+                                             C(2022) 1242 final
+
+                                     PUBLIC VERSION
+
+                                                                   In the published version of this decision,
+                                                  some   information   has   been   omitted
+                                                           pursuant   to  Article  17(2)  of  Council
+                                                             Regulation (EC) No 139/2004 concerning
+                                                             non-disclosure  of business  secrets  and
+                                                              other    confidential   information.   The
+                                                           omissions  are shown  thus  […]. Where
+                                                               possible the information omitted has been
+                                                               replaced by ranges of figures or a general
+                                                                  description.
+
+                                  S&P Global, Inc.
+                                          55 Water Street
+                                 New York, NY 10041
+                                                   United States of America
+
+                                         IHS Markit Ltd.
+                                                          4th Floor, Ropemaker Place
+                                          Ropemaker Street
+                                              London, EC2Y 9LY
+                                                 England
+
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.10108 – S&P GLOBAL / IHS MARKIT
+          Approval of News Corporation as purchaser of the Price Assessments
+          Divestment Businesses following your reasoned submission of 29 October
+          2021 and the Trustee’s opinion of 14 February 2022
+
+
+
+1.    FACTS AND PROCEDURE
+
+(1)   By  decision of 22  October 2021  (“the  Decision”) based on  Article  6(1)(b)  in
+       connection  with  Article  6(2)  of  Council  Regulation  (EC) No  139/2004,1  the
+      Commission  declared  the  operation by which S&P  Global,  Inc.  (“S&P”, USA)
+
+
+1     OJ L 24, 29.1.2004,  p.1 (the “Merger Regulation”).
+
+
+
+Commission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE
+Europese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË
+
+Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.
+
+[PÁGINA PDF 3]
+        acquires  sole  control  of IHS  Markit  Ltd.  (“IHSM”, UK)  (“the  Transaction”)
+       compatible  with  the  internal  market  following  modification by S&P  and IHSM,
+        subject to conditions and  obligations  laid down in the commitments annexed to the
+       Decision  (“the Commitments”). S&P and IHSM are  hereinafter  collectively referred
+        to as the “Parties”.
+
+(2)    The Commitments consist of three components, that is the CUSIP Commitments, the
+      LCD/LLI  Commitments  and   the  OPIS/CMM  Commitments   (or   the   “Price
+       Assessments Commitments”).2
+
+(3)    Under the Price Assessments Commitments, the  Parties commit to divest the Price
+       Assessments Divestment  Businesses, which  consist of the following three  functional
+       segments: IHSM’s  Oil Price  Information Services group (“OPIS”), IHSM’s Coal,
+       Metals and Mining group (“CMM”), and IHSM’s PetroChem Wire (“PCW”).
+
+(4)   On 31 July 2021, the Parties entered into a Stock and Asset Purchase Agreements
+        (the  “SAPA”),  pursuant  to  which  they  agreed  to  sell and  transfer  the  Price
+       Assessments Divestment Businesses to News Corporation through  its wholly owned
+        subsidiary Dow  Jones & Company,  Inc  (collectively “News  Corporation”).  Since
+        signing of the SAPA, the Parties made a number of minor amendments via a SAPA
+      Amendment document and provided the  final agreed forms of the following ancillary
+       documents: Data License Agreement,  Transitional Service Agreement Schedules and
+      Moorgate Side Letter. The SAPA alongside  all the ancillary documents  is hereinafter
+        referred to as the “Transaction Agreement”.
+
+(5)   By  a  reasoned  submission  of 29  October  2021,  the  Parties  proposed News
+       Corporation  for  approval by  the  Commission  as  the  purchaser  of  the  Price
+       Assessments Divestment Businesses.
+
+(6)    In  its opinion of 14 February 2022 (the “Reasoned Opinion”), pursuant to paragraph
+        29(iv) of the  Price Assessments Commitments, Monitoring Trustee Partners, acting
+       as monitoring trustee (the “Trustee”), concludes that:
+
+        (a)   News Corporation  fulfils the  criteria of the purchaser requirements as set out
+                 in  Section D  of  the  Price  Assessment  Commitments  (the  “Purchaser
+                 Criteria”); and
+
+        (b)    on  the   basis  of  the  Transaction  Agreement,   the  Price  Assessments
+              Divestment Business would be  sold  in a manner  consistent with the  Price
+             Assessments Commitments.
+
+
+2.    ASSESSMENT OF THE PROPOSAL
+
+(7)    According to paragraph 19 of the Price Assessments Commitments, in its assessment
+       of the Transaction Agreement, the Commission has to verify:
+
+        (a)    That the purchaser fulfils the Purchaser Criteria; and
+
+
+
+2     The CUSIP Commitments and the LCD/LLI Commitments are not further discussed in this decision,
+      and will be addressed in separate purchaser approval decisions.
+
+                                                   2
+
+[PÁGINA PDF 4]
+        (b)    That  the  Price  Assessments  Divestment  Businesses  are  being  sold  in  a
+             manner  consistent  with  the  Price Assessments Commitments  including  their
+               objective to bring about a lasting structural change in the market.
+
+2.1.   Assessment of the Purchaser Criteria
+
+(8)   News Corporation  is a  global  diversified media and information services company
+       focused on  creating and  distributing  content and  other  products and  services  to
+       consumers and  businesses. The company comprises  businesses across a range of
+       media,  including  digital real estate  services, subscription video services  in Australia,
+      news and  information services and book  publishing. Headquartered  in New York,
+     News Corporation operates primarily in the United States, Australia and the United
+      Kingdom, with  its content and other products and services distributed and consumed
+       worldwide.  Its global revenues in the fiscal year 2021 amounted to EUR 7.83 billion.
+
+(9)   As set out in paragraph 18 of the Price Assessments Commitments, in order to be
+      approved by the Commission, the Purchaser3 must fulfil the following  criteria:
+
+                         i.      The Purchaser shall be independent of and unconnected to the Parties
+                    and  its  Affiliated Undertakings  (this being assessed having regard to
+                        the situation following the divestiture).
+
+                     ii.      The Purchaser shall have the financial resources, proven expertise and
+                         incentive  to  maintain and develop the Price Assessments Divestment
+                      Businesses  as  viable  and  active  competitive  forces  in  competition
+                      with  the  Parties  and  other  competitors,  including  the  ability and
+                        incentives to develop  its own benchmark administrator in-house.
+
+                    iii.      The  acquisition of the  Price Assessments Divestment Businesses by
+                        the  Purchaser  must  neither  be  likely  to  create,  in  light  of  the
+                       information  available  to  the  Commission,  prima  facie  competition
+                     concerns  nor  give  rise  to  a  risk  that  the  implementation  of  the
+                   Commitments  will  be  delayed.  In  particular,  the  Purchaser  must
+                      reasonably be expected  to  obtain  all necessary approvals from the
+                        relevant   regulatory   authorities   for  the   acquisition  of  the  Price
+                    Assessments Divestment Businesses.
+
+                iv.      The Purchaser shall not be a purely financial  investor.
+
+               v.      The Purchaser shall have a global presence.
+
+                vi.      The Purchaser  shall not be a  supplier of nor have material financial
+                     exposure to the price of underlying commodities assessed by the Price
+                    Assessments Divestment Businesses.
+
+(10)   The following paragraphs in turn provide an assessment of each of the six Purchaser
+        Criteria  listed above.
+
+
+
+
+3      Capitalised  terms  in  this  decision  will have the meaning  as  set out  in the Price Assessments
+      Commitments, unless indicated otherwise.
+
+                                                   3
+
+[PÁGINA PDF 5]
+2.1.1.  Independence from the Parties
+
+(11)   According to paragraph 18(i) of the Price Assessments Commitments, the Purchaser
+         shall  be  independent  of  and  unconnected   to  the   Parties  and   its   Affiliated
+       Undertakings   (this  being  assessed  having  regard  to  the  situation  following  the
+         divestiture). In this respect, the Commission notes the following.
+
+(12)    First, the Parties and News Corporation are publicly listed, S&P and IHSM are both
+         listed on  the New York  Stock  Exchange  and News  Corporation  is  listed on
+     NASDAQ. S&P and IHSM do not hold directly or indirectly any shares in News
+       Corporation  (and  vice  versa).  While  a  number  of  institutional  investors  are
+       shareholders  of  both  the  Parties  and News  Corporation,4  the  Trustee’s  review
+       revealed  that  these common shareholders  (i) have modest  individual shares  in the
+        Parties and News  Corporation,  typically below 5% and  in no instance exceeding
+      10%, and  (ii)  that two common shareholders  that hold more than 5% of both the
+        Parties’ and News Corporation’s outstanding share are companies  active mostly in
+       passive  equity  asset management  that  typically have no  incentive  to  allocate any
+       resources  to  affect  the  corporate  strategy of  the  companies  they  invest  in.5  In
+        addition, no  shares of common shareholders confer any special rights and do not
+        constitute  a  situation of  control  within  the  meaning of  Article 3  of  the Merger
+        Regulation.
+
+(13)   Second, none of the members of the board of directors of S&P and/or IHSM is active
+       as a member of the board of directors of News Corporation or vice versa.6
+
+(14)   Third, S&P and News Corporation have a number of  interactions  that  relate  to
+      S&P’s Dow Jones Indices business and News Corporation’s past  activities  in the
+       area  of  financial  indices.7 The  Trustee  conducted  a  detailed  review, which have
+      shown  that  these  relate  only to non-commercial  activities and/or have no  financial
+       impact and therefore do not impede the independence of News Corporation from the
+        Parties (or vice versa).8 […]. In addition, the Parties and News Corporation have a
+      number of ordinary course of business commercial relationships  (with Dow Jones
+       purchasing from and  selling certain products to the Parties). In relation to these, the
+        Trustee’s review has shown that  (i) they can be considered standard practice in the
+        information services  industry; and  (ii)  are  immaterial to  the  overall activities of  all
+
+
+
+
+
+4    News Corporations’ top 5 shareholders include: Murdoch AC, Keith Rupert (13.8% of the outstanding
+       stock), The Vanguard Group, Inc. (9.5%), T. Rowe Price Group, Inc. (7.8%), Independent Franchise
+       Partners, LLP (7.4%) and BlackRock, Inc. (6.8%). S&P’s top 5 shareholders include: The Vanguard
+      Group, Inc. (8.3%), BlackRock, Inc. (7.2%), Capital Research and Management Company (6.3%), State
+       Street Global Advisors (4.6%) and T. Rowe Price Group, Inc. (3.3%). IHSM’s top 5 shareholders
+       include The Vanguard Group, Inc. (9.5%), BlackRock, Inc. (6.6%), State Street Global Advisors, Inc.
+       (3.8%), Canada Pension  Plan Investment Board (3.7%) and Wellington Management Group LLP
+       (3.0%).
+5     Reasoned Opinion, Section 4.2.3.
+6     Reasoned Opinion, Section 4.2.2.
+7      In particular, News Corporation previously operated a financial indices business, which was acquired
+      by CME Group Inc. (“CME”) in 2010. In 2011, S&P announced that  it is partnering with CME to set
+      up a joint venture S&P Dow Jones Indices active in the provision of financial indices.
+8     Reasoned Opinion, Section 4.3.1.
+
+                                                   4
+
+[PÁGINA PDF 6]
+        parties  involved,  presenting   less  than 1%  of  each  the  Parties’  and  News
+       Corporations’ total revenues or expenses.9
+
+(15)   Fourth,  in accordance  with the Commitments, IHSM  will  offer  certain  transitional
+        services to News Corporation (and vice versa). These agreements, however, have a
+       pre-defined termination date or will be terminated before that date once the services
+       are  no  longer  required by News  Corporation or IHSM. The  Trustee  therefore
+       considers  that  the  transitional services do  not impede  the independence of News
+       Corporation from the Parties (and vice versa).10
+
+(16)   In  light of the above, and  in  line  with the Reasoned  Opinion,11  the Commission
+       concludes  that News Corporation  is independent of and unconnected to the Parties
+      and its Affiliated Undertakings.
+
+2.1.2.  Financial resources, proven expertise and incentive to maintain and develop the
+       Divested Business as a viable and active competitor
+
+2.1.2.1.        Financial resources
+
+(17)   According to paragraph 18(ii) of the Price Assessment Commitments, the Purchaser
+         shall have  the  financial resources  to  maintain and develop  the  Price Assessments
+       Divestment Businesses as  viable and  active  competitive  forces  in competition with
+        the  Parties  and  other  competitors.  In  this  respect,  the  Commission  notes  the
+        following.
+
+(18)  News Corporation has a market  capitalisation of over EUR 9.6  billion (as per 1
+      December 2021) and  is  profitable  with good  financial performance over the past
+        three years. In FY 2021,  it generated revenues of EUR 7.83 billion (an increase of
+      3.9% compared to the previous year), of which 18% was contributed by Dow Jones
+       segment. On an EBITDA  level, News Corporation shows an average margin of
+       approximately 10% during the presented years. The analysis of News Corporation’s
+         financial documentation shows a strong balance sheet with  significant cash balances
+      and additional loan capacity  if needed.12
+
+(19)   In view of the  foregoing,  the Commission concludes,  in  line  with the Monitoring
+        Trustee,13  that News Corporation has  sufficient  financial resources to develop the
+        Price Assessment Divestment Businesses going forward.
+
+2.1.2.2.       Proven  expertise,  including  the  ability and  incentive  to  develop  its own
+      benchmark administrator in-house
+
+(20)   According to paragraph 18(ii) of the Price Assessment Commitments, the Purchaser
+         shall have  the  proven  expertise  to  maintain and  develop  the  Price  Assessments
+       Divestment Businesses as  viable and  active  competitive  forces  in competition with
+        the  Parties and other competitors,  including the  ability and incentives to develop  its
+     own benchmark administrator in-house.
+
+
+9     Reasoned Opinion, Section 4.3.1.
+10    Reasoned Opinion, Section 4.4.2.
+11    Reasoned Opinion, Section 4.5.
+12    Reasoned Opinion, Section 6.2.
+13    Reasoned Opinion, Section 6.2.
+
+                                                   5
+
+[PÁGINA PDF 7]
+(21)    First,  the Commission considers,  in  line  with the Reasoned Opinion,14  that News
+       Corporation has proven relevant expertise as a global provider of news and business
+        information,  active  in the wider  financial data  / market  intelligence  industry. News
+       Corporations’ core  capabilities include  for example  trust, editorial rigor, expertise in
+        deriving data from news  assets, and  real-time news  delivery;  all of which can be
+       leveraged  to  develop  and  expand  the  Price  Assessment  Divestment  Businesses’
+        operations. News Corporation,  as  well as Dow Jones, have a  highly experienced
+      management team with senior employees  with extensive experience relevant to the
+        Price Assessments Divestment Businesses.
+
+(22)   Second,  with respect  to  the benchmark administration services, News Corporation
+          will,  as  part  of  the SAPA,  initially engage an external benchmark  administration
+        service. The appointment of an external benchmark administration service is a robust
+        interim  solution  given  that  the  appointed  administrator  will be  fully regulated and
+       supervised by the  Financial Conduct Authority (“FCA”), which will ensure effective
+       administration for the Price Assessments Divestment Businesses.15
+
+(23)   Going  forward,  however,  the  Commission,  in  line  with  the  Reasoned  Opinion,16
+       concludes  that News Corporation has  the  ability and  the  incentive to develop  this
+         activity in-house.
+
+        (a)    With  respect  to  the  ability, News Corporation has  the necessary  financial
+               resources  (including  for  potential external  hires),  strong compliance  culture,
+             and  the  necessary  relevant  expertise. More  specifically, News Corporation
+              has  estimated  the  set-up  and  ongoing  costs  associated  with  in-house
+             benchmark  administration,  and  considered  the  relevant  individuals  that  will
+            be  part  of  the  in-house  administration team ([…]). Based on  this, News
+              Corporation can be  considered  as  having  all  the  resources necessary  for
+                profitably setting up an in-house benchmark administrator.
+
+        (b)    With respect to the  incentives, News Corporations explained to the Trustee
+                 that  [Information on News Corporation’s economic  rationale,  incentives and
+                 timeline  to  have  an  in-house  benchmark  administrator  to  support OPIS’
+                position in the market].17
+
+(24)   In view  of  the  foregoing,  the Commission  concludes,  in  line  with the Reasoned
+       Opinion,18  that News  Corporation has  sufficient proven expertise  to develop  the
+        Price  Assessment  Divestment  Businesses  going  forward,  including  the  ability and
+        incentives to develop  its own benchmark administrator in-house.
+
+
+
+
+
+14    Reasoned Opinion, Section 6.3.
+15    Reasoned Opinion, Section 5.4.3.
+16    Reasoned Opinion, Section 6.3.
+17     In the interim period, the risk of potential conflict situations is minimal as the external administrator is
+       subject to  (i) the UK regulatory regime, which requires  it to act with independence, which in turn
+       includes compliance with a strict regulatory regime relating to the management of conflicts of interest
+       with the rest of its group, […].
+18    Reasoned Opinion, Section 6.3.
+
+                                                   6
+
+[PÁGINA PDF 8]
+2.1.2.3.        Incentives to maintain and develop the business
+
+(25)  As per paragraph 18(ii) of the Commitments, the Proposed Purchaser shall have the
+        incentive to maintain and develop the Divestment Businesses as a viable and active
+       competitive force in competition with the Parties and other competitors.
+
+(26)   In  this respect, the Reasoned Opinion, as well as the News Corporations’ business
+        plan,  demonstrate  that News  Corporation  is  a  strategic  buyer, who  intends  to
+        maintain  strong and  further  expand  the  reach  of  Price  Assessments  Divestment
+       Businesses. News Corporation explains to the Trustee that it intends […].
+
+(27)   Based on  the  information above,  and  in  line  with  the Reasoned  Opinion,19  the
+      Commission  considers  that News  Corporation has  the  incentives  to  maintain and
+       develop the Price Assessments Divestment Businesses.
+
+2.1.2.4.       Conclusion
+
+(28)   Based on the above considerations, and  in  line with the Reasoned Opinion,20  the
+      Commission concludes  that  the Purchaser  fulfils  the  criteria of having the  financial
+        resources,  proven  expertise  and  incentive  to  maintain  and  develop  the  Price
+       Assessments  Divestment  Businesses  as  viable  and  active  competitive  forces  in
+       competition  with  the  Parties  and  other  competitors,  including  the   ability  and
+        incentives to develop  its own benchmark administrator in-house.
+
+2.1.3. Absence of prima facie competition concerns
+
+(29)   According  to  paragraph   18(iii)  of  the  Price  Assessments  Commitments,  the
+        acquisition of the Price Assessments Divestment Businesses by the Purchaser must
+        neither be  likely to  create,  in  light of the information available to the Commission,
+       prima  facie competition concerns nor give  rise to a risk that the implementation of
+        the Commitments  will be delayed. In particular, the Purchaser must reasonably be
+       expected  to  obtain  all necessary approvals from the relevant regulatory authorities
+        for the acquisition of the Price Assessments Divestment Businesses.
+
+(30)    First, according to the information available to the Commission, News Corporation
+          is not active in the provision of commodity price assessments, or any other plausible
+        relevant markets  in which the Price Assessments Divestment Businesses are  active.
+       Therefore, the acquisition of the Price Assessments Divestment Businesses by News
+      Corp  does  not  lead  to  any  horizontal overlaps and no  prima  facie  competition
+       concerns in this respect.
+
+(31)   Second,   certain   vertical   relationships   exist  between   the   Price  Assessments
+       Divestment  Businesses  and  the  Parties,  whereby News  Corporation  acts  as  a
+        distributor or provides  inputs for Price Assessments Divestment Businesses products
+       (and vice versa, Price Assessments Divestment Businesses provides certain input for
+     News Corporation products).21 However, Commission notes, in accordance with the
+
+
+
+19    Reasoned Opinion, Section 6.4.
+20    Reasoned Opinion, Sections 6.2. and 6.3.
+21     In particular, News Corporation acts as a distributor of certain price assessment products of the Price
+      Assessments Divestment Businesses. In addition, […].
+
+                                                   7
+
+[PÁGINA PDF 9]
+        Trustee’s  review,22  that  (i) none of these  vertical links concern important inputs  /
+       customers but News Corporation and the Price Assessments Divestment Businesses
+       provide  rather  peripheral inputs  into each  others’  products;23 and  (ii)  the market
+       share of News Corporation, and Price Assessments Divestment Businesses,  in any
+        potentially  adjacent  or  vertically  related markets  is below 30%.24  Therefore, any
+        vertical   relationships   rising  from   the   acquisition  of   the   Price  Assessments
+       Divestment Businesses by News Corp are unlikely to create prima facie competition
+       concerns.
+
+(32)    Finally,  the  acquisition of  the  Price Assessments Divestment Businesses does  not
+        require merger control  fillings  in the EEA/UK or any other  jurisdiction.25 The only
+        regulatory condition  is the approval of News Corporation as a suitable purchaser in
+        relation to the Transaction by the United States Department of Justice (“DoJ”), the
+    UK  Competition and Markets  Authority (“CMA”) and  the Canadian Competition
+      Bureau (“CCB”). At  the  time of the Reasoned Opinion, the  Parties have already
+       obtained the necessary approvals by the DoJ and the CCB, and are  still awaiting the
+       approval by the CMA. However,  the  Parties are expected to obtain  this without
+        delay, and the condition  is therefore not expected to delay the implementation of the
+      Commitments.  For   completeness,   the   acquisition  of  the   Price  Assessments
+       Divestment Businesses does not require any other licenses or regulatory approvals.
+
+(33)   In  light of the above, and  in  line  with  the Reasoned  Opinion,26  the Commission
+       considers that the acquisition of the Price Assessments Divestment Businesses by the
+       Purchaser   is  unlikely  to  create,   in   light  of  the  information  available  to  the
+       Commission,  prima  facie  competition  concerns  or  give  rise  to  a  risk  that  the
+       implementation of the Commitments  will be delayed.
+
+2.1.4. Not a purely financial investor
+
+(34)   According to paragraph 18(iv) of the Price Assessment Commitments, the Purchaser
+         shall not be a purely financial  investor.
+
+(35)   In this respect, the Commission notes that News Corporation is not a purely financial
+        investor. To  the  contrary,   it  is a  strategic purchaser  that intends to  invest  in and
+        further develop the Price Assessments Divestment Businesses as a competitive force
+         in the market. This is in line with the approach that News Corporation has taken in a
+        series of previous acquisitions.
+
+
+
+
+22    Reasoned Opinion, Section 6.5.1.
+23     In particular, News Corporation is not an important distribution channel for price assessment providers,
+       with the Parties generating […] revenues through that channel. With respect to input the Parties and
+     News Corporation provide to each other, the Trustees’ review revealed that in  all such cases the
+      provided inputs do not constitute an important input and many alternative options are available.
+24    News Corporation confirmed to the Trustee that News Corporation’s market share in any potentially
+       adjacent or vertically related market in which the Divestment Businesses are active is well below 30%.
+      With respect to the Price Assessments’ Divestment Businesses market shares in various plausible
+       markets for commodity price assessments (as discussed in the Decision), News Corporation does not
+      use any price assessment products in which the Price Assessments Divestment Business would have a
+       share above 30% under certain market segmentations.
+25    Reasoned Opinion, Section 6.5.3.
+26    Reasoned Opinion, Section 6.5.4.
+
+                                                   8
+
+[PÁGINA PDF 10]
+(36)   Based on  the  information above,  and  in  line  with  the Reasoned  Opinion,27  the
+      Commission considers that News Corporation is not a purely financial investor.
+
+2.1.5. Global presence
+
+(37)   According to paragraph 18(v) of the Price Assessment Commitments, the Purchaser
+         shall have a global presence.
+
+(38)   In  this  respect,  the Commission  notes  that News Corporation has  strong global
+       presence. In FY2021,  it generated around 18% of  its FY2021 revenues in Europe,
+       around 38% in the United States and Canada and the remaining 44% in Australasia
+      and Other.
+
+(39)   In addition, News Corporation has a global sales team with sales teams located in
+      many  countries  across  all  continents.  In  particular,  as  of June 30, 2021, News
+       Corporation had  approximately 24,000 employees, of whom approximately 8,500
+      were located  in the United States, 5,000 were located in the UK and 7,500 were
+       located in Australia.
+
+(40)   Based on  the  information above,  and  in  line  with  the Reasoned  Opinion,28  the
+      Commission considers that News Corporation has global presence.
+
+2.1.6. No material financial exposure to the price of underlying commodities
+
+(41)   According to paragraph 18(vi) of the Price Assessment Commitments, the Purchaser
+         shall not be  a  supplier  of nor  have  material  financial exposure  to  the  price of
+       underlying commodities assessed by the Price Assessments Divestment Businesses.
+
+(42)   In  this  respect,  the  Trustee has  discussed  the  topic  with News Corporation and
+       reviewed News Corporation’s Form 10-K annual report. Based on this, the Trustee
+       concluded  that News Corporation  is  not a  supplier and has no material financial
+       exposure to the price of underlying commodities assessed by the Price Assessments
+       Divestment Businesses.
+
+(43)   Based on  the  information  above,  and  in  line  with  the Reasoned  Opinion,29  the
+      Commission considers that News Corporation has no material exposure to the price
+       of   underlying  commodities   assessed  by   the   Price  Assessments  Divestment
+        Businesses.
+
+2.1.7.  Conclusion
+
+(44)   In view of the foregoing, the Commission concludes  that News Corporation meets
+        the  Purchaser  Criteria  as  set  out  in  paragraph  18  of  the  Price  Assessment
+      Commitments.
+
+
+
+
+
+27    Reasoned Opinion, Section 6.3.
+28    Reasoned Opinion, Section 6.3.
+29    Reasoned Opinion, Section 6.3.
+
+                                                   9
+
+[PÁGINA PDF 11]
+2.2.   The  Price Assessments Divestment Businesses are being sold in a manner
+       consistent with the Commitments
+
+(45)   According to paragraph 19 of the Price Assessments Commitments, in its assessment
+       of  the  Transaction  Agreement,  the  Commission  has  to  verify  that  the  Price
+       Assessments Divestment Businesses are being sold  in a manner consistent with the
+        Price  Assessments Commitments  including  their  objective  to  bring about a  lasting
+        structural change in the market.
+
+(46)   The  Trustee performed a  detailed comparison between the Transaction Agreement
+      and  the Commitments, and observed no deviations between the Commitments and
+        the  Transaction Agreement. For completeness, the SAPA  explicitly specifies  that  if
+        there   is  any  conflict between  the  terms  of  the  Transaction Agreement and  the
+       requirements of the  Price Assessments Commitments,  the  Parties  will comply with
+        the Price Assessments Commitments. In addition, the Trustee discussed  this matter
+       with News Corporation and confirms  that News Corporation  is  fully satisfied with
+        the manner the Commitments are reflected in the Transaction Agreement.
+
+(47)   Based on  the  information above,  and  in  line  with  the Reasoned  Opinion,30  the
+      Commission considers  that  the Price Assessments Divestment Businesses are being
+        sold  in a manner consistent with the Price Assessments Commitments including their
+        objective to bring about a lasting structural change in the market.
+
+
+3.    CONCLUSION
+
+(48)  On the basis of the above assessment, the Commission approves News Corporation
+       as a suitable purchaser for the above-mentioned reasons.
+
+(49)  On the basis of the Transaction Agreement, the Commission further concludes that
+        the  Divestment  Business   is  being  sold  in  a  manner  consistent  with  the  Price
+       Assessments Commitments.
+
+(50)   This  decision only  constitutes approval of the proposed purchaser  identified herein
+      and of the Transaction Agreement. This decision does not constitute a confirmation
+        that the Parties have complied with their Commitments.
+
+(51)   This  decision  is  based on  paragraph 19  of  the  Commitments  attached  to  the
+      Commission Decision of 22 October 2021.
+
+
+                                          For the Commission
+
+
+                                                   (Signed)
+                                                      Olivier GUERSENT
+                                                 Director-General
+
+
+
+
+
+30    Reasoned Opinion, Section 5.4.4.
+
+                                                   10

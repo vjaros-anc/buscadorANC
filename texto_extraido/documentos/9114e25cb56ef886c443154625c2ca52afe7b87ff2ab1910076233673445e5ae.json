@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "9114e25cb56ef886c443154625c2ca52afe7b87ff2ab1910076233673445e5ae",
+  "extraido_utc": "2026-10-22T19:29:00+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "CSUTORAS Reka (COMP)",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 25 for Word",
+    "producer": "Adobe PDF Library 25.1.208",
+    "creationDate": "D:20250411160649+02'00'",
+    "modDate": "D:20250411160650+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10560_OTRO_01",
+      "caso": "M.10560",
+      "universo": "principal",
+      "titulo": "Trustee details — SIKA / MBCC GROUP",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202516/M_10560_10599179_16530_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202516/M_10560_10599179_16530_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10560/M.10560_OTRO_01_9114e25cb56e.pdf",
+      "sha256": "9114e25cb56ef886c443154625c2ca52afe7b87ff2ab1910076233673445e5ae",
+      "coincide_inventario": "",
+      "bytes": "87228",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202516/M_10560_10599179_16530_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "     MONITORING TRUSTEE IN CASE M.10560 – Sika /MBCC Group\n\n\nOn 23.2.2023 the Commission approved the appointment of:\n\n          S&W Partners LLP (formerly Evelyn Partners LLP)\n\n                  represented by Nasoul Gopal\n\n                 Address: 45 Gresham Street, London EC2V 7BG,\n                nasoul.gopal@swgroup.com, +44 20 4617 5423\n\n\nas Monitoring Trustee in the above-mentioned case.\n\nThe role of the Monitoring Trustee  is to monitor the compliance of Sika with the\nCommitments attached to the Commission's Decision of 8.2.2023 and to report to the\nCommission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 851,
+      "caracteres_utiles": 632,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

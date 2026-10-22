@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "b20c96e7d08dc5f8db5f65ac40e7189e6d9d6591643c41c58762ae422ab8d574",
+  "extraido_utc": "2026-10-22T19:27:13+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20211216102828+01'00'",
+    "modDate": "D:20211216102828+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10249_OTRO_01",
+      "caso": "M.10249",
+      "universo": "principal",
+      "titulo": "Trustee details — DERICHEBOURG ENVIRONNEMENT / GROUPE ECORE HOLDING",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202152/M_10249_8106132_1106_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202152/M_10249_8106132_1106_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10249/M.10249_OTRO_01_b20c96e7d08d.pdf",
+      "sha256": "b20c96e7d08dc5f8db5f65ac40e7189e6d9d6591643c41c58762ae422ab8d574",
+      "coincide_inventario": "",
+      "bytes": "86869",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202152/M_10249_8106132_1106_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:00+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "               MONITORING TRUSTEE IN CASE\nM.10249 – DERICHEBOURG ENVIRONNEMENT / GROUPE ECORE HOLDING\n\n\n\nOn 16.12.2021, the Commission approved the appointment of:\n\n              FINEXSI EXPERT & CONSEIL FINANCIER\n               14 rue de Bassano\n               75116 Paris\n                  France\n\n                   Contact:\n                   Christophe Lambert: christophe.lambert@finexsi.com\n\n\n\nas Monitoring Trustee in the above-mentioned case.\n\n\n\nThe  role  of  the  Monitoring  Trustee  is  to  monitor  the  compliance  of   Derichebourg\nEnvironnement with the Commitments attached to the Commission's Decision of 16.12.2021\nand to report to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee through\nthe above contact details.\n\nThe  foregoing  is  without  prejudice  to  the  Commission's  jurisdiction  to  oversee  the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 952,
+      "caracteres_utiles": 666,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

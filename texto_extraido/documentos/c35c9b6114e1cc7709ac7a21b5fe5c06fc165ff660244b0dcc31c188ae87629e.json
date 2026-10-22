@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "c35c9b6114e1cc7709ac7a21b5fe5c06fc165ff660244b0dcc31c188ae87629e",
+  "extraido_utc": "2026-10-22T19:21:16+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 17 for Word",
+    "producer": "Adobe PDF Library 17.11.238",
+    "creationDate": "D:20210531121402+02'00'",
+    "modDate": "D:20210531121404+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10078_NOT_PREVIA_01",
+      "caso": "M.10078",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — CARGOTEC / KONECRANES",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202134/m10078_790_7.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202134/m10078_790_7.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10078/M.10078_NOT_PREVIA_01_c35c9b6114e1.pdf",
+      "sha256": "c35c9b6114e1cc7709ac7a21b5fe5c06fc165ff660244b0dcc31c188ae87629e",
+      "coincide_inventario": "",
+      "bytes": "165485",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202134/m10078_790_7.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:00+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.10078 – CARGOTEC/KONECRANES\n\n                         SECTION 1.2\n\n                           Description of the concentration\n\n(1)    The  transaction  concerns  the  proposed  merger  between  Cargotec  Corporation\n       (Cargotec) and Konecranes Plc (Konecranes). The transaction will be implemented as\n       a statutory absorption merger pursuant to the Finnish Companies Act whereby all\n        assets and liabilities of Konecranes are transferred without a liquidation procedure to\n       Cargotec (upon  completion  together,  the Merged  Entity). As  a  result  of  the\n       Transaction, Konecranes would  automatically  dissolve, Konecranes  shareholders\n      would own approx. 50% of the shares and votes of the Merged Entity, and Cargotec\n       shareholders would own approx. 50% of the shares and votes of the Merged Entity.\n\n(2)    The Parties are both active in the supply of container handling equipment. Further,\n       they each have offerings in other industries requiring a diverse range of material flow\n        solutions.\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 1747,
+      "caracteres_utiles": 1309,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

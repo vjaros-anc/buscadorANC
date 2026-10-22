@@ -1,0 +1,584 @@
+[PÁGINA PDF 1]
+         EUROPEAN COMMISSION
+             DG Competition
+
+
+
+   Case M.11253 - SAFRAN / PART OF COLLINS
+     AEROSPACE’s ACTUATION AND FLIGHT
+                 CONTROL ACTIVITIES
+
+
+
+
+                           Only the English text is available and authentic.
+
+
+          REGULATION (EC) No 139/2004
+              MERGER PROCEDURE
+
+
+Decision on the implementation of the commitments -
+                                Purchaser approval
+                                  Date: 17/06/2025
+
+[PÁGINA PDF 2]
+               EUROPEAN COMMISSION
+
+
+
+                                                     Brussels, 17.6.2025
+                                             C(2025) 3980 final
+
+                                   PUBLIC VERSION
+
+                                                              In the published version of this decision,
+                                                 some  information  has  been  omitted
+                                                            pursuant  to  Article 17(2)  of Council
+                                                           Regulation     (EC)    No 139/2004
+                                                          concerning non-disclosure of business
+                                                                   secrets    and    other    confidential
+                                                               information. The omissions are shown
+                                                              thus   […].   Where   possible   the
+                                                             information omitted has been replaced
+                                                    by  ranges  of  figures  or  a  general
+                                                                  description.
+
+                                                 Safran S.A.
+                                           2 Boulevard du Général Martial Valin
+                                           75015 Paris
+                                               France
+
+
+Subject:   Case M.11253 – SAFRAN / PART OF COLLINS AEROSPACE’s
+       ACTUATION AND FLIGHT CONTROL ACTIVITIES
+          Approval of Woodward, Inc. as purchaser of Safran’s Trimmable
+           Horizontal Stabilizer Actuators and ancillary businesses following your
+             letter of 10 April 2025 and the Trustee’s opinion of 9 June 2025
+
+
+Dear Sir or Madam,
+
+
+1.    FACTS AND PROCEDURE
+(1)    By decision of 4 April 2025 (the “Decision”) based on Article 6(1)(b) in
+        connection  with  Article 6(2)  of  Council  Regulation  (EC) No  139/2004
+         (the “Merger Regulation”), (1) the Commission declared the operation by which
+        Safran S.A. (“Safran”, France, or “Notifying Party”) acquires sole control over
+         part of the actuation business of Collins Aerospace (“Target”), a business unit of
+     RTX Corporation (“RTX”, United States) compatible with the internal market
+         subject to conditions and obligations set out in the final commitments submitted
+       on 27 March 2025 and annexed to the Decision (the “Commitments”).
+
+
+(1)      Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between
+         undertakings, OJ L 24, 29.1.2004, p.1.
+
+[PÁGINA PDF 3]
+(2)      In particular, under the Commitments, Safran commits to divest to an independent
+       and suitable purchaser, with proven expertise in aerospace actuation, its North
+       American actuation business, composed of Safran’s electric trimmable horizontal
+          stabiliser actuator system (“THSA”) activity, secondary flight control actuator
+        system (“SFCA”) activity and nose-wheel steering gearbox activity located in
+        Mexicali, Mexico, and Irvine, California, United States; and the entirety of Safran
+         Electronics & Defense Canada Inc. located in Peterborough, Ontario, Canada, that
+        houses Safran’s Canada-based electronic control unit (“ECU”) components
+          activities (together: the “Divestment Business”).
+(3)     The Divestment Business includes:
+          (a)       all  tangible  assets  (including  two  long-term  leased  facilities  in
+                Peterborough and, if required by the purchaser, a short-term sublease
+               agreement for a facility for the Irvine employees and assets; and the
+                 engineering, manufacturing, testing and servicing equipment for the
+           ECU activities located in the Peterborough facilities and for the actuation
+                    activities located in Mexicali and Irvine facilities (these facilities will be
+                  retained by Safran) and its related documentation);
+         (b)       all intangible assets (including products under development and related
+                    rights, patents, software, intellectual property rights, and know-how);
+          (c)       all licenses, permits and authorizations issued by any governmental
+                 organization for the benefit of the Divestment Business, to the extent
+                  transferable under applicable legal requirements;
+         (d)       all customer  contracts, commitments and customer  orders  of  the
+               Divestment Business,  all customer credit and other records of the
+               Divestment Business, all cooperation agreements with third parties; and
+          (e)       all personnel (circa 240 people) currently employed by the Divestment
+                Business – at the discretion of the potential purchaser. This includes
+             […] employees  identified  as key  personnel  across  three  locations
+                       (i.e. Mexicali,  Mexico;  Irvine,  United  States;  and  Peterborough,
+                Canada), with functions such as management, engineering (R&T,
+                systems  and  components  design,  etc.)  programme  management,
+                manufacturing (production control, testing, etc.), quality assurance, sales
+                (procurement  and  purchasing  policy,  customer  services,  business
+                  analysis, etc.), supply chain, human resources, finance and IT.
+(4)      In addition, the Divestment Business includes a license to Safran’s brands for
+        a transitional period of up to […] after Closing, and a license to all and, if needed,
+       any IP owned by Safran that is used to operate the Divestment Business (other
+        than brands and the IP rights mentioned above). Finally, the Divestment Business
+         includes  Transitional  Service  Agreements  (“TSAs”)  arrangements   for
+        a transitional period of up to […] after Closing (possibly extended for […] at the
+        purchaser’s request), on terms and conditions equivalent to those currently
+        afforded to the Divestment Business by Safran, (i) to supply actuation products
+         (including THSA systems) from the premises in Mexicali, and  (ii) service
+        agreements covering IT, back office, technical and other support functions.
+(5)    By letter of 10 April 2025, Safran proposed Woodward, Inc. (“Woodward” or
+        “Proposed Purchaser”) for approval by the Commission as purchaser of the
+        Divestment Business, and submitted the Share and Asset Purchase Agreement
+         (the “SAPA”) entered into with Woodward on 19 December 2024 (the “Proposed
+
+                                                     2
+
+[PÁGINA PDF 4]
+        Agreement”), whereby Woodward agreed to acquire the Divestment Business.
+      On 9 June 2025, the ING Bank N.V., London branch (“ING”) (the “Trustee”)
+        submitted an assessment of Woodward’s suitability as a purchaser and, in
+          particular, has indicated that it fulfils the criteria of the purchaser requirements in
+        Section D of the Commitments attached to the Decision. In this assessment, the
+        Trustee also indicated  that, on the basis of the Proposed Agreement, the
+        Divestment  Business  would  be  sold  in  a  manner  consistent  with  the
+       Commitments.
+
+2.    ASSESSMENT OF THE PROPOSAL
+(6)     According to paragraphs 20 and 21 of the Commitments, the Commission must
+         verify that the Divestment Business is being sold in a manner consistent with the
+       Commitments and that the purchaser fulfils the purchaser criteria. In particular,
+         in its assessment of the Proposed Purchaser, the Commission must verify that:
+          (a)    Woodward is independent and unconnected to Safran, considering the
+                  situation following the divestiture;
+         (b)    Woodward has the financial resources to maintain and develop the
+               Divestment Business as a  viable and  active competitive  force  in
+                competition with Safran and other competitors. In  particular,  that
+             Woodward  is not excessively leveraged, has  sufficient equity and
+                    profitability, has a turnover significantly larger than the turnover of the
+               Divestment Business, and has sufficient means to finance the acquisition
+                 of the Divestment Business and to execute its business plan, including
+                 the capability to invest in the Divestment Business;
+          (c)    Woodward has proven expertise in aerospace actuation and the ability
+               and incentive to maintain and develop the Divestment Business as
+                a viable and active competitive force in competition with Safran and
+                 other competitors;
+         (d)      the acquisition of the Divestment Business by Woodward must neither
+               be likely to create prima facie competition concerns nor give rise to a risk
+                   that the implementation of the Commitments will be delayed.
+
+2.1.     Brief description of the Proposed Purchaser
+(7)    Woodward is headquartered in Fort Collins, Colorado, United States, and is an
+        independent designer, manufacturer, and service provider of control solutions for
+         the aerospace and industrial markets. (2)
+(8)     Woodward’s aerospace segment represents 61% of Woodward’s net  sales.
+            It designs, manufactures, and services systems and products for the management
+         of  fuel,  air,  combustion, and  motion  control  in  aerospace and  defence
+         applications. Woodward also provides aftermarket maintenance,  repair and
+         overhaul, as well as other services to commercial airlines, repair facilities, military
+         depots, third party repair shops, and other end users. (3)
+(9)     Through its aerospace segment, Woodward is also active in the supply of flight
+         control actuation systems, with a market share of [5-10]% in the supply of primary
+          flight control actuation systems (“PFCA”), and a market share of [0-5]% in the
+
+(2)     Reasoned Opinion, Section 2.1.
+(3)     Reasoned Opinion, Section 2.2.1.1.
+                                                     3
+
+[PÁGINA PDF 5]
+        supply of SFCA, at global level. Woodward also has limited activity in the supply
+         of THSA. (4)
+
+2.2.    Purchaser criteria
+
+2.2.1.   Independence from the Parties
+(10)    Pursuant to paragraph 20(a) of the Commitments, in order to be approved by the
+       Commission, the purchaser must be independent from and unconnected to Safran
+       and its affiliated undertakings. In addition, the purchaser should not be the seller
+         in the main concentration (i.e. RTX Corporation) nor an undertaking ultimately
+         controlled by RTX Corporation.
+(11)    According to the information provided by Safran and the Trustee, there are no
+         cross-directorships, cross-shareholdings or joint ventures between Safran and its
+          affiliated undertakings and Woodward. (5)
+(12)   Woodward and Safran have certain common shareholders, most significantly
+        Blackrock, which holds 9.96% of Woodward and 4.9% of Safran shares.
+       However, according to the Trustee, none of such common shareholders has any
+         representation on either of Safran’s or Woodward’s board of directors. (6)
+(13)    With respect to commercial links, there are only limited trading activities between
+      Woodward and Safran and its affiliates. In 2024 Woodward made sales to Safran
+         for a total amount of […], which equates to […] of Woodward’s sales and […] of
+         Safran’s total purchases that same year. Woodward does not make any purchases
+       from Safran. (7)
+(14)    The Trustee considers that there is no evidence of material dependency between
+        each of Woodward and Safran, whether in terms of structural links or commercial
+        agreements. (8) The Trustee further submits that Woodward is an independent
+       company (9) and is therefore not controlled by RTX Corporation.
+(15)    Based on the information provided by Safran and taking into account the
+       Reasoned Opinion submitted by the Trustee, the Commission understands that
+         there are no structural links between Safran or its affiliated undertakings and
+       Woodward, in the form of cross-directorships, cross-shareholdings or  joint
+         ventures. As regards the common shareholders of Safran and Woodward, the
+       Commission understands that their positions are limited in both Safran and
+       Woodward, and that they do not exercise any material influence in the commercial
+         strategy of either Safran or Woodward. The Commission further understands that
+         the commercial links between Safran and Woodward are limited and do not give
+          rise  to any  material dependence  of Woodward from  Safran.  Finally,  the
+       Commission understands that Woodward is not controlled by the seller in the
+       main  concentration,  namely RTX  Corporation. (10)  Based  on  the  above
+
+
+
+(4)     Reasoned Opinion, Section 2.2.1.2.1.
+(5)     Reasoned Opinion, Section 4.1.
+(6)       Ibid.
+(7)       Ibid.
+(8)     Reasoned Opinion, Section 4.2.
+(9)     Reasoned Opinion, Section 2.1.
+(10)    Whereby the notion of control shall be interpreted pursuant to Article 3 of the Merger Regulation
+       and in light of the Commission Consolidated Jurisdictional Notice under Council Regulation (EC)
+      No  139/2004 on  the  control  of  concentrations between  undertakings  (the  "Consolidated
+         Jurisdictional Notice").
+                                                     4
+
+[PÁGINA PDF 6]
+         considerations, the Commission concludes that the Purchaser is independent from
+       and unconnected to Safran and its affiliated undertakings.
+
+2.2.2.   Financial resources, proven expertise and incentive to maintain and develop the
+        Divestment Business as a viable and active competitor
+(16)    Pursuant to paragraph 20(b) and (c) of the Commitments, the Purchaser shall have
+         the financial resources, proven expertise and the ability and incentive to maintain
+       and develop the Divestment Business which it acquires as a viable and active
+        competitive force in competition with the Parties and other competitors.
+
+2.2.2.1. Financial resources
+(17)     In relation to financial resources, paragraph 20(b) of the Commitments sets forth
+         that the Purchaser shall not be excessively leveraged, shall have sufficient equity
+       and profitability, shall have a turnover significantly larger than the turnover of the
+        Divestment Business, and shall have sufficient means to finance the acquisition
+         of the Divestment Business and the execution of its business plan, including
+        investments.
+(18)    According to the Trustee’s Reasoned Opinion, Woodward intends to pay the
+        purchase price with […]. It should be noted that, in addition to cash holdings of
+     USD 283 million, Woodward had undrawn credit facilities of USD 754 million
+       on 31 December 2024. This significantly exceeds the agreed purchase price of
+       […]. (11)
+(19)    The Trustee  further submits  that Woodward  is not excessively leveraged.
+       Woodward’s shareholder equity on 31 December 2024 was USD 2.2 billion,
+       which  is  significantly  higher  than  its  total  debt  of USD  902  million
+           (i.e. debt/equity ratio of 0.4x). Further, Woodward’s debt to EBITDA (12) ratio of
+        1.2x is lower than the average of its peers reviewed by the Trustee, underlining
+           its low leverage. (13)
+(20)    Furthermore, it appears that Woodward is a profitable undertaking. It achieved
+         net profits of USD 373 million in 2024 and has been profitable throughout the last
+         five years. (14)
+(21)   As regards its turnover, Woodward’s net sales in 2024 were USD 3.3 billion (of
+       which USD 2  billion  related  to  the  aerospace  segment).  Accordingly,
+       Woodward’s turnover is significantly larger than that of the Divestment Business,
+         that had estimated revenues of […] in sales in 2024. (15)
+(22)     Lastly, the Trustee considers that, as outlined in paragraph (18) above, Woodward
+        has sufficient means to finance the acquisition of the Divestment Business and the
+        execution of its business plan, including investments. The Trustee further notes
+         that Woodward is listed on the NASDAQ Stock Exchange and may be able to
+         raise additional financing through share or bond issuances, should the need
+          arise. (16)
+
+
+(11)     Reasoned Opinion, Section 2.10.
+(12)    EBITDA corresponds  to a company’s Earnings Before  Interest, Taxes,  Depreciation, and
+        Amortization.
+(13)      Ibid.
+(14)      Ibid.
+(15)     Reasoned Proposal, paragraph 14 (by time of submission, the accounting data for the Divestment
+        Business’ revenues of 2024 was still an estimate).
+(16)      Ibid.
+                                                     5
+
+[PÁGINA PDF 7]
+2.2.2.2. Proven expertise in aerospace actuation
+(23)    According to the Trustee’s Reasoned Opinion, Woodward has a proven track
+        record of developing, manufacturing and selling aerospace components and
+        systems, both directly to airframers and to airframer suppliers.
+(24)   As regards aerospace actuation in particular, Woodward supplies a variety of
+        products   including  PFCA  and  SFCA   systems,   incorporating   both
+        electromechanical and hydraulic technologies. Woodward is, respectively, the
+      […] and […] largest participant in terms of market share in PFCA and SFCA
+         globally. (17)
+(25)   Woodward has existing relationships with many of the key customers of the
+        Divestment Business including […]. (18)
+
+2.2.2.3. Incentive to maintain and develop the Divestment Business
+(26)    The Trustee notes that the acquisition of the Divestment Business coincides with
+       Woodward’s strategic interests.
+(27)     In particular, the Trustee notes that the acquisition of the Divestment Business
+         will expand Woodward’s existing product offering. According to the Trustee, to
+        be selected as the supplier for the next generation single aisle (“NGSA”) aircraft
+         of major OEMs such as Airbus or Boeing, Woodward will have to integrate
+         successfully the Divestment Business in the Woodward universe of companies
+        and, in particular, to transfer successfully the operational assets of the Divestment
+        Business from Mexicali  (their current manufacturing  site)  to Woodward’s
+         existing industrial premises. The Trustee also notes that success for Woodward in
+        being selected as a supplier for NGSA programmes will also depend on its ability
+         to deepen relationships with these OEMs. (19)
+(28)    Moreover, the Trustee indicates that financial forecasts for the Divestment
+        Business presented by Woodward outline a business that is viable and is likely to
+        remain an active competitive force. (20)
+(29)    The management of the Divestment Business, […], expressed to the Trustee that
+        they have a positive impression of Woodward as the potential purchaser […]
+         to maintain and develop the business. (21)
+
+2.2.2.4. Conclusions
+(30)    Based on the information provided by Safran and considering the Trustee’s
+       Reasoned Opinion, the Commission understands that Woodward is a profitable
+        undertaking that has a low debt leverage compared to other companies in the
+        aerospace industry, and that has sufficient means to finance the acquisition of the
+        Divestment Business and the execution of its business plan. The Commission
+         further understands that Woodward has proven expertise in aerospace actuation,
+       and has long-standing commercial relationships with the main customers of the
+        Divestment Business. Lastly, the Commission understands that the acquisition of
+         the Divestment Business aligns with Woodward’s overall strategic interests, and
+         that Woodward has strategic incentives to maintain and further develop the
+
+
+(17)      Ibid.
+(18)      Ibid.
+(19)     Reasoned Opinion, Section 3.1.2.
+(20)     Reasoned Opinion, Section 3.6.2.
+(21)     Reasoned Opinion, Section 3.6.1.
+                                                     6
+
+[PÁGINA PDF 8]
+        Divestment Business as a core supplier of THSA systems. On this basis, the
+       Commission considers the conditions set out in paragraph 20(b) and (c) of the
+       Commitments to be met.
+
+2.2.3.   Absence of prima facie competition problems
+(31)    Pursuant to paragraph 20(d) of the Commitments, the transfer of the Divestment
+        Business to a suitable purchaser must neither be likely to create prima facie
+        competition concerns nor give rise to a risk that the implementation of the
+       Commitments will be delayed. In  particular, the Proposed Purchaser must
+        reasonably be expected to obtain  all necessary approvals from the relevant
+         regulatory authorities for the acquisition of the Divestment Business.
+(32)   Woodward informed the Trustee that the only merger control clearance required
+         for the acquisition of the Divestment Business by Woodward is from Brazil's
+        competition  regulator  (CADE). (22) CADE  unconditionally  cleared  the
+         transaction on 31 January 2025. (23) The Trustee  further submits  that the
+         transaction is not expected to trigger any pre-Closing foreign direct investment
+          filings in any jurisdictions. […]. (24) The Trustee has not highlighted any risks
+         that the implementation of the Commitments could be delayed due to implications
+         related to regulatory approvals, including in relation to […]. (25)
+(33)    The Trustee notes that Woodward and the Divestment Business are both present
+         in the supply of THSA, SFCA and ECU.
+(34)   As regards the supply of THSA, the Trustee submits that Woodward’s activities
+         are marginal, with original equipment sales of less than […] in 2023 and a market
+        share below [0-5]%. Those sales relate to legacy aircraft, with the last tender won
+       […]. According  to  information submitted by  Safran,  the combination  of
+      Woodward and the Divestment Business will result in a limited increment in their
+       combined market share, namely from [10-20]% to [10-20]%, in both the overall
+        market for the supply of THSA systems, as well as the potential market for the
+        supply of E-THSA systems. (26) As regards the potential narrower segments for
+         the supply of THSA systems, as considered by the Commission in its Decision,
+         the Trustee submits that in any case Woodward has a market share of below
+        [0-5]%. (27)
+(35)   As regards the horizontal overlap in the manufacture and supply of ECUs, (28) the
+        Trustee submits that the combined market share of Woodward and the Divestment
+        Business will be below [5-10]%. (29) While the Commission has in the past not
+        assessed the market for the manufacture and supply of ECUs for use in the
+        aerospace industry in  detail,  it considers, in  line with the opinion of the
+         Trustee, (30) that the overall limited presence of Woodward and the Divestment
+
+
+(22)     Reasoned Opinion, Section 5.2.
+(23)      Ibid.
+(24)      Ibid.
+(25)     Reasoned Opinion, Section 5.4.
+(26)     Reasoned Opinion, Section 5.3.
+(27)      Ibid.
+(28)     According to Safran, ECUs are generic computer products that can be designed and produced by
+         various suppliers and are not highly differentiated, and a number of players including, for example,
+       TransDigm, Honeywell, Parker, Moog, BAE Systems and Rolls Royce are capable of designing and
+        manufacturing ECUs. See Form RM, paragraph 217.
+(29)     Reasoned Opinion, Section 5.3.
+(30)      Ibid.
+                                                     7
+
+[PÁGINA PDF 9]
+        Business in this market, as well as the high number of existing alternative
+         suppliers (31) would not give rise to any prima facie competition concerns.
+(36)     In relation to the manufacture and supply of SFCA, according to the Trustee’s
+       Reasoned Opinion, the combined market share of Woodward and the Divestment
+        Business in the overall market is below [5-10]%. (32) According to the data
+        provided by Safran, Woodward and the Divestment Business only overlap in the
+        supply of SFCA for business jets, with a combined market share of [10-20]%
+         in 2019. (33) The Commission therefore considers, in line with the Trustee’s
+       Reasoned Opinion, (34) that the acquisition of the Divestment Business by
+      Woodward would not give rise to any prima facie competition concerns in relation
+         to the manufacture and supply of SFCA.
+(37)    The Trustee further notes that the divestment transaction will give rise to vertical
+        supply  relations between Woodward’s manufacture and supply of various
+       components in the upstream market (including electronics, motors and sensors)
+         that could be used as input in E-THSA systems manufactured downstream by the
+        Divestment Business. However, the demand of the Divestment Business for such
+       components represents less than [0-5]% of total global demand. Moreover,
+      Woodward has a market share in the upstream market of less than [10-20]%
+         globally, and a number of alternative large suppliers exists. Therefore, there is no
+       prima facie risk of foreclosure in this respect. (35)
+(38)    Moreover, the divestment transaction gives rise to a vertical relationship as
+        regards the manufacture and supply of certain ECUs by the Divestment Business
+         in the upstream market, that could be used as an input by Woodward in the
+        manufacture of various systems in the downstream market, including THSA
+        systems, SFCA  systems and  landing  gear  systems. However,  given  the
+        Divestment Business’ limited market share as a supplier of ECU (below
+        [5-10]%) (36), as well as Woodward’s limited purchasing share for ECUs, there is
+       no prima facie risk of foreclosure in this respect. (37)
+(39)    This prima facie assessment is based on the information available for the purpose
+         of this buyer approval and does not prejudge the competition assessment of the
+         acquisition of the Divestment Business by Woodward by a competent competition
+         authority under applicable merger control rules.
+
+2.3.    Assessment of the Transaction Documents
+(40)   As indicated in paragraph (5) above, the Transaction Documents consist of the
+      SAPA, covering the sale of shares and the transfer of the Divestment Business.
+       The SAPA further includes […] exhibits covering, among others, the key draft
+        terms of the license agreement for the use of Safran’s brands and IP, as well as
+         the key draft terms of the proposed TSAs, which regulate the transitional services
+
+
+
+(31)     See footnote (27) above.
+(32)      Ibid.
+(33)    Form CO, Annex Ch. II. S.4.2.4.(ii). Woodward does not appear in the market share tables in the
+         years after 2019, indicating limited activities in the supply of SFCA systems. In 2023 the
+        Divestment Business had a market share of [0-5]% in the supply of SFCA for business jets and a
+        [0-5]% market share in the other potential segments.
+(34)     Reasoned Opinion, Section 5.3.
+(35)      Ibid.
+(36)     See paragraph (35) above.
+(37)      Ibid.
+                                                     8
+
+[PÁGINA PDF 10]
+         to  be  provided  to  the  Divestment  Business by  Safran,  as  indicated  in
+        paragraph (4).
+(41)    The Trustee reviewed the Transaction Documents and confirmed that they fulfil
+         the condition of the Commitments to transfer the Divestment Business to
+        a suitable purchaser. (38) The Commission agrees with that assessment.
+(42)    The Trustee considered that the terms of the Transaction Documents reflect
+         Safran’s obligations set out in the Commitments.
+(43)     In particular, the Trustee noted that the assets listed as included and excluded in
+         the scope of the business to be sold under the SAPA are materially in line with
+         the provisions set out in paragraph 5 of the Schedule to the Commitments. (39)
+(44)    The Trustee further noted that the key draft terms of the TSAs are consistent with
+         the content and purposes of the Commitments, and in particular with paragraph 10
+         of the Schedule to the Commitments. (40)
+(45)     In particular, the Trustee noted that Woodward and Safran have provisionally
+        agreed on transitional arrangements covering services related to engineering, HR,
+         IT, operations, quality, sales and sourcing. The provisional timeline for such
+         transitional arrangements ranges from […] and is therefore in line with the initial
+         duration of […] provided in paragraph 10 of the Schedule to the Commitments.
+       The cost for such transitional services will be equal to […], whereby the Trustee
+        noted that […] represents administrative costs associated with Safran supplying
+        such services to the Divestment Business. (41)
+(46)    Furthermore, the Trustee noted that Woodward has made use of the option
+        provided  at paragraph 10(b) of the Schedule to the Commitments, for the
+        provision of a supply agreement based on which Safran will continue operating
+         the Divestment Business’ actuation activities at Mexicali for a transitional period
+         of […], extendable for an additional period of […]. Woodward and Safran have
+         provisionally agreed on the key terms of an Operational Supply Agreement
+       (“OSA”), under which Safran will continue to assemble THSAs on behalf of
+      Woodward in Mexicali for a period of […] after Closing, to maintain the
+         continuity of the Divestment Business’ activities during the transition of such
+          activities to Woodward’s own facilities. (42) […], the Trustee noted that such
+        arrangements are overall in line with paragraph 10 of the Schedule to the
+       Commitments. (43)
+(47)   As regards the provision of a brand and IP licensing agreement provided in
+        paragraph 8 of the Commitments, the Trustee noted that Woodward decided not
+         to make use of this option. (44) Instead, […]. (45)
+(48)   On the basis of the above, the Trustee confirmed that the TSAs provisionally
+        agreed between  Safran and Woodward, comprising  (i) transitional  service
+        agreements covering IT, back office, technical and other support functions, and
+
+
+
+(38)     Reasoned Opinion, Section 6.5.
+(39)      Ibid.
+(40)     Reasoned Opinion, Section 6.3.6; Section 6.5.
+(41)      Ibid.
+(42)     Reasoned Opinion, Section 6.3.6.
+(43)     Reasoned Opinion, Section 6.3.6; Section 6.5.
+(44)     Reasoned Opinion, Section 6.3.6.
+(45)      Ibid.
+                                                     9
+
+[PÁGINA PDF 11]
+            (ii) the supply agreement in relation to THSAs assembled at Safran’s Mexicali
+          facilities are in line with the requirements of the Commitments.
+(49)      It is noted that the terms of the SAPA provide for the possibility of extending the
+         closing date of the Proposed Agreement up to […], which is not in line with the
+        requirement set out in paragraph 5(b) of the Commitments in combination with
+         the definition of “Closing Period” in Section A, paragraph 1 of the Commitments,
+        providing for a closing period of up to […] months as of the approval of the
+         transaction documents by the Commission. The Commission understands that this
+        discrepancy  is  due  to  the  fact  that  the SAPA  was  entered  into  on
+       19 December 2024, and therefore before the submission of the Commitments by
+        Safran on 27 March 2025. The Commission  further understands from  the
+         Trustee’s submission that Safran and Woodward intend to close the Proposed
+       Agreement in line with the timeline provided for in the Commitments. (46) For the
+        avoidance of doubt, the present decision does not constitute an approval by the
+       Commission of any modification to the Commitments, in particular with regard
+         to the duration of the Closing Period as defined in Section A, paragraph 1 of the
+       Commitments, or the conditions set out in paragraph 5 of the Commitments.
+(50)    The Commission further notes that pursuant to the terms of the SAPA, in addition
+         to the issuance of the present decision, closing of the Proposed Agreement is
+         subject to the following conditions:
+          (a)      the receipt of regulatory approvals from the US DoJ, the UK CMA and
+          CADE in Brazil regarding Safran’s acquisition of Collin’s actuation
+                    activities;
+         (b)      the receipt of consents from certain customers (i.e. […]) and one supplier
+                       (i.e. […]) in relation to the transfer of their contracts to Woodward; and
+          (c)     […].
+(51)    With regard to the pending regulatory approvals under point (a) above, the Trustee
+        noted that their receipt is currently expected by […] 2025. (47)
+(52)   As regards the customer and supplier consents in relation to the transfer of their
+         contracts, the Trustee submits that all such approvals have been submitted, except
+         for the approvals by […], which Safran expects to receive by […] 2025. (48) The
+        Trustee does not raise any concerns in relation to the timely reception of the
+        approvals by […]. (49)
+(53)    […]. (50)
+(54)    The Commission therefore considers that closing of the Proposed Agreement can
+        be expected with sufficient certainty after the receipt of the outstanding customer
+        consents mentioned in paragraph (52), the issuance of this decision and receipt of
+         the regulatory approvals mentioned in paragraph (50)(a).
+(55)     In  light of  the above  considerations,  the Commission concludes  that  the
+        Transaction Documents  are  consistent  with  the Commitments  and  that,
+         accordingly, the Divestment Business are being transferred in a manner consistent
+        with the Commitments.
+
+
+(46)     Reasoned Opinion, Section 6.4.2.
+(47)      Ibid.
+(48)     Reasoned Opinion, Section 6.3.5.
+(49)      Ibid.
+(50)      Ibid.
+                                                    10
+
+[PÁGINA PDF 12]
+3.    CONCLUSION
+(52)   On the basis of the above assessment, the Commission approves Woodward as
+        a suitable purchaser for the above-mentioned reasons.
+(53)   On the basis of the Proposed Agreement, the Commission further concludes that
+         the Divestment Business  is being  sold  in a manner  consistent with  the
+       Commitments.
+(54)    This decision only constitutes approval of the proposed purchaser identified
+         herein and of the Proposed Agreement. This decision does not constitute
+        a confirmation that Safran has complied with its Commitments.
+(55)    This decision is based on paragraph 21 of the Commitments attached to the
+       Commission Decision of 4 April 2025.
+
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                     Olivier GUERSENT
+                                                Director-General
+                                                 Directorate-General for
+                                               Competition
+
+
+
+
+
+                                                    11

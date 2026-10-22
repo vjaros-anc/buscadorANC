@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "10b6e916a9c1491a13eb13da3bbf687c7c359e259a9356114ed8ebffd465eb59",
+  "extraido_utc": "2026-10-22T19:24:15+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20230217182137+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10149_CP_APERTURA_01",
+      "caso": "M.10149",
+      "universo": "principal",
+      "titulo": "Comunicado de apertura de fase II — KOREAN AIR LINES / ASIANA AIRLINES",
+      "tipo_documental": "CP_APERTURA",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_925/IP_23_925_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_23_925",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10149/M.10149_CP_APERTURA_01_10b6e916a9c1.pdf",
+      "sha256": "10b6e916a9c1491a13eb13da3bbf687c7c359e259a9356114ed8ebffd465eb59",
+      "coincide_inventario": "",
+      "bytes": "38645",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_925/IP_23_925_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:02+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission opens in-depth investigation into proposed\nacquisition of Asiana by Korean Air\n\nBrussels, 17 February 2023\n\nThe European Commission has opened an in-depth investigation to assess, under the EU Merger\nRegulation, the proposed acquisition of Asiana by Korean Air. The Commission is concerned that the\ntransaction may reduce competition in the markets for passenger and cargo air transport services\nbetween the European Economic Area (‘EEA') and South Korea.\n\nKorean Air and Asiana are respectively the first and second largest airlines in South Korea. They\noperate a network of domestic routes, short-haul routes in Asia as well as long-haul routes between\nSouth Korea and the rest of the world.\n\nThe Commission's preliminary concerns\n\nThe preliminary investigation indicates that the companies are strong and close competitors in\nthe provision of passenger and cargo air transport services between the EEA and South Korea. In\nparticular, the Commission found that:\n\n    The transaction could reduce competition in the provision of passenger transport services\n    on four routes between South Korea and the EEA. In those routes, Korean Air and Asiana\n    compete head-to-head, and in two of those routes, they are the only two companies offering\n     direct services. Other airlines may be unlikely to exert sufficient competitive pressure on the\n    merged entity.\n\n    The transaction could eliminate potential competition in passenger transport services\n    between the EEA and South Korea.\n\n    The transaction could reduce competition in the provision of cargo transport services\n    between Europe and South Korea. Korean Air and Asiana compete head-to-head in carrying\n    cargo between the EEA and South Korea. Other competitors face regulatory and other barriers\n     to expand their services and may be unlikely to exert sufficient competitive pressure on the\n    merged entity.\n\n    Despite the severe impact of the coronavirus pandemic in the passenger air transport\n     sector, it is unlikely that Asiana and Korean Air would stop competing or be significantly less\n    competitive absent the transaction.\n\nThe Commission will therefore now carry out an in-depth investigation into the effects of the\ntransaction to determine whether its initial competition concerns are confirmed.\n\nThe transaction was notified to the Commission on 13 January 2023. Korean Air and Asiana decided\nnot to submit commitments. The Commission has 90 working days, until 5 July 2023, to take a\ndecision. The opening of an in-depth investigation does not prejudge the outcome of the\ninvestigation.\n\nCompanies and products\n\nKorean Air, headquartered in South Korea, is a full-service carrier with domestic and international\noperations in passenger and cargo air transport. It operates a hub-and-spoke network with its\nprincipal hub at Incheon airport in Seoul. Korean Air is a member of the SkyTeam alliance.\n\nAsiana, headquartered in South Korea, is a full-service carrier with domestic and international\noperations in passenger and cargo air transport. Asiana is a member of the Star Alliance.\n\nMerger control and procedure\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.",
+      "caracteres": 3484,
+      "caracteres_utiles": 2809,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "The vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nIn addition to the current transaction, there are currently eight on-going Phase II merger\ninvestigations: (i) the proposed acquisition of OMV Slovenija by MOL; (ii) the proposed acquisition of\nVOO and Brutélé by Orange; (iii) the proposed acquisition of Alumetal by Hydro; (iv) the proposed\nacquisition of Activision Blizzard by Microsoft; (v) the proposed acquisition of eTraveli by Booking;\n(vi) the proposed acquisition of Lagardère by Vivendi,(vii) the proposed acquisition of VMware by\nBroadcom, and (viii) the proposed acquisition of Inmarsat by Viasat.\n\nMore information will be available on the Commission's competition website, in the Commission's\npublic case register under the case number M.10149.\n\n                                                                                                                IP/23/925\n\nQuotes:\n\n\n “Korean Air and Asiana are close competitors and the two leading airlines that transport passengers and cargo between Europe\n and South Korea. With our in-depth investigation, we will ensure that the acquisition of Asiana by Korean Air does not impede\n competition and will not lead to higher prices, less capacity or lower quality for passengers and cargo air transport services.”\n Margrethe Vestager, Executive Vice-President in charge of competition policy - 17/02/2023\n\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1794,
+      "caracteres_utiles": 1332,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

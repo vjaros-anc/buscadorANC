@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "fa138796a93e031f92dcd63ff0b3f1d3140e8a61f3067b2ea44f5dec0f1da0cd",
+  "extraido_utc": "2026-10-22T19:36:45+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20230712115036+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10806_CP_01",
+      "caso": "M.10806",
+      "universo": "principal",
+      "titulo": "Mergers: Commission clears acquisition of VMware by Broadcom, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_3777/IP_23_3777_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_23_3777",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10806/M.10806_CP_01_fa138796a93e.pdf",
+      "sha256": "fa138796a93e031f92dcd63ff0b3f1d3140e8a61f3067b2ea44f5dec0f1da0cd",
+      "coincide_inventario": "",
+      "bytes": "41855",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_3777/IP_23_3777_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission clears acquisition of VMware by Broadcom, subject\nto conditions\n\nBrussels, 12 July 2023\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof VMware by Broadcom. The approval is conditional upon full compliance with the commitments\noffered by Broadcom.\n\nToday's decision follows an in-depth investigation of the proposed acquisition. Broadcom is a\nhardware company that offers, among other products, Fibre Channel Host-Bus Adapters (‘FC HBAs'),\nstorage adapters and Network Interface Cards (‘NICs'), which are hardware components that connect\nservers to storage or network. Broadcom has recently started expanding into software markets,\nmainly for security and mainframe applications. VMware is a software supplier offering mainly\nvirtualization software that interoperates with a wide range of hardware, including FC HBAs, storage\nadapters and NICs.\n\nThe Commission's investigation\n\nThe Commission's preliminary market investigation found that, by acquiring VMware, Broadcom\ncould have restricted competition in the markets for the supply of NICs, FC HBAs and storage\nadapters.\n\nThe Commission's in-depth investigation confirmed that the transaction, as initially notified, would\nharm competition in the worldwide market for the supply of FC HBAs. At the same time, it\nruled out possible competition concerns related to: (i) the market for the supply of NICs and storage\nadapters, (ii) the market for the development of SmartNICs; and (iii) the bundling of Broadcom's\nvirtualisation software with VMware's.\n\nIn particular, the Commission found that:\n\n    Broadcom would have the ability and incentive to foreclose Marvell, the only rival on the\n    market for the supply of FC HBAs, by restricting or degrading the interoperability between\n    VMware's server virtualisation software and Marvell's hardware. This would hamper Marvell's\n     ability to compete in a market where Broadcom is dominant, or at least holds a very strong\n     position, ultimately leading to higher prices, lower quality and less innovation for business\n    customers.\n\n    Broadcom does not hold a strong position in the market for storage adapters and NICs and\n      will continue to face competition from several rival suppliers.\n\n    Broadcom would have no economic incentive to hinder the development of SmartNICs by\n    other providers by decreasing VMware's involvement in Project Monterey, an ongoing\n    cooperation with three other SmartNICs sellers (NVIDIA, Intel and AMD Pensando), as such\n     foreclosure would not be profitable.\n\n    Broadcom would not be able to bundle VMware's virtualisation software with its own\n    software (namely mainframe and security software) as such products are purchased by\n     different divisions in a customer organization and/or at different points in time.\n\nThe remedies\n\nTo address the Commission's competition concerns in the worldwide market for the supply of FC\nHBAs, Broadcom offered the following comprehensive access and interoperability commitments\nto Marvell and to any potential future entrant:\n\n    Guaranteed access to the interoperability Application Programming Interfaces as well as\n     to the materials, tools and technical support necessary for the development and\n     certification of third-party FC HBAs. It also committed to ensuring (i) their interoperability with\n    VMware's server virtualisation software; and (ii), third parties' access to this information at the\n   same time as Broadcom.\n\n    Guaranteed access to the source code for all of Broadcom's current and future FC HBA",
+      "caracteres": 3659,
+      "caracteres_utiles": 2923,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "     drivers through an irrevocable open source license. This would allow Marvell and any potential\n    entrant to ensure interoperability with VMware's server virtualisation software and allow them\n     to reuse and modify Broadcom's drivers for its own use.\n\nFurthermore, Broadcom committed to implementing an organisational separation between the\nteam working on Broadcom's FC HBAs and the team in charge of third-party certification and\ntechnical support. It also committed to ensuring protection of confidential information of Marvell and\nany potential entrant obtained in the context of the interoperability and certification processes.\n\nThe Commission carefully investigated the effectiveness of the remedies, collecting views from\nMarvell as well as server manufacturers, which are the main direct customers of FC HBAs. In view of\nthe positive feedback from market participants, the Commission concluded that the proposed\nacquisition, as modified by the commitments, would no longer raise competition concerns\nand would maintain competition on the market for FC HBAs.\n\nThe Commission's decision is conditional upon full compliance with the commitments, which will be\nin place for ten years. Under supervision of the Commission, an independent trustee will be in charge\nof monitoring compliance with the commitments. Moreover, a fast-track dispute resolution\nmechanism in case of disagreement between the parties will further ensure the commitments'\neffective implementation.\n\nCompanies and products\n\nBroadcom is a US based hardware company active in the production of NICs, FC HBAs and storage\nadapters, amongst other products. NICs are server components that provide an interface between\nthe server and other computers and equipment on a network. FC HBAs are storage adapters that\nconnect servers to storage located outside the server on a storage-area network using the fibre\nchannel protocol, typically through a switch. Storage adapters connect servers' central processing\nunits to storage directly. Broadcom recently started expanding into software markets, notably\nthrough the acquisition of CA Technology and Symantec.\n\nVMware is a US based software company that mainly offers virtualisation software, which enables IT\noperators to create virtual versions of computer resources (e.g. hardware, operating systems, storage\ndevices, or network resources) known as virtual machines. This enables IT organizations to run more\nthan one virtual system – and multiple OS and applications – on a single server at the same time.\n\nMerger control rules and procedure\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nThere are currently four on-going Phase II merger investigations: (i) the proposed acquisition of\neTraveli by Booking, (ii) the proposed acquisition of Asiana Airlines by Korean Air, (iii) the proposed\ncreation of a joint venture by Orange and MasMovil; and (iv) the proposed acquisition of iRobot by\nAmazon.\n\nMore information will be available on the Commission's competition website, in the Commission's\npublic case register under the case number M.10806.\n\n                                                                                                              IP/23/3777\n\nQuotes:\n\n\n Broadcom holds a very strong position in the market for the supply of certain hardware components. VMware is a key server\n virtualisation software provider. By acquiring VMware, Broadcom could restrict or degrade interoperability between VMware’s\n leading server virtualization software and some competing hardware components. But the commitments offered by Broadcom will\n enable its only rival Marvell, to continue competing on equal footing and ensure a similar protection for any future entrants.\n Margrethe Vestager, Executive Vice-President in charge of competition policy - 12/07/2023\n\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n      Sara SIMONINI (+32 2 298 33 67)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 4526,
+      "caracteres_utiles": 3612,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

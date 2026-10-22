@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "c4e87688d9e1044b44cf7c556a249f26d6e81632c3a3134aa46447c9ddd51ea7",
+  "extraido_utc": "2026-10-22T19:24:15+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20240213114733+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10149_CP_01",
+      "caso": "M.10149",
+      "universo": "principal",
+      "titulo": "Commission approves the acquisition of Asiana by Korean Air, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_761/IP_24_761_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_761",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10149/M.10149_CP_01_c4e87688d9e1.pdf",
+      "sha256": "c4e87688d9e1044b44cf7c556a249f26d6e81632c3a3134aa46447c9ddd51ea7",
+      "coincide_inventario": "",
+      "bytes": "46403",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_761/IP_24_761_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:02+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission approves the acquisition of Asiana by Korean Air, subject to\nconditions\n\nBrussels, 13 February 2024\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof Asiana Airlines Inc. ('Asiana') by Korean Air Lines Co., Ltd ('Korean Air'). The approval is\nconditional upon full compliance with the remedies offered by Korean Air.\n\nToday's decision follows an in-depth investigation of the proposed acquisition. Korean Air is South\nKorea's largest airline offering international air passenger and cargo services. Asiana, the second\nlargest airline in South Korea, provides similar services. Both airlines have a significant presence in\nthe European Economic Area (‘EEA').\n\nThe Commission's investigation\n\nDuring its in-depth investigation, the Commission gathered extensive information and received\nfeedback from market participants and other stakeholders.\n\nFollowing its market investigation, the Commission had concerns that the transaction, as initially\nnotified, would harm competition in the markets for:\n\n    Air cargo transport services between Europe and South Korea, and\n\n    Passenger air transport services on routes between Seoul and certain European\n     destinations, specifically Barcelona, Paris, Frankfurt, and Rome.\n\nThe Commission found that Korean Air and Asiana compete head-to-head in carrying cargo and\npassengers between the EEA and South Korea. Together, they would have been by far the largest\ncarrier on these routes removing an important alternative for customers. Other competitors face\nregulatory and other barriers to expand their services and would have been unlikely to exert\nsufficient competitive pressure on the merged company. This would likely have led to increased\nprices or decreased quality for passengers and cargo customers.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, Korean Air offered the following remedies:\n\n    Cargo commitments: Korean Air will divest Asiana's global cargo freighter business. The\n    divestment includes freighter aircraft, slots, traffic rights, flight crew, and other employees, as\n     well as customer cargo contracts, among others. Korean Air can only implement the acquisition\n     of Asiana following the Commission's approval of a suitable buyer for the cargo divestment.\n   Among other requirements, the buyer must be able and have the incentives to operate the\n    divested business in a viable manner and to compete effectively with the merged company.\n\n    Passenger commitments: Korean Air will make available to rival airline T'Way the necessary\n    assets to enable it to start flight operations on the four overlap routes. The assets include slots\n    and traffic rights as well as access to the required aircraft. T'Way is a South Korean airline with\n    a hub in Seoul from where it operates a network of routes in East Asia and beyond. Korean Air\n    has committed not to complete the merger until T'Way has started operating on the four\n     overlap routes.\n\nThese commitments fully address the competition concerns identified by the Commission. After\ncollecting the feedback of customers and competitors during a market test of the proposed\ncommitments, the Commission concluded that the commitments preserve effective competition in\ncargo and passenger transport between South Korea and the EEA.\n\nThe Commission therefore concluded that the transaction, as modified by the commitments, would\nno longer raise competition concerns. The decision is conditional upon full compliance with these\ncommitments.\n\nUnder supervision of the Commission, an independent trustee will monitor their implementation.",
+      "caracteres": 3722,
+      "caracteres_utiles": 3009,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Companies and products\n\nKorean Air, headquartered in South Korea, is a full-service carrier with domestic and international\noperations in passenger and cargo air transport. It operates a hub-and-spoke network with its\nprincipal hub at Incheon airport in Seoul. Korean Air is a member of the SkyTeam alliance.\n\nAsiana, headquartered in South Korea, is a full-service carrier with domestic and international\noperations in passenger and cargo air transport. It has its principal hub at Incheon airport in Seoul.\nAsiana is a member of the Star Alliance.\n\nMerger control rules and procedure\n\nThe transaction was notified to the European Commission on 13 January 2023 and the Commission\nopened an in-depth investigation on 17 February 2023. On 17 May 2023, the Commission issued a\nStatement of Objections to Korean Air setting out its preliminary competition concerns.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the European Economic Area\nor any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nThere are currently three ongoing Phase II merger investigations: (i) the proposed creation of a joint\nventure between Orange and MasMovil; (ii) the proposed acquisition of ITA Airways by Lufthansa;\nand (iii) the proposed acquisition of Air Europa by IAG.\n\nFor more information\n\nMore information will be available on the Commission's competition website, in the\nCommission's public case register under case number M.10149.\n\n                                                                                                                IP/24/761\n\nQuotes:\n\n\n \"The airline industry is crucial for connectivity and has a significant place in the economy of our Member States. This merger\n raised significant competition concerns in both cargo and passenger air transport services. However, Korean Air committed to\n the divestment of Asiana's global cargo freighter business to a suitable purchaser; and to the divestment of assets to facilitate\n the entry of rival airline T’Way on key passenger routes. These remedies effectively address our concerns, and will ensure fair\n competition and consumer choice in this vital sector.\"\n Margrethe Vestager, Executive Vice-President in charge of competition policy - 13/02/2024\n\n\n\n Press contacts:\n\n      Lea ZUBER (+32 2 29 56298)\n      Sara SIMONINI (+32 2 298 33 67)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2862,
+      "caracteres_utiles": 2222,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

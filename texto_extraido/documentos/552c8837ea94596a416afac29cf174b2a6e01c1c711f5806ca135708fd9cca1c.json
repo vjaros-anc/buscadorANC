@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "552c8837ea94596a416afac29cf174b2a6e01c1c711f5806ca135708fd9cca1c",
+  "extraido_utc": "2026-10-22T19:35:00+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20220823171624+02'00'",
+    "modDate": "D:20220823171624+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10721_NOT_PREVIA_01",
+      "caso": "M.10721",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — CELANESE / DUPONT (MOBILITY & MATERIALS BUSINESS)",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202235/M_10721_8469264_765_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202235/M_10721_8469264_765_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10721/M.10721_NOT_PREVIA_01_552c8837ea94.pdf",
+      "sha256": "552c8837ea94596a416afac29cf174b2a6e01c1c711f5806ca135708fd9cca1c",
+      "coincide_inventario": "",
+      "bytes": "113414",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202235/M_10721_8469264_765_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may tak e of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\n\nM.10721 - CELANESE  / DUPONT (MOBILITY & MATERIALS BUSINESS)\n\n\n                          SECTION 1.2\n\n                           Description of the concentration\n\nThis   notification  concerns  a  proposed  concentration  pursuant  to  Article  4  of  Council\nRegulation (EC) No. 139/2004 by which Celanese Corporation, a company registered in the\nUnited  States,  will acquire sole control within the meaning of Article 3(1)(b) of the Merger\nRegulation over  the  majority of the Mobility & Materials Business currently under the sole\ncontrol of DuPont de Nemours, Inc.\n\nCelanese  is a  global chemical and  specialty materials company, producing high-performance\nengineered polymers that are used in a variety of applications, as well as a producer of acetyl\nproducts, which are intermediate chemicals for nearly all major industries. Celanese’s product\nportfolio serves a diverse set of end-use applications.\n\nDuPont’s   Mobility  &   Materials   Business   provides   high-performance   engineering\nthermoplastics, elastomers, pastes, filaments and advanced films to engineers and designers in\nthe   transportation,   electronics,  renewable  energy,   industrial  and  consumer  end-markets\nto enable   systems    solutions    for   demanding   applications   and   environments.   The\nMobility & Materials Business  is currently wholly-owned by DuPont.\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 2057,
+      "caracteres_utiles": 1586,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

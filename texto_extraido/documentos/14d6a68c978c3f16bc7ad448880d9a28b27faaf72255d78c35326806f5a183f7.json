@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "14d6a68c978c3f16bc7ad448880d9a28b27faaf72255d78c35326806f5a183f7",
+  "extraido_utc": "2026-10-22T19:40:51+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 23 for Word",
+    "producer": "Adobe PDF Library 23.6.96",
+    "creationDate": "D:20231020164242+02'00'",
+    "modDate": "D:20231020164245+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11043_NOT_PREVIA_01",
+      "caso": "M.11043",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — NOVOZYMES / CHR HANSEN HOLDING",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202343/M_11043_9595570_2358_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202343/M_11043_9595570_2358_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11043/M.11043_NOT_PREVIA_01_14d6a68c978c.pdf",
+      "sha256": "14d6a68c978c3f16bc7ad448880d9a28b27faaf72255d78c35326806f5a183f7",
+      "coincide_inventario": "",
+      "bytes": "152061",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202343/M_11043_9595570_2358_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.11043 - NOVOZYMES / CHR HANSEN HOLDING\n\n                         SECTION 1.2\n\n                           Description of the concentration\n\n   (1)    On 20 October 2023, the Commission received a notification of a proposed\n          combination of Novozymes A/S (\"Novozymes\") and Chr. Hansen Holding A/S\n           (\"Chr.  Hansen  Holding\")  with  Novozymes  as  the  surviving  entity  (the\n           \"Transaction\").\n   (2)     Novozymes is a publicly listed company incorporated under the laws of Denmark.\n         Novozymes  is  solely  controlled by Novo Holdings A/S, a  limited  liability\n         company incorporated under the laws of Denmark.\n   (3)     Chr. Hansen Holding is a publicly listed company incorporated under the laws of\n         Denmark. Chr. Hansen Holding owns 100 % of the shares in Chr. Hansen A/S and\n           other subsidiaries (Chr. Hansen Holding and subsidiaries directly or indirectly\n           controlled by Chr. Hansen Holding, including Chr. Hansen A/S, are hereinafter\n            referred to as the \"Chr. Hansen Group\").\n   (4)     The Transaction entails that Novozymes and Chr. Hansen Holding will combine\n           within the meaning of Article 3(1)(a) of the Merger Regulation with Novozymes as\n           the  surviving  entity and  Chr. Hansen  Holding’s  subsidiaries  consequently\n         becoming subsidiaries of Novozymes.\n   (5)     The parties to the Transaction are both active in the worldwide biotech industry, but\n           the respective main business areas of the parties and the markets in which they\n           operate are to a large extent different and complementary.\n   (6)     Novozymes is a global bioscience company and is predominantly a developer,\n          manufacturer and supplier of industrial enzymes to be used within household care,\n           bioenergy, grain & tech processing, agriculture and animal health & nutrition, and\n          food & beverage and, to a lesser extent, a manufacturer of probiotics for human\n         and animal health and biologicals for plant health.\n   (7)     Chr. Hansen Group is a global differentiated bioscience company that develops\n           natural  ingredients  solutions  for  the  food,  nutritional,  pharmaceutical  and\n            agricultural industries for a variety of foods, beverages, dietary supplements,\n          animal  feed and  crop  protection.  Chr. Hansen Group  is  predominantly a\n          manufacturer and supplier of cultures for food & beverage, but, to a lesser extent,\n           also manufactures probiotics for human and animal health, biologicals for plant\n           health and enzymes.\n\n\n\n\nCommission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111",
+      "caracteres": 3211,
+      "caracteres_utiles": 2289,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

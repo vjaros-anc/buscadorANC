@@ -1,0 +1,95 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "b467e40a924751b6489951a0eaf8866d49bf262f5f65b9e76c4ca94c2fda77bd",
+  "extraido_utc": "2026-10-22T19:28:06+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10262_DICT_01",
+      "caso": "M.10262",
+      "universo": "principal",
+      "titulo": "Informe final del Consejero Auditor — META (FORMERLY FACEBOOK) / KUSTOMER",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202242/M_10262_8560226_3055_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202242/M_10262_8560226_3055_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10262/M.10262_DICT_01_b467e40a9247.pdf",
+      "sha256": "b467e40a924751b6489951a0eaf8866d49bf262f5f65b9e76c4ca94c2fda77bd",
+      "coincide_inventario": "",
+      "bytes": "214701",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202242/M_10262_8560226_3055_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:00+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                EUROPEAN COMMISSION\n\n\n\n                               Hearing Officer for competition proceedings\n\n                                                         Brussels, 17 January 2022\n\n\n             Final Report of the Hearing Officer1\n\n    Case M.10262 – Meta (formerly Facebook) / Kustomer\n\n\n1.  On  25  June  2021,  the  Commission  received  a   notification  of  a  proposed\n     concentration,  by  which Meta  Platforms,  Inc.,  formerly Facebook,  Inc.  (‘Meta\n     (formerly Facebook)’ or ‘Facebook’)2 would acquire, within the meaning of Article\n     3(1)(b) of Council Regulation (EC) No 139/20043  (‘the Merger Regulation’), sole\n     control  of  Kustomer,  Inc.  (‘Kustomer’)  (the  ‘Proposed  Transaction’).  For  the\n     purpose  of  this  report,  Meta  (formerly Facebook)  and Kustomer  are  together\n     referred to as ‘the Parties’.\n\n2.  On 2  August 2021,  the Commission adopted  a  decision to  initiate proceedings\n     pursuant  to  Article  6(1)(c)  of  the Merger  Regulation,  as  the Commission's  first\n     phase  investigation raised  serious doubts as  to  the  compatibility of the Proposed\n     Transaction with the internal market.\n\n3.  On 3 August 2021,  the Commission issued a  decision to Facebook pursuant to\n      Article  11(3)  of  the  Merger  Regulation,  requiring Facebook  to  supply  certain\n     information not later than 10 August 2021.\n\n4.  On 6 August 2021, following a formal request by Facebook dated 5 August 2021,\n     the  Commission  extended   the  time-period   pursuant   to   Article   10(3),    first\n     subparagraph, of the Merger Regulation set for the adoption of a decision pursuant\n     to Article 8 of the Merger Regulation in relation to the Proposed Transaction by five\n    working days, as requested, pursuant to Article 10(3), second subparagraph, of the\n    same regulation.\n\n5.  On 24 August 2021,  in agreement with Meta (formerly Facebook), the Commission\n     extended  the  period  for  taking a  decision pursuant  to  Article 8 of the Merger\n     Regulation  by  ten  working  days   in  accordance  with  Article  10(3),  second\n     subparagraph, third sentence of the Merger Regulation.\n\n6.  On 18 October 2021, the Commission adopted a Statement of Objections addressed\n     to Facebook (the ‘SO’). The SO was formally notified to Facebook on the same day\n    and Facebook was granted a deadline to submit  its observations  until 3 November\n\n\n1   Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission\n    of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition\n    proceedings, OJ L 275, 20.10.2011,  p. 29 (‘Decision 2011/695/EU’).\n\n2   On 28 October 2021, Facebook, Inc. changed its name to Meta Platforms, Inc.\n\n3   Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between\n    undertakings (the EC Merger Regulation), OJ L 24, 29.1.2004,  p. 1.",
+      "caracteres": 2987,
+      "caracteres_utiles": 2077,
+      "cobertura_imagen_maxima": 0.0115,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Final Report in Case M.10262 – Meta (formerly Facebook) / Kustomer\n\n\n    2021. On 19 October 2021, Kustomer was also informed of the adoption of the SO\n    and offered the opportunity to request a non-confidential version, should  it want to\n     submit (separate) observations pursuant to  Article 13(2) of Commission Regulation\n    (EC) 802/2004.4\n\n7.   In the SO, the Commission came to the preliminary view that  it is likely, and there\n       is even a strong probability,  that the Proposed Transaction would significantly impede\n      effective  competition  within the meaning of Article 2(3) of the Merger Regulation.\n     This  would  be  the  result  of  vertical  non-coordinated  effects on  the EEA  or\n    worldwide  market   for  customer   service  and  support  customer   relationship\n    management (‘CRM’) software, as well as on the broader market for CRM software\n      overall, and possible segments of each such market.\n\n8.  On 19 October 2021, Facebook obtained access to the accessible documents in the\n     Commission’s case  file. Subsequent access to the  file was provided on 21 October\n    2021, 29 October 2021, 6 December 2021, 8 December 2021 and 10 December\n    2021.\n\n9.    I  have  not received any complaint or  further  request from the  Parties  regarding\n     access to the file.\n\n10. On 3 November 2021, Meta (formerly Facebook) replied to the SO. The Parties did\n     not request a formal oral hearing.\n\n11. On 24 November  2021,  Meta  (formerly Facebook)  submitted  commitments  in\n     accordance with Article 8(2) and 10(2) of the Merger Regulation, with a view to\n     rendering  the Proposed  Transaction  compatible  with  the  internal market and  the\n     functioning of  the EEA Agreement. The Commission  launched  a market  test of\n     these commitments on 26 November 2021.\n\n12. On 3 December 2021, the Commission addressed Meta (formerly Facebook) a letter\n     of  facts,  where   it  pointed  out  additional  factual  elements  in  support  of  the\n     preliminary conclusions reached  in the SO. Some of these were already present in\n     the  file at the time of the SO, while others were obtained by the Commission only\n      after adopting the SO. Upon further analysis of the  file, the Commission concluded\n      that these elements were potentially relevant to substantiate  its final decision.\n\n13. On 13 December 2021, Meta (formerly Facebook) submitted a written response to\n     the letter of facts.\n\n14. On  17  December  2021,   in  agreement  with Meta  (formerly  Facebook),  the\n    Commission extended the period for taking a decision pursuant to  Article 8 of the\n    Merger Regulation by  five working days  in accordance with Article 10(3), second\n     subparagraph, third sentence of the Merger Regulation.\n\n15. On 20 December 2021,  having received feedback from the Commission on the\n    commitments  submitted  earlier, Meta  (formerly Facebook)  submitted  revised  and\n      final  commitments,  in  accordance  with  Article  8(2)  and  10(2)  of  the  Merger\n     Regulation, with a view to rendering the Proposed Transaction compatible with the\n\n\n4   Commission Regulation (EC) No 802/2004 of 21 April 2004 implementing Council Regulation (EC)\n   No 139/2004 on the control of concentrations between undertakings, OJ L 133, 30.4.2004,  p.1.\n\n                                                    2",
+      "caracteres": 3388,
+      "caracteres_utiles": 2466,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 3,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Final Report in Case M.10262 – Meta (formerly Facebook) / Kustomer\n\n\n      internal  market  and   the   functioning  of   the  EEA  Agreement   (the   ‘Final\n    Commitments’).\n\n16.  The  draft  decision declares  the Proposed Transaction compatible with the  internal\n     market and the  functioning of the EEA Agreement, subject to  full compliance with\n     the Final Commitments.\n\n17.  I  have  reviewed  the   draft  decision  pursuant  to  Article  16(1)  of  Decision\n    2011/695/EU and I conclude that  it deals only with objections in respect of which\n     the Parties have been afforded the opportunity of making  their views known.\n\n18.  In view of the above,  I consider that the effective exercise of procedural rights has\n    been respected in this case.\n\n\n\n                                                      Dorothe DALHEIMER\n                                                        Hearing Officer\n\n\n\n\n\n                                                    3",
+      "caracteres": 977,
+      "caracteres_utiles": 593,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

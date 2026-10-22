@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "e4cb11d65c285dc54fd02755d43c00080b7ed0da0ed12ae3277c2f5422a4ba54",
+  "extraido_utc": "2026-10-22T19:34:23+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10663_DICT_02",
+      "caso": "M.10663",
+      "universo": "principal",
+      "titulo": "Informe final del Consejero Auditor — ORANGE / VOO / BRUTELE",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202349/M_10663_9753116_2224_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202349/M_10663_9753116_2224_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10663/M.10663_DICT_02_e4cb11d65c28.pdf",
+      "sha256": "e4cb11d65c285dc54fd02755d43c00080b7ed0da0ed12ae3277c2f5422a4ba54",
+      "coincide_inventario": "",
+      "bytes": "118306",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202349/M_10663_9753116_2224_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "               EUROPEAN COMMISSION\n\n\n\n                                 Hearing Officer for competition proceedings\n\n                                                     Brussels, 9 March 2023\n\n\n              Final Report of the Hearing Officer1\n\n           Case M.10663 – Orange/VOO/Brutélé\n\n\nOn 22 June 2022, the Commission received a notification pursuant to Article 4 of the\nMerger Regulation2 of a proposed concentration by which Orange S.A. (‘Orange’ or the\n‘Notifying Party’), through its solely controlled Belgian subsidiary Orange Belgium S.A.,\nwould acquire, within the meaning of Article 3(1)(b) of the Merger Regulation, sole\ncontrol over VOO S.A. (‘VOO’) and the telecommunications, media and technology\nactivities3 of Société Intercommunale pour  la Diffusion de  la Télevision (‘Brutélé’)\n(together with Orange and VOO, the ‘Parties’) (the ‘Proposed Transaction’).\n\nOn 28 July 2022, the Commission initiated proceedings pursuant to Article 6(1)(c) of the\nMerger Regulation (‘Article 6(1)(c) Decision’). The Notifying Party submitted written\ncomments on the Article 6(1)(c) Decision, on 22 August 2022.\n\nOn 8 August 2022, at the request of the Notifying Party, the Commission extended the\ntime period for the adoption of a decision pursuant to Article 8 of the Merger Regulation\nby ten working days, pursuant to Article 10(3), second subparagraph, first sentence, of the\nsame regulation.\n\nOn 12, 14, 18 and 21 October 2022, at the request of the Notifying Party, the Commission\nextended the time period for the adoption of a decision pursuant to Article 8 of the Merger\nRegulation by two, two, two and four working days respectively, pursuant to Article 10(3),\nsecond subparagraph, third sentence, of the same regulation.\n\nOn 26 October 2022, the Commission adopted a decision pursuant to Article 11(3) of the\nMerger Regulation (the ‘Article 11(3) Decision’), requiring the Notifying Party to supply\ncertain information in connection with a possible wholesale access agreement with Telenet\nGroup Holding NV (a third-party competitor), of relevance for the assessment of the\nProposed Transaction on certain affected markets. Pursuant to Article 9(2) of the Merger\n\n\n\n\n\n1   Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission\n    of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition\n    proceedings, OJ L 275, 20.10.2011, p. 29 (‘Decision 2011/695/EU’).\n\n2   Council Regulation (EC) No 139/2004 on the control of concentrations between undertakings, OJ L 24,\n    29.1.2004, p. 1 (‘Merger Regulation’).\n3  As defined in the Commission’s draft decision.",
+      "caracteres": 2660,
+      "caracteres_utiles": 1982,
+      "cobertura_imagen_maxima": 0.0115,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Implementing Regulation4, the Commission considered  it appropriate to request  this\ninformation without proceeding first by way of simple request for information. The Article\n11(3) Decision suspended the time limit referred to in Article 10(3) of the Merger\nRegulation, pursuant to Article 10(4) of the Merger Regulation. The Notifying Party\ncomplied with the information request contained in the Article 11(3) Decision on 30\nJanuary 2023, which ended the suspension of the above-mentioned time limit.\n\nBetween 11 October 2022 and 18 January 2023, I admitted two undertakings active in “or\nupstream of” some of the markets affected by the Proposed Transaction as interested third\npersons pursuant to Article 18(4) of the Merger Regulation.\n\nOn 30 January 2023, the Notifying Party submitted commitments pursuant to Article 8(2)\nof the Merger Regulation in order to address the competition concerns identified by the\nCommission (the ‘Commitments’). On 31 January 2023, the Commission launched a\nmarket test of the Commitments. The Parties were informed about the results of the market\ntest of the Commitments during a call held on 10 February 2023.\n\nThe draft decision declares the Proposed Transaction compatible with the internal market\nand the EEA Agreement, subject to full compliance with the Commitments.\n\nOverall, I consider that the effective exercise of procedural rights has been respected\nduring the present proceedings.\n\n\n\n\n\n                                                        Eric GIPPINI FOURNIER\n                                                        Hearing Officer\n\n\n\n\n\n4   Commission Regulation (EC) No 802/2004 implementing Council Regulation (EC) No 139/2004 on the\n    control of concentrations between undertakings, OJ L 133, 30.4.2004, p. 1 (the ‘Merger Implementing\n    Regulation’).\n\n\n                                                          2",
+      "caracteres": 1874,
+      "caracteres_utiles": 1373,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

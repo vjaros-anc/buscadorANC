@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "f29f7170eb8078e65e3d7a9ad4d516b20811063d5c801eb7f2324205d1f2b88e",
+  "extraido_utc": "2026-10-22T19:28:47+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20220623085846+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10438_CP_APERTURA_01",
+      "caso": "M.10438",
+      "universo": "principal",
+      "titulo": "Comunicado de apertura de fase II — MOL / OMV SLOVENIJA",
+      "tipo_documental": "CP_APERTURA",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_3974/IP_22_3974_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_3974",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10438/M.10438_CP_APERTURA_01_f29f7170eb80.pdf",
+      "sha256": "f29f7170eb8078e65e3d7a9ad4d516b20811063d5c801eb7f2324205d1f2b88e",
+      "coincide_inventario": "",
+      "bytes": "44620",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_3974/IP_22_3974_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission opens in-depth investigation into the proposed\nacquisition of OMV Slovenija by MOL\n\nBrussels, 23 June 2022\n\nThe European Commission has opened an in-depth investigation to assess the proposed acquisition\nof OMV Slovenija by MOL under the EU Merger Regulation. The Commission is concerned that the\nproposed transaction may reduce competition in the retail motor fuel markets in Slovenia.\n\nExecutive Vice-President Margrethe Vestager, responsible for competition policy, said: “To ensure\nthat fuel prices at the pump are not artificially inflated by lack of competition, we need to keep a\nclose eye on consolidation. OMV Slovenija and MOL are two of the leading fuel suppliers in Slovenia\nwhich compete head-to-head in many local areas. We need to carefully assess whether the changes\nin the competitive landscape prompted by the proposed acquisition would have an impact on prices\nor the quality of services.”\n\nMOL and OMV Slovenija are, respectively, the third and second largest fuel suppliers in Slovenia\nafter Petrol, the partially state-owned incumbent. By acquiring OMV Slovenija, MOL would hold high\nmarket shares in the fuel retail markets and, together with Petrol, they would hold a very large share\nof the market. All other competitors are significantly smaller and unlikely to pose any significant\ncompetitive constraint on MOL or Petrol after the transaction.\n\nThe Commission's preliminary concerns\n\nAt this stage, the Commission is concerned that the transaction may significantly reduce competition\nin the retail supply of motor fuels (gasoline and diesel) to individuals and businesses in\nSlovenia.\n\nThe Commission's preliminary investigation shows that the parties compete head-to-head in many\nlocal areas throughout Slovenia. The transaction would thus remove the main competitive constraint\nthat MOL and Petrol currently face in the market. In addition, the market is very transparent and the\ntransaction could facilitate coordination between MOL and Petrol.\n\nFurthermore, relatively high barriers to entry and expansion, such as the cost to set up a network of\npetrol stations, regulatory constraints and the scarcity of attractive locations, characterise the retail\nsupply of motor fuels in Slovenia. In addition, new entry seems unlikely on any significant scale in\nthe short to medium run.\n\nThe Commission will now carry out an in-depth investigation into the effects of the transaction to\ndetermine whether it is likely to significantly reduce effective competition.\n\nThe transaction was notified to the Commission on 13 May 2022. MOL decided not to submit\ncommitments during the initial investigation to address the Commission's preliminary concerns. The\nCommission now has 90 working days, until 28 October 2022, to take a decision. The opening of an\nin-depth investigation does not prejudge the outcome of the investigation.\n\nCompanies and products\n\nMOL Hungarian Oil and Gas Plc (‘MOL'), headquartered in Hungary, is the parent company of the\nMOL Group, an integrated oil and gas group whose principal activities are the exploration, production\nand refining of crude oil, the distribution of refined oil products,. On the retail level, MOL Group has a\nnetwork of ca. 2,000 fuel stations in nine countries (Hungary, Romania, Republic of Serbia,\nMontenegro, Republic of Bosnia-Herzegovina, Republic of Croatia, Republic of Slovenia, Czech\nRepublic and Slovakia). In Slovenia, MOL operates 53 fuel stations offering a range of standard and\npremium fuels and various other ancillary products and services.\n\nOMV Slovenija Trgovina Z Nafto In Naftnimi Derivati, D.O.O. (‘OMV Slovenija'),\nheadquartered in Slovenia, is active in the retail sale of motor fuel via its network of 119 fuel\nstations. OMV Slovenija's fuel stations offer a range of standard and premium fuels, automotive LPG,\nLPG cylinder, heating oil and various ancillary products and services. OMV Slovenija is also active on\nthe fuel wholesale markets, supplying some customers in Slovenia and Croatia, as well as in the",
+      "caracteres": 4084,
+      "caracteres_utiles": 3330,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "wholesale supply of bitumen and heating oil.\n\nMerger control and procedure\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the European Economic Area\nor any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nIn addition to the current transaction, there are currently two on-going Phase II merger\ninvestigations: the proposed acquisition of Pfleiderer Polska by Kronospan and the proposed\nacquisition of GRAIL by Illumina.\n\nMore information will be available on the Commission's competition website, in the Commission's\npublic case register under the case number M.10438.\n\n                                                                                                              IP/22/3974\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1348,
+      "caracteres_utiles": 992,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

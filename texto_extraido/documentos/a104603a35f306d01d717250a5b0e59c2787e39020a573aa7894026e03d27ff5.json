@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "a104603a35f306d01d717250a5b0e59c2787e39020a573aa7894026e03d27ff5",
+  "extraido_utc": "2026-10-22T19:41:08+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20240823143833+02'00'",
+    "modDate": "D:20240823143833+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11071_OTRO_01",
+      "caso": "M.11071",
+      "universo": "principal",
+      "titulo": "Trustee details — DEUTSCHE LUFTHANSA / MEF / ITA",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202435/M_11071_10210304_19689_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202435/M_11071_10210304_19689_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11071/M.11071_OTRO_01_a104603a35f3.pdf",
+      "sha256": "a104603a35f306d01d717250a5b0e59c2787e39020a573aa7894026e03d27ff5",
+      "coincide_inventario": "",
+      "bytes": "118374",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202435/M_11071_10210304_19689_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "  MONITORING TRUSTEE IN CASE M.11071 – DEUTSCHE LUFTHANSA /\n                     MEF / ITA\n\n\n\nOn 20.08.2024 the Commission approved the appointment of:\n\n           NOCON  Nothhelfer  Consulting  Partnerschaft  Diplom-Volkswirte\n             (“NOCON”)\n\n                 Address: Uhlandstraße 162, 10719 Berlin (Germany)\n\n                   Tel: +49 30 166342090\n\n                 Email: wn@noconpartners.com\n\n\n\nSupported by Sarah Whitlam from the company:\n\n                  Slotwise Consulting Ltd.\n\n                 Address: 128 City Road, London, United Kingdom, EC1V 2NX\n\n                   Tel: +44 333 303 4770\n\n                 Email: sarah@slotwiseconsulting.com\n\nas Monitoring Trustee in the above-mentioned case.\n\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of Deutsche Lufthansa\nAG and the Italian Ministry of Economy and Finance with the Commitments attached to\nthe Commission's Decision of 03.07.2024 and to report to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 1242,
+      "caracteres_utiles": 856,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

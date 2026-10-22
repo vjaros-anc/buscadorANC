@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "75241ff9d36c9128a09d644721a76e863619ddf8f90eba0f4a98d123d3c5e3ed",
+  "extraido_utc": "2026-10-22T19:43:59+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20250110183036+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11481_CP_01",
+      "caso": "M.11481",
+      "universo": "principal",
+      "titulo": "Commission approves Synopsys' acquisition of Ansys subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_181/IP_25_181_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_181",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11481/M.11481_CP_01_75241ff9d36c.pdf",
+      "sha256": "75241ff9d36c9128a09d644721a76e863619ddf8f90eba0f4a98d123d3c5e3ed",
+      "coincide_inventario": "",
+      "bytes": "43773",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_181/IP_25_181_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:04+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission approves Synopsys' acquisition of Ansys subject to conditions\n\nBrussels, 10 January 2025\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof Ansys, Inc. (‘Ansys') by Synopsys, Inc. (‘Synopsys'). The approval is conditional upon full\ncompliance with the commitments offered by the parties.\n\nThe Commission's investigation\n\nThe Commission investigated the impact of the transaction in the global markets for the supply of:\n(i) optics software; (ii) photonics software; and (iii) electronic design automation (‘EDA')\nsoftware tools used for the design of chips, where Synopsys and Ansys's activities actually or\npotentially overlap.\n\nThe Commission also assessed the merged entity's potential ability and incentive to offer bundles or\nto hamper the interoperability of: (i) different EDA software tools; or (ii) EDA software tools and\nsemiconductor intellectual property (‘IP') solutions for system-on-chip designs, of which\nSynopsys is a leading provider.\n\nThe Commission's investigation showed that, while the companies' activities are largely\ncomplementary, the transaction, as initially notified, would have reduced competition in the global\nmarkets for the supply of: (i) optics software simulating how light behaves in large macro-scale\nsystems (e.g., screen or car headlight); (ii) photonics software simulating how light behaves in\nsmaller nano-scale optical systems (e.g., digital camera or solar panel); and (iii) register-transfer-\nlevel power consumption analysis software, which is an EDA software tool used at the early\nstage of the chip design process to check its power consumption.\n\nThe Commission found that the transaction would have resulted in high combined market shares\nas well as high concentration levels in the above markets. The Commission also found that, after\nthe merger, there would not be enough alternative competitors to exert sufficient competitive\npressure on the merged entity. The transaction, as notified, would have led to higher prices and\nless choice for customers.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, the parties offered to divest to a suitable\npurchaser the entire overlap in terms of the merging parties' respective activities in the markets\nwhere the Commission identified significant competition concerns, namely:\n\n    Synopsys' optics and photonics software, including Code V, LightTools, LucidShape, RSoft\n    and ImSym.\n    Ansys' register-transfer-level power consumption analysis software PowerArtist.\n\nThe commitments fully address the competition concerns by ensuring that there will be sufficient\ncompetition and choice in the global markets for the supply of optics, photonics and register-transfer-\nlevel power consumption analysis software.\n\nThe Commission will approve a suitable purchaser of the divested businesses in a separate procedure.\nSynopsys can only implement the acquisition of Ansys following that approval.\n\nFollowing the positive feedback received during the market test, the Commission concluded that the\ntransaction, as modified by the commitments, would no longer raise competition concerns.\n\nThe decision is conditional upon full compliance with the commitments. Under the supervision of the\nCommission, an independent trustee will monitor their implementation.",
+      "caracteres": 3389,
+      "caracteres_utiles": 2754,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Companies and products\n\nSynopsys, headquartered in the US, mostly offers EDA software, services, and hardware used to\ndesign semiconductor devices, such as chips. Additionally, Synopsys offers semiconductor IP.\n\nAnsys, headquartered in the US, mostly offers multi-physics simulation and analysis software and\nservices to simulate and analyse the behaviour of a product, process, and/or system via digital\nmodels. Some of these tools are EDA tools, exclusively used by chip designers in their chip design\nworkflows.\n\nFor more information\n\nThe transaction was notified to the Commission on 11 November 2024.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a turnover\nabove certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent concentrations\nthat would significantly impede effective competition in the European Economic Area or any\nsubstantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of 25\nworking days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working days,\nbringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.11481.\n\n                                                                                                               IP/25/181\n\nQuote(s):\n\n\n \"In a world where complex chips need increasing amounts of power, innovative software tools, like those offered by both Synopsys\n and Ansys, help chip designers build chips that consume less power to the benefit of customers and the environment. We were\n concerned that this acquisition may have significantly harmed competition in certain global markets for design software for chips or\n other products. However, thanks to the clear structural remedies offered by the parties, competition in these markets will be\n preserved and customers will continue to have access to innovative tools at competitive prices.\"\n Teresa Ribera, Executive Vice-President for Clean, Just and Competitive Transition - 10/01/2025\n\n\n Press contacts:\n\n      Lea ZUBER (+32 2 29 56298)\n      Sara SIMONINI (+32 2 29 83367)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2555,
+      "caracteres_utiles": 1969,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

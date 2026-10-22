@@ -1,0 +1,131 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "2e275bd69ac80b49de12465b3c87445ce07a588f9471094eb96f0cf404617521",
+  "extraido_utc": "2026-10-22T19:41:16+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11159_POST_01",
+      "caso": "M.11159",
+      "universo": "principal",
+      "titulo": "Aprobación de comprador — JD SPORTS / GROUPE COURIR",
+      "tipo_documental": "POST",
+      "grupo": "actos_posteriores",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202449/M_11159_10409761_6736_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202449/M_11159_10409761_6736_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11159/M.11159_POST_01_2e275bd69ac8.pdf",
+      "sha256": "2e275bd69ac80b49de12465b3c87445ce07a588f9471094eb96f0cf404617521",
+      "coincide_inventario": "",
+      "bytes": "257899",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202449/M_11159_10409761_6736_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:00+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "       EUROPEAN COMMISSION\n          DG Competition\n\n\n\n                   Case M.11159 - JD SPORTS /\n                    GROUPE COURIR\n\n\n\n\n                           Only the English text is available and authentic.\n\n\n          REGULATION (EC) No 139/2004\n              MERGER PROCEDURE\n\n\nDecision on the implementation of the commitments -\n                                Purchaser approval\n                                  Date: 18/11/2024",
+      "caracteres": 442,
+      "caracteres_utiles": 210,
+      "cobertura_imagen_maxima": 0.0115,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "              EUROPEAN COMMISSION\n\n\n\n                                                    Brussels, 18.11.2024\n                                             C(2024) 8155 final\n                                     PUBLIC VERSION\n\n                                                               In the published version of this decision,\n                                                 some   information   has  been   omitted\n                                                             pursuant  to  Article  17(2)  of  Council\n                                                            Regulation (EC) No 139/2004 concerning\n                                                              non-disclosure of business secrets and other\n                                                                  confidential information. The omissions are\n                                                  shown  thus  […].  Where  possible  the\n                                                             information omitted has been replaced by\n                                                            ranges of figures or a general description.\n\n                                      JD Sports Fashion Plc\n                                             Edinburgh House\n                                                Hollinsbrook Way\n                                                   Pilsworth, Bury\n                                                Lancashire BL9 8RR\n                                              United Kingdom\n\n\nDear Sir or Madam,\n\nSubject:  Case M.11159 – JD SPORTS / COURIR\n         Approval of Snipes SE following your submission of 30 October 2024 and\n           the Trustee’s opinion of 7 November 2024\n\n1.     FACTS AND PROCEDURE\n(1)    By decision of 22 October 2024 (the ‘Decision’) based on Article 6(1)(b) in\n        connection with Article 6(2) of Council Regulation (EC) No 139/2004 (the ‘Merger\n         Regulation’),1 the Commission declared the operation by which JD Sports Fashion\n         plc (‘JD Sports’, UK) acquires within the meaning of Article 3(1)(b) of the Merger\n        Regulation sole control of the whole of Groupe Courir SAS (‘Courir’, France) (the\n         ‘Transaction’) compatible with the internal market following modification of the\n        Transaction by JD Sports and  Courir,  subject  to conditions and  obligations\n         (the ‘Commitments’). JD Sports and Courir are jointly referred to as the ‘Parties’.\n\n(2)     The Commitments require that the Parties transfer 21 Courir stores, including 15 in\n        France and 6 in Portugal (the ‘Divestment Business’) to a single purchaser,\n        Snipes SE (‘Snipes’, Germany).\n\n\n\n\n1       Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between\n         undertakings, OJ L 24, 29.1.2004, p.1.\n\n\n\nCommission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111",
+      "caracteres": 2935,
+      "caracteres_utiles": 1442,
+      "cobertura_imagen_maxima": 0.0114,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 3,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "(3)    On 9 September 2024, and in order to assist the Commission with the assessment\n         of the suitability of Snipes as purchaser of the Divestment Business, the Parties\n        appointed ALCIS ADVISERS GmbH (‘Alcis’) as Independent Advisor. Alcis was\n        assigned to review data from the Parties and Snipes in relation to the Divestment\n        Business’  viability and  profitability, and  Snipes’  estimated  market  position\n        following the anticipated acquisition of the Courir stores. Alcis was also asked to\n         assess Snipes’ independence, financial capabilities, experience and incentives to\n        operate the Divestment Business as a viable and active competitive force in\n        competition with the Parties and other competitors.\n\n(4)    On 4 October 2024, the Parties submitted an initial reasoned proposal in relation to\n        Snipes’ suitability as a purchaser of the Divestment Business (the ‘Initial Reasoned\n         Proposal’). The Parties argued in their Initial Reasoned Proposal that Snipes is\n        independent  of and unconnected  to  the  Parties, has  the  financial  resources\n        necessary to acquire and operate the Divestment Business, and has the proven\n         expertise and incentive to maintain and operate the Divestment Business as a viable\n       and active competitive force in competition with the Parties and other competitors.\n       The Parties further argued that the acquisition by Snipes is unlikely to create prima\n         facie competition concerns in France or Portugal.\n\n(5)    On 18 October 2024, Alcis submitted to the Commission a first reasoned opinion\n         as to the independence and overall suitability of the proposed purchaser, Snipes\n         (the ‘First Reasoned Opinion’). Alcis in its First Reasoned Opinion agreed with the\n        submissions of the Parties as to the suitability of Snipes as Purchaser of the\n        Divestment Business.\n\n(6)    On 28 October 2024 and following the adoption of the Decision, the Commission\n        approved the appointment by the Parties of Alcis as Monitoring Trustee (the\n         ‘Trustee’).\n\n(7)    On 30 October 2024, the Parties submitted their final reasoned proposal on the\n          suitability of Snipes as purchaser and consistency of the transaction agreements\n        entered  into between Courir and Snipes with  the Commitments  (the  ‘Final\n       Reasoned  Proposal’). The  Trustee reviewed  the  transaction agreements and\n        submitted  its reasoned opinion on 7 November 2024  (the  ‘Final Reasoned\n        Opinion’).\n\n2.     ASSESSMENT OF THE PURCHASER’S SUITABILITY\n(8)     Snipes is a sports goods retailer, headquartered in Cologne, wholly owned by\n       Deichmann SE, a German stock corporation, which was identified by the Parties as\n        a competitor on the market for the retail supply of leisure sports footwear and\n        apparel in both France and Portugal.\n\n(9)      In the Decision, the Commission considered Snipes as a suitable purchaser of the\n        Divestment Business.\n\n(10)     First, in section 6.3.3.1 of the Decision, the Commission concluded that Snipes is\n        independent and unconnected to the  Parties. Second, in section 6.3.3.2.1 the\n       Commission found that Snipes has sufficient financial resources to complete the\n         acquisition of the Divestment Business and to maintain and develop the Divestment\n        Business  as a  viable and  active  competitive  force.  Third,  the Commission\n        concluded in section 6.3.3.2.2 that Snipes has the proven experience and resources\n        necessary to perform a smooth integration process of the Divestment Business\n        while maintaining operational continuity in the stores. Fourth, in section 6.3.3.2.3\n\n\n                                                     2",
+      "caracteres": 3824,
+      "caracteres_utiles": 2779,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 4,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "         the  Commission  assessed  Snipes’  incentive  to  maintain  and  develop  the\n        Divestment Business as a viable and active competitive force in competition with\n         the Parties and other competitors and concluded that Snipes has the incentive to do\n         so. Finally, the Commission considered in section 6.3.3.3 that the acquisition by\n        Snipes of the Divestment Businesses  is not likely to create any prima facie\n        competition concerns in any relevant market in which the Courir stores are located.\n\n(11)    In  light of the above considerations, taking into account the Trustee’s  First\n       Reasoned Opinion and the other information available to  it, the Commission\n        concluded in the Decision that Snipes meets the Purchaser Requirements set out in\n        paragraph 29 of the Commitments.\n\n3.     ASSESSMENT OF THE PROPOSED AGREEMENTS\n3.1.    The Trustee’s view\n(12)    The Divestment Business transaction agreements comprise: (i) the Memorandum of\n        Understanding of 2 September 2024, (ii) the France Business Transfer Framework\n       Agreement of 25 September 2024, (iii) the Portugal Business Transfer Framework\n       Agreement of 25 September 2024, (together with  (ii), the ‘BTFAs’ and each a\n       ‘BTFA’) and  (iii)  all their annexes and ancillary agreements  (all together the\n        ‘Transaction Agreements’).\n\n(13)    The  Trustee  has reviewed and  provided an  assessment  of  the  Transaction\n        Agreements;  while  concluding  that  these   fulfil  the  requirements  of  the\n       Commitments and the condition of the Commitments to transfer the Divestment\n        Business to Snipes.2\n\n(14)    According to the Trustee’s Final Reasoned Opinion, the Divestment Business to be\n         transferred under the BTFAs includes the leases, franchise transfers (as applicable),\n         assets and rights attached and personnel of the stores, as the Commitments require\n       and necessary for their continued viability and competitiveness.3 The Schedule to\n         the Commitments includes also, at the option of the Purchaser, the possibility of\n           (i) transitional support services and (ii) certain intellectual property, in both cases\n         for up to […] from the transfer of the legal title to the Divestment Business to the\n        Purchaser (i.e. ‘Closing’).4\n\n(15)    The Transaction Agreements include a support package of up to more than\n     EUR […]. The Commitments do not provide for any such requirement. The\n        Notifying Party submits that Snipes has requested the inclusion of the support\n        package to enable it to [information relating to the business strategy of Snipes]. As\n         the Trustee indicated in  its Final Reasoned Opinion, Snipes considers that the\n        support package is necessary to maintain the competitiveness and viability of the\n        Divestment Business.5 The Trustee reviewed the compensation payments, as\n        contemplated in the Transaction Agreements, and concluded that they are in line\n        with the Commitments. This is because these compensation payments represent an\n        unconditional transitional support package to the benefit of the Purchaser, do not\n\n\n\n\n2        Final Reasoned Opinion, paragraph 75.\n3        Final Reasoned Opinion, paragraphs 18 and 21.\n4        Final Reasoned Opinion, paragraph 20.\n5          Initial Reasoned Opinion, paragraph 13.\n\n\n\n\n                                                     3",
+      "caracteres": 3482,
+      "caracteres_utiles": 2503,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 5,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "       impose any obligation on Snipes and do not establish any future profit sharing or\n       any other form of dependency between Courir and Snipes.6\n\n(16)    The Trustee further notes that the interim covenants included in the BFTAs, are\n         limited to business decisions outside the ordinary course, and therefore grant the\n        hold separate manager of the Divestment Business  all necessary commercial\n       freedom to operate it independently of both Courir and Snipes.7\n\n(17)    The BFTAs further stipulate that should the competent French national competition\n         authority approve the acquisition of Courir stores by Snipes, and the relevant\n         landlord and municipality waivers and consents have been obtained in both France\n       and Portugal (called the ‘Business Specific Conditions Precedent’ in the BFTAs)\n         for certain stores (the ‘Cleared Businesses’), upon express election of Snipes and\n        provided that the Commission consents, [information in relation to the commercial\n         closing mechanics of the sale of the Divestment Business to Snipes].8\n\n(18)    The Trustee understands  that Snipes accepted  in  principle the  possibility of\n        [information in relation to the commercial closing mechanics of the sale of the\n        Divestment Business to Snipes].9 Nevertheless, the Trustee notes that [observation\n        based on confidential information in relation to the commercial closing mechanics\n       and timings of the sale of the Divestment Business to Snipes]. According to the\n         Trustee, Snipes and Courir aim to minimize the commercial risk of a scenario of\n        delays in fulfilling all conditions precedent in relation to [information in relation to\n         the commercial closing mechanics of the sale of the Divestment Business to\n         Snipes].10 The Trustee thus deems that the possibility of a [information in relation\n         to the commercial closing mechanics of the sale of the Divestment Business to\n         Snipes], does not impose any risk of delays to the divestiture process.11 In any\n         event, as the Trustee observes, if Courir and Snipes consider that Closing might be\n        delayed, the Parties will need to request an extension from the Commission one\n       month in advance.12\n\n(19)    In relation to the employees to be transferred, the Trustee notes that the BTFAs do\n        not foresee a non-solicitation of key employees by Courir, as required by the\n       Commitments, for a period of […] following the Commission’s final approval\n         decision. Nevertheless, and pursuant to the opinion of the Trustee, given that the\n       Commitments  prevail  over  the  Transaction  Documents,  Courir’s  obligation\n        continues to apply even in the absence of a specific clause in the BTFAs.13\n\n3.2.    The Commission’s assessment\n(20)    The Commission reviewed the Parties’ Final Reasoned Submission in relation to\n         the compliance of the Transaction Agreements with the Commitments as well as\n         the Trustee’s Final Reasoned Opinion thereof. The Commission considers that the\n        Transaction Agreements will enable the Parties to transfer and Snipes to acquire\n         the Divestment Business in a manner that is consistent with the Commitments.\n\n\n6        Final Reasoned Opinion, paragraph 28.\n7        Final Reasoned Opinion, paragraph 44.\n8        Final Reasoned Opinion, paragraph 36.\n9        [Information regarding the commercial operating model of Courir stores].\n10       Final Reasoned Opinion, paragraph 37.\n11       Final Reasoned Opinion, paragraph 39.\n12       Final Reasoned Opinion, paragraph 53.\n13       Final Reasoned Opinion, paragraph 69.\n\n\n\n\n                                                     4",
+      "caracteres": 3766,
+      "caracteres_utiles": 2755,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 6,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "(21)     First, the Commission considers that the Transaction Agreements correctly outline\n         the scope of the Divestment Business to be transferred as agreed by the Parties and\n        approved by the Commission in the Decision.\n\n(22)    Moreover,  the Commission  finds  that  the  interim covenants and procedures\n        contemplated  for the period  starting from the Decision  until Closing of the\n        Divestment Business’ transaction, adequately address the need to maintain the\n          viability of the Divestment Business so as Snipes acquires and further operates it as\n        an active competitive force.\n\n(23)     Further, the Commission deems  that the  Parties and Snipes have envisaged\n         sufficient  protections  in order  to meet  the Closing date as included  in  the\n       Commitments, and have so far, made good progress in meeting the necessary\n         conditions to closing.\n\n(24)    For the above reasons, the Commission agrees with the conclusions in the Trustee’s\n         Final Reasoned Opinion that the Divestment Business will be transferred to Snipes\n         in a manner consistent with the Commitments.\n\n(25)    Moreover,  while  based on  the  Trustee’s  Final Reasoned Opinion  that  the\n        Transaction Agreements are overall consistent with the spirit of the Commitments,\n         the Commission notes that in case of conflict between the wording of the text of the\n       Commitments and the Transaction Agreements executed by the Parties, Snipes, or\n       any other party for the purposes of implementing the Commitments, the wording of\n         the Commitments shall prevail, without prejudice to the fact that the interpretation\n         of the Commitments shall take into account the solution that is more favourable to\n         the Divestment Business. Deviations from the Commitments in the Transaction\n       Agreements  are  only  valid  if  they  have  been  expressly  approved by  the\n       Commission.\n\n4.     CONCLUSION\n(26)   On the basis of the above assessment, the Commission approves Snipes as a\n         suitable Purchaser.\n\n(27)   On the basis of the Transaction Agreements, the Commission concludes that the\n        Divestment Business is being sold in a manner consistent with the Commitments.\n\n(28)    This decision only constitutes approval of the proposed Purchaser identified herein\n       and  of  the  Transaction  Agreements.  This  decision  does  not  constitute  a\n        confirmation that JD Sports and Courir have complied with their Commitments.\n\n(29)    This decision is based on the Commitments attached to the Commission Decision\n         of 22 October 2024 as Annex 2.\n\n                                           For the Commission\n\n\n                                                  (Signed)\n                                                     Olivier GUERSENT\n                                                  Director-General\n\n\n\n\n\n                                                     5",
+      "caracteres": 2992,
+      "caracteres_utiles": 2022,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "ce33af9876bc0967305459af1767bbaf7c40bc9a2f72638f22d01c15aee26157",
+  "extraido_utc": "2026-10-22T19:28:23+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10431_OTRO_01",
+      "caso": "M.10431",
+      "universo": "principal",
+      "titulo": "Trustee details — ALI GROUP / WELBILT",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202226/M_10431_8383755_2572_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202226/M_10431_8383755_2572_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10431/M.10431_OTRO_01_ce33af9876bc.pdf",
+      "sha256": "ce33af9876bc0967305459af1767bbaf7c40bc9a2f72638f22d01c15aee26157",
+      "coincide_inventario": "",
+      "bytes": "75434",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202226/M_10431_8383755_2572_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "   MONITORING TRUSTEE IN CASE M.10431 – ALI GROUP / WELBILT\n\n\nOn 21 June 2022 the Commission approved the appointment of:\n\n\n                 Monitoring Trustee Partners B.V.\n                Koninginneweg 215-H\n               1075 CS Amster\n               The Netherlands\n\n                  Contact:\n                 Jan Jaap Snel\n                 JanJaapSnel@MTP.international\n\n\n\nas Monitoring Trustee in the above-mentioned case.\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of Ali Group and\nWelbilt with the Commitments attached to the Commission's Decision of 17 June 2022\nand to report to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 904,
+      "caracteres_utiles": 640,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

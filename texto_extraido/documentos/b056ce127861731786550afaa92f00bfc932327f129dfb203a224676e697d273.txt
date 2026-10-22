@@ -1,0 +1,860 @@
+[PÁGINA PDF 1]
+    COMMISSION EUROPÉENNE
+     DG Concurrence
+
+
+
+              Cas M.9969 – VEOLIA / SUEZ
+
+
+
+
+         Le texte en langue française est le seul disponible et faisant foi.
+
+
+        RÈGLEMENT (CE) n° 139/2004
+         SUR LES CONCENTRATIONS
+
+
+Décision sur la mise en œuvre des engagements –
+                     Approbation du repreneur
+                                  date: 23/11/2022
+
+[PÁGINA PDF 2]
+               COMMISSION EUROPÉENNE
+
+
+
+                                                    Bruxelles, le 23.11.2022
+                                             C(2022) 8674 final
+                                 VERSION PUBLIQUE
+
+
+
+
+
+                                                Veolia Environnement S.A.
+                                           21 Rue de la Boétie
+                                           75008 Paris
+                                               France
+
+
+Madame, Monsieur,
+
+Objet:    Affaire M.9969 – VEOLIA / SUEZ
+          Décision d’agrément de Séché en qualité de repreneur de l’Activité Cédée
+        EIF suite à votre lettre du 30 septembre 2022 et l’Avis Motivé du
+         Mandataire du 11 octobre 2022
+
+
+1.    FAITS ET PROCÉDURE
+
+(1)    Par la décision du 14 décembre 2021 (la « Décision »), adoptée en application
+      combinée des articles 6, paragraphe 1, point b), et 6, paragraphe 2, du règlement du
+       Conseil (CE) n° 139/2004 du 20 janvier 2004, relatif au contrôle des concentrations
+       entre entreprises1 (le « règlement sur les concentrations ») et de l’article 57 de
+       l’accord EEE, la Commission européenne (la « Commission ») a autorisé Veolia
+      Environnement S.A. (« Veolia » ou la « Partie Notifiante ») à acquérir le contrôle
+       exclusif de Suez S.A. (« Suez ») (ensemble, « les Parties »), sous réserve du respect
+      de conditions et charges annexées à la Décision (les « Engagements »).
+
+
+1      J.O. L 24, p. 1, tel que modifié.
+
+
+Commission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE
+Europese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË
+
+Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.
+
+[PÁGINA PDF 3]
+(2)   Aux termes des Engagements, la Partie Notifiante s’est notamment engagée à céder
+         (i) les activités de Veolia dans le secteur des services mobiles de l’eau dans l’EEE
+        (l’« Activité Cédée SME ») et (ii) une partie des activités de Veolia dans le secteur
+      de la gestion de l’eau industrielle en France (l’« Activité Cédée EIF »), ensemble (les
+      « Activités Cédées Eaux Industrielles »)2. Les Engagements prévoient que l’Activité
+      Cédée SME et l’Activité Cédée EIF pourront être cédées à deux acquéreurs distincts,
+       qui devront alors chacun être approuvés par la Commission selon les critères définis
+      dans les Engagements3. La présente décision a trait à l’approbation d’un acquéreur
+      pour la seule Activité Cédée EIF (l’« Acquéreur »), l’acquisition de l’Activité Cédée
+    SME par Saur ayant par ailleurs été approuvée par la Commission dans sa décision
+      en date du 24 octobre 2022.
+
+(3)    L’Activité Cédée EIF inclut les activités suivantes :
+
+      •    l’ensemble des activités dans le secteur de la gestion de l’eau industrielle de
+              l’unité opérationnelle Eaux Industrielles  (la « BU Eaux Industrielles ») de
+            Veolia  Industries Global  Solutions  (« VIGS »), comprise dans son Pôle
+              Infrastructures et Utilités Industrielles de Veolia. La BU Eaux Industrielles
+            dispose de [données relatives aux zones d’implantations de Veolia] zones
+             d’implantation sur le territoire français et d’un portefeuille de contrats dont la
+              quasi-intégralité concerne la gestion de l’eau industrielle ;
+
+      •    un portefeuille de contrats de gestion de l’eau industrielle de Veolia Eau
+            France (« VEF »)4 ;
+
+      •    l’ensemble des contrats, baux, engagements et commandes de clients au profit
+           de l’Activité Cédée EIF, l’ensemble des fichiers de clients (y compris les
+              fichiers de clients passés, présents, ainsi que les clients démarchés ou futures
+             opportunités identifiées), de crédits et autres ;
+
+      •     le personnel composant l’Activité Cédée EIF, à savoir le personnel dédié à la
+        BU Eaux Industrielles et le personnel dédié (c’est-à-dire affecté à temps plein)
+           aux contrats de VEF inclus dans l’Activité Cédée EIF, qui sera transféré avec
+               la BU Eaux Industrielles et lesdits contrats ;
+
+      •      si l’Acquéreur le souhaite, l’Activité Cédée EIF inclut également :
+
+                   -  du personnel supplémentaire capable de fournir des services de préparation
+               des réponses aux appels d’offres et/ou associés aux contrats de VEF inclus
+               dans l’Activité Cédée EIF, et/ou
+
+                   -  les contrats [données relatives au modèles commercial de Veolia] de VEF
+                générant un chiffre d’affaires annuel supérieur à […] euros5, et/ou
+
+2     Les Activités Cédées Eaux Industrielles concernent des actifs de Veolia avant la concentration.
+3     Engagements relatifs aux Activités Cédées Eaux Industrielles, Section A paragraphe 1 et note de bas de
+      page 1.
+4     Dans l’hypothèse où la cession de certains des contrats de la BU Eaux Industrielles de VIGS ou des
+       contrats de VEF ne serait pas réalisable en pratique, les Engagements prévoient que Veolia fournisse
+       tous les efforts raisonnables pour céder des contrats supplémentaires dès lors que les contrats non cédés
+       représenteraient plus de [5-10] % du chiffre d’affaires des contrats de la BU Eaux Industrielles de VIGS
+        et des contrats de VEF compris dans l’Activité Cédée EIF et ce, afin d’atteindre un montant de chiffre
+       d’affaires annuel transféré égal à 100 % du chiffre d’affaires annuel associé à ces contrats.
+
+                                                    2
+
+[PÁGINA PDF 4]
+                   -  la Business Unit Activités Projets Industriels (« API ») de Veolia Water
+              STI (« Veolia STI »), avec l’ensemble de ses salariés et de ses contrats ;
+
+          • Dans le cas où l’Acquéreur acquerrait la BU API de Veolia, l’Activité Cédée
+           EIF pourra également inclure, à sa demande, chacun des éléments suivants :
+
+                   -  des salariés de la Direction Technique de Veolia Water Technologies
+                (« VWT ») et de la Direction Ingénierie de VWT pour la conception de
+                 solutions technologiques, et/ou
+
+                   -  les documents internes nécessaires à la fabrication de certaines solutions
+                technologiques listées produites par Solys dans l’atelier de Stoke-on-Trent
+              ou actuellement produites par d’autres ateliers de Solys et pouvant être
+                fabriquées sur le site de Stoke-on-Trent, et/ou
+
+                   -  des  contrats  d’approvisionnement  pour  la  distribution  aux  clients
+                  industriels en France pour une durée de [données relatives à la durée des
+                 contrats d’approvisionnement conclus entre Veolia et Séché] à prix coûtant
+               de l’ensemble de ces solutions technologiques mobilisées par la BU API au
+                cours des cinq ans précédant la date d’adoption de la Décision. Dans
+                l’hypothèse où l’Acquéreur reprendrait l’activité de l’atelier de Solys à
+                Stoke-on-Trent, ces contrats seront limités aux solutions technologiques ne
+               pouvant pas être fabriquées sur le site de Stoke-on-Trent, et/ou
+
+                   -  les licences portant sur ces solutions technologiques ne pouvant pas être
+                fabriquées sur le site de Stoke-on-Trent ;
+
+          • À la demande de l’Acquéreur, l’Activité Cédée EIF peut également inclure
+             des accords de services transitoires à prix coûtant pour une durée maximum
+            de […] ans, laquelle pourra être prolongée de […] ans en cas de besoin
+            démontré par l’Acquéreur, sous le contrôle du Mandataire chargé du contrôle,
+             qui pourraient porter sur tout ou partie des services suivants :
+
+                   -  logiciels et systèmes informatiques, permettant l’accès à certains logiciels,
+
+                   -  services techniques, correspondant à des accords de services portant sur les
+                 services  techniques  liés à  l’utilisation des  installations  incluses dans
+                  l’Activité Cédée EIF, ou encore des services techniques de support à la
+                 gestion de crise et la fourniture de services d’expertise et d’assistance
+                technique à la gestion de projet,
+
+                   -  services  administratifs  et de gestion, correspondant à des accords de
+                 services de gestion de la paie, des ressources humaines, de la comptabilité
+                   et de la mise en œuvre des obligations fiscales, des services juridiques, des
+                 services de support à la gestion des sinistres sur le périmètre cédé, des
+                 services de redirection de sites internet, et des services de supports de
+                formation  des  personnels  de  l’Acquéreur  portant  sur  les  aspects
+                 administratifs et de gestion, en lien avec l’Activité Cédée EIF,
+
+
+
+5   À condition que l’Acquéreur dispose des habilitations nécessaires et qu’il obtienne le consentement des
+        clients concernés.
+
+                                                    3
+
+[PÁGINA PDF 5]
+                   -  achats, donnant accès aux contrats d’achat partagés, accords-cadres pour la
+                 fourniture d’équipements, de pièces détachées et pièces de rechange liées
+              aux  solutions  mobiles  incluses  dans  l’Activité Cédée EIF  (portant
+               également sur les solutions technologiques acquises par Veolia auprès de
+                     tiers).
+
+(4)    Par courrier daté du 30 septembre 2022 (la « Proposition Motivée »), la Partie
+       Notifiante a demandé l’agrément de la Commission pour le rachat de l’Activité
+      Cédée EIF  par Séché Environnement  S.A.  (« Séché »),  société  indépendante
+       indirectement contrôlée par des membres de la famille Séché6. Cette demande se
+      fonde sur un Asset Purchase Agreement (« APA »), signé par Veolia et Séché le 23
+      septembre 2022 et au titre duquel Veolia cédera à Séché, après approbation de la
+      Commission, l’Activité Cédée EIF.
+
+(5)   Le 21  octobre 2022, Evelyn  Partners,  le mandataire  chargé du  contrôle  (le
+      « Mandataire ») a soumis un avis motivé sur le caractère approprié de Séché en tant
+      qu’Acquéreur de l’Activité Cédée EIF (l’« Avis Motivé »). Au terme de son analyse,
+        le Mandataire estime que la reprise par Séché de l’Activité Cédée EIF remplit
+       l’ensemble des critères définis au paragraphe 24 des Engagements et est conforme
+      aux conditions et charges annexées à la Décision.
+
+2.    ÉVALUATION DE LA PROPOSITION ET DES DOCUMENTS TRANSACTIONNELS
+
+2.1.1.  Sur les caractéristiques de l’Acquéreur
+
+(6)    Afin d’approuver Séché en tant qu’Acquéreur, la Commission doit vérifier que celui-
+        ci  remplit  les  critères  suivants,  qui  sont  énoncés  au  paragraphe  24  des
+      Engagements7 :
+
+        (a)    à l’issue de la cession, l’Acquéreur doit être indépendant et sans lien avec la
+               Partie Notifiante ni avec les entreprises qui lui sont liées ;
+
+        (b)    l’Acquéreur doit être actif dans le secteur de l’eau ;
+
+        (c)    l’Acquéreur  doit  posséder  les  ressources  financières,  les  compétences
+             confirmées et la motivation nécessaires pour pouvoir préserver et développer
+            de manière viable la capacité de l’activité cédée à concurrencer activement la
+               Partie Notifiante et d’autres concurrents ; et
+
+        (d)     l’acquisition de  l’Activité Cédée EIF  par l’Acquéreur ne  doit  ni  être
+               susceptible, à la lumière des informations dont dispose la Commission, de
+             donner lieu à des problèmes de concurrence à première vue, ni entraîner de
+              risque de retard dans la mise en œuvre des Engagements. En particulier, la
+            Commission doit pouvoir raisonnablement attendre de l’Acquéreur  qu’il
+              obtienne auprès des autorités réglementaires compétentes tous les agréments
+              nécessaires à l’acquisition de l’activité à céder.
+
+
+6     Avis Motivé, paragraphe 3.3.1.
+7     Correspondant aux critères énoncés à la Section 1.5 de la Communication de la Commission concernant
+        les mesures correctives recevables conformément au règlement (CE) n° 139/2004 du Conseil et au
+      règlement (CE) n° 802/2004 de la Commission.
+
+                                                    4
+
+[PÁGINA PDF 6]
+2.1.2.  Sur l’Acquéreur proposé par la Partie Notifiante
+
+(7)    Séché est une société française fondée dans le milieu des années 1980 par M. Joël
+       Séché. Elle emploie aujourd’hui environ 5 000 salariés  et déploie ses  activités
+       principalement en France mais également dans d’autres pays de l’Union européenne,
+      en Afrique et en Amérique latine. En 2021, son chiffre d’affaires total s’est élevé à
+       près de 800 millions d’euros8.
+
+(8)    Séché est historiquement active dans le secteur du traitement des déchets (incluant le
+       traitement physico-chimique, le recyclage, la décontamination, la dépollution des
+        sites ou encore la valorisation énergétique des déchets), principalement des déchets
+       dangereux, qui représente environ deux tiers de son chiffre d’affaires, contre un tiers
+       des revenus émanant de ses activités de traitement des déchets non dangereux. Son
+        portefeuille de clients inclut à la fois des opérateurs industriels et des collectivités
+        locales9.
+
+(9)    Afin de répondre à l’évolution de la demande de ses clients industriels, Séché a plus
+      récemment développé des activités dans le secteur de l’eau et spécifiquement dans la
+       gestion de l’eau  industrielle à travers notamment  la fourniture de services de
+       traitement des effluents en France. Ainsi qu’il sera développé plus bas, l’extension
+       des activités de Séché à la gestion de l’eau industrielle est stratégique afin de lui
+       permettre de répondre à l’ensemble des besoins de ses clients industriels.
+
+2.2.   Indépendance et absence de liens avec la Partie Notifiante
+
+(10)  En conformité avec le paragraphe 24, point a, des Engagements, Séché doit être, à
+        l’issue de la cession, indépendante et sans aucun lien avec la Partie Notifiante, ni
+      avec ses entreprises liées.
+
+(11)   Dans sa Proposition Motivée, la Partie Notifiante indique considérer que Séché est
+       totalement indépendante de Veolia, avec laquelle elle n’a aucun lien significatif, et
+       qu’elle maintiendra cette indépendance au terme de la cession de l’Activité Cédée
+       EIF10. Le Mandataire conclut également que Séché est indépendante de Veolia dans
+      son Avis motivé11. La Commission partage la position de Veolia et du Mandataire.
+
+(12)   Premièrement,  la Commission relève que Séché  et ses actionnaires contrôlants
+      membres de la famille Séché ne détiennent pas de participation dans le capital de
+       Veolia ou l’une de ses filiales. De même, la Partie Notifiante ne détient aucune
+        participation dans le capital de Séché. Par conséquent, aucun administrateur de
+       Veolia ou  ses  filiales ne siège dans  le  conseil  d’administration  (ni  n’est un
+       actionnaire contrôlant) de Séché, et inversement12. L’absence de lien capitalistique et
+       managérial entre Séché d’une part, et la Partie Notifiante d’autre part, est confirmée
+       par l’analyse du Mandataire13.
+
+(13)   Deuxièmement,   il  ressort  des  informations communiquées  par  Veolia  et  le
+      Mandataire que Séché  et Veolia n’entretiennent pas de  partenariat  stratégique
+
+8      Proposition Motivée, paragraphe 9.
+9      Site internet de Séché et Avis Motivé, Section 2.1.
+10     Proposition Motivée, paragraphe 12.
+11    Avis Motivé, Section 4.6.
+12    Avis Motivé, Section 4.6.
+13    Avis Motivé, Sections 4.3.
+
+                                                    5
+
+[PÁGINA PDF 7]
+       suffisamment significatif pour remettre en cause l’indépendance de l’Acquéreur vis-
+        à-vis de la Partie Notifiante. D’abord, Séché et Veolia détiennent respectivement
+     […] % et […]% du capital de la société française La Barre Thomas SA, qui exploite
+      un site de gestion des déchets banals à Rennes dans le cadre d’une délégation de
+       services publics, pour un chiffre d’affaires légèrement inférieur à 5 millions d’euros
+      en 202114. En outre, Séché  et Sarp Industries (appartenant au groupe Veolia)
+       détiennent à [données relatives aux participations de Séché et Veolia] la société
+       française GEREP SA (Groupage pour l’Elimination de Résidus Polluants), jusqu’à
+      récemment active dans l’incinération des déchets dangereux liquides à Mitry-Mory.
+       Cette  dernière  est  toutefois en  cours de  liquidation  et a  cessé  ses  activités
+       opérationnelles le 1er septembre 202115. En 2021, le GEREP avait réalisé un chiffre
+        d’affaires de […] d’euros16. Au global, les entreprises communes à Veolia et Séché
+       ont donc représenté moins de […] % du chiffre d’affaires total de Séché en 2021 (et
+      une  part  bien  plus  inférieure du  chiffre  d’affaires de  Veolia). L’absence de
+        partenariat  significatif  entre  Veolia  et Séché  est confirmée  par  l’analyse du
+       Mandataire17.
+
+(14)   Troisièmement, la Commission relève que Séché et Veolia entretiennent un certain
+      nombre de relations commerciales dans le cadre de leurs diverses activités touchant
+      au traitement des déchets dangereux et banals. Ces relations commerciales prennent
+       par exemple la forme de [données relatives aux relations commerciales entre Séché
+        et Veolia]. Sur la base des informations communiquées par Veolia et le Mandataire,
+        la Commission considère toutefois que ces relations commerciales ne sont pas de
+       nature à remettre en cause l’indépendance de Séché vis-à-vis de Veolia. Cette
+       position est partagée par le Mandataire18.
+
+(15)  La Commission relève que de  telles  relations commerciales entre concurrents
+        reflètent en effet une pratique courante dans le secteur du traitement des déchets,
+      dans la mesure où Veolia et Séché vendent régulièrement, comme de nombreux
+       acteurs du marché, des équipements et services à leurs concurrents. En outre, ces
+        relations contractuelles sont menées, ainsi que le confirme le Mandataire19, selon les
+       conditions normales de marché. En tout état de cause, les relations commerciales
+       entre Séché et Veolia sont d’ampleur limitée, puisqu’elles ont représenté largement
+      moins de […] % de la valeur des ventes de Séché en 2021 (et une part encore
+       significativement inférieure du chiffre d’affaires de Veolia en France)20.
+
+(16)   Sur la base de ce qui précède et des informations communiquées, la Commission
+       considère que Séché est indépendante de la Partie Notifiante et ne présente pas de
+        lien avec la Partie Notifiante ou avec ses entreprises liées qui soit de nature à
+       remettre en cause cette indépendance à l’issue de la cession.
+
+
+
+
+
+14     Proposition Motivée, paragraphe 13.
+15    Le site de GEREP à Mitry-Mory sera par ailleurs cédé à un tiers au cours du premier semestre de
+       l’année 2023.
+16     Proposition Motivée, paragraphe 13.
+17    Avis Motivé, Section 3.6.
+18    Avis Motivé, Section 4.6.
+19    Avis Motivé, Section 4.5.
+20    Avis Motivé, Section 4.5.
+
+                                                    6
+
+[PÁGINA PDF 8]
+2.3.    Activités de l’Acquéreur dans le secteur de l’eau
+
+(17)  En conformité avec le paragraphe 24, point b, des Engagements, Séché doit être actif
+      dans le secteur de l’eau.
+
+(18)   Ainsi qu’expliqué plus en détail dans la section 2.4.2 ci-dessous, Séché a développé,
+      en lien avec son expérience significative dans le traitement des déchets, des activités
+      dans le secteur de l’eau industrielle en France. La Commission relève que les
+        activités actuelles de Séché recouvrent la quasi-totalité de la chaîne de valeur du
+       secteur de  la gestion de  l'eau  industrielle, en ce  qu’elles comprennent  (i)  la
+       conception, ingénierie et construction (« EPC ») de systèmes de traitement des eaux,
+          (ii)  l’exploitation  et  la  maintenance  des  systèmes  de  production  des  eaux
+        industrielles (eaux de procédé ou de process) et de traitement des effluents, (iii) des
+       services annexes de traitement des eaux de process et (iv) des solutions mobiles pour
+        le traitement des eaux usées21.
+
+(19)   Bien que  les  activités de Séché en  lien avec  le secteur de l’eau  industrielle
+       représentent une part limitée de son chiffre d’affaires, soit un peu plus de […] % en
+       2021, la Commission considère que Séché dispose d’une expérience suffisante dans
+       ce  secteur  pour  répondre  au  critère  établi  au  paragraphe  24,  point  b,  des
+      Engagements. Séché propose des activités d’EPC et de gestion de l’eau industrielle à
+       des opérateurs importants et actifs dans des secteurs demandant un savoir-faire
+       technique élevé tels [données relatives aux clients de Séché]. L’expertise de Séché
+      en matière d’eau  industrielle  résulte largement de  ses connaissances dans  le
+       traitement des déchets industriels dangereux. Le processus de traitement des eaux
+       génère en effet souvent des déchets dangereux (boues) qui doivent être transportés et
+         traités. [Données relatives à la stratégie commerciale de Séché].
+
+(20)  En outre, ainsi que souligné par le Mandataire, les activités de gestion de l’eau
+        industrielle constituent un axe de développement stratégique pour Séché, comme
+         l’illustre à cet égard la croissance interne importante de cette activité chez Séché au
+       cours des dernières années22. La volonté d’acquérir l’Activité Cédée EIF confirme la
+       volonté de Séché de renforcer très significativement et rapidement sa position et son
+        savoir-faire dans le secteur de l’eau industrielle.
+
+(21)   Sur la base de ce qui précède et des informations communiquées par la Partie
+       Notifiante et le Mandataire, la Commission considère que Séché dispose d’une
+       expérience suffisante dans le secteur de l’eau.
+
+2.4.   Ressources financières, compétences confirmées et motivation nécessaires pour
+      préserver et développer l’Activité Cédée EIF
+
+(22)  En conformité avec le paragraphe 24, point c, des Engagements, Séché doit posséder
+        les ressources financières, les compétences confirmées et la motivation nécessaires
+      pour pouvoir préserver et développer de manière viable la capacité de l'Activité
+      Cédée EIF à concurrencer activement la Partie Notifiante et les autres concurrents.
+
+
+
+
+21    Avis Motivé, Section 2.1.
+22    Avis Motivé, Section 5.3.
+
+                                                    7
+
+[PÁGINA PDF 9]
+2.4.1.  Ressources financières
+
+(23)   Selon la Partie Notifiante, Séché dispose des ressources financières idoines pour
+       reprendre et développer l’Activité Cédée EIF et la maintenir comme un concurrent
+       indépendant de Veolia et viable sur le long terme23.
+
+(24)   Dans son Avis Motivé, le Mandataire fournit une évaluation de la solidité financière
+      de Séché, incluant une analyse des principaux ratios financiers et la capacité de cette
+       dernière à financer l’acquisition de l’Activité Cédée EIF et à investir dans ces actifs
+       à l’avenir24. Il conclut que Séché dispose des ressources financières adéquates pour
+       maintenir et développer l’Activité Cédée EIF à l’issue de son acquisition25.
+
+(25)   Sur la base de cette analyse et des informations fournies par la Partie Notifiante, la
+      Commission relève que Séché a réalisé un chiffre d’affaires de près de 800 millions
+       d’euros en 2021. La bonne santé économique de Séché  est démontrée par  la
+       croissance de ses marges opérationnelles et de son résultat net, ce dernier ayant
+      doublé entre 2020 et 202126. Séché anticipe également une croissance significative
+      de son chiffre d’affaires dans les années à venir, portée en partie par ses activités
+        internationales27. À plus long terme, l’agence de notation financière S&P note que
+        les activités de Séché bénéficient d’un contexte règlementaire français et européen
+       favorable en raison des normes environnementales de plus en plus strictes28, ce qui
+        accroit structurellement la demande des clients industriels en solutions de traitement
+       des eaux et des déchets.
+
+(26)   Séché bénéficie en outre d’une trésorerie conséquente lui permettant de financer, si
+        elle le souhaite, l’acquisition de l’Activité Cédée EIF, d’une valeur d’environ […]
+       d’euros, entièrement en numéraire, sans recours à un financement externe29. Enfin,
+      malgré une légère augmentation entre 2021 et 2022, la Commission note que la dette
+      de Séché ne  suscite pas l’inquiétude des agences de notation financière pour
+       l’ensemble des raisons évoquées ci-dessus.
+
+(27)   Sur la base de ce qui précède et des informations communiquées par la Partie
+       Notifiante et le Mandataire, la Commission conclut que Séché dispose des ressources
+       financières requises pour préserver et développer de manière viable l’Activité Cédée
+       EIF.
+
+2.4.2. Compétences confirmées nécessaires pour préserver et développer de manière viable
+        l'Activité Cédée EIF
+
+(28)    Il ressort des informations fournies par la Partie Notifiante et confirmées par le
+       Mandataire30 que Séché dispose des compétences confirmées et nécessaires pour
+       exploiter et développer l’Activité Cédée EIF de manière à maintenir et développer sa
+
+
+
+23     Proposition Motivée, paragraphe 18.
+24    Avis Motivé, Section 5.2.
+25    Avis Motivé, Section 5.2.
+26     Proposition Motivée, paragraphe 20.
+27    Avis Motivé, Section 5.2.
+28    Avis Motivé, Section 5.2.
+29    Avis Motivé, Section 5.2.
+30    Avis Motivé, Section 5.4.
+
+                                                    8
+
+[PÁGINA PDF 10]
+       capacité concurrentielle sur le marché de la gestion de l’eau industrielle en France31.
+      Ces compétences résultent à la fois des connaissances opérationnelles et techniques
+      de Séché dans les secteurs du traitement de l’eau et de la gestion des déchets, ainsi
+      que de son expérience en matière d’acquisition et d’intégration d’actifs au sein de
+      son périmètre d’activités.
+
+(29)   Ainsi que la Commission l’a relevé à plusieurs reprises dans la Décision, Séché est
+       l’un des principaux acteurs de la gestion des déchets dangereux en France et dispose
+      en outre d’implantations dans d’autres États membres. Dans le cadre de ses activités
+      de recyclage, valorisation et traitement des déchets, Séché propose une large gamme
+      de technologies32 pour gérer les déchets dangereux produits par tous les secteurs
+        industriels.
+
+(30)  Ce savoir-faire en génie chimique a d’ores et déjà conduit Séché à développer des
+        activités liées à la gestion de l’eau industrielle en France au cours des dernières
+       années. Elle a ainsi élargi son portefeuille d’offres de services pour y inclure des
+       prestations de gestion de l’eau industrielle auprès de ses clients, actifs notamment
+      dans le secteur de la chimie, afin de leur proposer une offre intégrée. En augmentant
+       sa position concurrentielle sur le marché de la gestion de l’eau industrielle en France
+       via l’acquisition de l’Activité Cédée EIF, Séché renforcera sa capacité à proposer
+      une gamme complète de services.
+
+(31)  Le développement des activités eau de Séché s’explique par le fait qu’il existe une
+       certaine continuité entre le processus de traitement des eaux et le traitement des
+       déchets dangereux. Comme relevé par la Commission dans la Décision, le fait d’être
+      un opérateur verticalement intégré sur les marchés de la gestion de l’eau industrielle
+        et de la valorisation des boues peut constituer un facteur favorable, dans la mesure
+      où un opérateur actif dans la valorisation des boues peut installer des plateformes de
+        valorisation à proximité d’une ou de plusieurs stations d’épuration gérées par ses
+       unités dédiées à la gestion de l’eau lorsque cela est économiquement avantageux33.
+
+(32)  En outre, la Commission relève que l’expertise actuelle de Séché en matière de
+       gestion de l’eau industrielle, largement renforcée par l’Activité Cédée EIF,  lui
+       permettra également de répondre à des demandes portant exclusivement sur des
+       prestations de gestion de l’eau industrielle, tant pour l’eau de process que pour les
+        effluents (eaux usées), en fonction des besoins exprimés par ses clients actuels et
+        futurs.
+
+(33)   Enfin, Veolia  et Séché  envisagent, comme  le  prévoient  les Engagements,  la
+       conclusion d’un certain nombre d’accords de services transitoires34. Ces accords
+
+31    Dans la Décision, la Commission a considéré qu’il existait un marché de la gestion de l’eau industrielle,
+      ce dernier pouvant être segmenté entre (i) l’exploitation et la maintenance de systèmes de traitement
+      des eaux industrielles (eaux de process)  et  (ii) l’exploitation  et  la maintenance de systèmes de
+       traitement des effluents industriels. Ces marchés sont dimension nationale (voir Décision, paragraphe
+       265). Pour les besoins de la présente décision, la notion de marché de la gestion de l’eau industrielle
+        inclut, sauf éventuelle mention contraire, les deux segments énoncés ci-dessus.
+32     Tels que pour  le  recyclage de  solvants  et de  produits chimiques,  la  valorisation  énergétique,
+        l’incinération, la mise en décharge.
+33     Décision, paragraphe 1162.
+34    Le périmètre exact de ces accords transitoires n’est pas définitivement déterminé au moment de la
+       rédaction de  la présente décision. Le Mandataire indique que ces accords devraient notamment
+      concerner des systèmes informatiques, services  financiers  et ressources humaines ou encore de
+      communication (Avis Motivé, Section 6.4.).
+
+                                                    9
+
+[PÁGINA PDF 11]
+        participeront d’un transfert de savoir-faire et de soutien logistique et administratif
+       provisoires de  nature à  permettre à Séché de  réunir  toutes  les compétences
+       nécessaires à l’exploitation et au développement de l’Activité Cédée EIF.
+
+(34)    Il convient de relever que Séché a décidé de ne pas acquérir la BU API, comme les
+      Engagements lui en laissent la possibilité. Séché explique qu’elle dispose d’ores et
+       déjà des actifs nécessaires à la conception des solutions liée à la gestion de l’eau
+        industrielle, dotés du personnel spécialisé et dédié, et dont le périmètre pourra être
+       adapté en fonction des besoins35. À cet égard, la Commission relève que les activités
+       préalables de Séché dans la gestion de l’eau industrielle l’ont conduit à développer
+      un  savoir-faire  et à  se  doter d’un personnel compétent en matière  solutions
+       technologiques, de nature à expliquer le choix de Séché de ne pas inclure la BU API
+      dans le périmètre des actifs repris. En outre, dans la mesure où l’acquisition de la BU
+     API  constitue,  aux  termes  des  Engagements,  une  option  laissée  à  la  libre
+       appréciation de l’Acquéreur en fonction des nécessités, la Commission considère que
+        cette circonstance n’est pas de nature à remettre en cause les compétences de Séché
+      pour préserver et développer de manière viable l'Activité Cédée EIF.
+
+(35)   Par ailleurs, la Commission relève, comme le Mandataire36, que Séché dispose d’une
+       expérience en matière de croissance externe, puisqu’elle a procédé avec succès à de
+      nombreuses  acquisitions  d’entreprises  au  cours  des  dernières  années.  C’est
+      notamment le cas en France, avec l’acquisition auprès de Veolia de la société OSIS
+      IDF en 202137. Cette acquisition présentait un certain nombre de similarités avec
+        l’acquisition de l’Activité Cédée EIF, dans la mesure où elle concerne le même
+      vendeur (Veolia), pour des activités industrielles situées en France et impliquant le
+        transfert d’un nombre important de contrats, en collaboration étroite avec Veolia. La
+      Commission  considère  que  cette  acquisition  constitue  un  précédent  récent
+      démontrant la capacité de Séché à intégrer des actifs externes à son groupe.
+
+(36)   Sur la base de ce qui précède et des informations fournies par la Partie Notifiante et
+        le  Mandataire,  la Commission  conclut  que  Séché  dispose  des  compétences
+       confirmées et nécessaires pour préserver et développer de manière viable l’Activité
+      Cédée EIF.
+
+2.4.3.  Motivation nécessaire pour préserver et développer de manière viable l'Activité
+      Cédée EIF
+
+(37)  La Commission considère que Séché dispose de la motivation nécessaire pour
+       préserver et développer de manière viable l’Activité Cédée EIF et concurrencer
+       activement la Partie Notifiante et ses concurrents sur le marché de la gestion de l’eau
+        industrielle en France.
+
+(38)  Comme  le  Mandataire38,  la Commission  relève,  sur  la base notamment  des
+       informations communiquées par la Partie Notifiante, que l’Activité Cédée EIF est
+
+35    Avis Motivé, Section 5.2.
+36    Avis Motivé, Section 5.4.
+37     Cette acquisition a été réalisée dans le cadre de l’engagement de cession proposé par Veolia à l’autorité
+       française de concurrence  lors de l’examen par  cette dernière, au  titre du contrôle français des
+       concentrations, de l’acquisition par SARP (filiale de Veolia) de Suez RV OSIS (voir la décision de
+       l’Autorité de la concurrence 21-DCC-71 du 28 avril 2021 relative à la prise de contrôle exclusif de
+      Suez RV Osis par la Société d’Assainissement Rationnel et de Pompage).
+38    Avis Motivé, Sections 5.5. et 5.6.
+
+                                                    10
+
+[PÁGINA PDF 12]
+       fortement complémentaire avec les actifs actuels de Séché déjà exploités sur le
+      marché. Cette complémentarité est de plusieurs ordres.
+
+(39)   Premièrement, l’Activité Cédée EIF présente une complémentarité commerciale
+      avec les actifs de Séché. Au cours des dernières années, Séché a développé, en lien
+      avec ses activités historiques dans le traitement des déchets, une offre de services
+        liés à la gestion de l’eau industrielle lui permettant de proposer une solution globale
+       eau-déchets dans un contexte de demande croissante pour ce type de prestations
+        intégrées. L’acquisition de l’Activité Cédée EIF, en lui permettant de renforcer très
+       significativement son expertise et sa position sur le marché de la gestion de l’eau
+        industrielle, s’inscrit dans la stratégie de croissance de Séché et constitue ainsi pour
+       ce  dernier  une  opportunité  de  développement  commercial  importante.  Cette
+       complémentarité commerciale se manifestera en outre par l’élargissement de la
+       typologie de clients de Séché, puisque l’Activité Cédée EIF inclut des opérateurs
+        industriels présents dans des secteurs d’activité où Séché est aujourd’hui moins
+       présente ([données relatives aux secteurs d’activité des clients de Séché])39.
+
+(40)   Deuxièmement, l’Activité Cédée EIF présente une complémentarité territoriale avec
+        les zones  d’activités  privilégiées par Séché en France.  L’Activité Cédée EIF
+      comprend des contrats de gestion de l’eau industrielle répartis dans des régions du
+        territoire français où Séché est actuellement peu ou pas présente. L’acquisition de
+        l’Activité Cédée EIF permettra donc à Séché de renforcer significativement son
+       empreinte géographique nationale, lui offrant en outre la possibilité de profiter de
+        certaines synergies opérationnelles entre des sites situés à proximité les uns des
+        autres.
+
+(41)   Troisièmement, [données sur  le positionnement commercial  et concurrentiel de
+      Séché sur le marché de la gestion de l’eau industrielle]. L’Activité Cédée EIF
+      comprend en effet de nombreux contrats portant sur l’exploitation et la maintenance
+      de systèmes de traitement des eaux industrielles (eaux de process) ou encore des
+       contrats portant sur une gestion complète du cycle de l’eau. Dès lors, l’acquisition de
+        l’Activité Cédée EIF présente une forte complémentarité technique avec les actifs de
+      Séché et permettra à cette dernière de disposer d’une connaissance technique et
+       opérationnelle renforcée sur l’ensemble de la chaîne de valeur de la gestion de l’eau
+        industrielle.
+
+(42)  En outre, il ressort de l’Avis motivé du Mandataire que Séché compte procéder aux
+       investissements et mettre en place les structures juridiques et opérationnelles internes
+       qu’elle estime nécessaires à la bonne exploitation et au développement de l’Activité
+      Cédée EIF dès lors que son transfert sera effectif40. Cette organisation nouvelle
+      témoigne de la volonté de Séché d’intégrer en son sein l’Activité Cédée EIF de la
+      manière la plus efficace possible.
+
+(43)   Dans ce contexte, Séché nourrit des ambitions de développement importantes pour
+        l’Activité Cédée EIF dans les années à venir41. La Commission considère que cette
+       projection est, compte tenu des éléments qui précèdent, crédible. Outre le savoir-
+        faire préexistant de Séché sur le marché de la gestion de l’eau industrielle, l’Activité
+      Cédée EIF acquise présente les complémentarités énoncées ci-dessus et comprend le
+
+39     Proposition Motivée, paragraphe 30.
+40    Avis Motivé, Section 5.5 et Section 7.2.
+41     Proposition Motivée, paragraphe 30 ; Avis Motivé, Section 7.2.
+
+                                                    11
+
+[PÁGINA PDF 13]
+       personnel travaillant de manière continue sur les contrats concernés et disposant de
+        l’expertise technique nécessaire et de la relation avec les clients transférés. La
+       conclusion d’accords de services transitoires démontre également la volonté de
+      Séché d’opérer le transfert d’actifs de la manière la plus fluide et efficace possible.
+
+(44)   Sur la base de ce qui précède et des informations communiquées par la Partie
+       Notifiante  et  le Mandataire,  la Commission conclut que Séché dispose de  la
+       motivation nécessaire pour préserver et développer de manière viable l’Activité
+      Cédée EIF et, partant, concurrencer activement la Partie Notifiante et ses concurrents
+       sur le marché de la gestion de l’eau industrielle en France.
+
+2.4.4.  Conclusion
+
+(45)  La Commission  conclut  que  Séché  dispose  des  ressources  financières,  des
+      compétences adéquates confirmées et de la motivation nécessaire pour préserver et
+       développer de manière viable la capacité concurrentielle de l’Activité Cédée EIF vis-
+        à-vis de la Partie Notifiante et des autres concurrents sur le marché de la gestion de
+       l’eau industrielle en France.
+
+2.5.   Absence à première vue de risques de problèmes de concurrence nouveaux ou
+       d’autres risques de nature à retarder la mise en œuvre des Engagements
+
+(46)  En conformité avec le paragraphe 24, point d, des Engagements, la reprise de
+        l’Activité Cédée EIF par l’Acquéreur ne peut ni être susceptible de donner lieu, à
+       première vue, à des problèmes de concurrence, ni entraîner des risques de retard dans
+        la mise en œuvre des Engagements. En particulier, l’Acquéreur doit être en mesure
+       d’obtenir  auprès des  autorités  réglementaires compétentes  tous  les agréments
+       nécessaires à l’acquisition de l’Activité Cédée EIF.
+
+2.5.1.   Absence à première vue de risques de problèmes de concurrence
+
+(47)    Il résulte des informations fournies par la Partie Notifiante42 que la Commission
+       considère que l’acquisition de l’Activité Cédée EIF par Séché n’est pas susceptible
+      de soulever, prima facie, des problèmes de concurrence sur le marché de la gestion
+      de l’eau industrielle et les marchés plus fins (i) de l’exploitation et la maintenance de
+       systèmes de traitement des eaux industrielles (eaux de process) et (ii) l’exploitation
+        et la maintenance de systèmes de traitement des effluents industriels.
+
+(48)   Bien que déjà présente sur le marché de la gestion de l’eau industrielle en France,
+      Séché dispose, ainsi que relevé par la Commission dans la Décision, d’une part de
+      marché très significativement inférieure à celle de Veolia ou de l’Activité Cédée
+       EIF. Cette part de marché est effet inférieure à 5 % tant sur le marché de la gestion
+      de l’eau industrielle pris globalement que sur les marchés plus fins de l’exploitation
+        et la maintenance de systèmes de traitement des eaux industrielles (eaux de process)
+        et des effluents industriels en France43. Dès lors, si la part de marché cumulée de
+      Séché sur le marché de la gestion de l’eau industrielle en France à l’issue de
+        l’acquisition sera autour ou légèrement supérieure à [30-40] %, l’incrément résultant
+      de la mise en commun des activités pertinentes actuelles de Séché et de l’Activité
+      Cédée EIF restera modéré. Au final, cette acquisition permet le maintien d’une force
+
+
+42     Proposition Motivée, paragraphes 31 à 34.
+43     Décision, Tableaux 8 à 10.
+
+                                                    12
+
+[PÁGINA PDF 14]
+       concurrentielle importante face à Veolia sur ces marchés. En outre, Séché fera face à
+        la concurrence d’autres opérateurs sur le marché de la gestion de l’eau industrielle en
+       France, tels que Saur, Nalco ou BWT44.
+
+(49)  En outre, la Commission considère que l’acquisition de l’Activité Cédée EIF n’est
+       pas de nature à créer, prima facie, des risques de problèmes de concurrence de nature
+        verticale entre le marché de l’enfouissement des déchets banals (valorisation des
+      boues - marché aval) et le marché de l’exploitation et la maintenance de systèmes de
+       traitement des effluents  industriels (marché amont), sur lequel Séché verra sa
+       position concurrentielle renforcée. La part de marché de Séché sur le marché aval
+      demeurera en effet limitée en comparaison de celle de Veolia et de Nouveau Suez45.
+     En outre, ainsi que l’a relevé la Commission dans la Décision, la possibilité de
+       proposer une offre incluant la valorisation des boues et la gestion des eaux usées ne
+       conduit pas à une capacité de verrouillage dans la mesure où ces deux prestations
+       peuvent être dissociées par le client, la destination des boues d’épuration dépendant
+       des décisions du client sur le marché de la gestion de l’eau industrielle, et non pas du
+        prestataire46.
+
+(50)   Enfin, la Commission relève que, compte tenu des chiffres d’affaires de Séché et de
+        l’Activité Cédée EIF en France, l’acquisition a été notifiée auprès de l’autorité
+       française de concurrence. Celle-ci a autorisé, sans engagement, l’acquisition de
+        l’Activité Cédée EIF par Séché le 14 novembre 202247, excluant au terme de son
+       analyse tout risque d’atteinte à la concurrence par le biais d’effets horizontaux,
+       verticaux ou congloméraux, ce qui confirme l’absence de problème de concurrence
+        résultant de cette opération sur les marchés concernés.
+
+(51)   Sur la base de ce qui précède et des informations communiquées par la Partie
+       Notifiante et le Mandataire, la Commission considère que l’acquisition de l’Activité
+      Cédée EIF ne soulève pas à première vue de risques de problèmes de concurrence.
+
+2.5.2.   Autres risques de nature à retarder la mise en œuvre des Engagements
+
+(52)   Ni la Partie Notifiante48 ni le Mandataire49 n’ont identifié de risque de nature à
+        retarder  la mise en œuvre des Engagements, notamment en ce qui concerne
+       d’éventuelles autorisations administratives ou certifications techniques. À cet égard,
+
+
+
+44     Décision de la Commission du 14 décembre 2021, M.9969 – Veolia/Suez, paragraphe 267.
+45    Le 22 octobre 2021, Veolia, Suez et un consortium ont signé un Share and Asset Purchase Agreement
+       (« SAPA ») en vertu duquel la Partie Notifiante a proposé de céder au consortium, sous condition de
+       l’approbation de la Commission, les activités de Suez dédiées à la gestion de l’eau municipale et à la
+       gestion des déchets banals et réglementés en France. Ensemble, ces activités forment le Nouveau Suez,
+      ce dernier étant acquis par le consortium. Les actionnaires du consortium sont Meridiam SAS (avec une
+       participation d’environ 40 %), Global Infrastructure Partners LLC (avec une participation d’environ
+      40 %), la Caisse des Dépôts et Consignations (avec une participation d’environ 12 %) et sa filiale CNP
+      Assurances (avec une participation d’environ 8 %). Par décisions en date des 19 janvier et 14 septembre
+      2022, la Commission a autorisé Nouveau Suez à acquérir l’Activité Cédée DBR France, qui inclut les
+        actifs de Suez en matière d’enfouissement des déchets banals.
+46     Décision, paragraphe 1169.
+47     Décision de l’Autorité de la concurrence n° 22-DCC-216 du 14 novembre 2022 relative à la prise de
+       contrôle exclusif d’actifs détenus par Veolia par la société Séché Environnement.
+48     Proposition Motivée, paragraphe 35.
+49    Avis Motivé, Section 5.6.
+
+                                                    13
+
+[PÁGINA PDF 15]
+      Séché a indiqué au Mandataire d’ores et déjà disposer des agréments nécessaires à
+        l’exploitation de l’Activité Cédée EIF50.
+
+(53)  Comme indiqué au paragraphe  (50) de  la  présente  décision,  l’acquisition de
+        l’Activité Cédée EIF était subordonnée, au titre du contrôle des concentration en
+       France, à  l’autorisation de  l’autorité  française de concurrence. Cette  décision
+       d’autorisation a été adoptée le 14 novembre 2022 et ne constitue donc pas un risque
+      de nature à retarder la mise en œuvre des Engagements.
+
+2.5.3.   Conclusion
+
+(54)   Sur la base des éléments qui précèdent et de l’Avis Motivé, la Commission conclut
+      que  la  reprise de l’Activité Cédée EIF par Séché  n’est, à première vue, pas
+       susceptible de donner lieu à des problèmes de concurrence, ni d’entraîner de risques
+      de retard dans la mise en œuvre des Engagements.
+
+2.6.   Conclusion sur les critères à remplir par l’Acquéreur
+
+(55)   Sur la base des informations fournies par la Partie Notifiante dans la Proposition
+       Motivée, de l’Avis Motivé et des considérations qui précédent, la Commission
+       conclut que Séché remplit les critères exigés de l’Acquéreur de l’Activité Cédée EIF
+      au paragraphe 24 des Engagements.
+
+2.7.   Analyse de la conformité des documents transactionnels aux Engagements
+
+(56)  Le Mandataire considère dans son Avis Motivé que les documents transactionnels
+       sont conformes aux Engagements51.  Il considère en particulier que les termes de
+      l’APA respectent les Engagements. Sur la base des informations dont elle dispose, la
+      Commission n’a relevé aucun élément de nature à remettre en cause l’analyse du
+      Mandataire sur ce point.
+
+(57)  Le Mandataire souligne que les accords de services transitoires doivent encore être
+       discutés par Séché et Veolia avant la réalisation de l’opération. À cet égard,  il
+       indique que le périmètre de ces accords transitoires, s’il n’est pas encore déterminé
+      de manière définitive, est négocié sur la base des articles 6.9 et 6.10 de l’APA qui
+        reflètent les Engagements et sera conclu à la réalisation de l’opération52. Les projets
+       d’accords  transitoires communiqués  concernent  des  services  couverts  par  les
+      Engagements, notamment en  ce  qui concerne  les  services  informatiques,  les
+       ressources humaines, les services financiers, opérationnels ou d’achats. Dès lors, la
+      Commission considère, sur la base des informations communiquées par la Partie
+       Notifiante et le Mandataire, que ces accords encore en cours de négociation ne
+       remettront  pas  en  cause  la  conformité  des  documents  transactionnels  aux
+      Engagements.
+
+(58)  En outre, il ressort de l’Avis Motivé que la liste des employés de Veolia transférés à
+      Séché dans le cadre des Engagements n’est pas complètement stabilisée au moment
+      de l’adoption de la présente décision, en raison notamment de la démission récente
+      d’un  certain nombre  d’entre  eux53. Afin de  prévenir  le  risque d’un nombre
+
+50    Avis Motivé, Section 5.6.
+51    Avis Motivé, Section 6.6.
+52    Avis Motivé, Section 6.4.
+53    Avis Motivé, Section 6.5.
+
+                                                    14
+
+[PÁGINA PDF 16]
+       éventuellement insuffisant d’employés transférés à Séché pour assurer la continuité
+      de certains contrats inclus dans l’Activité Cédée EIF, Veolia et Séché sont convenus
+      que Veolia réaffecterait des employés supplémentaires de son groupe au sein de
+        l'Activité Cédée EIF et embaucherait des employés supplémentaires, dans le but
+       d'augmenter le nombre d'employés automatiquement transférés à Séché de plein
+        droit. Dans le cas où, à la clôture de la cession, le nombre de salariés transférés
+       demeurerait encore insuffisant, Veolia fournira également des services transitoires
+       supplémentaires à Séché visant à assurer que cette dernière soit en mesure de
+       poursuivre l'exécution des contrats transférés concernés, pour une période maximale
+      de […] mois permettant la formation des nouveaux employés54. Dans ce contexte, le
+      Mandataire a indiqué suivre attentivement les discussions entre Veolia et Séché afin
+      de garantir que Séché dispose de l’ensemble des besoins opérationnels nécessaires au
+        transfert des  actifs. Dans ce cadre, la Commission considère que les garanties
+       fournies par Veolia en ce qui concerne le transfert de personnels sont conformes aux
+      Engagements.
+
+(59)   Sur  la  base de  ce  qui  précède,  la Commission  conclut que  les documents
+       transactionnels sont bien conformes aux Engagements.
+
+3.    CONCLUSION
+
+(60)   Sur la base de l’évaluation qui précède, la Commission donne son agrément à Séché
+      en tant qu’Acquéreur de l’Activité Cédée EIF.
+
+(61)  De plus, sur la base des documents transactionnels soumis, la Commission conclut
+      que l’Activité Cédée EIF est transférée en conformité avec les Engagements.
+
+(62)   Cette décision constitue uniquement l’agrément par la Commission de l’Acquéreur
+       proposé par la Partie Notifiante et des documents transactionnels, tels qu’identifiés
+      au paragraphe (4) de la présente décision. La présente décision ne constitue pas une
+       confirmation que la Partie Notifiante a exécuté ses Engagements.
+
+(63)  La  présente  décision  est  basée  sur  le  paragraphe 24  des Engagements,  tels
+      qu’annexés à la Décision.
+
+                                           Pour la Commission
+
+
+                                                    (Signé)
+                                                     Olivier GUERSENT
+                                                 Directeur général
+
+
+
+
+
+54    Avec une période supplémentaire maximale de […] mois pour les missions d'astreinte ou de traitement
+      des urgences techniques si Séché en a démontré le besoin Avis Motivé, Section 6.5.
+
+                                                    15

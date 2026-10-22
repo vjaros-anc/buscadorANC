@@ -1,0 +1,95 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "f9b283e5cbfef9123bf0532b404e69ebf9b1404bd15cf12293279d18e5265ea4",
+  "extraido_utc": "2026-10-22T19:36:45+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10806_DICT_03",
+      "caso": "M.10806",
+      "universo": "principal",
+      "titulo": "Dictamen del Comité Consultivo — BROADCOM / VMWARE",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202520/M_10806_10624492_6540_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202520/M_10806_10624492_6540_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10806/M.10806_DICT_03_f9b283e5cbfe.pdf",
+      "sha256": "f9b283e5cbfef9123bf0532b404e69ebf9b1404bd15cf12293279d18e5265ea4",
+      "coincide_inventario": "",
+      "bytes": "197758",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202520/M_10806_10624492_6540_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "               EUROPEAN COMMISSION\n                        DIRECTORATE-GENERAL FOR COMPETITION\n\n\n\n                   OPINION\n\n                   of the ADVISORY COMMITTEE on MERGERS\n                            at its meeting on 30/06/2023\n\n                         concerning a draft decision\n\n                   in case M.10806 – BROADCOM / VMWARE\n\n                          (Text with EEA relevance)\n\n\n                        RAPPORTEUR: FINLAND\n\n\nConcentration\n\n1.  The Advisory Committee (10 Member States) agrees with the Commission that the\n     notified transaction constitutes a concentration within the meaning of Article 3(1)(b) of\n    the Council Regulation (EC) No 139/2004 of 20.1.2004 on the control of concentrations\n    between undertakings (the \"Merger Regulation\")1.\n\n\n\nMarket definition\n\nProduct market definition\n\n2.  The Advisory Committee (10 Member States) agrees with the conclusions reached by\n    the Commission in the draft Decision in relation to the definition of the following\n    relevant product markets for:\n\n     a) IT Asset Management & Software Asset Management (“ITAM & SAM”);\n\n    b) IT Automation and Configuration Management software (“ITACM”);\n\n     c) Datacenter System and Application Control software (“DSAC”);\n\n    d) Network software;\n\n     e) Server virtualization software;\n\n     f) The supply of Fibre Channel Host-Bus Adapters (“FC HBAs”);\n\n    g) The supply of storage adapters;\n\n    h) The supply of Network Interface Cards (“NICs”).\n\n\n\n\n1      OJ L 24, 29.1.2004, p. 1.",
+      "caracteres": 1522,
+      "caracteres_utiles": 977,
+      "cobertura_imagen_maxima": 0.0115,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "AdCom M.10806 – BROADCOM / VMWARE                                                                      2\nGeographic market definition\n\n3.  The Advisory Committee (10 Member States) agrees with the conclusions reached by\n    the Commission in the draft Decision in relation to the definition of the relevant\n    geographic market for the following product markets for:\n\n     a) ITAM&SAM (i.e. at least EEA-wide, if not worldwide);\n\n    b) ITACM (i.e. at least EEA-wide, if not worldwide);\n\n     c) DSAC (i.e. at least EEA-wide, if not worldwide);\n\n    d) Network software (i.e. at least EEA-wide, if not worldwide);\n\n     e) The supply of server virtualization software (i.e. worldwide);\n\n     f) The supply of FC HBAs (i.e. worldwide);\n\n    g) The supply of storage adapters (i.e. worldwide);\n\n    h) The supply of NICs (i.e. worldwide).\n\n\nCompetitive assessment\n\n4.  The  Advisory  Committee  (10 Member  States)  agrees  with  the  Commission’s\n    assessment that the notified transaction is unlikely to significantly impede effective\n    competition,  as  a  result  of  horizontal  non-coordinated  effects  arising from  the\n    combination of Broadocm and VMware’s ITAM &SAM software.\n\n5.  The  Advisory  Committee  (10 Member  States)  agrees  with  the  Commission’s\n    assessment that the notified transaction is unlikely to significantly impede effective\n    competition,  as  a  result  of  horizontal  non-coordinated  effects  arising from  the\n    combination of Broadocm and VMware’s ITACM software.\n\n6.  The  Advisory  Committee  (10 Member  States)  agrees  with  the  Commission’s\n    assessment that the notified transaction is unlikely to significantly impede effective\n    competition,  as  a  result  of  horizontal  non-coordinated  effects  arising from  the\n    combination of Broadocm and VMware’s DSAC software.\n\n7.  The  Advisory  Committee  (10 Member  States)  agrees  with  the  Commission’s\n    assessment that the notified transaction is unlikely to significantly impede effective\n    competition,  as  a  result  of  horizontal  non-coordinated  effects  arising from  the\n    combination of Broadocm and VMware’s Network software.\n\n8.  The  Advisory  Committee  (10 Member  States)  agrees  with  the  Commission’s\n    assessment that the notified transaction would likely significantly impede effective\n    competition, as a  result of conglomerate  effects  arising from the foreclosure of\n    providers of FC HBAs caused by the restriction or degradation of interoperability\n    between rival FC HBAs and VMware’s server virtualization software.\n\n9.  The  Advisory  Committee  (10 Member  States)  agrees  with  the  Commission’s\n    assessment that the notified transaction is unlikely to significantly impede effective\n    competition, as a  result of conglomerate  effects  arising from the foreclosure of\n    providers  of  storage  adapters  caused  by  the  restriction  or  degradation  of",
+      "caracteres": 2936,
+      "caracteres_utiles": 2139,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 3,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "AdCom M.10806 – BROADCOM / VMWARE                                                                      3\n     interoperability between rival storage adapters and VMware’s server virtualization\n    software.\n\n10. The  Advisory  Committee  (10 Member  States)  agrees  with  the  Commission’s\n    assessment that the notified transaction is unlikely to significantly impede effective\n    competition, as a  result of conglomerate  effects  arising from the foreclosure of\n    providers of NICs caused by the restriction or degradation of interoperability between\n     rival NICs and VMware’s server virtualization software.\n\n11. The  Advisory  Committee  (10 Member  States)  agrees  with  the  Commission’s\n    assessment that the notified transaction is unlikely to significantly impede effective\n    competition, as a  result of conglomerate  effects  arising from the foreclosure of\n   SmartNICs providers by delaying or hindering the development of SmartNICs through\n    Project Monterey.\n\n12. The  Advisory  Committee  (10 Member  States)  agrees  with  the  Commission’s\n    assessment that the notified transaction is unlikely to significantly impede effective\n    competition,  as  a  result  of  conglomerate  effects  arising from any bundling  of\n   VMware’s server virtualization software with Broadcom’s (enterprise, mainframe\n    or security) software.\n\n\n\nCommitments\n\n13. The Advisory Committee (9 Member States) agrees with the Commission’s conclusion\n     that the (i) Open Access to APIs and Certification (ii) Open Source Driver Grant, and\n      (iii) Organizational Separation and Confidentiality Commitments, as offered by the\n    Notifying Party on 14 June 2023 remove concerns as to foreclosure of providers of FC\n   HBAs caused by the restriction or degradation of interoperability between rival FC\n   HBAs and VMware’s server virtualization software. 1 Member State abstained.\n\n14. The Advisory Committee (9 Member States) agrees with the Commission that, subject\n     to the full compliance with the final commitments offered by the Notifying Party on 14\n    June 2023, the notified transaction  is not likely to significantly impede effective\n    competition in the internal market or in a substantial part of  it. 1 Member State\n    abstained.\n\n\n\nCompatibility with the internal market and the Agreement on the European Economic\nArea\n\n15. The Advisory Committee (9 Member States) agrees with the Commission that the\n     notified concentration must therefore be declared compatible with the internal market\n    and the Agreement on the European Economic Area2 in accordance with Article 2(2)\n    and Article 8(2) of the Merger Regulation and Article 57 of the Agreement on the\n    European Economic Area. 1 Member State abstained.\n\n                                 ***\n\n\n\n\n2      OJ L 1, 3.1.1994, p.3.",
+      "caracteres": 2829,
+      "caracteres_utiles": 2114,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

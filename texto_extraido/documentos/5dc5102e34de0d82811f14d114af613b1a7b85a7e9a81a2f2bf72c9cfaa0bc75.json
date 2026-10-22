@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "5dc5102e34de0d82811f14d114af613b1a7b85a7e9a81a2f2bf72c9cfaa0bc75",
+  "extraido_utc": "2026-10-22T19:28:59+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20230208180627+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10560_CP_01",
+      "caso": "M.10560",
+      "universo": "principal",
+      "titulo": "Mergers: Commission clears the acquisition of MBCC by Sika, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_598/IP_23_598_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_23_598",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10560/M.10560_CP_01_5dc5102e34de.pdf",
+      "sha256": "5dc5102e34de0d82811f14d114af613b1a7b85a7e9a81a2f2bf72c9cfaa0bc75",
+      "coincide_inventario": "",
+      "bytes": "39621",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_598/IP_23_598_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission clears the acquisition of MBCC by Sika, subject to\nconditions\n\nBrussels, 8 February 2023\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof MBCC by Sika. The approval is conditional on the divestiture of MBCC's global chemical admixture\nbusiness.\n\nSika and MBCC are key innovators and global leaders in the development and supply of chemical\nadmixtures and construction materials. The development of new polymers and new formulations of\nchemical admixtures play a key role in the concrete industry, in particular to address sustainability\nchallenges, such as bio-based admixtures.\n\nThe Commission's investigation\n\nThe Commission's preliminary investigation showed that the transaction, as initially notified, would\nhave substantially reduced competition and led to higher prices and less innovation in the\nEuropean Economic Area (‘EEA') in the markets for chemical admixtures and concrete admixtures.\n\nThe Commission's investigation found that:\n\n    The merged entity would have very large market shares and would only face competition\n    from very few other competitors in the EEA markets for chemical admixtures.\n\n    The markets for chemical admixtures are characterised by significant barriers to entry, such\n    as the need to have a sufficiently large customer base, strong sales force and technical team,\n    high volumes of orders and know-how to compete. Moreover, the market is characterised by\n    strong brand loyalty.\n\nThe proposed remedies\n\nTo address the Commission's concerns Sika offered to divest MBCC's chemical admixture business\nin the EEA, Australia, Canada, New Zealand, Switzerland, the UK and US, including global research\nand development facilities.\n\nThe commitments consist of the structural divestiture of a stand-alone business, which fully removes\nthe horizontal overlaps between the parties in chemical admixture markets in the EEA. This will\nenable a purchaser to run the divested business as viable competitive force in the market on a\nlasting basis. The Commission will closely monitor the divestment process, including the choice of\nany suitable purchaser for the divested businesses that will have to be approved by the Commission.\n\nFollowing the market test, the Commission concluded that the proposed transaction, as modified by\nthe commitments, would no longer raise competition concerns. The decision is conditional upon full\ncompliance with the commitments.\n\nDuring its investigation, the Commission cooperated closely with its counterparts in Australia,\nCanada, New Zealand, the UK and US. It will continue liaising with these counterparts during the\nassessment of a suitable purchaser for the divestment business.\n\nCompanies and products\n\nSika, headquartered in Switzerland, is active in the development, production and supply of chemical\nadmixtures and other construction materials as well as roofing and waterproofing systems which are\nused globally in the building and manufacturing industries.\n\nMBCC, headquartered in Germany, is a supplier of construction chemicals and solutions worldwide. It\nprovides solutions for customers in the concrete manufacturing, cement and underground\nconstruction industries, and offers solutions to protect and repair buildings and structures.\n\nMerger control rules and procedure\n\nThe case was initially notified on 7 June 2022. However, Sika withdrew the notification on 4 July",
+      "caracteres": 3484,
+      "caracteres_utiles": 2854,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "2022. The transaction was re-notified to the Commission on 12 December 2022.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nMore information will be available on the competition website, in the Commission's public case\nregister under the case number M.10560.\n\n                                                                                                                IP/23/598\n\nQuotes:\n\n\n Sika and MBCC are important suppliers of green products to the concrete and cement industry in Europe. Their products are\n essential for the EU’s green transition policy. We were concerned that the combined entity could foreclose competitors. Following\n the remedies offered by Sika, customers in Europe will continue to have a competitive choice of chemical admixtures suppliers.\n Margrethe Vestager, Executive Vice-President in charge of competition policy\n\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1575,
+      "caracteres_utiles": 1171,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,95 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "e6b1b62d3760569bbf373b6044dab13ce5bfef5d4fef14bfc27f3c0127a4dc59",
+  "extraido_utc": "2026-10-22T19:44:55+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20260213114555+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11956_CP_01",
+      "caso": "M.11956",
+      "universo": "principal",
+      "titulo": "Commission approves UMG's acquisition of Downtown, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_385/IP_26_385_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_385",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11956/M.11956_CP_01_e6b1b62d3760.pdf",
+      "sha256": "e6b1b62d3760569bbf373b6044dab13ce5bfef5d4fef14bfc27f3c0127a4dc59",
+      "coincide_inventario": "",
+      "bytes": "49831",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_385/IP_26_385_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:04+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission approves UMG's acquisition of Downtown, subject to\nconditions\n\nBrussels, 13 February 2026\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nby Universal Music Group N.V. ('UMG') of Downtown Music Holdings LLC ('Downtown'). The approval is\nconditional upon full compliance with the commitments offered by the companies, which entail the full\ndivestment of Downtown's royalty accounting platform Curve Royalty Systems, Ltd ('Curve').\n\nToday's decision follows an in-depth investigation of the proposed transaction, including the sending\nof a Statement of Objections.\n\nUMG, headquartered in the Netherlands, is globally active in recorded music, music publishing,\nmerchandising, and audiovisual content. As part of its activities in recorded music, UMG also offers\nartist and label ('A&L') services, both to independent record companies as well as to artists through its\nVirgin subsidiary.\n\nDowntown, headquartered in the US, is a global music company providing A&L services both to\nindependent record companies as well as to artists, and publishing services to third-party authors and\nsongwriters. Downtown also provides royalty accounting services through Curve, which offers,\namongst others, processing, accounting, payment and other services relating to royalties and rights\nmanagement. Downtown's activities focus mainly on digital distribution, its physical distribution\nactivities are limited.\n\nThe Commission's investigation\n\nIn the context of its in-depth investigation, the Commission gathered extensive feedback from rival\nsuppliers of recorded music and A&L services, digital service platforms ('DSPs'), labels and artists, as\nwell as international and national music associations.\n\nThe Commission concluded, after its in-depth investigation, that the proposed transaction would not\nlead to a significant impediment of effective competition in the markets where UMG and Downtown's\nactivities overlap, namely in recorded music, A&L services and music publishing.\n\nSpecifically, the Commission's market investigation confirmed that:\n\n    There are several viable competitors, such as Sony Music Entertainment, Warner, and many\n    other independent A&L service providers such as Believe, Distrokid, IDOL, Kontor or ONErpm.\n    The investigation also confirmed that the switching between these alternative service providers\n      is already happening, and is neither costly nor time-consuming.\n    Based on its market share verification exercise, the Commission was able to confirm that the\n    combined market shares of UMG and Downtown in recorded music and A&L services remain\n    moderate in any of the relevant markets.\n    The proposed transaction will not significantly shift the negotiation position of UMG in its\n     licensing discussions with DSPs. These include globally operating streaming platforms such as\n     Spotify, Apple Music and Amazon Music.\n\nAt the same time, the Commission concluded in its market investigation that Curve processes\ninformation regarding the commercial relationship between an artist and its label. The Commission\nfound that the transaction, as initially notified, would have harmed competition, as UMG could have\ngained access to commercially sensitive data of rival record labels, which is stored on\nCurve.\n\nIn particular, the Commission's investigation in this regard found that:",
+      "caracteres": 3445,
+      "caracteres_utiles": 2788,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "   UMG would have the ability to access the data on Curve, which processes data of UMG's\n     rivals.\n   UMG would have the incentives to access the data on Curve, given UMG's interest to more\n     precisely assess the profitability of artists currently signed with rival labels and gain general\n    insights on recent market trends by region or specific demographic groups.\n    UMG's access to Curve would hamper effective competition on the market for wholesale\n     distribution of recorded music, in particular rival labels' ability and incentive to compete with\n   UMG.\n\nConversely, the Commission found that the information processed by other Downtown products is not\ncommercially sensitive. The data stored on these products is either publicly available or does not\nconcern commercial terms of rivals of UMG.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, UMG and Downtown offered a remedy package\nthat was improved following the market test. The final remedy package consists of the full\ndivestment of Curve, including:\n\n      All of Curve's customers and their data, as well as Curve's supply contracts.\n      All of Curve's personnel.\n    Curve's platform, including the source code, data and algorithms, as well as IT hardware used\n     exclusively by Curve.\n\nThe purchaser will grant the merged entity a transitional license (without any data of the Curve's\ncustomers) to enable it to use the Curve software for limited internal purposes only.\n\nThese commitments fully address the competition concerns identified by the Commission, as they\nprevent UMG from obtaining access to the commercially sensitive data of its rivals stored on Curve.\n\nOn this basis, the Commission concluded that the transaction, as modified by the commitments,\nwould no longer raise competition concerns.\n\nThe decision is conditional upon full compliance with the commitments. Under the supervision of the\nCommission, an independent trustee will monitor their implementation.\n\nThe Commission will approve a suitable purchaser for Curve in a separate procedure.\n\nMerger control rules and procedures\n\nThe proposed transaction did not meet the turnover thresholds of the EU Merger Regulation.\nHowever, it was notified for merger control clearance in Austria and the Netherlands, where it met the\nrelevant national turnover-based notification thresholds.\n\nThe Dutch competition authority submitted a referral request to the Commission pursuant to Article\n22(1) of the EU Merger Regulation. The Commission accepted the request from the Netherlands,\nwhich was joined by Austria. The Commission assessed the impact of the acquisition of Downtown by\nUMG within the territory of these Member States under the EU Merger Regulation.\n\nThe transaction was notified to the Commission on 16 June 2025, and the Commission opened an in-\ndepth investigation on 28 July 2025. On 24 November 2025, the Commission issued a Statement of\nObjections to UMG setting out its preliminary competition concerns.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a turnover\nabove certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent concentrations\nthat would significantly impede effective competition in the EEA or any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nThere are currently two ongoing phase II merger investigations: (i) the proposed acquisition of Anglo\nAmerican's nickel business by MMG and (ii) the proposed acquisition of joint control over TERCAT by\nTIL and Hutchison Ports.",
+      "caracteres": 3814,
+      "caracteres_utiles": 3094,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 3,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "For more information\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.11956.\n\n                                                                                                               IP/26/385\n\nQuote(s):\n\n\n \"The music industry plays an important role in bringing artists' creations to audiences, and it is essential to uphold the availability\n of diverse service providers for consumers. Our in-depth investigation confirmed that a large number of companies will continue to\n offer their distribution services to European music labels and artists. By requiring the divestment of Curve, we are taking a decisive\n step to protect sensitive data and prevent it from being controlled by a large competitor. Today’s decision reflects the\n Commission’s dedication to promoting fair competition and supporting a thriving and diverse music landscape in Europe.\"\n Valdis Dombrovskis, Commissioner for Economy and Productivity; Implementation and Simplification\n\n\n Press contacts:\n\n       Ricardo CARDOSO (+32 2 29 80100)\n       Paula Clara RITTER-MOSCHUTZ (+32 2 29 64083)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1231,
+      "caracteres_utiles": 896,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,1566 @@
+[PÁGINA PDF 1]
+  DISCLAIMER: This is an interim text of the non-confidential version of the commitments in
+ Case M.11043 – NOVOZYMES / CHR HANSEN HOLDING. Parts of this text have been edited to
+ensure that confidential information is not disclosed; those parts are enclosed in square brack-
+ ets. The text is made available for information purposes only and does not constitute an offi-
+ cial publication. The full text of the decision and the commitments in Annex will be published
+                          on DG Competition's website.
+
+
+
+             CASE COMP/M.11043 – NOVOZYMES / CHR HANSEN HOLDING
+
+
+
+
+                  COMMITMENTS TO THE EUROPEAN COMMISSION
+
+
+Pursuant to Article 6(2) of Council Regulation (EC) No 139/2004 (the "Merger Regulation"), Novozymes
+A/S ("NZ") and Chr. Hansen Holding A/S, hereby enter into the following Commitments (the "Commit-
+ments") vis-à-vis the European Commission (the "Commission") with a view to rendering the merger of
+NZ and Chr. Hansen Holding A/S, including all Affiliated Undertakings ("CH"), with NZ as the surviving entity
+and CH as the dissolving entity (the "Concentration") compatible with the internal market and the function-
+ing of the EEA Agreement.
+
+This text shall be interpreted in light of the Commission’s decision pursuant to Article 6(1)(b) of the Merger
+Regulation to declare the Concentration compatible with the internal market and the functioning of the EEA
+Agreement (the "Decision"), in the general framework of European Union law, in particular in light of the
+Merger Regulation, and by reference to the Commission Notice on remedies acceptable under Council Regu-
+lation (EC) No 139/2004 and under Commission Regulation (EC) No 802/20041 (the "Remedies Notice").
+
+Section A.     Definitions
+
+1.        For the purpose of the Commitments, the following terms shall have the following meaning:
+
+          Affiliated Undertakings: undertakings controlled by the Parties and/or by the ultimate parents
+          of the Parties, whereby the notion of control shall be interpreted pursuant to Article 3 of the Merger
+          Regulation and in light of the Commission Consolidated Jurisdictional Notice under Council Regula-
+           tion (EC) No 139/2004 on the control of concentrations between undertakings (the "Consolidated
+         Jurisdictional Notice").
+
+       [Name of supplier]
+
+         Assets: the assets that contribute to the current operation or are necessary to ensure the viability
+        and competitiveness of the Divestment Business as indicated in Section B, paragraph 6(a)-(i) and
+          described more in detail in the Schedule.
+
+        CH: CH Holding and subsidiaries directly or indirectly controlled by CH Holding, including Chr.
+        Hansen A/S.
+
+
+
+
+
+1          For completeness it is noted that Commission Regulation (EC) No 802/2004 has been replaced by Commission Reg-
+             ulation (EC) 914/2023.
+
+[PÁGINA PDF 2]
+CH Lactase Business: the lactase commercialization business as operated today by CH full par-
+ticulars of which are set out in the Schedule.
+
+CH Lactase Business Patents: the patents listed in Annex 6, table 1.
+
+CH Holding: Chr. Hansen Holding A/S, a limited liability company incorporated under the laws of
+Denmark, with its registered office at Bøge Alle 10, 2970 Hørsholm, Denmark, and registered with
+the Danish Central Business Register under number 28318677.
+
+CH Lactase Pipeline Project: [Information on an innovation/development project re-
+lated to lactase]
+
+Closing: the transfer of the legal title to the Divestment Business to the Purchaser, excluding the
+Deferred Closing Assets.
+
+Closing Period: the period of [time period] from the approval of the Purchaser and the terms
+of sale by the Commission within which Closing shall occur.
+
+CMO: Contract Manufacturing Organisation, i.e. a company supporting the pharmaceutical and/or
+biotechnology sectors in the form of outsourced manufacturing services.
+
+Confidential Information: any business secrets, know-how, commercial information, or any
+other information of a proprietary nature that is not in the public domain.
+
+Conflict of Interest: any conflict of interest that impairs the Trustee’s objectivity and independ-
+ence in discharging its duties under the Commitments.
+
+CRO: Contract Research Organisations, i.e. a company supporting the pharmaceutical and/or bio-
+technology sectors in the form of outsourced research and development services.
+
+Deferred Closing Assets: the Lactase Plant Premises and certain related contracts as detailed in
+Annex 13 that will transfer to the Purchaser.
+
+Deferred Closing: obtaining of the title certificate of the Lactase Plant Premises and all necessary
+operational permits by Plant NewCo.
+
+Deferred Closing Period: the period of [information on timing of Deferred Closing].
+
+[Name of supplier]
+
+Divestment Business: means transfer of the G2 Collaboration Agreement and certain IP rights
+currently held by CH as well as NZ’s manufacturing capabilities including the Lactase Plant, licences
+to the Production Strain and the Production Guide supplemented by the CH Lactase Business as
+defined in Section B and the Schedule, which the Parties commit to divest.
+
+Divestment Products: NOLA® Products, HA-LACTASE™ Products and the Lactosens® R Assay
+Kit Products listed in Annex 1.
+
+Divestiture Trustee: one or more natural or legal person(s) who is/are approved by the Com-
+mission and appointed by the Parties and who has/have received from the Parties the exclusive
+Trustee Mandate to sell the Divestment Business to a Purchaser at no minimum price.
+
+Effective Date: the date of adoption of the Decision.
+
+Fast Track Dispute Resolution Procedure: the dispute resolution procedure outlined in An-
+nex 4.
+
+Field: production and commercialization of Lactases using the Production Strain.
+
+First Divestiture Period: the period of 6 months from the Effective Date.
+
+
+
+                                   2
+
+[PÁGINA PDF 3]
+Food Licence Agreement: [Information on cross-licensing agreement].
+
+G2 Collaboration Agreement: [a collaboration agreement with a third party with the aim of
+developing a lactase with similar properties to that of the NZ proprietary production strain.]
+
+G2 Collaboration Agreement Relevant Patents: the enzyme/molecule patents potentially rel-
+evant for commercialization of the G2 Collaboration Agreement listed in Annex 6, table 1.
+
+[Name of supplier]
+
+HA-LACTASE™ Products: Products listed in Annex 1, section 2.
+
+Hold Separate Manager: the person appointed by the Parties for the Divestment Business to
+manage the day-to-day business under the supervision of the Monitoring Trustee.
+
+Key Personnel: all personnel necessary to maintain the viability and competitiveness of the Di-
+vestment Business, as listed in the Schedule and Annex 5, including the Hold Separate Manager.
+
+Lactase(s): as defined as EC Enzyme nomenclature 3.2.1.108 in BRENDA (http://www.brenda-
+enzymes.org/)
+
+Lactase Licence Agreement: [Information on cross-licensing agreement].
+
+Lactase Plant: manufacturing facility for producing lactase located in TEDA, China, as described
+in the Schedule and Annex 2.
+
+Lactase Plant Premises: the land use right of the underlying land of the Lactase Plant and the
+current existing buildings and buildings to be constructed on the Lactase Plant land prior to De-
+ferred Closing as detailed in Annex 13.
+
+Lactosens® R Assay Kit Products: A biosensor assay kit for the measure of lactose in low
+lactose and lactose-free dairy products [information on sources of supply] as listed in Annex
+1, section 3.
+
+Lactozym® Products: the yeast lactase products manufactured by [Name of supplier] and
+sold by NZ.
+
+Monitoring Trustee: one or more natural or legal person(s) who is/are approved by the Com-
+mission and appointed by the Parties, and who has/have the duty to monitor the Parties’ compliance
+with the conditions and obligations attached to the Decision.
+
+[Name of supplier].
+
+NOLA® Products: Products listed in Annex 1, section 1.
+
+Notifying Party: NZ and CH.
+
+NZ: Novozymes A/S, a limited liability company incorporated under the laws of Denmark, with its
+registered office at Krogshøjvej 36, 2880 Bagsværd, Denmark, and registered with the Danish
+Central Business Register under number 10007127.
+
+NZCB: the NZ Chinese subsidiary, Novozymes (China) Biotechnology Co. Ltd.
+
+NZ NOLA® Products Patents: the patents listed in Annex 6, table 2.
+
+Parties: NZ and CH.
+
+Personnel: all staff listed as per the Schedule and in Annex 5.
+
+Pipeline Projects: The G2 Collaboration Agreement and the CH Lactase Pipeline Project.
+
+
+
+
+                                   3
+
+[PÁGINA PDF 4]
+         Plant NewCo: a limited liability company newly established in the PRC (i.e. Nuocheng Trillion Food
+           (Tianjin) Company Limited) to which the Lactase Plant will be transferred, including all assets,
+           rights, employees, liabilities and obligations pertaining to the Lactase Plant.
+
+       PRC: the People’s Republic of China, excluding for the purpose of these Commitments only, the
+        Hong Kong Special Administrative Region, the Macau Special Administrative Region and Taiwan.
+
+        Production Guide: a comprehensive production guide based on NZ’s know-how, for production
+          of the NOLA® Products, including all relevant process parameters.
+
+        Production Strain: NZ’s proprietary bacillus licheniformis production strain (biological organism)
+          optimized to be used for producing the NOLA® Products listed in Annex 1.
+
+        Purchaser: the entity approved by the Commission as acquirer of the Divestment Business in
+         accordance with the criteria set out in Section D.
+
+        Purchaser Criteria: the criteria laid down in paragraph 16 of these Commitments that the Pur-
+         chaser must fulfil in order to be approved by the Commission.
+
+       Saphera® Products: bifido lactase products manufactured and sold by NZ.
+
+        Schedule: the schedule to the Commitments describing more in detail the Divestment Business.
+
+       TEDA: Tianjin Economic – Technological and Development Area of the PRC.
+
+         Trustee(s): the Monitoring Trustee and/or the Divestiture Trustee as the case may be.
+
+        Trustee Divestiture Period: the period of 3 months from the end of the First Divestiture Period.
+
+Section B.    The commitment to divest and the Divestment Business
+
+Commitment to divest
+
+2.        In order to maintain effective competition, the Parties commit to divest, or procure the divestiture
+          of the Divestment Business by the end of the Trustee Divestiture Period as a going concern to a
+         purchaser and on terms of sale approved by the Commission in accordance with the procedure
+          described in paragraph 17 of these Commitments. To carry out the divestiture, the Parties commit
+          to find a purchaser and to enter into a final binding sale and purchase agreement for the sale of
+          the Divestment Business within the First Divestiture Period. If the Parties have not entered into
+         such an agreement at the end of the First Divestiture Period, the Parties shall grant the Divestiture
+         Trustee an exclusive mandate to sell the Divestment Business in accordance with the procedure
+          described in paragraph 29 in the Trustee Divestiture Period.
+
+3.       The proposed concentration shall not be implemented before the Parties or the Divestiture Trustee
+         have entered into a final binding agreement for the sale of the Divestment Business and the Com-
+          mission has approved the purchaser and the terms of sale in accordance with paragraph 17.
+
+4.       The Parties shall be deemed to have complied with this commitment if:
+
+          (a)   by the end of the Trustee Divestiture Period, the Parties or the Divestiture Trustee have
+               entered into a final binding agreement and the Commission approves the proposed pur-
+                chaser and the terms of sale as being consistent with the Commitments in accordance with
+                the procedure described in paragraph 17; and
+          (b)    the Closing and Deferred Closing of the sale of the Divestment Business to the Purchaser
+                take place within the Closing Period and Deferred Closing Period respectively.
+
+5.        In order to maintain the structural effect of the Commitments, the Parties shall, for a period of 10
+         years after Deferred Closing, not acquire, whether directly or indirectly, the possibility of exercising
+          influence (as defined in paragraph 43 of the Remedies Notice, footnote 3) over the whole or part
+
+
+                                           4
+
+[PÁGINA PDF 5]
+          of the Divestment Business, unless, following the submission of a reasoned request from the Parties
+         showing good cause and accompanied by a report from the Monitoring Trustee (as provided in
+         paragraph 43 of these Commitments), the Commission finds that the structure of the market has
+        changed to such an extent that the absence of influence over the Divestment Business is no longer
+         necessary to render the proposed concentration compatible with the internal market.
+
+Structure and definition of the Divestment Business
+
+6.       The Divestment Business consists of the worldwide lactase commercialization business of CH, the
+       G2 Collaboration Agreement and the Lactase Plant. The legal and functional structure of the Di-
+         vestment Business is described in the Schedule. The Divestment Business, described in more detail
+           in the Schedule, includes all assets and staff that contribute to the current operation or are neces-
+          sary to ensure the viability and competitiveness of the Divestment Business, in particular:
+
+          (a)    the assets comprising the Lactase Plant operated by a number of employees, and with all
+                required regulatory approvals and permits necessary to produce the NOLA® Products to the
+                extent transfer is permitted by law;
+          (b)   a worldwide, irrevocable, perpetual, royalty-free licence to the Production Strain and the
+                Production Guide as well as to any other production know-how needed to operate the Lac-
+                tase Plant;
+           (c)    the Pipeline Projects including all IP rights attached hereto;
+          (d)    the Personnel (including Key Personnel);
+          (e)    those patent rights owned by CH and NZ that are used within or necessary for the operation
+                 of the Divestment Business, as specified in Annex 6;
+            (f)      all trademarks relating to the Divestment Business;
+          (g)     all trade secrets, confidential know-how, confidential customer data, or other confidential
+                information and other intellectual property used exclusively or predominantly in the com-
+                 mercialization of lactase;
+          (h)   access to or transfer of all necessary regulatory clearances, registrations and authorizations
+              used in the distribution, marketing, promotion, selling or offering for sale of lactase;
+              (i)    subject to obtaining all relevant third-party consents, all supply contracts related to lactase,
+                 including the agreements relating to the supply of yeast lactase, all distribution agreements
+                 related to lactase and all customer contracts related to lactase.
+
+7.        In addition, the Divestment Business includes the benefit, for a transitional period of up to 12
+        months (unless detailed in the Schedule) after Closing and on terms and conditions equivalent to
+         those at present afforded to the Divestment Business of all current arrangements under which the
+           Parties or their Affiliated Undertakings supply products or services to the Divestment Business, as
+          detailed in the Schedule, unless otherwise agreed with the Purchaser. Strict firewall procedures will
+        be adopted so as to ensure that any competitively sensitive information related to, or arising from
+         such supply arrangements (for example, product roadmaps) will not be shared with, or passed on
+           to, anyone outside the NZCB personnel strictly necessary to provide the support to the Lactase
+          Plant envisaged in the Commitments or other personnel necessary to provide the transitional ser-
+          vices to the Purchaser envisaged in the Commitments, unless otherwise permitted pursuant to the
+        agreement with the Purchaser.
+
+Section C.     Related commitments
+
+Preservation of viability, marketability and competitiveness
+
+8.      From the Effective Date until Closing the Parties shall preserve or procure the preservation of the
+         economic viability, marketability and competitiveness of the Divestment Business, in accordance
+
+
+
+                                           5
+
+[PÁGINA PDF 6]
+          with good business practice. They shall minimise as far as possible any risk of loss of competitive
+           potential of the Divestment Business. In particular the Parties undertake:
+
+          (a)    not to carry out any action that might have a significant adverse impact on the value, man-
+              agement or competitiveness of the Divestment Business or that might alter the nature and
+               scope of activity, or the industrial or commercial strategy or the investment policy of the
+               Divestment Business;
+          (b)    to make available, or procure to make available, sufficient resources for the development of
+                the Divestment Business, on the basis and continuation of the existing business plans;
+           (c)    to take all reasonable steps, or procure that all reasonable steps are being taken, including
+                appropriate incentive schemes (based on industry practice), to encourage all Key Personnel
+                 to remain with the Divestment Business, and not to solicit or move any Personnel to the
+                  Parties remaining business. Where, nevertheless, individual members of the Key Personnel
+                 exceptionally leave the Divestment Business, the Parties shall provide a reasoned proposal
+                 to replace the person or persons concerned to the Commission and the Monitoring Trustee.
+             The Parties must be able to demonstrate to the Commission that the replacement is well
+                 suited to carry out the functions exercised by those individual members of the Key Personnel.
+             The replacement shall take place under the supervision of the Monitoring Trustee, who shall
+                 report to the Commission.
+
+Hold-separate obligations
+
+9.       The Parties commit, from the Effective Date until Closing to procure that the Divestment Business
+             is kept separate from the business that the Parties will be retaining and, after closing of the notified
+          transaction to keep the Divestment Business separate from the business that the Parties are re-
+           taining and to ensure that unless explicitly permitted under these Commitments: (i) management
+        and staff of the business(es) retained by the Parties have no involvement in the Divestment Busi-
+          ness; (ii) the Key Personnel and Personnel of the Divestment Business have no involvement in any
+          business retained by the Parties and do not report to any individual outside the Divestment Busi-
+          ness.
+
+10.        Until Closing, the Parties shall assist the Monitoring Trustee in ensuring that the Divestment Busi-
+         ness is managed as a distinct and saleable entity separate from the business which the Parties are
+           retaining. Immediately after the adoption of the Decision, the Parties shall appoint a Hold Separate
+         Manager. The Hold Separate Manager, who shall be part of the Key Personnel, shall manage the
+         Divestment Business independently and in the best interest of the business with a view to ensuring
+             its continued economic viability, marketability and competitiveness and its independence from the
+         businesses retained by the Parties. The Hold Separate Manager shall closely cooperate with and
+          report to the Monitoring Trustee and, if applicable, the Divestiture Trustee. Any replacement of the
+         Hold Separate Manager shall be subject to the procedure laid down in paragraph 8(c) of these
+        Commitments. The Commission may, after having heard NZ, require NZ to replace the Hold Sepa-
+          rate manager.
+
+Ring-fencing
+
+11.      The Parties shall implement, or procure to implement, all necessary measures to ensure that they
+        do not, after the Effective Date, obtain any Confidential Information relating to the Divestment
+         Business and that any such Confidential Information obtained by the Parties before the Effective
+         Date will be eliminated and not be used by the Parties. This includes measures vis-à-vis the Parties’
+         appointees on the supervisory board and/or board of directors of the Divestment Business. In
+           particular, the participation of the Divestment Business in any central information technology net-
+        work shall be severed to the extent possible, without compromising the viability of the Divestment
+          Business. The Parties may obtain or keep information relating to the Divestment Business which is
+
+
+
+
+                                           6
+
+[PÁGINA PDF 7]
+         reasonably necessary for the divestiture of the Divestment Business, or the disclosure of which to
+          the Parties is required by law.
+
+Non-solicitation clause
+
+12.      The Parties undertake, subject to customary limitations, not to solicit, and to procure that Affiliated
+         Undertakings do not solicit, the Key Personnel transferred with the Divestment Business for a period
+          of 3 years after Closing.
+
+Due diligence
+
+13.       In order to enable potential purchasers to carry out a reasonable due diligence of the Divestment
+          Business, the Parties shall, subject to customary confidentiality assurances and dependent on the
+         stage of the divestiture process:
+
+          (a)    provide to potential purchasers sufficient information as regards the Divestment Business;
+          (b)    provide to potential purchasers sufficient information relating to the Personnel and allow
+             them reasonable access to the Personnel.
+
+Reporting
+
+14.      The Parties shall submit written reports in English on potential purchasers of the Divestment Busi-
+         ness and developments in the negotiations with such potential purchasers to the Commission and
+          the Monitoring Trustee no later than 10 days after the end of every month following the Effective
+         Date (or otherwise at the Commission’s request). The Parties shall submit a list of all potential
+         purchasers having expressed interest in acquiring the Divestment Business to the Commission at
+         each and every stage of the divestiture process, as well as a copy of all the offers made by potential
+         purchasers within five days of their receipt.
+
+15.      The Parties shall inform the Commission and the Monitoring Trustee on the preparation of the data
+        room documentation and the due diligence procedure and shall submit a copy of any information
+       memorandum to the Commission and the Monitoring Trustee before sending the memorandum out
+          to potential purchasers.
+
+Section D.    The Purchaser
+
+16.       In order to be approved by the Commission, the Purchaser must fulfil the following criteria:
+
+          (a)   The Purchaser shall be independent of and unconnected to the Parties and their Affiliated
+               Undertakings (this being assessed having regard to the situation following the divestiture);
+          (b)   The Purchaser shall have the financial resources, proven expertise and incentive to maintain
+              and develop the Divestment Business as a viable and active competitive force in competition
+                with the Parties and other competitors. The Purchaser shall have expertise in the food and
+               beverage industry, including the development, manufacture and commercialization of food
+              and beverage enzymes and expertise in dairy applications as well as expertise in bringing
+            new products to market;
+           (c)   The acquisition of the Divestment Business by the Purchaser must neither be likely to create,
+                   in light of the information available to the Commission, prima facie competition concerns nor
+                 give rise to a risk that the implementation of the Commitments will be delayed. In particular,
+                the Purchaser must reasonably be expected to obtain all necessary approvals from the rel-
+               evant regulatory authorities for the acquisition of the Divestment Business.
+
+17.      The final binding agreement (as well as ancillary agreements) relating to the divestment of the
+         Divestment Business shall be conditional on the Commission’s approval. When the Parties have
+         reached an agreement with a purchaser, the Parties shall submit a fully documented and reasoned
+          proposal, including a copy of the final agreement(s), within one week to the Commission and the
+
+
+
+                                           7
+
+[PÁGINA PDF 8]
+          Monitoring Trustee. The Parties must be able to demonstrate to the Commission that the purchaser
+              fulfils the Purchaser Criteria and that the Divestment Business is being sold in a manner consistent
+          with the Commission’s Decision and the Commitments. For the approval, the Commission shall
+           verify that the purchaser fulfils the Purchaser Criteria and that the Divestment Business is being
+          sold in a manner consistent with the Commitments including their objective to bring about a lasting
+           structural change in the market. The Commission may approve the sale of the Divestment Business
+          without one or more of the Assets or parts of the Personnel, or by substituting one or more Assets
+          or parts of the Personnel with one or more different assets or different personnel, if this does not
+           affect the viability and competitiveness of the Divestment Business after the sale, taking account
+          of the proposed purchaser.
+
+Section E.     Trustee
+
+           I.      Appointment procedure
+
+18.      The Parties shall appoint a Monitoring Trustee to carry out the functions specified in these Com-
+         mitments for a Monitoring Trustee. The Parties commit not to close the Concentration before the
+         appointment of a Monitoring Trustee.
+
+19.         If the Parties have not entered into a binding agreement regarding the Divestment Business one
+        month before the end of the First Divestiture Period or if the Commission has rejected a purchaser
+         proposed by the Parties at that time or thereafter, the Parties shall appoint a Divestiture Trustee.
+        The appointment of the Divestiture Trustee shall take effect upon the commencement of the Trus-
+          tee Divestiture Period.
+
+20.      The Trustee shall:
+
+              (i)     at the time of appointment, be independent of the Parties and their Affiliated Undertakings;
+               (ii)    possess the necessary qualifications to carry out its mandate, for example have sufficient
+                 relevant experience as an investment banker or consultant or auditor; and
+                (iii)   neither have nor become exposed to a Conflict of Interest.
+
+21.      The Trustee shall be remunerated by the Parties in a way that does not impede the independent
+        and effective fulfilment of its mandate. In particular, where the remuneration package of a Divest-
+           iture Trustee includes a success premium linked to the final sale value of the Divestment Business,
+         such success premium may only be earned if the divestiture takes place within the Trustee Divest-
+           iture Period.
+
+              ProposalbytheParties
+
+22.     No later than two weeks after the Effective Date, the Parties shall submit the name or names of
+        one or more natural or legal persons whom the Parties propose to appoint as the Monitoring Trustee
+          to the Commission for approval. No later than one month before the end of the First Divestiture
+          Period or on request by the Commission, the Parties shall submit a list of one or more persons
+       whom the Parties propose to appoint as Divestiture Trustee to the Commission for approval. The
+          proposal shall contain sufficient information for the Commission to verify that the person or persons
+         proposed as Trustee fulfil the requirements set out in paragraph 20 and shall include:
+
+          (a)    the full terms of the proposed mandate, which shall include all provisions necessary to enable
+                the Trustee to fulfil its duties under these Commitments;
+          (b)    the outline of a work plan which describes how the Trustee intends to carry out its assigned
+                 tasks;
+           (c)   an indication whether the proposed Trustee is to act as both Monitoring Trustee and Divest-
+                   iture Trustee or whether different trustees are proposed for the two functions.
+
+
+
+                                           8
+
+[PÁGINA PDF 9]
+             ApprovalorrejectionbytheCommission
+
+23.      The Commission shall have the discretion to approve or reject the proposed Trustee(s) and to
+         approve the proposed mandate subject to any modifications it deems necessary for the Trustee to
+              fulfil its obligations. If only one name is approved, the Parties shall appoint or cause to be appointed
+          the person or persons concerned as Trustee, in accordance with the mandate approved by the
+         Commission. If more than one name is approved, the Parties shall be free to choose the Trustee
+          to be appointed from among the names approved. The Trustee shall be appointed within one week
+          of the Commission’s approval, in accordance with the mandate approved by the Commission.
+
+         NewproposalbytheParties
+
+24.         If all the proposed Trustees are rejected, the Parties shall submit the names of at least two more
+          natural or legal persons within one week of being informed of the rejection, in accordance with
+         paragraphs 18 and 23 of these Commitments.
+
+              TrusteenominatedbytheCommission
+
+25.         If all further proposed Trustees are rejected by the Commission, the Commission shall nominate a
+          Trustee, whom the Parties shall appoint, or cause to be appointed, in accordance with a trustee
+        mandate approved by the Commission.
+
+        II.    Functions of the Trustee
+
+26.      The Trustee shall assume its specified duties and obligations in order to ensure compliance with
+          the Commitments. The Commission may, on its own initiative or at the request of the Trustee or
+          the Parties, give any orders or instructions to the Trustee in order to ensure compliance with the
+          conditions and obligations attached to the Decision.
+
+              DutiesandobligationsoftheMonitoringTrustee
+
+27.      The Monitoring Trustee shall:
+
+              (i)    propose in its first report to the Commission a detailed work plan describing how it intends
+                 to monitor compliance with the obligations and conditions attached to the Decision.
+               (ii)    oversee, in close co-operation with the Hold Separate Manager, the on-going management
+                 of the Divestment Business with a view to ensuring its continued economic viability, market-
+                    ability and competitiveness and monitor compliance by the Parties with the conditions and
+                 obligations attached to the Decision. To that end the Monitoring Trustee shall:
+                (a)  monitor the preservation of the economic viability, marketability and competitiveness of
+                   the Divestment Business, and the keeping separate of the Divestment Business from the
+                   business retained by the Parties, in accordance with paragraphs 8 and 9 of these Com-
+                  mitments;
+               (b)  supervise the management of the Divestment Business as a distinct and saleable entity,
+                       in accordance with paragraph 10 of these Commitments;
+                 (c)  with respect to Confidential Information:
+                               -   determine all necessary measures to ensure that the Parties do not after the
+                                Effective Date obtain any Confidential Information relating to the Divestment
+                             Business,
+                               -    in particular strive for the severing of the Divestment Business’ participation in
+                         a central information technology network to the extent possible, without com-
+                            promising the viability of the Divestment Business,
+                               -   make sure that any Confidential Information relating to the Divestment Busi-
+                           ness obtained by the Parties before the Effective Date is eliminated and will not
+                        be used by the Parties and
+
+
+                                           9
+
+[PÁGINA PDF 10]
+                               -   decide whether such information may be disclosed to or kept by the Parties as
+                            the disclosure is reasonably necessary to allow the Parties to carry out the
+                                divestiture or as the disclosure is required by law;
+               (d)  monitor the splitting of assets and the allocation of Personnel between the Divestment
+                   Business and the Parties or Affiliated Undertakings;
+                (iii)   propose to the Parties such measures as the Monitoring Trustee considers necessary to
+               ensure the Parties’ compliance with the conditions and obligations attached to the Decision,
+                   in particular the maintenance of the full economic viability, marketability or competitiveness
+                 of the Divestment Business, the holding separate of the Divestment Business and the non-
+                 disclosure of competitively sensitive information;
+            (iv)   review and assess potential purchasers as well as the progress of the divestiture process
+              and verify that, dependent on the stage of the divestiture process:
+                (a)  potential purchasers receive sufficient and correct information relating to the Divestment
+                   Business and the Personnel in particular by reviewing, if available, the data room docu-
+                   mentation, the information memorandum and the due diligence process, and
+               (b)  potential purchasers are granted reasonable access to the Personnel;
+           (v)    act as a contact point for any requests by third parties, in particular potential purchasers, in
+                  relation to the Commitments;
+            (vi)   provide to the Commission, sending the Parties a non-confidential copy at the same time, a
+                 written report within 15 days after the end of every month that shall cover the operation
+              and management of the Divestment Business as well as the splitting of assets and the allo-
+                 cation of Personnel so that the Commission can assess whether the business is held in a
+             manner consistent with the Commitments and the progress of the divestiture process as well
+               as potential purchasers;
+             (vii)   promptly report in writing to the Commission, sending the Parties a non-confidential copy at
+                the same time, if it concludes on reasonable grounds that the Parties are failing to comply
+                with these Commitments;
+              (viii)  within one week after receipt of the documented proposal referred to in paragraph 17 of
+                these Commitments, submit to the Commission, sending the Parties a non-confidential copy
+                 at the same time, a reasoned opinion as to the suitability and independence of the proposed
+               purchaser and the viability of the Divestment Business after the Sale and as to whether the
+               Divestment Business is sold in a manner consistent with the conditions and obligations at-
+               tached to the Decision, in particular, if relevant, whether the Sale of the Divestment Business
+                without one or more Assets or not all of the Personnel affects the viability of the Divestment
+                Business after the sale, taking account of the proposed purchaser;
+            (ix)   assume the other functions assigned to the Monitoring Trustee under the conditions and
+                 obligations attached to the Decision.
+
+28.         If the Monitoring and Divestiture Trustee are not the same legal or natural persons, the Monitoring
+         Trustee and the Divestiture Trustee shall cooperate closely with each other during and for the
+         purpose of the preparation of the Trustee Divestiture Period in order to facilitate each other’s tasks.
+
+              DutiesandobligationsoftheDivestitureTrustee
+
+29.       Within the Trustee Divestiture Period, the Divestiture Trustee shall sell at no minimum price the
+         Divestment Business to a purchaser, provided that the Commission has approved both the pur-
+         chaser and the final binding agreement (and ancillary agreements) as in line with the Commission’s
+          Decision and the Commitments in accordance with paragraphs 16 and 17 of these Commitments.
+        The Divestiture Trustee shall include in the agreement (as well as in any ancillary agreements)
+         such terms and conditions as it considers appropriate for an expedient sale in the Trustee Divesti-
+          ture Period. In particular, the Divestiture Trustee may include in the agreement such customary
+
+
+                                           10
+
+[PÁGINA PDF 11]
+          representations and warranties and indemnities as are reasonably required to effect the sale. The
+          Divestiture Trustee shall protect the legitimate financial interests of the Parties, subject to the
+           Parties’ unconditional obligation to divest at no minimum price in the Trustee Divestiture Period.
+
+30.       In the Trustee Divestiture Period (or otherwise at the Commission’s request), the Divestiture Trus-
+          tee shall provide the Commission with a comprehensive monthly report written in English on the
+         progress of the divestiture process. Such reports shall be submitted within 15 days after the end
+          of every month with a simultaneous copy to the Monitoring Trustee and a non-confidential copy to
+          the Parties
+
+       III.    Duties and obligations of the Parties
+
+31.      The Parties shall provide and shall cause their advisors to provide the Trustee with all such co-
+          operation, assistance and information as the Trustee may reasonably require to perform its tasks.
+        The Trustee shall have full and complete access to any of the Parties’ or the Divestment Business’
+         books, records, documents, management or other personnel, facilities, sites and technical infor-
+         mation necessary for fulfilling its duties under the Commitments and the Parties and the Divestment
+         Business shall provide the Trustee upon request with copies of any document. The Parties and the
+         Divestment Business shall make available to the Trustee one or more offices on their premises and
+           shall be available for meetings in order to provide the Trustee with all information necessary for
+          the performance of its tasks.
+
+32.      The Parties shall provide the Monitoring Trustee with all managerial and administrative support
+          that it may reasonably request on behalf of the management of the Divestment Business. This shall
+          include all administrative support functions relating to the Divestment Business which are currently
+          carried out at headquarters level. The Parties shall provide and shall cause their advisors to provide
+          the Monitoring Trustee, on request, with the information submitted to potential purchasers, in
+           particular give the Monitoring Trustee access to the data room documentation and all other infor-
+         mation granted to potential purchasers in the due diligence procedure. The Parties shall inform the
+          Monitoring Trustee on possible purchasers, submit lists of potential purchasers at each stage of the
+           selection process, including the offers made by potential purchasers at those stages, and keep the
+          Monitoring Trustee informed of all developments in the divestiture process.
+
+33.      The Parties shall grant or procure Affiliated Undertakings to grant comprehensive powers of attor-
+          ney, duly executed, to the Divestiture Trustee to effect the sale (including ancillary agreements),
+          the Closing and Deferred Closing and all actions and declarations which the Divestiture Trustee
+          considers necessary or appropriate to achieve the sale and the Closing and the Deferred Closing,
+          including the appointment of advisors to assist with the sale process. Upon request of the Divesti-
+          ture Trustee, the Parties shall cause the documents required for effecting the sale and the Closing
+        and (subsequently) Deferred Closing to be duly executed.
+
+34.      The Parties shall indemnify the Trustee and its employees and agents (each an “Indemnified
+         Party”) and hold each Indemnified Party harmless against, and hereby agrees that an Indemnified
+          Party shall have no liability to the Parties for, any liabilities arising out of the performance of the
+          Trustee’s duties under the Commitments, except to the extent that such liabilities result from the
+            wilful default, recklessness, gross negligence or bad faith of the Trustee, its employees, agents or
+          advisors.
+
+35.       At the expense of the Parties, the Trustee may appoint advisors (in particular for corporate finance
+          or legal advice), subject to the Parties’ approval (this approval not to be unreasonably withheld or
+         delayed) if the Trustee considers the appointment of such advisors necessary or appropriate for
+          the performance of its duties and obligations under the Mandate, provided that any fees and other
+         expenses incurred by the Trustee are reasonable. Should the Parties refuse to approve the advisors
+         proposed by the Trustee the Commission may approve the appointment of such advisors instead,
+
+
+
+
+                                           11
+
+[PÁGINA PDF 12]
+           after having heard the Parties. Only the Trustee shall be entitled to issue instructions to the advi-
+           sors. Paragraph 34 of these Commitments shall apply mutatis mutandis. In the Trustee Divestiture
+          Period, the Divestiture Trustee may use advisors who served the Parties during the Divestiture
+          Period if the Divestiture Trustee considers this in the best interest of an expedient sale.
+
+36.      The Parties agree that the Commission may share Confidential Information proprietary to the Par-
+            ties with the Trustee. The Trustee shall not disclose such information and the principles contained
+           in Article 17 (1) and (2) of the Merger Regulation apply mutatismutandis.
+
+37.      The Parties agree that the contact details of the Monitoring Trustee are published on the website
+          of the Commission’s Directorate-General for Competition and they shall inform interested third
+           parties, in particular any potential purchasers, of the identity and the tasks of the Monitoring Trus-
+           tee.
+
+38.       For a period of 10 years from the Effective Date the Commission may request all information from
+          the Parties that is reasonably necessary to monitor the effective implementation of these Commit-
+         ments.
+
+      IV.    Replacement, discharge and reappointment of the Trustee
+
+39.         If the Trustee ceases to perform its functions under the Commitments or for any other good cause,
+          including the exposure of the Trustee to a Conflict of Interest:
+
+          (a)    the Commission may, after hearing the Trustee and the Parties, require the Parties to replace
+                the Trustee; or
+          (b)    the Parties may, with the prior approval of the Commission, replace the Trustee.
+
+40.         If the Trustee is removed according to paragraph 39 of these Commitments, the Trustee may be
+          required to continue in its function until a new Trustee is in place to whom the Trustee has effected
+         a full hand over of all relevant information. The new Trustee shall be appointed in accordance with
+          the procedure referred to in paragraphs 18-25 of these Commitments.
+
+41.      Unless removed according to paragraph 39 of these Commitments, the Trustee shall cease to act
+         as Trustee only after the Commission has discharged it from its duties after all the Commitments
+          with which the Trustee has been entrusted have been implemented. However, the Commission
+       may at any time require the reappointment of the Monitoring Trustee if it subsequently appears
+          that the relevant remedies might not have been fully and properly implemented.
+
+Section F.    The review clause
+
+42.      The Commission may extend the time periods foreseen in the Commitments in response to a re-
+         quest from the Parties or, in appropriate cases, on its own initiative. Where the Parties request an
+          extension of a time period, it shall submit a reasoned request to the Commission no later than one
+        month before the expiry of that period, showing good cause. This request shall be accompanied
+         by a report from the Monitoring Trustee, who shall, at the same time send a non-confidential copy
+          of the report to the Notifying Party. Only in exceptional circumstances shall the Parties be entitled
+          to request an extension within the last month of any period.
+
+43.      The Commission may further, in response to a reasoned request from the Parties showing good
+          cause, waive, modify or substitute, in exceptional circumstances, one or more of the undertakings
+           in these Commitments. This request shall be accompanied by a report from the Monitoring Trustee,
+       who shall, at the same time send a non-confidential copy of the report to the Parties. The request
+           shall not have the effect of suspending the application of the undertaking and, in particular, of
+         suspending the expiry of any time period in which the undertaking has to be complied with.
+
+
+
+
+
+                                           12
+
+[PÁGINA PDF 13]
+Section G.     Entry into force
+
+44.      The Commitments shall take effect upon the date of adoption of the Decision.
+
+
+          [Signed] 5 December 2023 in Copenhagen, Denmark
+
+          duly authorised for and on behalf of Novozymes A/S
+        [name]
+
+
+          [Signed] 5 December 2023 in Brussels, Belgium
+
+          duly authorised for and on behalf of Chr. Hansen Holding A/S
+        [name]
+
+
+          [Signed] 5 December 2023 in Copenhagen, Denmark
+
+          duly authorised for and on behalf of Chr. Hansen Holding A/S
+        [name]
+
+
+
+
+
+                                           13
+
+[PÁGINA PDF 14]
+                                SCHEDULE
+
+                         THE DIVESTMENT BUSINESS
+
+
+1.       The Divestment Business has the following legal and functional structure. The Divestment Business
+          includes, but is not limited to:
+
+              a.  the assets comprising the lactase commercialization business carried out by CH’s Food Cul-
+                 tures & Enzymes division, namely the worldwide rights and interest in (including the right
+                 to develop, improve, manufacture and commercialise at worldwide level) the NOLA® Prod-
+                 ucts (a bifido lactase), the worldwide right to distribute the HA-LACTASE™ Products (a yeast
+                  lactase) and the Lactosens® R Assay Kit Products, as listed in Annex 1;
+
+             b.  the assets comprising the Lactase Plant, at which the bifido lactase is produced and which
+                       is currently owned by NZCB, and operated by a number of employees which are employed
+              by NZCB, and which will have all required regulatory approvals and permits necessary to
+               produce the NOLA® Products, as more particularly described in Annex 2;
+
+               c.  a worldwide, irrevocable, perpetual, royalty-free licence to the Production Strain as described
+                   in Annex 3;
+
+             d.  a worldwide, irrevocable, perpetual, royalty-free licence to the Production Guide, which in-
+                cludes all relevant production know-how, needed to operate the Lactase Plant to produce
+                the NOLA® Products, as described in Annex 3;
+
+              e.  the G2 Collaboration Agreement;
+
+                  f.  the CH Lactase Pipeline Project, as described in Annex 4;
+
+             g.  the Personnel (including Key Personnel) listed in Annex 5;
+
+             h.  those patent rights owned or licensed by CH that are used within or necessary for the oper-
+                 ation of the Divestment Business, as listed in Annex 6 table 1;
+
+                     i.   those patent rights owned or licensed by NZ that are used within or necessary for the oper-
+                 ation of the Divestment Business, as listed in Annex 6, table 2;
+
+                    j.  [Information on rights pursuant to cross-licensing agreement];
+
+              k.   all trademarks relating to the Divestment Business, including the NOLA® Products and the
+             HA-LACTASE™ Products trademarks, as listed in Annex 7;
+
+                     l.  a time-limited, non-exclusive, worldwide, royalty-free license to use the trademarks for the
+            CH name and logo as needed by the Purchaser to allow the Purchaser time to transition the
+                brand;
+
+          m.  all trade secrets, confidential know-how, confidential customer data, or other confidential
+                 information and other intellectual property used exclusively or predominantly in the com-
+                  mercialization of lactase by CH, which shall include, without limitation:
+
+                                     i.  supporting documentation, including marketing and customer service procedures;
+
+                                      ii.  pricing and volume history with customers;
+
+             n.  access to and transfer of all necessary regulatory clearances, registrations and authorizations
+               used in the distribution, marketing, promotion, selling or offering for sale of lactase (i.e. (a)
+                approval letters and redacted EFSA opinion, safety reports and documents, and (b) environ-
+               mental and safety documentation), subject to the Parties’ best efforts obligation to provide
+
+
+
+                                           14
+
+[PÁGINA PDF 15]
+                       all reasonable assistance in obtaining replacement regulatory clearances, registrations and
+                 authorizations where appropriate as listed at Annex 8; and access to relevant product and
+               marketing material for the benefit of the Divestment Business and/or the Divestment Prod-
+                  ucts,
+
+             o.   all inventories, including raw materials, works in process, semi-finished and finished prod-
+                  ucts, stores, packaging and labelling materials, operating supplies and inventory on con-
+                signment, in transit or deposited in a warehouse, in each case to the extent used in the
+                commercialization of lactase by CH;
+
+             p.   all advertising, marketing, training and promotional materials, books, records, files, tax rec-
+                 ords, customers lists, information and history used exclusively in the commercialization of
+                 lactase by CH, and co-ownership of an undivided interest of all other books, records, files,
+                 tax records, customers lists, information and history to the extent related to the commer-
+                   cialization of lactase by CH;
+
+             q.   all of the following contracts to the extent related to the commercialization of lactase by CH
+                 (subject to obtaining all relevant third-party consents, recognizing that the Parties will use
+                best efforts to obtain such consents):
+
+                                     i.   all supply contracts related to lactase, [information on suppliers], as detailed in
+                  Annex 9;
+
+                                      ii.   all distribution agreements related to lactase; including those listed in Annex 10;
+                     and
+
+                                      iii.   all customer contracts related to lactase, including those listed in Annex 11.
+
+2.       The divestment of the Divestment Business, excluding the equity interest in Plant NewCo, will be
+         completed as an asset transfer whereby the relevant NZ or CH group company being the direct
+        owner of the relevant asset or party to the contract to be transferred will (where applicable) split
+        and transfer such asset or contract, etc. directly to the Purchaser or a wholly-owned subsidiary
+         and/or an entity under common control with the Purchaser.
+
+3.       The divestment of the Lactase Plant will consist of the transfer of equity interests in Plant NewCo
+          to the Purchaser and subsequently completion of an asset transfer of the Lactase Plant Premises
+          to the Plant NewCo. Prior to the transfer of Plant NewCo’s equity interests to the Purchaser, the
+         equipment/machine, employees and certain contracts will be transferred to Plant NewCo. The De-
+          ferred Closing Assets will subsequently transfer to Plant NewCo once relevant regulatory approvals
+         are obtained, as described in Annex 13.
+
+4.       The Purchaser will benefit from transitional arrangements to ensure the viability and competitive-
+         ness of the Divestment Business for a transitional period of up to 12 months after Closing. The
+           transitional services to be provided by NZ and CH at the option of the Purchaser include:
+
+              a.  for a transitional period between Closing and shortly prior to Deferred Closing (i.e. when
+                 Plant NewCo will start independent production on a trial basis) in accordance with Annex
+               13, section 6, NZ or its Affiliated Undertakings will supply the concentrate for the NOLA®
+                Products to the Divestment Business and CH or its Affiliated Undertakings will provide a
+                   transitional service agreement ("TSA") relating to reformulation and tapping to the Divest-
+             ment Business to enable the manufacture of the NOLA® Products, unless otherwise agreed
+                with the Purchaser. Safety measures and clean team procedures will be adopted so as to
+               ensure that any competitively sensitive information related to, or arising from such arrange-
+              ments will not be shared with, or passed on to, anyone outside NZCB;
+
+             b.  for a transitional period of up to 12 months after Closing, to the extent necessary, NZ or its
+                    Affiliated Undertakings will provide technical and production know-how support services to
+
+
+                                           15
+
+[PÁGINA PDF 16]
+                the Divestment Business related to the manufacture of the concentrate products for the
+           NOLA® Products at the Lactase Plant, unless otherwise agreed with the Purchaser. Safety
+              measures and clean team procedures will be adopted so as to ensure that any competitively
+                  sensitive information related to, or arising from such arrangements is appropriately pro-
+                 tected;
+
+               c.   for a transitional period of up to 12 months after Closing, NZ or its Affiliated Undertakings
+                     will supply other transitional services as described in Annex 12, unless otherwise agreed
+                with the Purchaser. Safety measures and clean team procedures will be adopted so as to
+               ensure that any competitively sensitive information is appropriately protected;
+
+             d.  shortly prior to Deferred Closing (i.e. when Plant NewCo will start independent production
+              on a trial basis), the benefit of long-term service level agreements [information on terms]
+                   for the facilities specified in Annex 12.
+
+5.       The Divestment Business shall not include:
+
+          (a)    Subject to the option of the Purchaser, all CH's Russian activities.
+          (b)   Any personnel in the operations of CH or NZ, including in finance, HR, legal and IT personnel,
+                other than the Personnel as defined in Annex 5.
+           (c)   Any legal title to the Production Strain and the Production Guide.
+          (d)   Any rights outside of Lactase.
+          (e)   Access to sections pertaining to the description of the technologies used for making the
+                 modifications in the production strain in submissions and dossiers related to governmental
+                approvals (i.e. supporting documentation provided to relevant governmental authorities to
+                obtain approval letters and positive lists), which contain highly confidential business infor-
+               mation that has the scope to commercially prejudice the Parties' operation beyond lactase.
+            (f)   Any IT systems that are used by CH or NZCB (covering the Lactase Plant), such as SAP ERP
+               system, Myms, Capture, TEM, and Cabin system, apart from the IT software and systems
+                   installed in and integrated into the machines and equipment necessary for the manufacture
+                 of lactase products.
+          (g)   Any production equipment, e.g., machinery, fermentation/recovery plants etc., apart from
+                the production equipment to be transferred as part of the Lactase Plant and transferred to
+                 Plant NewCo.
+          (h)   Any Saphera® and Lactozym® trademarks or the right to sell products using the names
+             Saphera® or Lactozym®.
+              (i)    Any logistics network and warehouse facilities (except for the existing warehouse capacity
+                 at the Lactase Plant, which will transfer to the Purchaser).
+             (j)    Inventory considered to be non-transferrable, e.g. liquid ammonia, active carbon and acetic
+                 acid or any hazardous chemicals.
+           (k)    Operational and sales permits in NZ’s or its Affiliates’ own names (except that NZ shall assist
+                 Plant NewCo to obtain all necessary operational permits (including water and pollutant dis-
+               charge permits) in Plant NewCo’s name on or before Deferred Closing).
+              (l)    Any registered names such as “Novozymes” or “Chr. Hansen”, together with all variations
+                thereof and all trademarks, service marks, domain names, trade names, trade dress, corpo-
+                 rate names, logos and other identifiers of source containing, incorporating or associated with
+              any of the foregoing that are unrelated to lactase.
+        (m)   In the event that materials to be transferred contain information that is confidential to the
+                   Parties’ retained businesses and not relevant for the Divestment Business, the information
+                   shall be redacted as appropriate.
+
+
+
+                                           16
+
+[PÁGINA PDF 17]
+6.          If there is any asset or personnel which is not covered by paragraph 1 of the Schedule, but which
+             is exclusively or primarily used for or works in relation to the commercialization of Lactase by CH
+          or necessary for the continued viability and competitiveness of the Divestment Business, that asset,
+         personnel or adequate substitute will be offered to potential purchasers.
+
+
+
+
+
+                                           17
+
+[PÁGINA PDF 18]
+                 Annex 1: the Divestment Products
+
+1.  The NOLA® Products
+
+     • NOLATM Fit 1100\1000L
+     • NOLATM Fit 2100\1000L
+     • NOLATM Fit HF 2100\5L
+     • NOLATM Fit HF 2100\20L
+     • NOLATM Fit 2800\1000L
+     • NOLATM Fit 5500\5L
+     • NOLATM Fit 5500\20L
+     • NOLATM Fit 5500\1000L
+     • NOLA® Fit FM\5L
+     • NOLATM Fit 5500\6X1L
+     • NOLA® Fit 5500 IMF\1Kg
+     • NOLA® Fit 5500 IMF\2Kg
+     • NOLA® Fit 5500 IMF\5Kg
+     • NOLATM Fit Express\5L
+     • NOLATM Fit Express\20L
+     • NOLATM Fit Flex-S1000\5L
+     • NOLATM Fit Flex-S1000\10L
+     • NOLATM Fit Flex-S2000\5L
+     • NOLATM Fit Flex-S2000\10L
+     • NOLATM Fit Flex -S2700\10L
+     • NOLATM Fit Flex VDA-S2000 3.2\5L
+     • NOLATM Fit Flex VDA-S2000 3.2\10L
+     • NOLA® GOS (previously Fiber)\5L
+     • NOLA® GOS (previously Fiber)\20L
+
+2.  The HA-LACTASE™ Products
+     • HA-LACTASETM 1100\1000L
+     • HA-LACTASETM 2100\5L
+     • HA-LACTASETM 2100\20L
+     • HA-LACTASETM 2100\1000L
+     • HA-LACTASETM P-2100\5L
+     • HA-LACTASETM P-2100\1000L
+     • HA-LACTASETM 5200\2,5kg
+     • HA-LACTASETM 5200\5Kg
+     • HA-LACTASETM 5200\5L
+     • HA-LACTASETM 5200\20L
+     • HA-LACTASETM 5200\1000L
+     • HA-LACTASETM 5200\6X1KG
+
+
+
+                                   18
+
+[PÁGINA PDF 19]
+     • HA-LACTASETM 5200\4X1GAL
+     • HA-LACTASETM 5200\5Gal
+     • HA-LACTASETM Flex-S1000\5L
+     • HA-LACTASETM Flex-S2000\10L
+     • HA-LACTASETM Flex PS2000\10L
+     • HA-LACTASETM Plus 1100\1000L
+     • HA-LACTASETM Plus 2100\5L
+     • HA-LACTASETM Plus 2100\1000L
+     • HA-LACTASETM Plus 5200\5L
+     • HA-LACTASETM Plus 5200\20L
+     • HA-LACTASETM Plus Flex S2000\10L
+     • HA-LACTASETM Vari-S1000 3.2\10L
+     • HA-LACTASETM VDA-S1000 3.2\2,5L
+     • HA-LACTASETM VDA-S1000 3.2\5L
+     • DulzimeTM \5Kg
+     • DulzimeTM \20Kg
+
+3.  The Lactosens® R Assay Kit Products
+    • LactosensTM 0.02% 25\BOX
+    • LactoSens® R for NOLATM fit 25/BOX
+    • LactoSens® R Reader Kit/EA
+    • LactoSens® R 25/BOX
+    • LactoSens® R Reader Cal Module/BOX
+    • LactoSens® R Adapter/BOX
+     • LactoSens® Extend 25/BOX
+
+
+
+
+
+                                   19
+
+[PÁGINA PDF 20]
+                           Annex 2: The Lactase Plant
+
+1.       The Lactase Plant is located in TEDA, China. The Lactase Plant is a fully invested Active Pharma-
+           ceutical Ingredient Plant, which fully complies with all regulatory requirements needed to produce
+         food grade lactase in China.
+
+2.        At Closing all the NOLA® Products can be produced at the Lactase Plant, and the Lactase Plant will
+         comprise all equipment and capacity to handle tapping, bottling, labelling and packaging of the
+       NOLA® Products. As operated to date, the Lactase Plant produces [percentage] of NZ' and CH's
+           bifido lactases.
+
+3.       The Lactase Plant includes:
+
+              a.  approximately 12,235 sqm of land with a building size of 11,200 sqm;
+
+             b.  warehouse space of approximately 700 sqm;
+
+               c.  a spray dryer used for converting liquids into solid products (not used for lactase produc-
+                   tion);
+
+             d.  operating equipment, mainly relating to production equipment, tanks, technical service
+               equipment and office equipment, and including [information on fermentation capac-
+                  ity]; and
+
+              e.  approximately DKK [amount] invested as capex in the Lactase Plant with a book value of
+                approximately DKK [amount], both of which include the value for the spray dryer as men-
+                 tioned in item c above.
+
+4.        Detailed information of the divided land to be transferred to Plant NewCo is to be provided upon
+         approval of land division. In addition to the buildings mentioned above, NZ will also construct
+          certain new facilities and buildings on the land to be transferred to Plant NewCo (such as a guard
+         house and ammonia station).
+
+
+
+
+
+                                           20
+
+[PÁGINA PDF 21]
+     Annex 3: The Production Strain and the Production Guide (production know-how)
+
+1.      [summary of annex: The Parties and the Purchaser will enter into a technology transfer agree-
+        ment interalia regulating the license and access to the Production Strain and license to the Pro-
+          duction Guide.
+
+2.      Upon Closing, NZ will transfer a full master cell bank and a working cell bank and all relevant
+          protocols and grant the Purchaser a world-wide, irrevocable, perpetual, royalty free licence to the
+          Production Strain within a defined field of use.
+
+3.       The Purchaser will also get access to any improved production strain within a certain time frame.
+
+4.        Production know-how will upon Closing be transferred to the Purchaser by providing the Purchaser
+          with a worldwide, irrevocable, perpetual, royalty-free licence to the Production Guide within a de-
+          fined field of use.
+
+5.       The Purchaser will get access to the revised production guide within a certain time frame.
+
+6.      NZ will, at the option of the Purchaser, provide transitional support to the Purchaser for 12 months
+           after Closing.]
+
+
+
+
+
+                                           21
+
+[PÁGINA PDF 22]
+                       Annex 4: CH Lactase Pipeline Project
+
+1.       The Parties will transfer at Closing to the Purchaser all rights, title and interests to develop, improve,
+         manufacture and commercialise the CH Lactase Pipeline Project.
+
+2.       The CH Lactase Pipeline Project will be conducted and continued during the Hold Separate period
+         by the CH Lactase Business under the supervision of the Monitoring Trustee (depending on the
+          timing of completion) in the following manner:
+
+              a.  The CH Lactase Business will devote all commercially reasonable efforts (including sufficient
+                 resources), in particular in terms of budget and personnel, to conclude the development of
+                the CH Lactase Pipeline Project without unnecessary delays, so that the Purchaser can step
+                   in and effectively continue these as soon as possible after Closing;
+
+             b.  At the option of the Purchaser, CH or the Parties (as applicable) on the behalf of the Pur-
+                chaser will seek regulatory approval for the CH Lactase Pipeline Project after completion of
+                the development;
+
+               c.  Any disputes between the Parties and Purchaser in relation to the development of the CH
+                Lactase Pipeline Project shall be handled in accordance with a Fast Track Dispute Resolution.
+             [Terms of procedure]
+
+
+
+
+
+                                           22
+
+[PÁGINA PDF 23]
+           Annex 5: Personnel and Key Personnel of the Divestment Business
+
+1.       The Personnel include personnel across key functions, including both commercial and personnel
+          resources dedicated to the Lactase Plant sufficient to fully operate the Divestment Business. A total
+          of 66 FTEs will be transferred to the Purchaser upon Closing.
+
+2.       The transferring personnel resources are set out below across functions, and of the 66 FTEs, 17
+         FTEs pertain to the CH Lactase Business (and currently employed in CH) and 48 FTEs are employed
+         by NZ; 47 thereof pertain to the Lactase Plant and one to PPMG & IP FTE. In addition hereto the
+         Personnel include 1 Lactase Executive Manager taking on the role as Hold Separate Manager of the
+         Divestment Business.
+
+         Function                                                 Total Transfer FTE
+           Commercialization/distribution
+           Lactase Executive Manager (Hold Separate Manager)            1.0
+           Sales                                                       11.0
+          Marketing                                                     1.0
+          Commercial Development and Leadership                       2.0
+        R&D and application                                           3.0
+          Product portfolio management and IP                           1.0
+           Production & Quality Control
+         Management                                                  1.0
+          Procurement & Supply-Chain                                   1.0
+           Production & Quality Control                                  34.0
+           Process Engineering                                            2.0
+          Maintenance                                                   6.0
+             Facility Service                                                 1.0
+           Regulatory & Quality Assurance                                 2.0
+          Total                                                66.0
+
+
+3.       The Purchaser will be assumed to be able to absorb back-office functions, and no such employees
+             will transfer. At the option of the Purchaser TSAs will be offered for certain back-office functions.
+
+4.       The following are considered Key Personnel:
+
+         Function                     Total     Name of FTE
+                                      Transfer
+                                 FTE
+           Commercialization/distribution
+           Lactase   Executive  Manager  1.0       [Name of FTE]
+           (Hold Separate Manager)
+           Sales                          11.0      [Names of FTEs]
+
+          Marketing                       1.0       [Name of FTE]
+          Commercial Development and  2.0       [Names of FTEs]
+           Leadership
+        R&D and application             3.0       [Names of FTEs]
+          Product portfolio management  1.0       [Name of FTE]
+         and IP
+           Production & Quality Control
+          Operation Director – the head    1.0       [Name of FTE]
+            of the plant
+
+
+
+                                           23
+
+[PÁGINA PDF 24]
+          Technology specialist (plus       1.0       [Name of FTE]
+          maintenance supervising)
+           Production supervisor            1.0       [Name of FTE]
+            Sr. Quality specialist, QC lead    1.0       [Name of FTE]
+            Sr. Quality specialist             1.0       [Name of FTE]
+        EHS specialist                   1.0       [Name of FTE]
+           Sourcing category manager      1.0       [Name of FTE]
+           Planning, import and export      1.0       [Name of FTE]
+             specialist
+           Production coordinators          2.0       [Names of FTEs]
+           Production team leaders (lead-   5.0       [Names of FTEs]
+           ing production teams on
+             shifts)
+          Total                      34.0
+
+
+5.       [Information on status of G2 Collaboration Agreement]. However, the Personnel to be
+          transferred as part of the Divestment Business will include a Senior Project Manager([Information
+       on the Senior Project Manager]), a senior Application Scientist (responsible for technical ser-
+           vice, support and troubleshooting within the existing lactase portfolio, and who has worked on the
+          project of the G2 Collaboration Agreement) and one laboratory technician (who supports the cur-
+          rent lactase portfolio with customer requests and trouble-shooting based on directions from the
+          Application Scientist). Both the Application Scientist and laboratory technician have extensive dairy
+          lactase application experience. All of these Personnel are very capable and experienced and will
+           collectively be able to manage the G2 Collaboration Agreement on behalf of the Purchaser – re-
+          gardless of the Purchaser’s own capabilities in launching projects like the G2 Collaboration Agree-
+        ment lactase. The Project Manager will supervise the upscaling of the technology/biology that has
+        been developed for G2 Collaboration Agreement lactase. The senior scientist and technician will
+         conduct a number of tasks including analyzing data and carrying out various dosage and purity
+           tests on the G2 Collaboration Agreement lactase (product qualifications) to verify its performance,
+          including in relevant applications. They will also support preparation of launch material and cus-
+         tomer trials. In addition to the G2 Collaboration Agreement activities, the scientists will be support-
+          ing customer service requests related to the existing product portfolio. These Divestment Business
+         employees will be working closely with, and supported by, a senior commercial development man-
+         ager from CH who is also included in the Personnel, and who will be able to support the G2
+          Collaboration Agreement activities. Therefore, while lactase is not a particularly dynamic sector for
+          innovation, the overall contribution of these Personnel will ensure the commercialization and fu-
+          tureproofing of the G2 Collaboration Agreement.
+
+
+
+
+
+                                           24
+
+[PÁGINA PDF 25]
+            Annex 6: Intellectual Property Rights for the Divestment Business
+
+
+TheCHLactaseBusinessPatents
+
+1.      Upon Closing, the Parties will irrevocably assign, convey and transfer all rights, titles and interests
+         throughout the world in and to the patents and patent applications (published and unpublished)
+           related to the NOLA® Products and other lactases listed in Table 1, which are owned, maintained
+         and/or controlled by CH:
+
+        Table 1: Transfer of the CH Lactase Business Patents and the G2 Collaboration Agree-
+       ment Relevant Patents
+
+         Patent family   Granted    Pending              Transferor/Li-  Relevant     for
+                                                        censor         Product/Project
+
+                                     [Information on patents]
+
+
+2.       The assignment and transfer of all rights, titles and interest to the patent families identified by
+         [information on patents] and the two unpublished patent applications in Table 1 are conditional
+        upon the Purchaser granting NZ and NZ’s Affiliates upon transfer of the patents to the Purchaser a
+          non-exclusive, royalty-free, perpetual, global, irrevocable, partially sublicensable licence to the pa-
+           tents as such licence is needed to operate and develop the NZ lactase business, including to im-
+          prove, manufacture and/or commercialise the Saphera® Products and potentially the Lactozym®
+          Products.
+
+3.       The Purchaser must respect all licences granted to third parties to the assigned patents listed in
+          Table 1, including the licences in the Food Licence Agreement and the Lactase Licence Agreement.
+
+4.       The Purchaser will be responsible for defending and maintaining the assigned patents, but NZ will
+           offer its support in relation to the protection of the assigned patents.
+
+TheNZNOLA®ProductsPatents
+
+5.      Upon Closing NZ will irrevocably assign, convey, and transfer all rights, titles, and interests through-
+          out the world in and to the patents and patent applications (published and unpublished) related to
+          the NOLA® Products.
+
+        Table 2: Transfer of the NZ NOLA® Products Patents
+
+        Patent family    Granted          Pending             Trans-         Relevant
+                                                                    feror/Licen-    for Prod-
+                                                                  sor            uct
+
+                                    [Information on patents]
+
+6.       The assignment and transfer of all rights, titles and interest to the patents listed in Table 2 are
+           conditional upon the Purchaser granting NZ and NZ’s Affiliates upon transfer of the patents to the
+          Purchaser a non-exclusive, royalty-free, perpetual, global, irrevocable, partially sublicensable  li-
+         cence to the patents as such licence is needed to operate and develop the NZ lactase business,
+           including to improve, manufacture and/or commercialise the Saphera® Products and potentially
+          the Lactozym® Products.
+
+
+
+
+                                           25
+
+[PÁGINA PDF 26]
+7.       The Purchaser must respect all licences granted to third parties to the assigned patents listed in
+         Table 2 including the licences in the Food Licence Agreement and the Lactase Licence Agreement.
+
+8.       The Purchaser will be responsible for defending and maintaining the assigned patents, but NZ will
+           offer its support in relation to the protection of the assigned patents.
+
+
+
+
+
+                                           26
+
+[PÁGINA PDF 27]
+         Annex 7: The Trademarks for the Divestment Business
+
+
+Table 3: NOLA® and HA-LACTASE™ Trademarks
+
+ Title               Registration    Country            Status     Transferor
+                    no.
+ NOLA             2874083          Argentina             Regis-     CH
+                                                               tered
+ NOLA             1318867           Australia              Regis-     CH
+                    (1809676)                              tered
+ NOLA             911155805         Brazil                 Regis-     CH
+                                                               tered
+ NOLA             TMA1041286     Canada               Regis-     CH
+                                                               tered
+ NOLA             1318867         China                 Regis-     CH
+                                                               tered
+ NOLA             1318867         Colombia             Regis-     CH
+                                                               tered
+ NOLA            VR 2016 00976   Denmark              Regis-     CH
+                                                               tered
+ NOLA             1318867         European Union       Regis-     CH
+                                                               tered
+ NOLA             1318867          India                 Regis-     CH
+                                                               tered
+ NOLA             1318867           International Proto-   Regis-     CH
+                                              col (Madrid)           tered
+ NOLA             1318867           Iran, Islamic Repub-   Regis-     CH
+                                                             lic of                  tered
+ NOLA             1318867          Korea, Republic of     Regis-     CH
+                                                               tered
+ NOLA             2016059998      Malaysia              Regis-     CH
+                                                               tered
+ NOLA             1318867         Mexico                Regis-     CH
+                    (1809572)                              tered
+ NOLA             1318867       New Zealand          Regis-     CH
+                    (1055381)                              tered
+ NOLA             1318867        Norway               Regis-     CH
+                                                               tered
+ NOLA             1318867          Switzerland           Regis-     CH
+                                                               tered
+ NOLA             211110343       Thailand              Regis-     CH
+                                                               tered
+ NOLA             1318867         Turkey                Regis-     CH
+                                                               tered
+ NOLA             1318867          Ukraine               Regis-     CH
+                                                               tered
+ NOLA             UK00801318867  United Kingdom       Regis-     CH
+                                                               tered
+ NOLA             1318867          United States         Regis-     CH
+                    (5238765)                              tered
+
+
+
+                                   27
+
+[PÁGINA PDF 28]
+        NOLA             361231           Venezuela, Bolivar-    Regis-     CH
+                                                     ian Republic of        tered
+         DULZIME          3259014          Argentina             Regis-     CH
+                                                                        tered
+         DULZIME          919713530         Brazil                 Regis-     CH
+                                                                        tered
+         DULZIME          1327749           Chile                  Regis-     CH
+                                                                        tered
+         DULZIME          670639          Colombia             Regis-     CH
+                                                                        tered
+         DULZIME         VR 2020 01777   Denmark              Regis-     CH
+                                                                        tered
+         DULZIME          2117940         Mexico                Regis-     CH
+                                                                        tered
+         DULZIME          295931          Peru                  Regis-     CH
+                                                                        tered
+         DULZIME          514152          Uruguay              Regis-     CH
+                                                                        tered
+         HA-LACTASE                                                 Unregis-   CH
+                                                                        tered
+
+
+1.       The NOLA® Products and the HA-LACTASE™ Products are protected through trademarks, which
+         are listed above, and upon Closing, CH will transfer ownership of these trademarks and assign its
+          registered and unregistered trademark rights in the trademarks to the Purchaser with full owner-
+           ship.
+
+2.       The Purchaser will also be granted a time-limited, non-exclusive, non-transferable, non-sub-licens-
+          able world-wide, royalty-free license to use the trademarks for the CH name and logo as needed
+         by the Purchaser to allow the Purchaser time to transition the brand and only for operation of the
+         Divestment Business materially as such business was conducted immediately prior to Closing.
+
+
+
+
+
+                                           28
+
+[PÁGINA PDF 29]
+                         Annex 8: Regulatory Clearances
+
+1.       Each of the NOLA® Products and the HA-LACTASE™ Products have relevant approvals in all key
+         geographies, details of which will be provided to the Purchaser. In a few geographies, a new reg-
+           istration for the Purchaser as the new local importer/distributor of the Divestment Products will be
+        needed in connection with Closing, accounting for de-minimis sales. The Parties will provide the
+         Purchaser with the necessary documentation (consent letter) to assist Purchaser in obtaining the
+         necessary registrations.
+
+
+
+
+
+                                           29
+
+[PÁGINA PDF 30]
+                Annex 9: Supply Contracts for the Divestment Business
+
+1.       [Information on the transfer of supply agreements relating to the CH Lactase Business
+         to the Purchaser.]
+
+2.       [Information on the transfer of supply agreements relating to the CH Lactase Business
+         to the Purchaser.]
+
+3.       [Information on the transfer of supply agreements partially relating to the CH Lactase
+         Business, or of suppliers with no formal supply agreement to the Purchaser.]
+
+
+
+
+
+                                           30
+
+[PÁGINA PDF 31]
+Annex 10: Distribution Agreements for the Divestment Business
+
+[Distributor names]
+
+
+
+
+
+                             31
+
+[PÁGINA PDF 32]
+                 Annex 11: Customer Contracts for the CH Lactase Business
+
+
+1.          All contracts with existing customers that relate solely to lactase within the CH Lactase Business
+             will be transferred to the Purchaser at Closing.
+
+2.       [Information on transfer of shared contracts which extend beyond the CH Lactase Busi-
+         ness].
+
+3.          All customer lists, customer orders, customer records and credit records of the CH Lactase Business
+          dating three (3) years back concerning the sale of the Divestment Products that are material and/or
+         necessary to the CH Lactase Business to the extent they are capable of being assigned.
+
+4.        In relation to the above the Parties undertake to use best efforts to obtain all necessary third-party
+         consents where applicable or to assist in putting in place a new agreement between the Purchaser
+        and the customer.
+
+5.       [Information on transfer of customers with informal ad hoc agreements].
+
+6.       [Information on terms].
+
+
+
+
+
+                                           32
+
+[PÁGINA PDF 33]
+                    Annex 12: Transitional Services Agreements
+
+1.       The Parties will provide appropriate TSAs for the benefit of the Purchaser for a maximum of 12
+         months, subject to discussion with the Purchaser, covering the areas at 1-6 below.
+
+          Services will be provided at the option of the Purchaser.
+
+          Services may include transitional:
+
+               1. HR support;
+
+               2. IT support notably in respect of the Lactase Plant;
+
+               3. Finance functions support notably in respect of the Lactase Plant;
+
+               4. Facility and maintenance services in respect of the Lactase Plant;
+
+               5. Production, regulatory and quality control services (e.g. ad-hoc troubleshooting support,
+                   permit/licence assistance, and certain quality control support); and
+
+               6. Logistics, procurement and other services relating to the chain of supply of the NOLA®
+                Products and/or HA-LACTASE™ Products to the extent needed.
+
+        [Information on terms].
+
+        The Parties will also enter into a reverse TSA with the Purchaser whereby the Parties will undertake
+          to reformulate and tap the NOLA® Products for the Purchaser at CH’s facility in Graasten, Denmark,
+          while the Purchaser and Plant NewCo will undertake to reformulate and tap the Saphera® Products
+           for the Parties at the Lactase Plant.
+
+2.        In addition, a permanent service agreement (“SLA”) will be entered into between Plant NewCo and
+       NZCB from shortly prior to Deferred Closing (i.e., when Plant NewCo will start independent produc-
+           tion on a trial basis) for the following:
+
+               • Firefighting water supply;
+               • Production wastewater treatment;
+               • Cleaning and inactivation of model filters containing waste enzymes;
+               • Biomass treatment; and
+               • Cooling water supply.
+
+3.       [Information on terms]
+
+
+
+
+
+                                           33
+
+[PÁGINA PDF 34]
+                        Annex 13: Lactase Plant Premises
+
+1.      [Summary of annex: At or before Closing, certain fixed assets, supplier contracts, rights, em-
+          ployees, liabilities, obligations and other assets (including, inventory, records etc.) pertaining to the
+          Lactase Plant (excluding the underlying land, existing buildings and buildings under construction)
+             will be transferred from NZCB to Plant NewCo. All equity interests in Plant NewCo will be transferred
+          to the Purchaser at Closing.
+
+2.        Certain temporary transitional arrangements between NZCB and Plant NewCo will commence at
+          Closing to ensure that the Lactase Plant is fully and immediately operational. These will also ensure
+          Plant NewCo's (i.e. the Purchaser's) continued supply of the concentrate products for NOLA® Prod-
+          ucts and that the related economic benefits from the Lactase Plant can be enjoyed by Plant NewCo
+             (i.e. the Purchaser) from Closing.
+
+3.      To allow Plant NewCo to operate production independently at Deferred Closing, following Closing
+        and before Deferred Closing, NZ will complete the construction of certain buildings (such as a guard
+         house and ammonia station together with a hazardous chemicals warehouse) and utility facilities
+           for the Lactase Plant, before transferring the underlying land (including existing and newly con-
+          structed buildings) i.e. the Lactase Plant Premises to Plant NewCo.
+
+4.      NZ will also support Plant NewCo in applications for certain necessary local operational permits.
+          This process will involve Plant NewCo independently running the Lactase Plant on a trial basis
+           shortly prior to Deferred Closing. The food production licence with food additives categorisation
+         can then be obtained. Once relevant permits are obtained, Plant NewCo will commence formal
+         independent production at the Lactase Plant and Deferred Closing will occur.
+
+5.       Any disputes between the Parties and Purchaser in relation to the transfer of the Lactase Plant
+         Premises shall be handled in accordance with a fast track dispute resolution procedure.]
+
+
+
+
+
+                                           34

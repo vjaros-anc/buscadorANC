@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "7476da87f4b1a140b3fa279fbb9ab010965f792fcd95343973274b327cc6377e",
+  "extraido_utc": "2026-10-22T19:41:11+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "M.11143%20-%20Trustee_publication%20of%20details.pdf",
+    "author": "becermo",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 23.0 (Windows)",
+    "creationDate": "D:20240304100114+01'00'",
+    "modDate": "D:20240304100114+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11143_OTRO_01",
+      "caso": "M.11143",
+      "universo": "principal",
+      "titulo": "Trustee details — CMA CGM / BOLLORE LOGISTICS",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202410/M_11143_9947344_2346_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202410/M_11143_9947344_2346_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11143/M.11143_OTRO_01_7476da87f4b1.pdf",
+      "sha256": "7476da87f4b1a140b3fa279fbb9ab010965f792fcd95343973274b327cc6377e",
+      "coincide_inventario": "",
+      "bytes": "47828",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202410/M_11143_9947344_2346_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": "1",
+      "origen_texto": "pdf",
+      "texto": "             !\"##$%%$\" &''(\")*  &''\"$ #  \"+,              -*)\".$%/-/          01-) 2 * .3 '4(&          56  7&($%            8(&9         !\" &9,- \"$:&%%$.++        ;0 5<5=5                &)&%%$.++>&*)\".$%?\"(+$%9\"#&%@\"$\"($AB(2% $  &C\")?#  $\" *9&%B (\".\"+ @\"$\"($AB(2% $%\"#\"$\"(  9\"#'.$&9 \"+!@-!D@ /- E$  !\"##$# %&&9 * \"   !\"##$%%$\" 3%F 9$%$\" \"+ 0   &* \"('\"( \"   !\"##$%%$\" (\"B $(*'&($%E \" &) G2($%$ (.&$\" \"  !\"##$# %#&H9\" &9   B(2% (\"2A   &C\") 9\" &9* &$.%B  +\"(A\"$A $%E$ \"2 '(I2*$9 \"   !\"##$%%$\" 3%I2($%*$9$\" \" \")(%$#'.# &$\" \"+ !\"##$# %&&9 * \"$%F 9$%$\"",
+      "caracteres": 548,
+      "caracteres_utiles": 63,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

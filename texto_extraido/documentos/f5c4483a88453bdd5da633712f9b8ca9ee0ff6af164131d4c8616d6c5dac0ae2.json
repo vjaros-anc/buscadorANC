@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "f5c4483a88453bdd5da633712f9b8ca9ee0ff6af164131d4c8616d6c5dac0ae2",
+  "extraido_utc": "2026-10-22T19:30:50+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20221221152817+01'00'",
+    "modDate": "D:20221221152817+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10638_OTRO_01",
+      "caso": "M.10638",
+      "universo": "principal",
+      "titulo": "Trustee details — ALD / LEASEPLAN",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202301/M_10638_8836030_3233_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202301/M_10638_8836030_3233_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10638/M.10638_OTRO_01_f5c4483a8845.pdf",
+      "sha256": "f5c4483a88453bdd5da633712f9b8ca9ee0ff6af164131d4c8616d6c5dac0ae2",
+      "coincide_inventario": "",
+      "bytes": "87558",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202301/M_10638_8836030_3233_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "     MONITORING TRUSTEE IN CASE M.10638 – ALD / LEASEPLAN\n\n\n\nOn 9.12.2022 the Commission approved the appointment of:\n\n                    Alcis Advisers GmbH\n                    Fasanenstr. 73,\n               10719 Berlin\n               Germany\n\n                   Contacts:\n                 David Cayet: david.cayet@alcis-advisers.com\n                  Dr. Ulrich Puls: ulrich.puls@alcis-advisers.com\n\n\n\nas Monitoring Trustee in the above-mentioned case.\n\nThe  role of the Monitoring Trustee  is to monitor the compliance of ALD S.A.with the\nCommitments attached to the Commission's Decision of 25.11.2022 and to report to the\nCommission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee through\nthe above contact details.\n\nThe  foregoing  is  without  prejudice  to  the  Commission's  jurisdiction  to  oversee  the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 925,
+      "caracteres_utiles": 633,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

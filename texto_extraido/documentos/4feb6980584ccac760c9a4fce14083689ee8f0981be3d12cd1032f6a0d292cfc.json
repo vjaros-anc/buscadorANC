@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "4feb6980584ccac760c9a4fce14083689ee8f0981be3d12cd1032f6a0d292cfc",
+  "extraido_utc": "2026-10-22T19:44:05+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11536_NOT_PREVIA_01",
+      "caso": "M.11536",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — CONSTANTIA / ALUFLEXPACK",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202448/M_11536_10401645_726_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202448/M_11536_10401645_726_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11536/M.11536_NOT_PREVIA_01_4feb6980584c.pdf",
+      "sha256": "4feb6980584ccac760c9a4fce14083689ee8f0981be3d12cd1032f6a0d292cfc",
+      "coincide_inventario": "",
+      "bytes": "148247",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202448/M_11536_10401645_726_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.11536 – CONSTANTIA / ALUFLEXPACK\n\n                         SECTION 1.2\n\n                           Description of the concentration\n\n\n(1)    This notification concerns the following undertakings:\n\n        •  One Rock Capital Partners, LLC (and its portfolio company Constantia Flexibles\n          GmbH); and\n\n        •  Aluflexpack AG (“AFP”).\n\n(2)    Constantia (and thus ORC indirectly) will acquire sole control over AFP within the\n      meaning of Article 3(1), point (b), of the Merger Regulation. The concentration will be\n      accomplished by way of purchase of shares.\n\n(3)   The business activities of the undertakings concerned are:\n\n        •  Constantia, headquartered in Vienna, Austria, is a global producer and supplier\n             of flexible packaging solutions. Constantia’s product portfolio includes flexible\n            packaging solutions for everyday use products such as food, dairy, pet food,\n            household and personal care products, pharmaceutical and medical products, as\n            well as beverages.\n\n        • ORC  is an US-based private equity firm focusing on control-stake equity\n            investments in middle-market companies. ORC manages funds that invest in\n              portfolio companies operating in various industries, including chemicals and\n             process,  specialty  manufacturing and  healthcare,  food  manufacturing and\n              distributions, and business and environmental services.\n\n        •  AFP is a Swiss stock corporation (Aktiengesellschaft) with its registered seat in\n            Reinach, Switzerland. AFP is a manufacturer and supplier of flexible packaging\n             solutions for a variety of industries. AFP’s packaging solutions are primarily\n            used for various food applications and to a lesser extent for pharmaceutical\n            products and other non-food products.\n\n\n\n\n\nCommission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111",
+      "caracteres": 2454,
+      "caracteres_utiles": 1770,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

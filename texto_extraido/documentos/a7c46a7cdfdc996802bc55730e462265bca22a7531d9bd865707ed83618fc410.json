@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "a7c46a7cdfdc996802bc55730e462265bca22a7531d9bd865707ed83618fc410",
+  "extraido_utc": "2026-10-22T19:28:52+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20231030160017+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10507_CP_01",
+      "caso": "M.10507",
+      "universo": "principal",
+      "titulo": "Commission approves Hitachi Rail's acquisition of Thales' ground transportation business, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_5323/IP_23_5323_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_23_5323",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10507/M.10507_CP_01_a7c46a7cdfdc.pdf",
+      "sha256": "a7c46a7cdfdc996802bc55730e462265bca22a7531d9bd865707ed83618fc410",
+      "coincide_inventario": "",
+      "bytes": "37372",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_5323/IP_23_5323_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission approves Hitachi Rail's acquisition of Thales' ground\ntransportation business, subject to conditions\n\nBrussels, 30 October 2023\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof Thales' ground transportation business (‘GTS') by Hitachi Rail. The approval is conditional on full\ncompliance with commitments offered by Hitachi Rail.\n\nHitachi Rail and Thales GTS are leading suppliers of rail mainline signalling services in the\nEuropean Economic Area (‘EEA'). Both supply interlockings and automated train protection\nwayside systems (overlay and resignalling). Hitachi Rail also manufactures and supplies rolling\nstock for mainline and urban trains.\n\nThe Commission's investigation\n\nThe Commission's investigation showed that the transaction, as initially notified, would have\nreduced competition and led to higher prices and less innovation in the markets for rail\nmainline signalling projects in France (including interlockings, overlay and resignalling projects) and\nGermany (including overlay and resignalling projects).\n\nOn these markets, the transaction would have combined two close competitors and the merged\nentity would have acquired very high market shares.\n\nThe proposed remedies\n\nTo address the Commission's preliminary competition concerns, Hitachi Rail offered to divest its\nmainline signalling platforms in France and Germany for interlockings, overlay and resignalling\nprojects.\n\nThese commitments fully address the competition concerns identified by the Commission. They will\npreserve competition by removing the horizontal overlap between the parties in the French and\nGerman markets for interlockings and automated train protection wayside systems for mainline\nsignalling platforms.\n\nThe commitments come after constructive discussions between the Commission and the parties that\nresulted in a successful proposal to divest Hitachi Rail's standalone business in France and Germany,\nincluding international locations. Structural divestitures eliminate concerns that arise when the\nmerging companies are close competitors, because they immediately replace the competition that\nwould have been lost as a result from the merger.\n\nThe commitments will enable a purchaser to run the divestment business as a viable competitive\nforce in the market on a lasting basis. The Commission will closely monitor the divestment process,\nincluding the choice of any suitable purchaser for the divested businesses that will have to be\napproved by the Commission.\n\nFollowing the positive feedback received in the context of the commitments' market test, the\nCommission concluded that the transaction, as modified by the commitments, would no longer\nraise competition concerns. The decision is conditional upon full compliance with the\ncommitments.\n\nThe UK's Competition and Markets Authority (‘CMA') has also reviewed the transaction. In order to\naddress CMA's concerns, Hitachi Rail also committed to divest its mainline signalling business in the\nUK.\n\nCompanies and products\n\nHitachi Rail is a wholly-owned subsidiary of Hitachi, Ltd., headquartered in Japan, and a global\nprovider of transport solutions including rolling stock, signalling systems, turnkey solutions,\nmaintenance services and components.\n\nThales GTS, headquartered in France, offers various solutions across four core business lines: (i)",
+      "caracteres": 3424,
+      "caracteres_utiles": 2838,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "mainline signalling, (ii) urban rail signalling, (iii) integrated communication and supervision solutions\nand (iv) revenue collection systems.\n\nInterlockings ensure the safe passage of trains by controlling and preventing access to sections of\nthe tracks to avoid collisions. Automated train protection wayside systems reduce the risk of train\ndrivers failing to respond to signalling commands.\n\nFor More Information\n\nThe transaction was first notified to the Commission on 4 October 2022, but the parties withdrew\ntheir notification on 3 November 2022 in view of the competition concerns identified by the\nCommission. The parties renotified the transaction to the Commission on 14 September 2023.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working\ndays, bringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.10507.\n\n                                                                                                              IP/23/5323\n\nQuotes:\n\n\n Hitachi and Thales are close competitors in mainline signalling, notably in France and Germany. The divestiture of their activities\n in these countries will preserve competition and ensure that infrastructure managers, and ultimately customers, do not face\n increased prices, lower quality and less innovation.\n Commissioner Didier Reynders, in charge of competition policy - 30/10/2023\n\n\n\n Press contacts:\n\n      Lea ZUBER (+32 2 29 56298)\n      Sara SIMONINI (+32 2 298 33 67)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2302,
+      "caracteres_utiles": 1772,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "48f55a1ed594f100bc3d0c6bd0dc2c1196b7b3419e5ba9609a9a6fa6b7eeb7a2",
+  "extraido_utc": "2026-10-22T19:44:55+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Jonas RASIMAS",
+    "subject": "",
+    "keywords": "EL4",
+    "creator": "Acrobat PDFMaker 25 for Word",
+    "producer": "Adobe PDF Library 25.1.5",
+    "creationDate": "D:20260213111102+01'00'",
+    "modDate": "D:20260213111106+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11956_OTRO_01",
+      "caso": "M.11956",
+      "universo": "principal",
+      "titulo": "Trustee details — UMG / DOWNTOWN",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202608/M_11956_10890999_5391_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202608/M_11956_10890999_5391_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11956/M.11956_OTRO_01_48f55a1ed594.pdf",
+      "sha256": "48f55a1ed594f100bc3d0c6bd0dc2c1196b7b3419e5ba9609a9a6fa6b7eeb7a2",
+      "coincide_inventario": "",
+      "bytes": "87010",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202608/M_11956_10890999_5391_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "       MONITORING AND DIVESTITURE TRUSTEE IN CASE\n\n                    M.11956 – UMG / DOWNTOWN\n\n\nOn 13 February 2026 the Commission approved the appointment of:\n\n                 Monitoring Trustee Partners B.V.\n                Koninginneweg 215\n               1075 CS Amsterdam\n               The Netherlands\n\n                  Contact:\n\n                 Jan Jaap Snel, Managing Director, janjaapsnel@mtp.international\n                  Astrid Bellon, Director, astridbellon@mtp.international\n\nas Monitoring and Divestiture Trustee in the above-mentioned case.\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of Universal Music\nGroup N.V. and Downtown Music Holdings LLC with the Commitments attached to the\nCommission's Decision of 13 February 2026 and to report to the Commission thereon.\n\nThe role of the Divestiture Trustee is to sell the divestment business in line with the\nCommitments attached to the Commission's Decision of 13 February 2026.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 1237,
+      "caracteres_utiles": 899,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,583 @@
+[PÁGINA PDF 1]
+         EUROPEAN COMMISSION
+             DG Competition
+
+
+
+                Case M.11536 – CONSTANTIA /
+                      ALUFLEXPACK
+
+
+
+
+                           Only the English text is available and authentic.
+
+
+          REGULATION (EC) No 139/2004
+              MERGER PROCEDURE
+
+
+Decision on the implementation of the commitments -
+                                Purchaser approval
+                                 Date:06/05/2025
+
+[PÁGINA PDF 2]
+               EUROPEAN COMMISSION
+
+
+
+                                                    Brussels, 6.5.2025
+                                             C(2025) 2907 final
+
+                                   PUBLIC VERSION
+
+                                                              In the published version of this decision,
+                                                 some  information  has  been  omitted
+                                                             pursuant  to  Article 17(2) of Council
+                                                            Regulation     (EC)    No 139/2004
+                                                           concerning non-disclosure of business
+                                                                   secrets    and    other    confidential
+                                                               information. The omissions are shown
+                                                              thus   […].   Where   possible   the
+                                                             information omitted has been replaced
+                                                    by  ranges  of  figures  or  a  general
+                                                                   description.
+
+                                                  Constantia Flexibles Group GmbH
+                                               Handelskai 92
+                                           1200 Vienna
+                                                  Austria
+
+
+Subject:   Case M.11536 – CONSTANTIA / ALUFLEXPACK
+          Approval of MTX Group as purchaser of Constantia’s Divestment
+           Business following your letter of 3 March 2025 and the Trustee’s
+           opinion of 14 April 2025
+
+
+Dear Sir or Madam,
+
+1.    FACTS AND PROCEDURE
+(1)    By decision of 29 January 2025 (the ‘Decision’) based on Article 6(1)(b) in
+        connection with Article 6(2) of Council Regulation (EC) No 139/2004 (the
+        ‘Merger Regulation’) (1), the Commission declared the operation by which
+        Constantia Flexibles GmbH (‘Constantia’ or the ‘Notifying Party’, Austria)
+        acquired within the meaning of Article 3(1)(b) of the Merger Regulation sole
+         control of the whole of Aluflexpack AG (‘AFP’ or the ‘Target’, Switzerland)
+         (together the ‘Parties’), compatible with the internal market, subject to conditions
+       and obligations (the ‘Commitments’).
+(2)     The Commitments consist of the divestment of AFP’s entire business of retortable
+       aluminium containers and lids for wet pet food and for human food in the EEA.
+        This removes the complete overlap between the Parties’ activities in these two
+        markets. In addition, several other products supplied by the Omial Plant will be
+
+(1)      Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between
+         undertakings, OJ L 24, 29.1.2004, p.1.
+
+[PÁGINA PDF 3]
+         divested, i.e., (i) retortable wet pet and human food containers and lids to non-
+     EEA customers, (ii) cheese and dairy non-retortable containers, (iii) other non-
+         retortable human food containers, (iv) injection systems, (v) other non-food
+        packaging and (vi) pre-treated foil. The divestment  is subject to the carve-out of
+         certain minor assets, and contracts not related to AFP’s retortable wet pet or
+       human food business, and limited carve-ins from AFP’s PPS plant and AFP Novi
+        (Drniš and Zadar plants). (2)
+(3)     The assets to be divested under the Commitments are collectively referred to as
+         the ‘Divestment Business’. Specifically, the following main assets are included in
+         the Divestment Business:
+          (a)   Omial Novi d.o.o (‘Omial Novi’), the legal entity which operates AFP’s
+            Omial plant;
+         (b)   All relevant assets, contracts, and personnel related to the entire EEA
+               retortable wet pet and human food containers and lids business of AFP;
+          (c)  A transitional services agreement (‘TSA’) with respect to current supply
+               relationships with the broader AFP group for a transitional period of
+               [confidential logistic arrangements] after Closing, covering, inter alia, the
+             supply of pre-treated aluminium foil for aluminium lids, the supply of
+               printed lids, and of IT related services, at cost basis. The TSA can be
+             extended by up to [confidential logistic arrangements] initially, if necessary
+               for the Divestment Business’ viability. The TSA can be further extended
+            beyond [confidential logistic arrangements] by periods of [confidential
+                logistic arrangements], still at cost, to cover for existing customers of the
+             Divestment Business that have not yet been qualified despite the purchaser
+              of the Divestment Business (the ‘Purchaser’) having committed  their
+              reasonable best efforts to qualify such customers, and if deemed necessary
+               to ensure the viability of the Divestment Business;
+         (d)  A technology transfer agreement (‘TTA’) for a period of [confidential
+                logistic arrangements] post-Closing. The relevant period of the TTA can be
+             extended by up to [confidential logistic arrangements] if such extension is
+              necessary to ensure the viability of the Divestment Business and subject to
+              the Monitoring Trustee's consent, until the Divestment Business’ customers
+             have qualified the pre-treated foil supplied by the Purchaser or a third-party
+               supplier.  If further extensions are requested by the Purchaser and are
+           deemed necessary to ensure the viability of the Divestment Business (i.e.,
+               to cover for existing Divestment Business’ customers that have not yet been
+               qualified despite the Purchaser having committed their reasonable best
+                efforts to qualify such customers) and subject to the Monitoring Trustee’s
+              consent, such extensions can be provided for successive up to [confidential
+                logistic arrangements] periods under the same terms. The TTA includes
+              access to the following:
+            –      (i) AFP’s specifications for retortable lidding and the accompanying
+                    co-extrusion process (including the bill of materials, rooting, and
+                     technical procedures), (ii) AFP’s homologation / qualification records
+                   with  respect  to customers  of  retortable food  lidding and  (iii)
+                   reasonable access to AFP’s co-extrusion assets for the Purchaser to
+
+
+
+(2)     Commitments, paragraph 5.
+                                                     2
+
+[PÁGINA PDF 4]
+                        test its own plain foil and related raw materials on AFP’s co-extrusion
+                      assets;
+            –    any additional know-how and technical documentation that fulfils the
+                   following cumulative criteria:  (i) is required for the order of the
+                    required co-extrusion line or the production of co-extruded foil used
+                     to produce retortable human and wet pet food lidding to fulfil the
+                    orders of the customers of the Divestment Business, and  (ii)  is
+                   requested by the Purchaser.
+          (e)  The business covering various products supplied by the Omial Plant other
+              than the EEA retortable wet pet and human food containers and lids
+               business, namely (i) retortable wet pet and human food containers and lids
+               to non-EEA customers, (ii) cheese and dairy non-retortable containers,
+                    (iii) other non-retortable human food containers, (iv) injection systems,
+               (v) other non-food packaging and (vi) pre-treated foil.
+(4)     The Divestment Business includes tangible and intangible assets (including
+          intellectual property rights) and personnel that contribute to its current operation
+        or are necessary to ensure its viability and competitiveness.
+(5)        It  also  includes  all  licences,  permits  and  authorisations  issued by  any
+        governmental organisation for the benefit of the Divestment Business.
+(6)     The Divestment Business will not include AFP’s upstream production assets for
+         pre-treated (co-extruded) aluminium  foil which AFP currently uses for the
+        production of retortable aluminium lids for wet pet and human food, currently
+         located in AFP’s [details of the parties’ divestment strategy and business activities
+         related to local presence]. The Divestment Business will not include intangible
+          assets, intellectual property rights and know-how relevant exclusively to the
+        supply of aluminium coffee capsules or pre-treated foil for aluminium coffee
+         capsules, which will be transferred out of the Omial plant.
+(7)     The Commitments provide that the Purchaser will meet the following criteria:
+          (a)  The Purchaser shall be independent of and unconnected to the Parties and
+                their Affiliated Undertakings (i.e. undertakings controlled by the Parties
+              and/or by the ultimate parents of the Parties, this being assessed having
+              regard to the situation following the divestiture);
+         (b)  The Purchaser shall have the financial resources, proven expertise and
+              incentive to maintain and develop the Divestment Business as a viable and
+               active  competitive  force  in  competition  with  the  Parties and  other
+              competitors;
+          (c)  The acquisition of the Divestment Business by the Purchaser must neither
+             be likely to create, in light of the information available to the Commission,
+             prima  facie  competition  concerns  nor  give  rise  to  a  risk  that  the
+             implementation of the Commitments will be delayed. In particular, the
+             Purchaser must reasonably be expected to obtain all necessary approvals
+            from  the  relevant  regulatory  authorities  for  the  acquisition  of  the
+             Divestment Business.
+(8)    By letter of 3 March 2025 (the ‘Reasoned Proposal’), the Parties proposed MTX
+       Group a.s. (‘MTX’or the ‘Proposed Purchaser’) for approval by the Commission
+        as purchaser of the Divestment Business and submitted the Sale and Purchase
+       Agreement (the ‘SPA’) and related agreements (the ‘Proposed Agreement’). On
+
+
+                                                     3
+
+[PÁGINA PDF 5]
+       14  April 2025, Monitoring Trustee  Partners  (the  ‘Trustee’) submitted an
+        assessment of MTX’s suitability as a purchaser and, in particular, indicated that
+             it  fulfils  the  criteria  of  the purchaser requirements  in Section D  of  the
+       Commitments attached  to  the Decision  (the ‘Reasoned Opinion’). In  this
+        assessment, the Trustee also indicated  that, on the basis of the Proposed
+        Agreement, the Divestment Business would be sold in a manner consistent with
+         the Commitments. (3)
+
+2.    ASSESSMENT OF THE PROPOSAL
+
+2.1.     Suitable purchaser criteria
+(9)     Pursuant to the Commitments, (4) in order to be approved by the Commission, the
+        Purchaser must fulfil the following criteria:
+          (a)  The Purchaser shall be independent of and unconnected to the Parties and
+                their Affiliated Undertakings (this being assessed having regard to the
+               situation following the divestiture);
+         (b)  The Purchaser shall have the financial resources, proven expertise and
+              incentive to maintain and develop the Divestment Business as a viable and
+               active  competitive  force  in  competition  with  the  Parties and  other
+              competitors;
+          (c)  The acquisition of the Divestment Business by the Purchaser must neither
+             be likely to create, in light of the information available to the Commission,
+             prima  facie  competition  concerns  nor  give  rise  to  a  risk  that  the
+             implementation of the Commitments will be delayed. In particular, the
+             Purchaser must reasonably be expected to obtain all necessary approvals
+            from  the  relevant  regulatory  authorities  for  the  acquisition  of  the
+             Divestment Business.
+
+2.2.    Assessment of the Proposed Purchaser
+
+2.2.1.   Description of the Proposed Purchaser
+(10)   MTX is a Europe-based holding company active in more than 40 countries. MTX
+       was founded in 2006 and its key business areas are: (i) packaging, and flexible
+        packaging in particular; (ii) non-ferrous metals; (iii) energy commodities; (iv)
+         trading; (v) services; and (vi) renewable resources. MTX is active in packaging
+         via its subsidiary AL INVEST Břidličná, a.s. (‘AL Invest’), which produces
+         flexible packaging for food, non-food, animal feed, industry, and household
+         applications. (5)
+
+2.2.2.   Independence from the Parties
+(11)    The Parties submit that MTX and  its  affiliates are independent from, and
+        unconnected to, One Rock Capital (‘ORC’) and its controlled portfolio companies
+         (including  Constantia), AFP, and  their  respective  affiliates.  In  particular,
+        according to the Parties, neither MTX, nor any of its affiliates have any direct or
+         indirect ownership interests in Constantia, AFP, or any of their affiliates. No
+
+
+(3)     Reasoned Opinion, Section 8.
+(4)     Commitments, paragraph 21.
+(5)     Reasoned Proposal, paragraphs 9 and 11.
+                                                     4
+
+[PÁGINA PDF 6]
+         director of MTX, nor any of its affiliates is serving as a member of the board of
+        Constantia or AFP. Neither Constantia nor AFP, nor any of their respective
+          affiliates have any direct or indirect ownership interest in MTX and its affiliates.
+      No director of Constantia, AFP, or their respective affiliates, is on the board of
+       any entity controlled by MTX or its affiliates. Finally, the Parties submit that,
+       from a commercial perspective, there are no commercial links between MTX and
+        Constantia or AFP which would give rise to any dependencies. (6)
+(12)    For completeness, the Parties note that MTX is one of Constantia’s suppliers of
+         plain aluminium foil. The Parties argue that this specific relationship cannot give
+          rise to any dependencies as it accounts for a negligible part of the Parties’ sales /
+         supplies. More concretely, in 2024 Constantia sourced plain aluminium foil
+       amounting to approx. EUR [details of the parties’ sales] from MTX. This amount
+        represented (i) only [details of the parties’ sales] of Constantia’s total purchases
+         of plain aluminium foil in 2024, and (ii) approx. [details of the parties’ sales] of
+      MTX’s total sales and [details of the parties’ sales] of MTX’s total sales of plain
+       aluminium foil. (7)
+(13)    In its Reasoned Opinion, the Trustee submits that the Proposed Purchaser, the
+          Parties, and their affiliated undertakings are independent when  it comes to
+          institutional ties. (8) The Trustee notes that there are no common shareholders
+       between ORC (including Constantia and AFP) and its controlled companies, on
+         the one hand, and MTX and its Affiliated Undertakings, on the other hand. (9) The
+        Trustee further notes that none of the members of the board of directors of ORC
+         or Constantia is active as a member of the board of directors of MTX, and vice
+         versa. (10) The  Trustee  also  considers  that  the  existing  customer/supply
+        arrangement does not impede the independence of MTX from the Parties (and
+        vice versa) and therefore considers that MTX is independent of, and unconnected
+          to, ORC and its Affiliated Undertakings (including Constantia), when it comes to
+       any commercial relationships. (11) Therefore, the Trustee concludes that MTX is
+        independent  of,  and  unconnected  to,  the  Parties  (including  Constantia’s
+         controlling shareholder ORC), and their Affiliated Undertakings.
+(14)    The Commission agrees with the assessment of the Trustee. Based on the
+        information provided, there are no cross-shareholdings, common board members,
+         or structural links between ORC (including Constantia and AFP) or any of its
+         controlled companies, and MTX. Furthermore, while Constantia sources some
+       amounts of plain aluminium foil from MTX, these volumes are very limited and
+         therefore do no impede the independence of MTX from the Parties (and vice-
+         versa).
+(15)    In light of the foregoing, the Commission concludes that the Proposed Purchaser
+           is independent and unconnected to ORC, Constantia, AFP, or any of its controlled
+        companies.
+
+2.2.2.1. Financial resources
+(16)    According to paragraph 21 of the Commitments, the Purchaser shall have the
+         financial resources to maintain and develop the Divestment Business as a viable
+
+(6)     Reasoned Proposal, paragraphs 13-17.
+(7)     Reasoned Proposal, paragraph 18.
+(8)     Reasoned Opinion, Section 4.5.
+(9)     Reasoned Opinion, Section 4.2.2.
+(10)     Reasoned Opinion, Section 4.2.3.
+(11)     Reasoned Opinion, Section 4.3.3.
+                                                     5
+
+[PÁGINA PDF 7]
+       and  active  competitive  force  in  competition  with  the  Parties and  other
+         competitors.
+(17)    According to the Notifying Party:
+(a)   MTX is a profitable business that demonstrates robust financial performance. In
+        2023, MTX reported revenues of EUR [details of the parties’ revenues], and
+          [details of the parties’ revenues] EBITDA. MTX's sales and EBITDA for 2024
+        remain in line with the 2023 figures.
+(b)   MTX does not require any third-party financing for the Divestment Transaction.
+       Although MTX may decide to use third-party financing  if the financing  is
+        provided under attractive commercial conditions, such third-party financing is not
+        required for the acquisition.
+(18)    Therefore, the Parties submit that MTX has sufficient financial resources to (i)
+       pay the purchase price under the SPA to close the Divestment Transaction
+        pursuant to the terms of the SPA, and (ii) ensure that the Divestment Business
+        remains a viable and active competitor from, and after, the closing of the
+        Divestment  Transaction,  including  by  investing  additional  funds  in  the
+        Divestment Business. (12)
+(19)    The Trustee considers that MTX has sufficient financial resources and capabilities
+         to acquire the Divestment Business and to maintain and develop it going forward.
+        In particular, the Trustee notes that (i) MTX has not included any financing
+        condition in the SPA, and (ii) that MTX has sufficient funds on-hand to finance
+         the investment in the co-extrusion line. (13)
+(20)    The Commission notes that MTX Group is quite sizable and profitable, both in
+        absolute terms and compared to the Divestment Business. Moreover, it has shown
+        a sustainable financial performance in all the presented years (2021 to 2023).
+         Finally, the Commission notes that, on the basis of the information provided by
+         the Trustee, MTX has secured enough financial resources to finance both the
+         acquisition of the Divestment Business and the investment of the co-extrusion
+          line.
+(21)    In light of the foregoing, the Commission concludes that the Proposed Purchaser
+        has the financial resources to maintain and develop the Divestment Business as a
+         viable and active competitive force in competition with the Parties and other
+         competitors.
+(22)    In summary, the Commission concludes that MTX is in a sustainable and healthy
+         financial position. It can finance the acquisition of the Divestment Business, as
+        well as the share of the coextrusion line attributable to the acquisition of the
+        Divestment Business, out of  its currently available financial reserves. The
+         acquisition will not increase the risk of its overall business model due to the
+         acquisition’s small size relative to MTX’s overall business, MTX’s low financial
+        leverage and MTX’s intention to finance the acquisition of the Divestment
+        Business and the coextrusion line out of its currently available financial reserves.
+
+2.2.2.2. Proven expertise
+(23)    The Parties submit that MTX has the proven expertise to maintain and develop
+         the Divestment Business as a viable and active competitor. (14) The Parties argue
+
+(12)     Reasoned Proposal, paragraphs 19-22.
+(13)     Reasoned Opinion, Section 6.2.1. and 6.2.2.
+(14)     Reasoned Proposal, Section II A.
+                                                     6
+
+[PÁGINA PDF 8]
+         that  (i) MTX  is an experienced player in flexible packaging, including in
+       aluminium flexible packaging; and (ii) MTX’s size, existing business / production
+         capabilities and packaging industry knowledge will allow for a quick and
+         effective integration of the Divestment Business. In particular, the Parties note
+         that MTX is well-positioned to integrate the Divestment Business into its existing
+         flexible packaging segment by: (i) securing its financial stability and mitigating
+          risk, (ii) supporting sales and customers through its established sales team and
+        customer contacts in the packaging industry, (iii) sourcing aluminium and lidding
+          foil in the required specifications both internally and from third-party suppliers,
+          (iv) covering the Divestment Business’ hedging activities and (v) ensuring the
+        Divestment Business’ quick IT transition with the support of designated MTX IT
+         personnel. (15)
+(24)    Based on its assessment of MTX’s expertise in the flexible packaging industry,
+         the Trustee considers that the company fulfils this part of the Purchaser Criteria
+        as included in paragraph 21 (b) of the Commitments. (16) In particular, the Trustee
+        notes that (i) packaging is one of MTX’s core business divisions; (ii) MTX has an
+         established sales team and customer contacts in the packaging industry; (iii) MTX
+           is a vertically integrated player, sourcing aluminium and lidding foil in the
+        required specifications both internally and from third-party suppliers; (iv) MTX
+           is very familiar with the hedging requirements for aluminium and other base
+         materials, and (v) intercompany operations and security platform synergies within
+         the company should guarantee the Divestment Business’ swift and smooth IT
+          transition. (17)
+(25)    The Commission notes that, in line with the submission of the Parties and the
+       view of the Trustee, MTX is an experienced player in the flexible packaging
+         sector, including aluminium. The Commission further notes that MTX has a
+        dedicated sales team and customer contacts in the industry. Finally, due to being
+         vertically integrated and a relevant actor in the aluminium industry, MTX is well-
+        placed to source aluminium foil both internally and externally and to ramp up its
+        production of co-extruded aluminium  foil for the needs of the Divestment
+        Business.
+(26)    In light of the foregoing, the Commission concludes that the Proposed Purchaser
+        has the proven expertise to maintain and develop the Divestment Businesses as a
+         viable and active competitor.
+
+2.2.2.3. Incentive to maintain and develop the Divested Business as a viable and active
+        competitor
+(27)    The Parties submit that MTX has the incentive to maintain and develop the
+        divestment business as a viable and active competitive force. (18) In particular, the
+         Parties submit that (i) MTX sees the acquisition of the Divestment Business as
+        highly complementary and in line with the strategic vision to expand its product
+         portfolio; (ii) the acquisition of the Divestment Business provides an opportunity
+         for MTX to expand also in the supply of retortable wet pet and human food
+         containers and lids; and (iii) such expanded reach will also provide MTX with an
+         additional return on investment related to its [details of the parties’ strategy and
+        business activities]. Therefore, according to the Parties, given these strategic and
+
+(15)     Reasoned Proposal, paragraphs 24-27.
+(16)     Reasoned Opinion, Section 6.3.3.
+(17)     Reasoned Opinion, Section 6.3.2.
+(18)     Reasoned Proposal, Section II B.
+                                                     7
+
+[PÁGINA PDF 9]
+         financial motives, MTX has strong incentives to ensure the viability (and the
+        growth) of the Divestment Business, but also to foster its long-term growth and
+        competitiveness. (19)
+(28)   MTX outlined to the Trustee that it has the following incentives to maintain and
+        develop the Divestment Business. (20)
+          (a)  The Divestment Business is a complementary addition to MTX’s product
+               offering, in line with MTX’s strategic vision to expand its product portfolio:
+           The Trustee understands that the acquisition of the Divestment Business
+              provides a good opportunity for MTX to expand its current (packaging)
+              product portfolio (currently comprising (i) flexible packaging for dry pet
+             food and (ii) lidding and laminates for end uses such as dairy, aviation
+               catering, and butter laminates) to the supply of retortable wet pet and human
+             food containers and lids.
+         (b)  The technological know-how and highly skilled workforce that comes with
+              the Omial plant. With the acquisition of the Divestment Business, MTX
+              obtains a fully operational set of assets and workforce that supports a new
+              product category in (flexible) packaging.
+          (c)   Increasing MTX’s competitiveness: As per MTX, the acquisition of the
+             Divestment Business will significantly improve MTX’s market position in
+             aluminium-based flexible packaging through a competitive advantage vis-
+               à-vis large players such as Constantia and Amcor, as MTX [details of the
+                parties’ strategy and business activities].
+(29)    Based on the above, the Trustee concludes that MTX has the incentive to maintain
+       and develop the Divestment Business as a viable and active competitive force in
+        competition with the Parties and other competitors. (21)
+(30)    The Commission agrees with the Trustee’s opinion that the acquisition of the
+        Divestment Business constitutes an important strategic step for MTX to expand
+           its product portfolio and leads to synergies for the wider MTX group. The
+       Commission further notes that the purchase of the Divestment Business will lead
+         to a higher return-on-investment on MTX’s [details of the parties’ strategy and
+        business activities]. Therefore, the Commission considers that the success of the
+         acquisition is a high priority for MTX.
+(31)    In light of the foregoing, the Commission concludes that the Proposed Purchaser
+        has the incentive to maintain and develop the Divestment Businesses as a viable
+       and active competitor and well-capitalised.
+
+2.3.    Absence of prima facie competition problems
+(32)    According to paragraph 21 of the Commitments, the acquisition of the Divestment
+        Business by the Purchaser must neither be likely to create, in light of the
+        information available to the Commission, prima facie competition concerns nor
+        give rise to a risk that the implementation of the Commitments will be delayed.
+        In particular, the Purchaser reasonably must be expected to obtain all necessary
+        approvals from  the  relevant  regulatory  authorities  for  the  acquisition  of
+        Divestment Business.
+
+
+(19)     Reasoned Proposal, paragraphs 28-29.
+(20)     Reasoned Opinion, Section 6.4.
+(21)     Reasoned Opinion, Section 6.4.
+                                                     8
+
+[PÁGINA PDF 10]
+(33)    The Notifying Party submits that the acquisition of the Divestment Business by
+     MTX cannot give rise to any prima facie competition concerns, nor any risk that
+         the implementation of the Commitments will be delayed. (22)
+(34)    With respect to possible horizontal overlaps between the activities of MTX and
+         the Divestment Business, the Notifying Party submits that MTX is not active in
+         the supply of retortable aluminium containers and lids for wet pet and human food
+        while these products represent  that vast majority, more than 80%, of the
+        Divestment Business  sales. (23) The Notifying Party  further notes  that the
+        Divestment Business supplies exclusively containers for cheese and dairy, while
+      MTX’s focus  is predominantly on cheese and dairy wrapping and lidding.
+        According to the Notifying Party, while MTX and the Divestment Business are
+        both active in the supply of pre-treated foil for various end-use applications, the
+        supply of pre-treated foil in the EEA is a fragmented space with numerous large
+       and strong suppliers of pre-treated aluminium foil. (24)
+(35)   As to the vertical links, the Notifying Party submits that there are no actual vertical
+         links between MTX and  the Divestment  Business. No  potential  vertical
+         relationship can give rise to competitive concerns either since the supply and
+       demand for pre-treated foil is a fragmented and competitive space with numerous
+         large players offering. (25)
+(36)    However, the Commission notes, in accordance with the Reasoned Opinion, (26)
+         that a small share of the Divestment Business sales is concerned by a horizontal
+        overlap with MTX  (i.e., less than 20% of the sales). Moreover, the Trustee
+         indicates that for  all these horizontal overlaps  (i.e., the supply of flexible
+        packaging for cheese and dairy and the supply of pre-treated foil for various end-
+        use applications) the combined market share of the Divestment Business and
+     MTX (27) remains below 20%. In addition, the Trustee has not identified any
+         vertical competition or foreclosure concerns involving the supply of pre-treated
+           foil, in particular due to the fact that neither MTX (28) nor the Divestment
+        Business hold an individual or combined market share above 30% at any
+          level. (29) For completeness, the Commission notes that MTX does not supply
+         pre-treated foil for human food and wet pet food which are the market where
+        concerns were raised.
+(37)    In addition, the Trustee confirmed that the acquisition of the Divestment Business
+           is not subject to any regulatory nor governmental approvals. (30)
+(38)   On the basis of the above and taking into account the Reasoned Opinion submitted
+       by the Trustee, the Commission concludes that the acquisition of the Divestment
+        Businesses by MTX. is neither likely to create prima facie competition concerns,
+        nor give rise to a risk that the implementation of the Commitments will be
+        delayed.
+
+
+(22)     Reasoned Proposal, paragraph 30 and following.
+(23)     Reasoned Proposal, paragraph 30 and following.
+(24)     These include according to the Notifying Party: Amcor, Laminazione Sottile, Aluminium Feron,
+        Alucoat, Novelis, Impol, Hydro Aluminium, Iberfoil, Alupol, Speira, Aluberg, Carcano, Royal
+        Vaassen, Gascogne Laminates, Leipa, and Symetal.
+(25)     Reasoned Proposal, paragraph 30 and following.
+(26)     Reasoned Opinion, section 6.5.2.
+(27)      [Confidential information on mtx’s ownership structure].
+(28)      [Confidential information on mtx’s ownership structure].
+(29)     Reasoned Opinion, section 6.5.2.
+(30)     Reasoned Opinion, section 6.5.3.
+                                                     9
+
+[PÁGINA PDF 11]
+(39)    This prima facie assessment is based on the information available for the purpose
+         of this buyer approval and does not prejudge the competition assessment of the
+         acquisition of the Divestment Business by a competent competition authority
+        under applicable merger control rules.
+
+2.4.     Sale in a manner consistent with the Commitments
+(40)    The acquisition of the Divestment Business by MTX will be carried out under the
+      SPA dated 18 December 2024 (31), including the main ancillary documents,
+       namely the TSA, the Supply Agreement (‘SA’), and the TTA, (all together
+        ‘Transaction Documents’).
+(41)    The  Parties  confirmed  that  pursuant  to  the  Transaction Documents,  the
+        Divestment  Business   is  being  sold  in  a  manner  consistent  with  the
+       Commitments. (32)
+(42)    The  Trustee  performed  a  detailed  comparison  between  the  Transaction
+       Documents and the Commitments and observed no material deviations between
+         the Commitments and the Transaction Documents. In particular, the Trustee notes
+          that, in line with the Commitments, the products to be supplied to the MTX as per
+         the SA are “at cost”. The Trustee further notes that appropriate incentives schemes
+         for key personnel, including the personnel to be potentially transferred in the
+        context of the TTA, are provided for. (33)
+(43)     Finally, the Trustee notes that it has explicitly interacted with MTX and received
+         the confirmation from  the  latter  that  it  is  satisfied with  the manner  the
+       Commitments are reflected in the Transaction Documents. (34)
+(44)    The Commission notes in addition to the above that the TTA provides, as foreseen
+         in the Commitments, for the possibility for the Proposed Purchaser to obtain, at
+       no cost, access to the necessary know-how and technical documentation to order
+         the required co-extrusion line and to produce the co-extruded foil. (35)
+(45)    For completeness, the amendment to the Transaction Documents explicitly
+         specifies that  if there is any conflict between the terms of the Transaction
+       Documents and the provisions of the Commitments, the provisions of the
+       Commitments shall prevail.
+(46)    Based on the above and in line with the Reasoned Opinion by the Trustee, the
+       Commission concludes that the Divestment Business is being sold in a manner
+         consistent with the Decision and the Commitments.
+
+
+
+
+(31)     Including certain amendments to the SPA, the first one dated 6 February 2025 and the second one
+        dated 29 April 2024.
+(32)     Reasoned Proposal, paragraph 37. The Trustee further notes that the same also applies to the
+        products that MTX supplies to the Parties as per the Reverse Supply Agreement. The latter is not a
+        requirement per the Commitments but a commercial agreement between the Parties and MTX.
+       Given the relatively low volumes and the relatively short term of these reverse supplies, the Trustee
+       deems this not to be problematic.
+(33)     Reasoned Opinion, section 5.4.3.
+(34)     Reasoned Opinion, section 5.4.2.
+(35)     This includes in particular (i) AFP’s specifications for retortable lidding and the accompanying co-
+         extrusion process (including the bill of materials, rooting, and technical procedures), (ii) AFP’s
+        homologation / qualification records with respect to customers of retortable food lidding and (iii)
+        reasonable access to AFP’s co-extrusion assets for the Proposed Purchaser to test its own plain foil
+       and related raw materials on AFP’s co-extrusion assets.
+                                                     10
+
+[PÁGINA PDF 12]
+3.    CONCLUSION
+(47)    Based on the above assessment, the Commission approves MTX as a suitable
+        purchaser for the above-mentioned reasons.
+(48)    Based on the Transaction Documents, the Commission further concludes that the
+        Divestment Business is being sold in a manner consistent with the Commitments.
+(49)    This decision only constitutes approval of the Proposed Purchaser identified
+        herein and of the Transaction Documents. This decision does not constitute a
+        confirmation that Constantia has complied with its Commitments.
+(50)    This decision is based on paragraph 22 of the Commitments attached to the
+       Commission Decision of 29 January 2025.
+
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                     Olivier GUERSENT
+                                                Director-General
+                                                 Directorate-General for
+                                               Competition
+
+
+
+
+
+                                                     11

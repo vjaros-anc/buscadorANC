@@ -1,0 +1,600 @@
+[PÁGINA PDF 1]
+        EUROPEAN COMMISSION
+           DG Competition
+
+
+               Case M.10792 - PHILIP MORRIS
+             INTERNATIONAL / SWEDISH
+                         MATCH
+
+
+
+
+                           Only the English text is available and authentic.
+
+
+          REGULATION (EC) No 139/2004
+              MERGER PROCEDURE
+
+
+Decision on the implementation of the commitments -
+                                Purchaser approval
+                                  Date: 08/06/2023
+
+[PÁGINA PDF 2]
+               EUROPEAN COMMISSION
+
+
+
+                                                     Brussels, 8.6.2023
+                                             C(2023) 3858 final
+                                     PUBLIC VERSION
+
+                                                               In the published version of this decision,
+                                                 some   information   has  been   omitted
+                                                            pursuant  to  Article  17(2)  of  Council
+                                                            Regulation (EC) No 139/2004 concerning
+                                                              non-disclosure of business secrets and other
+                                                                 confidential information. The omissions are
+                                                  shown  thus  […].  Where  possible  the
+                                                             information omitted has been replaced by
+                                                            ranges of figures or a general description.
+
+                                                     Philip Morris International Inc.
+                                         Avenue de Rhodanie 50,
+                                           1007 Lausanne,
+                                                 Switzerland
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.10792 – PHILIP MORRIS INTERNATIONAL / SWEDISH
+      MATCH
+         Approval of R12 Kapital as purchaser of SMD Logistics AB following your
+            letter of 2 May 2023 and the Trustee’s opinion of 10 May 2023
+
+
+1.     FACTS AND PROCEDURE
+
+(1)    By decision of 25 October 2022 (the ‘Decision’) based on Article 6(1)(b) in
+        conjunction with Article 6(2) of Council Regulation No 139/2004 and Article 57 of
+         the Agreement on  the European Economic Area (‘EEA’),1  the Commission
+        declared the operation by which Philip Morris International Inc. (‘PMI’ or the
+        ‘Notifying Party’, United States) acquires sole control over Swedish Match AB
+       (‘SM’ or the ‘Target’, Sweden) compatible with the internal market, subject to
+         conditions  and   obligations  provided   in   the  Annex   of   the  Decision
+         (the ’Commitments’). PMI and SM are together referred to as the ‘Parties’.
+
+
+
+
+
+1       OJ L 24, 29.1.2004, p. 1 (the ‘Merger Regulation’). With effect from 1 December 2009, the Treaty
+         on the Functioning of the European Union (‘TFEU’) has introduced certain changes, such as the
+          replacement  of ‘Community’ by ‘Union’ and ‘common market’ by  ‘internal  market’. The
+          terminology of the TFEU will be used throughout this decision.
+
+Commission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111
+
+[PÁGINA PDF 3]
+(2)      In particular, the Commitments provide that PMI divest SMD Logistics AB (‘SMD
+         Logistics’ or the ‘Divestment Business’). Within  that scope, the Divestment
+        Business would include:2 3
+          (a)   the following main tangible assets:
+            –   SMD Logistics’ warehouse in Brunna (at Mätarvägen 41, 1936 37
+                 Kungsängen, Sweden) […];
+            –    The whole inventory owned by SMD Logistics in its warehouse and in
+                          its distribution network (including […]); and
+            –   SMD Logistics’ […].
+         (b)   the following intangible assets, including, but not limited to:
+            –    […];
+            –    […];
+            –    […]; and
+            –   […]
+          (c)   the following main licences, permits and authorisations:
+            –   SMD Logistics’ permit for the wholesale of tobacco in Sweden; and
+            –   SMD Logistics’ authorisations as a warehouse keeper and stockist.
+         (d)   the  following  main  contracts,  agreements,  leases,  commitments,  and
+              understandings:
+            –   SMD Logistics’ […];
+            –    Agreements for the distribution of […];
+            –   SMD Logistics’ […];
+            –   SMD Logistics’ […]; and
+            –   SMD Logistics’ […].
+          (e)   the following customer, credit, and other records:
+            –   SMD Logistics’ current customer register and records; and
+            –   SMD Logistics’ current customer contracts.
+           (f)   the following Personnel:
+            –    All personnel currently employed by SMD Logistics; and
+            –    At the option of the Purchaser, […]in each of legal, pay  roll, and
+                  procurement  functions who  currently  spend […]  of  their  time
+                   supporting SMD Logistics.4
+         (g)   the following Key Personnel:
+            –     the Hold Separate Manager –[…], Managing Director; and
+
+
+
+2       As described in Schedule 1 of the Commitments.
+3         All capitalised terms used in this decision shall have the meaning sets out in the Decision or in the
+         Commitments, as the case May be, unless otherwise specified.
+4       […] (see PMI’s response to the Commission’s RFI of 12 May 2023, question 4).
+
+                                            2
+
+[PÁGINA PDF 4]
+            –     other members of SMD Logistics’ management team, namely:
+                  •    […], Manager IT & Business Development;
+                  •    […], Business Control Manager;
+                  •    […], Warehouse Operations Manager; and
+                  •    […], Key Account Manager
+         (h)   at the option of the Purchaser, the arrangements for the supply of the
+              following products or services by PMI or Affiliated Undertakings5 for a
+                transitional period of […] after Closing with the option to extend for up to an
+               additional […] if requested by the Purchaser on a timely basis and approved
+            by the Monitoring Trustee and Commission, depending on the specific
+               service:6
+            –    IT infrastructure services, including […];
+            –    IT workstation equipment and end-user support services, such as […];
+            –    Application services, such as […];
+            –    Supply of certain packing materials;7 and
+            –    Legal, pay  roll, and procurement functions in a materially similar
+                 manner as provided to date.8
+
+(3)    By letter of 2 May 2023, PMI proposed R12 Kapital AB (‘R12 Kapital’) for
+        approval  by  the  Commission  as  purchaser  of  the  Divestment  Business
+         (the ’Reasoned Proposal’) and submitted the proposed Share Purchase Agreement
+        entered  into between PMI and R12 Kapital on 25 April 2023 and  related
+        agreements (the ‘Proposed Agreements’).
+
+(4)    On 10 May 2023, Alcis Advisers (the ‘Trustee’) submitted an assessment of R12
+         Kapital’s suitability as a purchaser (the ‘Reasoned Opinion’) and, in particular, has
+         indicated that it fulfils the criteria of the purchaser requirements in section D of the
+       Commitments attached  to the Decision. In  this assessment, the Trustee also
+         indicated that, on the basis of the Proposed Agreements, the Divestment Business
+       would be sold in a manner consistent with the Commitments.
+
+2.     ASSESSMENT OF THE PROPOSAL
+
+2.1.    Legal framework
+
+(5)     According to paragraph 16 of the Commitments, the Commission has to verify that
+         the purchaser fulfils the purchaser criteria and that the Divestment Business is
+        being sold in a manner consistent with the Commitments.
+
+
+
+
+
+5       As defined in the Commitments.
+6         Schedule 2.1 of the Transitional Service Agreement  entered into between SM and the Divestment
+          Business (see Schedule 1.73 of the Share Purchase Agreement) covers: […].
+7       […] (see PMI’s response to the Commission’s RFI of 12 May 2023, question 5).
+8        […]. See the Trustee’s Reasoned Opinion, para. 19.
+
+                                            3
+
+[PÁGINA PDF 5]
+(6)     According to paragraph 15 of the Commitments, in its assessment of the proposed
+         purchaser, the Commission should ensure in particular that:
+          (a)   the purchaser shall be independent of and unconnected to PMI and  its
+               Affiliated Undertakings (this being assessed having regard to the situation
+              following the divestiture).
+         (b)   the purchaser  shall have the  financial  resources, proven  expertise, and
+              incentive to maintain and develop the Divestment Business as a viable and
+               active  competitive  force  in  competition  with  the  Parties  and  other
+              competitors.
+          (c)   the acquisition of the Divestment Business by the purchaser must neither be
+                likely to create, in light of the information available to the Commission,
+             prima  facie  competition  concerns  nor  give  rise  to  a  risk  that  the
+             implementation of the Commitments will be delayed. In  particular, the
+              purchaser must reasonably be expected to obtain all necessary approvals from
+              the relevant regulatory authorities for the acquisition of the Divestment
+             Business and […].
+
+2.2.     Description of the proposed purchaser
+
+(7)    R12 Kapital  is a Swedish investment company owned by members of the af
+        Jochnick family and its two managing partners, Per Heselmark and Hans Ramel.
+      R12 Kapital is […].
+
+(8)     The companies in R12 Kapital’s portfolio of investments are active in a wide range
+         of sectors, including the construction and distribution of printed circuit boards,
+         boats, roll formed profiles, platform lifts, etc.
+
+2.3.    Purchaser criteria
+
+2.3.1.   Independence from the Parties
+
+(9)     According  to paragraph  15(a)  of  the Commitments,  the purchaser  shall be
+        independent from and unconnected to PMI and its Affiliated Undertakings.
+
+(10)    According to the information provided by PMI and by the Trustee, there are no
+      common board directors or management, cross-shareholdings or other structural or
+        governance links between R12 Kapital (including its portfolio companies), PMI
+       and its Affiliated Undertakings, nor any commercial or other relationships.9
+
+(11)    The  acquisition of the Divestment Business  will be made through a newly
+         established special purpose vehicle which will take the form of a limited liability
+       company incorporated in Sweden and called Kommstart 3620 AB.10 This company
+           is majority owned and solely controlled by R12 Kapital which will hold […]% of
+         the voting rights. The other non-controlling minority shareholders will include:
+          (a)   […], which is a limited liability company incorporated in Cyprus;
+         (b)  […];
+          (c)   […], who is a board member of the […].
+
+
+9        PMI’s Reasoned Proposal, paras. 2.9 – 2.11.
+10       PMI’s Reasoned Proposal, para. 2.10.
+
+                                            4
+
+[PÁGINA PDF 6]
+(12)    These  non-controlling  minority  shareholders do  not  hold any  structural  or
+        commercial link with PMI or any of PMI’s Affiliated Undertakings, except through
+      […] headquartered in Sweden and […] and whose […].11 In 2022, […] provided
+         services to PMI in […] for a total value of […] which represents [0-5]% of […]
+          total revenues in 2022 ([…]) and [0-5]% of PMI’s total operating expenses in 2022
+        ([…]). In  this  context, the Commission takes the view  that the commercial
+         relationship between […] and PMI  will have no impact on R12  Kapital’s
+        independence and ability to run the Divestment Business competitively in the
+         future.
+
+(13)    The Reasoned Opinion of the Trustee confirms that (i) R12 Kapital is entirely
+        independent of and unconnected to PMI and (ii) R12 Kapital does not have any
+         structural or commercial link with any of them.12
+
+(14)   On the basis of the information provided by PMI and taking into account the
+       Reasoned Opinion submitted by the Trustee, the Commission therefore concludes
+         that R12 Kapital is independent from, and unconnected to, PMI and its Affiliated
+        Undertakings.
+
+2.3.2.   Financial resources, proven expertise and incentive to maintain and develop the
+        Divested Business as a viable and active competitor
+
+(15)    According to paragraph 15(b) of the Commitments, the purchaser shall have the
+         financial resources, proven expertise, and incentive to maintain and develop the
+        Divestment Business as a viable and active competitive force in competition with
+         the Parties and other competitors.
+
+2.3.2.1. Financial resources
+
+(16)    The acquisition will be financed with a combination of third-party debt and equity
+        provided by the shareholders of Kommstart 3620 AB. R12 Kapital has secured
+       committed debt financing ([…] term loan and a […] overdraft  facility from
+        Nordea) and has also secured equity financing amounting to […] in a combination
+         of preferred and common stock in Kommstart 3620 AB. R12 Kapital envisages a
+        debt to equity  split of approximately […] debt to […] equity.13 The Trustee
+        confirmed that under most metrics, this debt structure is a very low leverage one,
+       and well below the industry average.14
+
+(17)     In addition, the Divestment Business has a very healthy EBIT margin of around
+      […]% which is expected to be […] in the coming years in the business plan
+        submitted by R12 Kapital15 and allows the Divestment Business to fund  its
+        development through the profits generated by its activities.
+
+(18)     In view of  the main  financial  indicators  of  the Divestment  Business,16  the
+       Commission considers that capital injections are unlikely to be required in order to
+
+
+
+11        See PMI’s response to the Commission’s RFI of 12 May 2023, question 1.
+12         Trustee’s Reasoned Opinion, para. 5.
+13       PMI’s Reasoned Proposal, para. 2.14.
+14         Trustee’s Reasoned Opinion, para. 125.
+15        Request for information - 12 May 2023 – Annex 14
+16       Annex VII to the Trustee’s Reasoned Opinion.
+
+                                            5
+
+[PÁGINA PDF 7]
+        fund current operations or future growth in the near term. This is consistent with
+        […]17 and the Trustee’s Reasoned Opinion.
+
+(19)      It is to be noted that, the repayment of the […] term loan is expected to be financed
+       by […], as explained in the Trustee’s Reasoned Opinion18 and […] submitted by
+      R12 Kapital19.
+
+(20)    This repayment by […]. However, several elements confirm that  it should not
+         affect the ability to maintain and develop the Divestment Business.
+
+(21)     First, the Divestment Business has generated positive cash flow in the past and will
+        continue to do so in the coming years. As explained in the Trustee’s Reasoned
+        Opinion, the Divestment Business has over the last four years generated a free cash
+        flow of […].20 As per the management’s business plan, which the Trustee deems
+         reasonable, SMD Logistics will in the sum of all next 3 years […].
+
+(22)    Second, the cash balance has been […] during the last 3 years,21 showing that this
+      […] was not used to cover for specific seasonal or cyclical needs. The Trustee
+         further confirmed that at no time has the cash balance of SMD Logistics been
+        lower than […]. Therefore, […] should not affect the ability of the Divestment
+        Business to operate and develop in the coming years.
+
+(23)     Third, the Divestment Business will be able to continue funding investments. The
+        Divestment Business has historically […] its capital needs […]. As per the business
+         plan, […].22 In addition, […].23
+
+(24)    Moreover, should such investments be necessary and the Divestment Business’
+        cash prove insufficient, R12 Kapital currently holds a portfolio of companies that
+       would provide  it with sufficient and easy to liquidate capital to satisfy future
+        investment requirements if required.24 In particular, the Commission notes that R12
+        Kapital holds more than […] in liquid assets such as shares and convertibles in two
+          listed businesses (NCAB and Nimbus).25
+
+(25)    This is consistent with the Trustee’s Reasoned Opinion which confirms that R12
+         Kapital’s financial resources are sufficient to implement the intended acquisition of
+         the Divestment Business and support the operations of the Divestment Business
+        going forward.26
+
+2.3.2.2. Proven expertise
+
+(26)    The Commission notes that the Divestment Business has been run on a standalone
+         basis by SM and  all of  the personnel involved  in  the management of  the
+        Divestment Business will be transferred to the purchaser. Furthermore, R12 Kapital
+
+
+17       Annex VI to the Trustee’s Reasoned Opinion.
+18         Trustee’s Reasoned Opinion, para. 127.
+19        Request for information - 12 May 2023 – Annex 14
+20         Trustee’s Reasoned Opinion, para. 129.
+21        Request for information - 17 May 2023 – Reply to question 4
+22        Request for information - 17 May 2023 – Annex 2.1
+23        Request for information - 17 May 2023 – Annex 2.1
+24         Trustee’s Reasoned Opinion, paras. 9-10.
+25       PMI’s Reasoned Proposal, para. 2.17.
+26         Trustee’s Reasoned Opinion, para. 10.
+
+                                            6
+
+[PÁGINA PDF 8]
+        confirmed that  it intends to rely significantly on the capabilities of the existing
+       management of SMD Logistics.27
+
+(27)     In addition, the Commission notes that R12 Kapital invests in companies across
+        various sectors with a strong geographic focus on Scandinavia. As a predominantly
+       Swedish business, the Divestment Business would stand to benefit from R12
+         Kapital’s in-depth knowledge of Scandinavian markets.28
+
+(28)    Despite the absence of prior experience of R12 Kapital in the distribution of
+        tobacco, smoke-free and related products in Sweden, the Commission notes that
+      R12 Kapital has prior experience in other industries for which distribution and
+          logistics operations are complex and play a  critical role, for instance for the
+        manufacture of electronic equipment, boats and lift platforms.29
+
+(29)      It can also be noted that the managing partners of R12 Kapital also have experience
+         in  logistics  derived from  their  ongoing  involvement  with  Oriflame,  i.e.  a
+         multinational company distributing beauty and personal care products which sent
+      […] products in 2022 to over […] customers in 60 different countries.30
+
+(30)     Finally, R12 Kapital has  built a track record of successful acquisitions and
+        subsequent development of acquired companies. By way of  illustration, R12
+        Kapital acquired Nimbus when the company was in a situation of bankruptcy and
+         the company is now valued around SEK 800 million on the stock market.31 NCAB
+       Group AB and Cibes Lift Group AB can also be regarded as successful acquisitions
+         in which R12  Kapital managed  to  develop  the  activities  of  the  acquired
+        companies.32
+
+(31)    This is consistent with the Reasoned Opinion of the Trustee who confirmed that
+      R12 Kapital has demonstrated sufficient level of expertise and capabilities to
+        maintain and develop the Divestment Business.33
+
+2.3.2.3. Incentive to maintain and develop the Divestment Business
+
+(32)     In  light of the main financial indicators of SMD Logistics, the Commission
+        considers  that  the  Divestment  Business  represents  an  attractive  investment
+        opportunity for R12 Kapital. This is confirmed by R12 Kapital’s business plan and
+         the commercial due diligence carried out at the request of R12 Kapital.
+
+(33)    According to its business plan, R12 Kapital expects SMD Logistics’ net revenue to
+       grow by […]% in 2023 and by approximately […]% each year until 2030.34 In the
+        meantime, the Commission notes that the EBITDA margin of the Divestment
+        Business  is […] and according to R12 Kapital’s business plan, this EBITDA
+        margin will […] in 2030.35
+
+
+27        See the Parties’ Reasoned Proposal of 2 May 2023, paras. 2.24.
+28       PMI’s Reasoned Proposal, paras. 2.4 and 2.22.
+29         Trustee’s Reasoned Opinion, para. 6.
+30         Trustee’s Reasoned Opinion, para. 6.
+31         Trustee’s Reasoned Opinion, para. 116.
+32         Trustee’s Reasoned Opinion, para. 116.
+33         Trustee’s Reasoned Opinion, para. 6.
+34       Annex VIII to the Trustee’s Reasoned Opinion.
+35       Annex VIII to the Trustee’s Reasoned Opinion.
+
+                                            7
+
+[PÁGINA PDF 9]
+(34)    This is consistent with SMD Logistics’ own business plan according to which the
+       computed average growth rate (‘CAGR’) of SMD Logistics’ net revenues between
+       2022 and 2025 will be around […]% and SMD Logistics’ EBITDA margin will
+        remain around […]% in 2025.36 According to the commercial due diligence report,
+     SMD Logistics’ business plan is realistic and achievable.37
+
+(35)    This is also the view of the Trustee’s Reasoned Opinion according to which R12
+        Kapital has the capabilities and the proper incentives to maintain and develop the
+        Divestment Business.38
+
+(36)     In view of the information provided by PMI and taking into account the Reasoned
+        Opinion submitted by the Trustee, the Commission considers that R12 Kapital has
+        a proven incentive to continue investing to maintain and develop the Divestment
+        Business.
+
+2.3.3.   Absence of prima facie competition problems or risk of delayed implementation
+
+(37)    According  to  paragraph  15(c)  of  the Commitments,  the  acquisition  of  the
+        Divestment Business by the purchaser must neither be likely to create prima facie
+        competition concerns nor give  rise to a  risk  that the implementation of the
+       Commitments  will be delayed,  in  light  of  the information  available  to  the
+       Commission.
+
+(38)     In particular, the purchaser must reasonably be expected to obtain all necessary
+        approvals from  the  relevant regulatory  authorities  for the  acquisition of the
+        Divestment Business and […]
+
+(39)   R12 Kapital (including  its controlled portfolio companies) is not active in the
+        market for distribution of combustible tobacco, smoke-free, and related products in
+       Sweden or Norway, nor in any market upstream or downstream from this market.39
+      As a result, there is no horizontal overlap or vertical relationship between the
+          activities of R12 Kapital and the Divestment Business.
+
+(40)    Given that R12 Kapital (including its controlled portfolio companies) is not active
+         in the manufacture or supply of (i) factory manufactured cigarettes, (ii) roll-your-
+      own tobacco products,  (iii) heated tobacco products, (iv) snus or (v) nicotine
+        pouches and that it has no relationship or arrangement with any manufacturer of
+        such products, it cannot be considered as a […] for any of these products.40
+
+(41)    Likewise, none of R12 Kapital’s managing partners and the companies in which
+      R12 Kapital holds non-controlling shareholdings are active in the markets for the
+        manufacture, supply or  distribution of combustible tobacco, smoke-free, and
+         related products in Sweden or Norway, nor in any market upstream or downstream
+       from this market.41 In particular, none of R12 Kapital’s managing partners and the
+       companies in which R12 Kapital holds non-controlling shareholdings are [active in
+
+
+36       Annex IX to the Trustee’s Reasoned Opinion.
+37       Annex VI to the Trustee’s Reasoned Opinion.
+38         Trustee’s Reasoned Opinion, paras. 11 – 12.
+39       PMI’s Reasoned Proposal, paras. 2.34.
+40       PMI’s Reasoned Proposal, para. 2.33.
+41       PMI’s Reasoned Proposal, para. 2.34. See also PMI’s response to the Commission’s RFI of 12 May
+         2023, question 2.
+
+                                            8
+
+[PÁGINA PDF 10]
+         the supply of  (i) factory manufactured  cigarettes,  (ii) roll-your-own tobacco
+         products, (iii) heated tobacco products, (iv) snus or (v) nicotine pouches].42
+
+(42)     Finally, PMI submits that the acquisition of the Divestment Business by R12
+        Kapital  is  not  subject  to  approval under merger  control  provisions  in any
+         jurisdiction and according to R12 Kapital, no foreign investment filings or other
+         regulatory approvals are required.43
+
+(43)    The Trustee’s Reasoned Opinion also considers that the Transaction will not raise
+        prima facie competition concerns as R12 Kapital and its portfolio companies are
+        not active in the market for the distribution of combustible tobacco, smoke-free and
+         related products in Sweden or Norway, nor any market upstream or downstream of
+         these markets.
+
+(44)     In view of the foregoing and taking into account the Reasoned Opinion submitted
+       by the Trustee, the Commission considers that the acquisition by R12 Kapital of
+         the Divestment Business does not give rise to prima facie competition concerns nor
+         to a risk that the implementation of the Commitments will be delayed.
+
+2.4.     Sale in accordance with the Commitments
+
+(45)    The Proposed Agreements consist of a Share Purchase Agreement44 entered into
+       between PMI and Kommstart 3620 AB on 25 April 2023, and the Transitional
+        Services Agreement (‘TSA’).45
+
+2.4.1.   Share Purchase Agreement
+
+(46)    The Commission  takes  the view  that  the  provisions  of  the Share Purchase
+       Agreement are in line with the Commitments.46
+
+(47)     First, the scope of the Divestment Business is in line with Schedule 1 of the
+       Commitments.
+
+(48)    Second, the only condition precedent  is the approval of R12 Kapital by the
+       Commission which  limits  the  risk  of  delay  in  the  implementation  of  the
+        Commitments.47 Furthermore, the closing date  is set on […].48 This gives an
+         incentive to the parties to close the transaction and implement the transaction as
+        soon as possible.
+
+(49)     Third, the Commission has not identified any provision in the Share Purchase
+       Agreement that could limit the independence of R12 Kapital vis-à-vis PMI and its
+         Affiliated Undertakings,  that could  deter R12 Kapital from maintaining and
+        developing the Divestment Business or otherwise jeopardise the  viability or
+        competitiveness of the Divestment Business.
+
+
+
+42       PMI’s Reasoned Proposal, para. 2.34. See also PMI’s response to the Commission’s RFI of 12 May
+         2023, question 2.
+43       PMI’s Reasoned Proposal, paras. 2.35 – 2.38.
+44       PMI’s Reasoned Proposal, Annex 1.4.
+45        Schedule 1.73 of the Share Purchase Agreement.
+46         Trustee’s Reasoned Opinion, para. 18.
+47       PMI’s Reasoned Proposal, Annex 1.4. Article 4.
+48       PMI’s Reasoned Proposal, Annex 1.4. Article 6.
+
+                                            9
+
+[PÁGINA PDF 11]
+(50)    This is consistent with the Trustee’s Reasoned Opinion which confirms that the
+        Share Purchase Agreement is consistent with the Commitments.49
+
+2.4.2.  TSA
+
+(51)    The Commission also takes the view that the provisions of the TSA are consistent
+        with the Commitments.
+
+(52)     First, the scope of the services covered by this TSA is consistent with para. 2.8 of
+        Schedule 1 of the Commitments.50
+
+(53)    Second, the services provided will be offered at a […] based on the […].51
+
+(54)     Third, an […] has been agreed which should enable the parties to quickly solve
+         potential disputes concerning the performance of each party’s obligations under the
+        TSA.52
+
+(55)     Fourth, as provided for in the Commitments, R12 Kapital opted […].
+
+(56)     Fifth, the TSA will cover […]. Instead of the […] period initially foreseen in the
+       Commitments, which could be extended by […] at the option of R12 Kapital, the
+         Parties agreed that an initial period of […] should be sufficient for these services.
+       However, R12 Kapital will keep the possibility to extend this period to up to […]
+         as envisaged in the Commitments  if needed. In that context, the Commission
+        considers that this deviation from the text of the Commitments does not negatively
+         affect the viability and competitiveness of the Divestments Business.
+
+(57)     Sixth, the Commission has not identified any provision in the TSA that could
+         jeopardise the viability or competitiveness of the Divestment Business.
+
+(58)    This is in line with the Trustee’s Reasoned Opinion which confirms that the Share
+        Purchase Agreement is consistent with the Commitments.53
+
+2.4.3.   Conclusion
+
+(59)     In view of the foregoing, the information provided by PMI and the Trustee’s
+       Reasoned Opinion, the Commission considers that the Proposed Agreements are
+         consistent with the Commitments and that the Divestment Business will be sold to
+      R12 Kapital in accordance with the Commitments.
+
+3.     CONCLUSION
+
+(60)   On the basis of the above assessment, the Commission approves R12 Kapital as a
+         suitable purchaser for the above-mentioned reasons. On the basis of the Proposed
+        Agreements, the Commission further concludes that the Divestment Business is
+        being sold in accordance with the Commitments.
+
+
+49         Trustee’s Reasoned Opinion, para. 18.
+50       R12  Kapital opted […]  (see PMI’s response  to  the Commission’s RFI  of 12 May 2023,
+          question 6(a)).
+51         Trustee’s Reasoned Opinion, para. 19.
+52         Trustee’s Reasoned Opinion, para. 19.
+53         Trustee’s Reasoned Opinion, para. 19.
+
+                                            10
+
+[PÁGINA PDF 12]
+(61)    This decision only constitutes approval of the proposed purchaser identified herein
+       and of the Proposed Agreements. This decision does not constitute a confirmation
+         that PMI has complied with its Commitments.
+
+(62)    This  decision  is based on Section D  of  the Commitments  attached  to  the
+       Commission Decision of 25 October 2022.
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                     Olivier GUERSENT
+                                                Director-General
+
+
+
+
+
+                                            11

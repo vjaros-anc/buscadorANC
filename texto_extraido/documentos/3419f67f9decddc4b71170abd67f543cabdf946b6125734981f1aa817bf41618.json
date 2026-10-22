@@ -1,0 +1,95 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "3419f67f9decddc4b71170abd67f543cabdf946b6125734981f1aa817bf41618",
+  "extraido_utc": "2026-10-22T19:41:08+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11071_DICT_01",
+      "caso": "M.11071",
+      "universo": "principal",
+      "titulo": "Dictamen del Comité Consultivo — DEUTSCHE LUFTHANSA / MEF / ITA",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202435/M_11071_10212859_19691_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202435/M_11071_10212859_19691_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11071/M.11071_DICT_01_3419f67f9dec.pdf",
+      "sha256": "3419f67f9decddc4b71170abd67f543cabdf946b6125734981f1aa817bf41618",
+      "coincide_inventario": "",
+      "bytes": "169263",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202435/M_11071_10212859_19691_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "              EUROPEAN COMMISSION\n                        DIRECTORATE-GENERAL FOR COMPETITION\n\n\n\n\n                   OPINION\n\n                   of the ADVISORY COMMITTEE on MERGERS\n               at its meeting on 28 JUNE 2024, 10:00 -12:00 (CEST)\n\n                         concerning a draft decision\n\n            in case M.11071 - DEUTSCHE LUFTHANSA / MEF / ITA\n\n\n                       RAPPORTEUR: BULGARIA\n\n\nConcentration\n\n1.    The Advisory Committee (7 Member States) agrees with the Commission that the\n        notified transaction constitutes a concentration within the meaning of Article 3(1)(b)\n       of the Council Regulation (EC) No 139/2004 of 20.1.2004 on the control of\n       concentrations between undertakings (the \"Merger Regulation\")1.\n\n2.    The Advisory Committee (7 Member States) agrees with the Commission that the\n        notified operation has a Union dimension pursuant to Article 1(2) of the Merger\n       Regulation.\n\nMarket definition\n\n3.    The Advisory Committee (7 Member States) agrees with the conclusions reached by\n       the Commission in the draft Decision in relation to the definition of the following\n       relevant markets for:\n\n        a)  the supply of passenger air transport\n       o  each overlap route  falls into a separate market (applying an Origin &\n              Destination approach);\n       o  the effects of the transaction are assessed for each of the IATA seasons;\n       o  there is no need to distinguish between sales to end customers and sales to\n               tour operators in this case;\n       o  time sensitive and non-time sensitive passengers fall into the same market\n             with respect to short-haul flights while this distinction does not affect the\n              competitive assessment with respect to any of the long-haul routes examined;\n       o  in case the city of origin or destination is served by more than one airport, it\n             can be left open whether a segmentation on an airport-pair basis is warranted\n             with respect to most overlap routes relevant to the Transaction, with the\n              exception of:\n                       -   Düsseldorf: Düsseldorf airport (DUS) and Cologne airport (CGN)\n                    belong to the same market;\n\n\n1      OJ L 24, 29.1.2004, p. 1.",
+      "caracteres": 2293,
+      "caracteres_utiles": 1505,
+      "cobertura_imagen_maxima": 0.0114,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "AdCom M.11071- DEUTSCHE LUFTHANSA / MEF / ITA                                                            2\n                       -   Milan: Milan Linate airport (MLN) and Milan Malpensa airport\n                (MXP) belong to the same market;\n                       -  Rome: Fiumicino airport (FCO) and Ciampino airport (CIA) belong\n                       to the same market; and\n                       -  New York: John F. Kennedy International airport (JFK) and Newark\n                     Liberty International airport (EWR) belong to the same market.\n       o  a potential segmentation between direct and indirect flights for the long-haul\n               routes can be left open, taking into account that direct flights compete more\n               closely with other direct flights than with indirect flights; by contrast, direct\n            and indirect flights do not form part of the same market for the relevant\n               short-haul routes unless specific circumstances exist, mainly where the share\n              of indirect  flights in the overall market  is  significant,  at  least 10% of\n              passengers;\n       o   it is not necessary to distinguish separate markets for charter flights and\n              scheduled flights for most of the overlap routes;\n       o   air and rail passenger services should generally not be considered to fall in\n               the same market where the train connection takes longer than around 4 hours.\n\n        b)  the supply of feeder traffic defined on an O&D basis\n        c)  the market for airport infrastructure services to airlines under the airport-by-\n            airport approach\n        d)  the supply of cargo air transport services\n        e)  the supply of aircraft maintenance, overhaul and repair (‘MRO’) services\n          f)  the supply of ground handling services\n        g)  the supply of cargo handling services\n        h)  the supply of flight training services\n           i)  the supply of flight ticket distribution services\n\nCompetitive assessment\n\n4.    The Advisory Committee  (7 Member  States)  agrees  with  the Commission’s\n       assessment that the notified transaction is likely to significantly impede effective\n       competition, mainly as a result of a creation or strengthening of a dominant position\n        in the following relevant markets. Namely:\n\n        a) 18 current/future short-haul routes, out of which 10 direct-direct overlap routes\n          (Milan – Brussels, Milan – Düsseldorf, Milan – Frankfurt, Milan-Hamburg\n         (Summer IATA Season), Milan-Vienna, Rome – Frankfurt, Rome – Munich,\n        Rome – Zurich, Rome – Hamburg , Rome-Brussels; and 8 direct-indirect routes:\n           Bari – Munich, Naples – Frankfurt, Brindisi – Düsseldorf (Summer IATA\n           Season), Bari – Frankfurt (Winter IATA Season), Bari – Hamburg (Summer\n        IATA Season), Naples – Düsseldorf (Winter IATA Season), Naples – Hamburg\n         (Summer IATA Season), Cagliari – Munich (Summer IATA Season); and\n\n        b) 3 current long-haul overlap routes: Rome – Washington, Rome – San Francisco,\n          and Rome – Toronto (Summer IATA Season).\n\n5.    The Advisory Committee  (7 Member  States)  agrees  with  the Commission’s\n       assessment that the notified transaction is likely to significantly impede effective\n       competition with respect to the market for airport infrastructure services as a result\n       of a creation or strengthening of a dominant position in Milan Linate.",
+      "caracteres": 3497,
+      "caracteres_utiles": 2327,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 3,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "AdCom M.11071- DEUTSCHE LUFTHANSA / MEF / ITA                                                            3\n6.      Lastly, regarding the other markets discussed in Section 12 of the draft Decision (i.e.\n       passenger air transport on other short-haul and long-haul overlap routes, airport\n        infrastructure services at other airports, cargo air transport, MRO, ground handling,\n       cargo handling, flight training, flight ticket distribution services and feeder traffic),\n       the  Advisory Committee  (7 Member  States)  agrees  with  the Commission’s\n       assessment that the notified transaction does not result in a significant impediment of\n        effective competition.\n\nCommitments\n\n7.    The Advisory Committee  (7 Member  States)  agrees  with  the Commission’s\n       conclusion that the Final Commitments, as offered by the Notifying Parties on 18\n       June  2024,  are  adequate and  sufficient  to  eliminate  entirely  the  significant\n      impediment to effective competition in connection with scheduled air passenger\n        transport on short-haul routes identified in Section 9 of the draft Decision.\n\n8.    The Advisory Committee  (7 Member  States)  agrees  with  the Commission’s\n       conclusion that the Final Commitments are adequate and sufficient to eliminate\n        entirely the significant impediment to effective competition in connection with\n       scheduled air passenger transport on long-haul routes identified in Section 10 of the\n        draft Decision.\n\n9.    The Advisory Committee  (7 Member  States)  agrees  with  the Commission’s\n       conclusion that the Final Commitments are adequate and sufficient to eliminate\n        entirely the significant impediment to effective competition in connection with\n       access to airport infrastructure services at Milan Linate airport identified in Section\n      11 of the draft Decision.\n\n10.   The Advisory Committee (7 Member States) agrees with the Commission that,\n       subject to the full compliance with the Final Commitments, the notified transaction\n         is not likely to significantly impede effective competition in the internal market or in\n       a substantial part of it.\n\nCompatibility with the internal market and the Agreement on the European Economic\nArea\n\n11.   The Advisory Committee (7 Member States) agrees with the Commission that the\n        notified concentration must therefore be declared compatible with the internal\n       market and the Agreement on the European Economic Area2 in accordance with\n        Article 2(2) and Article 8(2) of the Merger Regulation and Article 57 of the\n      Agreement on the European Economic Area.\n\n                                 ***\n\n\n\n\n\n2      OJ L 1, 3.1.1994, p.3.",
+      "caracteres": 2743,
+      "caracteres_utiles": 1984,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "1a93d01dec291d1a413cf30f39c4058571447700935d53a34acf648516deb830",
+  "extraido_utc": "2026-10-22T19:46:12+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "Jonas RASIMAS",
+    "subject": "",
+    "keywords": "EL4",
+    "creator": "PDF CoDe 5.2502.915.0 (c) 2002-2024 European Commission",
+    "producer": "PDF CoDe 5.2502.915.0 (c) 2002-2024 European Commission",
+    "creationDate": "D:20260716120321+02'00'",
+    "modDate": "D:20260716120329+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.12161_OTRO_01",
+      "caso": "M.12161",
+      "universo": "principal",
+      "titulo": "Trustee details — BH / CHART",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202629/M_12161_1881.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202629/M_12161_1881.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_12161/M.12161_OTRO_01_1a93d01dec29.pdf",
+      "sha256": "1a93d01dec291d1a413cf30f39c4058571447700935d53a34acf648516deb830",
+      "coincide_inventario": "",
+      "bytes": "35247",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202629/M_12161_1881.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "       MONITORING TRUSTEE IN CASE M.12161 – BH / CHART\n\n\n\nOn 14/07/2026 the Commission approved the appointment of:\n\n        S&W Partners LLP;\n\n             Address: 45 Gresham Street, London EC2V 7BG\n             United Kingdom\n\n             Email: Nasoul.Gopal@swgroup.com; Lorenzo.Migliaccio@swgroup.com\n\nas Monitoring Trustee in the above-mentioned case.\n\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of Baker Hughes\nCompany and Chart Industries, Inc. with the Commitments attached to the Commission's\nDecision of 10/07/2026 and to report to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 857,
+      "caracteres_utiles": 648,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

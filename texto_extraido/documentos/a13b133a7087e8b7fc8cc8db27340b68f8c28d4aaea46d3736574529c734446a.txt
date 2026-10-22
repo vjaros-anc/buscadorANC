@@ -1,0 +1,523 @@
+[PÁGINA PDF 1]
+       EUROPEAN COMMISSION
+          DG Competition
+
+
+
+             Case M.11383 - COOPER / VIATRIS
+             (EUROPEAN OTC BUSINESS)
+
+
+
+
+                           Only the English text is available and authentic.
+
+
+          REGULATION (EC) No 139/2004
+              MERGER PROCEDURE
+
+
+Decision on the implementation of the commitments -
+                                Purchaser approval
+                                  Date: 09/12/2024
+
+[PÁGINA PDF 2]
+              EUROPEAN COMMISSION
+
+
+
+                                                    Brussels, 09.12.2024
+                                             C(2024) 8836 final
+                                     PUBLIC VERSION
+
+                                                              In the published version of this decision,
+                                                 some   information  has  been   omitted
+                                                             pursuant  to  Article  17(2)  of  Council
+                                                            Regulation (EC) No 139/2004 concerning
+                                                              non-disclosure  of  business  secrets  and
+                                                                other    confidential   information.   The
+                                                           omissions  are shown  thus […]. Where
+                                                                possible the information omitted has been
+                                                              replaced by ranges of figures or a general
+                                                                   description.
+
+                                           Cooper Consumer Health S.A.S.
+                                                 Place Lucien Auvert
+                                           77000 Melun
+                                               France
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.11383 – COOPER / VIATRIS (EUROPEAN OTC BUSINESS)
+         Approval  of Infectopharm as purchaser  of the Otowaxol Divestment
+          Business following your letter of 4 October 2024 and the Trustee’s opinion
+           of 22 November 2024
+
+1.     FACTS AND PROCEDURE
+
+(1)    By decision of 26 June 2024  (the “Decision”) based on  Article  6(1)(b)  in
+        conjunction  with  Article  6(2)  of  Council  Regulation No  139/20041,  the
+       Commission declared the acquisition of sole control by Cooper Consumer Health
+        S.A.S. (“Cooper”, France)2 over the European over-the-counter (“OTC”) business
+         of  Viatris  Inc.  (the “Target”, France and  Italy)  (together with Cooper,  the
+        “Parties”) compatible with the internal market, subject to the conditions and
+         obligations set out in the final Otowaxol commitments submitted on 24 June 2024
+       and annexed to the Decision (the “Commitments”).3
+
+
+1      OJ L 24, 29.1.2004, p. 1 (the ‘Merger Regulation’). With effect from 1 December 2009, the Treaty on
+         the Functioning of the European Union (‘TFEU’) has introduced certain changes, such as the
+        replacement  of ‘Community’ by  ‘Union’  and ‘common  market’ by  ‘internal  market’. The
+        terminology of the TFEU will be used throughout this decision.
+2       Cooper is solely controlled by CVC Capital Partners SICAV-FIS S.A. (“CVC”), a private equity
+        investment firm.
+3        All defined terms in this decision shall have the same meaning as in the Commitments unless
+        otherwise defined herein.
+
+
+
+Commission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111
+
+[PÁGINA PDF 3]
+(2)      In particular, under the Commitments, the Parties undertook to divest to a suitable
+        purchaser or purchasers:
+        (a)  The  rights,  title and  interests in Bebegel including the right to develop,
+            manufacture and use Bebegel, with a view to its sale and marketing in any
+           form in Portugal and, at the purchaser's option, in France (the “Bebegel
+           Divestment Business”); and
+        (b)  The rights,  title and interests in Otowaxol including the right to develop,
+            manufacture and use Otowaxol, with a view to its sale and marketing in any
+           form in Germany and, at the purchaser's option, in Ireland (the “Otowaxol
+           Divestment Business”).
+
+(3)     This decision concerns the approval of the proposed purchaser of the Otowaxol
+        Divestment Business.
+
+(4)    By the reasoned proposal dated 4 October 2024 (the “Reasoned Proposal”),
+       Cooper   proposed   InfectoPharm   Arzneimittel   und   Consilium  GmbH
+        (“InfectoPharm”, Germany) for approval by the Commission as purchaser of the
+       Otowaxol Divestment Business. Cooper also submitted a copy of the proposed
+         asset purchase agreement  to  the Commission which was  entered  into with
+        InfectoPharm on 27 September 2024 (the “Otowaxol APA”).
+
+(5)     The  Otowaxol APA  was  amended  on  21  November  2024  (the “APA
+       Amendment”). The APA Amendment was submitted to the Commission on
+       22 November 2024. The Otowaxol APA as amended by the APA Amendment
+         together with its schedules including a transitional services agreement between
+      Meda Pharma S.p.A (“Meda”), a subsidiary of Cooper, and InfectoPham relating
+         to the recertification process of Otowaxol4 (the “TSA”) and Form of Right to Use
+         Viatris Names are referred to as the “Transaction Documents”.
+
+(6)     The Otowaxol APA sets out the terms of the sale and transfer of the Otowaxol
+        Divestment Business to InfectoPharm. The Transaction Documents are conditional
+       on the Commission approving InfectoPharm as the purchaser of the Otowaxol
+        Divestment Business.
+
+(7)     Under the Otowaxol APA, Cooper shall use its best efforts to obtain the necessary
+        consent to assign the relevant parts of the manufacturing contract related to
+       Otowaxol  to  InfectoPharm.  The  Otowaxol APA  foresees  a  back-to-back
+        arrangement between Cooper and InfectoPharm for a duration of up to three years
+         in case an assignment cannot be obtained on substantially the same terms and
+         conditions.
+
+(8)    On 22 November 2024, Monitoring Trustee Partners B.V. (“MTP”), acting as the
+        monitoring trustee (the “Trustee”), submitted its assessment of InfectoPharm’s
+          suitability as a purchaser (the “Reasoned Opinion”). In particular, the Trustee
+         indicated that  it considers InfectoPharma to fulfil the criteria of the purchaser
+        requirements set out in paragraph 16 of the Commitments. In this assessment, the
+        Trustee also indicated  that, on the basis of the Transaction Documents, the
+       Otowaxol Divestment Business would be sold in a manner consistent with the
+       Commitments.
+
+
+4       See paragraph (18) below.
+
+
+
+
+                                                     2
+
+[PÁGINA PDF 4]
+2.     ASSESSMENT OF THE PROPOSAL
+
+(9)     According to paragraphs 16 and 17 of the Commitments, the purchaser must fulfil
+         certain criteria as provided below (the “Purchaser Criteria”) and the divestment
+        businesses are to be sold in a manner consistent with the Commitments, including
+          their objective to bring about a lasting structural change in the market.
+
+2.1.    Assessment of the Purchaser Criteria
+
+(10)   As set out in paragraph 16 of the Commitments, the purchaser of the Otowaxol
+        Divestment Business must fulfil the following criteria:
+        (a)  The Purchaser(s) shall be independent of and unconnected to the Notifying
+            Party and their Affiliated Undertakings (this being assessed having regard to
+             the situation following the divestiture);
+        (b)  The Purchaser(s) shall have the financial resources, proven expertise and
+             incentive to maintain and develop the relevant Divestment Business as a viable
+           and  active  competitive  force  in  competition  with  Cooper  and  other
+             competitors;
+        (c)  The acquisition of the relevant Divestment Business by the Purchaser(s) must
+             neither be  likely  to  create,  in  light  of the information available  to the
+           Commission, prima facie competition concerns nor give rise to a risk that the
+            implementation  of  the Commitments  will be  delayed.  In  particular,  the
+            Purchaser(s) must reasonably be expected to obtain all necessary approvals
+           from the relevant regulatory authorities for the acquisition of the Divestment
+             Businesses; and
+        (d)  (…) the Purchaser of the Otowaxol Divestment Business must have a sales and
+            marketing presence and access to an appropriate distribution network in
+          Germany  in  the  relevant  sales  channels  (including  wholesalers  and
+            pharmacies).
+
+2.1.1.   Description of the proposed purchaser
+
+(11)    InfectoPharm  is a German family-owned pharmaceutical company focused on
+        medicines and medical devices. Initially the company was focused on paediatric
+         infectiology with a niche portfolio of unique oral liquid formulations of antibiotics
+         for  children.  It has since expanded  its  portfolio  to encompass several other
+         paediatric products, as well as dermatology, otolaryngology, pneumology and
+         allergology.
+
+(12)    Currently InfectoPharm’s  portfolio encompasses approximately 130  products.
+        Besides  medicines,  the  company  also  distributes  medical  devices,  food
+        supplements, and cosmetic products. The products marketed by InfectoPharm
+         originate either from  its own R&D  activities or from cooperation with other
+        pharmaceutical companies.
+
+(13)    InfectoPharm, with around 400 employees, has expanded internationally over that
+          last  decade,  currently  delivering  to  approximately  40  countries  through
+         subsidiaries, distribution partners, and tender businesses.
+
+
+
+
+
+                                                     3
+
+[PÁGINA PDF 5]
+2.1.2.   Independence from Cooper
+
+(14)    Pursuant to paragraph 16(a) of the Commitments, a suitable purchaser must be
+        independent of and unconnected to Cooper and its affiliated undertakings.
+
+(15)    Based  on  the  Trustee’s  review  of  information  provided  by  Cooper  and
+        InfectoPharm, there are no common board directors, cross-shareholdings or other
+          institutional ties between InfectoPharm and Cooper and its affiliated undertakings
+         (including CVC  portfolio companies), nor any material commercial or other
+         relationships.
+
+(16)   One licence and supply agreement is in place between InfectoPharm and Genetic
+        S.p.A.  (“Genetic”),  a  contract development and  manufacturing  organisation
+      (“CDMO”) controlled by CVC. The licence and supply agreement relates to the
+        product […]. The total input costs paid by InfectoPharm to Genetic for the supply
+         of […]. Moreover, the annual sales of […] are expected to account  for an
+         insignificant share of InfectoPharm’s overall turnover in the upcoming years.
+
+(17)    InfectoPharm and Cooper have confirmed that there are no additional collaboration
+        agreements, joint-ventures, licensing agreements and acquisition or divestiture
+          activities between InfectoPharm and any CVC portfolio companies (including
+        Cooper).
+
+(18)    Pursuant to the TSA, Cooper (through  its subsidiary Meda) will offer certain
+         transitional services to InfectoPharm as part of the transfer of the Otowaxol
+        Divestment Business. Otowaxol has been reclassified as a Class IIa medical device
+        under the Medical Device Regulation5 (“MDR”), and therefore needs  to be
+         recertified by a designated  “notified body”.6 Meda has  this approval  for a
+         transitional period potentially until December 31, 2028. A change in the registered
+         legal manufacturer during the transitional period would likely terminate  it and
+        prolong the recertification procedure. Therefore, Otowaxol’s recertification as a
+        Class IIa device needs to be completed before InfectoPharm can assume legal
+        manufacturer  status.  This  recertification  process,  including  submission  of  a
+         technical file and inspections, typically takes around 18 months. Meda intends to
+        submit necessary documentation by early 2025, aiming for recertification by mid-
+        2026, and will in the meantime support InfectoPharm through the TSA, remaining
+         the legal manufacturer and covering related costs during this period. Until the
+        change of legal manufacturer, InfectoPharm will act as Otowaxol's distributor.
+
+(19)    The links arising from the TSA are temporary and are to be implemented to ensure
+         the continuing viability of the Otowaxol Divestment Business. Furthermore, this
+        arrangement will not enable Cooper or its affiliated undertakings to affect, directly
+         or indirectly, InfectoPharm’s strategic behaviour.
+
+
+5       Regulation (EU) 2017/745 of the European Parliament and of the Council 5 April 5, 2017 on medical
+         devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC)
+      No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC.
+6      The final stage of the MDR certification process for a class IIa medical device is the release of the CE
+       mark certificate by a “Notified Body” (“NB”). However, class I medical devices are CE marked
+        based on a declaration of conformity submitted by the manufacturer (who is responsible for CE
+        marking its own medical device following compliance with the necessary requirements), i.e. class I
+        medical devices do not need to be certified by a NB, but higher risk class medical devices such as
+        those in classes IIa, IIb and III do need to be certified by a NB.
+
+
+
+
+                                                     4
+
+[PÁGINA PDF 6]
+(20)    Based on its review, the Trustee has concluded that there are no structural and only
+         certain  limited  commercial  relationships  between Cooper  and  its  affiliated
+        undertakings on the one side, and InfectoPharm, on the other side. The Trustee
+        considers that the involved amounts related to the above-mentioned license and
+        supply agreement are immaterial and that neither this nor the TSA impedes the
+        independence  of  InfectoPharm from Cooper and  its  affiliated  undertakings.
+        Therefore, the Trustee concludes that InfectoPharm  is sufficiently independent
+       from Cooper and its affiliated undertakings.
+
+(21)    Based on  the  information above and  the  Trustee’s Reasoned  Opinion,  the
+       Commission concludes that InfectoPharm fulfils the purchaser criterion of being
+        independent of and unconnected to Cooper and its affiliated undertakings.
+
+2.1.3.   Financial resources, proven expertise and incentive to maintain and develop the
+        Divested Business as a viable and active competitor
+
+(22)    Pursuant to paragraph 16(b) of the Commitments, the purchaser shall have the
+         financial resources, proven expertise and incentive to maintain and develop the
+       Otowaxol Divestment Business  as a  viable and  active competitive  force  in
+        competition with Cooper and other competitors.
+
+2.1.3.1. Financial resources
+
+(23)    In 2023, InfectoPharm’s total consolidated sales reached […], an […] compared to
+         the previous year.  Its EBITDA for 2023 amounted to […], with an EBITDA
+        margin of […]. Gross profit represented approximately […] of total sales.
+
+(24)    InfectoPharm’s balance sheet reflects a consolidated equity of […] and a negative
+         net financial debt position of […]. InfectoPharm has shown […] across key
+         financial metrics, including sales, EBITDA, margin, equity, and net financial debt
+       from FY 2021 through FY 2023.
+
+(25)    The acquisition of the Otowaxol Divestment Business will be funded […]. As of
+        mid-October 2024, InfectoPharm held immediately available funds of […]. These
+        resources  are  sufficient  to  support  the  acquisition and any working  capital
+        requirements of the Otowaxol Divestment Business.
+
+(26)    The  Trustee deems InfectoPharm  to have  sufficient  financial  resources and
+         capabilities to acquire the Divestment Business and to maintain and develop  it
+        going forward.
+
+(27)    Based on the information above and the Trustee’s Reasoned Opinion on the
+         financial situation of InfectoPharm, the Commission concludes that InfectoPharm
+          fulfils the criterion of having the financial resources to maintain and develop the
+       Otowaxol Divestment Business as a viable and active competitive force.
+
+2.1.3.2. Proven experience
+
+(28)    InfectoPharm possesses over 35 years of experience in the German pharmaceutical
+        market, managing relationships with otorhinolaryngology, or ear, nose and throat
+       (“ENT”) specialists and pharmacies in Germany. The company has also been
+         active in the hospital sector.
+
+
+
+
+
+                                                     5
+
+[PÁGINA PDF 7]
+(29)    InfectoPharm  is  a  marketing  authorisation  holder  and  distributor  for  over
+       130 products (medicines, medical devices, food supplements and cosmetics) and
+        possesses an established distribution network. InfectoPharm is able to supply all
+       German pharmacies via  its network of third party pharmaceutical wholesalers,
+       which is the main distribution channel for selling Otowaxol products.
+
+(30)    Other  distribution  channels  for  Otowaxol  include  e-commerce  channels
+           (i.e. e-pharmacies and Amazon). The Trustee understands that Otowaxol would
+        continue to be available via these e-commerce channels, and that no relevant
+        impact for the customers and, hence, for the viability of the Divestment Business,
+           is to be expected.
+
+(31)    The Trustee notes that InfectoPharm possesses regulatory  capabilities, having
+         material knowledge of the underlying timelines, and has long term experience and
+       know-how  in the  field of medical devices including also MDR  certification
+         processes.7
+
+(32)    In addition, InfectoPharm has prior experience in corporate carve outs and handling
+         of transitional services. InfectoPharm recently acquired and integrated several OTC
+        products in Germany including Eubiol (a OTC drug for the treatment of diarrhoea)
+       and Verrucid (an OTC product for the treatment of warts, corns and calluses). From
+       2019 to 2024, InfectoPharm has completed 21 transactions with 25 products in
+          total,  including  both  acquisitions  and  licensing  deals.  In  aggregate,  these
+         transactions included more than 100 marketing authorisations in different countries
+       and more than 100 SKUs.
+
+(33)    The Trustee is satisfied that InfectoPharm has the required expertise as required by
+         the Purchaser Criteria.
+
+(34)    Based on  the  information above and  the  Trustee’s Reasoned  Opinion,  the
+       Commission considers that InfectoPharm has the proven experience to maintain
+       and develop the Otowaxol Divestment Business as a viable and active competitive
+         force.
+
+2.1.3.3. Incentive
+
+(35)    InfectoPharm has explained that  it perceives Otowaxol as a strong brand and
+        considers the Otowaxol Divestment Business a good match with the company’s
+        growth strategy as target groups of ENT specialists and pharmacies are already the
+        focus target groups of InfectoPharm’s operations, particularly in Germany, where it
+        has a strong presence in the ENT segment.
+
+(36)    The Reasoned Opinion concludes that InfectoPharm has the incentive and objective
+         to  maintain and  develop  the  Divestment  Business  as  a  viable and  active
+        competitive force. This conclusion  is supported by the Otowaxol Divestment
+        Business’s ability to generate solid cash flows on a standalone basis, as illustrated
+         in its business plan. Otowaxol also complements InfectoPharm’s existing Rx and
+     OTC portfolio, strengthening its ENT product range and aligning with its strategic
+         goals.
+
+
+
+7       See paragraph (18) above, regarding the recertification of Otowaxol.
+
+
+
+
+                                                     6
+
+[PÁGINA PDF 8]
+(37)    Based on  the  information above and  the  Trustee’s Reasoned  Opinion,  the
+       Commission considers  that InfectoPharm has the incentives  to maintain and
+        develop the Otowaxol Divestment Business as a viable and active competitive
+         force.
+
+2.1.4.   Absence of prima facie competition problems or any risk of implementation delays
+
+(38)    Pursuant to paragraph 16(c) of the Commitments, the acquisition of the Otowaxol
+        Divestment Business by the purchaser must neither be likely to create prima facie
+        competition concerns nor give  rise to a  risk  that the implementation of the
+       Commitments will be delayed.
+
+(39)    With  regard  the  competitive  interactions between  the Otowaxol Divestment
+        Business and InfectoPharm:
+        (a)   InfectoPharm’s product portfolio does not include any products for earwax
+            removal, and  it  is therefore not active in the manufacture or supply of
+            pharmaceutical products in the same ATC4 class or with the same molecule as
+           Otowaxol.
+        (b)   InfectoPharm’s current portfolio includes, amongst other products, two OTC
+             ear drops products (OtoDolor and OtoAkut), both of which are included in the
+          same broader ATC3 category S2D (Other Ear Preparations). However, these
+            products are not comparable to Otowaxol as neither are used to remove excess
+           earwax and earwax build-up but are instead intended for the treatment of otitis
+             externa (inflammation of the external ear canal) or otitis otalgia (ear pain). In
+           any case, InfectoPharm’s increment in this broader ATC3 category S2D would
+           be limited, below 3%, in Germany.
+        (c)   InfectoPharm has confirmed that its acquisition of the Otowaxol Divestment
+            Business will not result in any vertically affected markets.
+
+(40)    Based on information provided by InfectoPharm to the Trustee, InfectoPharm’s
+         acquisition of the Otowaxol Divestment Business does not require any merger
+         control or other regulatory filings.
+
+(41)    The recertification process described above in paragraph (18) will not impact the
+        implementation of the divestment.
+
+(42)    Based on the information available, the Trustee considers that the approval of
+        InfectoPharm as the Purchaser of the Otowaxol Divestment Business would not
+         create any prima facie competition concerns, nor would it give rise to a risk that the
+        implementation of the Commitments will be delayed.
+
+(43)    Based on  the  information above and  the  Trustee’s Reasoned  Opinion,  the
+       Commission considers that InfectoPharm’s acquisition of the Otowaxol Divestment
+        Business would not create any prima facie competition concerns, nor would it give
+          rise to a risk that the implementation of the Commitments will be delayed.
+
+2.1.5.   Sales and market presence, and access to an appropriate distribution network, in
+       Germany
+
+(44)    Pursuant to paragraph 16(d) of the Commitments, a suitable purchaser must have a
+         sales and marketing presence and access to an appropriate distribution network in
+       Germany in the relevant sales channels (including wholesalers and pharmacies).
+
+
+
+
+                                                     7
+
+[PÁGINA PDF 9]
+(45)   As  discussed  in  the  Section  2.1.3.2  above,  InfectoPharm  is  a  marketing
+         authorisation holder and distributor of over 130 products and is able to supply all
+       German pharmacies via its network of third party pharmaceutical wholesalers, the
+       main distribution channel for Otowaxol products. As noted above, Otowaxol
+        products are also  distributed via e-commerce channels. InfectoPharm already
+         distributes several of its OTC products via e-pharmacies.
+
+(46)    In its Reasoned Opinion, the Trustee found that InfectoPharm fulfils the purchaser
+          criteria as included in paragraph 16(d) of the Commitments.
+
+(47)    Based on this information and the Trustee’s Reasoned Opinion, the Commission
+        considers that InfectoPharm has the required sales and marketing presence, and
+        access to an appropriate distribution network in Germany, in the relevant sales
+        channels (including wholesalers and pharmacies).
+
+2.1.6.   Conclusion
+
+(48)    In view of the above, the Commission considers that InfectoPharm meets the
+        purchaser criteria as laid down in paragraph 16 of the Commitments.
+
+2.2.    Transaction Documents
+
+(49)    Paragraph 17 of the Commitments states: “Cooper must be able to demonstrate to
+         the Commission that the purchaser(s) fulfils the Purchaser Criteria and that the
+        Divestment Businesses is being sold in a manner consistent with the Commission's
+        Decision and the Commitments”.
+
+(50)   As described above in paragraph (5), the Transaction Documents consist of the
+       Otowaxol APA as amended by the APA Amendment and its schedules, which
+        include the TSA and Form of Right to Use Viatris Names. The TSA and Form of
+        Right to Use Viatris Names are in their agreed form and will be executed at the
+        time of closing of the sale of the Otowaxol Divestment Business.
+
+(51)    The Commission has been provided with copies of the Transaction Documents.
+       The Commission has reviewed the Transaction Documents and is satisfied that
+         these enable the Otowaxol Divestment Business to be sold in accordance with the
+       Commitments.
+
+(52)    The Trustee has also confirmed the terms of the Transaction Documents to
+         materially reflect the Parties’ obligations set out in the Commitments.
+
+(53)    With regard to the TSA which is not reflected in the Commitments, the Trustee
+        notes that Cooper shall use its best efforts to support the recertification process of
+       Otowaxol and will pay for all costs that will be incurred in this process.
+
+(54)    Based on  the  information above and  the  Trustee’s Reasoned  Opinion,  the
+       Commission concludes that the Transaction Documents are consistent with the
+       Commitments, and that the Otowaxol Divestment Business is being transferred in a
+       manner consistent with the Commitments.
+
+
+
+
+
+                                                     8
+
+[PÁGINA PDF 10]
+3.     CONCLUSION
+
+(55)   On the basis of the above assessment, the Commission approves InfectoPharm as a
+         suitable purchaser of the Otowaxol Divestment Business for the above-mentioned
+         reasons.
+
+(56)   On the basis of the Transaction Documents, the Commission further concludes that
+         the Otowaxol Divestment Business is being sold in a manner consistent with the
+       Commitments.
+
+(57)    This decision only constitutes approval of the proposed purchaser identified herein
+       and of the Transaction Documents. This decision does not constitute a confirmation
+         that the Parties have complied with their Commitments.
+
+(58)    This decision is based on paragraphs 16 and 17 of the Commitments attached to the
+       Commission Decision of 26 June 2024.
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                     Olivier GUERSENT
+                                                Director-General
+
+
+
+
+
+                                                     9

@@ -1,0 +1,981 @@
+[PÁGINA PDF 1]
+DISCLAIMER:  This  is an  interim  text  of  the  non-confidential  version  of  the
+commitments in Case M.11578 – BOEING / SPIRIT. Parts of this text have been edited
+to ensure that confidential information is not disclosed; those parts are enclosed in square
+brackets. The text is made available for information purposes only and does not constitute
+an official publication. The full text of the decision and the commitments in Annex will
+be published on DG Competition's website.
+
+
+
+
+
+                             Subang Commitments
+
+
+
+
+         COMMITMENTS TO THE EUROPEAN COMMISSION
+
+                  ________________________________________
+
+                               Case M.11578
+                          BOEING/SPIRIT
+
+                  ________________________________________
+
+
+
+
+
+                             September 22, 2025
+
+[PÁGINA PDF 2]
+                    TABLE OF CONTENTS
+
+
+Section A: Definitions............................................................................................................... 2
+Section B: The commitment to divest and the Divestment Business ....................................... 4
+Section C: Related commitments .............................................................................................. 5
+Section D: The Purchaser .......................................................................................................... 7
+Section E: Monitoring Trustee .................................................................................................. 8
+Section F. Interpretation of the Commitments ........................................................................ 13
+Section G. Dispute Resolution Procedure ............................................................................... 14
+Section H: The review clause ................................................................................................. 15
+Section I: Entry into force ....................................................................................................... 16
+SCHEDULE ............................................................................................................................ 17
+APPENDIX 1 .......................................................................................................................... 19
+
+
+
+
+
+                                     1
+
+[PÁGINA PDF 3]
+                          Case M.11578 – BOEING/SPIRIT
+          COMMITMENTS TO THE EUROPEAN COMMISSION
+
+ Pursuant  to  Article  6(2)  of  Council  Regulation (EC) No 139/2004  (the “Merger
+ Regulation”), The Boeing Company hereby enters into the following commitments (the
+ “Subang Commitments”) vis-à-vis the European Commission (the “Commission”) with a
+ view to rendering its proposed acquisition of sole control over Spirit AeroSystems Holdings,
+  Inc. (the “Concentration”) compatible with the internal market and the functioning of the
+ EEA Agreement.
+
+ This text shall be interpreted in light of the Commission’s decision pursuant to Article 6(1)(b)
+ of the Merger Regulation to declare the Concentration compatible with the internal market
+ and the functioning of the EEA Agreement (the “Decision”), in the general framework of
+ European Union law, in particular in light of the Merger Regulation, and by reference to the
+ Commission Notice on remedies acceptable under Council Regulation (EC) No 139/2004
+ and under Commission Regulation (EC) No 802/2004 (the “Remedies Notice”).
+
+ Section A: Definitions
+
+(1)   For the purpose of the Subang Commitments, the following terms shall have the following
+     meaning:
+
+      Affiliated Undertakings: Undertakings controlled by the Committing Parties and/or
+     by the ultimate parents of the Committing Parties, whereby the notion of control shall
+     be interpreted pursuant to Article 3 of the Merger Regulation and in light of the
+     Commission Consolidated Jurisdictional Notice under Council Regulation (EC) No
+     139/2004 on the control of concentrations between undertakings (the "Consolidated
+      Jurisdictional Notice").
+
+      Airbus: Airbus SE.
+
+     Airbus Subang Business: All assets used in connection with the performance by Spirit
+      of its obligations under its contracts with Airbus operated or performed by Spirit in
+      Subang, Malaysia.
+
+      Assets: The assets that contribute to the current operation or are necessary to ensure the
+       viability and competitiveness of the Divestment Business as indicated in Section B of
+      the Subang Commitments, and Schedule 1 to the Subang Commitments.
+
+      Boeing: The Boeing Company.
+
+      Closing: The transfer of the legal title to the Divestment Business to the Purchaser.
+
+      Closing Period: The period of [time period] from the Effective Date.
+
+     Committing Parties: Boeing and/or Spirit, as applicable. This includes also any legal
+      successors of the Committing Parties.
+
+      Confidential Information: Any business secrets, knowhow, commercial information
+      not in the public domain, or any other information of a proprietary nature that is not in
+      the public domain.
+
+
+                                         2
+
+[PÁGINA PDF 4]
+      Conflict of Interest: Any conflict of interest that impairs the Trustee's objectivity and
+      independence in discharging its duties under the Subang Commitments.
+
+    CTRM: Composites Technology Research Malaysia Sdn. Bhd, which is 100% owned
+     by DRB-HICOM Berhad, a publicly listed Malaysian conglomerate.
+
+     Divestment Business: The business or businesses as defined in Section B of the Subang
+     Commitments and Schedule 1 which the Committing Parties will divest.
+
+      Effective Date: The date of adoption of the Decision.
+
+     Hold Separate Manager: The person appointed by Spirit for the Divestment Business
+       to manage the day-to-day business under the supervision of the Monitoring Trustee.
+
+     Key Personnel: All personnel necessary to maintain the viability and competitiveness
+      of the Divestment Business, as listed in Schedule 1 to the Subang Commitments,
+      including the Hold Separate Manager(s).
+
+     Monitoring Trustee: One or more natural or  legal person(s) approved by the
+     Commission and appointed by the Committing Parties, and who has/have the duty to
+      monitor the Committing Parties’ compliance with the conditions and obligations
+      attached to the Decision.
+
+      Personnel: All staff employed by Spirit Malaysia at Closing.
+
+      Purchaser: CTRM.
+
+     Purchaser Criteria. The criteria laid down in paragraph 17 of these Commitments that
+      the Purchaser must fulfil in order to be approved by the Commission.
+
+      Schedule: The schedule to the Subang Commitments describing the Divestment
+      Business in more detail.
+
+     Subang SPA: The Share Purchase Agreement entered into between Spirit and CTRM
+     on August 8, 2025.
+
+       Spirit: Spirit AeroSystems Holdings, Inc.
+
+      Spirit Malaysia: Spirit AeroSystems Malaysia Sdn Bhd.
+
+      Transaction: Boeing’s acquisition of Spirit.
+
+      Trustee: The Monitoring Trustee.
+
+(2)   Should issues arise relating to the interpretation of terms listed in paragraph 1 of the
+     Subang Commitments or terms not defined, the Commission will retain the interpretation
+      that is most favorable for an effective implementation of the Subang Commitments.
+
+
+
+
+
+                                         3
+
+[PÁGINA PDF 5]
+ Section B: The commitment to divest and the Divestment Business
+
+     Commitment to divest
+
+(3)   In order to maintain effective competition, the Committing Parties commit to divest, or
+     procure the divestiture of the Divestment Business as a going concern to CTRM on terms
+     and conditions approved by the Commission.
+
+(4)  The Committing Parties shall be deemed to have complied with this commitment if
+      pursuant to the Subang SPA, Spirit sells the Divestment Business to the Purchaser within
+      the Closing Period.
+
+      Structure and definition of the Divestment Business
+
+(5)  The Divestment Business consists of the entirety of Spirit’s site in Subang (Malaysia) as
+      operated and held by Spirit Malaysia. For the avoidance of doubt, this shall include the
+     Airbus Subang Business.
+
+(6)  The legal and functional structure of the Divestment Business as operated to date is
+      described in the Schedule. The Divestment Business, described in more detail in the
+     Schedule, includes the transfer of all assets and staff that contribute to the current
+      operation or are necessary to ensure the viability and competitiveness of the Divestment
+      Business. In particular:
+
+        (a)    all tangible and intangible assets (including, if any, products under development
+           and related rights, intellectual property rights, and know how) owned and held by
+              Spirit Malaysia;
+
+        (b)    all licenses, permits and authorizations issued by any governmental organization
+              for the benefit of the Divestment Business;
+
+        (c)    all contracts, leases and commitments of Spirit Malaysia;
+
+        (d)    all customer, credit and other records of Spirit Malaysia; and
+
+        (e)    all Personnel.
+
+(7)   In addition, the Divestment Business includes the benefit, for a transitional period of up
+      to [time period], unless earlier terminated, after Closing and at [cost structure] of all
+     arrangements under which the Committing Parties or their Affiliated Undertakings supply
+      products or services to the Divestment Business or of any other current or new
+     arrangements which are necessary for the viability of the Divestment Business, as detailed
+      in the Schedule, unless otherwise agreed with the Purchaser and with the approval of the
+     Commission.1   Strict firewall procedures shall be adopted so as to ensure that any
+      competitively sensitive information related to, or arising from such supply arrangements
+      (for example, product roadmaps) will not be shared with, or passed on to, anyone outside
+      the relevant operations.
+
+
+
+
+
+  1       These include IT, aftermarket services, finance, product quality, procurement and program
+          arrangements.
+                                         4
+
+[PÁGINA PDF 6]
+ Section C: Related commitments
+
+      Preservation of viability, marketability and competitiveness
+
+(8)  From the Effective Date until Closing, the Committing Parties shall preserve or procure
+      the preservation of the economic viability, marketability and competitiveness of the
+     Divestment Business, in accordance with good business practice, and shall minimize as
+      far as possible any risk of loss of the competitive potential of the Divestment Business.
+      In particular, the Committing Parties, undertake:
+
+      (a)    not to carry out any action that might have a significant adverse impact on the
+             value, management, viability, or competitiveness of the Divestment Business or
+              that might alter the nature and scope of activity, or the industrial or commercial
+             strategy or the investment policy of the Divestment Business;
+
+      (b)     to make available, or procure to make available, sufficient financial and other
+             resources needed for the development of the Divestment Business, including the
+           development of pipeline products or services where relevant, on the basis of the
+             continuation of the existing business plans;
+
+      (c)     to take all reasonable steps, or procure that all reasonable steps are being taken, to
+               assist the Divestment Business in the process of IT migration and/or IT separation
+              until the full process is completed;
+
+      (d)     to the extent the Divestment Business includes any  licenses, permits and
+             authorizations issued by any governmental organization or any other  third
+              party/parties for the benefit of the Divestment Business, to take all reasonable
+              steps, or procure that all reasonable steps are being taken, to obtain consent from
+           any governmental organization or any other third party/parties for all required
+              licenses, permits and authorizations; and
+
+      (e)     to take all reasonable steps, or procure that all reasonable steps are being taken,
+             including appropriate incentive schemes, to encourage  all Key Personnel to
+            remain with the Divestment Business, and not to solicit or move any Personnel to
+              Spirit’s remaining business. Incentives schemes should not be linked to the sale
+             of the Divestment Business within a certain period or to the sale price of the
+            Divestment Business.  Where, nevertheless, individual members of the Key
+            Personnel exceptionally leave the Divestment Business, the Committing Parties
+              shall provide a reasoned proposal to replace the person or persons concerned to
+             the Commission and the Monitoring Trustee. The Committing Parties must be
+             able to demonstrate to the Commission that the replacement is well suited to carry
+            out the functions exercised by those individual members of the Key Personnel.
+          The replacement shall take place under the supervision of the Monitoring Trustee,
+         who shall report to the Commission.
+
+     Hold-separate obligations
+
+(9)  The Committing Parties commit, subject to paragraph 11 of the Subang Commitments,
+     from the Effective Date, until Closing, to keep, or procure to keep, the Divestment
+     Business separate from the businesses the Committing Parties are retaining and to ensure
+      that unless explicitly permitted under the Subang Commitments or as obligated under
+      transitional services after Closing, (i) management and staff of the businesses retained by
+      the Committing Parties have no involvement in the Divestment Business; and (ii) the Key
+                                         5
+
+[PÁGINA PDF 7]
+     Personnel and Personnel of the Divestment Business have no involvement in any business
+      retained by the Committing Parties and do not report to any individual outside the
+     Divestment Business.
+
+(10)  Until Closing, the Committing Parties shall assist the Monitoring Trustee in ensuring that
+      the Divestment Business is managed as distinct and saleable entities separate from the
+      business which the Committing Parties are retaining. Immediately after the adoption of
+      the Decision, the Committing Parties shall appoint a Hold Separate Manager. The Hold
+      Separate Manager shall be the current head of the Divestment Business and shall be part
+      of the Key Personnel.  If the Hold Separate Manager is not the head of the Divestment
+     Business at the time of the submission of the Subang Commitments, the appointment
+     should occur in agreement with the Commission. The Hold Separate Manager shall
+     manage the Divestment Business independently and in the best interest of the business
+     with  a  view  to  ensuring  its  continued  economic  viability,  marketability  and
+      competitiveness and its independence from the businesses retained by the Committing
+      Parties.  The Hold Separate Manager shall closely cooperate with and report to the
+     Monitoring Trustee.  Spirit shall ensure that the Hold Separate Manager is available for
+     an initial call with the Monitoring Trustee and the Commission, as well as to discuss any
+      significant matter at the request of the Monitoring Trustee or the Commission during
+      his/her mandate. The Monitoring Trustee or the Commission can discuss any matter
+      relevant for the implementation of the Subang Commitments with the Hold Separate
+     Manager without the presence or explicit agreement of representatives of the Committing
+      Parties. The Hold Separate Manager should provide all information requested by the
+     Commission, including confidential information.
+
+(11)  Within a reasonable period after the Effective Date, the Committing Parties shall provide
+     a detailed work plan on the implementation and scope of the hold-separate obligations to
+      the Monitoring Trustee for its review and approval.
+
+(12) Any replacement of the Hold Separate Manager shall be subject to the procedure laid
+    down in paragraph 8(e) of the Subang Commitments. The Commission may, after having
+     heard the Committing Parties, require the Committing Parties to replace the Hold
+      Separate Manager. The Hold Separate Manager shall not be employed by the Committing
+      Parties for a period of two years (2) after Closing.
+
+     Ring-fencing obligations
+
+(13) The Committing Parties shall implement, or procure to implement, all necessary measures
+      to ensure that they do not, after the Effective Date, obtain any Confidential Information
+      relating to the Divestment Business and that any such Confidential Information obtained
+     by Spirit before the Effective Date will be eliminated and not be used by the Committing
+      Parties.  This includes measures vis-à-vis Spirit’s appointees on the supervisory board
+      and/or board of directors of the Divestment Business.  In particular, the participation of
+      the Divestment Business in any central information technology network shall be severed
+      to the extent possible, without compromising the viability of the Divestment Business.
+      All personnel in Spirit’s remaining business who have had access to Confidential
+     Information relating to the Divestment Business shall sign non-disclosure agreements
+      preventing them from using or disclosing any such information. To that effect, within two
+     weeks of the Effective Date, the Committing Parties shall provide a detailed work plan
+     on the implementation and scope of the ring-fencing measures and confidentiality
+      obligations to the Monitoring Trustee for its review. The Committing Parties may obtain
+      or keep information relating to the Divestment Business which is reasonably necessary
+
+                                         6
+
+[PÁGINA PDF 8]
+      for the divestiture of the Divestment Business or the disclosure of which to Boeing is
+      required by law.
+
+      Transitional obligations
+
+(14)  Until the end of the term of the relevant obligations, the Committing Parties shall fulfil
+     and respect its obligations under any and all of the agreements between Spirit and the
+      Purchaser, as detailed in the Schedule.
+
+      Non-solicitation obligation
+
+(15) The Committing Parties undertake, subject to customary limitations, not to solicit, and to
+     procure that Affiliated Undertakings do not solicit, the Key Personnel transferred with
+      the Divestment Business for a period of two (2) years after Closing.
+
+      Non-reacquisition obligation
+
+(16)  In order to maintain the structural effect of the Subang Commitments, the Committing
+      Parties shall, for a period of 10 years after Closing, not acquire, whether directly or
+      indirectly, the possibility of exercising influence (as defined in paragraph 43 of the
+     Remedies Notice, footnote 3) over the whole or part of the Divestment Business, unless,
+     following the submission of a reasoned request from the Committing Parties showing
+     good cause and, accompanied by a report from the Monitoring Trustee (as provided in
+     paragraph 49 of the Subang Commitments), the Commission finds that the structure of
+      the market has changed to such an extent that the absence of influence over the whole or
+      part of Divestment Business is no longer necessary to render the proposed concentration
+     compatible with the internal market.
+
+Section D: The Purchaser
+
+(17)  In order to be approved by the Commission, the Purchaser must fulfil the following
+       criteria:
+
+             a.  The Purchaser shall be independent of and unconnected to the Committing
+               Parties and their Affiliated Undertakings (this being assessed having regard to
+               the situation following the divestiture). In addition, the Purchaser should not be
+               the Seller in the Concentration nor any of its Affiliated Undertakings.
+
+            b. The Purchaser shall have the financial resources to maintain and develop the
+             Divestment Business as a viable and active competitive force in competition
+             with the Parties and other competitors. In particular, the Purchaser shall not be
+              excessively leveraged, shall have sufficient equity and profitability, shall have a
+              turnover significantly larger than the turnover of the Divestment Business, shall
+             have sufficient means to finance the acquisition of the Divestment Business and
+               the execution of its business plan, including investments.
+
+             c.  The Purchaser shall also have the proven expertise, ability and incentive to
+              maintain and  develop  the Divestment  Business  as  a  viable and  active
+              competitive force in competition with the Parties and other competitors.
+
+            d. The acquisition of the Divestment Business by the Purchaser must neither be
+                likely to create, in light of the information available to the Commission, prima
+               facie competition concerns nor give rise to a risk that the implementation of the
+
+                                         7
+
+[PÁGINA PDF 9]
+            Commitments will be delayed. In particular, the Purchaser must reasonably be
+              expected  to  obtain  all necessary approvals from  the  relevant  regulatory
+                authorities for the acquisition of the Divestment Business.
+
+(18) The final binding sale and purchase agreement (as well as ancillary agreements) relating
+      to the divestment of the Divestment Business shall be conditional on the Commission’s
+      approval.  Spirit has reached an agreement with Purchaser on August 8, 2025. For the
+      approval, Spirit must be able to demonstrate – and the Commission shall verify – that the
+     Purchaser fulfils the Purchaser Criteria and that the Divestment Business is being sold in
+     a manner consistent with the Commission’s Decision and the Commitments including
+      their objective to bring about a lasting structural change in the market.
+
+(19) Any change to the Subang SPA (as well as ancillary agreements) taking place after the
+     Commission’s approval referred to in the previous paragraph shall be approved by the
+     Commission, following consultation of the Monitoring Trustee.
+
+Section E: Monitoring Trustee
+
+          I.       Appointment procedure
+
+(20) The Committing Parties shall appoint a Monitoring Trustee to carry out the functions
+      specified in the Subang Commitments for a Monitoring Trustee. The Committing Parties
+     commit not to close the Concentration before the appointment of a Monitoring Trustee.
+
+(21) The Trustee shall:
+
+          (a)      at the time of appointment, be independent of the Committing Parties and
+                   their Affiliated Undertakings;
+
+         (b)     possess the necessary qualifications to carry out its mandate, for example
+               have sufficient relevant experience as an investment banker or consultant or
+                  auditor;
+
+          (c)      neither have nor become exposed to a Conflict of Interest;
+
+         (d)     demonstrate sufficient capacity and resources to take on the Trustee role with
+                     all the obligations that the role entails, including to report regularly to the
+              Commission; and
+
+          (e)     have a sufficient presence in the EU/EEA, and sufficient expertise in the
+                 relevant EU/EEA countries covered by the Subang Commitments.
+
+(22) The Trustee shall be remunerated by Boeing in a way that does not impede the
+     independent and effective fulfilment of its mandate.
+
+      Proposal by the Committing Parties
+
+(23) No later than one week after the Effective Date, the Committing Parties shall submit the
+     names of at least three natural or legal persons whom the Committing Parties propose to
+      appoint as the Monitoring Trustee to the Commission for approval. The proposal shall
+
+
+
+
+                                         8
+
+[PÁGINA PDF 10]
+      contain sufficient information for the Commission to verify that the persons proposed as
+      Trustee fulfil the requirements set out in paragraph 21 and shall include:
+
+          (a)      the full terms of the proposed mandate, which shall include all provisions
+                necessary to enable the Trustee to  fulfil  its duties under the Subang
+              Commitments; and
+
+         (b)      the outline of a work plan which describes how the Trustee intends to carry
+                out its assigned tasks.
+
+      Approval or rejection by the Commission
+
+(24) The Commission shall have the discretion to approve or reject the proposed Trustee(s)
+     and to approve the proposed mandate subject to any modifications it deems necessary for
+      the Trustee to fulfil its obligations. If only one name is approved, the Committing Parties
+      shall appoint or cause to be appointed the person or persons concerned as Trustee, in
+     accordance with the mandate approved by the Commission.  If more than one name is
+     approved, the Committing Parties shall be free to choose the Trustee to be appointed from
+    among the names approved.  The Trustee shall be appointed within one week of the
+     Commission’s approval, in accordance with the mandate approved by the Commission.
+
+    New proposal by the Committing Parties
+
+(25)  If all the proposed Trustees are rejected, the Committing Parties shall submit the names
+      of at least two more natural or legal persons within one week of being informed of the
+      rejection, in accordance with paragraphs 20 and 25 of the Subang Commitments.
+
+      Trustee nominated by the Commission
+
+(26)  If all further proposed Trustees are rejected by the Commission, the Commission shall
+     nominate a Trustee, whom the Committing Parties shall appoint, or cause to be appointed,
+      in accordance with a trustee mandate approved by the Commission.
+
+         II.       Functions of the Trustee
+
+(27) The Trustee  shall assume  its specified duties and obligations in order to ensure
+     compliance with the Subang Commitments. The Commission may, on its own initiative
+      or at the request of the Trustee or the Committing Parties give any orders or instructions
+      to the Trustee in order to ensure compliance with the conditions and obligations attached
+      to the Decision.
+
+      Duties and obligations of the Monitoring Trustee
+
+(28) The Monitoring Trustee shall:
+
+        (a)   propose in its first report to the Commission a detailed work plan describing how
+                   it intends to monitor compliance with the obligations and conditions attached to
+             the Decision;
+
+        (b)   oversee, in close co-operation with the Hold Separate Manager, the on-going
+          management of the Divestment Business with a view to ensuring its continued
+           economic viability, marketability and competitiveness and monitor compliance
+           by the Committing Parties with the conditions and obligations attached to the
+             Decision. To that end the Monitoring Trustee shall:
+                                         9
+
+[PÁGINA PDF 11]
+          i.   monitor the preservation of the economic viability, marketability and
+           competitiveness of the Divestment Business, and the keeping separate of
+            the Divestment Business from the business retained by the Committing
+             Parties, in accordance with paragraphs 8, 9, and 10 of the Subang
+          Commitments;
+
+         ii.   monitor that the Committing Parties make available sufficient resources
+            for the Divestment Business to develop, including for the development of
+            pipeline  products  or  services  where  relevant  (including  to  reach
+           completion, approval or registration of pipeline products or services),
+          based on  the  continuation  of  existing  business  plans and  relevant
+           milestones or of any other future or ongoing projects that are important for
+            the viability of the Divestment Business to the extent that there are any
+           support obligations from the Committing Parties;
+
+        iii.    to the extent that the Subang Commitments include transitional agreements
+           or the obligation to supply certain inputs, products or services, the Trustee
+             shall monitor the strict compliance with the terms approved and inform the
+         Commission promptly of any changes or compliance problems during the
+          term of such agreements;
+
+      iv.    supervise the management of the Divestment Business as distinct and
+            saleable entities, in accordance with paragraphs 10 and 12 of the Subang
+          Commitments;
+
+       v.   with respect to Confidential Information:
+
+           −    determine all necessary measures to ensure that the Committing
+                   Parties do not after the Effective Date obtain any Confidential
+                 Information relating to the Divestment Business;
+
+           −    in particular strive for the severing of the Divestment Business’
+                   participation in a central information technology network to the
+                  extent  possible,  without  compromising  the  viability  of  the
+                Divestment Business;
+
+           −   make  sure  that any  Confidential  Information  relating  to  the
+                Divestment Business obtained by the Committing Parties before the
+                  Effective Date is eliminated and will not be used by the Committing
+                    Parties; and
+
+           −    decide whether such information may be disclosed to or kept by the
+               Committing Parties as the disclosure is reasonably necessary to
+                 allow the Committing Parties to carry out the divestiture or as the
+                  disclosure is required by law;
+
+      vi.   monitor the splitting of assets and the allocation of Personnel between the
+          Divestment  Business  and  the  Committing  Parties  or  Affiliated
+           Undertakings;
+
+(c)   propose to the Committing Parties such measures as the Monitoring Trustee
+      considers necessary to ensure the Committing Parties’ compliance with the
+      conditions and obligations attached to the Decision, in particular the maintenance
+
+                                  10
+
+[PÁGINA PDF 12]
+      of  the  full economic  viability,  marketability  or  competitiveness  of  the
+     Divestment Business, the holding separate of the Divestment Business and the
+      non-disclosure of competitively sensitive information;
+
+(d)   review and assess potential purchasers as well as the progress of the divestiture
+      process and verify that, dependent on the stage of the divestiture process:
+
+          i.    potential purchasers receive sufficient and correct information relating to
+            the Divestment Business and the Personnel in particular by reviewing, if
+            available, the data room documentation, the information memorandum and
+            the due diligence process, and by ensuring their access to a confidential
+           version  (or  a  meaningful  non-confidential)  version  of  the Subang
+          Commitments, and
+
+         ii.    potential purchasers are granted reasonable access to the Personnel and
+         Key Personnel;
+
+(e)   act as a contact point for any requests by third parties, in particular potential
+      purchasers, in relation to the Subang Commitments;
+
+(f)   provide to the Commission, sending the Committing Parties a non-confidential
+     copy at the same time, a  written report within 15 days after the end of every
+     month that shall cover the operation and management of the Divestment
+     Business as well as the splitting of assets and the allocation of Personnel so that
+      the Commission can assess whether the business is held in a manner consistent
+     with the Subang Commitments and the progress of the divestiture process as well
+      as potential purchasers. The Committing Parties  shall neither receive nor
+    comment on draft reports that the Monitoring Trustee prepares for the purposes
+      of reporting to the Commission;
+
+(g)   promptly report in writing to the Commission, sending the Committing Parties a
+      non-confidential copy at the same time, if it concludes on reasonable grounds the
+     Committing Parties are failing to comply with the Subang Commitments. The
+     Committing Parties shall neither receive nor comment on draft reports that the
+     Monitoring Trustee prepares for the purposes of reporting to the Commission;
+
+(h)   promptly report in writing to the Commission as soon as it becomes aware of
+      potential exposure to a Conflict of Interest appearing after its appointment,
+      including if it becomes aware of any potential lack of independence or Conflict
+      of Interest with any purchaser participating in the sale process;
+
+(i)    to the extent  that  the Subang Commitments include  transitional  services
+     agreements, support for projects under development, or the obligation to supply
+      certain inputs, products or services, assess that these obligations are satisfactorily
+      reflected in the sale and purchase agreement and other transaction documents,
+     and inform the Commission promptly of any deviation from the terms included
+      in the Subang Commitments or approved by the Commission or any dispute as
+      to the compliance with such terms during the full duration of the agreement;
+
+(j)   promptly report in writing to the Commission risks of degradation of the value
+      of operation of the Divestment Business, or risks that the Purchaser does not or
+       is not able to carry out or maintain investment that are essential for the viability
+      of the Divestment Business.
+                                  11
+
+[PÁGINA PDF 13]
+        (k)   remain throughout the term of the Subang Commitments a point of contact for
+             the Committing Parties, the Purchaser, the Commission and any other interested
+              third party, in case of issues arising from the implementation and monitoring of
+             the Subang Commitments, including by producing ad hoc reports upon request
+             of the Commission;
+
+          (l)   assume the other functions assigned to the Monitoring Trustee under the
+             conditions and obligations attached to the Decision.
+
+         III.      Duties and obligations of the Committing Parties
+
+(29) The Committing Parties shall provide and shall cause their advisors to provide the Trustee
+     with all such co-operation, assistance and information as the Trustee may reasonably
+      require to perform its tasks. The Trustee shall have full and complete access to any of the
+     Committing  Parties’  or  the  Divestment  Business’  books,  records,  documents,
+     management or other personnel, facilities, sites and technical information necessary for
+       fulfilling its duties under the Subang Commitments and the Committing Parties and the
+     Divestment Business shall provide the Trustee upon request with copies of any document.
+     The Committing Parties and the Divestment Business shall make available to the Trustee
+     one or more offices on their premises and shall be available for meetings in order to
+     provide the Trustee with all information necessary for the performance of its tasks.
+
+(30)  Spirit shall provide the Monitoring Trustee with all managerial and administrative support
+      that it may reasonably request on behalf of the management of the Divestment Business.
+     This shall include all administrative support functions relating to the Divestment Business
+     which are currently carried out at headquarters level. Spirit shall provide and shall cause
+       its advisors to provide the Monitoring Trustee, on request, with the information submitted
+      to potential purchasers, in particular give the Monitoring Trustee access to the data room
+     documentation and all other information granted to potential purchasers in the due
+      diligence procedure. The Committing Parties shall inform the Monitoring Trustee on
+      possible purchasers, submit lists of potential purchasers at each stage of the selection
+      process, including the offers made by potential purchasers at those stages, and keep the
+     Monitoring Trustee informed of all developments in the divestiture process.
+
+(31) The Committing Parties shall indemnify the Trustee and its employees and agents (each
+     an “Indemnified Party”) and hold each Indemnified Party harmless against, and hereby
+      agrees that an Indemnified Party shall have no liability to the Committing Parties for, any
+       liabilities arising out of the performance of the Trustee’s duties under the Subang
+     Commitments, except to the extent that such liabilities result from the willful default,
+      recklessness, gross negligence or bad faith of the Trustee, its employees, agents or
+      advisors.
+
+(32) At the expense of Boeing, the Trustee may appoint advisors (in particular for corporate
+      finance  or  legal  advice),  subject  to Boeing’s approval  (this approval not  to be
+     unreasonably withheld or delayed) if the Trustee considers the appointment of such
+      advisors necessary or appropriate for the performance of its duties and obligations under
+      the Mandate, provided that any fees and other expenses incurred by the Trustee are in line
+     with business practice. Should Boeing refuse to approve the advisors proposed by the
+      Trustee the Commission may approve the appointment of such advisors instead, at the
+     expense of Boeing, after having heard Boeing. Only the Trustee shall be entitled to issue
+      instructions to the advisors.  Paragraph 32 of the Subang Commitments shall apply
+      mutatis mutandis.
+
+                                         12
+
+[PÁGINA PDF 14]
+(33) The Committing Parties agree that the Commission may share Confidential Information
+      proprietary to the Committing Parties with the Trustee. The Trustee shall not disclose
+     such information and the principles contained in Article 17(1) and (2) of the Merger
+     Regulation apply mutatis mutandis.
+
+(34) The Committing Parties agree that the contact details of the Monitoring Trustee are
+     published on the website of the Commission's Directorate-General for Competition and
+      they shall inform interested third parties of the identity and the tasks of the Monitoring
+      Trustee.
+
+(35)  For a period of 10 years from the Effective Date the Commission may request all
+      information from the Committing Parties that is reasonably necessary to monitor the
+      effective implementation of the Subang Commitments.
+
+      IV.     Replacement, discharge and reappointment of the Trustee
+
+(36)  If the Trustee ceases to perform its functions under the Subang Commitments or for any
+      other good cause, including for failure to comply with the requirements in paragraph 28.
+
+       (a)      the Commission may, after hearing the Trustee and the Committing Parties,
+               require the Committing Parties to replace the Trustee; or
+
+       (b)      the Committing Parties may, with the prior approval of the Commission, replace
+              the Trustee.
+
+(37)  If the Trustee is removed according to paragraph 36 of the Subang Commitments, the
+      Trustee may be required to continue in its function until a new Trustee is in place to whom
+      the Trustee has effected a full hand over of all relevant information. The new Trustee
+      shall be appointed in accordance with the procedure referred to in paragraphs 20-27 of
+      the Subang Commitments.
+
+(38)  Unless removed according to paragraph 36 of the Subang Commitments, the Trustee shall
+      cease to act as Trustee only after the Commission has discharged it from its duties after
+       all the Subang Commitments  with which the Trustee has been entrusted have been
+     implemented. However, the Commission may at any time require the reappointment of
+      the Monitoring Trustee if it subsequently appears that the relevant remedies might not
+     have been fully and properly implemented.
+
+Section F. Interpretation of the Commitments
+
+(39)  In case of a conflict between the wording of the text of the present Commitments and the
+     Subang SPA (and the ancillary documents) executed by the Committing Parties, or the
+      Purchaser, the wording of the Commitments shall prevail, without prejudice to the fact
+      that the interpretation of the Commitments shall take into account the solution that is more
+      favourable to the Divestment Business.
+
+(40)  In the event that the Commission requires any amendment, variation or modification to
+     be made to the Subang SPA or ancillary documents as a condition to the delivery of the
+      Decision, the Committing Parties shall use their reasonable best efforts to enter into such
+     documents as are necessary to give effect to reflect such amendment, variation or
+      modification, and, in all other circumstances, the Committing Parties will negotiate with
+      the Purchaser in good faith and use their respective reasonable efforts to accommodate
+     and agree any such amendment, variation or modification and enter into any documents
+
+                                         13
+
+[PÁGINA PDF 15]
+      required to reflect such amendment, variation or modification and in any event, no such
+     amendment, variation or modification shall be implemented without the prior written
+     consent of the Committing Parties.
+
+Section G. Dispute Resolution Procedure
+
+(41) The following dispute resolution procedure applies in case of conflict between the
+     Committing Parties and the Purchaser in relation to the Subang Commitments.
+
+(42) The Committing Parties and the Purchaser shall appoint a panel of experts (the ‘Experts’).
+     This panel shall comprise:
+
+          (a)     one expert appointed jointly by the Committing Parties;
+
+         (b)     one expert appointed by the Purchaser; and
+
+          (c)     one expert appointed by the two experts appointed under (a) and (b) provided
+                   that if they fail to appoint the third expert within 15 working days from their
+                appointment, either the Committing Parties or the Purchaser may request the
+               Monitoring Trustee to appoint the third expert, provided that each person so
+                appointed shall be independent of the Committing Parties and the Purchaser,
+               and a suitably qualified and experienced expert.
+
+(43) The process shall be conducted in private and shall be confidential but under supervision
+      of the Monitoring Trustee. The language of the process shall be English.
+
+(44) The Experts shall act on the following basis:
+
+          (a)      the Experts shall act fairly and impartially;
+
+         (b)     each party shall submit to the Experts its brief and its submission in relation
+                  to the matter in dispute within 5 working days of the Experts’ appointment;
+
+          (c)      the Experts shall decide the procedure to be followed within 5 working days
+                 of their appointment, which shall: (i) in the event such dispute arises out of or
+                   relates to Sections 3.4 or 3.5 of the Subang SPA, be pursuant to the laws of
+                Malaysia; and (ii) in respect of any other dispute under the Subang SPA, be
+                pursuant to the laws of the State of Delaware, and, in each case, be submitted
+                  to the exclusive jurisdiction of the International Chamber of Commerce (the
+               “ICC”), pursuant to the dispute resolution framework in Section 12.12 of the
+              Subang SPA;
+
+         (d)      the  Committing  Parties  and  the  Purchaser  shall  assist  and  provide
+               documentation as the Experts reasonably requires to consider the matters
+                  referred to them;
+
+          (e)      decisions of the Experts shall be based on majority votes of the panel;
+
+           (f)      the Experts’ determination in relation to any matter referred to them shall be
+                given within a maximum period of one month of the Experts’ appointment;
+
+         (g)      the Experts’ determination in relation to any matter referred to them shall
+                 (save for manifest error or fraud) be final and binding on the Committing
+                  Parties and the Purchaser;
+                                         14
+
+[PÁGINA PDF 16]
+         (h)     any challenge to the Experts’ determination shall pursuant to the exclusive
+                  jurisdiction of the ICC, in accordance with Section 12.12 of the Subang SPA;
+
+            (i)     each party shall carry out the actions required to comply with the obligations
+                   set out in the Experts’ determination in relation to any matter pursuant referred
+                  to them within any time-limits specified by the Experts; and
+
+            (j)      the Experts shall determine how and by whom the costs of the determination
+                  in relation to any matter referred to it including the fees and expenses of the
+                Experts are to be paid.
+
+(45) The Commission shall be allowed and enabled to participate in all stages of the dispute
+      resolution procedure by:
+
+         (k)      receiving all written submissions (including documents and reports, etc.)
+             made by the Committing Parties and the Purchaser to the procedure;
+
+            (l)      receiving all documents exchanged by the Experts with the Committing
+                  Parties and the Purchaser to the procedure;
+
+        (m)      filing any written submissions; and
+
+         (n)     being present at the hearing(s) and being allowed to ask questions.
+
+(46) The Experts shall forward, or shall order the Committing Parties and the Purchaser to
+      forward, the documents mentioned to the Commission without delay.
+
+(47) The Monitoring Trustee shall receive copies of:
+
+         (o)       all submissions made by the Committing Parties and the Purchaser in relation
+                  to the matters they wish to have resolved by the Experts, on the day when
+                 these have been submitted to the Experts;
+
+         (p)       all  other documentation provided by  the Committing  Parties and  the
+                 Purchaser, on the day when these have been submitted to the Experts; and
+
+         (q)      the determination made by the Experts, on the day when the determination
+                has been provided to the Committing Parties and the Purchaser.
+
+(48)  This dispute resolution procedure is without prejudice to any other rights and remedies
+      that may be available to the Committing Parties and the Purchaser as the case may be in
+      respect of any breach of the transaction documents. This procedure is also without
+      prejudice to any Commission decision related to the compliance of the Committing
+      Parties with the Subang Commitments.
+
+Section H: The review clause
+
+(49) The Commission may extend the time periods foreseen in the Subang Commitments in
+     response to a request from the Committing Parties, in appropriate cases, on its own
+       initiative. Where the Committing Parties request an extension of a time period, they shall
+     submit a reasoned request to the Commission no later than one month before the expiry
+      of that period, showing good cause. This request shall be accompanied by a report from
+      the Monitoring Trustee, who shall, at the same time send a non-confidential copy of the
+
+                                         15
+
+[PÁGINA PDF 17]
+      report  to  the Committing  Parties.   Only  in  exceptional circumstances  shall  the
+     Committing Parties be entitled to request an extension within the last month of any period.
+
+(50) The Commission may further, in response to a reasoned request from the Committing
+      Parties showing good cause waive, modify or substitute, in exceptional circumstances,
+     one or more of the undertakings in the Subang Commitments.  This request shall be
+     accompanied by a report from the Monitoring Trustee, who shall, at the same time send
+     a non-confidential copy of the report to the Committing Parties. The request shall not
+     have the effect of suspending the application of the undertaking and, in particular, of
+     suspending the expiry of any time period in which the undertaking has to be complied
+      with.
+
+Section I: Entry into force
+
+(51) The Subang Commitments shall take effect upon the date of adoption of the Decision.
+
+       [signed]
+
+       duly authorized for and on
+       behalf of Boeing
+
+
+       [signed]
+
+       duly authorized for and on
+       behalf of Spirit
+
+
+
+
+
+                                         16
+
+[PÁGINA PDF 18]
+                       SCHEDULE
+
+(1)  The Divestment Business as operated to date has the legal and functional structure
+     described in Spirit AeroSystems Organizational Chart.2
+
+(2)  In accordance with paragraph 6 of the Subang Commitments, the Divestment Business
+     includes, but is not limited to:
+
+     (a)   The following main tangible assets:
+
+          •  Tooling and equipment owned by Spirit Malaysia.
+
+          •  All IT Systems owned by Spirit Malaysia.
+
+     (b)   The following main intangible assets:
+
+          •  IP rights owned by Spirit Malaysia.
+
+          •  License to IP rights used by Spirit Malaysia in its operations.
+
+          •  Legal title to Spirit Malaysia.
+
+     (c)    All licenses, authorizations, and permits held by Spirit Malaysia at the time of
+           Closing.
+
+     (d)   The  following main  contracts,  agreements,  leases, commitments and
+          understandings:
+
+          •  Main  contracts,  including  procurement  agreements,  sourcing  supply
+              agreements, scheduling agreements, and logistics management agreements.3
+
+          •  Leases to real property located in Subang, Malaysia that are leased by Spirit
+               Malaysia.4
+
+     (e)    Records, files, data and other materials, whether in hard copy or electronic form
+            related to or used or held for use in the Divestment Business and in the possession
+           of the Committing Parties.
+
+     (f)    Personnel of the Subang Divestment Business,  i.e.,  all but [1-5] employees
+          employed by  Spirit Malaysia  (i.e., [750-1250] employees,  including  staff,
+          managers, executives and trainees).5
+
+     (g)   Key Personnel of the Subang Divestment Business as set out in Appendix 1
+           below.6
+
+     (h)   The Divestment Business includes the benefit, for a transitional period of [time
+            period], unless earlier terminated, after Closing and at [cost structure] of all
+           arrangements  under  which  the  Committing  Parties  or  their  Affiliated
+
+2      As defined in Annex 1.
+3      As defined in Annex 3.
+4      As defined in Annex 3.
+5      As defined in Annex 4.
+6      As defined in Annex 2.
+                                       17
+
+[PÁGINA PDF 19]
+           Undertakings supply products or services to the Divestment Business, as detailed
+            in the applicable purchase agreement and related transitional service agreement,
+           as detailed in the TSA Agreement 7 and the List of Transitional Services 8.
+
+      (i)    Any other tangible or intangible assets owned by Spirit Malaysia.
+
+(3)  The Divestment Business shall not include any other tangible or intangible assets,
+     contracts, records, knowhow or personnel that is not set forth in paragraph 2 of this
+     Schedule.
+
+(4)   If there is any asset or personnel which is not be covered by paragraph 2 of this Schedule
+     but which is both used (exclusively or not) in the Divestment Business and necessary for
+     the continued viability and competitiveness of the Divestment Business, that asset or
+     adequate substitute will be offered to CTRM.
+
+                                    ***
+
+
+
+
+
+7      As defined in Annex 5.
+8      As defined in Annex 6.
+                                       18
+
+[PÁGINA PDF 20]
+             APPENDIX 1
+
+  List of Key Personnel for the Divestment Business
+
+                   […]
+
+
+List of Annexes to the Subang Commitments Schedule
+
+                   […]
+
+                      ***
+
+
+
+
+
+                        19

@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "8c1929ee6249cff67fb19fe501108c9bebbeff3a39429eeea953f01a03044cd0",
+  "extraido_utc": "2026-10-22T19:44:08+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": " ",
+    "author": "Jonas RASIMAS",
+    "subject": "",
+    "keywords": "EL4",
+    "creator": "PDF CoDe 5.2411.868.0 (c) 2002-2024 European Commission",
+    "producer": "PDF CoDe 5.2411.868.0 (c) 2002-2024 European Commission",
+    "creationDate": "D:20250131173702+01'00'",
+    "modDate": "D:20250131173712+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11564_OTRO_01",
+      "caso": "M.11564",
+      "universo": "principal",
+      "titulo": "Trustee details — INTERNATIONAL PAPER / DS SMITH",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202506/M_11564_10472653_3974_5.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202506/M_11564_10472653_3974_5.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11564/M.11564_OTRO_01_8c1929ee6249.pdf",
+      "sha256": "8c1929ee6249cff67fb19fe501108c9bebbeff3a39429eeea953f01a03044cd0",
+      "coincide_inventario": "",
+      "bytes": "59562",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202506/M_11564_10472653_3974_5.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": " MONITORING TRUSTEE IN CASE M.11564 - INTERNATIONAL PAPER / DS\n                        SMITH\n\n\n\nOn 31.01.2025 the Commission approved the appointment of:\n\n                 Advolis SAS\n                  38, Avenue de l’Opéra\n                 75002, Paris\n\n\n                  Contact: Antoni Vassileff\n                 Square de Meeûs 37\n               1000 Brussels Belgium\n               +32 2 791 7670\n                  avassileff@advolis-orfis.com\n\n\nas Monitoring Trustee in the above-mentioned case.\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of International Paper\nwith the Commitments attached to the Commission's Decision of 24.01.2025 and to\nreport to the Commission thereon.\n\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 973,
+      "caracteres_utiles": 658,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

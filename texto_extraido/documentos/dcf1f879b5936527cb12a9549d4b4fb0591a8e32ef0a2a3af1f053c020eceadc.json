@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "dcf1f879b5936527cb12a9549d4b4fb0591a8e32ef0a2a3af1f053c020eceadc",
+  "extraido_utc": "2026-10-22T19:28:50+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20220411171727+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10506_CP_01",
+      "caso": "M.10506",
+      "universo": "principal",
+      "titulo": "Mergers: Commission approves Parker's acquisition of Meggitt, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_2404/IP_22_2404_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2404",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10506/M.10506_CP_01_dcf1f879b593.pdf",
+      "sha256": "dcf1f879b5936527cb12a9549d4b4fb0591a8e32ef0a2a3af1f053c020eceadc",
+      "coincide_inventario": "",
+      "bytes": "40991",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_2404/IP_22_2404_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission approves Parker's acquisition of Meggitt, subject to\nconditions\n\nBrussels, 11 April 2022\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof Meggitt by Parker. The approval is conditional on full compliance with commitments offered by\nParker.\n\nExecutive Vice-President Margarethe Vestager, in charge of competition policy, said: “Manufacturers\nof civil and military aircraft depend on competitive supply chains for all aerospace components.\nParker and Meggitt are leading global suppliers of wheels and brakes for a range of aircraft types,\nincluding military helicopters and drones. The remedy package offered by Parker will preserve\ncompetition in these markets and ensure that aerospace and defence customers have access to\nsufficient choice of component suppliers and will continue benefitting from competitive prices.”\n\nParker and Meggitt are both leading global aerospace component suppliers, with wide product\nportfolios. They compete among others in the design, manufacture and supply of aircraft wheels and\nbrakes and aerospace pneumatic valves.\n\nThe Commission's investigation\n\nGiven the parties' leading positions, the Commission investigated the impact of the proposed\nacquisition on competition in the markets for the design, manufacturing and supply of aircraft wheels\nand brakes for certain types of aircraft.\n\nThe market investigation revealed that the transaction would further reduce the already limited\nnumber of suppliers of wheels and brakes for small general aviation aircraft, business jets, civil and\nmilitary helicopters, and military fixed-wing drones. The merged entity would have been further\nstrengthened as the largest supplier in these markets. This would have impacted the prices and\ninnovation in these important components. Competitors generally have a smaller presence in the\nsupply of wheels and brakes for these aircraft types and often do not offer all types of brakes.\n\nThe Commission did not find competition concerns in other aerospace component markets in which\nthe parties compete, including aerospace pneumatic valves, as sufficient alternative suppliers would\nremain active following the transaction.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, Parker committed to divest its entire aircraft\nwheels and brakes division. The commitments include the divestment of Parker's plant in Ohio, US,\nand a range of provisions to ensure that a buyer can operate the business viably and independently\nfrom the merged entity.\n\nThese commitments fully remove the overlaps in the design, manufacturing and supply of aircraft\nwheels and brakes between Parker and Meggitt, globally. The commitments therefore ensure that the\ncurrent level of competition is maintained in the markets where the Commission identified\ncompetition concerns, thus preserving customer choice.\n\nThe Commission therefore concluded that the proposed transaction, as modified by the\ncommitments, would not raise competition concerns. The decision is conditional upon full compliance\nwith the commitments.\n\nCompanies and products\n\nParker, headquartered in the US, is active globally in the design, manufacture and supply of motion\nand control technologies and systems, and in the provision of precision engineered solutions for a\nvariety of mobile, industrial and aerospace markets.\n\nMeggitt, headquartered in the UK, is active globally in the design, manufacture and supply of\ncomponents and sub-systems for aerospace and defence markets, and selected energy applications.",
+      "caracteres": 3628,
+      "caracteres_utiles": 3011,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Merger control rules and procedures\n\nThe transaction was notified to the Commission on 21 February 2022.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the European Economic Area\nor any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). This deadline is extended to 35 working days in cases where remedies are submitted by\nthe parties, such as in this case.\n\nMore information will be available on the competition website, in the Commission's public case\nregister under the case number M.10506.\n\n                                                                                                              IP/22/2404\n\n\n Press contacts:\n\n       Daniel FERRIE (+32 2 298 65 00)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1279,
+      "caracteres_utiles": 929,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

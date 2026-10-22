@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "32a6cafc93855d988417135072c27daaf3ebeceae742e5ecb645f0f1623f1303",
+  "extraido_utc": "2026-10-22T19:28:41+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10433_OTRO_01",
+      "caso": "M.10433",
+      "universo": "principal",
+      "titulo": "Trustee details — VIVENDI / LAGARDERE",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "FR",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202516/M_10433_10598086_13082_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202516/M_10433_10598086_13082_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10433/M.10433_OTRO_01_32a6cafc9385.pdf",
+      "sha256": "32a6cafc93855d988417135072c27daaf3ebeceae742e5ecb645f0f1623f1303",
+      "coincide_inventario": "",
+      "bytes": "79179",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202516/M_10433_10598086_13082_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "      MANDATAIRE CHARGÉ DU CONTRÔLE DANS L’AFFAIRE\n                   M.10433 –VIVENDI / LAGARDERE\n\n\nLe 21 juin 2023, la Commission a approuvé la nomination de:\n\n          S&W Partners LLP (anciennement Evelyn Partners LLP)\n               45 Gresham Street\n                London, EC2V 7BG\n                 United Kingdom\n\n                  Contact:\n                Nasoul Gopal\n                 Tél :+44 20 4617 5423\n                Nasoul.Gopal@swgroup.com\n\n\nen tant que mandataire chargé du contrôle dans l’affaire susmentionnée.\n\nLe rôle du mandataire chargé du contrôle est de contrôler le respect par Vivendi des\nengagements joints à la décision de la Commission du 09.06.2023 et de faire rapport à la\nCommission à ce sujet.\n\nLes tiers qui ont des questions sur les engagements peuvent contacter le mandataire au\nmoyen des coordonnées susmentionnées.\n\nCe qui précède est sans préjudice de la compétence de la Commission en matière de\ncontrôle de la mise en œuvre des engagements joints à sa décision.",
+      "caracteres": 1006,
+      "caracteres_utiles": 690,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

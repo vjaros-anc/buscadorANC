@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "73f4300d1a82a9874bc9c8e1d7db7edcd963e2a095732843953ee498ac38686d",
+  "extraido_utc": "2026-10-22T19:28:23+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10431_NOT_PREVIA_01",
+      "caso": "M.10431",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — ALI GROUP / WELBILT",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202219/M_10431_8294053_1074_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202219/M_10431_8294053_1074_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10431/M.10431_NOT_PREVIA_01_73f4300d1a82.pdf",
+      "sha256": "73f4300d1a82a9874bc9c8e1d7db7edcd963e2a095732843953ee498ac38686d",
+      "coincide_inventario": "",
+      "bytes": "147337",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202219/M_10431_8294053_1074_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.10431 – ALI GROUP / WELBILT\n\n                         SECTION 1.2\n\n                           Description of the concentration\n\n\n(1)   On 28  April 2022, the European Commission received a notification of a proposed\n       concentration pursuant to Article 4 of Council Regulation (EC) No 139/2004 (\"EUMR\") by\n       which  Ali Holding S.r.l., Italy (\"Ali Group\") intends to acquire sole control within the\n      meaning of Article 3(1)(b) EUMR over Welbilt, Inc., USA (\"Welbilt\"), a company listed on\n        the New York Stock Exchange.\n\n(2)    The business activities of the undertakings concerned are:\n\n         Ali Group: commercial and institutional foodservice equipment.\n\n        Welbilt: commercial and institutional foodservice equipment.\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 1447,
+      "caracteres_utiles": 1066,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

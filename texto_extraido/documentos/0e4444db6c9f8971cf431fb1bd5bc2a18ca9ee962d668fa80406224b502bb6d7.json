@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "0e4444db6c9f8971cf431fb1bd5bc2a18ca9ee962d668fa80406224b502bb6d7",
+  "extraido_utc": "2026-10-22T19:27:12+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20211217090109+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10249_CP_01",
+      "caso": "M.10249",
+      "universo": "principal",
+      "titulo": "Mergers: Commission clears Derichebourg's acquisition of Groupe Ecore, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_21_6936/IP_21_6936_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6936",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10249/M.10249_CP_01_0e4444db6c9f.pdf",
+      "sha256": "0e4444db6c9f8971cf431fb1bd5bc2a18ca9ee962d668fa80406224b502bb6d7",
+      "coincide_inventario": "",
+      "bytes": "42951",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_21_6936/IP_21_6936_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:02+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission clears Derichebourg's acquisition of Groupe Ecore,\nsubject to conditions\n\nBrussels, 17 December 2021\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof Groupe Ecore by Derichebourg. The approval is conditional on full compliance with a commitments\npackage offered by Derichebourg.\n\nExecutive Vice-President Margrethe Vestager, in charge of competition policy, said: “Derichebourg is\nthe leading metal scrap recycler in France and directly competes with Group Ecore on the collection\nand recycling of metal scrap in several regions in France. Together, they would have had a strong\nposition in these markets and the acquisition would have eliminated an important alternative for\ncustomers and suppliers. We approved the acquisition of Group Ecore thanks to comprehensive\ndivestments that will ensure that competition remains vibrant in the French recycling market”.\n\nDerichebourg, a subsidiary of the Groupe Derichebourg, is active in the environmental services\nsector, such as waste collection and recovery and business services like cleaning services. Groupe\nEcore operates in the waste management sector, from the collection to the marketing of end-of-life\nmaterials. It is mainly involved in the recycling of metal scrap.\n\nThe Commission's investigation\n\nThe Commission had concerns that the transaction, as initially notified, would have raised serious\ncompetition concerns. In particular, the Commission's investigation found that the transaction would\nlead to significant horizontal overlaps between the activities of the companies in the following\nmarkets:\n\n    the collection and recycling of metal scrap, including end-of-life vehicles, in several local\n    markets in France;\n\n    the recycling of electrical and electronic equipment scrap in several local markets in\n    France; and\n\n    the commercialisation of shredded ferrous scrap (or ‘E40') in several local markets\n    covering France and neighbouring countries.\n\nThe Commission found that the merged entity would have a strong market position and would face\nlimited constraints from competitors in those markets.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, Derichebourg offered to:\n\n     divest four recycling plants in France incorporating a shredder and four collection sites;\n\n     offer, at the option of the purchaser, up to five additional collection sites in France located in\n    the same catchment area of the recycling plants divested, which will contribute to the supply\n     of metal scrap to the shredders;\n\n     offer transitional service agreements, including access to all assets and services required to\n    operate the divested business competitively (such as IT services, transport services, or quality,\n     safety and environmental services) for a duration enabling the divested business to become\n     fully independent from Derichebourg.\n\nThe final commitments, following significant improvements based on the feedback received by\nmarket participants, fully address the competition concerns identified by the Commission.\n\nThe Commission therefore concluded that the proposed transaction, as modified by the\ncommitments, no longer raises competition concerns. The Commission's decision is conditional upon\nfull compliance with the commitments.\n\nCompanies and products",
+      "caracteres": 3414,
+      "caracteres_utiles": 2777,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Group Ecore, based in France, is active in the waste management sector. Its activities cover the\nentire recycling chain, namely the collection, recovery and marketing of end-of-life materials. Its core\nbusiness is the recycling of metals. It is also involved in the recycling of paper and plastic waste.\n\nDerichebourg, based in France, is part of the Derichebourg Group, which is present in the\nenvironmental services sector (collection and recovery of metal scrap, services to local authorities\nsuch as household waste collection) and business services (cleaning services, temporary\nemployment, outsourced aeronautical services, energy, etc.). With regard to metal scrap in\nparticular, an activity that constitutes its core business, Derichebourg Environnement covers the\nentire recycling chain, ensuring the collection, recovery and marketing of ferrous (steel) and non-\nferrous (aluminium, copper, etc.) waste.\n\nMerger control rules and procedures\n\nThe transaction was notified to the Commission on 26 October 2021.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working\ndays, bringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.10249.\n\n                                                                                                              IP/21/6936\n\n\n Press contacts:\n\n       Daniel FERRIE (+32 2 298 65 00)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2228,
+      "caracteres_utiles": 1699,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,108 @@
+[PÁGINA PDF 1]
+                 European Commission - Press release
+
+
+
+
+
+Mergers: Commission opens in-depth investigation into the proposed
+acquisition of VMware by Broadcom
+
+Brussels, 20 December 2022
+
+The European Commission has opened an in-depth investigation to assess, under the EU Merger
+Regulation, the proposed acquisition of VMware by Broadcom. The Commission is particularly
+concerned that the transaction would allow Broadcom to restrict competition in the market for certain
+hardware components which interoperate with VMware's software.
+
+Broadcom is a hardware company that offers, among other products, Network Interface Cards
+(‘NICs'), Fibre Channel Host-Bus Adapters (‘FC HBAs') and storage adapters.  Broadcom recently
+started expanding into software markets. VMware is a software provider offering mainly
+virtualisation software which interoperates with a wide range of hardware, including NICs, FC HBAs
+and storage adapters. The companies' portfolios are largely complementary.
+
+The Commission's preliminary competition concerns
+
+The Commission's preliminary investigation indicates that the transaction may allow Broadcom to
+restrict competition in the market for the supply of NICs, FC HBAs and storage adapters by:
+
+   i. degrading interoperability between VMware's server virtualisation software and competitors'
+    hardware to the benefit of its own hardware, and/or
+
+  ii. foreclosing competitors' hardware by preventing them from using VMware's server
+     virtualisation software or degrading their access to it.
+
+This, in turn, could lead to higher prices, lower quality and less innovation for business customers,
+and ultimately consumers.
+
+In addition, the Commission will also examine whether:
+
+   Broadcom may hinder the development of SmartNICs by other providers. In 2020,
+    VMware launched Project Monterey with three SmartNICs sellers (NVIDIA, Intel and AMD
+    Pensando). Broadcom may decrease VMware's involvement in Project Monterey to protect its
+   own NICs revenues. This could hamper innovation to the detriment of customers.
+
+   Broadcom may start bundling VMware's virtualisation software with its own software
+    (namely mainframe and security software) and no longer offer VMware's virtualisation software
+    as a stand-alone product reducing choice and potentially foreclosing rival software providers.
+
+The proposed transaction was notified to the Commission on 15 November 2022. The Commission
+now has 90 working days, until 11 May 2023, to take a decision. The opening of an in-depth inquiry
+does not prejudge the final result of the investigation.
+
+Companies and products
+
+Broadcom is a US based hardware company active in the production of NICs, FC HBAs and storage
+adapters, amongst other products. NICs are server components that provide an interface between
+the server and other computers and equipment on a network. FC HBAs are storage adapters that
+connect servers to storage located outside the server on a storage-area network using the fiber
+channel protocol, typically through a switch. Storage adapters connect servers' central processing
+units to storage directly. Broadcom recently started expanding into software markets, notably
+through the acquisition of CA Technology and Symantec.
+
+VMware is a US based software company that mainly offers virtualization software, whichenables IT
+operators to create virtual versions of computer resources (e.g. hardware, operating systems (‘OS'),
+storage devices, or network resources) known as virtual machines. This enables IT organizations to
+run more than one virtual system – and multiple OS and applications – on a single server at the
+same time.
+
+Merger control and procedure
+
+[PÁGINA PDF 2]
+The Commission has the duty to assess mergers and acquisitions involving companies with a
+turnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent
+concentrations that would significantly impede effective competition in the European Economic Area
+or any substantial part of it.
+
+The vast majority of notified mergers do not pose competition problems and are cleared after a
+routine review. From the moment a transaction is notified, the Commission generally has 25 working
+days to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).
+
+In addition to the current transaction, there are currently six on-going Phase II merger
+investigations: (i) the proposed acquisition of OMV Slovenija by MOL; (ii) the proposed acquisition of
+VOO and Brutélé by Orange; (iii) the proposed acquisition of Alumetal by Hydro; (iv) the proposed
+acquisition of Activision Blizzard by Microsoft; (v) the proposed acquisition of eTraveli by Booking;
+and (vi) the proposed acquisition of Lagardère by Vivendi.
+
+More information will be available on the Commission's competition website, in the Commission's
+public case register under the case number M.10806.
+
+                                                                                                              IP/22/7835
+
+Quotes:
+
+
+ Broadcom, a major supplier of hardware components, is acquiring VMware, a key server virtualisation software provider. Our initial
+ investigation has shown that it is essential for hardware components in servers to interoperate with VMware’s software. We are
+ concerned that after the merger, Broadcom could prevent its hardware rivals to interoperate with VMware’s server virtualisation
+ software. This would lead to higher prices, lower quality and less innovation for customers and consumers.
+ Margrethe Vestager, Executive Vice-President in charge of competition policy - 20/12/2022
+
+
+
+ Press contacts:
+
+       Arianna PODESTA (+32 2 298 70 24)
+       Maria TSONI (+32 2 299 05 26)
+
+ General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email

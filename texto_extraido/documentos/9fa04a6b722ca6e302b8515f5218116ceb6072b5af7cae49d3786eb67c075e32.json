@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "9fa04a6b722ca6e302b8515f5218116ceb6072b5af7cae49d3786eb67c075e32",
+  "extraido_utc": "2026-10-22T19:35:32+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10792_OTRO_01",
+      "caso": "M.10792",
+      "universo": "principal",
+      "titulo": "Trustee details — PHILIP MORRIS INTERNATIONAL / SWEDISH MATCH",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202248/M_10792_8630819_1244_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202248/M_10792_8630819_1244_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10792/M.10792_OTRO_01_9fa04a6b722c.pdf",
+      "sha256": "9fa04a6b722ca6e302b8515f5218116ceb6072b5af7cae49d3786eb67c075e32",
+      "coincide_inventario": "",
+      "bytes": "76920",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202248/M_10792_8630819_1244_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "     MONITORING TRUSTEE IN CASE M.10792 - PHILIP MORRIS\n              INTERNATIONAL / SWEDISH MATCH\n\n\n\n\nOn 3.11.2022 the Commission approved the appointment of:\n\n                  Alcis Advisers GmbH\n                   Fasanenstr. 73\n               10719 Berlin\n              Germany\n\n                  Contacts:\n                David Cayet: david.cayet@alcis-advisers.com\n                  Dr. Ulrich Puls: ulrich.puls@alcis-advisers.com\n\n\nas Monitoring Trustee in the above-mentioned case.\n\nThe role of the Monitoring Trustee is to monitor the compliance of PHILIP MORRIS\nInternational  with  the Commitments  attached  to  the  Commission's  Decision  of\n25.10.2022, and to report to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 977,
+      "caracteres_utiles": 678,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

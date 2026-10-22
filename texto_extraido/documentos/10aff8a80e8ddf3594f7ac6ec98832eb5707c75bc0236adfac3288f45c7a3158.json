@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "10aff8a80e8ddf3594f7ac6ec98832eb5707c75bc0236adfac3288f45c7a3158",
+  "extraido_utc": "2026-10-22T19:44:47+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20250619161507+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11830_CP_01",
+      "caso": "M.11830",
+      "universo": "principal",
+      "titulo": "Commission approves UniCredit's acquisition of Banco BPM, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_1565/IP_25_1565_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1565",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11830/M.11830_CP_01_10aff8a80e8d.pdf",
+      "sha256": "10aff8a80e8ddf3594f7ac6ec98832eb5707c75bc0236adfac3288f45c7a3158",
+      "coincide_inventario": "",
+      "bytes": "38652",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_1565/IP_25_1565_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:04+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission approves UniCredit's acquisition of Banco BPM, subject to\nconditions\n\nBrussels, 19 June 2025\n\nThe European Commission has approved, under the EU Merger Regulation (‘EUMR'), the proposed\nacquisition of Banco BPM S.p.A (‘BPM') by UniCredit S.p.A. (‘UniCredit'). Today's approval by the\nCommission of the merger is conditional upon full compliance with the commitments offered by\nUniCredit to address the Commission's concerns related to the level of competition in the Italian\nbanking sector. In parallel, the Commission has rejected a request from the Italian competition\nauthority to refer the merger to it for assessment under Italian competition law.\n\nThe Commission's investigation\n\nUniCredit and BPM both provide corporate banking services to small and medium-sized enterprises\n(‘SMEs') and large corporate clients (‘LCCs'), as well as retail banking services and insurance and\nasset management services. UniCredit has significant operations in Italy, Germany, as well as in\nCentral and Eastern Europe. BPM operates mainly in Italy.\n\nThe Commission's investigation found that:\n\n    At local level, the proposed transaction would raise competition concerns in the markets for\n    deposits and loans for both retail consumers and SMEs banking services. Given the strong\n     horizontal overlap between the companies' activities and branches in 181 local areas, the\n    Commission was concerned that the companies could have gained excessive market power,\n     potentially leading to higher prices and reduced competition in those areas.\n    At the regional level, the proposed transaction would conversely not raise competition concerns\n     for LCCs banking services, as several other well-established competitors would remain active in\n    the market following the transaction.\n     Further, the transaction does not raise concerns regarding possible risks of coordination in the\n     Italian banking market, due to (i) the market's fragmented and competitive nature; (ii) low\n    transparency in consumer pricing; and (iii) limited monitoring by competitors of their respective\n    market behaviour both at the regional and provincial level.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, UniCredit has committed to divest 209 physical\nbranches located in problematic overlap local areas across Italy.\n\nThese commitments fully address the competition concerns identified by the Commission, by\nremoving the horizontal overlap between the companies' activities in those areas and ensuring that\ncompetition is preserved.\n\nFollowing the positive feedback received during the market test, the Commission concluded that the\ntransaction, as modified by the commitments, would no longer raise competition concerns in the\nmarkets for deposits and loans for both retail consumers and SMEs banking. This is because following\nthe divestment, the combined market shares of the merged entity across the relevant local areas will\nbe moderate.\n\nThe decision is conditional upon full compliance with the commitments. An independent trustee will\nmonitor their implementation, under the supervision of the Commission.\n\nRejection of referral request\n\nIn parallel, the Commission has rejected a request from the Italian competition authority to refer the\nmerger to it for assessment under Italian competition law.",
+      "caracteres": 3393,
+      "caracteres_utiles": 2746,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Article 9(3) of the EUMR allows the Commission to refer all or part of the assessment of a case to a\nMember State provided that the competitive effects are restricted to markets within that Member\nState. In deciding whether to accept or reject such a referral request, the Commission takes into\naccount, among others, which authority is better placed to deal with the case.\n\nThe Commission concluded that there are no compelling reasons that would justify a referral of the\ntransaction to Italy in application of Article 9(3) of the EUMR. The Commission has a particular interest\nin ensuring that competition is preserved in sectors such as banking and insurance, which are of\ncrucial importance for the economic development of the Capital Market Union and Savings and\nInvestment Union. Moreover, the Commission is well placed to deal with the transaction as it has\ndeveloped significant expertise in analysing banking markets. The Commission therefore rejected the\nrequest.\n\nCompanies\n\nUniCredit provides retail, commercial and private banking, as well as insurance and asset\nmanagement services. It is mainly active in Italy, Germany, Central and Eastern Europe. It also has a\nsmall presence in the UK and in the US. In Italy, UniCredit is the second largest banking group by\nassets and is a public company with shares listed on the Milan, Frankfurt and Warsaw stock\nexchanges.\n\nBPM provides retail, commercial and investment banking, as well as insurance and asset\nmanagement services in Italy. BPM is currently the third largest banking group in Italy by assets and\nis a public company with shares listed on the Milan stock exchange. It was created in 2017 through\nthe merger between Banco Popolare and Banca Popolare di Milano.\n\nMerger control rules and procedure\n\nThe transaction was notified to the Commission on 24 April 2025.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a turnover\nabove certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent concentrations\nthat would significantly impede effective competition in the European Economic Area or any\nsubstantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of 25\nworking days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working days,\nbringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.11830.\n\n                                                                                                            IP/25/1565\n\n\n Press contacts:\n\n      Lea ZUBER (+32 2 29 56298)\n      Sara SIMONINI (+32 2 29 83367)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 3058,
+      "caracteres_utiles": 2385,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

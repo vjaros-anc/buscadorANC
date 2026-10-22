@@ -1,0 +1,662 @@
+[PÁGINA PDF 1]
+         EUROPEAN COMMISSION
+             DG Competition
+
+
+
+
+Case M.11143 – CMA CGM / BOLLORE LOGISTICS
+
+
+
+
+
+                             Only the English text is available and authentic.
+
+
+           REGULATION (EC) No 139/2004
+               MERGER PROCEDURE
+
+
+
+  Decision on the implementation of the commitments -
+                                 Purchaser approval
+
+                                   Date: 15/07/2024
+
+[PÁGINA PDF 2]
+              EUROPEAN COMMISSION
+
+
+
+
+                                                     Brussels, 15.7.2024
+                                             C(2024) 5157 final
+
+                                     PUBLIC VERSION
+
+
+
+
+
+                            CMA CGM S.A.
+                                                         4, quai d’Arenc
+                                           13 235 Marseille
+                                                     2ème Arrondissement Cedex 02
+                                               France
+
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.11143 – CMA CGM / BOLLORE LOGISTICS
+         Approval of Balguerie as purchaser of Bolloré Logistics SE’s freight
+          forwarding and contract logistics activities in Martinique, Guadeloupe,
+           Saint Martin, and French Guiana, following your letter of 14 June 2024 and
+           the Trustee’s opinion of 21 June 2024
+
+
+1.     FACTS AND PROCEDURE
+
+(1)    By decision of 23 February 2024 (the ‘Decision’) based on Article 6(1)(b) in
+        connection with Article 6(2) of Council Regulation No 139/2004,1 the Commission
+        declared the operation by which CMA CGM S.A. (‘CMA CGM’ or ‘Notifying
+         Party’, France) acquires, by way of purchase of shares, sole control of the whole of
+        Bolloré Logistics SE (‘Bolloré Logistics’, France), compatible with the internal
+        market, subject to conditions and obligations provided in the Annex of the Decision
+         (the ‘Commitments’). CMA CGM and Bolloré Logistics are hereinafter jointly
+        designated as the ‘Parties’.
+
+
+
+
+1      OJ L 24, 29.1.2004, p. 1 (the ‘Merger Regulation’). With effect from 1 December 2009, the Treaty on
+         the Functioning of the European Union (‘TFEU’) has introduced certain changes, such as the
+        replacement  of ‘Community’ by  ‘Union’  and ‘common  market’ by  ‘internal  market’. The
+        terminology of the TFEU will be used throughout this decision.
+
+
+
+Commission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111
+
+[PÁGINA PDF 3]
+(2)     Notably, the Commitments provide that CMA CGM commits to divest to an
+        independent and suitable purchaser Bolloré Logistics’ legal entities and activities in
+          air and sea  freight forwarding, as well as  contract  logistics,  in Martinique,
+        Guadeloupe, Saint Martin, and French Guiana (‘Divestment Business’), further
+        described in the following paragraphs.
+
+(3)       First, the Divestment Business includes the following legal entities established in
+         these  territories:  Bolloré  Logistics  Guadeloupe  SAS,  Guadeloupe  Transit
+       Déménagement SAS, SMTL Bolloré Logistics Martinique SAS, and Bolloré
+         Logistics Guyane SAS2 (‘Divestment Entities’).
+
+(4)     The Notifying Party commits to divest the Divestment Business which includes, in
+          particular:
+
+          (a)    all tangible and intangible  assets of the Divestment  Entities (including
+              products under development and related rights, intellectual property rights,
+            and know how);
+
+         (b)    all  licences,  permits,  and  authorisations  issued by  any  governmental
+              organisation for the benefit of the Divestment Business;
+
+          (c)    all contracts, leases, commitments, and customer orders of the Divestment
+              Business;
+
+         (d)    all customers, credit, and other records of the Divestment Business; and
+
+          (e)    all  staff currently employed by the Divestment  Entities, including  staff
+             seconded to the Divestment Entities.
+
+(5)     Second, the Divestment Business also includes relationships with customers with
+          activities in Martinique, Guadeloupe, Saint Martin, and French Guiana which are
+         currently commercially managed by Bolloré Logistics’ legal entities in mainland
+        France (‘Bolloré Logistics France’). A number of global customers with multi-
+         destination commercial relationships with Bolloré Logistics France, as well as
+        those customers carrying out only a  limited  part of  their business  in  these
+          territories, are excluded from the scope of the Divestment Business (‘Global
+        Excluded Clients’), as described in detail in the Commitments. The Notifying Party
+       commits to offer to the purchaser the option to enter into an exclusive agency
+        agreement with the Notifying Party to serve the Global Excluded Clients in the
+        concerned territories.
+
+(6)      Third, the Notifying Party undertakes, in order to ensure the viability of the
+        Divestment Business, to also transfer  (i) some limitedly defined personnel of
+        Bolloré Logistics France located in mainland France3 and (ii) staff employed by
+        Bolloré Logistics France’s subcontractors for warehousing services provided to
+        Bolloré Logistics France.
+
+(7)      Fourth, the Divestment Business includes the benefit, for a transitional period, on
+        terms and conditions equivalent to those at present afforded to the Divestment
+
+
+2       Only [>50]% of the entire share capital of Bolloré Logistics Guyane SAS is owned by Bolloré
+         Logistics and is part of the Divestment Business.
+3       These are the employees of Bolloré Logistics France who are currently devoted to flows from/to
+        Martinique, Guadeloupe, Saint Martin, and French Guiana.
+
+
+
+
+                                                    2
+
+[PÁGINA PDF 4]
+        Business or at cost, at the option of the purchaser, of the current arrangements
+        under which Bolloré Logistics or its affiliated undertakings supply products or
+         services to the Divestment Business or which are necessary for the viability of the
+        Divestment Business, such as IT infrastructure and software, human resources, and
+         financial services.
+
+(8)      Finally, the Notifying Party commits, for a period of […] after closing of the
+        purchaser’s acquisition of the Divestment Business:
+
+          (a)  Not to solicit the key personnel of the Divestment Entities and personnel of
+              Bolloré Logistics located in mainland France transferred with the Divestment
+             Business (‘Non-Solicitation Agreement’);
+
+         (b)  Not  to  provide  freight  forwarding  services  to and from  Guadeloupe,
+              Martinique, Saint Martin, and French Guiana, with the exception of services
+               to Global Excluded Clients (‘Non-Competition Agreement’); and
+
+          (c)  To refrain from developing any local presence in the provision of freight
+             forwarding services in Guadeloupe, Martinique, Saint Martin, and French
+            Guiana (‘Non-Relocation Agreement’).
+
+(9)    On  14  June  2024, CMA CGM  proposed  Balguerie  Gestion  Participation
+         (‘Balguerie’,  France)  for  approval by  the Commission  as  purchaser  of  the
+        Divestment Business (the ‘Reasoned Proposal’) and submitted a copy of the
+        proposed Shares and Assets Purchase Agreement, dated 7 June 2024, and of the
+         related agreements (the ‘Proposed Agreements’).
+
+(10)   On 21 June 2024, Advolis SAS (the ‘Trustee’, France) submitted an assessment of
+        Balguerie’s suitability as a purchaser (the ‘Reasoned Opinion’), indicating that
+        Balguerie fulfils the criteria of the purchaser requirements in section D of the
+       Commitments attached  to the Decision. In  this assessment, the Trustee also
+         indicated that, on the basis of the Proposed Agreements, the Divestment Business
+       would be sold in a manner consistent with the Commitments.
+
+2.     ASSESSMENT OF THE PROPOSAL
+
+2.1.    Legal framework
+
+(11)    According to paragraphs 19-20 of the Commitments, the Commission has to verify
+         that the Divestment Business  is being sold in a manner consistent with the
+       Commitments and that the purchaser fulfils the purchaser criteria. According to
+        paragraph 19 of the Commitments, in its assessment of the proposed purchaser, the
+       Commission should ensure that:
+          (a)  The purchaser is independent of and unconnected to the Notifying Party and
+                   its affiliated undertakings.
+         (b)  The purchaser has the financial resources, proven expertise, and incentive to
+             maintain and develop the Divestment Business as a  viable and  active
+              competitive force in competition with the Parties and other competitors.
+          (c)  The acquisition of the Divestment Business by the purchaser is not likely to
+                create, in light of the information available to the Commission, prima facie
+              competition concerns nor give rise to a risk that the implementation of the
+           Commitments will be delayed. In particular, the purchaser must reasonably
+
+
+
+
+                                                    3
+
+[PÁGINA PDF 5]
+            be expected to obtain all necessary approvals from the relevant regulatory
+               authorities for the acquisition of the Divestment Business.
+         (d)  The purchaser  is an  operator already  active  in  the market  for  freight
+             forwarding having significant activities in mainland France.
+
+(12)    Under paragraph 20 of the Commitments, the Commission may approve the sale of
+         the Divestment Business without one or more assets or parts of the personnel, if
+          this does not affect the viability and competitiveness of the Divestment Business
+          after the sale, taking account of the proposed purchaser.
+
+2.2.     Description of the proposed purchaser
+
+(13)    Balguerie is a French freight forwarder offering a comprehensive range of services
+         in  the  transport  sector,  including  maritime,  aerial, and  terrestrial  transport.
+        Balguerie operates in several key geographic areas, notably Europe, Asia, and the
+        United States. Balguerie employs around 900 employees across 25 operational sites
+       and 40 locations worldwide.
+
+2.3.    Purchaser criteria
+
+2.3.1.   Independence from the Parties
+
+(14)    Under paragraph 19(a) of the Commitments, to be approved by the Commission, a
+         suitable purchaser must be independent from and unconnected to the Notifying
+        Party and  its affiliated undertakings (this being assessed having regard to the
+         situation following the divestiture).
+
+(15)    According to the information provided by the Notifying Party and the Trustee,
+         there are no direct or indirect shareholdings between Balguerie and CMA CGM or
+        Bolloré Logistics. In addition, Balguerie does not share any executive or non-
+        executive directors nor has any joint ventures or other economic interest groupings
+        with CMA CGM or with Bolloré Logistics.4
+
+(16)    Balguerie  has no commercial  links  with  Bolloré  Logistics  or  its  affiliated
+         undertakings.5 However, as a sea freight forwarder, Balguerie is a customer of
+     CMA CGM. In 2023, Balguerie purchased container liner shipping services from
+     CMA CGM in the amount of EUR […], representing approximately [10-20]% in
+       volume and [20-30]% in value of Balguerie’s total purchases of container liner
+        shipping services that year. These sales to Balguerie represent less than [0-5]% of
+     CMA CGM’s total sales of container liner shipping services in 2023.6 Balguerie
+         also purchased from CMA CGM air cargo transport and freight forwarding services
+          (in the amount of less than EUR […] each). In addition, […].7
+
+(17)    The Notifying Party submits that these agreements—i.e., the purchase relationships
+      […]—were concluded in the ordinary course of business and on an arm’s length
+         basis. The Trustee considers that these agreements reflect a normal commercial
+         relationship between a sea freight forwarder and a container liner shipping carrier.8
+
+
+4       Reasoned Proposal, Section 1, and Reasoned Opinion, Section 6.1.
+5       See additional information provided by CMA CGM to the Commission on 3 July 2024.
+6       See additional information provided by CMA CGM to the Commission on 5 July 2024.
+7       Reasoned Proposal, paragraphs 14-20.
+8       Reasoned Opinion, page 37.
+
+
+
+
+                                                    4
+
+[PÁGINA PDF 6]
+       The Commission  considers  that  these agreements, and notably  the purchase
+         relationships between Balguerie and CMA CGM,  reflect normal commercial
+         relations and concludes, in view of Balguerie’s moderate purchasing share of CMA
+      CGM’s container liner shipping services, that they are not capable of affecting the
+       economic independence of Balguerie.
+
+(18)    The Proposed Agreements will create additional commercial links between CMA
+     CGM and Balguerie, in the form of (i) transitory services agreements (‘TSA’)9 and
+            (ii) other ancillary agreements.10 The Trustee notes that the conclusion of TSAs
+        (envisioned in the Commitments) is customary in this type of transactions and
+        necessary in this case to ensure the viability of the Divestment Business. Regarding
+         the other ancillary agreements, the Trustee considers that they also contribute to
+        ensure the viability of the Divestment Business. The Trustee therefore concludes
+         that Balguerie is independent from the Parties and their affiliated undertakings.11
+
+(19)   On the basis of the information provided by the Notifying Party and taking into
+        account  the Reasoned  Opinion  submitted by  the  Trustee,  the Commission
+        concludes that Balguerie is independent from, and unconnected to, the Parties and
+          their affiliated undertakings.
+
+2.3.2.   Financial resources, proven expertise, and incentive to maintain and develop the
+        Divestment Business as a viable and active competitive force
+
+(20)    Under paragraph 19(b) of the Commitments, the Purchaser shall have the financial
+         resources, proven expertise, and incentive to maintain and develop the Divestment
+        Business as a viable and active competitive force in competition with the Parties
+       and other competitors.
+
+2.3.2.1. Financial resources
+
+(21)    The Notifying Party submits that Balguerie has the financial resources to maintain
+       and develop the Divestment Business as a viable and active competitive force. It
+         notes, in particular, that Balguerie achieved a worldwide turnover of approximately
+     EUR […] in 2022 and approximately EUR […] in 2023 (excluding customs and
+         taxes but including freight).12 The Commission notes, that in 2023, Balguerie had
+         net cash and equity positions of approximately EUR […]. The transaction will
+       moreover be entirely financed by Balguerie’s own cash resources (purchase price
+         of approximately EUR […]). As the transaction will require less than […] of
+        Balguerie’s cash resources, the Notifying Party considers that Balguerie would be
+        capable of funding any further investments that could be required to integrate the
+
+
+
+
+9      The TSAs cover, notably, (i) IT, human resources, and financial services […], (ii) subcontracting
+        agreements regarding warehousing operations […], (iii) an air freight purchase agreement […], (iv) a
+          transitional customer services agreement […], and (v) an operational agency agreement whereby
+        Bolloré Logistics will entrust the Divestment Business, on an exclusive basis, with the technical
+         operations necessary to handle the Global Excluded Clients, for a period of […].
+10      Other ancillary agreements include, notably,  (i) a trademark sub-license agreement […],  (ii) a
+        maritime  freight purchase agreement and a volume  incentive agreement […],  (iii)  sub-lease
+        agreements of offices in mainland France […], and (iv) a warranty agreement […].
+11      Reasoned Opinion, page 37.
+12      […]. See Reasoned Proposal, paragraph 22. Moreover, Balguerie’s turnover for the first five months
+         of 2024 is stable compared to the turnover for the same period in 2023 (see additional information
+        provided by the Trustee to the Commission on 3 July 2024).
+
+
+
+
+                                                    5
+
+[PÁGINA PDF 7]
+        Divestment Business. Additionally, as Balguerie currently has […],  it would in
+         principle have debt raising capabilities, if necessary.13
+
+(22)    Balguerie is moreover a profitable company with a solid financial position and
+          liquidity. Balguerie has shown positive operating results […], which demonstrates
+           its ability to manage resources effectively and generate profits even in fluctuating
+        market conditions.14
+
+(23)   On the basis of the information provided by the Parties and taking into account the
+       Reasoned Opinion submitted by the Trustee, the Commission therefore concludes
+         that Balguerie has the financial resources to maintain and develop the Divestment
+        Business as a viable and active competitive force in competition with the Parties
+       and other competitors.
+
+2.3.2.2. Proven expertise
+
+(24)    Balguerie is a well-established freight forwarder based in France with 25 agencies
+        worldwide. Overall, it arranged transportation for over […] TEUs and […] tons of
+          air freight.15
+
+(25)     In addition, Balguerie already has experience in the French overseas territories,
+        handling approximately […] TEUs per year thanks in part to its own agency in the
+         island of Réunion. In Réunion, the group has grown over the years through organic
+       and external growth.16
+
+(26)    Balguerie has  built a track record of successful acquisitions and subsequent
+        development of acquired companies. Since 2015,  it acquired three companies
+         (Multitrade, Oceans, and ITP), which, together, represented a total turnover of
+     EUR […] (including freight) and included […] employees. Both the turnover and
+       number of employees of […] grew after the integration into Balguerie.17
+
+(27)    This  is consistent with the Reasoned Opinion of the Trustee, who confirmed
+        Balguerie has demonstrated a sufficient level of expertise and capabilities to
+         integrate, maintain, and develop the Divestment Business.18 The Trustee notes in
+          this respect that Balguerie, as a French family-owned company with a long-term
+       view and significant industry expertise, is positively perceived by the transferred
+        employees.19
+
+(28)   On the basis of the information provided by the Parties and taking into account the
+       Reasoned  Opinion,  the Commission  therefore  concludes  that  Balguerie  has
+         sufficient expertise to maintain and develop the Divestment Business as a viable
+       and active competitive force in competition with the Parties and other competitors.
+
+
+
+
+
+13      Reasoned Proposal, paragraphs 21-23.
+14      Reasoned Opinion, page 39.
+15      Reasoned Proposal, paragraph 26.
+16      Reasoned Proposal, paragraph 28 and Reasoned Opinion, page 38.
+17      Reasoned Opinion, page 38 and Annex 11.
+18      Reasoned Opinion, pages 38-39.
+19      Reasoned Opinion, page 39.
+
+
+
+
+                                                    6
+
+[PÁGINA PDF 8]
+2.3.2.3. Incentive to maintain and develop the Divestment Business as a viable and active
+        competitive force
+
+(29)    The Commission considers, based on the main  financial  indicators,  that the
+        Divestment Business represents an attractive investment opportunity for Balguerie.
+        This is confirmed by Balguerie’s business plan.
+
+(30)    According to its business plan, Balguerie expects the Divestment Business’ net
+        revenue to […].20 The Commission also notes that the EBITDA margin of the
+        Divestment Business is projected to […].21
+
+(31)     In addition, Balguerie offered a high price for the Divestment Business, creating
+         incentives for this family-owned company to maintain and develop the Divestment
+        Business in order to make it a profitable investment.
+
+(32)    This  is also the view of the Trustee, according to which Balguerie has the
+         capabilities and the proper incentives to maintain and develop the Divestment
+        Business. The Trustee submits that the Divestment Business is seen by Balguerie as
+        an opportunity to reinforce  its presence in the French overseas territories and
+         diversify  its  geographic  footprint. The  Divestment  Business’  operations  in
+        mainland France will complement Balguerie’s existing activities in the Northern
+        France area, where Balguerie also considers […].22 The Transaction may also
+        enable Balguerie to start operating in […].23
+
+(33)     In view of the information provided by CMA CGM and taking into account the
+       Reasoned Opinion submitted by the Trustee, the Commission considers  that
+        Balguerie has a proven incentive to continue investing to maintain and develop the
+        Divestment Business.
+
+2.3.3.   Absence of prima facie competition problems
+
+(34)    Under paragraph 19(c) of the Commitments, the  transfer of the Divestment
+        Business to a suitable purchaser must neither be likely to create prima facie
+        competition concerns nor give  rise to a  risk  that the implementation of the
+       Commitments will be delayed.
+
+(35)    This prima facie assessment is based on the information available for the purpose
+         of this purchaser approval and does not prejudge the competition assessment of the
+         acquisition of the Divestment Business by the French competition authority under
+         the applicable French merger control rules.
+
+(36)    The acquisition by Balguerie of the Divestment Business does not give rise to
+       prima facie competition problems.
+
+(37)   As far as horizontal links are concerned, Balguerie and the Divestment Business’
+          activities overlap in the market for the provision of sea freight forwarding services
+         in France, Guadeloupe, Saint Martin, Martinique, French Guiana, and French
+
+
+
+
+20      Annex 10 of the Reasoned Opinion.
+21      Annex 10 of the Reasoned Opinion.
+22      Reasoned Opinion, pages 41-42.
+23      Reasoned Proposal, paragraph 36.
+
+
+
+
+                                                    7
+
+[PÁGINA PDF 9]
+         Polynesia. In 2022, the combined market shares of Balguerie and the Divestment
+        Business remain below 25% in each of these territories.24
+
+(38)     In addition, the Transaction does not give rise to any vertical relationships as
+         neither Balguerie nor the Divestment Business are active in markets which are
+        upstream or downstream to the other party’s activities.
+
+(39)    The Trustee considers that, in light of the low combined market shares in markets
+       where there are horizontal overlaps, and the absence of vertical relationships, prima
+         facie competition concerns can be ruled out.25
+
+(40)     In view of the non-substantial horizontal overlaps and the absence of vertical
+         relationships between the activities of Balguerie and those of the Divestment
+        Business, the Commission considers that Balguerie’s acquisition of the Divestment
+        Business does not give rise to prima facie competition issues.
+
+2.3.4.   Freight forwarder operator with significant activities in mainland France
+
+(41)    Under paragraph 19(d) of the Commitments, the purchaser must be an operator
+        already active, prior to the acquisition of the Divestment Business, in the market
+         for the provision of freight forwarding services, having significant activities in
+        mainland France.
+
+(42)     Balguerie, created in 1930 in Bordeaux, is an established freight forwarder based
+       and headquartered in France. In 2022, Balguerie Group generated approximately
+     EUR […] in revenues from the provision of freight forwarding services in France.
+            It provides these services not only in mainland France, but also in French overseas
+          territories, including Martinique, Guadeloupe, and French Guiana.
+
+(43)    Since its foundation, the group has expanded its presence in mainland France,
+       where it currently has 12 agencies.26 In 2023, Balguerie had […] employees and
+        achieved  a  revenue  of EUR […]  in  mainland  France.  This  accounts  for
+        approximately [50-60]% of its worldwide revenue.27
+
+(44)    Accordingly, the Trustee considers that Balguerie’s activities in mainland France
+         are material enough for this requirement to be met.28
+
+(45)     In light of the above, the Commission considers that Balguerie’s freight forwarding
+          activities in mainland France are sufficient to meet the requirements laid out in
+        under paragraph 19(d) of the Commitments.
+
+
+
+
+
+24      Reasoned Opinion, Section 6.3.1 and  additional information provided by CMA CGM  to the
+       Commission on 25 June 2024.
+25      Reasoned Opinion, Section 6.3.1.
+26       Paris – Roissy-en-France, Beaume, Lille, Lyon, Le Havre, Pornic, Bordeaux, Toulouse, Marseille
+         (Fos), Nice – Grasse – Biot, Bastia, and Ajaccio. These agencies are generally active in both sea and
+          air freight forwarding, except for Le Havre, Pornic, Bastia, and Ajaccio, which focus on sea freight
+        forwarding.
+27       Additional information provided by CMA CGM to the Commission on 25 June 2024.
+28      Reasoned Opinion, Section 6.4.
+
+
+
+
+                                                    8
+
+[PÁGINA PDF 10]
+2.3.5.   Conclusion on the purchaser criteria
+
+(46)     In light of the above considerations and taking into account the Reasoned Opinion
+        submitted by the Trustee, the Commission concludes that Balguerie meets the
+        purchaser criteria set out in paragraph 19 of the Commitments.
+
+2.4.    Assessment of the Proposed Agreements
+
+(47)    The Proposed Agreements consist of a Shares and Assets Purchase Agreement,
+        dated 7 June 2024, covering the sale of the Divestment Business to Balguerie, and
+         related agreements.
+
+(48)    The scope of the transaction, as defined in the Proposed Agreements, covers
+        Bolloré Logistics’ shares in each of the Divested Entities (including  its assets,
+         licenses,  permits,  authorisations,  customers,  personnel,  and  leases).29  The
+       Commission notes that the actual number of customers and employees of the
+        Divested  Entities  do  not  fully  coincide  with  the  ones  provided  in  the
+        Commitments.30 However, the variations are limited and caused by normal course
+         of business factors. Moreover, the Trustee confirms that all current employees and
+        customers  of  the  Divested  Entities  are  included  in  the  perimeter  of  the
+         transaction.31
+
+(49)     In line with the Commitments, the Proposed Agreements also cover the transfer of
+         relationships with customers with  activities in Martinique, Guadeloupe, Saint
+        Martin, and French Guiana currently managed by Bolloré Logistics France.32 As
+         specified in page 3 of the Commitments, a limited number of customers are
+        excluded from the scope of the Divestment Business. The lists of Global Excluded
+         Clients identified in the Form RM and in the Commitments33 were updated to
+        account for sales achieved in 2023 and are currently listed in Schedule 14.6.1 to the
+        Shares and Assets Purchase Agreement. The Trustee did not identify missing
+         customers.34
+
+(50)     Finally, in line with the Commitments, the Proposed Agreements also cover the
+         transfer of a number of personnel of Bolloré Logistics France located in mainland
+        France. The Commission notes that there is a limited variation in the number of
+       employees identified in the Commitments and the updated number of employees
+         that will be transferred.35 However, that limited variation is caused by normal
+        course  of  business  factors.  In  addition,  contrary  to  the  wording  of  the
+       Commitments (which mentioned that these employees could not be transferred to
+         the purchaser automatically, but only on a voluntary basis, due to the applicable
+         national labour  legislation),36 Bolloré Logistics will be able  to automatically
+         transfer the personnel of Bolloré Logistics France located in mainland France with
+         the Divested Entities.37 This modification, by eliminating the risk that some of
+
+
+29      Reasoned Proposal, Section II.
+30      Reasoned Opinion, Sections 4.1, 4.2, 5.1, 5.2, and Annexes 9-10.
+31      Reasoned Opinion, pages 30-31.
+32      Reasoned Opinion, Section 4.2.
+33      Page 3 of the Commitments and Annexes 15-17 to the Form RM.
+34      Reasoned Opinion, page 30.
+35      Reasoned Proposal, Section 5.2 and Annex 10. The staff employed by Bolloré Logistics France’s
+         subcontractors for warehousing services provided to Bolloré Logistics France are included.
+36      Commitments’ Schedule, paragraph 2(d).
+37      Reasoned Proposal, Section 5.2.
+
+
+
+
+                                                    9
+
+[PÁGINA PDF 11]
+         these customers would not voluntarily transfer, contributes to the viability of the
+        Divestment Business.38
+
+(51)    Moreover, in line with the Commitments, the Proposed Agreements also include
+         the (i) Non-Solicitation Agreement,39 (ii) Non-Competition Agreement,40 (iii) Non-
+        Relocation Agreement,41 (iv) transitory service agreements for the supply of key
+         services in mainland France necessary to freight forwarding activities to and from
+        Martinique, Guadeloupe, Saint Martin, and French Guiana (IT, human resources,
+       and financial services),42 and (v) operational agency agreement whereby Bolloré
+         Logistics will entrust the Divestment Business, on an exclusive basis, with the
+         technical operations necessary to handle the Global Excluded Clients’ volumes in
+         the territories at destination.43
+
+(52)     Finally, the Parties put in place a transitory service agreement whereby Bolloré
+         Logistics  will  provide,  for  a  limited  transitory  period  after  closing  of  the
+        Divestment Business’s acquisition ([…]), customer services to a limited number of
+        Bolloré Logistics France’s clients, on behalf of Balguerie.44 This arrangement was
+        put in place after the Hold-Separate Manager identified a risk of these customers
+        not transferring to the purchaser. […]. CMA CGM argues that this arrangement is
+         part of its ‘best efforts to ensure that the relevant customers agree to be managed
+       and invoiced (…) by the Purchaser’.45 The Monitoring Trustee agrees that this
+        arrangement ‘only aims at supporting the transfer of some clients at risk’,  is
+         ‘limited in time and scope’, and therefore consistent with the Commitments.46
+
+(53)    The Trustee considers that the full permitter as set out in the Commitments will be
+         divested  pursuant  to  the  Proposed  Agreements  and  that  the  only  minor
+        modifications to the Commitments are ‘viability-enhancing’.47
+
+(54)    The Trustee  also considers  that  the  transitory  service agreements and  other
+         ancillary arrangements, to be entered into by CMA CGM and Balguerie in relation
+         to the Divestment Business, do not raise concerns.48
+
+(55)     In addition, the Trustee has not identified any issue in the Proposed Agreements
+       which would hinder the purchaser’s ability to maintain and grow the Divestment
+        Business as a competitive force or would be inconsistent with the Commitments.49
+
+(56)     In light of the above considerations, the Commission concludes that the Proposed
+       Agreements are consistent with the Commitments and  that, accordingly, the
+        Divestment  Business  is  being  transferred  in  a manner  consistent  with  the
+       Commitments.
+
+
+
+
+38      Reasoned Opinion, page 31.
+39       Shares and Assets Purchase Agreement, clause 14.5 and schedule 14.5.
+40       Shares and Assets Purchase Agreement, clause 14.6.1.
+41       Shares and Assets Purchase Agreement, clauses 9.10(d) and 14.6.1 and schedule 9.10(D).
+42      Reasoned Proposal, Section 6.2.
+43      Reasoned Proposal, Section 7.
+44      Reasoned Proposal, Section 6.1(c).
+45      Commitments’ Schedule, paragraph 2(c) and Reasoned Proposal, paragraph 75.
+46      Reasoned Opinion, page 33.
+47      Reasoned Opinion, page 36.
+48      Reasoned Opinion, Section 5.3.
+49      Reasoned Opinion, Sections 3 and 6.
+
+
+
+
+                                                    10
+
+[PÁGINA PDF 12]
+3.     CONCLUSION
+
+(57)   On the basis of the above assessment, the Commission approves Balguerie as a
+         suitable purchaser for the above-mentioned reasons. On the basis of the Proposed
+        Agreement, the Commission further concludes that the Divestment Business is
+        being sold in a manner consistent with the Commitments.
+
+(58)    This decision only constitutes approval of the proposed purchaser identified herein
+       and of the Proposed Agreements. This decision does not constitute a confirmation
+         that CMA CGM has complied with its Commitments.
+
+(59)    This  decision  is based on  Section D  of  the Commitments  attached  to  the
+       Commission Decision of 23 February 2024.
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                     Olivier GUERSENT
+                                                Director-General
+
+
+
+
+
+                                                    11

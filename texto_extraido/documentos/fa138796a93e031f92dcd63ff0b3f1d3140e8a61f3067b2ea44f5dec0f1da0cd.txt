@@ -1,0 +1,146 @@
+[PÁGINA PDF 1]
+                 European Commission - Press release
+
+
+
+
+
+Mergers: Commission clears acquisition of VMware by Broadcom, subject
+to conditions
+
+Brussels, 12 July 2023
+
+The European Commission has approved, under the EU Merger Regulation, the proposed acquisition
+of VMware by Broadcom. The approval is conditional upon full compliance with the commitments
+offered by Broadcom.
+
+Today's decision follows an in-depth investigation of the proposed acquisition. Broadcom is a
+hardware company that offers, among other products, Fibre Channel Host-Bus Adapters (‘FC HBAs'),
+storage adapters and Network Interface Cards (‘NICs'), which are hardware components that connect
+servers to storage or network. Broadcom has recently started expanding into software markets,
+mainly for security and mainframe applications. VMware is a software supplier offering mainly
+virtualization software that interoperates with a wide range of hardware, including FC HBAs, storage
+adapters and NICs.
+
+The Commission's investigation
+
+The Commission's preliminary market investigation found that, by acquiring VMware, Broadcom
+could have restricted competition in the markets for the supply of NICs, FC HBAs and storage
+adapters.
+
+The Commission's in-depth investigation confirmed that the transaction, as initially notified, would
+harm competition in the worldwide market for the supply of FC HBAs. At the same time, it
+ruled out possible competition concerns related to: (i) the market for the supply of NICs and storage
+adapters, (ii) the market for the development of SmartNICs; and (iii) the bundling of Broadcom's
+virtualisation software with VMware's.
+
+In particular, the Commission found that:
+
+    Broadcom would have the ability and incentive to foreclose Marvell, the only rival on the
+    market for the supply of FC HBAs, by restricting or degrading the interoperability between
+    VMware's server virtualisation software and Marvell's hardware. This would hamper Marvell's
+     ability to compete in a market where Broadcom is dominant, or at least holds a very strong
+     position, ultimately leading to higher prices, lower quality and less innovation for business
+    customers.
+
+    Broadcom does not hold a strong position in the market for storage adapters and NICs and
+      will continue to face competition from several rival suppliers.
+
+    Broadcom would have no economic incentive to hinder the development of SmartNICs by
+    other providers by decreasing VMware's involvement in Project Monterey, an ongoing
+    cooperation with three other SmartNICs sellers (NVIDIA, Intel and AMD Pensando), as such
+     foreclosure would not be profitable.
+
+    Broadcom would not be able to bundle VMware's virtualisation software with its own
+    software (namely mainframe and security software) as such products are purchased by
+     different divisions in a customer organization and/or at different points in time.
+
+The remedies
+
+To address the Commission's competition concerns in the worldwide market for the supply of FC
+HBAs, Broadcom offered the following comprehensive access and interoperability commitments
+to Marvell and to any potential future entrant:
+
+    Guaranteed access to the interoperability Application Programming Interfaces as well as
+     to the materials, tools and technical support necessary for the development and
+     certification of third-party FC HBAs. It also committed to ensuring (i) their interoperability with
+    VMware's server virtualisation software; and (ii), third parties' access to this information at the
+   same time as Broadcom.
+
+    Guaranteed access to the source code for all of Broadcom's current and future FC HBA
+
+[PÁGINA PDF 2]
+     drivers through an irrevocable open source license. This would allow Marvell and any potential
+    entrant to ensure interoperability with VMware's server virtualisation software and allow them
+     to reuse and modify Broadcom's drivers for its own use.
+
+Furthermore, Broadcom committed to implementing an organisational separation between the
+team working on Broadcom's FC HBAs and the team in charge of third-party certification and
+technical support. It also committed to ensuring protection of confidential information of Marvell and
+any potential entrant obtained in the context of the interoperability and certification processes.
+
+The Commission carefully investigated the effectiveness of the remedies, collecting views from
+Marvell as well as server manufacturers, which are the main direct customers of FC HBAs. In view of
+the positive feedback from market participants, the Commission concluded that the proposed
+acquisition, as modified by the commitments, would no longer raise competition concerns
+and would maintain competition on the market for FC HBAs.
+
+The Commission's decision is conditional upon full compliance with the commitments, which will be
+in place for ten years. Under supervision of the Commission, an independent trustee will be in charge
+of monitoring compliance with the commitments. Moreover, a fast-track dispute resolution
+mechanism in case of disagreement between the parties will further ensure the commitments'
+effective implementation.
+
+Companies and products
+
+Broadcom is a US based hardware company active in the production of NICs, FC HBAs and storage
+adapters, amongst other products. NICs are server components that provide an interface between
+the server and other computers and equipment on a network. FC HBAs are storage adapters that
+connect servers to storage located outside the server on a storage-area network using the fibre
+channel protocol, typically through a switch. Storage adapters connect servers' central processing
+units to storage directly. Broadcom recently started expanding into software markets, notably
+through the acquisition of CA Technology and Symantec.
+
+VMware is a US based software company that mainly offers virtualisation software, which enables IT
+operators to create virtual versions of computer resources (e.g. hardware, operating systems, storage
+devices, or network resources) known as virtual machines. This enables IT organizations to run more
+than one virtual system – and multiple OS and applications – on a single server at the same time.
+
+Merger control rules and procedure
+
+The Commission has the duty to assess mergers and acquisitions involving companies with a
+turnover above certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent
+concentrations that would significantly impede effective competition in the EEA or any substantial
+part of it.
+
+The vast majority of notified mergers do not pose competition problems and are cleared after a
+routine review. From the moment a transaction is notified, the Commission generally has 25 working
+days to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).
+
+There are currently four on-going Phase II merger investigations: (i) the proposed acquisition of
+eTraveli by Booking, (ii) the proposed acquisition of Asiana Airlines by Korean Air, (iii) the proposed
+creation of a joint venture by Orange and MasMovil; and (iv) the proposed acquisition of iRobot by
+Amazon.
+
+More information will be available on the Commission's competition website, in the Commission's
+public case register under the case number M.10806.
+
+                                                                                                              IP/23/3777
+
+Quotes:
+
+
+ Broadcom holds a very strong position in the market for the supply of certain hardware components. VMware is a key server
+ virtualisation software provider. By acquiring VMware, Broadcom could restrict or degrade interoperability between VMware’s
+ leading server virtualization software and some competing hardware components. But the commitments offered by Broadcom will
+ enable its only rival Marvell, to continue competing on equal footing and ensure a similar protection for any future entrants.
+ Margrethe Vestager, Executive Vice-President in charge of competition policy - 12/07/2023
+
+
+
+ Press contacts:
+
+       Arianna PODESTA (+32 2 298 70 24)
+      Sara SIMONINI (+32 2 298 33 67)
+
+ General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email

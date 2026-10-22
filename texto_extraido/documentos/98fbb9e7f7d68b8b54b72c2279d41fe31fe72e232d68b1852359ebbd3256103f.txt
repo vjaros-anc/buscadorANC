@@ -1,0 +1,493 @@
+[PÁGINA PDF 1]
+       EUROPEAN COMMISSION
+
+          DG Competition
+
+
+     Case M.10108 - S&P GLOBAL / IHS MARKIT
+
+
+
+
+                          Only the English text is available and authentic.
+
+          REGULATION (EC) No 139/2004
+              MERGER PROCEDURE
+
+
+Decision on the implementation of the commitments -
+                                Purchaser approval
+                                  Date: 22/02/2022
+
+[PÁGINA PDF 2]
+              EUROPEAN COMMISSION
+
+
+
+                                                     Brussels, 22.2.2022
+                                             C(2022) 1241 final
+                                     PUBLIC VERSION
+
+                                                               In the published version of this decision,
+                                                  some   information   has  been   omitted
+                                                             pursuant  to  Article  17(2)  of  Council
+                                                            Regulation (EC) No 139/2004 concerning
+                                                              non-disclosure  of  business  secrets  and
+                                                                other    confidential   information.   The
+                                                           omissions  are shown  thus […]. Where
+                                                                possible the information omitted has been
+                                                              replaced by ranges of figures or a general
+                                                                   description.
+
+                                 S&P Global, Inc.
+                                          55 Water Street
+                                 New York, NY 10041
+                                              United States of America
+
+                                       IHS Markit Ltd.
+                                                             4th Floor, Ropemaker Place
+                                         Ropemaker Street
+                                            London, EC2Y 9LY
+                                            England
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.10108 – S&P Global/IHS Markit
+         Approval of FactSet as purchaser of the CUSIP Divestment Business
+           following your reasoned submission of 31 December 2021 and the Trustee’s
+          opinion of 14 February 2022
+
+
+1.    FACTS AND PROCEDURE
+
+(1)   By decision of 22 October 2021 (“the Decision”) based on Article 6(1)(b) in
+       connection with  Article  6(2)  of Council Regulation (EC) No 139/2004,1  the
+      Commission declared the operation by which S&P Global, Inc. (“S&P”, USA)
+
+
+1    OJ L 24, 29.1.2004, p.1 (the “Merger Regulation”).
+
+
+Commission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE
+Europese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË
+
+Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.
+
+[PÁGINA PDF 3]
+       acquires  sole  control of IHS Markit  Ltd. (“IHSM”, UK)  (“the Transaction”)
+       compatible with the internal market following modification by S&P and IHSM,
+       subject to conditions and obligations laid down in the commitments annexed to the
+       Decision (“the Commitments”). S&P and IHSM are hereinafter collectively referred
+        to as the “Parties”.
+
+(2)   The Commitments consist of three components, that is the CUSIP Commitments, the
+     LCD/LLI Commitments and the OPIS/CMM Commitments.2
+
+(3)    Under the CUSIP Commitments, the Parties commit to divest the CUSIP Divestment
+       Business, which consist of CUSIP Global Services (“CGS”), part of S&P Global
+      Market  Intelligence (“SPGMI”). CGS  is  the business which performs CUSIP
+       issuance and data licensing on behalf of the American Bankers Association (“ABA”,
+      US). The ABA owns the CUSIP system (including all intellectual property rights
+        therein). The relationship between CGS and the ABA has been governed by the
+      agreement (being an exclusive license) entered into in 1968 and subsequently
+       extended and amended over the years (“the ABA agreement”). Most recently […].
+
+(4)   On 24 December 2021, S&P and FactSet Research Systems Inc. (“FactSet”, US)
+       entered into an Asset Purchase Agreement (the “APA”), pursuant to which S&P
+       agreed to sell and transfer the CUSIP Divestment Business to FactSet. The APA,
+       alongside  the  relevant  ancillary documents,  including  the  Transition  Services
+      Agreement, was submitted to the Commission on 31 December 2021. Since the
+       signing, the Parties made a number of minor changes to the APA via the amendment
+      document dated 11 February 2022. The APA, alongside the amendment and the
+        ancillary documents, is hereinafter referred to as the “Transaction Agreement”.
+
+(5)   By a reasoned submission of 31 December 2021, S&P proposed FactSet for approval
+      by the Commission as the purchaser of the CUSIP Divestment Business.
+
+(6)    In its opinion of 14 February 2022 (the “Reasoned Opinion”), pursuant to paragraph
+      27 of the CUSIP Commitments, Monitoring Trustee Partners, acting as monitoring
+        trustee (the “Trustee”), concludes that:
+
+        (a)    FactSet fulfils the criteria of the purchaser requirements as set out in Section
+        D of the CUSIP Commitments (the “Purchaser Criteria”); and
+
+        (b)    on the basis of the Transaction Agreement, the CUSIP Divestment Business
+            would be sold in a manner consistent with the CUSIP Commitments.
+
+2.    ASSESSMENT OF THE PROPOSAL
+
+(7)    According to paragraphs 16 and 17 of the CUSIP Commitments, in its assessment of
+       the Transaction Agreement, the Commission has to verify:
+
+        (a)    That the purchaser fulfils the Purchaser Criteria; and
+
+
+
+
+2     The OPIS/CMM Commitments and the LCD/LLI Commitments are not further discussed in this
+       decision, and will be addressed in separate purchaser approval decisions.
+
+                                                    2
+
+[PÁGINA PDF 4]
+        (b)    That the CUSIP Divestment Business is being sold in a manner consistent
+             with the CUSIP Commitments including their objective to bring about a
+               lasting structural change in the market.
+
+2.1.   Assessment of the Purchaser Criteria
+
+(8)    FactSet, founded in 1978 and headquartered in Norwalk, Connecticut, is a financial
+       data and analytics company, which provides integrated financial information and
+        analytical applications to the investment community in the Americas, EMEA and
+      Asia Pacific. The company delivers insight and information through workflow
+       solutions of research, analytics and trading, content and technology solutions, and
+       wealth.  It serves portfolio managers, investment banks, asset managers, wealth
+       advisors, corporate clients, and other financial services entities.
+
+(9)   As set out in paragraph 16 of the CUSIP Commitments, in order to be approved by
+       the Commission, the Purchaser3 must fulfil the following criteria:
+
+                    i.      The Purchaser shall be independent of and unconnected to S&P and
+                            its Affiliated Undertakings (this being assessed having regard to the
+                       situation following the divestiture).
+
+                   ii.      The Purchaser shall have the financial resources, proven expertise and
+                      incentive to maintain and develop the CUSIP Divestment Business as
+                    a viable and active competitive force in competition with the Parties
+                   and other competitors, including a proven track record in the financial
+                     data space.
+
+                  iii.      The acquisition of the CUSIP Divestment Business by the Purchaser
+                  must neither be likely to create, in light of the information available to
+                      the Commission, prima facie competition concerns nor give rise to a
+                        risk that the implementation of the Commitments will be delayed. In
+                        particular, the Purchaser must reasonably be expected to obtain all
+                     necessary approvals from the relevant regulatory authorities for the
+                      acquisition of the CUSIP Divestment Business.
+
+              iv.    ABA should have consented to the transfer to the Purchaser of its
+                   agreement with S&P on equivalent terms and conditions to those
+                       effective before the entry into force of the Amendment no.3 (dated 27
+                   September 2021).
+
+              v.      The Loan Syndications and Trading Association (“LSTA”, US) shall
+                   have consented to the transfer or assignment of the existing agreement
+                   between itself and CGS to the Purchaser.
+
+(10)  The following paragraphs in turn provide an assessment of each of the five Purchaser
+        Criteria listed above.
+
+
+
+
+
+3      Capitalised terms in this decision will have the meaning as set out in the CUSIP Commitments, unless
+       indicated otherwise.
+
+                                                    3
+
+[PÁGINA PDF 5]
+2.1.1.  Independence from the Parties
+
+(11)   According to paragraph 16(a) of the CUSIP Commitments, the Purchaser shall be
+       independent of and unconnected to S&P and its Affiliated Undertakings (this being
+       assessed having regard to the situation following the divestiture). In this respect, the
+      Commission notes the following.
+
+(12)    First, the Parties and FactSet are publicly listed on the New York Stock Exchange.
+     S&P and IHSM do not hold directly or indirectly any shares in FactSet (and vice
+        versa). While two institutional investors are shareholders of both the Parties and
+       FactSet, with shares greater than 5%, the Trustee’s review revealed that these
+     common  shareholders  are  companies  active  mostly  in  passive  equity  asset
+      management that typically have no incentive to allocate any resources to affect the
+       corporate strategy of the companies they invest  in.4 In addition, no shares of
+     common shareholders confer any special rights and do not constitute a situation of
+       control within the meaning of Article 3 of the Merger Regulation. Further, the top 5
+       shareholders of S&P, IHSM and FactSet are: for S&P - Vanguard (8.4%), Blackrock
+       (7.3%), Capital Research and Management (6.6%), State Street (4.5%), T. Rowe
+       Price (2.9%); for IHSM - Vanguard (9.8%), Blackrock (6.8%), State Street (3.9%),
+     CPP Investments (3.7%), Wellington (3.1%); and for FactSet - Blackrock (10.8%),
+      Vanguard (9.7%), Baron Capital (7.0%), Loomis (6.2%), Wells Fargo (4.4%). Thus,
+       FactSet only has two out of its top five shareholders in common with S&P and/or
+     IHSM.
+
+(13)   Second, none of the members of the board of directors of S&P and/or IHSM is active
+       as a member of the board of directors of FactSet or vice versa.5
+
+(14)   Third, the Parties and FactSet have a number of ordinary course of business
+      commercial relationships (with each purchasing from and selling certain financial
+       data and analytics products to the other). In relation to these, the Trustee’s review
+       has shown that (i) they can be considered standard practice in the financial data
+       industry; and  (ii) are immaterial to the overall activities of all parties involved,
+       presenting less than […] of each the Parties’ and FactSet’s  total revenues or
+       expenses.6
+
+(15)   Fourth, in accordance with the Commitments, S&P will offer certain transitional
+       services to FactSet. The services are being provided at cost. In case FactSet would
+       require  additional  services  to those agreed  at  the  outset, FactSet can request
+       additional services if and when deemed required for a period of […] after Closing.
+       Transitional services, however, have a pre-defined termination date [summary of
+        confidential contractual arrangements between FactSet and S&P]FactSet. Depending
+      on the nature of the service being provided, the longest termination date is 12
+      months after Closing; this term, however, can be extended upon approval of the
+      European Commission. The Trustee therefore considers that the transitional services
+      do not impede the independence of FactSet from S&P.7
+
+
+
+4     Reasoned Opinion, Section 4.2.3.
+5     Reasoned Opinion, Section 4.2.2.
+6     Reasoned Opinion, Section 4.3.1.
+7     Reasoned Opinion, Section 4.4.
+
+                                                    4
+
+[PÁGINA PDF 6]
+(16)   In light of the above, and in line with the Reasoned Opinion,8 the Commission
+       concludes that FactSet is independent of and unconnected to the Parties and their
+        Affiliated Undertakings.
+
+2.1.2.  Financial resources, proven expertise and incentive to maintain and develop the
+       Divested Business as a viable and active competitor
+
+2.1.2.1.       Financial resources
+
+(17)   According to paragraph 16(b) of the CUSIP Commitments, the Purchaser shall have
+       the financial resources to maintain and develop the CUSIP Divestment Business as a
+       viable and active competitive force in competition with the Parties and other
+       competitors. In this respect, the Commission notes the following.
+
+(18)   FactSet has a market capitalisation of EUR 17.3 billion (as at 7 December 2021) and
+         is profitable with good financial performance over the past three years. In FY 2021,
+           it generated revenues of EUR 1.33 billion (an increase of 6.5% compared to the
+       previous  year). On an EBITDA  level,  FactSet shows an average margin  of
+       approximately […] during the last three years. The analysis of FactSet’s financial
+      documentation shows a capability to generate significant positive operating cash
+       flows and additional loan capacity if needed.9
+
+(19)   In view of the foregoing, the Commission concludes, in line with the Monitoring
+        Trustee,10 that FactSet has sufficient financial resources to develop the CUSIP
+      Divestment Business going forward.
+
+2.1.2.2.      Proven expertise, including a proven track record in the financial data space
+
+(20)   According to paragraph 16(b) of the CUSIP Commitments, the Purchaser shall have
+       the proven  expertise, and the  incentive,  to maintain and develop the CUSIP
+      Divestment Business as a viable and active competitive force in competition with the
+        Parties and other competitors, including a proven track record in the financial data
+       space.
+
+(21)    First, the Commission considers, in line with the Reasoned Opinion,11 that FactSet
+       has proven relevant expertise as a global provider of financial data. In particular,
+       FactSet  (i) operates technical infrastructure that supports workflow applications,
+        analytical applications, off-platform APIs and data feeds consumed by over 160,000
+       users daily from over 6,400 clients geographically dispersed throughout the world
+      and (ii) serves clients from the largest global commercial and investments banks,
+      major asset owners and managers, mutual fund complexes and wealth advisory
+       organizations. As per FactSet, on a year-over-year basis, the retention rate of its
+        clients is over […].
+
+(22)   Second, with respect to the CUSIP Divestment Business, as a redistributor of CGS
+       products and services, FactSet has expertise in all of the technologies utilized by the
+       underlying  architecture  of  the CUSIP  Divestment  Business.  Therefore,  the
+
+
+8     Reasoned Opinion, Section 4.5.
+9     Reasoned Opinion, Section 6.2.
+10    Reasoned Opinion, Section 6.2.
+11    Reasoned Opinion, Section 6.3.2.
+
+                                                    5
+
+[PÁGINA PDF 7]
+       aforementioned structure makes the platform of the CUSIP Divestment Business
+       compatible with FactSet’s existing architecture.
+
+(23)   In view of the foregoing, the Commission concludes, in line with the Reasoned
+       Opinion,12  that FactSet has  sufficient proven expertise  to develop the CUSIP
+      Divestment Business going forward, including a proven track record in the financial
+       data space.
+
+2.1.2.3.       Incentives to maintain and develop the business
+
+(24)  As per paragraph 16(b) of the Commitments, the Proposed Purchaser shall have the
+       incentive to maintain and develop the CUSIP Divestment Business as a viable and
+       active competitive force in competition with the Parties and other competitors.
+
+(25)   In this respect, the Reasoned Opinion demonstrates that FactSet is a strategic buyer,
+     who  intends  to maintain strong and  further expand  the reach of the CUSIP
+      Divestment Business as well as use the CUSIP Divestment Business’ reputation to
+      enhance its existing businesses. FactSet explained to the Trustee that it intends to
+      grow the CUSIP Divestment Business […]. FactSet explains that it has an incentive
+        to do so also due to the fact that the revenues of the CUSIP Divestment Business will
+       account for […] of FactSet’s total revenues.
+
+(26)   Based on the information above, and in line with the Reasoned Opinion, the
+      Commission considers that FactSet has the incentives to maintain and develop the
+     CUSIP Divestment Business.
+
+2.1.2.4.       Conclusion
+
+(27)   Based on the above considerations, and in line with the Reasoned Opinion,13 the
+      Commission concludes that the Purchaser fulfils the criteria of having the financial
+       resources, proven expertise and incentive to maintain and develop the CUSIP
+      Divestment Business as a viable and active competitive force in competition with the
+        Parties and other competitors, including a proven track record in the financial data
+       space.
+
+2.1.3. Absence of prima facie competition concerns
+
+(28)   According to paragraph 16(c) of the CUSIP Commitments, the acquisition of the
+     CUSIP Divestment Business by the Purchaser must neither be likely to create, in
+        light of the information available to the Commission, prima facie competition
+       concerns nor give rise to a risk that the implementation of the Commitments will be
+       delayed. In particular, the Purchaser must reasonably be expected to obtain  all
+       necessary approvals from the relevant regulatory authorities for the acquisition of the
+     CUSIP Divestment Business.
+
+(29)    First, according to the information available to the Commission, FactSet is not active
+        in the provision of CUSIPs, or any other products in the broader market for security
+        identifiers. Therefore, the acquisition of the CUSIP Divestment Business by FactSet
+      does not lead to any horizontal overlaps and no prima facie competition concerns in
+        this respect.
+
+12    Reasoned Opinion, Section 6.3.3.
+13    Reasoned Opinion, Section 6.4.
+
+                                                    6
+
+[PÁGINA PDF 8]
+(30)   Second, certain vertical relationships exist between the CUSIP Divestment Business
+      and the Parties, whereby FactSet licenses CUSIP data for use in some of  its
+       products.14 However, the Commission notes, in accordance with the Trustee’s
+       review,15 that the market share of FactSet in any potentially adjacent or vertically
+        related markets is below 30%.16 Therefore, any vertical relationships rising from the
+       acquisition of the CUSIP Divestment Business by FactSet are unlikely to create
+      prima facie competition concerns.
+
+(31)   Finally, the acquisition of the CUSIP Divestment Business does not require any
+      governmental / regulatory licenses or merger control fillings in the EEA or any other
+        jurisdiction, apart from an approval process in the United States under the HSR Act,
+      which was filed on January 4, 2022 and for which the waiting period under the HSR
+      Act has expired on February 3, 2022 with no action from the US DoJ.17
+
+(32)   In light of the above, and in line with the Reasoned Opinion,18 the Commission
+       considers that the acquisition of the CUSIP Divestment Business by the Purchaser is
+       unlikely to create, in light of the information available to the Commission, prima
+        facie competition concerns or give rise to a risk that the implementation of the
+      Commitments will be delayed.
+
+2.1.4. Consent of ABA
+
+(33)   According to paragraph 16(d) of the CUSIP Commitments, the ABA should have
+       consented to the transfer to the Purchaser of its agreement with S&P on equivalent
+       terms and conditions to those effective before the entry into force of the Amendment
+       no.3 (dated 27 September 2021).
+
+(34)   In this respect, the Commission notes that ABA expressed its consent for the transfer
+       of the ABA agreement with S&P and novated said ABA agreement, as evidenced by
+       the ABA novation agreement signed by S&P, FactSet and ABA, dated December 24,
+       2021.
+
+(35)   Based on the information above, and in line with the Reasoned Opinion,19 the
+      Commission considers that FactSet has received the consent of ABA.
+
+2.1.5. Consent of LSTA
+
+(36)   According to paragraph 16(e) of the CUSIP Commitments, the LSTA shall have
+       consented to the transfer or assignment of the existing agreement between itself and
+     CGS to the Purchaser.
+
+(37)   In this respect, the Commission notes that LSTA expressed  its consent for the
+        transfer or assignment of the existing agreement between LSTA and CGS, as
+       evidenced by the consent letter signed by S&P and LSTA, dated December 20, 2021.
+
+
+14     In particular, […].
+15    Reasoned Opinion, Section 6.5.2.
+16     FactSet confirmed to the Trustee that its market share in any potentially adjacent or vertically related
+      market in which the CUSIP Divestment Business is active is well below 30%, with the maximum
+       estimated market share being [5-10%].
+17    Reasoned Opinion, Section 6.5.3.
+18    Reasoned Opinion, Section 6.5.4.
+19    Reasoned Opinion, Section 6.6.
+
+                                                    7
+
+[PÁGINA PDF 9]
+(38)   Based on the information above, and in line with the Reasoned Opinion,20 the
+      Commission considers that FactSet has received the consent of LSTA.
+
+2.1.6.  Conclusion
+
+(39)   In view of  the  foregoing,  the Commission concludes  that FactSet meets  the
+       Purchaser Criteria as set out in paragraph 16 of the CUSIP Commitments.
+
+2.2.   The CUSIP Divestment Business is being sold in a manner consistent with the
+     Commitments
+
+(40)   According to paragraph 17 of the CUSIP Commitments, in its assessment of the
+       Transaction Agreement, the Commission has to verify that the CUSIP Divestment
+       Business  is being sold in a manner consistent with the CUSIP Commitments
+       including their objective to bring about a lasting structural change in the market.
+
+(41)  The Commission considers that, in line with the Trustee’s detailed comparison
+      between the Transaction Agreement and the Commitments,21 there are no deviations
+      between the Commitments and the Transaction Agreement. Further, the Trustee
+       discussed this matter with FactSet and confirms that FactSet is fully satisfied with
+       the manner the Commitments are reflected in the Transaction Agreement.
+
+(42)   Further, the Commission notes that S&P and FactSet have agreed that S&P will
+       cover liabilities arising from any antitrust proceeding relating to the ownership,
+       operation or conduct of the CUSIP Divestment Business prior to the closing of the
+        sale.
+
+(43)   In any case, and for completeness, the Transaction Agreement contains a clause
+       (section 9.13) stating that if there is any conflict between the terms of any transaction
+      document and  the  requirements  of  the Commitments  as  determined by  the
+      Commission, S&P and FactSet agree to comply with the Commitments.22
+
+(44)   Based on the information above, and in line with the Reasoned Opinion,23 the
+      Commission considers that the CUSIP Divestment Business  is being sold in a
+      manner consistent with the CUSIP Commitments including their objective to bring
+       about a lasting structural change in the market.
+
+3.    CONCLUSION
+
+(45)  On the basis of the above assessment, the Commission approves FactSet as a suitable
+       purchaser for the above-mentioned reasons.
+
+(46)  On the basis of the Transaction Agreement, the Commission further concludes that
+       the Divestment Business  is being sold in a manner consistent with the CUSIP
+      Commitments.
+
+
+
+20    Reasoned Opinion, Section 6.7.
+21    Reasoned Opinion, Section 5.4.2.
+22    Reasoned Opinion, Section 5.4.4.
+23    Reasoned Opinion, Section 5.4.4.
+
+                                                    8
+
+[PÁGINA PDF 10]
+(47)   This decision only constitutes approval of the proposed purchaser identified herein
+      and of the Transaction Agreement. This decision does not constitute a confirmation
+        that the Parties have complied with their Commitments.
+
+(48)   This decision  is based on paragraph 17 of the Commitments attached  to the
+      Commission Decision of 22 October 2021.
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                     Olivier GUERSENT
+                                                Director-General
+
+
+
+
+
+                                                    9

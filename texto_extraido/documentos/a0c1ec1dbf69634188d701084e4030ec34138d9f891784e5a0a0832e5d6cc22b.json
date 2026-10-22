@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "a0c1ec1dbf69634188d701084e4030ec34138d9f891784e5a0a0832e5d6cc22b",
+  "extraido_utc": "2026-10-22T19:21:15+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20210702175906+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10078_CP_APERTURA_01",
+      "caso": "M.10078",
+      "universo": "principal",
+      "titulo": "Comunicado de apertura de fase II — CARGOTEC / KONECRANES",
+      "tipo_documental": "CP_APERTURA",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_21_3428/IP_21_3428_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_21_3428",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10078/M.10078_CP_APERTURA_01_a0c1ec1dbf69.pdf",
+      "sha256": "a0c1ec1dbf69634188d701084e4030ec34138d9f891784e5a0a0832e5d6cc22b",
+      "coincide_inventario": "",
+      "bytes": "42220",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_21_3428/IP_21_3428_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:02+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission opens in-depth investigation into proposed merger\nof Cargotec and Konecranes\n\nBrussels, 2 July 2021\n\nThe European Commission has opened an in-depth investigation to assess the proposed merger of\nCargotec Corporation (‘Cargotec') and Konecranes Plc (‘Konecranes') under the EU Merger\nRegulation. The Commission is concerned that the proposed acquisition may reduce competition in\nthe supply of certain container and cargo handling equipment in Europe.\n\nExecutive Vice-President Margrethe Vestager, responsible for competition policy, said: ”Cargotec\nand Konecranes are two global leaders in the supply of container and cargo handling equipment. We\nwill carefully assess whether the proposed transaction would negatively affect competition in the\nsupply of this equipment, possibly leading to reduced choice and higher prices, to the detriment of\nEuropean customers.”\n\nCargotec and Konecranes are the largest European and both among the leading global\nmanufacturers of container and cargo handling equipment, as well as providers of terminal\nautomation solutions. Container and cargo handling equipment include cranes, such as ship-to-shore\ncranes and gantry cranes, horizontal equipment to move containers from the quayside to the\ncontainer yard, such as straddle and shuttle carriers and terminal tractors, as well as mobile\nequipment, such as reach stackers and forklifts. It is used in port terminals, in intermodal rail\nterminals and in various industries (e.g. steel mills or paper production).\n\nThe Commission's preliminary competition concerns\n\nAt this stage, the Commission is concerned that the transaction may lead to a reduced choice and\nhigher prices for customers in the European Economic Area for certain container and cargo\nhandling equipment in the following product areas: (i) gantry cranes; (ii) horizontal equipment; and\n(iii) mobile equipment.\n\nFor each of these types of terminal equipment, the transaction would lead to high combined market\nshares in already concentrated markets, with limited or even no credible alternative suppliers\nremaining post-transaction.\n\nThe Commission will now carry out an in-depth investigation into the effects of the proposed\ntransaction on these markets to determine whether it is likely to significantly reduce effective\ncompetition.\n\nThe proposed transaction was notified to the Commission on 28 May 2021. Cargotec and Konecranes\nhave decided not to submit commitments during the initial investigation to address the\nCommission's preliminary concerns. The Commission now has 90 working days, until 10 November\n2021, to take a decision. The opening of an in-depth investigation does not prejudge the outcome of\nthe investigation.\n\nCompanies and products\n\nCargotec, based in Finland, offers equipment and services in particular for cargo handling in ports\nand terminals, as well as for ship and road transport (including container handling equipment and\nterminal automated solutions) through its Kalmar business.\n\nKonecranes, also based in Finland, offers equipment and services in particular for lifting and cargo\nhandling in shipyards, ports and terminals, such as container handling equipment and automation\ntechnology.\n\nMerger control rules and procedures\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the European Economic Area\nor any substantial part of it.",
+      "caracteres": 3602,
+      "caracteres_utiles": 2971,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "The vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II).\n\nIn addition to the present transaction, there are currently four other on-going phase II merger\ninvestigations: the proposed acquisition of Air Europa by IAG, the proposed acquisition of Willis\nTowers Watson by Aon, the proposed acquisition of Trimo by Kingspan Group and the proposed\nacquisition of DSME by HHiH.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.10078.\n\n                                                                                                              IP/21/3428\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1058,
+      "caracteres_utiles": 745,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

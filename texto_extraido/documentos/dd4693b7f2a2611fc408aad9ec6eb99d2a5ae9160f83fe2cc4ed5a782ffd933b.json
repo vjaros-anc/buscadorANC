@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "dd4693b7f2a2611fc408aad9ec6eb99d2a5ae9160f83fe2cc4ed5a782ffd933b",
+  "extraido_utc": "2026-10-22T19:29:00+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 17 for Word",
+    "producer": "Adobe PDF Library 17.11.238",
+    "creationDate": "D:20220608234336+02'00'",
+    "modDate": "D:20220608234339+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10560_NOT_PREVIA_01",
+      "caso": "M.10560",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — SIKA / MBCC GROUP",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202224/M_10560_8355336_1420_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202224/M_10560_8355336_1420_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10560/M.10560_NOT_PREVIA_01_dd4693b7f2a2.pdf",
+      "sha256": "dd4693b7f2a2611fc408aad9ec6eb99d2a5ae9160f83fe2cc4ed5a782ffd933b",
+      "coincide_inventario": "",
+      "bytes": "183870",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202224/M_10560_8355336_1420_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take\nof the planned operation. Nor can the Commission be held responsible for any incorrect or misleading\ninformation contained therein.\n\nM.10560 - SIKA / MBCC GROUP\n\n                         SECTION 1.2\n\n                           Description of the concentration\n\nOn 7  June  2022,  the Commission  received  a  notification  of a  proposed  concentration\npursuant to which Sika AG (“Sika”)  will, according to a Sale and Purchase Agreement by\nand among  Sika  International AG  and LSF11  Skyscraper Midco 2  S.à.r.l.  dated 10\nNovember  2021,  indirectly  acquire  sole  control  over  the MBCC  group  of companies\n(“MBCC Group”), by way of acquisition of all shares in LSF11 Skyscraper HoldCo S.à.r.l.\nThe business activities of the Parties are the following:\n\n− Sika AG  is  the  parent company of the Sika group of companies. Sika develops and\nproduces  high-quality chemical  admixtures,  mortars,  sealants and  adhesives, damping and\nreinforcing  materials,  structural strengthening systems,  industrial  flooring,  as well as roofing\nand  waterproofing  systems,  which  are  used  in the  building sector and by manufacturing\nindustries.\n\n− MBCC Group's business to be acquired has two  strategic business  units: (i) \"chemical\nadmixtures\", which provides  solutions  for customers  in the concrete manufacturing, cement\nand  underground  construction  industries,  and   (ii)  \"construction  systems\",  which  offers\nsolutions to protect and repair buildings and structures.\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 2048,
+      "caracteres_utiles": 1563,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

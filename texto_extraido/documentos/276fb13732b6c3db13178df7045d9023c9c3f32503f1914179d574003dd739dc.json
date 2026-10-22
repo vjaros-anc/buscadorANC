@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "276fb13732b6c3db13178df7045d9023c9c3f32503f1914179d574003dd739dc",
+  "extraido_utc": "2026-10-22T19:28:06+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDF CoDe 2018 4.7111.7111 (c) 2002-2018 European Commission",
+    "producer": "PDF CoDe 2018 4.7111.7111 (c) 2002-2018 European Commission",
+    "creationDate": "D:20210628083340+02'00'",
+    "modDate": "D:20210628084247+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10262_NOT_PREVIA_01",
+      "caso": "M.10262",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — META (FORMERLY FACEBOOK) / KUSTOMER",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202127/m10262_532_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202127/m10262_532_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10262/M.10262_NOT_PREVIA_01_276fb13732b6.pdf",
+      "sha256": "276fb13732b6c3db13178df7045d9023c9c3f32503f1914179d574003dd739dc",
+      "coincide_inventario": "",
+      "bytes": "35258",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202127/m10262_532_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:00+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\n\n                    M.10262 - FACEBOOK/KUSTOMER\n\n\n                         SECTION 1.2\n\n\n                           Description of the concentration\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 847,
+      "caracteres_utiles": 622,
+      "cobertura_imagen_maxima": 0.1563,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

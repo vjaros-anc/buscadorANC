@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "9b2ab4eb8f48da53bae6a98cb38aed22eae49762e93cf3fcab9de763814680ea",
+  "extraido_utc": "2026-10-22T19:44:49+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20250925144458+02'00'",
+    "modDate": "D:20250925144458+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11936_OTRO_01",
+      "caso": "M.11936",
+      "universo": "principal",
+      "titulo": "Trustee details — NASPERS / JUST EAT TAKEAWAY",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202539/M_11936_10761260_1480_7.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202539/M_11936_10761260_1480_7.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11936/M.11936_OTRO_01_9b2ab4eb8f48.pdf",
+      "sha256": "9b2ab4eb8f48da53bae6a98cb38aed22eae49762e93cf3fcab9de763814680ea",
+      "coincide_inventario": "",
+      "bytes": "97637",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202539/M_11936_10761260_1480_7.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "TRUSTEE APPOINTED IN CASE COMP/M.11936 – NASPERS / JUST EAT\nTAKEAWAY\n\nArticle 6(1)(b) Conditional Clearance Decision\n\nOn 17 September 2025, the Commission approved the appointment of:\n\nAdvolis\nSquare de Meeus 37\n1000 Brussels\nBelgium\n\nContact: Antoni Vassileff\nTel: +32 2 791 7670\nEmail: avassileff@advolis-orfis.com\n\nas Trustee in the above-mentioned case.\n\nThe role of the Trustee is to monitor Naspers’ compliance with the Commitments attached to\nthe Commission’s Decision of 11/08/2025 and to report to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing is without prejudice to the Commission’s jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 796,
+      "caracteres_utiles": 646,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

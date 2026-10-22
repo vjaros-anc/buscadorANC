@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "3f81a818747a2567d702e128ecefcf63dd68883a65b65cfae2c8dc62738530dd",
+  "extraido_utc": "2026-10-22T19:30:50+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 17 for Word",
+    "producer": "Adobe PDF Library 17.11.238",
+    "creationDate": "D:20221005230453+02'00'",
+    "modDate": "D:20221005230457+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10638_NOT_PREVIA_01",
+      "caso": "M.10638",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — ALD / LEASEPLAN",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202241/M_10638_8537355_783_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202241/M_10638_8537355_783_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10638/M.10638_NOT_PREVIA_01_3f81a818747a.pdf",
+      "sha256": "3f81a818747a2567d702e128ecefcf63dd68883a65b65cfae2c8dc62738530dd",
+      "coincide_inventario": "",
+      "bytes": "151794",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202241/M_10638_8537355_783_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may tak e of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.10638 ALD / LEASEPLAN\n\n                          SECTION 1.2\n\n                           Description of the concentration\n\nOn  5  October  2022,  the  European  Commission  received  notification  of  a  proposed\nconcentration pursuant to Article 4 of the Merger Regulation by which ALD (France) acquires\nwithin the meaning of Article 3(1)(b) of the Merger Regulation sole control over LP Group\nB.V.(the Netherlands), by the way of purchase of shares  in exchange for a combination of\ncash and shares of ALD.\n\nALD  is  the  holding company of the ALD group (“ALD”), a France-headquartered group\nproviding  mobility  solutions,  mainly  vehicle  leasing and  related management  services.  It  is\nheld at 79,82% and solely controlled by Société Générale S.A (France), the holding company\nof the Société Générale group, a banking and financial services group headquartered in Paris.\n\nLP Group B.V.  is  the  holding company of LeasePlan Corporation N.V (“LeasePlan”), a\nNetherlands-based   fleet  management  and   driver   mobility  company.  LeasePlan’s  main\nbusiness  is in the sector of vehicle  leasing and related management services.\n\nThe  main markets  involved  are  the markets  for  fleet  leasing and management  services  in\nwhich both ALD and LeasePlan are active in several EEA Member States.\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 2006,
+      "caracteres_utiles": 1534,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

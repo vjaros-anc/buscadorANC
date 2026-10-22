@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "581074817e5f9b864a08eb1b8f0eafeeb7013b61ce88d326f2679781f43050bc",
+  "extraido_utc": "2026-10-22T19:28:23+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20220617152044+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10431_CP_01",
+      "caso": "M.10431",
+      "universo": "principal",
+      "titulo": "Mergers: Commission approves Ali Group's acquisition of Welbilt, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_3837/IP_22_3837_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_3837",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10431/M.10431_CP_01_581074817e5f.pdf",
+      "sha256": "581074817e5f9b864a08eb1b8f0eafeeb7013b61ce88d326f2679781f43050bc",
+      "coincide_inventario": "",
+      "bytes": "41840",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_3837/IP_22_3837_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:02+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission approves Ali Group's acquisition of Welbilt, subject\nto conditions\n\nBrussels, 17 June 2022\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition of\nWelbilt by Ali Group. The approval is conditional on full compliance with commitments offered by Ali\nGroup.\n\nExecutive Vice-President Margrethe Vestager, in charge of competition policy, said: “Ali Group and\nWelbilt are leading global suppliers of ice-making machines used in the hospitality and industrial sectors.\nAt the time of spiking inflation, it is important that all inputs to the food supply chain remain at\ncompetitive prices. The commitments offered in this case make sure that a new player on the market will\ncontinue to exert competitive pressure on the merged entity while customers will preserve choice of\nsuppliers.”\n\nAli Group and Welbilt are active in the designing, manufacturing, marketing and servicing of foodservice\nequipment, such as ice-making machines, ovens, fryers and grills used in commercial and public venues.\nThey are leaders in the European Economic Area (‘EEA') market for ice-making machines. Ice-making\nmachines are used to produce ice for companies operating in foodservice sector, like in restaurants or\nhotels, but also for specific industrial applications, such as cement production.\n\nThe Commission's investigation\n\nFollowing the transaction, the combined entity would become the largest manufacturer and supplier of\nice-making machines in the EEA and would have faced limited competitive pressure from competitors. In\naddition, it was unlikely that a new player would step in, absent the commitments. This is because of\nhigh barriers to access the market due to brand loyalty and the importance of local after-sales services.\n\nThe proposed remedies\n\nFollowing extensive discussions with the Commission during the pre-notification phase, and to ascertain\nthat the business would be viable in the long run, the parties ultimately decided to divest the entirety of\nWelbilt's global ice-making machine business, including three manufacturing facilities in China, Mexico\nand the US. The business operates primarily under the Manitowoc and Koolaire brands.\n\nFollowing the market test, the Commission concluded that the transaction, as modified by the\ncommitments, would no longer raise competition concerns. This is because the commitments consist of\nthe divestiture of a stand-alone business, which fully removes the overlap between the parties' activities.\nThis will enable a purchaser to have all the assets to run the divestment business as a viable competitive\nforce in the market on a lasting basis. The parties proposed to divest the business to Pentair plc, a US\nbased manufacturer of water treatment systems for a wide range of applications. The Commission will\nformalise its conclusions on the purchaser in a separate buyer approval process.\n\nThe Commission's decision is conditional upon full compliance with the commitments.\n\nCompanies and products\n\nAli Group, headquartered in Italy, through its subsidiaries, designs, manufactures, markets and services\na broad range of commercial foodservice equipment, including ice-making machines and ovens, used in\nmajor commercial and public venues.\n\nWelbilt, headquartered in the US, offers equipment capable of storing, cooking, holding, displaying,\ndispersing and serving food and beverage products. It designs, manufactures and supplies equipment\nused by commercial and institutional service operators, such as ice-making machines and ovens.\n\nMerger control rules and procedures\n\nThe transaction was notified to the Commission on 28 April 2022.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a turnover\nabove certain thresholds (see Article 1 of the Merger Regulation) and to prevent concentrations that\nwould significantly impede effective competition in the EEA or any substantial part of it. The vast\nmajority of notified mergers do not pose competition problems and are cleared after a routine review.\nFrom the moment a transaction is notified, the Commission generally has a total of 25 working days to\ndecide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II). If\ncommitments are proposed in Phase I, the Commission has 10 additional working days, bringing the total",
+      "caracteres": 4410,
+      "caracteres_utiles": 3617,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "duration of a Phase I case to 35 working days, such as in this case.\n\nThroughout its investigation, the Commission had exchanges and cooperated with the US Department of\nJustice, and the UK Competition and Markets Authority.\n\nMore information will be available on the Commission's competition website, in the public case register\nunder the case number M.10431.\n\n                                                                                                              IP/22/3837\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 662,
+      "caracteres_utiles": 421,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

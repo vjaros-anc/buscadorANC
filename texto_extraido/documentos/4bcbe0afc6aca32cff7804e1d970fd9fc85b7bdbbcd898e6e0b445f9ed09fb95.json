@@ -1,0 +1,95 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "4bcbe0afc6aca32cff7804e1d970fd9fc85b7bdbbcd898e6e0b445f9ed09fb95",
+  "extraido_utc": "2026-10-22T19:24:15+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10149_DICT_01",
+      "caso": "M.10149",
+      "universo": "principal",
+      "titulo": "Dictamen del Comité Consultivo — KOREAN AIR LINES / ASIANA AIRLINES",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202435/M_10149_10212419_18597_6.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202435/M_10149_10212419_18597_6.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10149/M.10149_DICT_01_4bcbe0afc6ac.pdf",
+      "sha256": "4bcbe0afc6aca32cff7804e1d970fd9fc85b7bdbbcd898e6e0b445f9ed09fb95",
+      "coincide_inventario": "",
+      "bytes": "152810",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202435/M_10149_10212419_18597_6.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:00+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "               EUROPEANEUROPEANCOMMISSIONCOMMISSION\n                        DIRECTORATE-GENERALDIRECTORATE-GENERALFORFORCOMPETITIONCOMPETITION\n\n                              Markets and cases IV: Basic industries, Manufacturing and Agriculture\n                         The Director\n\n\n                   OPINION\n\n                   of the ADVISORY COMMITTEE on MERGERS\n                        at its meeting on 01 February 2024\n\n                         concerning a draft decision\n\n          in case M.10149 - KOREAN AIR LINES / ASIANA AIRLINES\n\n\n                          RAPPORTEUR: ITALY\n\n\nConcentration\n\n1.    The Advisory Committee (13 Member States) agrees with the Commission that the\n        notified transaction constitutes a concentration within the meaning of Article 3(1)(b)\n       of the Council Regulation (EC) No 139/2004 of 20.1.2004 on the control of\n       concentrations between undertakings (the \"Merger Regulation\")1.\n\n2.    The Advisory Committee (13 Member States) agrees with the Commission that the\n        notified operation has a Union dimension pursuant to Article 1(2) of the Merger\n       Regulation.\n\nMarket definition\n\nProduct market definition\n\n3.    The Advisory Committee (13 Member States) agrees with the conclusions reached\n      by the Commission in the draft Decision in relation to the definition of the following\n       relevant product markets for:\n\n            a)  the supply of passenger  air transport applying an Origin & destination\n            (‘O&D’) approach (i.e. potential further segmentation is left open).\n          ✓ on “Overlap Routes” between the EEA and Seoul, flights to Incheon\n                        airport (ICN), El Prat airport (BCN), Frankfurt am Main (FRA) and\n               Rome Fiumicino airport (FCO), each fall into a separate market;\n          ✓   it can be left open whether Paris-Charles de Gaulle airport (CDG) and\n                      Paris-Orly airport (ORY) are substitutable for flights to Seoul, but\n             CDG and Beauvais  airport (BVA) are not close substitutes and\n                      therefore fall into separate markets for flights to Seoul;\n          ✓  a potential segmentation between direct and indirect flights for the\n                     long-haul routes can be  left open, taking into account that direct\n                         flights compete more closely with other direct  flights than with\n                        indirect flights;\n\n\n\n\n1      OJ L 24, 29.1.2004, p. 1.",
+      "caracteres": 2480,
+      "caracteres_utiles": 1581,
+      "cobertura_imagen_maxima": 0.0115,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "AdCom M.10149 - KOREAN AIR LINES / ASIANA AIRLINES                                                        2\n           b) The supply of cargo air transport constitutes a separate product market from\n               other modes of transport (i.e. unidirectional from Europe to South Korea and\n               vice-versa, including all type of planes but excluding door-to-door services).\n          ✓  airport-to-airport  air  cargo  services and  door-to-door  air  cargo\n                      services constitute separate product markets.\n          ✓  There are no separate product markets for direct and transhipment\n                          flights, taking into account that direct flights compete more closely\n                    with other direct flights than with transhipment flights.\n          ✓  Substitution between scheduled  / regular flights and unscheduled  /\n                       charter flights is left open.\n\nGeographic market definition\n\n4.    The Advisory Committee (13 Member States) agrees with the conclusions reached\n      by the Commission in the draft Decision in relation to the definition of the relevant\n       geographic market for the following product markets for:\n\n            a)  passenger  air transport services  (i.e. between the EEA and South on 4\n             Overlapping Routes BCN-ICN, CDG-ICN, FRA-ICN and FCO-ICN).\n\n           b)  cargo air transport  (i.e. unidirectional from Europe – EEA, the UK and\n              Switzerland to South Korea and from South Korea to Europe).\n\nCompetitive assessment\n\n5.    The Advisory Committee (13 Member  States) agrees with  the Commission’s\n       assessment that the notified transaction is likely to significantly impede effective\n       competition, as a  result of horizontal non-coordinated effects arising from the\n       combination of KOREAN AIR and ASIANA passenger air transport operations by\n      removing important competitive constraints on the passenger overlap routes (i.e.\n      BCN-ICN, CDG-ICN, FRA-ICN and FCO-ICN.\n\n6.    The Advisory Committee (13 Member  States) agrees with  the Commission’s\n       assessment that the notified transaction is likely to significantly impede effective\n       competition, as a  result of horizontal non-coordinated effects arising from the\n       combination KOREAN AIR and ASIANA cargo  air  transport  operations by\n      removing important competitive constraints on the route Europe-South Korea and\n       the route South Korea-Europe.\n\nCommitments\n\n7.    The Advisory Committee (13 Member  States) agrees with  the Commission’s\n       conclusion that the Passenger Commitments, as offered by the Notifying Party on\n       9th of January 2024 remove concerns as to horizontal non-coordinated effects\n        arising from the combination of KOREAN AIR and ASIANA passengers  air\n        transport operations.\n\n             a.  The Advisory Committee (13 Member States) agrees with the Commission’s\n              conclusion that the identification of the Passenger Remedy Taker and making\n               the closing of the Transaction conditional to the Passenger Remedy Taker’s\n                starting  of  operations on  all  Passenger Remedy Routes  increases  the\n               likelihood of timely and sufficient entry on the Passenger Remedy Routes.”",
+      "caracteres": 3297,
+      "caracteres_utiles": 2298,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 3,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "AdCom M.10149 - KOREAN AIR LINES / ASIANA AIRLINES                                                        3\n8.    The Advisory Committee (13 Member  States) agrees with  the Commission’s\n       conclusion that the Cargo Commitments, as offered by the Notifying Party on 9th of\n       January 2024 remove concerns as to horizontal non-coordinated effects arising from\n       the combination of KOREAN AIR and ASIANA cargo air transport operations.\n\n9.    The Advisory Committee (13 Member States) agrees with the Commission that,\n       subject to the full compliance with the final commitments offered by the Notifying\n       Party on 9 January 2024, the notified transaction is not likely to significantly impede\n        effective competition in the internal market or in a substantial part of it.\n\nCompatibility with the internal market and the Agreement on the European Economic\nArea\n\n10.   The Advisory Committee (13 Member States) agrees with the Commission that the\n        notified concentration must therefore be declared compatible with the internal\n       market and the Agreement on the European Economic Area2 in accordance with\n        Article 2(2) and Article 8(2) of the Merger Regulation and Article 57 of the\n      Agreement on the European Economic Area.\n\n                               *     *     *\n\n\n\n\n\n2      OJ L 1, 3.1.1994, p.3.",
+      "caracteres": 1353,
+      "caracteres_utiles": 945,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

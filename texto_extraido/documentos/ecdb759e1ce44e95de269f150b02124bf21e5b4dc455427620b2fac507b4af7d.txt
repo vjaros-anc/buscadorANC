@@ -1,0 +1,644 @@
+[PÁGINA PDF 1]
+         EUROPEAN COMMISSION
+             DG Competition
+
+
+
+
+
+Case M.10721 - CELANESE / DUPONT (MOBILITY
+             & MATERIALS BUSINESS)
+
+
+
+
+
+                             Only the English text is available and authentic.
+
+
+           REGULATION (EC) No 139/2004
+               MERGER PROCEDURE
+
+
+
+ Decision on the implementation of the commitments -
+                                  Purchaser approval
+
+                                   Date: 28/10/2022
+
+[PÁGINA PDF 2]
+               EUROPEAN COMMISSION
+
+
+
+
+                                                   Brussels, 28.10.2022
+                                            C(2022) 7974 final
+
+                                     PUBLIC VERSION
+
+
+                                                               In the published version of this decision,
+                                              some  information  has  been  omitted
+                                                            pursuant  to  Article  17(2)  of  Council
+                                                         Regulation (EC) No 139/2004 concerning
+                                                           non-disclosure of business secrets and other
+                                                              confidential information. The omissions are
+                                                 shown  thus  […].  Where  possible  the
+                                                         information omitted has been replaced by
+                                                          ranges of figures or a general description.
+
+                                              Celanese Corporation
+                                         222 West Las Colinas Blvd. Suite 900N
+                                                        Irving, TX 75039-5421
+                                                United States of America
+
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.10721 – Celanese / DuPont (Mobility & Materials Business)
+          Approval of Taro Plast as purchaser of Celanese’s Divestment Business
+           following your letter of 24 October 2022 and the Trustee’s opinion of
+         25 October 2022.
+
+
+1.     FACTS AND PROCEDURE
+
+(1)    By decision C(2022) 7387 of 11 October 2022 (the “Article 6 Decision”) based on
+         Article 6(1)(b) in connection with Article 6(2) of the Merger Regulation, the
+       Commission declared the operation by which Celanese Corporation (“Celanese”,
+      USA) acquires, within the meaning of Article 3(1)(b) of the Merger Regulation,
+         sole  control  of  the whole  of DuPont’s  Mobility &  Materials  Business  (the
+        “Target”)  (the  “Transaction”),  compatible  with  the  internal  market  and  the
+         functioning of the EEA Agreement, subject  to conditions and obligations (the
+        “Commitments”).   The   Target  was   previously   controlled   by  DuPont
+        de Nemours, Inc (“DuPont”, USA). Celanese and DuPont are collectively referred
+         to as the “Parties”.
+
+
+
+
+
+Commission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE
+Europese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË
+
+Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.
+
+[PÁGINA PDF 3]
+(2)     The Commitments  consist of the divestment of Celanese’s  entire global TPC
+         business, referred to as the “Divestment Business”.  Specifically, the following
+        elements are included in the Divestment Business:
+
+         a)    Celanese’s TPC manufacturing (polymerization) facility in Ferrara, Italy, i.e.
+               the Donegani Site, including all tangible assets and personnel;
+
+         b)   The compounding line Q3 located  at Celanese’s Forli  Site,  [confidential
+                logistics arrangements];
+
+         c)    All intangible rights and property used for the purpose of TPC production,
+               distribution and sale including the Pibiflex and Riteflex brand names and
+             such  other  trademarks,   patents,  patent  applications,  know-how  and
+              formulations as used in the TPC business;
+
+         d)   The grant of a […] licence to use the Pibiter brand name for the sales of the
+               polyester hotmelt product produced at the Donegani Site;
+
+         e)    Subject  to  customary  third-party  consents where  necessary,  all  current
+             customer lists, contracts and relationships relating to TPC;
+
+           f)    At the option of the purchaser, all reasonable assistance by Celanese and
+              customers  to  obtain  re-qualification  /  re-certification of the productions
+               currently supplier by the Divestment Business;
+
+         g)    Subject  to customary third-party consents where necessary  all  contracts,
+              agreements, commitments, understandings and orders relating to the suppliers
+                 that supply or toll-manufacture on behalf of the Divestment Business;
+
+         h)    at the option of the purchaser, certain additional personnel […];
+
+           i)  A time-limited transitional toll-compounding agreement for an initial term of
+            6 months, [confidential details concerning tolling arrangement];
+
+           j)    Transitional  support by Celanese  to  the purchaser  for warehousing and
+                logistics  (6  months,  [confidential  details  concerning  warehousing  and
+                logistics arrangements]) and IT (3 months);
+
+         k)   The commitment to build-up sufficient TPC buffer stock for the transition
+              period  [confidential  details on specific production lines  to be used]  at
+              Celanese’s Forli Site.
+
+(3)    By  letter of 24 October 2022 (the “Reasoned Proposal”), Celanese proposed
+       Taro Plast S.P.A (“Taro Plast”, also the “Proposed Purchaser”, Italy) for approval
+       by the Commission as purchaser of the Divestment Business. On 3 August 2022,
+        Celanese has entered into a Business and Asset Purchase Agreement (“BAPA”)
+        with Taro Plast for the acquisition of the Divestment Business. The BAPA has
+       been revised on 24 October 2022. On the same date, Celanese submitted the
+        revised BAPA as well as related agreements (the transitional services agreement,
+         the   toll  compounding  agreement  and  the  IP  license  agreement,  together,
+         the ‘Proposed Agreements’) to the Commission, for approval.
+
+(4)    On 25 October 2022 Monitoring Trustee Partners (the ‘Trustee’) has submitted an
+        assessment of Taro Plast’s suitability as a purchaser (the “Reasoned Opinion”) and,
+                                                      2
+
+[PÁGINA PDF 4]
+         in particular, has indicated that it fulfils the criteria of the purchaser requirements
+         in section D of the Commitments attached to the Decision. In this assessment, the
+        Trustee  also  indicated  that, on  the  basis  of  the  Proposed  Agreements,  the
+        Divestment Business would be sold in a manner consistent with the Commitments.
+
+2.     ASSESSMENT OF THE PROPOSAL
+
+2.1.     Description of the Proposed Purchaser
+
+(5)     Taro Plast is a company active in the manufacturing and sale of a portfolio of
+         engineering plastics with pre-existing operations in Europe and proven experience
+         particularly in compounding. Taro  Plast manufactures and  sells a portfolio of
+         engineering  plastics  and  thermoplastic  elastomers  for  a  broad  range  of
+         end-applications, including automotive,  electrical  /  electronics, appliances and
+        household products, buildings, as well as general industry appliances. Taro Plast
+        has business relations with a number of large, multinational customers active in the
+        abovementioned industry sectors.1
+
+(6)     Taro Plast is a family owned business, founded in 1979, which currently operates
+       3 production sites in Italy and a sales network across several Member States, as
+        well  as  in  the  US,  and  a  global  sales  outreach.  Taro  Plast  has  around
+      […] employees and generated a turnover of EUR 151 million in 2021.2
+
+2.2.    Purchaser criteria
+
+(7)     Based on the Commitments,3 in order  to be approved by the Commission, the
+        purchaser must fulfil the following criteria:
+
+         a)   The purchaser  shall be independent of and unconnected to Celanese and
+             DuPont, and  their  respective  affiliated undertakings  (this being assessed
+             having regard to the situation following the divestiture).
+
+         b)   The  purchaser  shall have  the  financial  resources, proven expertise and
+               incentive to maintain and develop the Divestment Business as a viable and
+               active competitive force in competition with Celanese and other competitors;
+
+         c)   The acquisition of the Divestment Business by the purchaser must neither be
+               likely to create, in light of the information available to the Commission,
+             prima  facie  competition  concerns  nor  give  rise  to  a  risk  that  the
+              implementation  of  the Commitments  will be  delayed.  In  particular,  the
+              Purchaser must reasonably be expected to obtain all necessary approvals
+            from the relevant regulatory authorities for the acquisition of the Divestment
+              Business; and
+
+         d)   The purchaser  shall have the required capabilities in sales and R&D to
+                integrate the assets of the Divestment Business and, in the case of Taro Plast
+              or  otherwise  to  the  extent  necessary,  shall  be  able  to  transfer  the
+
+
+
+1       See presentation by Taro Plast to the Commission, 31 August 2022.
+2        Presentation by Taro Plast to the Commission, 31 August 2022.
+3       Paragraph 24 of the Commitments.
+
+
+                                                      3
+
+[PÁGINA PDF 5]
+            compounding line Q3 and qualify its output in accordance with customer
+              requirements.
+
+2.3.    Independence from the Parties
+
+(8)     Celanese submits that the Proposed Purchaser and the Parties are entirely separate
+        and distinct. Specifically, neither Celanese nor DuPont has the ability to exercise
+         control or exert influence over Taro Plast or its affiliated undertakings, and no
+         director of Taro Plast is a member of the board of the Parties or their affiliated
+         undertakings, and vice versa. Finally, there are no commercial relationships or
+         links between Taro Plast and the Parties.4
+
+(9)      In  its Reasoned Opinion, the Trustee submits  that the Proposed Purchaser, the
+         Parties,  and  their  affiliated  undertakings  are  independent when  it comes  to
+          institutional ties. The Commission notes that none of the members of the board of
+         directors of the Parties is active as a member of the board of directors of Taro Plast,
+        nor the other way around. There is no cross-shareholding between Taro Plast and
+         the  Parties.5  Furthermore,  the  Trustee  submits  that  there  are no commercial
+        agreements or any other existing commercial links between Taro Plast and the
+         Parties. No agreements such as collaboration agreements, joint ventures, licensing
+        agreements and acquisitions and divestitures exist between the Parties and their
+          affiliated undertakings, on the one side, and Taro Plast, on the other side.6 In
+         conclusion, the Trustee submits that the Proposed Purchaser is independent from
+         the Parties and their affiliated undertakings.7
+
+(10)    The Commission agrees with the assessment of the Trustee. There are no cross-
+         shareholdings, common board members, or structural links between the Parties and
+       Taro Plast. For  its compounding activities, Taro Plast does not buy any base
+        polymers, or any raw  materials, from DuPont (Celanese  is not  active in the
+        upstream market of base polymers).
+
+(11)     In light of the foregoing, the Commission considers that the Proposed Purchaser is
+        independent and unconnected to Celanese, DuPont and their affiliates.
+
+2.4.     Financial resources, proven expertise and incentive to maintain and develop
+        the Divested Business as a viable and active competitor
+
+2.4.1.   Financial resources to maintain and develop the Divestment Businesses as a viable
+       and active competitor
+
+(12)    Celanese puts forward that Taro Plast has generated stable revenues and strong
+      EBITDA margins over the last five years. Its business has shown solid resilience
+        through the global pandemic, overseeing [business secrets relating to Taro Plast’s
+         financial performance] for 2020 [business secrets relating to Taro Plast’s financial
+        performance] growing EBITDA [business secrets relating to Taro Plast’s financial
+
+
+4       Paragraphs 14 and 15 of the Reasoned Proposal.
+5       Section 4.2 of the Reasoned Opinion.
+6       Section 4.3 of the Reasoned Opinion; the Trustee notes that some transitional services are offered by
+        Celanese to the Proposed Purchaser with a pre-defined termination date in the context of the transfer
+        of  the Divestment Business, and considers  that the  transitional services do not impede the
+        independence of Taro Plast from the Parties; see Section 4.4 of the Reasoned Opinion.
+7       Section 4.5 of the Reasoned Opinion.
+
+
+                                                      4
+
+[PÁGINA PDF 6]
+        performance]. Based upon information provided by Taro Plast, Celanese further
+        understands that in 2021, revenues recovered [business secrets relating to Taro
+         Plast’s financial performance] with further growth in EBITDA [business secrets
+         relating to Taro Plast’s financial performance]. Taro Plast also has a short-term
+       bank credit line in place, which can be used for the acquisition of the Divestment
+         Business. Taro Plast does not require any third-party financing for the acquisition
+         of the Divestment Business.8
+
+(13)    The Trustee submits that Taro Plast’s net revenues as per FY 2021 amounted to
+        approximately EUR 150 million, [business secrets relating to Taro Plast’s financial
+        performance].  In  line  with   its  continued  solid  financial  performance,  the
+       Commission notes that the book value of its equity has grown substantially over the
+          last couple of years. Given the company’s current (and expected) capability to
+         generate significant positive operating cash flows (as evidenced by its historical
+      EBITDA performance) and its additional loan capacity (as evidenced by its balance
+         sheet and  its investment grade  rating),  the Trustee notes  that Taro  Plast  has
+          sufficient sources to fund both the acquisition and the subsequent maintenance and
+        development of the Divestment Business. Based on its assessment of Taro Plast’s
+         current financial position and continuing strong financial performance over the last
+         years, the Trustee considers that the company has sufficient financial resources to
+        acquire the Divestment Business and to maintain and develop it going forward.9
+
+(14)    The Commission agrees with the Trustee’s assessment. The Commission notes in
+         particular that the acquisition of the Divestment Business will initially be financed
+       by Taro Plast with drawings from the short term bank credit line and available
+         cash. In the longer term, although the debt ratios and Capex investments increase as
+        a result of the acquisition of the Divestment business, financial capabilities appear
+         to be sufficient to fund the development of the Divestment business, potentially
+        with some adjustments in the allocation of financial resources.
+
+(15)     In light of the foregoing, the Commission considers that the Proposed Purchaser
+        has  sufficient  financial  resources  to  maintain  and  develop  the  Divestment
+        Businesses as a viable and active competitor.
+
+2.4.2.   Proven experience to maintain and develop the Divestment Businesses as a viable
+       and active competitor
+
+(16)    Celanese submits that Taro Plast has proven expertise in the thermoplastic sector,
+         including compounding, as well as relevant experience in complementary markets,
+        and an established customer  base.  Specifically, Taro  Plast has  the necessary
+        production  capabilities and R&D  facilities  for new  formulation and  product
+        development. Taro  Plast  further has a highly experienced management and an
+        experienced commercial and  technical  team,  [business  secrets  relating to  the
+         professional experience of Taro Plast staff]. Lastly, Taro Plast has the geographic
+        reach to serve customers of the Divestment Business, with the sales structure to
+        reach customers worldwide, including in the US.10
+
+
+
+
+8       Paragraphs 16 to 18 of the Reasoned Proposal.
+9       See Section 6.2 of the Reasoned Opinion.
+10      See section 3.2 of the Reasoned Proposal.
+
+
+                                                      5
+
+[PÁGINA PDF 7]
+(17)    The Trustee submits that, based on its discussion with Taro Plast, Taro Plast has
+         significant proven expertise and capabilities to maintain and further develop the
+        Divestment  Business.  In  particular,  Taro  Plast  has  a  highly  experienced
+       management team with in-depth knowledge of compounding in complementary
+        markets  (including,  albeit  limited, TPC compounding).  Overall,  the company
+         brings relevant experience of more than 40 years in complementary markets of
+       TPE11 compounding. The Trustee notes that Taro Plast has been performing TPC
+       compounding as a tolling arrangement for a TPC producer over the last five years.
+        Furthermore,  the Commission notes  that some of Taro  Plast’s key employees
+        already have direct experience of working with the TPC Divestment Business in
+         the past, [business secrets relating to the professional experience of Taro Plast
+           staff].  Finally,  Taro  Plast  has an  established  customer  base  with  products
+        complementary to those of the Divestment Business.12
+
+(18)    The Commission notes that, in line with the submission of Celanese and the view
+         of the Trustee, Taro Plast has business activities of more than 40 years in the field
+         of  engineering  plastics.  The  Commission  further  notes  that Taro  Plast  has
+        experience  in supplying  large  customers,  e.g. from the automotive  industry.13
+         Lastly, the market test of the proposed remedy, conducted for the assessment in the
+        Commission’s Article 6 Decision and which Taro Plast was identified as the
+        proposed purchaser, did not produce evidence that would contradict the findings of
+         the Trustee.14 Lastly,  it has to be noted  that the Divestment Business includes
+        personnel currently employed for the TPC production, as defined in paragraph 2
+        above, which will further enhance Taro Plast’s know how necessary to maintain
+        and develop the Divestment Business.15
+
+(19)     In light of the foregoing, the Commission considers that the Proposed Purchaser
+        has proven  expertise  to  maintain and develop  the Divestment Businesses as
+        a viable and active competitor.
+
+2.4.3.   Incentive to maintain and develop the Divestment Businesses as a viable and active
+        competitor and long-term commitment to maintain the Divestment Businesses
+         viable, competitive, and well-capitalised
+
+(20)    Celanese submits that Taro Plast sees the purchase of the Divestment Business as
+       an opportunity to grow its business with the addition of proven TPC polymerisation
+          assets, two globally recognised TPC brands, and a long-established and stable
+        customer base. The acquisition would also further advance Taro Plast’s plans to
+         enlarge its product portfolio and strengthen its position in plastics and elastomers.
+         Overall, the acquisition of the Divestment Business will position Taro Plast as the
+       number three supplier of TPC in Europe and will help transform the company into
+       an established producer of a portfolio of engineering plastics and thermoplastic
+         elastomers. Taro Plast therefore has a strong commercial incentive to maintain and
+          further develop the Divestment Business.16
+
+
+
+
+11      Thermoplastic elastomers, TPC being one specific thermoplastic elastomer.
+12      See section 6.3 of the Reasoned Opinion.
+13       Presentation by Taro Plast to the Commission, 31 August 2022, slides 3 and 13.
+14      See responses to Questionnaire Q4, questions 5.
+15      See Article 6 Decision, sections 5.3.1. and 5.3.4.
+16      See paragraphs 36 to 38 of the Reasoned Proposal.
+
+
+                                                      6
+
+[PÁGINA PDF 8]
+(21)    The  Trustee  understands  from Taro  Plast  that  the  Divestment  Business  is
+        a profitable business with historical background, which is complementary to Taro
+         Plast’s  existing portfolio. The Divestment Business would include worldwide
+        recognized TPC brands and would allow Taro Plast to generate future growth in
+        Europe and globally, including the US and Asia. The Trustee notes that, given Taro
+         Plast is family-owned;  its equity is owned by individuals that are close to the
+         business, which will fully incentivise them to secure the future viability of the
+        Divestment Business. In conclusion, the Trustee concludes that Taro Plast has the
+         incentive to maintain and develop the Divestment Business as a viable and active
+        competitive force in competition with Celanese and other competitors.17
+
+(22)    The Commission agrees with the assessment that the acquisition of the Divestment
+        Business  constitutes an important  strategic  step  for Taro Plast to broaden  its
+        product portfolio and  to grow  the company, based on the Commission’s own
+         discussions with Taro Plast.18 The Commission further notes that the acquisition of
+         the Divestment Business is a relatively large acquisition in relation to the size of
+       Taro Plast, and therefore considers the success of the acquisition to have a high
+         priority for Taro Plast.
+
+(23)     In light of the foregoing, the Commission considers that the Proposed Purchaser
+        has the incentive to maintain and develop the Divestment Businesses as a viable
+        and  active  competitor, and long-term commitment  to maintain the Divestment
+        Businesses viable, competitive, and well-capitalised.
+
+2.5.    Absence of prima facie competition problems
+
+(24)    Celanese submits that the acquisition of the Divestment Business by Taro Plast
+       would not give  rise  to any competition concerns, either from a horizontal or
+         vertical perspective. Taro Plast has no current TPC polymerisation activity and its
+         existing TPC  compounding  activity  is  conducted  in  the  context  of  a  toll
+       compounding arrangement. Taro Plast will therefore effectively reintroduce/secure
+         the competitive constraint currently posed by Celanese as the third competitor in
+         the market pre-transaction.19
+
+(25)     In its Reasoned Opinion, the Trustee takes the view that the acquisition of the
+        Divestment Businesss by Taro Plast will not give rise to prima facie competition
+         concerns, as Taro Plast has currently no TPC polymerisation business and  its
+         (limited) existing TPC compounding activity is conducted in the context of a toll
+       compounding arrangement for a third-party producer. The Trustee further explains
+          that the acquisition of the Divestment Businesses would not give rise to a risk that
+         the implementation of the Commitments will be delayed, as there is no requirement
+         to  file  any  pre-closing  notifications  of  the  divestiture  in any  jurisdictions
+        worldwide.20
+
+(26)    The Commission notes  that Taro  Plast currently does not have an own TPC
+         offering in the EEA or globally.21 Therefore, the acquisition of the Divestment
+
+17      See section 6.5 of the Reasoned Opinion.
+18       Presentation by Taro Plast to the Commission, 31 August 2022.
+19      See Section 3.3 of the Reasoned Proposal.
+20      See Section 6.6 of the Reasoned Opinion.
+21      See presentation by Taro Plast to the Commission, 31 August 2022, slide 24, and response to RFI 1 to
+        Taro Plast, question 15.
+
+
+                                                      7
+
+[PÁGINA PDF 9]
+        Business by Taro Plast will not lead to a concentration in the market for TPC under
+        any plausible product and geographic market definition.22 This is in line with the
+        Commission’s assessment in the Article 6 Decision, in which the Commission
+        found that there are only a limited number of credible TPC suppliers at EEA and
+         global  level, none of which being Taro Plast. Market shares as provided by
+        Celanese for the assessment in the Article 6 Decision do not give any indication
+          that the acquisition of the Divestment Business by Taro Plast could give rise to any
+       prima facie competition concerns.23
+
+(27)     In light of the elements set out above, as well as the information made available for
+         the  purposes  of  its  assessment,  the Commission concludes  that prima  facie
+        competition concerns will not arise as a result of the acquisition of the Divestment
+        Businesses by the Proposed Purchaser.
+
+(28)    This prima facie assessment is based on the information available for the purpose
+         of this buyer approval and does not prejudge the competition assessment of the
+         acquisition of the Divestment Business by Taro Plast by a competent competition
+         authority under applicable merger control rules.
+
+2.6.     Capabilities to integrate the Divestment Business
+
+(29)    Celanese  submits  that Taro  Plast has a  history of successful  integrations of
+         acquisitions, including its acquisition of Luben Plast srl in 2014 and its acquisition
+         of SORL srl in 2007. Given its experience as a compounder, Celanese expects that
+       Taro Plast will be able to transfer the compounding line Q3 and qualify its output
+        with customers […]. Taro  Plast also has established R&D  facilities for new
+         formulation  and  product  development.  Finally,  Taro  Plast  has  an  existing
+        commercial and technical team, and established sales channels to reach customers
+         inside and outside the EU.24
+
+(30)    The Trustee explains that Taro Plast it possesses all the necessary sales capabilities
+         to maintain and develop the Divestment Business. Taro Plast explained that its
+         current manufacturing operations are based in Europe with a substantial proportion
+         of sales in this geographic market. Sales outside Europe are currently managed
+         [detailed information on extra-European sales management processes and related
+         business plans]. Therefore, the Trustee considers  that Taro Plast’s commercial
+         structure should be sufficient to both maintain the current customer base both in the
+      EEA and in the main non-EEA countries.
+
+(31)    Taro  Plast indicated  to  the Trustee  that  it possesses  all  the necessary R&D
+         capabilities, except for the expertise in the polymerization process, and that the
+           latter expertise will be acquired together with the Divestment Business. In its
+       Reasoned  Opinion,  the  Trustee  refers Taro  Plast’s laboratory and laboratory
+         engineers that carry out approximately […] R&D projects per year.25 In addition,
+         the Commission notes that, pursuant to the Commitments, [detailed information on
+          staff  to be  transferred]  will be transferred to Taro Plast to provide business
+         continuity for the Divestment Business.
+
+
+22      As defined in sections 4.2.1. and 4.2.2. of the Article 6 Decision.
+23      See Article 6 Decision, tables 2 and 3.
+24       Paragraphs 27, 29, 31, 32, 33 and 35 of the Reasoned Proposal.
+25      See section 6.5.3. of the Reasoned Opinion.
+
+
+                                                      8
+
+[PÁGINA PDF 10]
+(32)   As regards Taro Plast’s business plan for the Divestment Business, the Trustee
+        considers that the plan contains several conservative elements and/or that certain
+         potential upsides have not been reflected (yet) in the business plan. These mainly
+         consist  in  synergies  between  the  business  of  the  Divestment  Business  and
+       Taro Plast’s  current  business  activities,  a  more  conservative  sales  volume
+         projection compared to projections made by Celanese.26 On the other hand, both
+       Taro  Plast and  the  Trustee  realise  that  the  business  plan’s main underlying
+        assumption is that […]. Given the market dynamics, [information on underlying
+         assumption], the Trustee deems this scenario not to be unlikely.
+
+(33)     Lastly, based on its discussion with Taro Plast, the Trustee understands that the
+       company  estimates  to be  able  to  transfer  the compounding  line Q3  within
+        approximately […] months, and subsequently qualify its output in accordance with
+        customer requirements within […] months. Taro Plast has past experience with
+         transferring  (extrusion)  lines  resulting  from  its  acquisitions  of SORI  and
+       Luben Plast. While those transfers did not require re-qualification with customers,
+        both Taro  Plast and  the  hold-separate manager, have  indicated  that  the  re-
+         qualification process – in essence – does not deviate from the qualification process
+          that new applications undergo when first introduced. This process occurs on a very
+         regular basis and both Taro Plast and the Divestment Business have the capacity
+        and capabilities to deal with this process. Therefore, the Trustee considers that the
+         required re-qualification processes can be dealt with in a suitable manner.27
+
+(34)    The Commission agrees to the assessment. In the market test for the assessment of
+         the proposed remedies for the Article 6 Decision, the Commission has asked
+        customers of the Divestment Business if Taro Plast had the capacity to maintain
+        and  develop  the  Divestment  Business  as  a  viable  and  active  force.  Most
+        respondents forming an opinion on that question indicated that Taro Past had the
+        needed capacity.28 In the very few instances where customers raised doubts as to
+       Taro Plast’s capacity to maintain the Divestment Business, e.g. in connection to
+       Taro Plast’s R&D capabilities, those aspects were further improved in the final
+        commitments.29 Furthermore, only a very small share of customers responding to
+         the  market  test  indicated  not  to be ready  to purchase from the Divestment
+         Business.30  Therefore,  the Commission  considers  the  full  transfer  of  current
+        customers representing a sufficiently high volume to preserve the competitiveness
+        and  viability of  the Divestment Business  to Taro  Plast  is a sound working
+        assumption.
+
+(35)    The Commission further notes that, in line with the submission of Celanese, Taro
+         Plast has, in the past, successfully integrated acquired two acquired business,
+         including  the  transfer  single  production  lines.31 As  to  the need  to  re-qualify
+        customers  after  the  transfer  of  the Divestment Business, and  specifically the
+       compounding line, the Commission notes that this process is not specific to Taro
+          Plast, but would have to be undertaken with any purchaser, and therefore does not
+        speak against the suitability of Taro Plast specifically. The Commission agrees
+
+
+26      See section 7.2.2 of the Reasoned Opinion.
+27      Section 6.4 of the Reasoned Opinion.
+28      See responses to Questionnaire Q4, questions 6 and 6.1.
+29      See Article 6 Decision, section 5.3.4.
+30      See responses to Questionnaire Q4, questions 27.
+31       Presentation by Taro Plast to the Commission, 31 August 2022, slide 17.
+
+
+                                                      9
+
+[PÁGINA PDF 11]
+        with the assessment of the Trustee that Taro Plast is well-placed to manage the
+         re-qualification of customers successfully, as the process is part of the regular
+         business activities of Taro Plast as a compounder.
+
+(36)     In light of the foregoing, the Commission considers that the Proposed Purchaser
+        has the capabilities in sales and R&D to integrate the assets of the Divestment
+        Business and is able to transfer the compounding line Q3 and qualify its output in
+        accordance with customer requirements.
+
+3.     ASSESSMENT OF THE PROPOSED AGREEMENTS
+
+(37)    The acquisition of the Divestment Business by Taro Plast will be carried out under
+         the Proposed Agreements32 dated 24 October 2022, including  the  transitional
+         services agreement, the toll compounding agreement and the IP license agreement.
+
+(38)    Celanese  confirms  that pursuant  to  the Proposed Agreements,  the Divestment
+        Business is being sold in a manner consistent with the Commitments.33
+
+(39)     [Details of certain optional elements of the divestment package].34 35
+
+(40)    The Trustee  further  notes  that  the capex funding escrow agreement36 will be
+         entered in two weeks after the closing of the sale of the Divestment Business, and
+          not, as provided in the Commitments, prior or at date of closing, as  it requires
+         signing from an  Italian notary. The Trustee  further  notes  that the Divestment
+        Business has a […]% shareholding in the company IFM Ferrara Società Consortile
+        per Azioni, which provides services to the companies located in the industrial park
+         in which the Divestment Business is located. These shares will be transferred, as
+         indicated in the BAPA, as soon as possible after the closing of the sale of the
+        Divestment  Business.  The   Trustee   considers  both  deviations  from  the
+       Commitments as minor.. The Trustee does not indicate further deviations of the
+        Proposed Agreements from the Commitments.
+
+(41)    Based on its review of the Proposed Agreements, the Trustee therefore deems those
+        agreements as being fully compliant with the Commitments.37
+
+(42)     In the  first place, the Commission notes  that there are no material deviations
+       between the Proposed Agreements and the Commitments. Taro Plast has declined
+       two elements of the Commitments that have been offered by Celanese. As these
+        elements were optional, and Taro Plast can  fulfil these positons in-house, the
+       Commission considers that this refusal has no influence of the implementation of
+         the Commitments. Regarding  the  date  of  the  entry  into  force of the escrow
+
+32      Furthermore, Celanese and Taro Plast will be entering into a Toll Compounding Agreement; see
+       Reasoned Opinion, section 5.1.
+33      Reasoned Proposal, paragraph 43.
+34      See Commitments, schedule 1, paragraph 2(j).
+35      See Commitments, schedule 1, paragraph 2(j).
+36      Concerning Celanese’s commitment to make available to the purchaser the amount equal to the
+        forecasted capex funding that Celanese planned to invest in 2022 and shall, to that end, establish
+       escrow account funded with this amount; see Final Commitments, paragraph 8.
+37      See Reasoned Opinion, section 5.4.4. The Trustee further notes that the in the BAPA, it is clarified
+          that the Commitments prevail in case of any interpretation discrepancy between the latter and the
+       Proposed Agreements. The Trustee further notes its understanding that Taro Plast is fully satisfied
+        with the manner the Commitments are reflected in the Proposed Agreements.
+
+
+                                                      10
+
+[PÁGINA PDF 12]
+        agreement and the IFM shareholding, the Commission, in line with the Trustee,
+        considers these modifications as minor. Therefore the Commission concludes that
+         the Proposed Agreements are fully compliant with the Commitments.
+
+4.     CONCLUSION
+
+(43)   On the basis of the above assessment, the Commission approves Taro Plast as
+        a suitable purchaser.
+
+(44)   On the basis of the Proposed Agreements, the Commission further concludes that
+         the  Divestment  Business  is  being  sold  in  a  manner  consistent  with  the
+       Commitments.
+
+(45)    This Decision only constitutes approval of the Proposed Purchaser identified herein
+        and of the Proposed Agreements. This Decision does not constitute a confirmation
+          that Celanese has complied with the Commitments.
+
+(46)    This Decision is based on Section D of the Commitments attached to the Article 6
+        Decision.
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                    Olivier GUERSENT
+                                                Director-General
+
+
+
+
+
+                                                      11

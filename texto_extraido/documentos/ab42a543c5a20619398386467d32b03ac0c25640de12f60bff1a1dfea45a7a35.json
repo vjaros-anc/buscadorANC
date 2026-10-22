@@ -1,0 +1,95 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "ab42a543c5a20619398386467d32b03ac0c25640de12f60bff1a1dfea45a7a35",
+  "extraido_utc": "2026-10-22T19:31:36+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10646_DICT_01",
+      "caso": "M.10646",
+      "universo": "principal",
+      "titulo": "Informe final del Consejero Auditor — MICROSOFT / ACTIVISION BLIZZARD",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202330/M_10646_9311741_7444_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202330/M_10646_9311741_7444_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10646/M.10646_DICT_01_ab42a543c5a2.pdf",
+      "sha256": "ab42a543c5a20619398386467d32b03ac0c25640de12f60bff1a1dfea45a7a35",
+      "coincide_inventario": "",
+      "bytes": "129123",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202330/M_10646_9311741_7444_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                EUROPEAN COMMISSION\n\n\n\n                                  Hearing Officer for competition proceedings\n\n                                                      Brussels, 3 May 2023\n\n\n             Final Report of the Hearing Officer1\n\n       Case M.10646 – Microsoft / Activision Blizzard\n\n                               (Text with EEA relevance)\n\n 1.  INTRODUCTION\n\n 1.  On 30 September 2022, the Commission received a notification of a proposed\n      concentration by which Microsoft Corporation  (‘Microsoft’, or the ‘Notifying\n      Party’) intends to acquire, within the meaning of Article 3(1)(b) of the Merger\n      Regulation2, sole control over Activision Blizzard, Inc. (‘Activision Blizzard’) (the\n     ‘Proposed Transaction’). For the purposes of this interim report, Microsoft and\n      Activision Blizzard are together referred to as the ‘Parties’.\n\n 2.  PROCEDURE\n\n       2.1.    Article 6(1)(c) decision\n\n 2.  On 8 November 2022, the Commission adopted a decision to initiate proceedings\n      pursuant to Article 6(1)(c) of the Merger Regulation (the ‘Article 6(1)(c) decision’),\n      as the Commission’s  first phase investigation raised serious doubts as to the\n      compatibility of the Proposed Transaction with the internal market.\n\n 3.  On 24 November 2022, the Notifying Party submitted its response to the Article 6(1)(c)\n      Decision.\n\n       2.2.    First extension of the time-limit\n\n 4.  On 18 November 2022, the Commission extended the time-period of 90 days in\n      Article 10(3), first subparagraph, of the Merger Regulation for the adoption of a\n      decision pursuant to Article 8 of the Merger Regulation in relation to the Proposed\n      Transaction by 10 working days, pursuant to Article 10(3), second subparagraph,\n        first sentence, of the same regulation.\n\n       2.3.   Statement of objections\n\n 5.  On 31 January 2023, the Commission adopted a statement of objections addressed\n      to the Notifying Party (the ‘SO’). The SO was formally notified to the Notifying\n      Party on 1 February 2023, after an advance copy was sent on 31 January 2023.\n\n1       Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European\n       Commission of 13 October 2011 on the function and terms of reference of the hearing officer in\n         certain competition proceedings, OJ L 275, 20.10.2011, p. 29 (‘Decision 2011/695/EU’).\n2       Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between\n        undertakings (the EC Merger Regulation), OJ L 24, 29.1.2004, p. 1 (the ‘Merger Regulation’).",
+      "caracteres": 2612,
+      "caracteres_utiles": 1793,
+      "cobertura_imagen_maxima": 0.0114,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "     2.4.   Access to the file\n\n6.  The Notifying Party was given access to the file on 1 February 2023 by means of\n    two DVDs. Furthermore, with regard to part of the documents in the  file, the\n     Directorate-General for Competition (‘DG Competition’) provided access by means\n     of a data room, which took place between 2 and 8 February 2023.\n\n7.  By letter of 19 February 2023 to the Hearing Officer, Microsoft submitted a request\n     for further access to the file pursuant to Article 7 of Decision 2011/695/EU (the ‘HO\n     Request’). Microsoft asked in particular that its external advisors be allowed to\n     access certain confidential data that the external advisors had previously consulted\n     in the data room, still on an outside counsel-only basis but in a less restrictive form,\n    such as a confidentiality ring arrangement. This request related to a particular theory\n     of harm developed by DG Competition in the SO. However, following certain\n    developments in the case, on 2 March 2023, Microsoft’s counsel agreed that there\n    was no need to take a decision on the HO Request  at  that stage. Microsoft\n     subsequently withdrew the HO Request on 6 April 2023.\n\n     2.5.   Reply to the SO\n\n8.  On 14 February 2023, the Notifying Party submitted  its reply to the SO, in\n    accordance with the deadline set by DG Competition. In its reply, the Notifying\n     Party requested a formal oral hearing.\n\n     2.6.   Interested third persons\n\n9.   During the course of the proceedings, I admitted (pursuant to Article 5 of Decision\n    2011/695/EU) six undertakings or associations of undertakings as interested third\n     persons.\n\n10.  All interested third persons expressed their interest in participating in a potential\n     oral hearing in this case – and were admitted accordingly, pursuant to Article 6(2) of\n    Decision 2011/695/EU, so as  to express  their views  orally on  the Proposed\n     Transaction.\n\n     2.7.   Oral hearing\n\n11. A formal oral hearing took place on 21 February 2023.\n\n12.  Delegates representing the Parties, four interested third persons, the Commission\n    and the competent authority of a Member State were present in the room. Additional\n     representatives of the Parties, the competent authorities of Member States and the\n    Commission and representatives of certain interested third persons participated\n     remotely.\n\n     2.8.   Second extension of the time limit\n\n13. On 1 March 2023, a further extension of 10 additional working days of the time\n     limit  set for the adoption of a decision pursuant to Article 8 of the Merger\n     Regulation was adopted by the Commission with the agreement of the Notifying\n     Party, pursuant to Article 10(3), second subparagraph, third sentence, of the Merger\n     Regulation.\n\n                                       2",
+      "caracteres": 2840,
+      "caracteres_utiles": 2108,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 3,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "     2.9.   Letter of facts\n\n14. On 9 March 2023, the Commission adopted a letter of facts (‘LoF’), in order to\n    inform Microsoft about additional factual elements which were not yet expressly\n     relied on in the SO and which the Commission considered to be potentially relevant\n     to support some of its preliminary conclusions in the SO and substantiate its final\n     decision.\n\n15. The Commission initially set a deadline for Microsoft to reply to the LoF on 16\n    March 2023. Upon request from Microsoft, DG Competition subsequently extended\n     this deadline until 20 March 2023. On that date, Microsoft submitted its reply.\n\n     2.10.  Commitments\n\n16. On 16 March 2023, Microsoft submitted commitments, with a view to rendering the\n    Proposed Transaction compatible with the internal market and the functioning of the\n   EEA Agreement, pursuant to Article 8(2), second subparagraph of the Merger\n     Regulation  (the  ‘Commitments’).  Accordingly,  the  legal  time  limit  for  the\n    Commission decision was automatically extended by 15 working days, pursuant to\n     Article 10(3), first subparagraph of the Merger Regulation.\n\n17. On 17 March 2023, the Commission launched a market test of the Commitments.\n    The Commission informed the Parties about the results of the market test on 28\n    March 2023.\n\n18. On 3 April 2023, following the outcome of the market test, Microsoft submitted a\n     revised set of commitments. These were market tested on 4 April 2023 and the\n    Commission informed the Parties about the results on 14 April 2023.\n\n19. On 20  April  2023,  Microsoft  submitted amended commitments  (the  ‘Final\n    Commitments’)  addressing  feedback  from  the  market  test  of  the  Second\n    Commitments.\n\n     2.11.  The draft decision\n\n20.  In the draft decision, the Commission concludes  that the Final Commitments\n     address the identified competition concerns and declares the Proposed Transaction\n    compatible with the internal market and the functioning of the EEA Agreement,\n     pursuant to Article 8(2) of the Merger Regulation.\n\n21.  I  have  reviewed  the  draft  decision  pursuant  to  Article  16(1)  of  Decision\n    2011/695/EU and I conclude that it does not deal with any objection in respect of\n    which the Parties have not been afforded the opportunity of making known their\n     views.\n\n3.  CONCLUSION\n\n22.  Overall, I consider that the effective exercise of procedural rights has been respected\n     in the present proceedings.\n\n\n\n                                       ERIC GIPPINI FOURNIER\n                                                    Hearing Officer\n                                       3",
+      "caracteres": 2677,
+      "caracteres_utiles": 1925,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

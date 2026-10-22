@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "ebd0f392dad116c8dfd5ca90318e9d8d86397f3f8d2fbd4a280cc4cc42125203",
+  "extraido_utc": "2026-10-22T19:30:50+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20221125180034+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10638_CP_01",
+      "caso": "M.10638",
+      "universo": "principal",
+      "titulo": "Mergers: Commission clears ALD's acquisition of LeasePlan, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_7087/IP_22_7087_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_7087",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10638/M.10638_CP_01_ebd0f392dad1.pdf",
+      "sha256": "ebd0f392dad116c8dfd5ca90318e9d8d86397f3f8d2fbd4a280cc4cc42125203",
+      "coincide_inventario": "",
+      "bytes": "36228",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_7087/IP_22_7087_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission clears ALD's acquisition of LeasePlan, subject to\nconditions\n\nBrussels, 25 November 2022\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof LeasePlan by ALD. The approval is conditional on full compliance with commitments offered by\nALD.\n\nALD and LeasePlan are leading suppliers of operational leasing and related management services,\nin the European Economic Area (‘EEA'). They compete, among others, in the provision of operational\nleasing services to large corporate customers that typically require multiple vehicles across several\nEEA countries. In an operational lease contract it is generally the lessor who bears the risks attached\nto the property of the vehicle.\n\nThe Commission's investigation\n\nThe Commission had concerns that the transaction, as initially notified, would have significantly\nreduced competition in the markets for operational leasing in Czechia, Finland, Ireland,\nLuxembourg, Norway and Portugal.\n\nThe Commission's investigation found that:\n\n    The merged entity would have a strong market position and would face limited\n    constraints from other competitors in Czechia, Finland, Ireland, Luxembourg, Norway and\n     Portugal.\n\n    The markets for operational leasing are characterized by significant barriers to entry such as\n    access to financing or building a network to deliver the services.\n\n    ALD and LeasePlan are close competitors, in particular as regards large corporate customers.\n\nThe proposed remedies\n\nTo address the Commission's concerns, ALD offered to:\n\n    Divest ALD's operational leasing business in Ireland, Norway and Portugal, as well as\n    LeasePlan's businesses in Czechia, Finland and Luxembourg, with their assets, contracts\n    and employees. This will enable any purchaser to run the divested businesses as a viable\n    competitive force in the respective markets on a lasting basis.\n\n    Provide transition services, such as providing time for rebranding, access to IT services or\n    access to used car sales platform, for a transitional period of up to two years, which may be\n    extended by up to one additional year.\n\nThese commitments remove the overlaps existing between ALD and LeasePlan's activities in the\nnational markets for operational leasing where the Commission had identified competition concerns.\n\nFollowing the market test, the Commission concluded that the transaction, as modified by the\ncommitments, would no longer raise competition concerns. The decision is conditional upon full\ncompliance with the commitments.\n\nCompanies and products\n\nALD is the holding company of the ALD Group, headquartered in France. The ALD group provides\nmobility solutions, mainly vehicle leasing and related management services. It is solely controlled by\nSociété Générale S.A., the holding company of the Société Générale Group, a banking and financial\nservices group headquartered in France.\n\nLeasePlan, headquartered in the Netherlands, is a fleet management and driver mobility company.\nLeasePlan's main business is vehicle leasing and related management services.\n\nMerger control rules and procedures",
+      "caracteres": 3199,
+      "caracteres_utiles": 2583,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "The transaction was notified to the Commission on 5 October 2022.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working\ndays, bringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.10638.\n\n                                                                                                              IP/22/7087\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n       Nina FERREIRA (+32 2 299 81 63)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1316,
+      "caracteres_utiles": 945,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

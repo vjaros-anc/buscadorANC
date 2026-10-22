@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "9c195a9260670af01e84bc4b99ca6aacc25b8dfbb7453b2d6be349c17b7278aa",
+  "extraido_utc": "2026-10-22T19:40:51+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20231212163032+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11043_CP_01",
+      "caso": "M.11043",
+      "universo": "principal",
+      "titulo": "Commission clears Novozymes and Chr. Hansen merger, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_6525/IP_23_6525_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6525",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11043/M.11043_CP_01_9c195a926067.pdf",
+      "sha256": "9c195a9260670af01e84bc4b99ca6aacc25b8dfbb7453b2d6be349c17b7278aa",
+      "coincide_inventario": "",
+      "bytes": "36259",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_6525/IP_23_6525_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:04+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission clears Novozymes and Chr. Hansen merger, subject to\nconditions\n\nBrussels, 12 December 2023\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed merger\nbetween Novozymes A/S (‘Novozymes') and Christian Hansen A/S (‘Chr. Hansen'). The approval is\nconditional upon full compliance with the commitments offered by the parties.\n\nNovozymes and Chr. Hansen are both bioscience companies. Novozymes develops, manufactures\nand supplies industrial enzymes to multiple industries, such as agriculture, animal health food and\nbeverage. Chr. Hansen develops natural ingredients solutions for the food, nutritional,\npharmaceutical and agricultural industries.\n\nThe Commission's investigation\n\nThe Commission's investigation showed that the merger, as initially notified, would have reduced\ncompetition in the market for the manufacture of one specific enzyme, lactase, using genetic\nmodification technology.\n\nIn particular, the Commission found that Chr Hansen had a project to start manufacturing this\nproduct and would very likely grow into an effective competitor within a short timeframe. The\nCommission also found that post-merger there would not be sufficient potential competitors to\nexert sufficient competitive pressure on the merged entity.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, the parties offered to divest:\n\n•  Chr. Hansen's project to enter the market for the manufacture of lactase;\n\n•  Chr. Hansen's lactase distribution business; and\n\n•  Novozymes' lactase production facility.\n\nThese commitments fully address the competition concerns identified by the Commission, by paving\nthe way for the creation of a divested business with the necessary production assets and research\nand development capabilities to grow as a viable competitive producer of lactase on a lasting basis.\n\nFollowing the positive feedback received in the context of the commitments' market test, the\nCommission concluded that the transaction, as modified by the commitments, would no longer\nraise competition concerns.\n\nThe Commission also undertook a detailed investigation into whether this transaction could have a\nnegative impact on innovation in the industrial biotech sector. After a comprehensive review and\nextensive benchmarking exercise, the Commission established that merged entity's competitors have\nthe equivalent ability to invest in R&D and that the parties do not have any specific R&D capabilities\nthat rivals could not otherwise access.\n\nThe decision is conditional upon full compliance with the commitments. Under supervision of the\nCommission, an independent trustee will monitor their implementation.\n\nCompanies and products\n\nNovozymes, headquartered in Denmark, is a publicly listed global bioscience company solely\ncontrolled by Novo Holdings A/S.\n\nChr. Hansen, headquartered in Denmark, is a publicly listed global bioscience company.\n\nFor More Information\n\nThe transaction was notified to the Commission on 20 October 2023.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a",
+      "caracteres": 3148,
+      "caracteres_utiles": 2586,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "turnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the European Economic Area\nor any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working\ndays, bringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.11043.\n\n\n\n\n\n                                                                                                              IP/23/6525\n\nQuotes:\n\n\n Novozymes is an established biotech player, which manufactures industrial enzymes, including lactase. This is a concentrated\n area in which Chr. Hansen is an imminent competitor. The divestiture of Chr. Hansen's lactase activities together with production\n assets will ensure that its pipeline project can come to market and preserve competition in the highly innovative biotech sector.\n Margrethe Vestager, Executive Vice-President in charge of competition policy - 12/12/2023\n\n\n\n Press contacts:\n\n      Lea ZUBER (+32 2 29 56298)\n      Sara SIMONINI (+32 2 298 33 67)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1627,
+      "caracteres_utiles": 1208,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

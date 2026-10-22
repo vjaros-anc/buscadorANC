@@ -1,0 +1,187 @@
+[PÁGINA PDF 1]
+                 European Commission - Press release
+
+
+
+
+
+Mergers: Commission clears acquisition of Activision Blizzard by Microsoft,
+subject to conditions
+
+Brussels, 15 May 2023
+
+The European Commission has approved, under the EU Merger Regulation, the proposed acquisition
+of Activision Blizzard (‘Activision') by Microsoft. The approval is conditional on full compliance with
+the commitments offered by Microsoft. The commitments fully address the competition concerns
+identified by the Commission and represent a significant improvement for cloud gaming as
+compared to the current situation.
+
+Today's decision follows an in-depth investigation of the proposed acquisition of Activision by
+Microsoft. As always, the Commission has based its decision on hard evidence, and on extensive
+information and feedback from competitors and customers, including from game developers and
+distributors as well as cloud game streaming platforms in the EU.
+
+The Commission's investigation
+
+Today's decision follows an in-depth investigation of the proposed acquisition of Activision by
+Microsoft. Both companies develop and publish games for PCs, consoles, and mobile devices and
+distribute games for PCs. Microsoft also distributes games for consoles and offers the Xbox console
+along with a wide range of products and services, including the PC operating system “Windows”.
+Activision's games portfolio includes famous franchises such as Call of Duty, World of Warcraft,
+Overwatch and Diablo.
+
+The Commission's preliminary investigation found that Microsoft could harm competition (i) in the
+distribution of console and PC video games, including multi-game subscription services and cloud
+game streaming services; and (ii) in the supply of PC operating systems.
+
+The Commission's in-depth market investigation indicated that Microsoft would not be able to
+harm rival consoles and rival multi-game subscription services. At the same time, it confirmed
+that Microsoft could harm competition in the distribution of games via cloud game
+streaming services and that its position in the market for PC operating systems would be
+strengthened.
+
+In particular, the Commission found that:
+
+     Microsoft would have no incentive to refuse to distribute Activision's games to Sony,
+    which is the leading distributor of console games worldwide, including in the European
+    Economic Area (‘EEA') where there are four Sony PlayStation consoles for every Microsoft Xbox
+    console bought by gamers. Indeed, Microsoft would have strong incentives to continue
+     distributing Activision's games via a device as popular as Sony's PlayStation.
+
+    Even if Microsoft did decide to withdraw Activision's games from the PlayStation, this
+   would not significantly harm competition in the consoles market. Even if Call of Duty is
+     largely played on console, it is less popular in the EEA than in other regions of the world, and
+      is less popular in the EEA within its genre compared to other markets. Therefore, even without
+    being able to offer this specific game, Sony could leverage its size, extensive games catalogue
+    and market position to fend off any attempt to weaken its competitive position.
+
+    Even without this transaction, Activision would not have made its games available for multi-
+   game subscription services, as this would cannibalize sales of individual games. Therefore,
+    the situation for third-party providers of multi-game subscription services would not change
+     after the acquisition of Activision by Microsoft.
+
+    The acquisition would harm competition in the distribution of PC and console games via
+    cloud game streaming services, an innovative market segment that could transform the
+    way many gamers play video games. Despite its potential, cloud game streaming is very
+     limited today. The Commission found that the popularity of Activision's games could promote
+      its growth. Instead, if Microsoft made Activision's games exclusive to its own cloud game
+    streaming service, Game Pass Ultimate, and withheld them from rival cloud game streaming
+
+[PÁGINA PDF 2]
+     providers, it would reduce competition in the distribution of games via cloud game
+    streaming.
+
+      If Microsoft made Activision's games exclusive to its own cloud game streaming service,
+     Microsoft could also strengthen the position of Windows in the market for PC operating
+    systems. This could be the case, should Microsoft hinder or degrade the streaming of
+     Activision's games on PCs using operating systems other than Windows.
+
+The proposed remedies
+
+To address the competition concerns identified by the Commission in the market for the
+distribution of PC and console games via cloud game streaming services, Microsoft offered the
+following comprehensive licensing commitments, with a 10-year duration:
+
+    A free license to consumers in the EEA that would allow them to stream, via any cloud
+   game streaming services of their choice, all current and future Activision Blizzard PC
+   and console games for which they have a license.
+
+    A corresponding free license to cloud game streaming service providers to allow EEA-
+    based gamers to stream any Activision Blizzard's PC and console games.
+
+Today, Activision Blizzard does not license its games to cloud game streaming services, nor does it
+stream the games itself. These licenses will ensure that gamers that have purchased one or more
+Activision games on a PC or console store, or that have subscribed to a multi-game subscription
+service that includes Activision games, have the right to stream those games with any cloud
+game streaming service of their choice and play them on any device using any operating
+system. The remedies also ensure that Activision's games available for streaming will have the same
+quality and content as games available for traditional download.
+
+These commitments fully address the competition concerns identified by the Commission and
+represent a significant improvement for cloud game streaming compared to the current
+situation. They will empower millions of EEA consumers to stream Activision's games using
+any cloud gaming services operating in the EEA, provided they are purchased in an online store
+or included in an active multi-game subscription in the EEA. In addition, the availability of
+Activision's popular games for streaming via all cloud game streaming services will boost the
+development of this dynamic technology in the EEA. Ultimately, the commitments will unlock
+significant benefits for competition and consumers, by bringing Activision's games to new platforms,
+including smaller EU players, and to more devices than before.
+
+The Commission carefully investigated the effectiveness of the remedies, collecting views from a
+large number of market participants and stakeholders. In particular, cloud game streaming
+service providers gave positive feedback and showed interest in the licenses. Some of these
+providers have already entered into bilateral agreements with Microsoft based on the proposed
+licenses to stream Activision's games, once the transaction is completed.
+
+Taking into consideration the feedback of the market, the Commission concluded that the proposed
+acquisition, as modified by the commitments, would no longer raise competition concerns and would
+ultimately unlock significant benefits for competition and consumers. The Commission's decision is
+conditional upon full compliance with the commitments. Under supervision of the Commission, an
+independent trustee will be in charge of monitoring their implementation.
+
+[PÁGINA PDF 3]
+Companies and products
+
+Microsoft is a global technology company headquartered in Redmond, Washington, US. It offers a
+wide range of products and services to customers through the following operating segments: (i)
+Productivity and Business Processes; (ii) Intelligent Cloud; and (iii) More Personal Computing.
+Microsoft is active as a developer and publisher of games for PCs, game consoles, and mobile devices
+as well as a distributor of games for PCs and consoles. In addition, it offers the Xbox gaming console
+and related services.
+
+Activision Blizzard is a publicly listed company headquartered in Santa Monica, California, US. It is
+active as a developer and publisher of games for PCs, consoles, and mobile devices as well as a
+distributor of games for PCs.
+
+Cloud game streaming, while still nascent, represents a growing industry trend, with increasing
+availability of streaming platforms, also EU-based. Thanks to this technology, games can run in
+remote servers and do not need to be installed in the gamers' end devices. Therefore, cloud game
+streaming allows gamers to stream games and play them on any device of their choice, even on
+devices that would not normally support the game (e.g. PCs with an operating system other than
+Microsoft's Windows, Smart TVs, smartphones and tablets). Despite its potential, cloud game
+streaming still represents a very limited part of the overall market for the distribution of games
+today, accounting only for around 1% of the total worldwide market in 2022. To unleash its potential,
+cloud game streaming will require broader game catalogues and high-speed internet.
+
+Merger control and procedure
+
+The Commission has the duty to assess mergers and acquisitions involving companies with a
+turnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent
+concentrations that would significantly impede effective competition in the EEA or any substantial
+part of it.
+
+The vast majority of notified mergers do not pose competition problems and are cleared after a
+routine review. From the moment a transaction is notified, the Commission generally has 25 working
+days to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).
+
+There are currently seven Phase II merger investigations: (i) the proposed acquisition of OMV
+Slovenija by MOL; (ii) the proposed acquisition of eTraveli by Booking; (iii) the proposed acquisition
+of Lagardère by Vivendi,(iv) the proposed acquisition of VMware by Broadcom; (v) the proposed
+acquisition of Inmarsat by Viasat;  (vi) the proposed acquisition of Asiana by Korean Air; and (vii)
+
+[PÁGINA PDF 4]
+the proposed creation of a joint venture by Orange and MasMovil.
+
+More information will be available on the Commission's competition website, in the Commission's
+public case register under the case number M.10646.
+
+                                                                                                              IP/23/2705
+
+Quotes:
+
+
+ Video games attract billions of users all over the world. In such a fast-growing and dynamic industry, it is crucial to protect
+ competition and innovation. Our decision represents an important step in this direction, by bringing Activision’s popular games to
+ many more devices and consumers than before thanks to cloud game streaming. The commitments offered by Microsoft will
+ enable for the first time the streaming of such games in any cloud game streaming services, enhancing competition and
+ opportunities for growth.
+ Margrethe Vestager, Executive Vice-President in charge of competition policy - 15/05/2023
+
+
+
+ Press contacts:
+
+       Arianna PODESTA (+32 2 298 70 24)
+      Sara SIMONINI (+32 2 298 33 67)
+
+ General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email

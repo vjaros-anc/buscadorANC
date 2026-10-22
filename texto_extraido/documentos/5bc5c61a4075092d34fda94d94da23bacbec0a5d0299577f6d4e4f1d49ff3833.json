@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "5bc5c61a4075092d34fda94d94da23bacbec0a5d0299577f6d4e4f1d49ff3833",
+  "extraido_utc": "2026-10-22T19:28:06+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20221130093241+01'00'",
+    "modDate": "D:20221130093241+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10262_OTRO_02",
+      "caso": "M.10262",
+      "universo": "principal",
+      "titulo": "Trustee details — META (FORMERLY FACEBOOK) / KUSTOMER",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "NS",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202250/M_10262_8656545_3121_4.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202250/M_10262_8656545_3121_4.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10262/M.10262_OTRO_02_5bc5c61a4075.pdf",
+      "sha256": "5bc5c61a4075092d34fda94d94da23bacbec0a5d0299577f6d4e4f1d49ff3833",
+      "coincide_inventario": "",
+      "bytes": "91034",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202250/M_10262_8656545_3121_4.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "MONITORING TRUSTEE IN CASE M.10262 – META (FORMERLY FACEBOOK)\n                                                       / KUSTOMER\n\n\n On 10-02-2022 the Commission approved the appointment of:\n\n                  Evelyn Partners LLP (formerly Smith & Williamson LLP)\n                 45 Gresham Street\n                London EC2V 7BG\n                  United Kingdom\n\n                   Email: nasoul.gopal@evelyn.com ; michel.alexander@evelyn.com ;\n                   michal.lurka@evelyn.com\n\n\n\n as Monitoring Trustee in the above-mentioned case.\n\n\n\n The role of the Monitoring Trustee is to monitor the compliance of Meta (formerly Facebook)\n with the Commitments attached to the Commission's Decision of 27-01-2022 and to report to the\n Commission thereon.\n\n Third parties who have queries in relation to the Commitments may contact the Trustee through\n the above contact details.\n\n The  foregoing  is  without  prejudice  to  the  Commission's  jurisdiction  to  oversee  the\n implementation of the Commitments attached to its Decision.",
+      "caracteres": 1035,
+      "caracteres_utiles": 689,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

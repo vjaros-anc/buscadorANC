@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "c9313e7e213cc7656f1efa630751cd8391e39e6a216f090cfe72678fb01188f1",
+  "extraido_utc": "2026-10-22T19:28:06+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20210806123754+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10262_CP_APERTURA_01",
+      "caso": "M.10262",
+      "universo": "principal",
+      "titulo": "Comunicado de apertura de fase II — META (FORMERLY FACEBOOK) / KUSTOMER",
+      "tipo_documental": "CP_APERTURA",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_21_4021/IP_21_4021_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_21_4021",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10262/M.10262_CP_APERTURA_01_c9313e7e213c.pdf",
+      "sha256": "c9313e7e213cc7656f1efa630751cd8391e39e6a216f090cfe72678fb01188f1",
+      "coincide_inventario": "",
+      "bytes": "46404",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_21_4021/IP_21_4021_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:02+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission opens in-depth investigation into proposed\nacquisition of Kustomer by Facebook\n\nBrussels, 2 August 2021\n\nThe European Commission has opened an in-depth investigation to assess the proposed acquisition\nof Kustomer by Facebook under the EU Merger Regulation. The Commission is concerned that the\nproposed transaction would reduce competition in the market for the supply of Customer\nRelationship Management (CRM) software.\n\nThe Commission is also concerned that the proposed transaction would further strengthen Facebook's\nmarket position in the online display advertising market by increasing the already significant amount\nof data available to Facebook for personalisation of the ads it displays.\n\nExecutive Vice-President Margrethe Vestager, responsible for competition policy, said: “It is\nimportant to closely review potentially problematic acquisitions by companies that are already\ndominant in certain markets. This applies in particular to the digital sector, where Facebook enjoys a\nleading position in both online display advertising and in over-the-top messaging channels, such as\nWhatsApp, Messenger or Instagram. Our investigation aims to ensure that the transaction will not\nharm businesses or consumers, and that any data that Facebook gets access to does not distort\ncompetition.”\n\nFacebook is a social network, messaging service, and online ads service provider. Facebook's\nmessaging channels include WhatsApp, Messenger and Instagram. Kustomer is a CRM software\nprovider offering businesses to manage communications with consumers across different channels\n(by phone, email, SMS, WhatsApp, Messenger or Instagram etc.) in a single tool.\n\nThe Commission's preliminary competition concerns\n\nFollowing its preliminary investigation, the Commission has concerns about the impact of the\ntransaction:\n\na) On a broader market for the supply of CRM software and a narrower market for the supply of\ncustomer service and support CRM software.\n\nIn particular, the Commission is concerned that, as a result of its combination with Kustomer,\nFacebook may foreclose access to its business-to-consumer (“B2C”) over-the-top (“OTT”) messaging\nchannels, namely WhatsApp, Messenger or Instagram. These channels account for a large portion of\nthe B2C OTT messaging market, which is an important input for the supply of CRM software services.\nThe preliminary investigation suggests that Facebook may have the ability, as well as a potential\neconomic incentive, to engage in foreclosure strategies vis-à-vis Kustomer's rivals, such as\npreventing these companies from using Facebook's messaging channels or degrading access to these\nchannels. Such foreclosure strategies could reduce competition in the market for the supply of CRM\nsoftware and the market for the supply of customer service and support CRM software, leading to\nhigher prices, lower quality and less innovation for business customers, which may in turn be passed\non to consumers.\n\nb) On the markets for the supply of online display advertising services, or segments thereof,\nwhere the Commission, at this stage of the investigation, considers that Facebook may hold a\ndominant market position in several Member States.\n\nBy acquiring Kustomer, Facebook could more easily obtain data from businesses making use of\nKustomer's CRM software, including (i) “customer transaction data” which includes customer data\nsuch as on gender, order and purchase history, and (ii) “other event data”, such as customer's\nwebsite views, adds to wishlist and store visits. The data that businesses store in Kustomer's CRM\nsoftware and which they may share with Facebook appears to provide an important advantage in the\nonline display advertising market. By increasing the data advantage of Facebook in its ability to\nbetter personalise and target the ads it provides, it would be more difficult for rivals to match\nFacebook's online advertising services. Thus, the transaction would raise barriers to entry and\nexpansion for Facebook's competitors for these services, to the ultimate detriment of advertisers and",
+      "caracteres": 4129,
+      "caracteres_utiles": 3390,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "publishers that would face higher prices and have less choice. The Commission will now carry out an\nin-depth investigation into the effects of the transaction to determine whether its initial competition\nconcerns are confirmed.\n\nThe Commission closely cooperated with competition authorities around the world during the initial\ninvestigation, and will continue such cooperation during the in-depth investigation. The Commission\nis also in close contact with the competition authorities of the Member States.\n\nThe proposed transaction was notified to the Commission on 25 June 2021. The Commission now has\n90 working days, until 8 December* 2021, to take a decision. The opening of an in-depth inquiry\ndoes not prejudge the final result of the investigation.\n\nReferral request\n\nThe proposed transaction did not meet the turnover thresholds of the EU Merger Regulation.\nHowever, the transaction was required to be notified to Austria for regulatory clearance. Following\nsuch notification, on 2 April 2021, Austria submitted a referral request to the Commission pursuant\nto Article 22(1) of the EU Merger Regulation. On 12 May 2021, the Commission accepted the request\nfrom Austria, which was joined by Belgium, Bulgaria, France, Iceland, Ireland, Italy, the\nNetherlands, Portugal and Romania. Following this acceptance, the referring Member States will not\napply their own national legislation on competition to the transaction. The Commission will assess\nthe impact of the acquisition of Kustomer by Facebook within the territory of these Member States\nunder the EU Merger Regulation.\n\nCompanies and products\n\nFacebook is a US based multinational company which provides various websites and applications for\nmobile devices offering social networking, consumer communications and photo and video-sharing\nfunctionalities. These include Facebook, Messenger, Instagram and WhatsApp. Facebook offers most\nof its services at no cost to users. Facebook's primary revenue-generating activity is offering ads\nspace and related services to third parties, which currently accounts for the vast majority of its\nannual revenues globally.\n\nKustomer is a US based company that offers a Software as a Service (“SaaS”) CRM software\nspecialising in customer service. Kustomer displays all interactions that a consumer has had with the\nbusiness in a single timeline view, including the consumer's purchase history, refunds, complaints\nand all other communications. Kustomer's CRM software integrates with a wide range of B2C\ncommunication channels and supports agent communications with consumers through\ncommunication channels including phone, email, webchat, SMS, Messenger, WhatsApp, Instagram\nand Twitter.\n\nMerger control and procedure\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nIn addition to the current transaction, there are currently five on-going Phase II merger\ninvestigations: the proposed merger between Cargotech and Konecranes, the proposed acquisition\nof Air Europa by IAG, the proposed acquisition of Trimo by Kingspan Group and the proposed\nacquisition of DSME by HHiH and the proposed acquisition of Grail by Illumina.\n\nMore information will be available on the Commission's competition website, in the Commission's\npublic case register under the case number M.10262.\n\n*Modified on 6 August, at 12:35.\n\n                                                                                                              IP/21/4021\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n         Giulia ASTUTI (+32 2 295 53 44)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 4152,
+      "caracteres_utiles": 3308,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

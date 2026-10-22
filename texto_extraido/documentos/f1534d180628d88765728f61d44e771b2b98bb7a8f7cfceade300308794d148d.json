@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "f1534d180628d88765728f61d44e771b2b98bb7a8f7cfceade300308794d148d",
+  "extraido_utc": "2026-10-22T19:28:52+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10507_OTRO_01",
+      "caso": "M.10507",
+      "universo": "principal",
+      "titulo": "Trustee details — HITACHI RAIL / GROUND TRANSPORTATION SYSTEMS BUSINESS OF THALES",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202349/M_10507_9613901_5302_5.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202349/M_10507_9613901_5302_5.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10507/M.10507_OTRO_01_f1534d180628.pdf",
+      "sha256": "f1534d180628d88765728f61d44e771b2b98bb7a8f7cfceade300308794d148d",
+      "coincide_inventario": "",
+      "bytes": "3911",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202349/M_10507_9613901_5302_5.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "  MONITORING TRUSTEE IN CASE M.10507 – HITACHI RAIL / GROUND\n        TRANSPORTATION SYSTEMS BUSINEES OF THALES\n\n\nOn 6 November 2023 the Commission approved the appointment of:\n\n                 Monitoring Trustee Partners B.V.\n                Koninginneweg 215\n               1075 CS Amsterdam\n               The Netherlands\n\n                  Contact: Jan Jaap Snel\n                  janjaapsnel@mtp.international\n\nas Monitoring Trustee in the above-mentioned case.\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of Hitachi Rail Ltd. with\nthe Commitments attached to the Commission's Decision of 30 October 2023 and to\nreport to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 939,
+      "caracteres_utiles": 683,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

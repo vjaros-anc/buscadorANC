@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "1ea95348e6402dd6bea124cba554e3790c30b974341b1103db137ac147b833d0",
+  "extraido_utc": "2026-10-22T19:34:24+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10663_OTRO_01",
+      "caso": "M.10663",
+      "universo": "principal",
+      "titulo": "Trustee details — ORANGE / VOO / BRUTELE",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202323/M_10663_9215500_2197_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202323/M_10663_9215500_2197_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10663/M.10663_OTRO_01_1ea95348e640.pdf",
+      "sha256": "1ea95348e6402dd6bea124cba554e3790c30b974341b1103db137ac147b833d0",
+      "coincide_inventario": "",
+      "bytes": "74983",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202323/M_10663_9215500_2197_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 MONITORING TRUSTEE\n\n                             IN CASE\n                 M.10663 – ORANGE / VOO / BRUTÉLÉ\n\n\nOn 8 May 2023, the Commission approved the appointment of:\n\n                 Advolis Orfis SAS\n                  38, Avenue de l’Opéra\n               75002 Paris\n                 France\n\nContact:\nAntoni VASSILEFF, e-mail: Avassileff@advolis-orfis.com\n\nas Monitoring Trustee in the above-mentioned case.\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of Orange S.A. with the\nCommitments attached to the Commission's Decision of 20 March 2023 and to report to\nthe Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 893,
+      "caracteres_utiles": 614,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "d378a24b78d558f7240a71389bb024aa64725ac3f0fd64172c41ec583dcf1271",
+  "extraido_utc": "2026-10-22T19:34:25+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 17 for Word",
+    "producer": "Adobe PDF Library 17.11.238",
+    "creationDate": "D:20220613171534+02'00'",
+    "modDate": "D:20220613171538+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10687_NOT_PREVIA_01",
+      "caso": "M.10687",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — D’IETEREN / PHE",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202225/M_10687_8362936_341_4.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202225/M_10687_8362936_341_4.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10687/M.10687_NOT_PREVIA_01_d378a24b78d5.pdf",
+      "sha256": "d378a24b78d558f7240a71389bb024aa64725ac3f0fd64172c41ec583dcf1271",
+      "coincide_inventario": "",
+      "bytes": "148559",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202225/M_10687_8362936_341_4.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.10687-D’IETEREN / PHE\n\n                         SECTION 1.2\n\n                           Description of the concentration\n\nOn June 13th, 2022, the European Commission received a  notification of a proposed\nconcentration pursuant to Article 4 of the Merger Regulation by which the D’Ieteren Group\n(“DIG”) intends to acquire sole control, within the meaning of Article 3(1)(b) of the Merger\nRegulation, of Parts Holding Europe (“PHE”) by acquisition of shares.\n\nDIG, through its portfolio companies, is active in various sectors, in particular (i) import,\ndistribution and retail of Volkswagen group vehicles and spare parts (Volkswagen, Audi,\nSeat, Skoda, Bentley, Lamborghini, Porsche and Bugatti) in Belgium (D’Ieteren Automotive)\nand   (ii)  vehicle  glass  repair  and  replacement  services  in  various  member  States\n(Belron/Carglass).\n\nPHE is a company incorporated in France and mainly active in spare parts distribution for\nlight and heavy vehicles operating in the independent aftermarket (“IAM”) in several EU\nMember States. In France, in addition to the distribution of spare parts, PHE provides vehicle\nglass  repair and  replacement  services.  In Belgium, PHE  distributes  spare  parts and\nparticipates in the development of multi-brand and independent repair garages.\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 1983,
+      "caracteres_utiles": 1539,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

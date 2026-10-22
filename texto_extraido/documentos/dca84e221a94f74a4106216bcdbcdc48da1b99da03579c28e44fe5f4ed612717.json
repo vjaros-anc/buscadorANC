@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "dca84e221a94f74a4106216bcdbcdc48da1b99da03579c28e44fe5f4ed612717",
+  "extraido_utc": "2026-10-22T19:28:06+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10262_DICT_02",
+      "caso": "M.10262",
+      "universo": "principal",
+      "titulo": "Dictamen del Comité Consultivo — META (FORMERLY FACEBOOK) / KUSTOMER",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202242/M_10262_8560722_3056_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202242/M_10262_8560722_3056_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10262/M.10262_DICT_02_dca84e221a94.pdf",
+      "sha256": "dca84e221a94f74a4106216bcdbcdc48da1b99da03579c28e44fe5f4ed612717",
+      "coincide_inventario": "",
+      "bytes": "204836",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202242/M_10262_8560722_3056_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:00+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "          EUROPEAN COMMISSION\n                 COMPETITION DG\n\n                        Directorate R\n                  Unit R.2 COMP-MEETINGS\n\n\n                  OPINION\n\n                       of the ADVISORY COMMITTEE on MERGERS\n\n                               at its meeting on 14 JANUARY 2022\n   CONCERNING A DECISION IN CASE M.10262 – META (FORMERLY FACEBOOK) / KUSTOMER\n\n             MEETING BY AUDIO CONFERENCE – via “Skype for Business”\n\n                           Rapporteur: Spain\n\nConcentration\n\n1.    The Advisory Committee (16 Member States) agrees with the Commission that the notified\n        transaction constitutes a concentration within the meaning of Article 3(1)(b) of the Council\n       Regulation (EC) No 139/2004 of 20.1.2004 on the control of concentrations between\n       undertakings (the \"Merger Regulation\")1.\n\nMarket definition\n\nProduct market definition\n2.    The Advisory Committee agrees with the conclusions reached by the Commission in the draft\n       Decision in relation to the definition of the following relevant product markets for:\n\n            a) The supply of CRM software (16 Member States agree);\n\n           b) The supply of B2C communication services (16 Member States agree);\n\n            c) The supply of online display advertising (15 Member States agree. 1 Member State\n                abstains).\n\nGeographic market definition\n3.    The Advisory Committee agrees with the conclusions reached by the Commission in the draft\n       Decision in relation to the definition of the relevant geographic market for the following\n       product markets for:\n\n            a) The supply of CRM software (i.e. at least EEA-wide, if not worldwide) (16 Member\n               States agree);\n\n\n1      OJ L 24, 29.1.2004, p. 1.",
+      "caracteres": 1761,
+      "caracteres_utiles": 1146,
+      "cobertura_imagen_maxima": 0.007,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "AdCom M.10262 dated of 14/01/2022                                                                            2\n\n           b) The supply of B2C communication services (i.e. at least EEA-wide, if not worldwide)\n              (16 Member States agree);\n\n            c) The supply of online display advertising (i.e. either national or following linguistic\n              borders within the EEA) (15 Member States agree. 1 Member State abstains).\n\nCompetitive assessment\n\n4.    The Advisory Committee (16 Member States) agrees with the Commission’s assessment that\n       the notified transaction would likely (and even with strong probability) significantly impede\n        effective competition, as a result of vertical non-coordinated effects arising from the targeted\n       input foreclosure of providers of CRM software caused by restriction or degradation of their\n       access to Meta (formerly Facebook)’s B2C communication channels.\n\n5.    The Advisory Committee  agrees with  the Commission’s assessment  that  the  notified\n        transaction is unlikely to significantly impede effective competition, as a result of horizontal\n       non-coordinated effects arising from the combination of Meta’s and Kustomer’s databases\n      and data collection capabilities for use in the supply of online display advertising (i.e. by\n       strengthening Meta (formerly Facebook)’s market  position). 14 Member  States  agree.\n      2 Member States abstain.\n\n6.    The Advisory Committee  agrees with  the Commission’s assessment  that  the  notified\n        transaction  is  unlikely  to  significantly impede  effective  competition,  as  a  result  of\n       conglomerate effects arising from any bundling of online display advertising and CRM\n       software by the merged entity. 14 Member States agree. 2 Member States abstain.\n\nCommitments\n\n7.    The Advisory Committee agrees with the Commission’s conclusion that the API Access\n      Commitment as offered by the Notifying Party on 20 December 2021 removes concerns as to\n       the input foreclosure of providers of CRM software caused by restriction or degradation of\n        their access to the Meta (formerly Facebook)’s B2C communication channels. 14 Member\n        States agree. 2 Member States abstain.\n\n8.    The Advisory Committee agrees with the Commission that, subject to the full compliance\n       with the final commitments offered by the Notifying Party on 20 December 2021, the notified\n        transaction is not likely to significantly impede effective competition in the internal market or\n        in a substantial part of it. 13 Member States agree. 3 Member States abstain.\n\nCompatibility with the internal market and the Agreement on the European Economic Area\n\n9.    The Advisory Committee agrees with the Commission that the notified concentration must\n        therefore be declared compatible with the internal market and the Agreement on the European\n      Economic Area2 in accordance with Article 2(2) and Article 8(2) of the Merger Regulation\n      and Article 57 of the Agreement on the European Economic Area. 13 Member States agree.\n      3 Member States abstain.\n\n                                       ***\n\n\n2      OJ L 1, 3.1.1994, p.3.",
+      "caracteres": 3227,
+      "caracteres_utiles": 2330,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

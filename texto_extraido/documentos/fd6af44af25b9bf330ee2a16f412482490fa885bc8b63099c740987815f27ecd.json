@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "fd6af44af25b9bf330ee2a16f412482490fa885bc8b63099c740987815f27ecd",
+  "extraido_utc": "2026-10-22T19:28:40+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10433_DICT_02",
+      "caso": "M.10433",
+      "universo": "principal",
+      "titulo": "Informe final del Consejero Auditor — VIVENDI / LAGARDERE",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "FR",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202448/M_10433_10400907_13037_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202448/M_10433_10400907_13037_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10433/M.10433_DICT_02_fd6af44af25b.pdf",
+      "sha256": "fd6af44af25b9bf330ee2a16f412482490fa885bc8b63099c740987815f27ecd",
+      "coincide_inventario": "",
+      "bytes": "134276",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202448/M_10433_10400907_13037_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                COMMISSION EUROPENNE\n\n\n                                    Conseillère auditrice dans certaines procédures de concurrence\n\n                                                    Bruxelles, 30 mai 2023\n\n          Rapport final de la conseillère-auditrice1\n\n            Affaire M.10433 – Vivendi / Lagardère\n\n1.  Le 24 octobre 2022, la Commission européenne a reçu notification, conformément à\n      l’article 4 du règlement (CE) No 139/20042 (« le règlement sur les concentrations »),\n    d’un projet de concentration par lequel Vivendi S.E., contrôlé par le groupe Bolloré\n    (ensemble « Vivendi » ou la « Partie Notifiante ») acquiert, au sens de l’article 3,\n    paragraphe 1, point b), du règlement sur les concentrations, le contrôle exclusif de\n    Lagardère S.A.  (« Lagardère ») (ensemble,  les « Parties »),  par  achat  d’actions\n     (l’« Opération »).\n\n2.   Par décision du 30 novembre 2022, la Commission a soulevé des doutes sérieux quant\n    à la compatibilité de l’Opération avec le marché intérieur et l’Accord EEE3 et a\n     décidé d’ouvrir la procédure prévue à l’article 6, paragraphe 1, point c), du règlement\n     sur les concentrations.\n\n3.  Le 11 décembre 2022, la Partie Notifiante a soumis des observations écrites à la\n     décision de la Commission du 30 novembre 2022.\n\n4.  Le 15 décembre 2022, la Partie Notifiante a formellement soumis des engagements\n    conformément à l’article 8, paragraphe 2 du règlement sur les concentrations (les\n    « Engagements Initiaux »).\n\n5.  La Partie Notifiante a formulé, le 19 décembre 2022, une demande de prolongation\n    du délai d’examen de la phase II de 20 jours ouvrables. Le 20 décembre 2022, la\n    Commission a accédé à cette demande.\n\n6.  Le 14 février 2023, la Partie Notifiante a soumis des engagements modifiant les\n    Engagements Initiaux. Ces engagements n’ont toutefois pas été considérés suffisants\n    pour répondre aux préoccupations de la Commission.\n\n7.  Le 22 février 2023, la Commission a adopté une communication des griefs adressée à\n     la Partie Notifiante, qui a été formellement notifiée aux Parties le même jour. Les\n     Parties  se  sont vues  accorder  initialement comme  délai, pour  présenter  leurs\n     observations à la communication des griefs, jusqu’au 8 mars 2023.\n\n1   Conformément aux articles 16 et 17 de la Décision 2011/695/UE du Président de la Commission\n    européenne du 13 octobre 2011 relative à la fonction et au mandat du conseiller-auditeur dans certaines\n    procédures de concurrence, JO L 275, 20.10.2011, p. 29 (« Décision 2011/695/UE »).\n2   Règlement (CE) No 139/2004 du Conseil du 20 janvier 2004 relatif au contrôle des concentrations entre\n     entreprises, JO L 24, 29.1.2004, p. 1–22.\n3   Accord sur l'Espace économique européen, JO L 1, 3.1.1994, p. 3–522.",
+      "caracteres": 2806,
+      "caracteres_utiles": 2007,
+      "cobertura_imagen_maxima": 0.0114,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "8.   Les 23 février, 25 avril et 25 mai 2023, la Commission a donné accès au dossier à la\n     Partie Notifiante. Je n'ai reçu aucune plainte ou demande de la part des Parties\n     concernant l'accès au dossier.\n\n9.  Le 1er mars 2023, la Partie Notifiante a demandé une extension de huit jours ouvrés\n    de son délai de réponse à la communication des griefs, soit jusqu’au 20 mars 2023.\n\n10. Le 7 mars 2023, la Commission a invité les Parties à présenter leurs observations sur\n     la communication des griefs avant le 15 mars 2023.\n\n11.  Les Parties ont présenté leurs observations sur  la communication des  griefs  le\n    15 mars 2023. Les Parties n’ont pas demandé à être entendues dans le cadre d’une\n     audition conformément à l’article 14 du règlement (CE) No 802/2004 concernant de\n    mise en œuvre du règlement sur les concentrations.4\n\n12.  Entre le 21 décembre 2022 et le 10 mars 2023, les conseillers-auditeurs ont admis\n     vingt-quatre entités (représentants du personnel, concurrents, fournisseurs, et clients\n    des Parties, organisations syndicales) en tant que tiers intéressés dans la présente\n      affaire.  Les  tiers  intéressés  ont  reçu  une  version  non  confidentielle  de  la\n    communication des griefs et un délai pour présenter leurs observations. Vingt tiers\n     intéressés ont présenté des observations.\n\n13.  Les 5 et 12 avril 2023, la Partie Notifiante a de nouveau formellement soumis des\n    engagements conformément  à  l’article  8,  paragraphe 2 du  règlement  sur  les\n     concentrations en vue de rendre l'Opération compatible avec le marché intérieur et\n    l’Accord  EEE.  Les  engagements  proposés  concernent  les  deux  secteurs  de\n     préoccupation, à savoir les marchés liés à l'édition ainsi que le marché du lectorat de\n     la presse magazine « people ». La Commission a lancé des tests de marché respectifs\n    à ces deux séries d’engagements.\n\n14. Le 28 avril 2023, après avoir été informée des réponses aux tests de marché des\n    engagements, la Partie Notifiante a soumis une version améliorée des engagements\n    proposés (les « Engagements Finaux »).\n\n15. Le projet de décision déclare l’Opération compatible avec le marché intérieur et\n    l’Accord EEE, sous réserve du respect intégral des Engagements Finaux.\n\n16.  J'ai examiné le projet de décision conformément à l'article 16, paragraphe 1, de la\n    Décision 2011/695/UE et j'en conclus qu'il ne traite que des griefs à l'égard desquels\n     les parties ont eu la possibilité de faire connaître leur point de vue.\n\n   Au vu de ce qui précède, je considère que l'exercice effectif des droits procéduraux\n    des parties a été respecté en l'espèce.\n\n                                                    Dorothe DALHEIMER\n                                                              Conseillère-auditrice\n\n\n\n\n4   Règlement (CE) No 802/2004 de la Commission du 21 avril 2004 concernant la mise en œuvre du\n    règlement (CE) n° 139/2004 du Conseil  relatif au contrôle des concentrations entre  entreprises,\n   JO L 133, 30.4.2004, p. 1–39.\n\n                                                          2",
+      "caracteres": 3127,
+      "caracteres_utiles": 2237,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,95 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "d2431d9a14fc014e2cc3878124bde07be7212be1e6434b59137ba2b7a4db169e",
+  "extraido_utc": "2026-10-22T19:28:40+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10433_DICT_01",
+      "caso": "M.10433",
+      "universo": "principal",
+      "titulo": "Dictamen del Comité Consultivo — VIVENDI / LAGARDERE",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202329/M_10433_9302704_12360_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202329/M_10433_9302704_12360_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10433/M.10433_DICT_01_d2431d9a14fc.pdf",
+      "sha256": "d2431d9a14fc014e2cc3878124bde07be7212be1e6434b59137ba2b7a4db169e",
+      "coincide_inventario": "",
+      "bytes": "111898",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202329/M_10433_9302704_12360_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "               EUROPEAN COMMISSION\n                        DIRECTORATE-GENERAL FOR COMPETITION\n\n\n\n                   OPINION\n\n                   of the ADVISORY COMMITTEE on MERGERS\n                    at its meeting on 24 May 2023 – 10:00-12:00\n\n                         concerning a draft decision\n\n                   in case M.10433 - VIVENDI / LAGARDERE\n\n\n                         RAPPORTEUR: BELGIUM\n\n\n\nOperation\n\n1. The Advisory Committee (9 Member States) agrees with the Commission that\n   the  notified  operation  constitutes a  concentration  within  the meaning  of\n    Article 3(1)(b) of the Council Regulation No 139/2004 (the \"Merger Regulation\").\n\n\nUnion Dimension\n\n2. The Advisory Committee (9 Member States) agrees with the Commission that\n   the notified operation has a Union dimension pursuant to Article 1(2) of the\n   Merger Regulation.\n\n\nProduct Market\n\n3. The Advisory Committee (9 Member States) agrees with the Commission’s\n    definitions of the relevant product markets as stated in the draft decision for the\n   purpose of assessing the present operation, in particular:\n\n       a. The market for the acquisition of French-language primary publishing\n           rights for general literature and youth literature;\n       b. The market for the acquisition of French-language secondary publishing\n           rights for general literature;\n\n        c. The markets for the marketing of books for third party editors and its\n          relevant segmentations and the market for the distribution of books for\n            third party editors;\n\n       d. The  markets  for  the  sale  of books  to  retailers and  its  relevant\n         segmentations;\n\n       e. The market for press celebrities’ magazines.",
+      "caracteres": 1728,
+      "caracteres_utiles": 1157,
+      "cobertura_imagen_maxima": 0.0114,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "AdCom M.10433 - VIVENDI / LAGARDERE                                                                      2\nGeographic Market\n\n4. The Advisory Committee (9 Member States) agrees with the Commission’s\n    definitions of the relevant geographic markets as stated in the draft decision, in\n    particular:\n\n       a. The market for the acquisition of French-language primary publishing\n           rights is worldwide in scope;\n       b. The market for the acquisition of French-language secondary publishing\n           rights is worldwide in scope;\n        c. The geographic markets for the marketing and distribution of books for\n            third party editors correspond to an area covering the French-speaking\n          region  of  the  European  Union,  including  France,  Belgium  and\n        Luxembourg;\n       d. The geographic markets for the sale of books to retailers correspond to\n        an area covering the French-speaking region of the European Union,\n          including France, Belgium and Luxembourg (except school books which\n         are national in scope);\n       e. Market for celebrities’ magazines is national in scope.\n\n\nCompetitive Assessment\n\nHorizontal non-coordinated effects\n\n5. The Advisory Committee (9 Member States) agrees with the Commission's\n   assessment on horizontal non-coordinated effects, namely that the Transaction\n    will significantly impede effective competition in:\n\n       a. The markets for the acquisition of French-language primary publishing\n           rights worldwide;\n       b. The market for the acquisition of French-language secondary publishing\n           rights worldwide;\n        c. The markets for the marketing of books for third party editors and its\n          relevant segmentations and the market for the distribution of books for\n            third party editors in the French-speaking region of the European Union,\n          including France, Belgium and Luxembourg;\n       d. The markets  for the sale of general  literature books, pocket books,\n           practical books, youth  literature, school books,  after school books,\n           dictionaries to retailers in the French-speaking region of the European\n         Union, including France, Belgium and Luxembourg;\n       e. The market for press celebrities’ magazines in France.",
+      "caracteres": 2302,
+      "caracteres_utiles": 1618,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 3,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "AdCom M.10433 - VIVENDI / LAGARDERE                                                                      3\nCommitments\n\n6. The Advisory Committee (9 Member States) agrees with the Commission that\n   the publishing Commitments do eliminate the significant impediment to effective\n   competition in  (i) the markets for acquisition of French-language primary and\n   secondary  publishing  rights  worldwide,   (ii)  the markets  of marketing and\n    distribution of books for third party editors in the French-speaking region of the\n   European Union, including France, Belgium and Luxembourg and,  (iii) the\n   markets of sale of books to retailers in the French-speaking region of the\n   European Union, including France, Belgium and Luxembourg.\n\n7. The Advisory Committee (9 Member States) agrees with the Commission that\n   the press Commitments do eliminate the significant impediment to effective\n   competition in the market for celebrities’ magazines in France.\n\n\nCompatibility with the internal market\n\n8. The Advisory Committee (9 Member States) agrees with the Commission's view\n    that the notified concentration should be declared compatible with the internal\n   market and  the  functioning  of  the EEA Agreement,  in accordance  with\n    Articles 2(2) and Article 8(2) of the Merger Regulation and Article 57 of the EEA\n   Agreement.",
+      "caracteres": 1348,
+      "caracteres_utiles": 1001,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

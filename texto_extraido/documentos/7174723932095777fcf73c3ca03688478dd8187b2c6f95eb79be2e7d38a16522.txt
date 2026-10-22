@@ -1,0 +1,299 @@
+[PÁGINA PDF 1]
+               EUROPEAN COMMISSION
+
+
+
+                                 Hearing Officer for competition proceedings
+
+                                                                   Brussels, 30 June 2023
+
+
+             Final Report of the Hearing Officer 1
+
+                     (Text with EEA relevance)
+
+        Case M.10806 – BROADCOM / VMWARE
+
+
+1.  INTRODUCTION
+
+1.  On 15 November 2022, the Commission received a notification of a proposed
+     concentration with Union dimension pursuant to Article 4 of the Merger Regulation2
+    by which Broadcom, Inc.3 (‘Broadcom’ or ‘Notifying Party’) intends to acquire,
+     within the meaning of Article 3(1)(b) of the Merger Regulation, sole control over
+    VMware, Inc.4 (‘VMware’ and together with Broadcom the ‘Parties’) (the ‘Proposed
+     Transaction’).
+
+2.  PROCEDURE
+
+     2.1.    Article 6(1) decision
+
+2.  On 20 December 2022, the Commission adopted a decision to initiate proceedings
+     pursuant to Article 6(1)(c) of the Merger Regulation (the ‘Article 6(1)(c) Decision’),
+     as the Phase I investigation raised serious doubts as to the compatibility of the
+    Proposed Transaction with the internal market. It further provided key documents to
+     the Notifying Party on 21 December 2022.
+
+3.  On 13 January 2023, the Notifying Party submitted its response to the Article 6(1)(c)
+     Decision.
+
+
+
+
+
+1   Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission
+    of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition
+    proceedings, OJ L 275, 20.10.2011, p. 29 (‘Decision 2011/695/EU’ or ‘Hearing Officer Terms of
+    Reference’).
+
+2   Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between
+    undertakings (the EC Merger Regulation), OJ L 24, 29.1.2004, p. 1 (the ‘Merger Regulation’).
+
+3   Broadcom is a global hardware company, which supplies, among other things, Network Interface Cards
+    (‘NICs’), Fiber Channel Host-Bus Adapters (‘FC HBAs’) and storage adapters and which expanded into
+    software markets, mainly for security and mainframe applications.
+
+4  VMware is a global virtualization software company, which supplies, among other things, server
+     virtualization software in the on-premises and private cloud environment that interoperates with a wide
+    range of hardware, including NICs, FC HBAs and storage adapters.
+
+[PÁGINA PDF 2]
+Final Report in M.10806 – Broadcom/VMware
+
+     2.2.    First extension of the time limit
+
+4.  On 12 January 2023, the Commission adopted two decisions pursuant to Article 11(3)
+     of the Merger Regulation requiring each of the Parties respectively to supply
+     information that had been the object of a previous request for information, by 23
+    January 2023.5 The applicable time limit referred to in Article 10(3) of the Merger
+     Regulation was suspended6 as of 24 January 2023 until 15 February 2023.
+
+     2.3.   Second extension of the time limit
+
+5.  On 13 March 2023, upon agreement with the Notifying  Party, the Phase  II
+     investigation period was extended by 10 working days pursuant to Article 10(3),
+    second subparagraph, of the Merger Regulation.
+
+     2.4.   Statement of Objections
+
+6.  On 12 April 2023, the Commission adopted a statement of objections (the ‘SO’),
+    which was formally notified to the Notifying Party on 13 April 2023, after an advance
+    copy was sent on 12 April 2023.
+
+7.  The Parties’ deadline to submit their observations was 26 April 2023.
+
+     2.5.   Access to file following the SO
+
+8.  The Notifying Party was given access to the file on 13 April 2023 by means of an
+     encrypted ‘.zip’ folder sent by email (the ‘Initial Access to File’).
+
+9.  By letter of 20 April 2023 to the Hearing Officer, Broadcom submitted a request for
+     further access to the file pursuant to Article 7 of Decision 2011/695/EU (the ‘First
+     Article 7 Request’). Broadcom asked in particular that its external advisors be allowed
+     access, at least via a clean team, or any other restricted access procedure, to: (i) a
+    number of documents to which Broadcom was not granted access at all; (ii) certain
+     redacted parts of documents already provided to Broadcom during the Initial Access
+     to File; (iii) responses to multiple-choice questionnaires sent to third parties in the
+     context of the market investigation.
+
+10. DG Competition, at my request, followed up on the requests of Broadcom and, on 25
+     April 2023, granted access to Broadcom’s external counsel to the evidence mentioned
+    under (i) and (ii) above via a Data Room.7 DG Competition also followed up on the
+     request under point  (iii), providing further clarification on the responses to the
+     multiple-choice questionnaires.
+
+
+
+
+
+5   Requests for information sent to the Parties on 22 December.
+
+6  On 23 January 2023 the Parties submitted the information required. However, on 27 January Broadcom
+    sent a revised LPP log and an additional batch of documents. In light of this additional submission the
+    Commission, by email to Broadcom, decided to suspend the time limit retroactively as of 24 January
+    2023.
+
+7   Documents were uploaded, subject to the data provider’s consent, in the Data Room on separate dates
+    (namely 25, 26 April and 28 April 2023 and 2 and 3 May 2023). Access to the Data Room was initially
+    granted until 28 April 2023. On 28 April 2023 the Data Room access was extended until 3 May 2023.
+
+                                                     2
+
+[PÁGINA PDF 3]
+Final Report in M.10806 – Broadcom/VMware
+
+     2.6.   Reply to the SO
+
+11. On 26 April 2023, the Notifying Party submitted its reply to the SO (the ‘Reply to the
+    SO’) by the deadline set by DG Competition. In the Reply to the SO, the Notifying
+     Party requested a formal oral hearing to be held.
+
+     2.7.   Interested third persons
+
+12.  During the course of the proceedings, I admitted two undertakings as interested third
+     persons pursuant to Article 5 of Decision 2011/695/EU. The interested third persons
+    were given a non-confidential version of the SO.
+
+13. One of the undertakings expressed an interest in participating in a potential oral
+     hearing and was formally invited to the Oral Hearing on 28 April 2023, pursuant to
+     Article  6(2) of Decision 2011/695/EU. However, on 3 May 2023  the same
+     undertaking withdrew  its request to participate in the Oral Hearing. The other
+     undertaking expressed its interest in participating in the Oral Hearing, but I rejected
+      its request mainly due to its lateness.8
+
+3.  ORAL HEARING AND PROCEDURE FOLLOWING THE ORAL HEARING
+
+14. A formal oral hearing took place on 5 May 2023 (the ‘Oral Hearing’).
+
+15.  Delegates representing the Parties, the Commission and the competent authority of a
+    Member State were present in the room. Additional representatives of the Parties, the
+    competent authorities of Member States and the Commission participated remotely.
+
+     3.1.   Access to file following the Oral Hearing
+
+16.  Following the Oral Hearing, on the evening of 8 May 2023, Broadcom’s legal counsel
+     sent an additional and supplementary Article 7 Request (the ‘Second Article 7
+     Request’). In the Second Article 7 Request Broadcom asked to have further access to:
+      (i) the non-confidential version of the Data Room Report claiming that the non-
+     confidential version of the Report had been excessively redacted; (ii) a number of
+     replies to one of the market test questionnaires9 sent to third parties in the context of
+     the market investigation; and (iii) copies of all drafts of the call minutes exchanged
+    between the Commission and third parties, claiming that the ‘agreed minutes’ of the
+     calls with third parties included in the Commission’s file do not constitute accurate
+     records of the third party’s statements and that the Commission’s file should, in
+     principle, include recordings and/or verbatim transcripts of these calls.
+
+17.  In light of the above, I considered that the substance of the First Article 7 Request had
+    been partially fulfilled by DG Competition (see paragraph 10 above) and partially
+     replaced by the Second Article 7 Request and I informed Broadcom accordingly on
+    25 May 2023.
+
+
+
+
+
+8   The request to attend the Oral Hearing was made on 2 May 2023, at a stage where the agenda for the
+    Oral Hearing was practically final and there was little scope to accommodate additional participants.
+
+9   Questionnaire 4 of the Phase I investigation.
+
+                                                     3
+
+[PÁGINA PDF 4]
+Final Report in M.10806 – Broadcom/VMware
+
+18.  Concerning the Second Article 7 Request, on 23 June I adopted a decision under
+     Article 7 of the Hearing Officer Terms of Reference rejecting the Second Article 7
+     Request. I informed Broadcom accordingly on 24 June 2023.
+
+19. As outlined at paragraph 16 above, in the Second Article 7 Request, Broadcom
+     stressed that the Commission’s file did not contain ‘verbatim transcripts’ and/or
+     recordings of the Commission’s calls with the market participants, but exclusively
+    agreed minutes of the calls. Broadcom claimed that these agreed minutes do not
+     constitute accurate records of the third party’s actual statements, and as regards a
+    number of calls, requested access to copies of all drafts of the minutes exchanged
+    between the Commission and third parties.
+
+20. The Court of Justice of the European Union (‘CJEU’) has interpreted Article 19(1) of
+     Regulation 1/200310 and Article 3 of Regulation 773/200411 in a series of judgments12
+     clarifying the scope of the Commission’s duty to record statements made during
+     interviews intended to gather information for the purposes of an investigation.
+    Broadcom’s request went beyond the requirements placed on the Commission by this
+     case law, which does not apply directly to proceedings conducted under the Merger
+     Regulation.13
+
+21.  There is no basis, in my view, to require ‘verbatim transcripts’ or integral audio
+     recordings of interviews or telephone calls in merger proceedings. I see no reason
+   why more stringent recording requirements would apply in merger cases than in
+     proceedings conducted under Regulation 1/2003. As long as the Commission
+     provides access, upon request by the addressee of the SO, to a reliable and sufficiently
+     detailed record of the contents of a meeting or call intended to gather information
+     relevant to the investigation (such as agreed minutes of the conversation), the rights
+     of defence are, in principle, sufficiently safeguarded.
+
+22.  I rejected the request to access all the exchanges concerning the preparation of agreed
+     minutes, taking into account, among other reasons: the manifestly confidential nature
+     of the exchanges (which mainly concerned confidentiality claims by third parties
+    under Article 18 of Regulation 802/2004); the absence of any indicia suggesting that
+     the agreed minutes were somehow misleading or inaccurate; and the fact that
+    Broadcom had access, for most calls, not only to the agreed minutes but also to the
+    agenda shared by DG Competition with the third parties prior to each call.
+
+
+
+
+
+10   Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on
+    competition laid down in Articles 81 and 82 of the Treaty, OJ L 1, 4.1.2003, p. 1–25.
+
+11  Commission Regulation (EC) No 773/2004 of 7 April 2004 relating to the conduct of proceedings by
+    the Commission pursuant to Articles 81 and 82 of the EC Treaty, OJ L 123, 27.4.2004, p. 18–24.
+
+12   See,  for  instance, judgment  of 6 September  2017,  Intel Corp.  v Commission, C-413/14  P,
+    EU:C:2017:632, paras. 84-87 and 90-91 and judgment of 15 June 2022, Qualcomm Inc. v Commission,
+    T-235/18, EU:T:2022:358. paras. 184-185 and 190-199.
+
+13   Contrary to Article 3 of Regulation 773/2004, Article 11(7) of the Merger Regulation does not contain
+    any reference to ‘records’ of telephone calls or similar contacts.
+
+                                                     4
+
+[PÁGINA PDF 5]
+Final Report in M.10806 – Broadcom/VMware
+
+     3.2.   Third extension of the time limit
+
+23. On 12 May 2023, the Phase II investigation period was extended by 3 working days
+      at the request of and in agreement with the Notifying Party pursuant to the first
+     sentence of the second subparagraph of Article 10(3) of the Merger Regulation.
+
+4.  COMMITMENTS OFFER AND MARKET TEST
+
+24. On 16 May 2023, the Notifying Party submitted commitments, with a view to
+     rendering the Proposed Transaction compatible with the internal market and the
+     functioning of the EEA Agreement, pursuant to Article 8(2) of the Merger Regulation
+     (the ‘Initial Commitments’).
+
+25. On 23 May 2023, the Commission launched a market test of the Initial Commitments
+     submitted by the Notifying Party.
+
+26. The Commission gave the Notifying Party detailed feedback on the outcome of the
+    market test on 8 June 2023.
+
+27. On 14  June  2023,  following  the Commission’s  observations on  the  Initial
+    Commitments, the Notifying Party submitted a modified set of commitments pursuant
+     to Article 8(2) of the Merger Regulation in order to better address the competition
+    concerns identified in the SO (the ‘Final Commitments’).
+
+      4.1.   Access to file following the Final Commitments
+
+28. On 29 June 2023,  the day before  the Advisory Committee took  place, DG
+    Competition granted access to three additional documents to the Parties by means of
+    an encrypted ‘.zip’ folder sent by email.
+
+5.  THE DRAFT DECISION
+
+29. The draft decision declares the Proposed Transaction compatible with the internal
+    market and  the EEA Agreement,  subject  to  full compliance with  the  Final
+    Commitments.
+
+30.  Pursuant to Article 16(1) of Decision 2011/695, the Final Report shall consider
+    whether the draft decision deals only with objections in respect of which the parties
+    have been afforded the opportunity of making known their views.
+
+31. Upon review of the draft decision, I conclude that it does not deal with any objection
+     in respect of which the Parties have not been afforded the opportunity of making
+    known their views.
+
+6.  CONCLUSION
+
+32.  I conclude that the effective exercise of the procedural rights of the Parties has been
+     respected in this case.
+
+
+
+
+                                                          Eric GIPPINI FOURNIER
+                                                             Hearing Officer
+
+                                                     5

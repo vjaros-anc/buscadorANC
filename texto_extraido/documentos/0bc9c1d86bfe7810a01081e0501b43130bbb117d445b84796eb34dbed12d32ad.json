@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "0bc9c1d86bfe7810a01081e0501b43130bbb117d445b84796eb34dbed12d32ad",
+  "extraido_utc": "2026-10-22T19:34:39+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20221031173821+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10699_CP_01",
+      "caso": "M.10699",
+      "universo": "principal",
+      "titulo": "Mergers: Commission approves SalMar's acquisition of NTS, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_6425/IP_22_6425_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_6425",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10699/M.10699_CP_01_0bc9c1d86bfe.pdf",
+      "sha256": "0bc9c1d86bfe7810a01081e0501b43130bbb117d445b84796eb34dbed12d32ad",
+      "coincide_inventario": "",
+      "bytes": "35295",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_6425/IP_22_6425_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission approves SalMar's acquisition of NTS, subject to\nconditions\n\nBrussels, 31 October 2022\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof NTS by SalMar. The approval is conditional on full compliance with commitments offered by\nSalMar.\n\nSalMar is one of the world's largest producers of farmed salmon, with operations in Norway, Iceland\nand Scotland. NTS, which owns SalmoNor, Norway Royal Salmon and Frøy, is also a leading salmon\nfarmer active in Norway and Iceland.\n\nThe Commission's investigation\n\nGiven that the merger combines two leading farmers of salmon, the Commission investigated\nconcerns raised by market players that the transaction, as originally notified, could have reduced\ncompetition for the supply of Icelandic salmon in the European Economic Area (‘EEA'),\nwhich the investigation confirmed to be a distinct market with respect to salmon of a different origin,\nbased notably on product characteristics (quality, price, availability) and customer preferences.\n\nFollowing its investigation, the Commission found that the transaction would have reduced the\nnumber of active farmers of Icelandic salmon from three to two. As a result, the merged entity would\nhave become by far the largest supplier of Icelandic salmon. This could have led to higher prices and\nless choice for Icelandic salmon in the EEA.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, SalMar offered to divest NTS' Icelandic\nsubsidiary Arctic Fish.\n\nArctic Fish constitutes all of NTS' operations in Iceland and its divestiture fully removes the overlap\nfor the supply of Icelandic salmon. Arctic Fish operates as a viable stand-alone business and will be\nable to continue to supply Icelandic salmon following the divestment.\n\nFollowing the market test, the Commission concluded that the transaction, as modified by the\ncommitments, would no longer raise competition concerns. The decision is conditional upon full\ncompliance with the commitments.\n\nCompanies\n\nSalMar ASA is a salmon farming company headquartered in Norway. Its activities cover all aspects\nof the supply chain for the production of salmon, i.e. farming, harvesting, primary and secondary\nprocessing and supply of equipment to the aquaculture industry. SalMar has farming operations in\nNorway, Iceland and Scotland.\n\nNTS ASA is headquartered in Norway and via its subsidiaries SalmoNor, Norway Royal Salmon and\nFrøy, is active in farming and primary processing of salmon in Norway and Iceland, as well as the\nsupply of service boats, sea transport vessels and wellboats used to transport fish from the farm to\nthe harvesting facilities.\n\nMerger control rules\n\nThe transaction was notified to the Commission on 12 September 2022.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation",
+      "caracteres": 3418,
+      "caracteres_utiles": 2792,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working\ndays, bringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nThroughout its investigation, the Commission had exchanges and cooperated with the Icelandic\nCompetition Authority and the Norwegian Competition Authority.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.10699.\n\n                                                                                                              IP/22/6425\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 781,
+      "caracteres_utiles": 520,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

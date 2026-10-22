@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "5ad481e3f63439a9ef9d6e58cd609022d08062f441babe54b3e5f58e92dd3a3b",
+  "extraido_utc": "2026-10-22T19:44:49+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20250623113937+02'00'",
+    "modDate": "D:20250623113937+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11936_NOT_PREVIA_01",
+      "caso": "M.11936",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — NASPERS / JUST EAT TAKEAWAY",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202526/M_11936_10670717_525_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202526/M_11936_10670717_525_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11936/M.11936_NOT_PREVIA_01_5ad481e3f634.pdf",
+      "sha256": "5ad481e3f63439a9ef9d6e58cd609022d08062f441babe54b3e5f58e92dd3a3b",
+      "coincide_inventario": "",
+      "bytes": "69100",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202526/M_11936_10670717_525_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.11936 - NASPERS / JUST EAT TAKEAWAY\n\n                         SECTION 1.2\n\n                           Description of the concentration\n\n\nThe European Commission (“Commission”)  has  received  notification  of  a proposed\nconcentration pursuant to Article 4 of the Merger Regulation by which MIH BidCo, an\nindirect wholly owned subsidiary of Prosus N.V. (“Prosus”), intends to acquire within the\nmeaning of Article 3(1)(b) of the Merger Regulation sole control over Just Eat Takeaway.com\nN.V. (“JET”). The concentration will be implemented through the launch of a public bid\nwhich may result in Prosus controlling all, but in any event more than 67%, of the shares in\nJET.\n\nProsus is a globally active consumer internet group and technology investor headquartered in\nAmsterdam, Netherlands and listed on Euronext Amsterdam. Prosus is controlled by Naspers\nLimited, a multinational holding company headquartered in Cape Town, South Africa.\nProsus’ portfolio comprises companies active in food delivery, eCommerce, fintech, classified\nadvertising and edtech across the EEA and worldwide. Naspers, through Prosus, owns a\nminority shareholding in Delivery Hero SE.\n\nJET is a global on-demand delivery company, connecting consumers and partners through its\nonline food ordering and delivery platforms. JET operates platforms that enable consumers to\norder food, predominantly from local restaurants, via websites and mobile applications. The\ncompany is headquartered in Amsterdam, the Netherlands and its shares are listed on the\nEuronext Amsterdam exchange.\n\nJET is active in Austria, Belgium, Bulgaria, Denmark, Germany, Ireland, Italy, Luxembourg,\nthe Netherlands, Poland, Slovakia and Spain in the EEA as well as Australia, Canada, Israel,\nSwitzerland and the UK.\n\nNeither Naspers nor JET is currently controlled by anyone or any company.\n\n\n\n\n\nCommission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111",
+      "caracteres": 2414,
+      "caracteres_utiles": 1917,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

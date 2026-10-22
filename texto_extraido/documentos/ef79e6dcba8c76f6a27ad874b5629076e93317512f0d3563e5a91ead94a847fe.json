@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "ef79e6dcba8c76f6a27ad874b5629076e93317512f0d3563e5a91ead94a847fe",
+  "extraido_utc": "2026-10-22T19:34:23+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20230320115258+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10663_CP_01",
+      "caso": "M.10663",
+      "universo": "principal",
+      "titulo": "Mergers: Commission clears the acquisition of VOO and Brutélé by Orange, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_1722/IP_23_1722_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_23_1722",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10663/M.10663_CP_01_ef79e6dcba8c.pdf",
+      "sha256": "ef79e6dcba8c76f6a27ad874b5629076e93317512f0d3563e5a91ead94a847fe",
+      "coincide_inventario": "",
+      "bytes": "41806",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_1722/IP_23_1722_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission clears the acquisition of VOO and Brutélé by Orange,\nsubject to conditions\n\nBrussels, 20 March 2023\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof VOO and Brutélé by Orange. The approval is conditional on full compliance with a commitments\npackage offered by Orange.\n\nToday's decision follows an in-depth investigation of the proposed acquisition of VOO and Brutélé by\nOrange. Orange is a provider of retail mobile and fixed telecommunication services in Belgium,\nbased on its own mobile and third party fixed networks. VOO and Brutélé together are leading\nproviders of retail fixed and mobile telecommunication services, based on their own fixed and third\nparty mobile networks. Orange is the second biggest mobile provider in Belgium, while VOO and\nBrutélé together are the second biggest provider of fixed telecommunication services in the areas\ncovered by their fixed networks.\n\nThe Commission's investigation\n\nDuring its in-depth investigation, the Commission gathered extensive information and received\nfeedback from market participants and other stakeholders.\n\nFollowing its investigation, the Commission had concerns that the transaction, as initially notified,\nwould:\n\n   Reduce the number of operators from three to two in areas covered by VOO and Brutélé's\n   own fixed networks thereby eliminating Orange as an innovative and significant competitive\n     constraint;\n\n     Significantly reduce competition in the markets where Orange, VOO and Brutélé are\n    close competitors, in particular in the markets for the retail supply of (i) fixed internet\n     access, (ii) audio-visual services, (iii) multiple-play bundles (including fixed-mobile convergent\n     (‘FMC') services) in the areas covered by VOO and Brutélé's own fixed networks;\n\n    Increase the likelihood of coordination on the affected retail markets between the\n    remaining operators in areas covered by VOO and Brutélé's own fixed networks.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, Orange committed to provide to Telenet for at\nleast 10 years access to:\n\n    the exisiting fixed network infrastructure it is acquiring from VOO and Brutélé in the\n    Walloon region and parts of Brussels, as well as\n\n    Orange's future fibre-to-the-Premises (‘FTTP') network, which it plans to roll out in the\n    coming years, which will make the commitments future proof.\n\nTelenet, a subsidiary of Liberty Global, is one of the leading telecom operators in the North of\nBelgium. It is a reputable player with a proven track record on the fixed and mobile\ntelecommuications markets. The conditions of access in the commitment pave the way for Telenet's\nentry in the Walloon region and parts of Brussels in the immediate future on the basis of these\ncommitments.\n\nThe proposed commitments effectively replace Orange, an access seeker on the VOO and\nBrutélé networks in the Walloon region and parts of Brussels, by Telenet, which will be the\nnew access seeker on those networks.\n\nThese commitments fully address the competition concerns identified by the Commission. The\nCommission therefore concluded that the proposed transaction, as modified by the commitments,\nwould no longer raise competition concerns. The decision is conditional upon full compliance with the\ncommitments.",
+      "caracteres": 3406,
+      "caracteres_utiles": 2739,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "A trustee, who has to be appointed by Orange, will monitor the implementation of the commitments\nand will report periodically to the Commission.\n\nCompanies and products\n\nOrange is a French global telecommunications operator, active in Belgium as a provider of retail\nmobile telecom services on the basis of its own network. Orange also provides retail fixed telecom\nservices in Belgium on the basis of the regulated wholesale access to third-party networks.\n\nVOO is a Belgian cable operator active in the Walloon region of Belgium. VOO primarily provides\nretail fixed telecom services through its own cable network and retail mobile telecom services based\non access to third-party mobile networks.\n\nBrutélé is a Belgian cable operator active in parts of Brussels and certain municipalities in the\nWalloon region of Belgium. Brutélé provides retail fixed telecom services through its own cable\nnetwork, which it markets together with VOO under the “VOO” brand.\n\nMerger control and procedure\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the Euroepan Economic Area\nor any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\nIn addition to this transaction, there are currently eight on-going Phase II merger investigations: (i)\nthe proposed acquisition of OMV Slovenija by MOL; (ii) the proposed acquisition of Alumetal by\nHydro; (iii) the proposed acquisition of Activision Blizzard by Microsoft; (iv) the proposed acquisition\nof eTraveli by Booking; (v) the proposed acquisition of Lagardère by Vivendi,(vi) the proposed\nacquisition of VMware by Broadcom; (vii) the proposed acquisition of Inmarsat by Viasat; and (viii)\nthe proposed acquisition of Asiana by Korean Air.\n\nMore information will be available on the Commission's competition website, in the\nCommission's public case register under the case number M.10663.\n\n                                                                                                              IP/23/1722\n\nQuotes:\n\n\n Our decision today approves Orange’s purchase of VOO and Brutélé’s cable business in the Walloon region and parts of Brussels,\n subject to commitments. To ensure that consumers continue to benefit from competitive telecommunication offerings in those\n regions, Orange has committed to provide access for at least 10 years to Telenet to its newly acquired fixed network. This would\n enable Telenet to enter the Walloon region and parts of Brussels with its fixed telecommunication services in competition primarily\n with Proximus and Orange as well as other smaller providers.\n Margrethe Vestager, Executive Vice-President in charge of competition policy - 20/03/2023\n\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 3276,
+      "caracteres_utiles": 2566,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

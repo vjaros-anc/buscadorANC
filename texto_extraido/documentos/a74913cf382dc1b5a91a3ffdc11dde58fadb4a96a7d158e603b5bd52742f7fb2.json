@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "a74913cf382dc1b5a91a3ffdc11dde58fadb4a96a7d158e603b5bd52742f7fb2",
+  "extraido_utc": "2026-10-22T19:41:37+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20250404164527+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11253_CP_01",
+      "caso": "M.11253",
+      "universo": "principal",
+      "titulo": "Commission approves Safran's acquisition of part of Collins Aerospace's actuation business, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_960/IP_25_960_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_960",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11253/M.11253_CP_01_a74913cf382d.pdf",
+      "sha256": "a74913cf382dc1b5a91a3ffdc11dde58fadb4a96a7d158e603b5bd52742f7fb2",
+      "coincide_inventario": "",
+      "bytes": "43941",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_960/IP_25_960_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:04+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission approves Safran's acquisition of part of Collins Aerospace's\nactuation business, subject to conditions\n\nBrussels, 4 April 2025\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition of\npart of the aerospace actuation business of Collins Aerospace (‘the Target') by Safran USA Inc.\n(‘Safran'), controlled by Safran S.A., a leading French aerospace company. The approval is conditional\nupon full compliance with the commitments offered by Safran.\n\nThe Commission's investigation\n\nSafran's and the Target's businesses are largely complementary.\n\nHowever, the Commission's investigation showed that the transaction, as initially notified, would have\nreduced competition in the markets for the supply of trimmable horizontal stabiliser actuator\nsystems (‘THSA'), by combining two of the main suppliers of THSA systems. THSA systems are\nmostly used in civil aircraft, and their role is to adjust the horizontal stabiliser wing located in the tail\nof an aircraft. This ensures a fuel-efficient, stable manoeuvring of the aircraft.\n\nIn a market characterised by significant barriers to entry, long development cycles and long supply\ncontracts, the Commission found that, after the merger, there would not be enough alternative\ncompetitors to exert sufficient competitive pressure on the merged entity. This would have likely led\nto higher prices for the supply of THSA systems to aircraft manufacturers.\n\nThe Commission also investigated the impact of the transaction in the markets for the supply of other\nactuation products, such as primary and secondary flight control actuators, or pilot controls and flight\ncontrol computers (i.e., products used in different civil and military aircraft, including fighter jets and\nhelicopters), as well as in the markets for the supply of valves for space launchers. It found that the\ntransaction did not raise competition concerns in relation to these markets, as there will continue to\nbe sufficient alternative suppliers available in those markets after the merger.\n\nThe Commission cooperated closely in its investigation with the Competition and Markets Authority of\nthe UK and the Department of Justice of the US, who are also reviewing the transaction in parallel.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, Safran offered to divest the entirety of its\nNorth American THSA business, which includes sites in Canada and in the US, as well as assets in\nMexico.\n\nThese commitments fully address the competition concerns identified by the Commission, by fully\nremoving the overlap between the parties' THSA activities. Through the transaction, Safran will also\nexpand its footprint in the aerospace sector and acquire a wider portfolio of products to supply aircraft\nmanufacturers in the civil and defence sectors.\n\nFollowing the positive feedback received during the market test, the Commission concluded that the\ntransaction, as modified by the commitments, would no longer raise competition concerns.\n\nThe decision is conditional upon full compliance with the commitments. An independent trustee will\nmonitor their implementation, under the supervision of the Commission.\n\nThe Commission notes that, on 20 December 2024, Safran entered into an agreement with Woodward\nInc. of the US for the purchase of Safran's THSA business. The current decision does not include an\nassessment of Woodward as a suitable purchaser of the divested business. This assessment will take\nplace in a separate buyer approval process.",
+      "caracteres": 3586,
+      "caracteres_utiles": 2936,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Companies and products\n\nSafran S.A., headquartered in France, is active mainly in three areas: (i) aerospace propulsion; (ii)\naircraft equipment, defence, and aerospace systems; and (iii) aircraft interiors. Safran supplies\nengines, systems, and equipment for civil and military fixed and rotary-wing aircraft. It also provides\naftermarket support.\n\nThe Target is part of Collins Aerospace's actuation business and operates mostly in Europe. Collins\nAerospace, a business unit of RTX Corporation, headquartered in the US, provides advanced\naerospace and defence products and aftermarket service solutions.\n\nFor More Information\n\nThe transaction was notified to the Commission on 14 February 2025.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a turnover\nabove certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent concentrations\nthat would significantly impede effective competition in the European Economic Area or any\nsubstantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of 25\nworking days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working days,\nbringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.11253.\n\n                                                                                                               IP/25/960\n\nQuote(s):\n\n\n \"Safran and Collins are two leading suppliers of actuation systems, key equipment for safe and fuel-efficient flights. Today’s\n decision will allow Safran to widen its portfolio to supply global civil and defence aircraft manufacturers. At the same time, Safran’s\n divestment ensures that customers continue benefitting from competitive prices and innovative products.\"\n Teresa Ribera, Executive Vice-President for Clean, Just and Competitive Transition - 04/04/2025\n\n\n Press contacts:\n\n      Lea ZUBER (+32 2 29 56298)\n      Sara SIMONINI (+32 2 29 83367)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2403,
+      "caracteres_utiles": 1842,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

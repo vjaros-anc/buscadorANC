@@ -1,0 +1,899 @@
+[PÁGINA PDF 1]
+Competition merger brief                                                        Issue 2/2023 – September
+
+
+
+
+
+More briefs:
+https://competition-                                 This issue focuses on sustainability related aspects in
+policy.ec.europa.eu/publications/co                  EU merger control:mpetition-policy-briefs_en
+
+
+                      Page 1          EU Green Mergers & Acquisitions Deals – How Merger
+                                         Control Contributes to a Sustainable Future
+
+                                                    This paper presents the European Commission’s approach to
+                                                        sustainability in EU merger control and explains how the current
+                                                      legal framework and case practice can and do support the
+More publications:                                  European Green Deal.
+https://competition-
+policy.ec.europa.eu/publications_en   Page 7           Norsk Hydro / Alumetal and KPS Capital Partners /http://bookshop.europa.eu
+                                        Real Alloy: “Greening” Aluminium
+Competition merger briefs are
+written by the staff of the                             These transactions illustrate how “green” considerations are
+Competition Directorate-General                           deeply changing the competitive dynamics in European
+and provide background to policy
+discussions. They represent the                                 industries. In these two cases, the Commission adapted its
+authors’ view on the matter and                          assessment, for example by devising new quantitative metrics to
+do not bind the Commission in any                          capture changing competitive dynamics.
+way.
+
+© European Union, 2023        Page 10           Sika / MBCC: Cementing Sustainability - Cutting
+Reproduction is authorised                       Carbon through Chemistryprovided the source is
+acknowledged.                                          This case is a good example of how the Commission takes R&D
+                                                        capabilities and sustainability considerations into account when
+                                                 assessing a merger, supporting a more competitive and eco-
+KD-AL-23-002-EN-N
+                                                        friendly business environment in the European Union anddoi 10.2763/705949
+ISBN 978-92-68-07688-0                              beyond.
+ISSN 2363-2534
+
+[PÁGINA PDF 2]
+Competition Merger Brief 2/2023 – Article 1
+Competition merger brief
+
+ EU Green Mergers & Acquisitions Deals        Merger  Regulation  (‘EUMR’) 4                                                              and  the  Commission’s  case    In a nutshell
+  – How Merger Control Contributes to a           practice can and do already
+                                                                                        This paper presents the
+  Sustainable Future                                        support the objectives of the
+                                                                 European  Green  Deal. 5 The    European Commission’s
+   Catherine Ellwanger, Terézia Kianičková, Thorsten Schiffer, Andrea       question  is how the existing    approach to
+   Usai                                                                              toolkit  can  be  applied  to     sustainability in EU
+                                                                 mergers in industries that are
+                                                                          merger control and
+     1. Introduction                                       undergoing          significant                                                                 changes       to       further     explains how the
+                                                                                 sustainability    goals.   The     current legal   The transition towards a climate neutral and circular economy,
+                                                                      important issues which were    framework and case   with low-emission technologies and reduced waste, is one of the
+                                                                                  identified      for     merger
+   key challenges for today’s  society. With the European Green                                   practice can and do                                                                  enforcement  to enhance  its   Deal1,  it has become a strategic  priority of the EU, through
+                                                                             contribution       to      the    support the European   ambitious plans and  initiatives,  to transform the EU  into a
+                                                                                 sustainability  goals  include:    Green Deal.   modern, resource-efficient, and competitive economy, the so-
+                                                                                                                    (i) the  need  to  take   into   called ‘green transition’. The green transition involves a number
+                                                                     account consumer preferences  e.g. for “green products” as a   of broader sustainability  policies, which  all form part of the
+                                                                                differentiating  factor  in general and  in market  definition  in   overarching goal of reaching climate neutrality in Europe.
+                                                                                     particular;    (ii) the  importance  of  enforcing  and  pursuing
+    All EU bodies, including DG Competition, do their part to reach the       innovation theories of harm as a means of preventing the loss of
+   goals of the European Green Deal. This is why, in September       “green innovation”;  (iii) the importance of taking into account
+   2020,  the  Commission’s  Executive  Vice  President   (‘EVP’)        social and environmental benefits and thus accepting those as
+   Margrethe Vestager launched a debate on how competition rules        efficiencies stemming from a merger; and (iv) the need to stay
+  and sustainability policies can work together. In this context, the        vigilant with regard to “green” killer acquisitions, especially given
+   European Commission (the ‘Commission’) published a  call for       the fact that “green” innovation is often carried out by smaller
+   contributions and received around 200 submissions from a broad       players representing a threat for incumbent companies and that
+   range of stakeholders, all published on a dedicated webpage2.       such  concentrations may  well   fall  below  the  notification
+   Following the call for contributions, on 4 February 2021, EVP       thresholds at EU and national levels.
+   Vestager hosted a conference that looked at how EU competition
+   rules can play their part to support environmental and climate     DG Competition’s case practice and policy already address some
+    policies. The Commission also published a competition policy brief       of these issues. While the Commission does not have a mandate
+    titled “Competition Policy in Support of Europe’s Green Ambition”3        to intervene in mergers for environmental reasons in the absence
+   dedicated  to  sustainability  in competition  policy,  in which  it       of harm to competition6, in practice competitive markets often go
+   outlined how competition policy could support and complement
+   the European Green Deal.
+                                                                                                     4 Council Regulation (EC) No 139/2004 on the control of concentrations
+   As regards merger control, a key take-away from the responses         between undertakings, OJ L 24, 29.1.2004, p.1.
+                                                                                                     5
+   to the call for contributions and the conference is that the EU
+                                                                                          https://ec.europa.eu/competition/information/green_deal/contributions.zi
+                                                                                                           p. Other instruments were, for their part, subject to ad hoc initiatives
+                                                                                     (see   for   example   the   IPCEI    initiative:   https://competition-
+                                                                                          policy.ec.europa.eu/state-aid/legislation/modernisation/ipcei_en and the
+    1        https://commission.europa.eu/strategy-and-policy/priorities-2019-         updated Horizontal Guidelines on sustainability agreements (chapter 9):
+   2024/european-green-deal_en.                                                      https://competition-policy.ec.europa.eu/system/files/2023-
+    2 https://competition-policy.ec.europa.eu/consumers/green-gazette_en.               07/2023_revised_horizontal_guidelines_en.pdf).
+    3  https://op.europa.eu/en/publication-detail/-/publication/63c4944f-1698-          6 See to this effect the reasoning included in M.8084 Bayer/Monsanto in
+   11ec-b4fe-01aa75ed71a1.                                                       Section XIV: Non-Competition Concerns. The EUMR does not empower
+
+
+
+   The content of this article does not necessarily reflect the
+     official position of the European Commission. Responsibility
+    for the information and views expressed lies entirely with
+    the authors.
+
+[PÁGINA PDF 3]
+             EU Green Mergers & Acquisitions Deals  | Competition Merger Brief No 2/2023
+
+
+
+
+hand-in-hand with  efforts towards more  sustainable market       salmon.10 In GE/Alstom, the Commission looked into customers’
+outcomes. Consequently,  there  is a  clear trend towards  the       preferences in the market for heavy-duty gas turbines and found
+sustainability-related aspects of the Commission’s merger review         that, from the demand perspective, environmental regulations
+becoming increasingly important, as demonstrated by a number       played a role in the regional differentiation of the market.11 In
+of recent merger  investigations. Moreover, the EU’s  recently        Novelis/Aleris,   the   Commission   conducted  an   in-depth
+recalibrated approach to the Article 22 referral mechanism aims        investigation into whether aluminium and steel for car body parts
+to address the potential enforcement gaps in relation to “green”      were part of the same market. The Commission concluded that
+killer acquisitions.                                                              this was not the case,  particularly  in view of CO2 emission
+                                                                       reduction targets that required fuel savings and that were driving
+By drawing examples from  recent case  practice, the  article         ‘light weighting’ of vehicles (lighter vehicle meaning reduced fuel
+outlines how the Commission takes into account sustainability       consumption)  and  thus demand  by  car  manufacturers  of
+considerations in its merger investigations when defining relevant       aluminium ABS (body sheets) of a high grade and performance.
+markets (Section  2), assessing the competitive impact of a        In the assessment, the increasing demand and limited available
+merger (Section 3), and the suitability of remedies to fix the       spare  capacity was  an  important  factor  to  conclude  that
+anticompetitive harm (Section 4). This paper also explains how       aluminium and steel for car body parts were not part of the same
+the Commission remains vigilant on “green”  killer acquisitions       market.  It  is then in this market that the Commission found
+(Section 5).                                                         competition concerns and obtained a structural remedy,  i.e. the
+                                                                             divestiture of a plant producing this high quality product.12 In
+   2. Market Definition                                  Andel/Energi Danmark, the Commission considered a possible
+                                                                   separate market for electricity produced from renewable sources
+                                                                           (“green” energy), possibly limited to the supply of renewables-The starting point for the definition of relevant product markets
+                                                             based electricity through power purchase agreements (“PPAs”)is to assess demand-side substitutability, as demand substitution
+                                                            due to certain limitations of supply-side substitutability for greenconstitutes the most immediate and effective disciplinary force
+                                                    7                                  electricity supplied via PPAs compared to other forms of supply.13on  the  suppliers  of  a  given  product. When   it comes  to
+sustainability-related   aspects   in   market   definition,   the
+                                                             The most recent case practice of the last three years shows that
+Commission needs to take into account customers’ preferences,
+                                                                     the Commission takes non-price parameters of competition such
+including for sustainable products, services and/or technologies.
+                                                               as sustainability increasingly into account when defining relevant
+Sustainability-driven customer preferences can determine the
+                                                                    markets, which  reflects the stronger demand by  individuals,
+level of demand-side substitutability. Similarly, from a supply-
+                                                                  companies, and society as a whole for more sustainable products,
+side  perspective,  the  ability  of  suppliers  to  produce  green
+                                                                              services, and technology. This trend may already be observed in
+products may differ across market players.
+                                                                       several  sectors and markets  that are  central  to  the  green
+                                                                                  transition.  For  instance,  among  the  merger  investigationsIn its case practice, the Commission took into account customers’
+                                                                  concluded  in 2023  to  date,  in  Norsk  Hydro/Alumetal14,  thepreferences for sustainable products and sustainability-related
+                                                             Commission looked at the impact of the merger on the markettargets to define separate markets or to take such elements into
+                                                                            for solid advanced aluminium foundry alloys in the EEA, andconsideration  as  a  differentiating  factor  when  identifying
+                                        8                                     considered whether, on the basis of customer preferences, lowpotential  market  segments.   By  way   of  example,   in
+                                                                 carbon solid advanced aluminium foundry alloys could constituteDEMB/Mondelez/Charger  Opco,  the Commission  considered a
+                                                           a separate product market from non-low carbon ones. While thepossible segmentation between non-conventional coffee (organic,
+                                                             Commission ultimately  left the issue open,  it found that lowfair trade) from conventional coffee as retailers indicated that
+                                                                 carbon is at least an element of differentiation that plays a rolesome consumers perceive non-conventional coffee as fulfilling
+                                                                        at product and geographic level when it comes to solid advanceddifferent  consumer  needs  such  as  ensuring  sustainable
+                                                              aluminium  foundry  alloys. Among  the merger  investigationsdevelopment.9 In Marine Harvest/Morpol, customer preferences
+                                                                  concluded in 2022, in KPS Capital Partners/Real Alloy Europe, afor sustainably farmed salmon were one of several factors in the
+                                                                 case highly relevant for the circular economy, which involvedfinding of separate product markets for farming and primary
+                                                                        recycled  aluminium  products  and  recycling  services,  theprocessing  of  Scottish  salmon  as  opposed  to  Norwegian
+                                                             Commission considered zero-waste technology of production as a
+                                                                             differentiating factor relevant for the product market definition
+  the Commission to intervene against a merger on grounds other than
+  the protection of competition.
+7 See Commission Notice on the definition of relevant market for the          10 M.6850 Marine Harvest/Morpol, paragraph 42.
+  purposes of Community competition law, OJ C 372, 9.12.1997, p. 5,          11 M.7278 GE/Alstom, paragraphs 199, 202-203.
+  paragraph 13.                                                                              12 M.9076 Novelis/Aleris, Section 6.2.2.3.
+8 See  for instance case M.9730 FCA/PSA, paragraphs 34, 156, 215;          13 M.10212 Andel/Energi Danmark, paragraphs 16-20. Further regarding
+  M.8829 Total Produce/Dole Food Company, paragraphs 34-37; M.7220          renewable-based  generation,  see  also M.8871  RWE/E.ON  Assets,
+  Chiquita  Brands  International/Fyffes,  paragraphs  66-73;  M.7510          paragraphs 14-16.
+  Olam/ADM Cocoa Business, paragraphs 15-19.                                        14 M.10658 Norsk Hydro/Alumetal, press release of 4 May 2023 available
+9 M.7292 DEMB/Mondelez/Charger Opco, paragraphs 57-59.                         at https://ec.europa.eu/commission/presscorner/detail/en/ip_23_2566.
+
+
+
+
+
+                                                   2
+
+[PÁGINA PDF 4]
+             EU Green Mergers & Acquisitions Deals  | Competition Merger Brief No 2/2023
+
+
+
+
+assessment regarding  salt  slag  (a by-product  of aluminium           if relevant for the case at hand.20 The relevance of sustainability
+production) recycling.15 While the Commission ultimately defined       as one of the non-price parameters of competition when defining
+the relevant market as an overall market for salt slag recycling,       markets has also been flagged by various stakeholders that
+there were strong indications that the market is differentiated        replied to the Commission’s public consultation on the draft
+based on the technology used, namely zero-waste and non-zero-       revised Market Definition Notice.21
+waste  recycling  technology.  Therefore,  in  the  competitive
+assessment, the Commission assessed the parties’ position in         3. Competitive Assessment
+both the overall salt slag recycling market and in the narrower
+market for salt slag recycling through zero-waste technology      Closeness of competition
+only. Recycled aluminium is important to achieve the objectives                                                                   During the competitive assessment,  sustainability can play a
+of the green transition, in particular when it is used by producers                                                                 prominent role as a parameter of differentiation when assessing
+of aluminium flat rolled products, necessary for the production of                                                                     closeness between the merging parties and their competitors.22
+beverage cans. While the Commission did not consider recycled
+aluminium  as  a  separate  market,   it  focused  on  recycled      By way of example, in GE/Alstom, the Commission concluded that
+aluminium at competitive assessment level as this was the main       the merger would have  eliminated a  significant and  close
+area of overlap and the main input used downstream for cans.       competitor of GE in the overall market for 50Hz heavy-duty gas
+The Commission also found that industrial shift made recycled        turbines, given that GE and Siemens had developed machines
+aluminium, as opposed to primary aluminium, an indispensable       which are  relatively close to Alstom's machines  in terms of
+input in certain production processes already. In Hyundai Heavy       emissions. As such, Alstom, GE and Siemens were found to be
+Industries/Daewoo   Shipbuilding  &  Marine   Engineering,  a        largely targeting the same profile of customers.23 Recently, in
+transaction which was  prohibited  in 2022,  the Commission       Sika/MBCC, the Commission found that innovation efforts and
+examined the impact of the merger in the worldwide market for     R&D  capabilities  to  develop new polymers and  bring more
+large LNG vessels. Innovative vessel technologies including those       sustainable  chemical  admixture  formulations  to  the market
+allowing for lower fuel consumption and lower emissions were       played a key role in the concrete/cement industry. Sika and MBCC
+considered as an element of product differentiation.16 Among the      were both strong innovators, including on green R&D, which was
+merger  investigations  concluded  in  2021,  in  Schwarz/Suez,       seen as important to meet sustainability challenges and which
+environmental  costs  were  a  relevant  parameter  for  the      was one of the main factors taken into account when assessing
+assessment  of  geographic  market  definition  for  sorting  of       the closeness of competition between them and vis-à-vis other
+lightweight  packaging  in  the  Netherlands. More  specifically,        players.                                                                                                  24 In  KPS  Capital  Partners/Real  Alloy  Europe,  the
+customers   in  the  Netherlands   try  to  avoid  transporting      Commission  assessed  the  importance  of  recycled  wrought
+lightweight packaging for sorting over long distances in order to       aluminium for the downstream production of can ends and can
+minimise the associated CO2 emissions. The environmental cost       bodies in view of the green transition and the increased use of
+of  transport was  also a  factor  taken  into  account  in  the        recycled content in order to lower the carbon footprint of the final
+customers’  calls  for tenders and tender  specifications, which        products.  i.e., cans. Considering these factors, the Commission
+sometimes resulted in more distant lightweight packaging sorting       found that the merged entity would have the ability to foreclose
+plants being penalized  in tenders due  to the increased CO2        input,  i.e., recycled wrought aluminium for can ends and can
+emissions  associated  with  longer  transport.17 Ultimately,  the        bodies,   to   downstream    rivals.  25   In   Hyundai   Heavy
+relevant geographic market was defined as national,  i.e., the       Industries/Daewoo  Shipbuilding &  Marine  Engineering,  the
+Netherlands.                                                  Commission found that the  parties were each  other’s  close
+                                                                    competitors on a number of key parameters for competition such
+In  this  context, the ongoing review of the Market  Definition                                                               as innovation and that both parties were important innovators in
+Notice18 also reflects the need to take sustainability into account                                                                       vessel technologies  including those technologies allowing  for
+when defining markets. The draft of the revised Market Definition
+Notice19 lists sustainability specifically as one of the non-price
+parameters  of  competition  that  the Commission  takes  into
+account when defining a relevant product and geographic market,          20                                                                                  Draft  of  the  revised  Market  Definition  Notice,  paragraph  12
+                                                                                      (https://competition-policy.ec.europa.eu/public-consultations/2022-
+15 M.10702 KPS Capital Partners/Real Alloy Europe, press release of 19              market-definition-notice_en).
+  October 2022 available at                                                                21       https://competition-policy.ec.europa.eu/public-consultations/2020-
+  https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6274.                market-definition-notice_en#evaluation-results.
+16 M.9343  Hyundai Heavy  Industries/Daewoo  Shipbuilding &  Marine          22 See,  for  example,  M.8829  Total  Produce/Dole  Food  Company,
+  Engineering, paragraphs 101-104.                                           paragraphs 81, 91.
+17 M.10047  Schwarz  Group/Suez  Waste  Management  Companies,          23 M.7278 GE/Alstom, paragraphs 511 and ff.
+  paragraphs 44, 56-58.                                                                    24 M.10560 Sika/MBCC, press release of 8 February 2023 available at
+18       https://competition-policy.ec.europa.eu/public-consultations/2022-           https://ec.europa.eu/commission/presscorner/detail/en/IP_23_598.
+  market-definition-notice_en.                                                             25 M.10702 KPS Capital Partners/Real Alloy Europe, press release of 19
+19 At the time of drafting of this brief, the adoption of the new Market          October 2022 available at
+   Definition Notice by the Commission was planned for Q4 2023.                   https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6274.
+
+
+
+
+
+                                                   3
+
+[PÁGINA PDF 5]
+             EU Green Mergers & Acquisitions Deals  | Competition Merger Brief No 2/2023
+
+
+
+
+lower  fuel consumption and  lower  emissions.26 Moreover,  in       ones. The Commission concluded that, on balance, this was not
+Schwarz/Suez, customers’ preferences in terms of environmental       the case given that Alumetal’s capabilities to bring cheaper and
+costs were a  relevant parameter showing that the merging      advanced recycled aluminium foundry alloys to the market were
+parties were close competitors, whereas more environmentally       found not to be unique. In Hyundai Heavy Industries/Daewoo
+costly   alternatives   constituted  more   distant   competitive        Shipbuilding & Marine Engineering, the Commission assessed
+constraints.27                                            how  certain  innovative  vessel  technologies  including  those
+                                                                       allowing for lower fuel consumption and lower emissions could
+Innovation theories of harm                                      represent   barriers   to   entry   or   expansion.  31  In   Tata
+Innovation can bring green(er) technologies, products, or services        Steel/thyssenkrupp/JV, a 2019 prohibition, the Commission found
+to the market. Such technologies may involve new recycling        that the transaction would have reduced competition and likely
+technologies, which will be needed for a more circular economy.      have increased prices in different types of steel. In this context,
+For this reason, the competitive assessment should ensure that       the Commission found that  final consumers’ preferences  for
+anticompetitive mergers do  not  significantly impede  (green)       sustainable products would limit the ability of some customers to
+innovation. In this context, there  is broad consensus that the       switch to materials alternative to the merging parties’ products.32
+Commission should enforce and pursue innovation theories of
+harm in merger cases.                                            Efficiencies
+                                                                            Sustainability-related  aspects may  also  play a  role  in  the
+As mentioned by EVP Vestager on 10 September 202128, the      assessment  of merger  cases when   it comes  to  efficiency
+Commission  has  already  pursued  and  enforced  innovation        considerations.  The   existing  legal  framework  allows  the
+theories of harm across different sectors, from basic industries to      Commission to take efficiencies submitted and substantiated by
+pharma and high technology markets, from more energy-efficient       the merging parties into account. Indeed, a merger may bring
+turbines to less toxic pesticides.29 Looking into broader innovation       about improved quality products, for instance, by decreasing the
+spaces or the overall level of innovation as, for example,  in        level of toxicity of a product or reducing cost as a result, for
+Dow/Dupont30, can help  to  protect  innovation  benefiting the        instance, of generating less waste or requiring the use of less
+environment on a much broader level. Such an approach could be      raw materials. Efficiencies can also result in the development of
+taken in particular in industries with long innovation cycles. This      newer technologies, new “green” products, and more generally
+framework is very much suited to address competition concerns        “green” innovations.
+that  may   result   in  innovation  efforts   in  environmental
+technologies. For  instance,  this framework could be used to          If these types of positive effects result from the merger, the
+preserve   innovation   efforts  on   environmentally   friendly      Commission  will  assess  whether  they can compensate  the
+technologies or capabilities when there is a risk of discontinuation        anticompetitive harm. For this purpose, “the efficiencies have to
+of overlapping lines of research, or when there is a risk of a        benefit consumers, be merger-specific and be verifiable”.33 Under
+reduction of incentives and ability to achieve the same level or       the Horizontal Merger Guidelines, efficiencies should, in principle
+type of innovation. In this context, the Commission intends to       occur within the markets where competition concerns are found.
+continue to defend (green) innovation vigorously.                           In Aurubis/Metallo, a case that concerned access to copper scrap
+                                                                                   in the EEA, the Commission looked  at two  sets of alleged
+Other  considerations  related  to  the  competitive        efficiencies advanced by the merging parties.34 The first set of
+assessment                                                         alleged efficiencies concerned better valorisation of copper scrap
+                                                                  through the combination of the parties’ complementary know-Recent case practice shows that sustainability-related aspects
+                                                     how and technologies, while the second set concerned possiblecan play additional roles in the competitive assessment of a
+                                                                          additional metal recovery and other environmental benefits. Onmerger case. In Norsk Hydro/Alumetal, the Commission assessed
+                                                                     the first one, while having initial doubts as to the verifiability,whether Alumetal was an important competitive force within the
+                                                                             transaction-specificity and  timeliness  of the  efficiencies,  themeaning of paragraphs 37 and 38 of the Horizontal Merger
+                                                             Commission concluded that the evidence provided by the partiesGuidelines  in the EEA market  for  solid advanced aluminium
+                                                                 suggested  that  there was  at  least a  possibility  that  suchfoundry alloys or on the potential EEA market for low carbon
+                                                                              efficiencies would materialise. If that was the case,  i.e., if such
+                                                                              efficiencies were  to  materialise  to a  significant  extent,  the
+26 M.9343  Hyundai Heavy  Industries/Daewoo  Shipbuilding &  Marine      Commission further concluded that they would at least partly be
+  Engineering, paragraphs 400 and ff, 491 and ff.27                                                              passed-on to customers, thus potentially partly offsetting any  M.10047  Schwarz  Group/Suez  Waste  Management  Companies,
+  paragraph 118.
+28 https://ec.europa.eu/commission/presscorner/detail/en/speech_21_7754.          31 M.9343  Hyundai Heavy  Industries/Daewoo  Shipbuilding &  Marine
+29 Some examples of cases where the Commission raised innovation           Engineering, paragraphs 1052 and ff.
+  theories  of harm  include M.8401  J&J/Actelion, M.7278  General          32 M.8713 TataSteel/thyssenkrupp/JV, paragraphs 1381-1382.
+   Electric/Alstom, M.7932 Dow/Dupont, M.8084 Bayer/Monsanto, M.6166          33 Guidelines on the assessment of horizontal mergers under the Council
+  DB/NYSE-Euronext,  M.7275   Novartis/GlaxoSmithKline's   oncology          Regulation on the control of concentrations between undertakings,
+  business, M.7559 Pfizer/Hospira, M.7326 Medtronic/Covidien.                   paragraph 78.
+30 M.7932 Dow/Dupont, section V.8.                                                        34 M.9409 Aurubis/Metallo, paragraphs 831 and ff.
+
+
+
+
+
+                                                   4
+
+[PÁGINA PDF 6]
+             EU Green Mergers & Acquisitions Deals  | Competition Merger Brief No 2/2023
+
+
+
+
+adverse  price effect stemming from the Transaction.  In any        efficient gas turbines and even went beyond Alstom’s initial plans
+event, a mere  possibility of  efficiencies  materialising  is not       by rendering the turbines hydrogen-ready.39
+sufficient to meet the legal standard for assessing and accepting
+efficiencies. On the second one, the Commission found that the        In  addition, where environmental aspects are considered an
+parties’ claim was not substantiated enough to the requisite       important parameter of competition to assess, for example, how
+standard. The case was cleared unconditionally following a Phase        closely two merging companies compete in the relevant market,
+II investigation.                                                          or  where  the  Commission  has  concerns  about  innovation
+                                                                        competition,  this may have to be reflected  in the design of
+In this context, there is demand from some stakeholders for the       remedies. 40 More  recently,  in  Sika/MBCC,  the  Commission’s
+Commission  to  consider a  longer  time  horizon and  overall        investigation suggested that the transaction would have led to
+benefits to society when looking at whether the conditions for       reduced  competition  in  chemical  admixtures  and  concrete
+efficiencies are met. So far, there have been no cases in which       admixtures in the EEA, and thus higher prices and less innovation.
+the  Commission  has  accepted  this  type  of  out-of-market      The parties’ innovation capabilities at global scale were a key
+efficiencies. In accordance with the Mastercard case law35, when        part of their market-leading positions and competitive strength,
+efficiencies do not arise in the affected market, the Commission       together  with  the  advantages  brought  about  by  vertical
+may  take  them  into  account  only   if  the  benefits  cover        integration. Reducing CO2 and meeting sustainability targets by
+substantially the same customers otherwise harmed by the       developing new formulations is an important part of the ongoing
+merger.                                                               innovation in the chemical admixtures industry. Therefore, while
+                                                                     the geographic scope of the chemical admixtures markets was
+   4. Remedies                                                   national,  in  order  for  the  remedies  to  fully  address  the
+                                                                Commission’s serious doubts, the divestment of MBCC’s chemical
+In the context of the 2020 public consultation, some stakeholders       admixtures business needed to include  all global R&D assets,
+argued that sustainability-related aspects should be included in         sites, personnel, IP and other relevant assets. Only with those
+the remedy design and that the Commission should accept the        large-scale innovation capabilities could the divestment business
+greenest remedy or even impose remedies to deal with any      compete  effectively with  the merged  entity.  In KPS  Capital
+possible environmental harm that does not translate into harm to        Partners/Real Alloy Europe, as mentioned above, the Commission
+competition.                                                     found that following the transaction, the merged entity could
+                                                             have restricted access to recycled aluminium as well as dross
+To begin with,  it is worth recalling that under the current legal      and salt slag recycling services to producers of aluminium flat
+framework the Commission cannot unilaterally impose remedies        rolled products. The Commission found that the recycling of these
+but only accept them on the basis of the merging  parties’        products, which allows extracting their aluminium content and
+commitments.36 The Commission can accept commitments that       other components,  is  critical  for the  production  of  recycled
+are offered by the parties if it deems them capable of rendering       aluminium and for the production of daily products such as
+the  concentration  compatible  with  the  internal  market  by       beverage cans. At the same time, hazardous waste needs to be
+preventing a  significant impediment to effective competition.       recycled as  it is subject to stringent regulations in relation to
+These  commitments  must  also  eliminate  the  competition       storage and recycling requirements. To address the Commission's
+concerns in their entirety and have to be comprehensive and       concerns, which were of a vertical nature, and to secure a phase I
+effective from  all  points of  view, besides being capable of        conditional  clearance,  KPS  offered  to  divest  Real  Alloy's
+effective implementation within a short period of time.37               aluminium and dross recycling facility in the UK as well as Real
+                                                                                Alloy's salt slag recycling plant in France. In Schwarz/Suez, to
+This means that the Commission has no power to unilaterally       address the Commission’s concerns in the market for the sorting
+impose  or  choose  the  ‘greenest’  remedy  among  several       of lightweight packaging in the Netherlands, the parties offered
+alternatives. Moreover, as the Commission does not have any        to divest the entirety of Suez’s lightweight packaging sorting
+mandate to intervene in merger cases in the absence of harm to
+competition38, it would not have the power to accept or impose          39 In M.7278 GE/Alstom, after an in-depth review, the Commission raised
+remedies that solely address possible environmental harm that          competition concerns for heavy-duty gas turbines. The Commission
+                                                                                            specifically flagged that the merger would have risked eliminating an
+does not also translate into competitive harm. However, this does                                                                              important innovator as Alstom’s newly developed and highly efficient
+not mean that merger remedies cannot have positive effects on        GT 36 turbine brought important environmental benefits and would not
+the environment. For instance, in GE/Alstom, the remedy taker         have  been  commercialised  by  GE.  Ansaldo,  the  remedy  taker,
+                                                                                    successfully finalised the development of the GT 36 turbine and wonsuccessfully  finalised  the  development  of  Alstom’s  energy-
+                                                                                   bids against Siemens and GE. In addition, Ansaldo continued innovating
+                                                                                                in this field by using hydrogen as a fuel for the GT 36 turbine, which
+35 T-111/08, Mastercard v Commission, paragraph 228.                         can  significantly decrease CO2 emissions.  In  this example, merger
+36 Commission’s Notice on remedies acceptable under Council Regulation           control played a key role in ensuring continued innovation in energy
+  EC No. 139/2004 (the ‘Remedies Notice’), paragraph 6.                               efficient electricity generation.
+37 The Remedies Notice, paragraph 9.                                                      40 For instance, where the concerns relate to innovation, the appropriate
+38 See to this effect the reasoning included in M.8084 Bayer/Monsanto in         remedy may require the divestment of significant parts of the R&D
+  Section XIV: Non-Competition Concerns.                                       departments.
+
+
+
+
+
+                                                   5
+
+[PÁGINA PDF 7]
+             EU Green Mergers & Acquisitions Deals  | Competition Merger Brief No 2/2023
+
+
+business in the country, thus preserving the pre-merger degree of         6. Conclusion
+competition  between  the   closest  and  most  sustainable
+alternatives to Dutch customers.41                                                             The EUMR provides the Commission with flexible tools to take
+                                                                              into account sustainability-related aspects where relevant for a
+Moreover,  if environmentally friendly products or innovation in
+                                                                     given  transaction.  This may be  as a  factor  important  for
+this field are important for the competitiveness of the divestment
+                                                                customers  which  affects   their  product  preferences  and
+business, specific purchaser criteria may also be necessary to
+                                                                    purchasing decisions, a parameter of competition between the
+ensure that the purchaser will continue to be able to successfully
+                                                               merging  parties  and  their  competitors,  as  an  element  of
+produce and market such products and continue to innovate in
+                                                                    assessing whether a proposed remedy addresses the identified
+this field. In Sika/MBCC, the global scale of the R&D assets and
+                                                                     competition concerns or as a positive effect of a merger. The
+respective innovation  capabilities of the divestment business
+                                                                Commission’s case practice further demonstrates how merger
+were a key factor in assessing the suitability of the proposed
+                                                                           control in the EU supports the EU Green Deal. By preventing anti-
+remedy. Given that it was important for the effectiveness of the
+                                                                      competitive mergers,  the Commission  ensures  that  there  is
+remedy that the purchaser would have the incentives to continue
+                                                                          vibrant competition on the markets, stimulating companies to
+investing in the R&D activities of the divestment business, a
+                                                                  develop new green technologies and business models.
+specific purchaser criterion was included in the commitments in
+that respect.
+
+   5. (Green) Killer Acquisitions and
+      Article 22 EUMR
+
+Killer acquisitions are of concern as some small players are
+particularly relevant for the development of “green” innovation.
+As these small players’ turnover may be low or even  nil, their
+acquisition by bigger and incumbent companies may escape the
+usual EU and sometimes even  national turnover  notification
+thresholds.  In  this  respect,  the  Commission’s  “recalibrated”
+approach to  Article 22 EUMR42 allows,  if the legal  criteria of
+Article 22 EUMR are met43, to close the potential enforcement
+gap for acquisitions involving a “green” innovator with low or no
+turnover, when this is not reflective of its significant competitive
+potential. In assessing whether the case is a good candidate for a
+referral,  the Commission may  take  into  account  additional
+factors, such as the fact that the target company is a start-up, a
+recent entrant with significant competitive potential, an important
+innovator or conducting potentially important research.44
+
+
+
+41 M.10047  Schwarz  Group/Suez  Waste  Management  Companies,
+  paragraphs 214 and ff.
+42 Commission Guidance on the application of the referral mechanism set
+  out in Article 22 of the Merger Regulation to certain categories of
+  cases. Available at
+  https://ec.europa.eu/competition/consultations/2021_merger_control/gui
+  dance_article_22_referrals.pdf. In July 2022, the General Court
+  confirmed the Commission’s view that Article 22 EUMR gives EU
+  Member States the right of referral over a concentration irrespective of
+  whether national thresholds are met (see
+  https://curia.europa.eu/juris/document/document.jsf?text=&docid=2628
+  46&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid
+  =402803). An appeal of the General Court’s judgment by Illumina is
+  currently pending before the European Court of Justice.
+43 The transaction has to both affect trade between member states and
+  threaten to significantly impede competition in the member state(s)
+  making the request.
+44 Commission Guidance on the application of the referral mechanism set
+  out in Article 22 of the Merger Regulation to certain categories of
+  cases, paragraphs 19-22. Available at                                    document with further practical guidance, available at
+  https://ec.europa.eu/competition/consultations/2021_merger_control/gui           https://competition-policy.ec.europa.eu/system/files/2022-
+  dance_article_22_referrals.pdf. See also the Commission’s FAQ                  12/article22_recalibrated_approach_QandA.pdf.
+
+
+
+
+
+                                                   6
+
+[PÁGINA PDF 8]
+Competition Merger Brief 2/2023 – Article 2
+Competition merger brief
+
+  Norsk Hydro/Alumetal and KPS Capital            sector. The Commission has                                                                             recently assessed a series    In a nutshell
+  Partners/Real Alloy: “Greening”                      of cases in the aluminium                                                                                             Norsk Hydro/Alumetal and KPS
+  Aluminium                                                        industry    where     the      Capital Partners/Real Alloy were
+                                                                                 sustainability angle of the
+   Irina  Alexandru,  Amine  Mansour,  Constanza  Marco  Dufort,                                 two transactions in the sector                                                                         Transaction was  apparent.
+  Otmane Sbitri, Fabiola Zarrelli                                                                       of aluminium recycling.                                                                     While  each  case had  its
+                                                                                           These  transactions   illustrate     1. Introduction: aluminium as a lever      own  specifities,  it remains                                                                            true  that  they  provide a
+        for decarbonization                                  topical  illustration  of how    how “green” considerations are                                                                                                 deeply      changing      the
+                                                                      these             non-price   The Green Deal and accompanying industrial policy actions are                                      competitive    dynamics     in
+                                                                                sustainability-related   driving major changes in Europe’s traditional industries. Those                                  European  industries.  In  these
+                                                                          considerations are factored   changes were recently exemplified  in a  series of aluminium                                 two  cases,  the  Commission
+                                                                                 into    the   Commission’s   mergers, marked by the pursuit of greener production.                                            adapted  its  assessment,  for
+                                                                 assessment   of   merger
+                                                                                        example   by   devising  new
+   Indeed, decarbonising aluminium production is a crucial part of        cases.
+                                                                                                         quantitative metrics to capture
+   the  green  transition,  given  that  primary   (i.e.,  non-recycled)
+                                                                                              changing competitive dynamics.   aluminium production is very energy intensive, to the point of          2. M.10658 –
+   constituting one of the main sources of CO2 emissions in the EU         Norsk            By preserving competition and
+  and globally.1 More stringent carbon-footprint standards resulting
+   from Green Deal legislation are therefore pushing players, such         Hydro              avoiding  price  increases,  the
+                                                                                        Commission   contributes   to
+   as the automotive sectors, to source “green(er)” aluminium, with          /Alumetal2                                                                                                        creating a market setting for
+  a low carbon footprint. The production of “low-carbon” aluminium
+                                                                            This  case  concerned  the      “green” products to develop.   can be achieved by using renewable energy when smelting
+                                                                               acquisition of  sole  control   (primary) aluminium from alumina and/or by recycling  (i.e. re-
+                                                                         of Alumetal  S.A. by Norsk   melting) aluminium scrap. Aluminium producers are responding to
+                                                                 Hydro  ASA   (‘Hydro’   or   this change in demand, and this has had consequences for the
+                                                                                ‘Notifying  Party’,  Norway)   aluminium M&A landscape.
+                                                                 by way of a public bid.
+   Furthermore, aluminium is a significant lever for certain European
+                                                                 Hydro and Alumetal are both producers of aluminium foundry   industrial sectors to reduce their carbon emissions, due to some
+                                                                               alloys (‘AFAs’), semi-finished aluminium products in liquid or ingot   of its specific properties. First of all, it is a lighter material than,
+                                                                       form, which customers (mainly automotive players) use to cast   for example, steel. With regard to the automotive industry, for
+                                                                                   parts.   example,  replacing  steel by aluminium leads  to  higher  fuel
+   efficiency. Second of all, aluminium is relatively easy to recycle.       Both Norsk Hydro and Alumetal are major European producers of
+   Indeed,  for  end-uses  which  require  less  stringent  technical       aluminium foundry  alloys, a semi-finished aluminium product
+   performance, aluminium can be recycled at a rate of almost      used mainly by the automotive  industry to cast auto  parts.
+  100%.  For more  stringent  applications, such as automotive       Alumetal makes these from recycled material, while Norsk Hydro
+   wheels, the main aluminium producers are investing in increasing       uses non-recycled material and relies on renewable energy for its
+   the recycled aluminium content in their production.                       production. Alumetal also produces aluminium master alloys used
+                                                                             to produce casthouse products such as aluminium foundry alloys.   “Green” considerations were therefore key for the Commission’s
+                                                                           Therefore, the two companies produced low-carbon aluminium   investigation in recent merger cases related to the aluminum
+                                                                     foundry alloys. The merger review thus led to important findings
+                                                                      impacting  (i) the definition of the relevant market and  (ii) the
+    1 https://www.carbonchain.com/blog/understand-your-aluminum-
+     emissions                                                                                   2 Case M.10658 – Norsk Hydro / Alumetal, 04/05/2023.
+
+
+
+   The content of this article does not necessarily reflect the
+     official position of the European Commission. Responsibility
+    for the information and views expressed lies entirely with
+    the authors.
+
+[PÁGINA PDF 9]
+           M.10658 Norsk Hydro/Alumetal and M.10702 KPS Capital Partners/Real Alloy Europe |
+                                   Competition Merger Brief No 2/2023
+
+
+assessment  of  closeness  of  competition  within  low  cabon        In sum,  “green”  considerations, which were a  determinative
+aluminium production.                                               aspect  of  the  transaction   rationale, 3 were  key  to  the
+                                                                Commission’s assessment in this case, both for the purposes of
+First, with respect to market definition, the Commission found
+                                                                         defining the relevant market, and as a factor to assess closeness
+that alloys produced from recycled aluminium are beginning to
+                                                                      of competition between the Parties. Similar considerations were
+compete with alloys produced from primary aluminium, which
+                                                                           central to the Commission’s assessment in a parallel aluminium
+was not necessarily the case in the past, due to the increasing
+                                                                         case.
+demand  for  the more  sustainable  recycled  production. The
+Commission  also  found  that  the  low-carbon  dimension  of        3. M.10702 – KPS Capital
+aluminium alloys is at least an element of differentiation that
+plays a role at product market definition level, since it is part of a          Partners/Real Alloy Europe4
+growing trend in customers’ preferences.
+                                                             The KPS  Capital  Partners/Real  Alloy Europe  case concerned
+Second,  the Commission  carried  out a  specific assessment                                                                              specific types of secondary wrought aluminium, as well as some
+seeking to analyse whether, post Transaction, there would remain                                                                    by-products resulting from the recycling process: dross, a by-
+sufficient low-carbon producers, besides the Parties.                                                                    product which  itself contains aluminium and can be sold or
+Indeed,  there  is  no  industry-wide  definition  of  low-carbon        further processed, and salt slag, a hazardous by-product that
+suppliers. Therefore, in order to identify low-carbon suppliers of       only Real Alloy and few other companies in Europe are able to
+aluminium foundry alloys, the Commission relied on the following       safely process. The demand for recycled aluminium and the by-
+production factors from the Parties and their competitors: (i) the       products of aluminium  recycling has been increasing and  is
+CO2 emissions per ton of aluminium produced,  (ii) the tonnes       expected to further increase as downstream industries employing
+produced and  (iii) the combination of tonnes and emissions, to       aluminium are shifting to secondary/recycled aluminium. Against
+reach the total CO2 emissions linked to individual aluminium       these industry backgrounds, Real Alloy established itself as a
+foundry alloy production.                                               leading supplier of recycled aluminium for, among other products,
+                                                                beverage cans, and as a provider of recycling services that are
+Based on the above, the Commission compiled saved emission                                                                      instrumental in the manufacturing of this product.
+shares representing how many emissions a supplier has saved by
+producing aluminium foundry alloys with a carbon footprint lower       Dross recycling is a key input for recycled wrought aluminium
+than  the  EEA  average.  These   calculations  allowed  the       producers who either toll dross or sell it on the merchant market.
+Commission  to  quantitatively  analyze  the CO2  impact  of       Real Alloy was active on both and was the largest European
+aluminium foundry alloy production in the EEA.                          player  with  capabilities  of  extracting  high  percentages  of
+                                                               aluminium which could not be matched by competitors  in a
+The Commission found that, while Hydro was a significant “green”                                                              market characterised by very limited spare capacities.
+producer  in  the  market, due  to  its  reliance on  renewable
+electricity, there would be sufficient alternatives to the Parties,        Similarly, salt slag recycling service  is a  critical input for the
+even in a narrow low-carbon alloys segment. The Commission       production of recycled aluminium, as salt slag is a hazardous
+also found that, while there are producers capable of producing      waste and  in case  salt slag cannot be  recycled, aluminium
+primary aluminium with a low carbon footprint, due to their        recyclers would have to downsize or stop production. In addition,
+reliance on renewable electricity,  it is aluminium recyclers who        salt slag recycling capacity is very tight at EEA-level and very few
+achieve the lowest carbon footprint on their production.               companies – including Real Alloy – are capable of offering a
+                                                                            “zero” waste recycling technology.
+The Commission  also found  that the  Parties are not  close
+competitors with regard  to a  hypothetical low-carbon  alloys      The Commission's investigation showed that the merged entity
+segment.  Indeed,  at  the  moment,  while  renewables-based       could engage in input foreclosure, as Real Alloy Europe has a
+primary aluminium producers such as Hydro have a lower carbon        significant market position upstream with specific capabilities
+footprint than other primary producers, their carbon footprint is      and there are few alternative suppliers for dross recycling and
+still higher than that of recyclers.                                            salt slag recycling.
+Therefore, based on the above, the Commission found that the       Following  the  transaction,  the  parties would have had  the
+parties' combined market shares  in the EEA market for solid        incentive and  ability  to  restrict  the  access  of downstream
+advanced aluminium foundry alloys are moderate and there are a       competitors for flat rolled products to necessary products and
+number of sizeable alternative suppliers, including green players.        services in the recycling chain. Restricting access to recycling
+Moreover, the Commission concluded that the parties are not        services, particularly in the context of aluminum and aluminium
+close competitors in the market for solid advanced aluminium       by-products recycling, presents a unique set of challenges that
+foundry alloys.
+                                                                                                 3  See    https://www.hydro.com/en/media/news/2023/hydro-completes-
+                                                                                    acquisition-of-alumetal-strengthening-recycling-position-in-europe/
+                                                                                                 4 Case M.10702 – KPS CAPITAL PARTNERS   / REAL ALLOY EUROPE,
+                                                                           19/10/2022.
+
+
+
+                                                   8
+
+[PÁGINA PDF 10]
+           M.10658 Norsk Hydro/Alumetal and M.10702 KPS Capital Partners/Real Alloy Europe |
+                                   Competition Merger Brief No 2/2023
+
+could also apply to other basic industries. The impact of such         4. Conclusion
+restrictions can extend beyond simple price increases and may
+involve complex  repercussions,  including  competitors  getting                                                             As  can be seen from  the two  examples  above,  the new
+lower value for recycled materials or forcing competitors to rely                                                                     challenges posed by the greening of the economy, which are
+on suboptimal methods, leading to higher refining charges and                                                                     transformative  for many  industries,  already  affect  forward
+lower yields. In turn, this would likely lead to higher prices for flat                                                                        looking merger  reviews. The Commission’s assessment takes
+rolled aluminium-based products used to produce beverage cans.                                                                      place within the existing legal framework and must be informed
+The  Commission  also  further  assessed  the  importance  of       by  the  Commission’s  investigation  and  market  feedback.
+recycled wrought aluminium for the downstream production of        Therefore, the way the Commission takes into account those new
+can ends and can  bodies.  In  this  respect,  the Commission      market realities stemming from the green transition follows a
+specifically examined the existing vertical relationship between       case-by-case approach.
+Real Alloy’s production of recycled wrought aluminium for can                                                             As was seen from the Norsk Hydro/Alumetal case, for example,
+ends  (upstream) and  the  Parties’  production  of  flat  rolled                                                                      while the production of low-carbon  alloys  is an element of
+products  (FRPs)  for  cans  (downstream).  The  Commission’s                                                                     closeness  of  competition,  it does not  constitute a separate
+investigation  showed   that  customers   preferred   recycled                                                                    product   market.   Furthermore,   the  Commission  designed
+aluminium for the production of aluminium cans, given (i) their                                                                          quantitative metrics that were adapted to the particulars of the
+lower carbon footprint and (ii) their lower cost. On this basis, the                                                                         case, namely, the decarbonisation of aluminium production and
+Commission defined separate product markets for recycled and                                                                     the stated transaction  rationale.  In the case of KPS Capital
+non-recycled wrought aluminium for can ends. The Commission                                                                        Partners/Real  Alloy,  alternatively,  the  production  of  recycled
+further found that the merged entity would have the ability to                                                               wrought alloys for can ends was considered distinct from non-
+foreclose the input (i.e. recycled wrought aluminium for can ends                                                                        recycled wrought alloys for can ends. This analysis was based on
+and can bodies) to downstream rivals. In turn, this could lead to                                                                     the specificities of the market(s) in question. The Commission
+higher  prices  for  aluminium  flat  rolled  products  used  to                                                                       also  adapted  its  framework  of  analysis  to  the  particular
+manufacture beverage cans.                                                                      competitive dynamics  of the  recycling  industries, where,  for
+To address the Commission's concerns, and in order to obtain a       example, in the upstream primary market, higher recycling prices
+Phase 1 clearance, KPS offered to divest Real Alloy’s recycled        effectively  mean  a  higher  production   cost.   Finally,  the
+aluminium production and dross recycling  facility in Swansea      Commission adopted a rigorous approach to remedies, in order to
+(United Kingdom) as well as Real Alloy’s salt slag recycling plant       ensure that the market power of the merging firms does not
+(France).  Implementing a  structural commitment  to remedy        affect the accelerating decarbonisation trends observed in the
+vertical effects preserved competition in the market for recycling       market.
+services and ensured that competitors continue to have access to                                                                                In   addition,   for  an  increasing  number  of   transactions,
+those  services  at  competitive  prices.  In  addition,  recycling                                                                              sustainability  goals  are  explicitly  factored  into  the  deal’s
+aluminum  and  aluminium  by-products   is  an  important                                                                               rationale. For other transactions, while “green” considerations
+environmentally sustainable  practice that reduces waste and                                                            were not at the heart of the reasons for the transaction, they
+conserves resources. Limiting access to recycling services could                                                             shaped the  industrial landscape the Parties operated  in, and
+hinder  competitors'  ability  to engage  in  responsible  waste                                                                       therefore  formed  determinative  parts  of  the  Commission’s
+management,  potentially  leading  to  negative  environmental                                                                      competitive assessment. As a result, by preserving competition
+impacts. A structural remedy in such cases  is thus the most                                                           and avoiding price increases, the merger control process can help
+suited solution to maintain a healthy competitive environment                                                                         protect market conditions in which “green” products can develop.
+and protect consumers' interests in a situation where a merged
+company would otherwise gain control over essential inputs.
+
+
+
+
+
+                                                   9
+
+[PÁGINA PDF 11]
+Competition Merger Brief 2/2023 – Article 3
+Competition merger brief
+
+  Sika/MBCC: Cementing Sustainability -         To  address  these  concerns,                                                                          Sika  proposed an  extensive    In a nutshell
+  Cutting Carbon through Chemistry                 global  divestiture of MBCC's                                                                                                                           In Sika/MBCC, the Commission
+                                                                     chemical admixture business                                                                                                   assessed a merger between
+   Marianne  Auffret,  Felix Herrmann, Johan Jonckheere,  Terézia      and  its R&D  facilities  to a                                                                                            two   leaders   of   chemical
+   Kianičková, Céline Rizzoli                                                  single purchaser.                                                                                                      admixtures    and     other
+                                                                                                                construction chemicals.
+     1. Introduction                                 2. Chemical
+                                               admixtures       To  address  the  competition  On  8  February  2023,  the  European  Commission   (the                                         concerns     identified,    Sika
+   “Commission”) cleared the acquisition of MBCC (Germany) by Sika        – Improving       offered  an  extensive  global
+   (Switzerland) (the “Transaction”) subject to the  divestiture of          the                       divestiture of MBCC's chemical
+   MBCC's global chemical admixture business.                                                           admixture  business  and   its
+                                                    properties                                                                                                               global R&D   facilities  to  a
+   Sika and MBCC  (formaly BASF  Construction Chemicals)  (the          of concrete         single purchaser.
+   “Parties”) are prominent global leaders and key innovators in the
+   development and  supply  of  chemical admixtures and  other            locally,                This case is a good example of
+   construction chemicals. Chemical admixtures play a crucial role in         based on         how  the  Commission  takes
+   enhancing  the  properties and  performance  of cement and          innovations      R&D      capabilities     and
+   concrete  in the  construction  industry. Since the  latter  is an                                               sustainability   considerations
+   important contributor to global greenhouse gas emissions, by         developed           into account when assessing a
+   reducing the amount of cement or concrete needed, chemical           globally             merger,  supporting  a  more
+   admixtures can help addressing environmental challenges.                                                 competitive  and  eco-friendly
+                                                                   Chemical admixtures are not      business environment  in  the
+   The Commission’s investigation revealed that the Transaction                                                            homogeneous   products  as     European Union and beyond.
+   would have significantly reduced competition and led to higher
+                                                                                    their     formulations     are
+   prices and decreased innovation in the chemical and concrete
+                                                                    developed and adapted depending on the desired functions or
+   admixtures markets accross the EEA. The companies' strong
+                                                                            properties to be improved in the cement, concrete or mortar.
+   market positions and global presence, coupled with their in-house
+                                                                              Their formulations also depend on the specific local atmospheric
+   production of polymers (raw materials to chemical admixtures)
+                                                                            conditions  (e.g. temperature, humidity) and the  specific  local
+  and  robust  research  and  development  (R&D)  capabilities,
+                                                                      composition of the raw materials, such as gravel, sand and water.
+   provided them with substantial economies of scale and scope,
+                                                                                   In addition to standards, admixtures such as water-reducing,
+   making them strong and important competitors to each other.
+                                                                          waterproofing,    accelerating,    air-entraining   or   retarding
+                                                                         admixtures, certain applications also require specialty admixtures   Of  particular  concern  was  the  Transaction’s  impact  on
+                                                                    developed using a tailor-made specification by the customer.   sustainability and  efforts  to reduce the carbon  footprint of
+                                                                     Being able to adapt to local conditions and offer a broad range of   concrete. Chemical admixtures, through the development of new
+                                                                              specialty admixtures, as well as having the testing and R&D   polymers and formulations, play a pivotal role in achieving low-
+                                                                                  capabilities  for  that,  is an  important  differentiating  factor   carbon emission goals, a vital aspect of the European Green Deal.
+                                                               between chemical admixtures producers.   Both companies were at the forefront of R&D efforts in this
+   regard, making their innovative products essential in reducing
+                                                                The  Commission’s  investigation  showed  that  the  chemical
+  cement  consumption  and  overall  carbon  emissions  in  the
+                                                                     admixtures markets in the EEA are characterised by significant
+   concrete industry.
+                                                                                  local specificities, where factors such as the distance between
+                                                                        the supplier’s and the customer’s plant or the familiarity of the
+                                                                                 supplier’s staff with local specificities were important parameters
+                                                                         of  competition.  Customers  also  tend  to  procure  chemical
+
+
+   The content of this article does not necessarily reflect the
+     official position of the European Commission. Responsibility
+    for the information and views expressed lies entirely with
+    the authors.
+
+[PÁGINA PDF 12]
+                     M.10560 Sika/MBCC  | Competition Merger Brief No 2/2023
+
+
+
+
+admixtures at local level. The Commission therefore considered        calculate the  Parties’ adjusted combined market shares. The
+potential catchment areas. However, in the absence of a clear      market  reconstruction  exercise  suggested  that,  for a  large
+appropriate  radius  and  other  limitations,  the  Commission      number of countries, the  Parties’ actual market shares were
+concluded that the markets for admixtures were likely national in       higher than the estimates they initially provided.
+scope. At the same time, the main suppliers are active at a global
+scale and certain aspects of their business models, in particular     Close  competition between two  global, R&D-
+R&D efforts and in-house production of raw materials such as      driven and vertically integrated industry leaders
+polymers, had an international,  if not a global dimension. This
+                                                             The Commission’s  investigation showed that Sika and MBCCwas an important element in the Commission’s assessment of
+                                                            compete  closely  in the supply of chemical admixtures. Boththe market positions of Sika and MBCC, and the suitability of the
+                                                              companies are leading players operating globally. In the EEA, theyproposed remedy.
+                                                                    are the two main suppliers according to the Commission’s market
+In  this  case,  the  Commission  carried  out  a  competitive        reconstruction. They are also the only players with a geographic
+assessment of the Transaction both on the overall market of        footprint extending to most of the EEA, each having chemical
+chemical admixtures, as well as the narrower market of concrete       admixture  plants  in  around 15 Member  States.  Very  few
+admixtures, on national basis in the EEA.                              admixture suppliers apart from Sika and MBCC are active at
+                                                                        global level, while some other players operate only at regional or
+   3. Ensuring that the European                   national levels. Thanks to their wide geographic presence and
+                                                                                 their  large  product  portfolios, both companies  benefit from
+      construction sector, including                 significant economies  of  scale and  scope,  including  in  the
+    many SMEs, can continue using            sourcing of raw materials.
+      competitively priced and                          In addition, the Commission’s investigation showed that both Sika
+      innovative admixtures                      and MBCC had strong R&D capabilities by industry standards.
+                                                              They are among very few admixture suppliers whose R&D  is
+Following   the  Commission’s  Phase    I   investigation,   the       underpinned by  the  captive  production  of  polymers, a  key
+Commission had serious doubts that the Transaction would have      component of chemical admixtures. This provided them with a
+substantially reduced competition in the markets for chemical       competitive  advantage  over  chemical  admixture  suppliers
+and concrete admixtures in 22 EEA Member States.                     sourcing polymers on the market. The Commission’s investigation
+                                                                     revealed that their in-house production of polymers allows Sika
+Assessing the validity of market share estimates      and MBCC  to  reduce  their  production  costs,  develop more
+through a  market  reconstruction  exercise  at        innovative  chemical  admixtures  and  better  customise  their
+                                                                     products to meet the requirements of customers.national level
+The Commission carried out a market reconstruction exercise to      The investigation indeed showed that both Sika and MBCC have
+verify the market shares estimates provided by the Parties. As       great  capabilities  in customising admixtures, ahead of other
+they did not have visibility on the sales of their competitors, the        competitors. Large customers in particular look for suppliers that
+Parties  tried to estimate the  overall market  size  relying on       can offer them added value and develop tailor-made products.
+industry reports and a number of assumptions which were not       Sika and MBCC both provide bespoke solutions, particularly for
+fully corroborated. Moreover, the results of these estimates were       complex infrastructure projects, such as tunnelling and mining.
+not  in  line  with  those  mentioned  in  the  Parties’  internal       Both companies have cooperation agreements with customers to
+documents prepared in the normal course of business.                  create  new  types  of  concrete,  which  may  involve  the
+                                                               development  of new  polymers  or  specific  formulations  for
+In order to reconstruct the market, the Commission reached out       targeted projects.
+to the Parties’ competitors to collect their sales data from each
+EEA country in which they were active in the last three years. The     Reducing the carbon footprint and enhancing the
+Commission achieved a good  overall coverage as  all major       circularity   of   concrete   production  through
+competitors identified by the Parties provided their sales data to      innovative chemical admixtures
+the Commission and  several  additional  smaller  competitors
+whose sales were not reported by the Parties in certain countries      The Parties’ green R&D was an important part of their
+also provided their sales data. When competitors failed to provide       leading innovation capabilitites
+their  sales  data, the Commission supplemented the missing
+information with the Parties' estimates.                             The investigation showed that Sika and MBCC are global industry
+                                                                      leaders in R&D on chemical admixtures in terms of spending,
+These sales estimates were then aggregated to reconstruct the      number and  geographic scope  of  research  sites,  personnel,
+market size in each EEA country. Using the Parties’ own sales and        pipelines, patent protection and strategy.
+the newly reconstructed market size, the Commission was able to
+
+
+
+                                                  11
+
+[PÁGINA PDF 13]
+                     M.10560 Sika/MBCC  | Competition Merger Brief No 2/2023
+
+
+
+
+Their ability to develop innovative products and solutions puts     MBCC were shown  to have  strong  portfolios  of  patents  in
+them ahead of their competitors, with many ongoing research       admixtures and polymers, in terms of both quantity and quality.
+projects, at both the polymer and the admixture formulation
+stages. MBCC in particular, through its historic link with BASF, has      The Commission therefore concluded that the Transaction could
+a strong reputation for product innovation. Both companies also      have caused competitive harm by reducing incentives to innovate,
+derive some of  their innovative strengths from  their  vertical        especially on sustainability, and that any remedy package had to
+integration into polymer production.                                      include  global R&D, going beyond  the geographic scope  of
+                                                                     competition concerns.
+Innovation in chemical admixtures, through the development of
+either new polymers or new formulations, plays a key role in the         4. An extensive global divestiture
+concrete and cement industry. Admixture suppliers therefore need          with a swift purchaser approvalto have strong R&D and customisation capabilities in order to
+compete   for   large   construction   projects,   while  product
+                                                             To  address  the  Commission’s  competition  concerns,  Sika
+competition among the leading admixture suppliers such as Sika
+                                                                         ultimately offered to divest MBCC’s chemical admixture businessand MBCC is driven and supported by R&D, including at global
+                                                                                   in the EEA, Australia, Canada, New Zealand, Switzerland, the UKlevel. Product development often takes place at a centralised
+                                                           and US,  including MBCC’s  global  research and development
+level, with national R&D centres adapting globally developed
+                                                                                           facilities, in a single package and to a single purchaser.products to local markets.
+
+                                                              Not only did the divestiture remove the entire overlap created byFurthermore, the investigation revealed that product innovation in
+                                                                     the  Transaction  in  relation  to  chemical  admixtures,   it  alsochemical admixtures has markedly grown in importance in recent
+                                                                extended beyond MBCC’s European admixture business where theyears, now that the construction industry is transitioning to meet
+                                                             Commission had serious doubts. This is because MBCC was activelow-carbon emission  goals.  In  particular  in the EU, reducing
+                                                                           globally and its operations were supported by central R&D assets.carbon  dioxide  (CO2)  to meet  sustainability  targets  is  an
+                                                                  Given that the Parties’ innovation capabilities at global scale,important part of the European Green Deal.
+                                                                      together with the advantages brought by  vertical integration,
+Concrete admixtures can help a lot in bringing down the carbon      were key  to  their  market-leading  positions and  competitive
+footprint of the construction industry, especially by reducing the       strength in the EEA, only a divestiture of a standalone business
+use of cement, which is a key component of concrete. Cement        including such large-scale business and innovation capabilities
+                                                                     could fully address the Commission’s concerns in Phase I.production  is an  energy-intensive  process  that  emits  large
+amounts of CO2. Incorporating high-performance admixtures in
+                                                             The proposed remedy was structured as a reverse carve-out,1the concrete mix can reduce cement consumption and improve
+                                                                     ensuring  that  the  divestment  business  would  include   allconcrete performance, thus cutting overall carbon emissions.
+                                                                  necessary assets, personnel, IP, and R&D capabilities to be able
+New types of admixtures are also helping to make the concrete        to operate as a standalone business and to reach a large scale as
+production chain more circular. For instance, specific admixtures      an effective competitor of the merged entity. It also enabled the
+have been developed that enable recycled concrete to be used as       divestment business to potentially expand to other countries with
+an aggregate, which contributes to reducing dependency on finite        similar brands and patents, which was  crucial to ensure  its
+                                                                                     viability and competitiveness.natural resources such as gravel and sand, and to decarbonising
+the  construction  industry.  Both  Sika and MBCC have been
+                                                                                In addition, to ensure that the remedy is effective, a suitabledeveloping competing solutions for recycled concrete as part of
+                                                                   purchaser  of  the  divestment  business had  to have  certaintargeted R&D projects, working together with external research
+                                                                               characteristics. In particular, it was important that the purchaserinstitutes.
+                                                           had  the  necessary  know-how  and  expertise  in  chemical
+Patent analysis                                                     admixtures, track-record of operating businesses viably and an
+                                                                           incentive  to continue  investing  in the R&D  activities of the
+The protection of those R&D efforts through intellectual property       divestment business. At the same time, large cement/concrete
+rights seems to be a key strength  for the main admixture       manufactuers  were  excluded  from  the  pool  of  suitable
+suppliers. In order to map Sika’s and MBCC’s relative strength in       candidates in light of risks of vertical competition concerns, which
+patent protection of chemical admixtures, the Commission carried      were   also  flagged  by  market   participants   during  the
+out a targeted analysis of both companies’ and their competitors’       Commission’s market test of the proposed remedy. These specific
+patent portfolios.
+
+This patent analysis revealed that Sika and MBCC are among few          1                                                                                    This means that the business is divested as a whole to a purchaser but
+players that have significant active patent portfolios in chemical          the merged  entity may  retain one  or more assets  that are not
+admixtures, at both the polymer and the formulated product          necessary  for  the  viability  and  competitiveness  of  the  carved-
+levels. Among competing admixture suppliers in the EEA, Sika and          divestment business.
+
+
+
+                                                  12
+
+[PÁGINA PDF 14]
+                     M.10560 Sika/MBCC  | Competition Merger Brief No 2/2023
+
+
+
+
+requirements were reflected in the commitments as additional      The regular liaison among the authorities played a key role to
+purchaser criteria.                                                   achieve  this  goal. The Commission and  its  counterparts  in
+                                                                               Australia, Canada, New  Zealand,  the UK and  the USA  also
+Sika proposed Cinven, a private investment firm, as the purchaser      engaged closely during the assessment of the suitability of the
+of the remedy package. The Commission was able to swiftly       proposed purchaser for the divestment business, leading to the
+engage with the Parties and Cinven to assess its suitability as a       approval of Cinven by all authorities. Thus, this case serves a
+purchaser,  and  approved  the  purchaser  only  two  months       useful  example  of how  international  cooperation  between
+following the adoption of the conditional clearance decision. In       competition  regulators can  contribute  to  finding a  suitable
+this specific case, a private equity purchaser was suitable as        solution to address concerns  in merger investigations across
+Cinven had prior experience in successfully operating chemical        jurisdictions to the benefit of competition enforcement and the
+admixtures and construction businesses more widely including      companies involved.
+through significant investments.
+                                                     6. Conclusion
+   5. Multi-jurisdictional cooperation
+    among authorities                            The  Commission's  decision  highlights  the  importance  of
+                                                                              sustainability considerations in enforcing merger control, and how
+Throughout  its  investigation, the Commission was  in  regular         this can be achieved through  international  cooperation. The
+contact with competition authorities in Australia, Canada, New        decision  reflects the Commission's commitment to promoting
+Zealand, the UK and the USA. While the chemical admixtures       competition while advancing environmental objectives as and
+markets have numerous  local  specificities,  close cooperation      when it matters, supporting a more competitive and eco-friendly
+among the regulators was particularly important in view of the       business  environment  in  the  European  Union  and  beyond.
+role of the scale and geographic footprint of the Parties’ activities        Sustainability considerations, which are of growing concern for
+for their competitiveness and the global nature of their R&D        industries and customers, are an integral part to merger control
+activities. Given that the Parties’ R&D assets were located in just        evaluations.
+a few countries, but served their chemical admixtures business
+across  jurisdictions,  it was  crucial to secure a  single global
+remedy package that would address competition concerns in all
+relevant jurisdictions and that would be ultimately divested to a
+single purchaser.
+
+
+
+
+
+                                                  13

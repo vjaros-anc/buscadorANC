@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "4490e31bb648c6e50ce908b4517bb76348238835b4f24037f742ee973a890bb1",
+  "extraido_utc": "2026-10-22T19:46:17+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20261013161013+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.12330_CP_01",
+      "caso": "M.12330",
+      "universo": "principal",
+      "titulo": "Commission approves Kimberly-Clark's acquisition of Kenvue, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_2137/IP_26_2137_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2137",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_12330/M.12330_CP_01_4490e31bb648.pdf",
+      "sha256": "4490e31bb648c6e50ce908b4517bb76348238835b4f24037f742ee973a890bb1",
+      "coincide_inventario": "",
+      "bytes": "81446",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_2137/IP_26_2137_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:07+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                           European Commission - Press\n                               release\n\n\n\n\n\nCommission approves Kimberly-Clark's acquisition of Kenvue, subject to\nconditions\n\nBrussels, 13 October 2026\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nby Kimberly-Clark Corporation ('Kimberly-Clark') of Kenvue Inc ('Kenvue'). The approval is\nconditional upon full compliance with the commitments offered by Kimberly-Clark.\n\nKimberly-Clark is globally active in the production and sale of personal care products for personal,\nbusiness, and industrial use. Its brand portfolio includes Huggies and Kotex, among others.\n\nKenvue is active in the manufacturing and supply of consumer health products. Its brands include\nListerine, Nicorette, Neutrogena, and o.b, among others.\n\nThe Commission's investigation\n\nThe Commission had concerns that the transaction, as initially notified, would reduce competition in\nthe markets for the supply of tampons in particular in Czechia, Estonia, and Slovakia. The\nCommission's investigation found that the transaction would result in the removal of an important\ncompetitor in these markets, where already few other suppliers are present.\n\nThe proposed remedies\n\nTo address the Commission's preliminary competition concerns, Kimberly-Clark offered to divest all\nits tampon and other feminine hygiene brands in the European Economic Area ('EEA'), including\nintellectual property rights, know-how, and associated key employees and relationships. The brands\ncovered by the divestment are Kotex (including the Lidie sub-brand), Camelia, and Record.\n\nThese commitments fully address the competition concerns identified by the Commission by\nremoving the horizontal overlap between the companies' activities in the EEA.\n\nFollowing the feedback received in the context of the market test and consequent amendments to the\ncommitments, the Commission concluded that the transaction, as modified by the commitments,\nwould no longer raise competition concerns.\n\nIn today's decision, the Commission has also approved Dilek Gıda Üretim ve Pazarlama Ticaret A.Ş.\n('Dilek') as the purchaser of the divested business. Following a careful review of Dilek's business\nplan with the help of an independent adviser, the Commission concluded that Dilek is a suitable\npurchaser given that it has, among others, the financial resources to maintain and develop the\ndivested business, as well as the expertise to operate it effectively as a viable and active competitive\nforce.\n\nThe decision is conditional upon full compliance with the commitments. Under the supervision of the\nCommission, an independent trustee will monitor their implementation.\n\nCompanies and products\n\nKimberly-Clark, headquartered in the US, is globally active in the production and sale of personal\ncare products for personal, business, and industrial use. In the EEA, Kimberly-Clark supplies diapers\nfor infants and children, adult incontinence products, and feminine hygiene products. Kimberly-Clark's\nbrand portfolio includes, among others, Huggies and Kotex.\n\nKenvue, headquartered in the US, is active in the manufacturing and supply of consumer health\nproducts. In the EEA, Kenvue supplies over-the-counter drugs, skin health and beauty products, baby\ncare products, feminine hygiene products, and essential health products such as mouthwash and\ntoothpaste. Kenvue's brands include, among others, Listerine, Nicorette, Neutrogena, and o.b.",
+      "caracteres": 3477,
+      "caracteres_utiles": 2804,
+      "cobertura_imagen_maxima": 0.0196,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Dilek, headquartered in Turkey, is a distributor of leading brands in the fast-moving consumer goods\nsector.\n\nMerger control rules and procedure\n\nThe transaction was notified to the Commission on 25 August 2026.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a turnover\nabove certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent concentrations\nthat would significantly impede effective competition in the EEA or any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II). If\ncommitments are proposed in Phase I, the Commission has 10 additional working days, bringing the\ntotal duration of a Phase I case to 35 working days, such as in this case.\n\nFor more information\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.12330.\n\n                                                                                                            IP/26/2137\n\nQuote(s):\n\n\n \"One of the issues that concerns many women is the price of feminine hygiene products. These are essential products that women\n cannot do without. That is why, when assessing Kimberly-Clark’s acquisition of Kenvue, we paid particular attention to the risk of\n reduced competition in the tampon markets in Czechia, Estonia and Slovakia. Kimberly-Clark’s commitment to divest its feminine\n hygiene brands, including Kotex, Camelia and Record, will preserve competition, choice and affordable prices for women.\"\n Teresa Ribera, Executive Vice-President for Clean, Just and Competitive Transition\n\n<@rel_link@>\n\n\n Press contacts:\n\n       Ricardo CARDOSO (+32 2 298 01 00)\n      Sara SIMONINI (+32 2 298 33 67)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2057,
+      "caracteres_utiles": 1554,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

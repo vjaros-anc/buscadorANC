@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "6fab4d7c67e04d04c49280ddcbf5861a0d1ce33e48c15e00c5b23717b34a6c93",
+  "extraido_utc": "2026-10-22T19:28:41+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10433_NOT_PREVIA_01",
+      "caso": "M.10433",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — VIVENDI / LAGARDERE",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "FR",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202244/M_10433_8589153_2864_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202244/M_10433_8589153_2864_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10433/M.10433_NOT_PREVIA_01_6fab4d7c67e0.pdf",
+      "sha256": "6fab4d7c67e04d04c49280ddcbf5861a0d1ce33e48c15e00c5b23717b34a6c93",
+      "coincide_inventario": "",
+      "bytes": "139426",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202244/M_10433_8589153_2864_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "FR\n\nClause de non-responsabilité:\n\nLa DG Concurrence met à la disposition du public, dans un souci de transparence accrue, les renseignements\ncommuniqués par les parties notifiantes dans la section 1.2 du formulaire CO. Ces informations ont été\nélaborées par les parties notifiantes, qui en sont seules responsables, et leur teneur ne préjuge nullement la\nposition de la Commission sur l'opération envisagée. La Commission ne peut pas davantage être tenue pour\nresponsable des renseignements inexacts ou dénaturés qui y figureraient.\n\nM.10433 – VIVENDI / LAGARDERE\n\n                         SECTION 1.2\n\n                           Description de la concentration\n\n1.    Le 24 octobre 2022, la Commission européenne a reçu notification d’un projet de\n       concentration consistant en l’acquisition, par voie d’une offre publique, du contrôle\n        exclusif de Lagardère S.A. (« Lagardère ») par Vivendi S.E. (« Vivendi »).\n\n2.     Vivendi et Lagardère sont toutes deux actives notamment dans les secteurs (i) de\n        l’édition, (ii) de la presse écrite et (iii) du spectacle vivant, du divertissement et de la\n         billetterie, (iv) de la publicité et (vi) des jeux vidéo.\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 1410,
+      "caracteres_utiles": 1040,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

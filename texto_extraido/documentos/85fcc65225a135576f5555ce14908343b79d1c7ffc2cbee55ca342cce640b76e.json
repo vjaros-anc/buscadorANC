@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "85fcc65225a135576f5555ce14908343b79d1c7ffc2cbee55ca342cce640b76e",
+  "extraido_utc": "2026-10-22T19:28:20+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": " ",
+    "author": "Jonas RASIMAS",
+    "subject": "",
+    "keywords": "EL4",
+    "creator": "Acrobat PDFMaker 25 for Word",
+    "producer": "Adobe PDF Library 25.1.51",
+    "creationDate": "D:20250618093452+02'00'",
+    "modDate": "D:20250618093454+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10341_OTRO_01",
+      "caso": "M.10341",
+      "universo": "principal",
+      "titulo": "Trustee details — PRINCE / FERRO",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202525/M_10341_10665462_1505_8.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202525/M_10341_10665462_1505_8.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10341/M.10341_OTRO_01_85fcc65225a1.pdf",
+      "sha256": "85fcc65225a135576f5555ce14908343b79d1c7ffc2cbee55ca342cce640b76e",
+      "coincide_inventario": "",
+      "bytes": "91446",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202525/M_10341_10665462_1505_8.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "     MONITORING TRUSTEE IN CASE M.10341 – PRINCE / FERRO\n\n\nOn 7.02.2022 the Commission approved the appointment of:\n\n          S&W Partners LLP (formerly known as Smith & Williamson LLP)\n\n                 Address: 45 Gresham Street, London EC2V 7BG, United Kingdom\n\n                Nasoul Gopal, Partner & Head of Monitoring Trustee Services,\n                 Email: nasoul.gopal@swgroup.com\n                 Phone: +44 (0) 20 4617 5423\n\nas Monitoring Trustee in the above-mentioned case.\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of Prince / Ferro with\nthe Commitments attached to the Commission's Decision of 25/01/2022 and to report to\nthe Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 953,
+      "caracteres_utiles": 696,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,794 @@
+[PÁGINA PDF 1]
+       EUROPEAN COMMISSION
+          DG Competition
+
+
+
+
+              Case M.10341 – PRINCE / FERRO
+
+
+
+
+
+                            Only the English text is available and authentic.
+
+
+          REGULATION (EC) No 139/2004
+              MERGER PROCEDURE
+
+
+
+Decision on the implementation of the commitments -
+                                Purchaser approval
+                                  Date: 21/04/2022
+
+[PÁGINA PDF 2]
+               EUROPEAN COMMISSION
+
+
+
+
+                                                     Brussels, 21.4.2022
+                                             C(2022) 2618 final
+
+                                     PUBLIC VERSION
+
+                                                                 In the published version of this decision,
+                                                some  information  has  been  omitted
+                                                              pursuant  to  Article  17(2)  of  Council
+                                                           Regulation (EC) No 139/2004 concerning
+                                                            non-disclosure of business secrets and other
+                                                                confidential information. The omissions are
+                                                  shown  thus  […].  Where  possible  the
+                                                           information omitted has been replaced by
+                                                            ranges of figures or a general description.
+
+                                   ASP Prince Holdings, Inc.
+                                           15311 Vantage Parkway West,
+                                                     Suite 350
+                                           77032 Houston, Texas
+                                                 United States of America
+
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.10341 – PRINCE / FERRO
+          Approval of KPS as purchaser of Prince’s Divestment Businesses following
+          your letter of 18 February 2022 and the Trustee’s opinion of 12 April 2022
+
+
+
+1.    FACTS AND PROCEDURE
+
+(1)   By decision of 25 January 2022  (the “Decision”), based on Article 6(1)(b) in
+       connection with Article 6(2) of Council Regulation (EC) No 139/2004 (the “Merger
+       Regulation”),  the  Commission  declared  the  operation, by which ASP  Prince
+       Holdings  Inc. (“Prince”) acquires, within the meaning of Article 3(1)(b) of the
+      Merger Regulation, sole control over Ferro Corporation (“Ferro”), compatible with
+        the  internal  market,  subject  to  conditions and  obligations  (the “Commitments”).
+       Prince and Ferro are collectively referred to as the “Parties”.
+
+(2)    The Commitments  consist of the divestment of  (i) Prince’s European porcelain
+      enamel coatings business, and (ii) Prince’s European glass coatings business, which,
+        respectively, include Prince’s Belgian subsidiary Prince Belgium BV (including its
+       branches in France and Germany, as well as a representative office in Shanghai) and
+
+
+
+
+Commission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE
+Europese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË
+
+Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.
+
+[PÁGINA PDF 3]
+       Prince’s  Italian subsidiary Prince Minerals Italy S.r.l., jointly referred to as the
+       “Divestment Businesses”.
+
+(3)     Specifically, the following elements are included in the Divestment Businesses:
+
+           a)  Prince’s manufacturing facility in Bruges, Belgium (the “Bruges Facility”)
+             and all tangible and intangible assets (including intellectual property rights)
+              located at the Bruges Facility needed to manufacture, develop and supply
+              porcelain  enamel  coatings  as  currently  manufactured,  developed,  and
+              supplied by Prince,
+
+           b)  Prince’s manufacturing facility in Cambiago, Italy (the “Cambiago Facility”)
+             and all tangible and intangible assets (including intellectual property rights)
+              located at the Cambiago Facility needed to manufacture, develop and supply
+               glass coatings as currently manufactured, developed, and supplied by Prince,
+
+           c)  All  production  equipment  necessary  for  the  production  of  forehearth
+               concentrates to be relocated to the Bruges Facility from Fenton, UK,
+
+           d) The land where the tangible assets belonging to the Divestment Businesses
+              are located (except for the premises where the Cambiago Facility operates as
+               these are not owned by Prince Minerals Italy S.r.l.),
+
+           e)  All raw materials,  if any, work in progress and finishing goods inventory
+               related to the Divestment Businesses,
+
+              f)  All  intellectual property  rights used by Prince Belgium BV and Prince
+             Minerals  Italy  S.r.l.,  know-how  and R&D  relating  to  the  marketing,
+             development, manufacture and supply of porcelain enamel coatings and glass
+               coatings  (including  logos,  sub-brands,  taglines,  trade  dress)  and  the
+              manufacturing processes used, including with respect to pipeline products,
+
+           g)  All  licences,  permits  and  authorisations  issued by any  governmental
+               organization for the benefit of the Divestment Businesses,
+
+           h)  All contracts, leases, commitments, and customer orders of the Divestment
+              Businesses,
+
+              i)  All customer, credit and other records of the Divestment Businesses,
+
+              j)  Through a transition services agreement (“TSA”), transitional support to the
+               extent requested by the purchaser and for a period of up to […] months, with
+             an option for renewal of […] months,
+
+           k)  License to the purchaser – for a period up to […] months necessary to allow
+                the purchaser to rebrand the Divestment Businesses – to use the “Prince”
+            name and logo to the same extent as such name and logo are currently used
+            by Prince in relation to the Divestment Businesses,
+
+              l)  During the period of the above mentioned license, a black-out period of up to
+           […] months during which Prince will not, within the EEA, sell any Prince-
+             branded products of a type that is currently manufactured by the Divestment
+              Businesses or Prince-branded forehearth concentrate products; and
+
+
+                                                      2
+
+[PÁGINA PDF 4]
+         m) All personnel employed at each of the Bruges Facility and the Cambiago
+               Facility  (approximately 125  individuals  in  the Bruges  Facility and 26
+               individuals in the Cambiago Facility), including the key personnel.
+
+(4)    The Commitments include also Prince’s commitment not to close the acquisition of
+       Ferro before the Commission approves a potential purchaser and the terms of the
+       sale (upfront buyer requirement).
+
+(5)   By letter of 18 February 2022, Prince proposed KPS Capital Partners, LP (“KPS” or
+        the “Proposed Purchaser”)  for approval by the Commission as purchaser of the
+       Divestment Businesses and submitted the proposed Securities and Asset Purchase
+      Agreement and  related agreements (the “Proposed Agreement”), as entered into
+      between Prince and KPS on 9 February 2022. Shortly after, Smith & Williamson
+     LLP (the “Trustee”) submitted an assessment of KPS’ suitability as a purchaser (the
+      “Reasoned Opinion”) and, in particular, indicated that it fulfils the purchaser criteria
+       pursuant  to paragraph 15 of the Commitments attached to the Decision. In this
+       assessment, the Trustee indicated also that, based on the Proposed Agreement, the
+       Divestment Businesses would be sold in a manner consistent with the Commitments.
+
+
+2.    ASSESSMENT OF THE PROPOSAL
+
+2.1.   Description of the Proposed Purchaser
+
+(6)   KPS is a private equity firm, headquartered in New York, United States. KPS has
+      completed  approximately 100  controlling  investments  through  six  institutional
+       investment funds. As of September 2021, KPS portfolio companies had aggregate
+       annual revenues of approximately USD 14.9 billion, operated 163 manufacturing
+        facilities in 26 countries and had over 43,000 employees, directly and through joint
+       ventures worldwide. KPS has three active funds, KPS Special Situations Fund IV,
+     KPS Special Situations Fund V, and KPS Special Situations Mid-Cap Fund. These
+        three active funds had a combined USD […] billion of investments at fair value as of
+      31 December 2020. KPS Special Situations Mid-Cap Fund  is the fund actively
+       investing  in  the  Divestment  Businesses  (the  “Fund”).  The  Fund  focuses  on
+       investments in the lower-end of the middle market that require up to USD 100
+       million of  initial  equity capital. The Fund  targets the same type of investment
+       opportunities and utilises the same investment strategy as the other KPS funds.
+
+(7)   KPS acquires businesses manufacturing a diverse array of products across a broad
+      number  of  industries,  such  as  materials,  healthcare,  automotive  and  general
+       manufacturing.1  It operates three main investment strategies:
+
+             a)  corporate divestitures and carve-outs, which consist in the creation of new
+                 portfolio companies to acquire non-core assets or businesses from large
+                corporations that would benefit from becoming an independent or focused
+              company,2
+
+
+
+
+1    KPS’ experience in the manufacturing/industrial sector includes Anchor Glass, AIS Global, Chassis
+      Brakes, Expera, Howden, IKG, North American Breweries, Life Fitness, and Waupaca.
+2     Corporate carve-outs represent approximately 50% of the KPS platform investments.
+
+
+                                                      3
+
+[PÁGINA PDF 5]
+            b)  private sales, which consist in acquiring assets or businesses from families,
+                entrepreneurs,  and  other  financial  owners  seeking  to  transfer  their
+               ownership, and
+
+             c)  businesses acquired in connection with financial restructuring proceedings.
+
+2.2.   Purchaser criteria
+
+(8)    Based on the Commitments,3 in order  to be approved by the Commission, the
+       purchaser must fulfil the following criteria:
+
+             a)  the purchaser shall be independent of and unconnected to the Parties and
+                  their  affiliated  undertakings  (this being assessed having regard  to  the
+                 situation following the divestiture),
+
+            b)  the  purchaser  shall  have  the  financial  resources,  proven  experience
+                 (specifically in the manufacturing sector  in the EEA) and  incentive to
+               maintain and develop the Divestment Businesses as a long-term viable and
+                active  competitive  force  in  competition  with  the  Parties  and  other
+                competitors,
+
+             c)  should the purchaser be a financial investor, it shall (i) have a proven track-
+               record of long-term commitment  to maintain the businesses  it acquired
+                viable, competitive, and well-capitalised and (ii) demonstrate a long-term
+              commitment  to maintain the Divestment Businesses  viable, competitive,
+              and well-capitalised,
+
+            d)  the acquisition of the Divestment Businesses by the purchaser must neither
+              be likely to create, in light of the information available to the Commission,
+             prima  facie  competition  concerns  nor  give  rise  to  a  risk  that  the
+               implementation of the Commitments will be delayed. In particular, the
+               purchaser must be reasonably expected to obtain all necessary approvals
+             from  the  relevant  regulatory  authorities  for  the  acquisition  of  the
+              Divestment Business.
+
+2.3.   Independence from the Parties
+
+(9)    Prince submits that the Proposed Purchaser and the Parties are entirely independent
+      and unconnected. Specifically, neither KPS nor any of its portfolio companies have
+      any shareholdings in companies, which are related to, or form part of, Prince or
+       Ferro. None of KPS’  portfolio companies has any common executive or non-
+       executive directorships, or memberships to the management or supervisory boards of
+       Prince and/or Ferro. There are no cross shareholdings, commercial, management, or
+      board links between KPS, its portfolio companies and Prince and/or Ferro. Finally,
+        there are no supply agreements,  sales  relationships, or  other commercial  links
+      between KPS and Prince, Ferro, or their affiliated undertakings, and vice versa.
+
+(10)   In its Reasoned Opinion, the Trustee submits that the Proposed Purchaser does not
+      have any planned or current business relationships with Prince and/or Ferro, other
+       than those  related  to the divestiture of the Divestment Businesses. The Trustee
+
+
+3     Paragraph 15 of the Commitments.
+
+
+                                                      4
+
+[PÁGINA PDF 6]
+       confirms  that KPS does not participate to any joint ventures with Prince and/or
+       Ferro. It does not have any common executive or non-executive directors, members
+       of the management board or the supervisory board of Prince and/or Ferro or any of
+        their affiliated undertakings or vice versa. Finally, there are no links between KPS
+      and Prince and/or Ferro or any of their subsidiaries.
+
+(11)   The Trustee informed the Commission that one of KPS’ partners owns a de minimis
+      amount of Ferro stock by means of a brokerage account which is managed by a third
+        party, and over which the KPS partner owning  this stock does not have any
+        discretion. The Commission further inquired whether, through the ownership of this
+        stock,  the KPS  partner would exercise some  control over Ferro. The Trustee
+       confirmed  that, while  the stock comes with the benefits and  rights of ordinary
+     common stock,  it corresponds to […] of Ferro’s shares out of 93.4 million shares
+       issued of common stock and 83.6 million shares outstanding as of 31 December
+       2021. The Commission, thus, considers that the Ferro stock held by the KPS partner
+         is too limited to allow this partner to exercise any influence over Ferro.
+
+(12)   In light of the foregoing, the Commission considers that the Proposed Purchaser is
+       independent and unconnected to Prince, Ferro and their affiliates.
+
+2.4.   Financial resources, proven experience (specifically in the manufacturing sector
+       in the EEA) to maintain and develop the Divestment Businesses as viable and
+       competitive and proven track-record of long-term commitment to maintain the
+       businesses it acquired viable, competitive, and well-capitalised
+
+(13)   Considering that the Proposed Purchaser is a financial investor, in addition to the
+        traditional purchaser criteria, including financial resources, proven experience, and
+       incentive to maintain and develop the Divestment Businesses as a viable and active
+       competitor, the Proposed Purchaser shall also meet the special purchaser criteria.
+      These criteria are set out in the Commitments and they require that the Proposed
+       Purchaser shall (i) have a proven track-record of long-term commitment to maintain
+        the  businesses   it  acquired  viable,  competitive, and  well-capitalised and  (ii)
+       demonstrate a long-term commitment to maintain the Divestment Businesses viable,
+       competitive, and well-capitalised.
+
+(14)   In this Section 2.4, the Commission will analyse the Proposed Purchaser’s financial
+       resources, its proven experience to maintain and develop the Divestment Businesses
+       as a viable and active competitor, as well as its proven track-record of long-term
+      commitment  to maintain the businesses acquired  viable, competitive, and well-
+        capitalised. In Section 2.5, the Commission will analyse the Proposed Purchaser’s
+        incentive, and  its long-term commitment  to maintain the Divestment Businesses
+        viable, competitive, and well-capitalised.
+
+2.4.1.  Financial resources to maintain and develop the Divestment Businesses as a viable
+      and active competitor
+
+(15)   Under the Proposed Agreement, the acquisition price of the Divestment Businesses
+         is set at USD […] plus (or minus) necessary adjustments at closing, including cash
+       amounts, indebtedness, and transaction expenses.
+
+(16)   Given the  acquisition price and as regards  the Proposed Purchaser’s  financial
+       resources, Prince submits that KPS has the financial resources to purchase, maintain
+      and develop the Divestment Businesses as a viable and active competitive force in
+
+                                                      5
+
+[PÁGINA PDF 7]
+       competition with the Parties and other players active in the market. Prince indicates
+        that KPS has more than sufficient funding in place to support the ongoing operation
+        of, and any potential  future investments by or  into, the Divestment Businesses.
+        Specifically, KPS has a credit facility with […], i.e., a USD […] million initial term
+        facility to finance the acquisition, and a USD […] million revolving facility to
+       finance the future operations of the Divestment Businesses. KPS would also be able
+        to finance further potential investments with respect to the Divestment Businesses
+       with equity.
+
+(17)   In  its Reasoned Opinion,  the Trustee notes  that, while KPS secured financing
+       through […] for a portion of the purchase price of the Divestment Businesses,  it
+      would be able to finance its entire acquisition with equity. Hence, even without the
+        external financing element, KPS would have the funds to continue the acquisition of
+        the Divestment Businesses on its own.
+
+(18)   The Trustee indicates that it examined the Fund’s financial statements. The Trustee
+       confirmed to the Commission that the net assets of the Fund have increased, the
+      Fund  is  profitable and there  is  further capital available, and the partners have
+      committed a total of USD […] to the Fund. As of 31 December 2020, USD […]
+     ([…]%) of such committed capital was available to be collected and, as of 31
+      December  2021, USD […] was  available  to  finance  the  acquisition  of  the
+       Divestment Businesses.
+
+(19)   In light of the foregoing, the Commission considers that the Proposed Purchaser has
+        sufficient financial resources to maintain and develop the Divestment Businesses as
+       a viable and active competitor.
+
+2.4.2. Proven experience (specifically in the manufacturing sector in the EEA) to maintain
+      and develop the Divestment Businesses as viable and active competitor
+
+(20)  As regards the Proposed Purchaser’s proven experience, Prince indicates that KPS
+       has a  particular focus on corporate carve-outs for  industrial and manufacturing
+       companies, and has invested in several companies operating manufacturing sites in
+        the EEA.  Additionally,  Prince  notes  that KPS  has  maintained  positive  and
+       constructive working  relationships with  the major  manufacturing and  industrial
+       unions in Europe since its creation in 1991. Therefore, Prince considers that, over the
+        years, KPS has developed a deep understanding of the characteristics and drivers of
+        the manufacturing industry in the EEA, and has built established relationships with
+         all the relevant stakeholders which will enable KPS to easily and readily support the
+       Divestment Businesses.
+
+(21)   In  its Reasoned  Opinion,  the  Trustee  indicates  that KPS has experience with
+       businesses presenting a number of similarities with the Divestment Businesses. For
+        instance, in the past, KPS acquired companies manufacturing products ultimately
+       destined to the automotive industry or to the household market, such as some of the
+       products  incorporating  porcelain enamel  and  glass  coatings –  the Divestment
+       Businesses’ core product areas. Moreover, a number of businesses acquired by KPS
+       are  also  subject  to commodity price  fluctuations,  similarly  to  the Divestment
+       Businesses, therefore enabling KPS to develop a particular experience in handling
+        fluctuating input prices and global supply chain issues. The Trustee observes that
+      KPS’ businesses serve similar customer groups to those served by the Divestment
+       Businesses,  especially manufacturing conglomerates,  like  Electrolux or General
+        Electric. The Trustee finally notes that KPS’ portfolio companies deploy very similar
+                                                      6
+
+[PÁGINA PDF 8]
+       manufacturing  processes  to  those  of  the  Divestment  Businesses,  such  as,  for
+        instance, the processes used by KPS in its metal extrusion business.
+
+(22)   The Trustee also notes that KPS has experience in manufacturing in the EEA. For
+        instance, among KPS’s current portfolio companies, there are:
+
+            a)  Speira  GmbH,  a  German  based  company  active  globally  in  the
+               manufacturing  of  aluminium  rolled  products,  with  five  manufacturing
+                   facilities in Germany and two in Norway,
+
+           b)  AIS Global, a designer of human machine interface solutions for equipment
+               manufacturers in the medical, commercial, and industrial markets, with one
+               manufacturing facility in Germany,
+
+            c)  Eviosys, a manufacturer of sustainable packaging with seven manufacturing
+                   facilities in France, three in Germany, two in Poland, two in Hungary, six in
+                    Italy, one in Greece, eight in Spain, and one in the Netherlands,
+
+           d)  Howden, a provider of critical  air and gas handling products with one
+               manufacturing facility in France, one in Spain, two in Germany, and one in
+                 the Netherlands,
+
+            e)  Metra, a global manufacturer of aluminium profiles and related services,
+                including painting,  oxidation, machining and assembly, headquartered in
+                   Italy, where it has five manufacturing facilities,
+
+               f)   Life Fitness, a global manufacturer of commercial fitness equipment and
+             game tables, with one manufacturing facility in Hungary,
+
+            g)   Siderforgerossi, a company specialised in large diameter forged products,
+               serving the energy and automotive industries, headquartered in Italy, where
+                       it has nine manufacturing facilities.
+
+(23)   The Trustee points out that the lead partner4 for the acquisition of the Divestment
+       Businesses by KPS has already covered the role of CEO of three KPS companies,
+       active globally in manufacturing industries (the “Lead Partner”). More generally, the
+      Lead Partner has led and managed global manufacturing, capital equipment, and
+       luxury good and consumer companies.
+
+(24)   The Commission notes KPS’ experience and knowledge in companies’ carve-outs,
+        specifically, in the manufacturing sector. KPS’ proven experience with companies
+       active globally, and specifically, operating a number of manufacturing facilities in
+        the EEA, as set out above, indicates that KPS would have sufficient experience to
+       maintain and develop the Divestment Businesses as a viable competitor.
+
+
+
+
+
+4     The lead partner is typically involved throughout the entire deal process (i.e., origination, underwriting
+      and portfolio company management). The lead partner is generally also the Chairman of the Board of
+       Directors.
+
+
+                                                      7
+
+[PÁGINA PDF 9]
+2.4.3. Proven track-record of long-term commitment to maintain the businesses KPS
+       acquired viable, competitive, and well-capitalised
+
+(25)   In relation to proven track-record of long-term commitment vis-à-vis past businesses
+       acquired by KPS, Prince argues that KPS’ past investments and average holding
+       periods prove its long-term commitment to maintain the businesses it acquired in the
+       past as viable, competitive, and well-capitalised. Prince considers that the average
+       holding period for past KPS investments of approximately 5 years would show a
+      commitment  to  ensuring  that  portfolio companies succeed. Additionally, Prince
+       observes  that KPS has a proven track-record of achieving significant EBITDA
+      growth in  its portfolio companies. On average, KPS carve-out transactions have
+        resulted in […]x EBITDA growth over the holding period.
+
+(26)   In its Reasoned Opinion, the Trustee indicates that KPS has a track-record of holding
+       investments for a number of years before exiting with 5.3 years average holding
+       period for investments exited in the last ten years. Moreover, the Trustee analysed
+        the net leverage change in the investments held by KPS in the past ten years, i.e., the
+        net debt-to-EBITDA leverage ratio, calculated as liabilities net of cash and cash
+       equivalent, divided by EBITDA. This ratio illustrates how many years of operating
+        profit a given company would need to set aside to pay back its debt. Hence, the ratio
+         is used as a measure for the sustainability of indebtedness. A significant increase in
+        net leverage could indicate that the company’s owner increased the indebtedness of
+        the business, potentially to the detriment of the operating activities, for example, to
+        extract equity and recoup as much capital as possible on the investment. The Trustee
+       observes that, generally, for the companies divested by KPS in the last ten years, the
+       leverage tends to increase but not significantly and it would remain below 5x (a level
+        that the Trustee took as reference in this instance) with a […]x average.5,6
+
+(27)   In relation to KPS’ exited investments in the last ten years, the Commission notes
+        that an average holding period of 5.3 years, with in some cases holding periods of
+        less than 4 years, is relatively short given the timeline of corporate restructurings
+      which require several accounting periods to return results. The Commission further
+       assessed the exit conditions and, in two cases, it established that the companies upon
+        exit by KPS either entered bankruptcy proceedings or were taken over by creditors.
+
+(28)   Nevertheless, the Commission analysed the financial data relating to past sales of
+      KPS’ portfolio companies and did not identify any problematic areas. In particular,
+        at  exit,  the  investments  that  continued  as  going concern  displayed  levels  of
+        capitalisation as measured by net debt to EBITDA and by equity-to-debt that were
+       not indicating excessive leverage.
+
+(29)   Additionally, the Commission carried out a comparative analysis, verifying some of
+        the Parties’ main competitors’ net leverage ratios.7 The Commission observed that,
+        for almost all companies in the peer group of a listed competitor of the Divestment
+       Businesses, the ratio is higher than 4, which would be in line with the ratio for those
+       investments held and exited by KPS in the last ten years.
+
+
+5     […].
+6     The Commission confirmed the reading of the leverage ratio increase over the holding period of
+      investments held by KPS, based on Appendix 5.5 to the Reasoned Opinion.
+7   A listed direct competitor is Johnson Matthey. Based on this company, the Commission retrieved the
+      peer group from the investor perspective, as provided by the Bloomberg peer analysis tool.
+
+
+                                                      8
+
+[PÁGINA PDF 10]
+(30)   In light of the foregoing, the Commission considers that KPS has a proven track-
+       record of long-term commitment to maintain the businesses  it acquired in the past
+        viable, competitive, and well-capitalised.
+
+2.5.   Incentive to maintain and develop the Divestment Businesses as a viable and
+       active  competitor and long-term commitment  to  maintain the  Divestment
+       Businesses viable, competitive, and well-capitalised
+
+(31)   In relation to the Proposed Purchaser’s incentive, Prince observes that KPS has a
+       long-term investment  strategy in  relation  to  all  its  acquisitions. KPS aims  at
+        continuity and value-increasing development of the Divestment Businesses as a
+       global stand-alone business. Prince points to KPS’ plans to […].8
+
+(32)   Regarding KPS’  long-term commitment  to  maintain  the Divestment Businesses
+        viable, competitive, and well-capitalised, Prince argues that this commitment is fully
+       demonstrated by KPS.  Prince  notes KPS’ acknowledgement of the Divestment
+       Businesses as a competitive force in both the markets for porcelain enamel and glass
+        coatings, and stresses that KPS is committed to its success in the long-term. Prince
+        further notes  that KPS currently envisages owning and operating the Divestment
+       Businesses for over three years and considers this time-horizon sufficient to prove
+      KPS’ long-term commitment toward the success of the Divestment Businesses.
+
+(33)   The Trustee, in its Reasoned Opinion, points out that KPS focuses on corporate
+       carve-outs for industrial and manufacturing companies, with a proven track-record of
+       successfully managing them. Specifically, in relation to the Divestment Businesses,
+     KPS  has  developed  a  business  plan, aimed  at  ensuring  that  the  Divestment
+       Businesses remain an effective competitor in the market for porcelain enamel and
+       glass coatings. The Trustee informed the Commission that KPS’ long-term business
+       plan includes a number of objectives, such as […]. Based on this strategy, KPS
+       expects to generate an acceptable return on its investment. The Trustee analysed also
+        the forecast profit and loss statements prepared by KPS. On this basis, the Trustee
+       observes that KPS forecasts a general growth in revenues for the next five years, up
+        to 2026, combined with a steady increase in gross profit margin on a yearly basis and
+       cost savings. KPS’ strategy should overall increase the annual return from USD […]
+       million to USD […] million in five years.
+
+(34)   The Commission considers  that the acquisition of the Divestment Businesses by
+     KPS   falls  under   its  long-term  strategy  to  purchase  businesses  active  in
+       manufacturing sectors to create value. The Commission views KPS’ business plan as
+        sufficiently sound and it observes that KPS will invest sufficient resources to operate
+        the Divestment Businesses on a stand-alone basis and at global level. Additionally,
+        the  Commission  positively  assesses  KPS’  plan  to  enhance  the  Divestment
+       Businesses’ growth and expand their presence, both in terms of geographic coverage
+      and products array.
+
+(35)   In light of the foregoing, the Commission considers that KPS has sufficient incentive
+        to maintain and develop the Divestment Businesses as a viable and active competitor
+      and that KPS has the long-term commitment to maintain the Divestment Businesses
+        viable, competitive, and well-capitalised.
+
+
+
+8     […].
+
+
+                                                      9
+
+[PÁGINA PDF 11]
+2.6.   Absence of prima facie competition problems
+
+(36)   Prince submits that the acquisition of the Divestment Businesses by KPS is neither
+        likely to create prima facie competition concerns nor give rise to a risk that the
+       implementation of the Commitments will be unduly delayed. Prince stresses that
+     KPS does not control any portfolio companies that compete with the activities of the
+       Divestment Businesses, and  that  there  are no  horizontal  overlaps nor  vertical
+        relations between KPS and the Divestment Businesses’  activities. Prince further
+        indicates that it has conducted, with KPS, a detailed antitrust filing assessment. A
+      merger  control approval, which is a mandatory pre-closing filing procedure,  is
+       currently ongoing in Serbia.9
+
+(37)   In  its Reasoned Opinion, the Trustee takes the view  that the acquisition of the
+       Divestment Businesses by KPS will  not give  rise  to prima  facie competition
+       concerns,  as  no  horizontal  or  vertical  overlaps  exist between KPS and  the
+       Divestment  Businesses. The  Trustee  also  underlines  that  the  purchase  of  the
+       Divestment Businesses by KPS is subject to a merger control review procedure in
+       Serbia, which  is  currently ongoing. The  Trustee  further  notes  that  it has  not
+        identified a risk that the implementation of the Commitments could be delayed.
+
+(38)   In light of the elements set out above, as well as the information made available for
+        the  purposes  of  its  assessment,  the  Commission concludes  that  prima  facie
+       competition concerns will not arise as a result of the acquisition of the Divestment
+       Businesses by the Proposed Purchaser.
+
+(39)   This prima facie assessment is based on the information available for the purposes of
+         this buyer approval process and does not prejudge the competition assessment of the
+       acquisition of the Divestment Businesses by KPS, by a competent competition
+        authority under applicable merger control rules.
+
+
+3.    ASSESSMENT OF THE PROPOSED AGREEMENT
+
+(40)   The acquisition of the Divestment Businesses by KPS will be carried out under the
+      Proposed Agreement dated 9 February 2022, including 10 exhibits and, specifically,
+        the draft TSA and the draft License Agreement.
+
+(41)   The Trustee notes that:
+
+           a)  In relation to  the  transfer from Fenton, UK, to Bruges, Belgium, of the
+              production equipment for forehearth colorants, which is an integral part of
+                the Divestment Businesses, the management of the Divestment Businesses
+              requested  to delay the  transfer. This request was due  to  the temporary
+            summer shutdown of the Bruges Facility, which would not have allowed the
+             employees  at the Bruges  Facility to  start working immediately upon the
+                transfer to install and operate the equipment. KPS and Prince have agreed to
+              delay the transfer of this equipment by six weeks so that the transfer better
+              coincides with the reopening of the Bruges Facility after the summer pause,
+            on 16 August 2022. The transfer will nevertheless be completed by 27 July
+
+
+
+9     […].
+
+
+                                                      10
+
+[PÁGINA PDF 12]
+             2022,  thus, leaving a two-weeks buffer  to  install and start operating the
+             equipment before the reopening of the Bruges Facility on 16 August 2022,
+
+           b)  While, pursuant to the Commitments, Prince shall grant a rebranding period
+              of up  to […]  months,  the Proposed Agreement provides  for a  shorter
+               duration. Specifically, Prince and KPS negotiated and agreed on a three-
+             months rebranding period, which, according to KPS, would be sufficient to
+             complete the rebranding,
+
+           c)  While, pursuant to the Commitments, the purchaser can request a black-out
+              period of up to […] months, the Proposed Agreement does not provide for
+             any black-out period. The Trustee understands that KPS did not request any
+              black-out period and does not consider it necessary. Prince, therefore, agreed
+               not to include any black-out period in the Proposed Agreement,
+
+           d)  While, pursuant to the Commitments, the purchaser can require, and Prince
+              undertakes  to  provide,  certain  transition  services,  such  as  centralised
+               functional support, IT and other administrative functions, for a period up to
+           […] months, with the option of renewal for up to […] months, the Proposed
+             Agreement provides for a short duration of up to […] months. The Trustee
+              understands that this is the duration negotiated between Prince and KPS and
+              both of them would find this duration appropriate,
+
+           e)  Prince and the Proposed Purchaser entered into a license agreement (the
+              “License Agreement”), in connection with the Proposed Agreement. The
+              License Agreement provides that KPS grant to Prince a license to continue
+              using certain recipes for a period of five years in connection with Prince’s
+               retained business in South America to manufacture and sell this business’
+              products  to South American customers  only. The scope  of the License
+             Agreement would be limited to South America and Prince would not be
+             allowed to use the same recipes anywhere else or for any other customers
+               outside of its South American customers.
+
+(42)   Considering the above, the Trustee takes the view that the Proposed Agreement is
+        consistent with the Commitments. The Trustee, however, raised some concerns in
+        relation to the 5-year duration of the License Agreement.
+
+(43)   Against  this  background,  while  the  Commission  considers  that  the  Proposed
+      Agreement  is in line with the Commitments,  it shared the Trustee’s concerns in
+        relation  to  the  5-year  duration  of  the  License  Agreement.  Consequently,  the
+      Commission indicated to the Trustee, Prince, and KPS that a shorter duration of the
+       License Agreement would be sufficient to allow Prince’s retained business in South
+      America to swiftly transition from the Divestment Businesses’ recipes to the merged
+        entity’s  recipes.  Ultimately, Prince agreed  to  limit the duration of the License
+      Agreement to […]. The Commission considers this duration satisfactory, on the one
+       hand,  to  allow  the  merged  entity  to  swiftly  transition from  the  Divestment
+       Businesses’ recipes to its own recipes and, on the other hand, to smoothly rescind the
+        links between the Divestment Businesses and the merged entity.
+
+(44)  On 12 April 2022, a number of amendments to the Proposed Agreement were
+       brought to the Commission’s attention:
+
+
+
+
+                                                      11
+
+[PÁGINA PDF 13]
+           a)  Prince and KPS agreed to add to the Divestment Businesses four employees,
+               currently based in Fenton, UK, and Quincy, USA, in order to ensure that all
+               relevant personnel is included in the Divestment Businesses,10
+
+           b)  Prince and KPS agreed to add to the Divestment Businesses one brand
+             “VitroMax”. VitroMax is a brand for colour concentrates containing a high
+              degree of oxide and is often used for high pull container and rolled pattern
+               glass colour forehearts,
+
+           c)  Prince and KPS agreed to add to the Divestment Business an asset located in
+              Leesburg, Alabama. This asset was mistakenly excluded.11
+
+(45)   The Trustee reviewed these amendments and considered that they do not raise any
+       concerns,  considering  that  they  further  boost  the  strength and  viability of  the
+       Divestment Businesses. The Commission agrees with the Trustee’s analysis.
+
+(46)  On 16 April 2022, further amendments to the Proposed Agreement were brought to
+        the Commission’s attention. Specifically:
+
+          Prince and the Proposed Purchaser informed the Commission that there were
+               certain minor  frit-based  products manufactured by Prince  at the Bruges
+                Facility, which would have to be excluded from the scope of the Divestment
+              Businesses since, from a technical standpoint, they would not belong to those
+              markets  where  the  Commission  identified  competition  concerns. These
+              products  are used  in metallurgical  applications and  are  not  related  to
+              porcelain enamel or glass coatings. These products include extrusion frits12
+             and refractory glazes,13
+
+          Prince and the Proposed Purchaser further explained that Prince’s plant in
+              Fenton, UK, is developing a new product in collaboration with an existing
+                client (Vesuvius plc, hereinafter, “Vesuvius”) and this product would be a
+              novel  type  of  refractory  glaze,  which  is  not  part  of  the  Divestment
+              Businesses, since the Commission identified competition concerns only in
+               relation to the market for the manufacture and supply of porcelain enamel
+               coatings and glass coatings,
+
+          The additional amendments  relate to two of Prince’s patent applications,
+               referring to (i) the refractory glaze under development for Vesuvius; and (ii)
+               glass lubricants, manufactured by Prince  at  its plant in Fenton, UK, and
+               consisting in frit-based metallurgical products,
+
+          The  additional amendments  clarify  that the patent application relating to
+               glass  lubricants  are excluded from the Divestment Businesses, whereas
+              Prince  is not retaining any IP rights in relation to extrusion frits, which
+             remain with the Divestment Businesses,
+
+10    The employee based in the USA is being transferred from Prince to KPS primarily for the viability of
+       the US divestment business, which is not to be considered part of the Divestment Businesses.
+11     This asset is being transferred from Prince to KPS primarily for the viability of the US divestment
+       business, which is not to be considered part of the Divestment Businesses.
+12     Extrusion frits are used to assist in making extruded metal products.
+13     Refractory glazes are used to prevent oxidation and burning of carbon-containing components in high-
+      temperature applications.
+
+
+                                                      12
+
+[PÁGINA PDF 14]
+          The additional amendments provide for a license by Prince to the Proposed
+              Purchaser over the patent application for the entire duration of the patent.
+              This is to allow the Proposed Purchaser to develop, make, and sell refractory
+               glazes and extrusion glass to customers other than Vesuvius. Therefore, the
+             Divestment  Businesses  will  include  the  refractory  glaze  and  extrusion
+              businesses currently located at the Bruges Facility, while Prince will keep the
+              IP rights relating to refractory glaze and will license them to the Proposed
+              Purchaser;
+
+          The additional amendments provide for a license by Prince to the Proposed
+              Purchaser over  the  patent application for  glass  lubricants  for the entire
+              duration of the patent. This is to allow the Proposed Purchaser to develop,
+             make, and sell any related products and, specifically, for the development of
+                   its own extrusion glass products.
+
+(47)   The Trustee reviewed these amendments and considered that they do not raise any
+       concerns. Additionally, the management of the Divestment Businesses observed that
+       these amendments would benefit the Divestment Businesses and would not have an
+       impact on its viability.
+
+(48)   The  Commission  further  investigated  the  rationale  behind  these  additional
+      amendments. The Commission understands  that  the  manufacturing  activities  for
+       metallurgical products in the categories of extrusion glass and refractory glaze would
+      have remained within the scope of the Divestment Businesses as these activities
+      were performed at the Bruges Facility, however, without the related patents, the
+       Divestment Businesses’  ability to develop and  sell these metallurgical products
+      would have most likely been hampered. Thus, while the Commission identified
+       competition concerns  only in the markets  for  the manufacturing and supply of
+       porcelain enamel and glass coatings,  it appears  that a license over the above-
+       mentioned patents for their entire duration would ensure the continued viability of
+        the Divestment Businesses. Specifically, it would allow the Divestment Businesses
+        to  continue competing in the market  for  (extrusion glass and  refractory glaze)
+       metallurgical  products. The Commission  understands  that both Prince and  the
+      Proposed Purchaser find these amendments appropriate in scope and length.
+
+(49)   In light of the foregoing, and taking into account the Trustee’s Reasoned Opinion,
+        the  Commission  concludes  that  the  Proposed Agreement  is  aligned  with  the
+      Commitments and that, accordingly, the Divestment Businesses are sold in a manner
+        that is consistent with the Commitments.
+
+
+
+
+
+                                                      13
+
+[PÁGINA PDF 15]
+4.    CONCLUSION
+
+(50)   Based on  the above assessment,  the Commission approves KPS as a  suitable
+       purchaser.
+
+(51)   Based on  the Proposed Agreement,  the Commission further concludes  that the
+       Divestment Businesses are being sold in a manner consistent with the Commitments.
+
+(52)   This decision only constitutes approval of the Proposed Purchaser identified herein
+      and of the Proposed Agreement. This decision does not constitute a confirmation
+        that Prince has complied with its Commitments.
+
+(53)   This decision is based on paragraph 17 of the Commitments.
+
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                    Olivier GUERSENT
+                                                Director-General
+
+
+
+
+
+                                                      14

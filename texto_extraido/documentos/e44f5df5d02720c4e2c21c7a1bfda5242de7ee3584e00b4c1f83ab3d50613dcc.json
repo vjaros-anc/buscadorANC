@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "e44f5df5d02720c4e2c21c7a1bfda5242de7ee3584e00b4c1f83ab3d50613dcc",
+  "extraido_utc": "2026-10-22T19:35:00+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20221020101519+02'00'",
+    "modDate": "D:20221020101519+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10721_OTRO_01",
+      "caso": "M.10721",
+      "universo": "principal",
+      "titulo": "Trustee details — CELANESE / DUPONT (MOBILITY & MATERIALS BUSINESS)",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202244/M_10721_8588702_1580_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202244/M_10721_8588702_1580_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10721/M.10721_OTRO_01_e44f5df5d027.pdf",
+      "sha256": "e44f5df5d02720c4e2c21c7a1bfda5242de7ee3584e00b4c1f83ab3d50613dcc",
+      "coincide_inventario": "",
+      "bytes": "89633",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202244/M_10721_8588702_1580_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "               MONITORING TRUSTEE IN CASE\n   M.10721 – CELANESE / DUPONT (MOBILITY & MATERIALS BUSINESS)\n\n\n\nOn 13 October 2022 the Commission approved the appointment of:\n\n\n\n           MONITORING TRUSTEE PARTNERS B.V. (MTP)\n\n\n                 Koninginneweg 215-H\n\n               1075 CS Amsterdam\n\n                The Netherlands\n\n\n\n                   Contact:\n\n                Mr. Jan Jaap Snel (janjaapsnel@mtp.international)\n\n               Ms. Astrid Bellon (astridbellon@mtp.international)\n\n\n\nas Monitoring Trustee in the above-mentioned case.\n\n\n\nThe  role of the Monitoring Trustee  is to monitor the compliance of the parties with the\nCommitments attached to the Commission's Decision of 11 October 2022 and to report to the\nCommission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee through\nthe above contact details.\n\nThe  foregoing  is  without  prejudice  to  the  Commission's  jurisdiction  to  oversee  the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 1028,
+      "caracteres_utiles": 712,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

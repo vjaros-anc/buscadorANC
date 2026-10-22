@@ -1,0 +1,140 @@
+[PÁGINA PDF 1]
+                 European Commission - Press release
+
+
+
+
+
+Mergers: Commission opens in-depth investigation into proposed
+acquisition of Kustomer by Facebook
+
+Brussels, 2 August 2021
+
+The European Commission has opened an in-depth investigation to assess the proposed acquisition
+of Kustomer by Facebook under the EU Merger Regulation. The Commission is concerned that the
+proposed transaction would reduce competition in the market for the supply of Customer
+Relationship Management (CRM) software.
+
+The Commission is also concerned that the proposed transaction would further strengthen Facebook's
+market position in the online display advertising market by increasing the already significant amount
+of data available to Facebook for personalisation of the ads it displays.
+
+Executive Vice-President Margrethe Vestager, responsible for competition policy, said: “It is
+important to closely review potentially problematic acquisitions by companies that are already
+dominant in certain markets. This applies in particular to the digital sector, where Facebook enjoys a
+leading position in both online display advertising and in over-the-top messaging channels, such as
+WhatsApp, Messenger or Instagram. Our investigation aims to ensure that the transaction will not
+harm businesses or consumers, and that any data that Facebook gets access to does not distort
+competition.”
+
+Facebook is a social network, messaging service, and online ads service provider. Facebook's
+messaging channels include WhatsApp, Messenger and Instagram. Kustomer is a CRM software
+provider offering businesses to manage communications with consumers across different channels
+(by phone, email, SMS, WhatsApp, Messenger or Instagram etc.) in a single tool.
+
+The Commission's preliminary competition concerns
+
+Following its preliminary investigation, the Commission has concerns about the impact of the
+transaction:
+
+a) On a broader market for the supply of CRM software and a narrower market for the supply of
+customer service and support CRM software.
+
+In particular, the Commission is concerned that, as a result of its combination with Kustomer,
+Facebook may foreclose access to its business-to-consumer (“B2C”) over-the-top (“OTT”) messaging
+channels, namely WhatsApp, Messenger or Instagram. These channels account for a large portion of
+the B2C OTT messaging market, which is an important input for the supply of CRM software services.
+The preliminary investigation suggests that Facebook may have the ability, as well as a potential
+economic incentive, to engage in foreclosure strategies vis-à-vis Kustomer's rivals, such as
+preventing these companies from using Facebook's messaging channels or degrading access to these
+channels. Such foreclosure strategies could reduce competition in the market for the supply of CRM
+software and the market for the supply of customer service and support CRM software, leading to
+higher prices, lower quality and less innovation for business customers, which may in turn be passed
+on to consumers.
+
+b) On the markets for the supply of online display advertising services, or segments thereof,
+where the Commission, at this stage of the investigation, considers that Facebook may hold a
+dominant market position in several Member States.
+
+By acquiring Kustomer, Facebook could more easily obtain data from businesses making use of
+Kustomer's CRM software, including (i) “customer transaction data” which includes customer data
+such as on gender, order and purchase history, and (ii) “other event data”, such as customer's
+website views, adds to wishlist and store visits. The data that businesses store in Kustomer's CRM
+software and which they may share with Facebook appears to provide an important advantage in the
+online display advertising market. By increasing the data advantage of Facebook in its ability to
+better personalise and target the ads it provides, it would be more difficult for rivals to match
+Facebook's online advertising services. Thus, the transaction would raise barriers to entry and
+expansion for Facebook's competitors for these services, to the ultimate detriment of advertisers and
+
+[PÁGINA PDF 2]
+publishers that would face higher prices and have less choice. The Commission will now carry out an
+in-depth investigation into the effects of the transaction to determine whether its initial competition
+concerns are confirmed.
+
+The Commission closely cooperated with competition authorities around the world during the initial
+investigation, and will continue such cooperation during the in-depth investigation. The Commission
+is also in close contact with the competition authorities of the Member States.
+
+The proposed transaction was notified to the Commission on 25 June 2021. The Commission now has
+90 working days, until 8 December* 2021, to take a decision. The opening of an in-depth inquiry
+does not prejudge the final result of the investigation.
+
+Referral request
+
+The proposed transaction did not meet the turnover thresholds of the EU Merger Regulation.
+However, the transaction was required to be notified to Austria for regulatory clearance. Following
+such notification, on 2 April 2021, Austria submitted a referral request to the Commission pursuant
+to Article 22(1) of the EU Merger Regulation. On 12 May 2021, the Commission accepted the request
+from Austria, which was joined by Belgium, Bulgaria, France, Iceland, Ireland, Italy, the
+Netherlands, Portugal and Romania. Following this acceptance, the referring Member States will not
+apply their own national legislation on competition to the transaction. The Commission will assess
+the impact of the acquisition of Kustomer by Facebook within the territory of these Member States
+under the EU Merger Regulation.
+
+Companies and products
+
+Facebook is a US based multinational company which provides various websites and applications for
+mobile devices offering social networking, consumer communications and photo and video-sharing
+functionalities. These include Facebook, Messenger, Instagram and WhatsApp. Facebook offers most
+of its services at no cost to users. Facebook's primary revenue-generating activity is offering ads
+space and related services to third parties, which currently accounts for the vast majority of its
+annual revenues globally.
+
+Kustomer is a US based company that offers a Software as a Service (“SaaS”) CRM software
+specialising in customer service. Kustomer displays all interactions that a consumer has had with the
+business in a single timeline view, including the consumer's purchase history, refunds, complaints
+and all other communications. Kustomer's CRM software integrates with a wide range of B2C
+communication channels and supports agent communications with consumers through
+communication channels including phone, email, webchat, SMS, Messenger, WhatsApp, Instagram
+and Twitter.
+
+Merger control and procedure
+
+The Commission has the duty to assess mergers and acquisitions involving companies with a
+turnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent
+concentrations that would significantly impede effective competition in the EEA or any substantial
+part of it.
+
+The vast majority of notified mergers do not pose competition problems and are cleared after a
+routine review. From the moment a transaction is notified, the Commission generally has 25 working
+days to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).
+
+In addition to the current transaction, there are currently five on-going Phase II merger
+investigations: the proposed merger between Cargotech and Konecranes, the proposed acquisition
+of Air Europa by IAG, the proposed acquisition of Trimo by Kingspan Group and the proposed
+acquisition of DSME by HHiH and the proposed acquisition of Grail by Illumina.
+
+More information will be available on the Commission's competition website, in the Commission's
+public case register under the case number M.10262.
+
+*Modified on 6 August, at 12:35.
+
+                                                                                                              IP/21/4021
+
+
+ Press contacts:
+
+       Arianna PODESTA (+32 2 298 70 24)
+         Giulia ASTUTI (+32 2 295 53 44)
+
+ General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email

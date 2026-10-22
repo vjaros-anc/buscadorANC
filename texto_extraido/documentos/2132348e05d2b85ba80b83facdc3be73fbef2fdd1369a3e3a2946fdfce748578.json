@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "2132348e05d2b85ba80b83facdc3be73fbef2fdd1369a3e3a2946fdfce748578",
+  "extraido_utc": "2026-10-22T19:44:55+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20250723091628+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11956_CP_APERTURA_01",
+      "caso": "M.11956",
+      "universo": "principal",
+      "titulo": "Comunicado de apertura de fase II — UMG / DOWNTOWN",
+      "tipo_documental": "CP_APERTURA",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_1875/IP_25_1875_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1875",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11956/M.11956_CP_APERTURA_01_2132348e05d2.pdf",
+      "sha256": "2132348e05d2b85ba80b83facdc3be73fbef2fdd1369a3e3a2946fdfce748578",
+      "coincide_inventario": "",
+      "bytes": "45149",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_1875/IP_25_1875_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:04+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission opens in-depth investigation into the proposed acquisition of\nDowntown by UMG*\n\nBrussels, 22 July 2025\n\nThe European Commission has opened an in-depth investigation to assess, under the EU Merger\nRegulation, the proposed acquisition of Downtown by Universal Music Group (‘UMG'). The\nCommission has preliminary concerns that the transaction may allow UMG to reduce competition in\nthe wholesale market for the distribution of recorded music in the European Economic Area (‘EEA') by\nacquiring commercially sensitive data of its rival record labels. The Commission is also preliminarily\nconcerned that the transaction may allow UMG to reduce competition in the market for the supply of\nartist and label (‘A&L') services in the EEA by removing an important competitive force. A&L services\nconsist mainly of distribution services to third-party labels and artists, including monetisation,\nmarketing and promotion as well as data analytics and management.\n\nUMG is globally active in music recording, music publishing, merchandising, and audiovisual content.\nDowntown is a global music company providing A&L services both to independent record companies\nas well as to artists, notably through its FUGA music distribution platform. Downtown also provides\nroyalty accounting services through its Curve platform, which offers amongst others processing,\naccounting, payment and distribution services in relation to royalties as well as rights management.\n\nThe Commission's preliminary concerns\n\nThe Commission's preliminary investigation indicates that the transaction may allow UMG to acquire\nupstream commercially sensitive data of its rival record labels. In particular, the Commission\npreliminarily found that:\n\n   Downtown processes commercially sensitive data of third-party record labels.\n     After the acquisition, UMG would likely have the ability and incentive to use commercially\n    sensitive data of third-party record labels for its own business activities notably related to\n    recorded music.\n    UMG's access to such data may harm rival record labels and may ultimately have the effect of\n     further strengthening UMG, that already is the leader in the market for the wholesale\n    distribution of recorded music in the EEA.\n\nFurthermore, the Commission's preliminary investigation also indicated that the transaction may\nremove Downtown as an important competitive force in the market for A&L services.\n\nThe Commission will therefore now carry out an in-depth investigation into the effects of the\ntransaction on competition to determine whether its initial concerns would be confirmed.\n\nThe proposed transaction was notified to the Commission on 16 June 2025. The Commission now has\n90 working days, until 26 November 2025, to take a decision.\n\nThe opening of an in-depth inquiry does not prejudge the outcome of the investigation.\n\nReferral request\n\nThe proposed transaction did not meet the turnover thresholds of the EU Merger Regulation.\nHowever, it was notified for merger control clearance in Austria and the Netherlands, where it met the\nrelevant national turnover-based notification thresholds.\n\nThe Dutch competition authority submitted a referral request to the Commission pursuant to Article\n22(1) of the EU Merger Regulation. The Commission accepted the request from the Netherlands,\nwhich was joined by Austria. The Commission will assess the impact of the acquisition of Downtown\nby UMC within the territory of these Member States under the EU Merger Regulation.",
+      "caracteres": 3556,
+      "caracteres_utiles": 2906,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Companies and products\n\nUMG is a global company headquartered in the Netherlands which owns and operates businesses\nengaged in wholesale recorded music, music publishing, merchandising, and audio-visual content.\n\nDowntown is a global independent rights management and music services company, headquartered\nin the US. It is active in the provision of A&L services to third-party record artists and labels, music\npublishing services to third-party authors and songwriters, as well as royalty collection and other\nancillary services to third-party artists and labels.\n\nMerger control rules and procedures\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a turnover\nabove certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent concentrations\nthat would significantly impede effective competition in the EEA or a substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nIn addition to the current transaction, there is currently another ongoing Phase II merger\ninvestigation: the proposed acquisition of Kellanova by Mars.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.11956.\n\n\n*Updated on 23.07.25 at 9.15\n\n                                                                                                            IP/25/1875\n\nQuote(s):\n\n\n \"By acquiring Downtown, UMG would purchase a large provider of services for labels that compete with UMG and for artists.\n Opening an in-depth investigation will allow us to assess more carefully whether this acquisition would have a negative impact on\n artists, labels and, ultimately, European consumers.\"\n Valdis Dombrovskis, Commissioner for Economy and Productivity; Implementation and Simplification - 22/07/2025\n\n\n Press contacts:\n\n      Thomas REGNIER (+32 2 29 91099)\n      Sara SIMONINI (+32 2 29 83367)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2241,
+      "caracteres_utiles": 1721,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

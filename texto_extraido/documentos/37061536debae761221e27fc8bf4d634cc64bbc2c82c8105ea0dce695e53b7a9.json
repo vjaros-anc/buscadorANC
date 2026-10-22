@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "37061536debae761221e27fc8bf4d634cc64bbc2c82c8105ea0dce695e53b7a9",
+  "extraido_utc": "2026-10-22T19:28:50+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 17 for Word",
+    "producer": "Adobe PDF Library 17.11.238",
+    "creationDate": "D:20220221113711+01'00'",
+    "modDate": "D:20220221113715+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10506_NOT_PREVIA_01",
+      "caso": "M.10506",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — PARKER / MEGGITT",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202209/M_10506_8194849_591_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202209/M_10506_8194849_591_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10506/M.10506_NOT_PREVIA_01_37061536deba.pdf",
+      "sha256": "37061536debae761221e27fc8bf4d634cc64bbc2c82c8105ea0dce695e53b7a9",
+      "coincide_inventario": "",
+      "bytes": "170229",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202209/M_10506_8194849_591_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may tak e of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.10506 - PARKER / MEGGITT\n\n                          SECTION 1.2\n\n                           Description of the concentration\n\nThe Transaction involves  the proposed  acquisition by Parker-Hannifin Corporation (Parker)  of\nsole  control  over  Meggitt PLC  (Meggitt)  (together,  the  Parties  and each  a  Party)  (the\nTransaction).\n\nParker  is a manufacturing company incorporated in Cleveland, Ohio, USA. It is listed on the New\nYork Stock Exchange  (handle: PH). Parker operates  in 50 countries, employing approximately\n50,000 people and supplying approximately 464,000 customers.  Its  business  is  divided into two\ndivisions:  (a)  a  Diversified  Industrial Segment  (comprising a North America and International\nSegment); and (b) an Aerospace Systems Segment.\n\nMeggitt  is  a  publicly  limited company headquartered  in Ansty Park, United Kingdom.  It  is a\nmotion control and technology systems company listed on the London Stock Exchange (handle:\nMGGT). Meggitt operates across 37  facilities  in North America, Europe, and Asia and employs\nover  9,000  people  across  the  globe.  Its  business  is  divided  into  four  divisions: (a) Airframe\nSystems; (b) Engine Systems; (c) Energy and Equipment; and (d) Services and Support.\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 1943,
+      "caracteres_utiles": 1478,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,95 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "dba4d19f79f5269ed30c0b9506f6e1922ebea1db4c537bf8f61f9e1c8226fa9b",
+  "extraido_utc": "2026-10-22T19:40:48+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10896_DICT_01",
+      "caso": "M.10896",
+      "universo": "principal",
+      "titulo": "Informe final del Consejero Auditor — ORANGE / MASMOVIL / JV",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202426/M_10896_10132321_5930_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202426/M_10896_10132321_5930_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10896/M.10896_DICT_01_dba4d19f79f5.pdf",
+      "sha256": "dba4d19f79f5269ed30c0b9506f6e1922ebea1db4c537bf8f61f9e1c8226fa9b",
+      "coincide_inventario": "",
+      "bytes": "140061",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202426/M_10896_10132321_5930_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "               EUROPEAN COMMISSION\n\n\n                                 Hearing Officer for competition proceedings\n\n                                                    Brussels, 15 February 2024\n\n            Final Report of the Hearing Officer (1)\n          Case M.10896 – Orange/MásMóvil/JV\n\n\n1.  On 13 February 2023, the Commission received the notification of a proposed\n     concentration by which Orange S.A. (‘Orange’) and Lorca JVCo Limited (‘Lorca’,\n     together the ‘Parties’) would acquire joint control within the meaning of Articles\n     3(1) and 3(4) of the Merger Regulation2 over a newly founded joint venture (‘JV’)\n    combining Orange Espagne S.A.U. and MásMóvil Ibercom S.A.U. (the ‘Proposed\n     Transaction’).3\n\n2.  On 3 April 2023, the Commission adopted a decision to  initiate proceedings\n     pursuant to Article 6(1)(c) of the Merger Regulation, as the Commission’s first\n    phase investigation raised serious doubts as to the compatibility of the Proposed\n     Transaction with the internal market. The Parties submitted comments on this\n     decision to the Commission on 20 April 2023.\n\n3.  On 27 April 2023, following a request from the Parties the Commission extended\n     the legal deadline of the procedure by 10 working days, pursuant to Article 10(3),\n    second subparagraph, first sentence of the Merger Regulation.\n\n4.  On 26 June 2023, the Commission adopted a statement of objections (the ‘SO’)\n     addressed to the Parties. The SO was formally notified to the Parties on the same\n     day, and they were given until 10 July 2023 to submit their replies.\n\n5.   In the SO, the Commission came to the preliminary view  that the Proposed\n     Transaction would significantly impede effective competition in a substantial part of\n     the internal market within the meaning of Article 2(3) of the Merger Regulation, as\n    a result of horizontal non-coordinated effects in: (a) the market for the retail supply\n     of mobile telecommunication services in Spain; (b) the market for the retail supply\n     of fixed internet access services in Spain; (c) the potential market for the retail\n    supply of multiple-play bundles (and the potential narrower retail market for the\n\n(1)  Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission\n    of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition\n    proceedings, OJ L 275, 20.10.2011, p. 29 (‘Decision 2011/695/EU’).\n(2)  Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between\n    undertakings (the EC Merger Regulation), OJ L 24, 29.1.2004, p. 1 (the ‘Merger Regulation’).\n(3) On 2 March 2023, the Spanish national competition authority requested the referral of the case\n    pursuant to Article 9 of the Merger Regulation, which extended the Phase I deadline by 15 working\n    days.",
+      "caracteres": 2905,
+      "caracteres_utiles": 2111,
+      "cobertura_imagen_maxima": 0.0115,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Final Report in Case M.10896 – Orange / MásMóvil / JV\n\n    supply of multiple-play bundles without premium Pay-TV football content) in\n     Spain; and (d) the potential market for the retail supply of FMC bundles (and the\n     potential narrower retail market for the supply of FMC bundles without premium\n    Pay-TV football content) in Spain.\n\n6.  The Parties were given access to the file on 27 June 2023 by means of a file transfer\n     using One  Drive.  Additional documents,  including  less  redacted  versions  of\n    documents already transmitted, were made available to the Parties on 28 and\n    30 June and 5 and 7 July 2023, in part following requests by the Parties to the\n    Commission’s Directorate-General for Competition (‘DG Competition’). Further\n     access  was  granted  on  26  July  and  22  December  2023  as  well  as  on\n    12 January 2024.\n\n7.   While the hearing office was copied in some of the exchanges between the Parties\n    and DG Competition, I did not receive any complaints or requests from the Parties\n     related to access to file.\n\n8.  On 10 July 2023, the Parties replied to the SO. The Parties did not request a formal\n     oral hearing.\n\n9.  On 27 July 2023, the Commission adopted a decision pursuant to Article 11(3) of\n     the Merger Regulation, requiring the Parties to reply to a request for information\n     (‘RFI’). Due to the Parties’ failure to reply to the RFI by the deadline set in the\n     decision,  the  merger  review  time  limits were  subsequently  suspended. The\n     applicable time limit referred to in Article 10(3) of the Merger Regulation was\n    suspended from 27 July up to and including 11 December 2023.\n\n10. On 1 September 2023, the Commission adopted a letter of facts (‘LoF’), containing\n     further evidence in support of the findings in the SO. The Parties submitted a reply\n     to the LoF on 22 September 2023.\n\n11.  During the proceedings, I admitted seven undertakings as interested third persons,\n     pursuant to Article 5 of Decision 2011/695/EU.\n\n12. DG Competition generally informed the interested third persons in this case of the\n     nature and subject-matter of the procedure through a non-confidential summary of\n     the SO (the ‘SO summary’) and invited them to submit written comments within a\n     set time limit. Four interested third persons replied.\n\n13. On 22 August 2023, one of the interested third persons that received the SO\n    summary submitted a request  to me pursuant  to  Article  7(2)(d) of Decision\n    2011/695/EU, in which  it complained that the SO summary was insufficiently\n     detailed. It requested to receive either a non-confidential version of the full SO or a\n    more detailed summary. I rejected this request by decision of 26 September 2023,\n     considering that the SO summary revealed for which markets the Commission had\n     preliminarily found  that the Proposed Transaction would  significantly impede\n     effective  competition and  set  out  the main  elements which  supported  that\n     conclusion. I therefore concluded that it contained sufficient information to inform\n\n\n\n\n\n                                                     2",
+      "caracteres": 3179,
+      "caracteres_utiles": 2349,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 3,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Final Report in Case M.10896 – Orange / MásMóvil / JV\n\n     the interested third person of the nature and subject matter of the procedure within\n     the meaning of Article 16(1) of the Merger Implementing Regulation.4\n\n14.  I am informed by DG Competition that one interested third person, instead of\n     receiving the SO Summary, was informed by DG Competition of the nature and\n     subject-matter of the procedure through other means. I did not receive a request\n     pursuant to Article 7(2)(d) of Decision 2011/695/EU from this interested third\n     person.\n\n15. On 12 December 2023, the Parties submitted commitments in accordance with\n     Article 8(2) of the Merger Regulation, with a view to rendering the Proposed\n     Transaction compatible with the internal market and the functioning of the EEA\n    Agreement. The Commission launched a market test of these commitments on\n    12 December 2023.\n\n16. On 30 January 2024, having received feedback from the Commission on the\n    commitments  submitted   earlier,  the  Parties  submitted  revised  and   final\n    commitments, in accordance with Article 8(2) of the Merger Regulation, with a\n    view to rendering the Proposed Transaction compatible with the internal market and\n     the functioning of the EEA Agreement (the ‘Final Commitments’).\n\n17. On 31 January 2024 and in agreement with the Parties, the Commission extended\n     the legal deadline of the procedure by 5 working days, pursuant to Article 10(3),\n    second subparagraph, third sentence of the Merger Regulation.\n\n18. The draft decision declares the Proposed Transaction compatible with the internal\n    market and the functioning of the EEA Agreement, subject to full compliance with\n     the Final Commitments.\n\n19.  I  have  reviewed  the  draft  decision  pursuant  to  Article  16(1)  of  Decision\n    2011/695/EU and I conclude that it deals only with objections in respect of which\n     the Parties have been afforded the opportunity of making their views known.\n\n20.  Overall, I consider that the effective exercise of procedural rights has been respected\n     in this case.\n\n\n\n\n                                DOROTHE DALHEIMER\n                                                    Hearing Officer\n\n\n\n\n\n(4)  Commission Regulation (EC) No 802/2004 implementing Council Regulation (EC) No 139/2004 on\n    the  control of concentrations between undertakings, OJ L 133, 30.4.2004,  p. 1  (the ‘Merger\n    Implementing Regulation’). In accordance with Article 25 of Commission Regulation (EU) 2023/914\n    (OJ L 119, 5.5.2023, p. 22), the Merger Implementing Regulation has been repealed with effect on 1\n    September 2023 but continues to apply to concentrations notified on or before 31 August 2023 such as\n    the Proposed Transaction.\n\n\n                                                     3",
+      "caracteres": 2830,
+      "caracteres_utiles": 2047,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

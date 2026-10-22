@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "202ece69343f521057ef676e9bdb027f07dfa8631c15126b1de9126bb864d390",
+  "extraido_utc": "2026-10-22T19:46:17+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20260722193008+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.12278_CP_01",
+      "caso": "M.12278",
+      "universo": "principal",
+      "titulo": "Commission approves Paramount's acquisition of Warner, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_1663/IP_26_1663_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_12278/M.12278_CP_01_202ece69343f.pdf",
+      "sha256": "202ece69343f521057ef676e9bdb027f07dfa8631c15126b1de9126bb864d390",
+      "coincide_inventario": "",
+      "bytes": "76368",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_1663/IP_26_1663_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:07+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                           European Commission - Press\n                               release\n\n\n\n\n\nCommission approves Paramount's acquisition of Warner, subject to\nconditions\n\nBrussels, 22 July 2026\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nby Paramount Skydance Corporation (‘Paramount') of Warner Bros. Discovery (‘Warner'). The\napproval is conditional upon full compliance with the commitments offered by Paramount.\n\nParamount and Warner are both active in the production and distribution of theatrical and audiovisual\n(‘AV') entertainment content, such as films and television series. According to the companies, the\ntransaction will allow Paramount to better compete in the rapidly evolving entertainment industry,\nwhich is quickly expanding into streaming.\n\nThe Commission's investigation\n\nThe Commission investigated the impact of the transaction in the national and European Economic\nArea (EEA)-wide markets for: the production of films for release in cinemas, the distribution of films\nfor release in cinemas, the production and licensing of AV content, the wholesale supply of television\nchannels, and the retail supply of AV services.\n\nThe Commission found that, at film production level, enough film studios remain as competitors in\nthe EEA. These include other major US studios like Disney, NBC Universal (‘Universal') and Sony,\nalong with smaller US studios such as Amazon MGM, A24 and Lionsgate, as well as European studios.\n\nHowever, at film distribution level, the Commission found that as a result of the transaction, there\nwill be high concentration and increased transparency in the EEA countries where Paramount has\na structural partnership with Universal, due to the addition of Warner's film portfolio. The partnership\nfocuses on the distribution of Paramount's and Universal's films to cinema operators through their\njoint venture, United International Pictures (‘UIP'). The transaction would have meant Warner's films\nwere also distributed via UIP and, without the commitments, it would have led to worse rental and\ndistribution terms for cinema operators, ultimately disadvantaging consumers.\n\nAs regards the AV value chain, the Commission's investigation showed that enough alternative\ncompetitors remain to exert sufficient competitive pressure on the merged entity in the EEA. In\nparticular regarding the overlap in pay TV channels for children, the Commission found that\nstreaming platforms offering children's content will continue to act as a competitive constraint on the\nmerged entity's TV channels.\n\nThe proposed remedies\n\nTo address the Commission's preliminary competition concerns at film distribution level, Paramount\noffered the following remedies:\n\n    Termination of Paramount's stake in UIP in the EEA within 13 months from the closing of\n    the transaction;\n    For a period of ten years, Paramount will not, directly or indirectly:\n         enter into any agreement or understanding with Universal to jointly co-distribute films in\n         the EEA;\n           shift the distribution of Warner's films from Warner's existing distributor to the theatrical\n          distributor used by Paramount, where that distributor also distributes Universal's or\n         Disney's films in all UIP countries in the EEA (that is Bulgaria, Croatia, Czechia, Cyprus,\n        Denmark, Estonia, Finland, Greece, Hungary, Iceland, Latvia, Lithuania, Norway, Poland,\n         Portugal, Romania, Slovakia, Slovenia and Sweden); and",
+      "caracteres": 3512,
+      "caracteres_utiles": 2769,
+      "cobertura_imagen_maxima": 0.0196,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "          in the UIP countries in the EEA where Paramount and Universal do not share the same\n          distributor, shift the distribution of Paramount's films from Paramount's existing\n          distributor to the theatrical distributor used by Warner, where that distributor also\n          distributes Universal's or Disney's films.\n\nThese commitments fully address the competition concerns identified by the Commission by\nensuring that the films of the merged entity will not be distributed jointly with those of Universal or\nDisney.\n\nFollowing the positive feedback received in the context of the market test, the Commission concluded\nthat the transaction, as modified by the commitments, would no longer raise competition\nconcerns.\n\nThe decision is conditional upon full compliance with the commitments. Under the supervision of the\nCommission, an independent trustee will monitor their implementation.\n\nCompanies and products\n\nParamount, headquartered in the US, is a global media, streaming and entertainment company that\ncreates content and experiences for audiences worldwide, including films, television series, and\nanimated content. Paramount's portfolio of brands and production assets include, among others,\nParamount Pictures, Paramount Television, CBS, CBS News, CBS Sports, Nickelodeon, MTV, BET,\nComedy Central, Showtime, Paramount+, Pluto TV and Skydance Media.\n\nWarner, headquartered in the US, is a global media, streaming and entertainment company that\ncreates and distributes a diverse portfolio of content and products across television, film, streaming\nand interactive gaming. Warner's portfolio of brands and production assets includes, among others,\nDiscovery Channel, CNN, DC Studios, New Line Cinema, TNT Sports, Eurosport, Max, HBO, Warner\nBros. Motion Picture Group, Warner Bros. Television Group, and Warner Bros. Games.\n\nMerger control rules and procedure\n\nThe transaction was notified to the Commission on 2 June 2026.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a turnover\nabove certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent concentrations\nthat would significantly impede effective competition in the EEA or any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II). If\ncommitments are proposed in Phase I, the Commission has 10 additional working days, bringing the\ntotal duration of a Phase I case to 35 working days, such as in this case.\n\nFor more information\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.12278.\n\n                                                                                                            IP/26/1663\n\n\n Press contacts:\n\n      Siobhan MCGARRY (+32 2 29 64798)\n       Paula Clara RITTER-MOSCHUTZ (+32 2 29 64083)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 3189,
+      "caracteres_utiles": 2467,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

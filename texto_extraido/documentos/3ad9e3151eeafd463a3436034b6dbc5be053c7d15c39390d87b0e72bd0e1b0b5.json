@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "3ad9e3151eeafd463a3436034b6dbc5be053c7d15c39390d87b0e72bd0e1b0b5",
+  "extraido_utc": "2026-10-22T19:40:48+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20230403174540+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10896_CP_APERTURA_01",
+      "caso": "M.10896",
+      "universo": "principal",
+      "titulo": "Comunicado de apertura de fase II — ORANGE / MASMOVIL / JV",
+      "tipo_documental": "CP_APERTURA",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_2101/IP_23_2101_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_23_2101",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10896/M.10896_CP_APERTURA_01_3ad9e3151eea.pdf",
+      "sha256": "3ad9e3151eeafd463a3436034b6dbc5be053c7d15c39390d87b0e72bd0e1b0b5",
+      "coincide_inventario": "",
+      "bytes": "40452",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_2101/IP_23_2101_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:04+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission opens in-depth investigation into the proposed\ntransaction between Orange and MasMovil\n\nBrussels, 3 April 2023\n\nThe European Commission has opened an in-depth investigation to assess, under the EU Merger\nRegulation, the proposed creation of a joint venture by Orange and MasMovil. The Commission is\nconcerned that the transaction may reduce competition in the retail supply of mobile and fixed\nbroadband services as well as of multiple-play bundles in Spain.\n\nOrange and MasMovil are the second and fourth largest operators active at retail and wholesale\nlevel for fixed broadband and mobile services in Spain. There are in total four mobile network\noperators active in Spain, i.e. Telefónica, Vodafone, Orange, and MasMovil. There are also several\nmobile and fixed virtual network operators which use the network operators' infrastructure to offer\nmobile and fixed telecoms services to their consumers.\n\nThe Commission's preliminary concerns\n\nThe preliminary investigation indicates that Orange and MasMovil are close competitors, in the\nSpanish markets for the retail supply of: (i) mobile telecommunications services; (ii) fixed\nbroadband access services; and (iii) multiple-play bundles, including fixed mobile convergent\nservices.\n\nIn particular, the Commission found that:\n\n    The transaction would reduce the number of network operators in Spain, thereby\n     eliminating an innovative and significant rival. This could lead to higher prices and lower\n     quality of telecom services for customers.\n\n    As result of the transaction, Orange and MasMovil would have the ability and incentive to\n     restrict access of virtual operators to wholesale mobile network and wholesale fixed\n    network access services. This could reduce the ability of such operators to compete, and in\n     turn lead to higher prices and lower quality of services for end customers in Spain.\n\nThe Commission will now carry out an in-depth investigation into the effects of the proposed\ntransaction to determine whether its initial competition concerns are confirmed.\n\nThe proposed transaction was notified to the Commission on 13 February 2023. On 2 March 2023,\nthe Spanish Competition Authority requested a referral of the case under Article 9 of the EU Merger\nRegulation. This referral request is pending.\n\nThe Commission now has 90 working days, until 21 August 2023, to take a decision. The opening\nof an in-depth inquiry does not prejudge the outcome of the investigation.\n\nCompanies and products\n\nOrange, headquartered in France, is a global telecommunications operator active in the Spanish\ntelecommunications market through its subsidiary OSP. OSP provides mobile and fixed\ntelecommunication services to residential customers, business customers and wholesale customers in\nSpain. It operates under three brands: Orange, Jazztel, and Simyo.\n\nLorca, headquartered in UK, is a holding company controlling MasMovil. MasMovil provides fixed\nand mobile telecommunications services mainly to residential customers in Spain. It operates under\na wide variety of brands, such as Yoigo, MásMóvil, and Virgin, as well as digital-focused brand\nPepephone, regional brands Euskaltel, R., Guuk, Embou and Telecable and international customers\nbrands Llamaya, Lebara, Lycamobile.\n\nMerger control and procedure\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or a substantial part",
+      "caracteres": 3648,
+      "caracteres_utiles": 2972,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nHowever, as part of the current matter, the Phase I deadline was extended by 10 working days\nfollowing a request made by the Spanish Competition Authority, under Article 9 of the EU Merger\nRegulation.\n\nIn addition to this transaction, there are currently eight on-going Phase II merger investigations: :\n(i) the proposed acquisition of OMV Slovenija by MOL; (ii) the proposed acquisition of Alumetal by\nHydro; (iii) the proposed acquisition of Activision Blizzard by Microsoft; (iv) the proposed acquisition\nof eTraveli by Booking; (v) the proposed acquisition of Lagardère by Vivendi;(vi) the proposed\nacquisition of VMware by Broadcom; and (vii) the proposed acquisition of Inmarsat by Viasat; and\n(viii) the proposed acquisition of Asiana by Korean Air.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.10896.\n\n                                                                                                              IP/23/2101\n\nQuotes:\n\n\n In Spain, consumers can choose between several competitive fixed and mobile telecom services, often sold as a bundle. MasMovil\n has been a successful challenger to Orange and other operators in recent years. This is why we are opening an in-depth\n investigation into the merger between MasMovil and Orange. We want to ensure that Spanish consumers continue to benefit\n from affordable and high-quality telecom services, including from virtual operators that need competitive wholesale access to\n fixed and mobile networks in order to offer their services in retail telecom markets.\n Margrethe Vestager, Executive Vice-President in charge of competition policy - 03/04/2023\n\n\n\n Press contacts:\n\n       Daniel FERRIE (+32 2 298 65 00)\n       Nina FERREIRA (+32 2 299 81 63)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2184,
+      "caracteres_utiles": 1650,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

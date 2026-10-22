@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "96706fa17950c23eeeb0f7fb336b283a501ebe2eab9e30c12a405e69c8b1049c",
+  "extraido_utc": "2026-10-22T19:36:45+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": " ",
+    "author": "Jonas RASIMAS",
+    "subject": "",
+    "keywords": "EL4",
+    "creator": "Acrobat PDFMaker 25 for Word",
+    "producer": "Adobe PDF Library 25.1.208",
+    "creationDate": "D:20250411141737+02'00'",
+    "modDate": "D:20250411141737+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10806_OTRO_01",
+      "caso": "M.10806",
+      "universo": "principal",
+      "titulo": "Trustee details — BROADCOM / VMWARE",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202516/M_10806_10598864_6526_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202516/M_10806_10598864_6526_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10806/M.10806_OTRO_01_96706fa17950.pdf",
+      "sha256": "96706fa17950c23eeeb0f7fb336b283a501ebe2eab9e30c12a405e69c8b1049c",
+      "coincide_inventario": "",
+      "bytes": "87579",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202516/M_10806_10598864_6526_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "  MONITORING TRUSTEE IN CASE M.10806 – BROADCOM / VMWARE\n\n\nOn 22.09.2023, the Commission approved the appointment of:\n\n          S&W Partners LLP\n                  (formerly Smith & Williamson LLP)\n               45 Gresham Street\n               London\n            EC2V 7BG\n                 United Kingdom\n\n                  Contact:\n\nNasoul Gopal, Partner & Head of Monitoring Trustee Services:\nnasoul.gopal@swgroup.com\n\nas Monitoring Trustee in the above-mentioned case.\n\nThe role of the Monitoring Trustee is to monitor the compliance of Broadcom, Inc. with\nthe Commitments attached to the Commission's Decision of 12.07.2023 and to report to\nthe Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 936,
+      "caracteres_utiles": 670,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

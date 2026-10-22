@@ -53,7 +53,22 @@ python remedios_ue/descargar_remedios.py --todos --destino descargas_anc   # rec
 python remedios_ue/extraer_texto.py --entrada descargas_anc                # texto por página
 ```
 
-`texto_extraido/` queda ignorada en esta rama.
+## Texto extraído (`texto_extraido/`)
+
+Salida de `extraer_texto.py` 1.1.0 con `--ocr` (PyMuPDF 2.0 y Tesseract 5.3.4, 22/10/2026),
+para no tener que repetir la extracción ni instalar Tesseract:
+
+| Archivo | Qué es |
+|---|---|
+| `documentos/<sha256>.json` | Texto por página de cada PDF, con `pagina_pdf`, `origen_texto` (`pdf` u `ocr`), alertas y las filas del reporte que apuntan a ese PDF |
+| `documentos/<sha256>.txt` | El mismo texto con separadores de página; las páginas OCR dicen "texto OCR: verificar contra el PDF" |
+| `documentos.csv` | Una fila por documento: `documento_id`, caso, estado de extracción y rutas al JSON y al TXT |
+| `paginas.csv` | Una fila por página (9.100), con su origen y alertas |
+| `resumen.json`, `estado.json` | Conteos y caché de la corrida |
+
+505 páginas de decisiones son imagen y se leyeron por OCR. Esas páginas tienen errores de
+reconocimiento: **una cifra tomada de una página `ocr` se verifica contra el PDF**. La
+validación completa está en `remedios_ue/EXTRACCION_TEXTO.md` de la rama de trabajo.
 
 ## Fuente y reutilización
 

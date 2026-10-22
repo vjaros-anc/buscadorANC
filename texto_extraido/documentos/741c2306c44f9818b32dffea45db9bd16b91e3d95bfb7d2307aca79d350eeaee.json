@@ -1,0 +1,131 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "741c2306c44f9818b32dffea45db9bd16b91e3d95bfb7d2307aca79d350eeaee",
+  "extraido_utc": "2026-10-22T19:24:16+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10149_POST_01",
+      "caso": "M.10149",
+      "universo": "principal",
+      "titulo": "Decisión sobre implementación de remedios — KOREAN AIR LINES / ASIANA AIRLINES",
+      "tipo_documental": "POST",
+      "grupo": "actos_posteriores",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202632/M_10149_20213.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202632/M_10149_20213.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10149/M.10149_POST_01_741c2306c44f.pdf",
+      "sha256": "741c2306c44f9818b32dffea45db9bd16b91e3d95bfb7d2307aca79d350eeaee",
+      "coincide_inventario": "",
+      "bytes": "286492",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202632/M_10149_20213.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:00+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "       EUROPEAN COMMISSION\n\n         DG Competition\n\n\n\n\n  Case M.10149 - KOREAN AIR LINES / ASIANA\n                            AIRLINES\n\n\n\n\n\n                         Only the English text is available and authentic.\n\n\n\n\n\n         REGULATION (EC) No 139/2004\n\n             MERGER PROCEDURE\n\n\n\n\n\nDecision on the implementation of the commitments\n\n                                Date: 15/11/2024",
+      "caracteres": 393,
+      "caracteres_utiles": 201,
+      "cobertura_imagen_maxima": 0.0115,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "              EUROPEAN COMMISSION\n\n\n\n\n                                                     Brussels, 15.11.2024\n                                             C(2024) 8123 final\n\n                                     PUBLIC VERSION\n\n\n                                                               In the published version of this decision,\n                                                 some   information  has  been   omitted\n                                                             pursuant  to  Article  17(2)  of  Council\n                                                           Regulation (EC) No 139/2004 concerning\n                                                              non-disclosure  of  business  secrets  and\n                                                                other    confidential   information.   The\n                                                           omissions  are shown  thus […]. Where\n                                                                possible the information omitted has been\n                                                              replaced by ranges of figures or a general\n                                                                   description.\n\n\n                                           Korean Air Lines Co, Ltd\n                                           260 Haneul-gil, Gangseo-gu\n                                               Seoul\n                                               Republic of Korea\n\n\n\nDear Sir or Madam,\n\nSubject:  Case M.10149 – KOREAN AIR LINES / ASIANA AIRLINES\n         Approval of the fulfilment of the completion condition pursuant to\n         paragraph 5 of the Passenger Commitments\n\n\n1.     FACTS AND PROCEDURE\n\n(1)    By decision of 13 February 2024 (the ‘Decision’) based on Article 8(2) of Council\n        Regulation (EC) No 139/2004,1 the Commission declared the concentration by\n       which Korean Air Lines Co. Ltd (‘Korean Air’, Republic of Korea, referred to\n         hereinafter as ‘South Korea’), controlled by Hanjin KAL Co., Ltd, acquires within\n         the meaning of Article 3(1)(b) of the Merger Regulation sole control of the whole\n         of Asiana Airlines Inc. (‘Asiana’, South Korea), by way of purchase of shares,\n        compatible  with  the  internal  market  and  the EEA  Agreement,  subject  to\n        compliance with conditions and  obligations annexed  to  the Decision. These\n\n\n\n\n1      OJ L 24, 29.1.2004, p. 1 (the ‘Merger Regulation’). With effect from 1 December 2009, the Treaty on\n         the Functioning of the European Union (‘TFEU’) has introduced certain changes, such as the\n        replacement  of ‘Community’ by  ‘Union’  and ‘common  market’ by  ‘internal  market’. The\n        terminology of the TFEU will be used throughout this decision.\n\n\nCommission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111",
+      "caracteres": 2905,
+      "caracteres_utiles": 1417,
+      "cobertura_imagen_maxima": 0.0114,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 3,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "       commitments are divided  into the ‘Passenger Commitments’ and the ‘Cargo\n        Commitments’.2 The present decision only covers the Passenger Commitments.\n\n(2)     Paragraph 5 of the Passenger Commitments provides that the closing of the\n        Transaction between Korean Air and Asiana (‘Completion’) can only take place\n          after the Passenger Remedy Taker has entered on  all Remedy Routes  (‘the\n        Completion Condition’).3 Entry on all Remedy Routes is defined as the fulfilment\n         of two cumulative conditions.\n\n(3)       First, paragraph  5(a)  of  the Passenger Commitments  requires  the Passenger\n      Remedy Taker to operate three (3) weekly frequencies on the ICN-FRA route, for\n         four (4) weeks after the start of operations on this route, as well as five (5) weekly\n        frequencies on the ICN-CDG route, three (3) weekly frequencies on the ICN-FCO\n         route, and three (3) weekly frequencies on the ICN-BCN route as of the month\n        foreseen in the Entry Schedule for the respective route up until the end of the first\n         four (4) weeks of flight operations on the ICN-FRA route.4 On each individual\n      Remedy Route, the Slots are to be used for at least 80% of the time during the\n        period from the initial start of operations on the respective Remedy Route until the\n       end of the first four (4) weeks of flight operations on the ICN-FRA route, unless\n        exceptions or waivers to the use-it-or-lose-it rule would apply on the respective\n      Remedy Route(s) on the basis of the EU Slot Regulation.5\n\n(4)     Second, according to paragraph 5(b) of the Passenger Commitments, the Passenger\n      Remedy Taker must sell tickets for the frequencies envisaged under the Entry\n        Schedule in relation to all Remedy Routes for at least the ongoing IATA Season,6\n         the IATA Winter Season 2024/2025 and the IATA Summer Season 2025.\n\n(5)     Paragraph 5 of the Passenger Commitments further states that the fulfilment of the\n        Completion Condition shall be subject to approval of the Commission, advised by\n         the Monitoring Trustee.\n\n(6)    On 31 October 2024, the Monitoring Trustee submitted its Ad hoc Report (the\n        Monitoring Trustee’s report’) on the fulfilment of the Completion Condition under\n         the Passenger Commitments. The report was submitted pursuant to paragraph 57(f)\n         of the Passenger Commitments, which provides that the Monitoring Trustee shall\n        advise and make a written recommendation to the Commission as to the fulfilment\n\n2        Capitalised terms not explicitly defined in this decision are to be understood as defined in the\n        Decision and the Passenger Commitments.\n3        In addition, paragraph 3 of the Cargo Commitments provides that the Transaction shall not be\n        implemented before Korean Air has entered into a Binding Sale and Purchase Agreement for the sale\n         of the Divestment Business and the Commission has approved the purchaser and the terms of sale.\n        That condition under the Cargo Commitments is assessed separately and remains unaffected by this\n         Decision.\n4     On the ICN-CDG route, the (revised) Entry Schedule foresees entry with a lower number of (four)\n         frequencies and a subsequent increase to five weekly services. The ‘month foreseen in the Entry\n        Schedule’ therefore refers both to the start of operation on the route and increase of weekly services\n       on the route.\n5     On the ICN-CDG route, the (revised) Entry Schedule foresees entry with a lower number of (four)\n         frequencies and a subsequent increase to five weekly services. The 80% operation threshold should\n         therefore refer to four, rather than five weekly services for the period between the start of operation\n       on the route until the foreseen increase, and to five weekly services from the foreseen increase\n        according to the Entry Schedule until the completion of the fourth week of operations on the ICN-\n      FRA route.\n6      The ongoing IATA Season at the time when the Passenger Remedy Taker completed four weeks of\n         operation on the ICN-FRA route was IATA Summer Season 2024.\n\n\n\n\n\n                                                     2",
+      "caracteres": 4282,
+      "caracteres_utiles": 3110,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 4,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "         of the Completion Condition. In its report, the Monitoring Trustee confirmed that it\n        considers that the Completion Condition has been fulfilled.\n\n2.     ASSESSMENT OF THE FULFILMENT OF THE COMPLETION CONDITION\n\n(7)     The Completion Condition requirements  set in paragraph 5 of the Passenger\n       Commitments are based on compliance of the Passenger Remedy Taker with the\n        Entry Schedule annexed to the Passenger Commitments, both in relation to the\n         services the Passenger Remedy Taker operated on the Remedy Routes in the past\n       and in relation to tickets sold by the Passenger Remedy Taker for future operations\n       on the Remedy Routes.\n\n(8)    On 19 June 2024, following a Reasoned Request by Korean Air, the Commission\n        decided, in accordance with clause 91 of the Commitments, to extend the entry date\n       on the ICN-CDG route set in the Entry Schedule by nine weeks, until 28 August\n        2024, on which day entry shall occur with four weekly frequencies (‘the Extension\n         Decision’). This extension should be taken into account when applying to the ICN-\n     CDG route the requirement in paragraph 5(a) that the services on each Remedy\n        Route, including the ICN-CDG route, should be operated “as of the month foreseen\n         in the Entry Schedule for the respective route […]”.\n\n(9)    As a result, the Entry Schedule, as revised by the Extension Decision, sets the\n        following schedule for entry and increase of weekly frequencies by the Passenger\n      Remedy Taker on the Remedy Routes for IATA Summer Season 2024:\n\n Table 1: The Entry Schedule for the IATA Summer Season 2024 (number of weekly\nfrequencies per route), as revised by the Extension Decision.\n\n                           August 2024     September 2024    October 2024\n         ICN-CDG            4                4                5\n         ICN-FCO            3                3                3\n         ICN-BCN                   -                3                3\n         ICN-FRA                   -                         -                3\n\n(10)    Below, the Commission will assess the fulfilment of the Completion Condition as\n          set in paragraphs 5(a) and 5(b) of the Passenger Commitments.\n\n2.1.     Fulfilment  of  the  requirements  in  paragraph  5(a)  of  the  Passenger\n      Commitments\n\n(11)    The Passenger Remedy Taker, T’way, commenced operations of three weekly\n         services on the ICN-FRA route on 3 October 2024. Therefore, on 30 October 2024,\n       T’way completed four weeks of operation on the route.7\n\n(12)   As a result, in order to fulfil the requirements set in paragraph 5(a) of the Passenger\n       Commitments, T’way should have used the Slots on each of the Remedy Routes\n         for at least 80% of the time during the period between the start of operations on\n        each Remedy Route respectively and 30 October 2024.\n\n\n\n\n7        In practice, T’way completed the fourth week of services on the ICN-FRA route on 29 October, as it\n        did not operate any services on the route on 30 October 2024.\n\n\n\n\n\n                                                     3",
+      "caracteres": 3167,
+      "caracteres_utiles": 2080,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 5,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "(13)     In accordance with the Entry Schedule, T’way commenced operations of three\n       weekly services on the ICN-FCO route on 8 August 2024, of four weekly services\n       on the ICN-CDG route on 28 August 2024, of three weekly services on the ICN-\n     BCN route on 11 September 2024, and, as mentioned above, of three weekly\n         services on the ICN-FRA route on 3 October 2024. On 6 October T’way increased\n           its services on the ICN-CDG route to five weekly services.\n\n(14)    The Monitoring Trustee confirms that T’way’s commencement of operations and\n         increase of frequencies on all the Remedy Routes were in accordance with the\n        Frequencies envisaged under the Entry Schedule.\n\n(15)    The Monitoring Trustee further confirms that T’way has reported no cancellations\n         of  its services on any of the Remedy Routes and therefore has satisfied the\n        requirement to operate the Slots on each of the Remedy Routes for at least 80% of\n         the time during the period between the start of operations on each Remedy Route\n       and 30 October 2024.\n\n(16)    Therefore, based on the information available to it, and in particular the Monitoring\n         Trustee’s report, the Commission considers that the requirements set in paragraph\n         5(a) of the Passenger Commitments have been fulfilled.\n\n2.2.     Fulfilment  of  the  requirements  in  paragraph  5(b)  of  the  Passenger\n      Commitments\n\n(17)   As confirmed by the Monitoring Trustee, in advance of its entry on the Remedy\n        Routes, T’way started selling tickets for the IATA Summer season 2024. By 24\n         July 2024, T’way sold tickets on all four Remedy Routes, in accordance with its\n        planned entry on each of the routes. On 14 August 2024, T’way confirmed to the\n        Monitoring Trustee that it had started selling tickets on all four remedy routes also\n         for the IATA Winter Season 2024/2025, and on 26 September 2024 T’way placed\n       on sale tickets for the increased frequencies envisaged in the Entry Schedule. On\n       25 October 2024, T'way started selling tickets on all four Remedy Routes for the\n        frequencies envisaged in the Entry Schedule for the IATA Summer Season 2025,\n        including […].\n\n(18)    Therefore, on 25 October 2024 and until the end of the IATA Summer Season\n        2024, T'way was selling tickets for the frequencies envisaged under the Entry\n        Schedule in relation to all Remedy Routes for at least the ongoing IATA Summer\n        Season 2024, the IATA Winter Season 2024/2025 and the IATA Summer Season\n        2025.\n\n(19)    Consequently, based on the information available to  it, and in particular the\n        Monitoring Trustee’s report, the Commission considers that the requirements set in\n        paragraph 5(b) of the Passenger Commitments have been fulfilled.\n\n3.     ADDITIONAL CONSIDERATIONS\n\n(20)   On 31 October 2024, the Commission received a letter from Asiana Airlines Pilots\n       Union (‘APU’), requesting, among others, that “during its review process for final\n        approval of the business combination between Korean Air and Asiana Airlines” the\n       Commission verifies certain facts related to the support provided by Korean Air to\n       T’way. In its letter, APU submits that “Korean Air plans to provide additional\n        support to T'way Air with two B777 aircraft and personnel including pilots and\n\n\n\n\n                                                     4",
+      "caracteres": 3489,
+      "caracteres_utiles": 2508,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 6,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "        maintenance staff”. APU further submits that the additional support is required\n        because “T'way Air has recently experienced difficulties in introducing previously\n        planned A330 aircraft, causing disruptions in stable operations on European\n         routes”, and that “[t]his underlines T'way Air's lack of capability and experience in\n        operating major European routes”. APU therefore “request the EC to carefully\n       examine this aspect before making its final decision”.\n\n(21)   As explained above at recitals 3 and 4, the Completion Condition sets very specific\n        requirements concerning the operation of services on the Remedy Routes and the\n         sale of tickets on these routes. As the Completion Condition does not concern the\n        circumstances mentioned in the letter from APU, there is no room to take these\n        elements into account in the current decision. However, the Commission will\n        continue to monitor Korean Air’s compliance with the Passenger Commitments\n        including in relation to the circumstances brought to its attention by APU.\n\n4.     CONCLUSION\n\n(22)   On the basis of the above assessment and the information provided to  it, the\n       Commission concludes that the Completion Condition set in paragraph 5 of the\n        Passenger Commitments has been fulfilled.\n\n(23)    This decision only concerns an assessment of the fulfilment of the Completion\n        Condition. It does not constitute a confirmation that Korean Air has complied with\n           its Commitments more generally.\n\n(24)    This decision is based on paragraph 5 of the Passenger Commitments attached to\n         the Commission Decision of 13 February 2024.\n\n                                           For the Commission\n\n\n                                                  (Signed)\n                                                     Olivier GUERSENT\n                                                Director-General\n\n\n\n\n\n                                                     5",
+      "caracteres": 2033,
+      "caracteres_utiles": 1334,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

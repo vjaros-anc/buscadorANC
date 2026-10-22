@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "fe0067491da6f63d82fd52858a7d3eadab936a8cb80e173f63c59fda4432406a",
+  "extraido_utc": "2026-10-22T19:44:55+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "Acrobat PDFMaker 25 for Word",
+    "producer": "Adobe PDF Library 25.1.51",
+    "creationDate": "D:20250617121253+02'00'",
+    "modDate": "D:20250617121255+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11956_NOT_PREVIA_01",
+      "caso": "M.11956",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — UMG / DOWNTOWN",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202525/M_11956_10665003_612_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202525/M_11956_10665003_612_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11956/M.11956_NOT_PREVIA_01_fe0067491da6.pdf",
+      "sha256": "fe0067491da6f63d82fd52858a7d3eadab936a8cb80e173f63c59fda4432406a",
+      "coincide_inventario": "",
+      "bytes": "149682",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202525/M_11956_10665003_612_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.11956 – UMG / DOWNTOWN\n\n                         SECTION 1.2\n\n                           Description of the concentration\n\n\nThis notification concerns the proposed acquisition by Universal Music Group N.V. (UMG)\nof sole control over Downtown Music Holdings LLC (Downtown) within the meaning of\nArticle 3(1), point (b) EUMR.\n\nThe concentration  is effected by purchase of shares pursuant to a Membership Interest\nPurchasing Agreement entered into by the parties on 16 December 2024.\n\nUMG is a global company incorporated in the Netherlands and listed on Euronext Amsterdam\nowning and operating businesses engaged in wholesale recorded music, music publishing,\nmerchandising, and audio-visual content. On closing, Downtown will be incorporated into\nVirgin Music Group, a standalone division within UMG, providing A&L services to third-\nparty record labels and artists.\n\nDowntown (which is ultimately controlled by Myers Business Trust) is a global independent\nrights management and music services company, headquartered in New York, USA, active in\nthe provision of A&L services, relatively limited publishing services focused on royalty\ncollection, and certain ancillary services.\n\n\n\n\n\nCommission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111",
+      "caracteres": 1756,
+      "caracteres_utiles": 1394,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

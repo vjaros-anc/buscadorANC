@@ -1,0 +1,121 @@
+[PÁGINA PDF 1]
+                 European Commission - Press release
+
+
+
+
+
+Mergers: Commission approves acquisition of IHS Markit by S&P Global,
+subject to conditions
+
+Brussels, 22 October 2021
+
+The European Commission has approved, under the EU Merger Regulation, the proposed acquisition
+of IHS Markit by S&P Global. The approval is conditional on the divestment of businesses in the areas
+of commodity price assessments and financial data.
+
+Executive Vice-President Margrethe Vestager, in charge of competition policy, said: “S&P Global and
+IHS Markit are leaders in the commodity and financial data markets. Without remedies, the merger
+would have limited customers access to some competitive and reliable data which is essential to
+ensure fairness of physical trades and financial markets. With this conditional approval the
+problematic overlaps in commodity price assessments, and also in the area of loan identifiers and
+indices are fully removed, to the benefit of competition”.
+
+The Commission's investigation
+
+S&P Global and IHS Markit are major global providers of commodity and financial data. The
+Commission's investigation focused on the global markets for commodity price assessments and
+market intelligence, as well as for credit ratings, financial data, indices, identifiers, and market
+intelligence products, especially in the loan value chain.
+
+Following its investigation, the Commission was concerned that the acquisition would reduce
+competition, leading to potential price increases and a reduction of choice and innovation in the
+markets for:
+
+    price assessments for oil, coal, biofuels and petrochemicals, where both companies are
+   among the four global price assessment reporting agencies, and markets are characterised by
+    strong network effects and high barriers to entry;
+
+    loan identifiers, where IHS Markit provides the leading LoanX ID (LXID) identifiers globally
+    and S&P Global provides loan CUSIPs (named after the Committee on Uniform Securities
+     Identification Procedures that developed the identifier standard originally);
+
+    leveraged loan market intelligence, for which S&P Global is a strong global supplier and
+    IHS Markit a provider of very important inputs, including its LXIDs; and
+
+    leveraged loan indices, where both companies are active and would face limited competition
+     following the merger.
+
+The proposed remedies
+
+To address the Commission's competition concerns, S&P Global and IHS Markit offered the following
+commitments:
+
+    In commodity price assessments, the divestment of IHS Markit's Oil Price Information
+    Service (“OPIS”), including PetroChemWire, and Coal, Metals and Mining (“CMM”)
+    businesses. The divestment of OPIS and CMM fully removes the problematic overlap in
+     relation to price assessments for oil, coal, biofuels and petrochemicals.
+
+    In financial data and infrastructure, the divestment of a number of S&P Global businesses.
+
+        The divestment of S&P Global's CUSIP issuance and data licensing business
+        (“CUSIP Global Services”). This divestment covers the issuance and data licensing of
+         loan CUSIP identifiers, and thus removes fully the overlap in the area of loan identifiers.
+
+        The divestment of S&P Global's leveraged loan 100 index family and its leveraged
+        loan market intelligence product Leveraged* Commentary and Data (LCD). This
+        divestment (i) fully removes the overlap between S&P Global and IHS Markit in relation
+         to leveraged loan indices, and (ii) ensures that the merged entity will not have any
+         incentive to foreclose competitors in leveraged loan market intelligence.
+
+These businesses will have to be divested to one or more purchaser(s) to be approved by the
+
+[PÁGINA PDF 2]
+Commission.
+
+These structural commitments fully remove the competition concerns identified by the Commission
+in the markets for commodity price assessments, loan identifiers, leveraged loan indices and
+leveraged loan market intelligence. The Commission therefore considered that the proposed
+transaction, as modified by the commitments, would no longer raise competition concerns. The
+decision is conditional upon full compliance with the commitments.
+
+Companies and products
+
+S&P Global is a US-based company which offers credit ratings, commodity price assessments,
+security identifiers, as well as data and analytics to the capital and commodity markets worldwide.
+
+IHS Markit is a UK-based provider of data and analytics to industries, financial markets, and
+governments. IHS Markit provides pricing and reference data, identifiers, financial indices, valuation
+and trading services, as well as data feeds and data management solutions.
+
+Merger control rules and procedures
+
+The transaction was notified to the Commission on 3 September 2021.
+
+The Commission has the duty to assess mergers and acquisitions involving companies with a
+turnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent
+concentrations that would significantly impede effective competition in the EEA or any substantial
+part of it.
+
+The vast majority of notified mergers do not pose competition problems and are cleared after a
+routine review. From the moment a transaction is notified, the Commission generally has a total of
+25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation
+(Phase II). This deadline is extended to 35 working days in cases where remedies are submitted by
+the parties, such as in this case.
+
+More information will be available on the Commission's competition website, in the
+Commission's public case register under the case number M.10108.
+
+
+
+*Modified on 26 Oct., at 10:30.
+
+                                                                                                              IP/21/5461
+
+
+ Press contacts:
+
+       Daniel FERRIE (+32 2 298 65 00)
+       Maria TSONI (+32 2 299 05 26)
+
+ General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email

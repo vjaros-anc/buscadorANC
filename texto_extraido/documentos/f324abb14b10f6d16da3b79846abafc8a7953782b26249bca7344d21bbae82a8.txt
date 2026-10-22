@@ -1,0 +1,911 @@
+[PÁGINA PDF 1]
+         EUROPEAN COMMISSION
+             DG Competition
+
+
+
+
+      Case M.10507 - HITACHI RAIL / GROUND
+             TRANSPORTATION SYSTEMS
+                   BUSINESS OF THALES
+
+
+
+
+                           Only the English text is available and authentic.
+
+
+          REGULATION (EC) No 139/2004
+              MERGER PROCEDURE
+
+
+Decision on the implementation of the commitments -
+                                Purchaser approval
+                                    Date: 3/4/2024
+
+[PÁGINA PDF 2]
+               EUROPEAN COMMISSION
+
+
+
+                                                    Brussels, 3.4.2024
+                                             C(2024) 2330 final
+                                   PUBLIC VERSION
+
+                                                              In the published version of this decision,
+                                                 some   information   has  been   omitted
+                                                             pursuant  to  Article  17(2)  of  Council
+                                                            Regulation (EC) No 139/2004 concerning
+                                                              non-disclosure of business secrets and other
+                                                                  confidential information. The omissions are
+                                                  shown  thus  […].  Where  possible  the
+                                                             information omitted has been replaced by
+                                                            ranges of figures or a general description.
+
+                                                  Hitachi Rail Ltd.
+                                                               7th Floor, One New Ludgate
+                                           60 Ludgate Hill
+                                         London EC4M 7AW
+                                               United Kingdom
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.10507 – HITACHI RAIL / GROUND TRANSPORTATION
+       SYSTEMS BUSINESS OF THALES
+         Approval of Mer Mec S.p.A. as purchaser of Hitachi Rail STS France
+         SAS, Hitachi Rail STS Deutschland GmbH and Hitachi’s UK digital
+          mainline signalling business (the ‘Divestment Business’) following your
+            letter of 31 January 2024 and the Trustee’s opinion of 25 March 2024
+
+1.     FACTS AND PROCEDURE
+
+(1)    By decision of 30 October 2023 (the ‘Decision’) based on Article 6(1)(b) in
+        connection with Article 6(2) of Council Regulation (EC) No 139/2004,1 the
+       Commission  declared  the  contemplated  acquisition by  Hitachi  Rail,  Ltd.
+         (‘Hitachi  Rail’)  of  sole  control over  the Ground  Transportation Systems
+        business of Thales SA (‘Thales GTS’) (the ‘Concentration’) compatible with the
+         internal market, subject to conditions and obligations (the ‘Commitments’).
+        Hitachi Rail and Thales GTS are together referred to as the ‘Parties’.
+
+1.1.    The Divestment Business
+
+(2)     The Commitments provide that Hitachi Rail commits to divest its rail signalling
+        business in France and Germany, complemented by the divestiture of Hitachi
+
+1       Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations
+        between undertakings, OJ L 24, 29.1.2004, p.1 (the ‘EU Merger Regulation’).
+
+
+
+Commission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111
+
+[PÁGINA PDF 3]
+         Rail’s digital mainline signalling assets and resources in the United Kingdom
+         (together the ‘Divestment Business’). More  specifically, the Commitments
+         consist in the divestment of:
+          (a)   Hitachi Rail STS France SAS: which regroups: (i) several sites, including:
+            one operations site in Les Ulis, one manufacturing site in Riom, one
+               service and maintenance site in Paris and international branches; (ii) ETCS
+            and legacy OBUS contracts for projects in France and other countries, for
+             high-speed and conventional lines; and (iii) the ARGOS platforms with
+               interlockings and ATP wayside overlay projects that are currently under
+             development  (the ‘ARGOS  Platforms’, which  include  the ‘ARGOS
+            Wayside Platform’ and the ‘ARGOS Interlockings Platform’).
+         (b)   Hitachi Rail STS Deutschland GmbH: with its business for ETCS ATP
+             wayside and interlockings projects in Germany, which includes: (i) one
+               office for operations in Munich; and (ii) the German WSP platforms that
+              are under development  for both ATP wayside overlay  projects and
+               interlocking projects (the ‘German WSP Platforms’ which include the
+            ‘German WSP Wayside Platform’ and the ‘German WSP Interlocking
+               Platform’).
+          (c)   Hitachi  Rail’s UK  digital mainline  signalling (‘DMS’) business: the
+               divestiture  of  Hitachi  Rail’s  digital  mainline  signalling  assets  and
+              resources in the United Kingdom was required by the Competition and
+             Markets Authority in the United Kingdom as part of  its conditional
+              clearance of the acquisition of Thales GTS by Hitachi Rail. These assets
+            and resources will be carved out from Hitachi Rail and contributed to
+             a new legal entity.
+
+1.2.    Purchaser proposal
+
+(3)    By letter of 31 January 2024, Hitachi Rail proposed Mer Mec SpA (‘Mer Mec’)
+         for approval by the Commission as purchaser of the Divestment Business and
+        submitted:
+          (a)  An exclusivity agreement entered into between Hitachi Rail and Mer Mec
+            on 22 December 2023;
+         (b)  A put option agreement,  in agreed form between Hitachi  Rail and
+           Mer Mec dated 22 December 2023;
+          (c)  A share purchase agreements (‘SPA’) and its schedules, in agreed form
+            between Hitachi Rail and Mer Mec dated 22 December 2023.2
+
+(4)    On 25 March 2024, the Monitoring Trustee  (the  ‘Trustee’) submitted an
+        assessment of Mer Mec’s  suitability as a purchaser and, in  particular, he
+         indicated that it fulfils the criteria of the purchaser requirements in section D of
+         the Commitments attached to the Decision. In this assessment, the Trustee also
+         indicated that, on the basis of the Proposed Agreement, the Divestment Business
+       would be sold in a manner consistent with the Commitments.
+
+
+
+
+
+2       These agreements are together referred to as the ‘Proposed Agreements’.
+
+
+
+                                                      2
+
+[PÁGINA PDF 4]
+2.     ASSESSMENT OF THE PURCHASER PROPOSAL
+
+2.1.    Legal framework
+
+(5)     According to paragraph 20 of the Commitments, the Commission has to verify
+         that the purchaser fulfils the purchaser criteria and that the Divestment Business
+           is being sold in a manner consistent with the Commitments.
+
+(6)     According to paragraph 19 of the Commitments, in  its assessment of the
+        proposed purchaser, the Commission should ensure in particular that:
+          (a)  The purchaser shall be independent of and unconnected to Hitachi Rail
+            and its affiliated undertakings (this being assessed having regard to the
+               situation following the divestiture);
+         (b)  The purchaser shall have the financial resources and strength, proven
+               expertise and experience in the rail infrastructure industry, international
+              presence, incentive and objective to maintain and develop the Divestment
+             Business as a viable and active competitive force in competition with the
+               Parties and other competitors;
+          (c)  The acquisition of the Divestment Business by the purchaser must neither
+             be likely to create, in light of the information available to the Commission,
+            prima  facie  competition  concerns  nor  give  rise  to  a  risk  that  the
+             implementation of the Commitments will be delayed. In particular, the
+              purchaser must reasonably be expected to obtain all necessary approvals
+            from  the  relevant  regulatory  authorities  for  the  acquisition  of  the
+             Divestment Business.
+
+(7)     The Concentration shall not be implemented before Hitachi Rail has entered into
+        a final binding sale and purchase agreement for the sale of the Divestment
+        Business and the Commission has approved the purchaser and the terms of sale.
+        For the purchaser approval, paragraph 20 of the Commitments specifies that the
+       Commission  shall be  satisfied  that SNCF and Deutsche Bahn would not
+        withhold  their consent  to  the  transfer  of  their backlog  contracts3  to  the
+         purchaser.
+
+2.2.     Description of the proposed purchaser
+
+(8)    Mer Mec is an Italian company, headquartered in Monopoli (Italy), specialised
+         in the design and development of end-to-end measurement, signalling and asset
+       management solutions for railway and rapid transit.4 Mer Mec’s worldwide
+        turnover for 2022 amounted to EUR […].5 Mer Mec operates six distinct
+        business units, namely:6
+          (a)   Diagnostics: this business unit represents the legacy part of the company
+            and is active in the design and construction of high-tech diagnostic and
+            measurement systems for safety management and improvement of railway
+             networks;
+
+
+
+3      As defined in the schedule of the Commitments.
+4        Hitachi’s reasoned proposal of 31 January 2024, para. 12.
+5        Trustee’s reasoned opinion of 25 March 2024, pp. 20-21.
+6        Trustee’s reasoned opinion of 25 March 2024, pp. 19-20.
+
+
+
+                                                      3
+
+[PÁGINA PDF 5]
+         (b)  Wayside signalling: this business unit has been developed 15 years ago
+              organically in Italy. With the acquisition of the signalling activities of
+                 Sirti S.p.A. (‘Sirti’) in 2021, Mer Mec significantly expanded its signalling
+                activities in Italy, where  it supplies interlockings, radio block centres
+             (‘RBC’), lineside equipment, electric traction, telecom networks, etc.;
+          (c)   Asset management: this business unit offers measuring services for the
+              railway sector using vehicles  that constantly monitor the safety and
+                 reliability of critical sections of the railway infrastructure;
+         (d)  On-board signalling: this business unit is operated by AngelStar  S.r.l.
+              (‘AngelStar’) which is a joint venture [between Mer Mec and Stadler]7.
+             AngelStar  is only  active  in the supply of on-board  signalling  units
+             (‘OBUs’);
+          (e)   Engineering:  this business  unit  is active  in the data acquisition and
+              processing (including digital area surveys, 3D reconstruction and territory
+             mobile mapping,  territory  control and monitoring, and smart  cities),
+             computational science and applied electromagnetism (including artificial
+                intelligence, autonomous navigation and self-localisation and radar design
+            and manufacturing);
+           (f)   Rolling stock:  this business unit was created after the acquisition of
+             Ferrosud S.p.A., which was active in the manufacturing and revamping of
+              vehicles and wheelsets. [Confidential details about Mer Mec’s planned
+             development in relation to rolling stock].
+
+(9)    From a geographic point of view, Mer Mec has offices and manufacturing
+          facilities in […] countries,8 and employs […] people worldwide, including
+        approximately […] engineers.9
+
+2.3.    Purchaser criteria
+
+2.3.1.   Independence from the Parties
+
+(10)    According to paragraph 19(a) of the Commitments, the purchaser shall be
+        independent of and unconnected to Hitachi Rail and its affiliated undertakings.
+       Based on the information provided by Hitachi Rail and the Trustee’s reasoned
+         opinion,  Hitachi  Rail and Mer Mec  appear  to be  independent  of, and
+        unconnected to each other.
+
+(11)     First, there are no common board directors or management, cross-shareholdings
+         or other structural or governance links between Mer Mec, Hitachi Rail and its
+          affiliated undertakings.
+
+(12)    Second, the Commission notes that Hitachi Rail and Mer Mec have some
+        commercial relationships. However, these relationships do not go beyond a
+         limited number of supply agreements and consortia or temporary joint ventures:
+          (a)   Supply agreements: these relationships concern [less than 10] contracts for
+              the supply by Mer Mec of signalling equipment ([confidential commercial
+                activity  detail]), diagnostic or measurement systems  to Hitachi  Rail,
+
+
+7      Mer Mec’s response to purchaser approval RFI 3, question 2.
+8      [EU Member States and third countries where Mer Mec has offices and manufacturing facilities].
+9        Trustee’s reasoned opinion of 25 March 2024, p. 19.
+
+
+
+                                                      4
+
+[PÁGINA PDF 6]
+             Thales GTS or their affiliated undertakings. However, the number of these
+               contracts remains particularly limited ([less than 10]) as well as their
+               individual values (always lower than EUR […])10 which have never
+             exceeded [<5]% of Mer Mec’s annual turnover;11
+         (b)   Consortia and temporary joint venture agreements: Mer Mec and Hitachi
+              Rail cooperate in the context of four consortia agreements and  joint
+              ventures:
+            –    Saturno consortium: this consortium was established in 1986 for the
+                  purpose of participating in railway high speed tenders and projects
+                     in Italy. The members of this consortium include [Hitachi Rail,
+               Mer Mec and two other undertakings]. Mer Mec thus has a minority
+                      interest in this consortium, which concerns […]12 of an overall value
+                    of approx. EUR […] which accounted for only [<5]% of Mer Mec’s
+                 worldwide turnover for 2021, [<10]% for 2022 and [<10]% for
+                    2023.13
+            –   CMM4 consortium: this consortium was established in 2012 for the
+                      realisation of Milan’s metro  line No  4. The members of  this
+                  consortium  include  [Hitachi  Rail, Mer Mec  and  two  other
+                    undertakings]. The  interest  of Mer Mec  in  this consortium  is
+                    marginal.  The  consortium  agreement  concerns  a  project  of
+                   approximately EUR […]  and  accounted  for  only  [<5]%  of
+               Mer Mec’s worldwide turnover for 2021, [<5]% for 2022 and [<5]%
+                     for 2023.14
+            –    ATI joint venture concerning the construction of a tramway line in
+                   Florence: this temporary joint venture was created in 2022 for the
+                    construction of a tramway line in Florence.15 The shareholders of the
+                      joint  venture  include  [Hitachi  Rail, Mer Mec and  three  other
+                    undertakings]. Mer Mec thus has a minority interest in this joint
+                    venture, which is supposed to last for only […] more years,16 and
+                   concerns a project of approximately EUR […], which accounted for
+                   only [<5]% of Mer Mec’s worldwide turnover for 2022 and [<5]%
+                     for 2023.17
+
+
+10       This value refers to the price that Hitachi Rail accepted to pay for the supply of the relevant
+         products. It includes the overall value of the contracts, i.e. over its entire duration (Mer Mec’s
+        response dated 11 March 2024 to the monitoring trustee’s request for information, question 2).
+11     Mer Mec’s response dated 11 March 2024 to the monitoring trustee’s request for information,
+        question 2.
+12      The project started in 2018 and is expected to end in 2026.
+13     Mer Mec’s response dated 11 March 2024 to the monitoring trustee’s request for information,
+         questions 2 and 3. The overall value of this project is calculated over an 8-year period and Mer
+      Mec is entitled each year to only part of the corresponding annual revenues proportionally to its
+         participation in the consortium ([10-20]%).
+14     Mer Mec’s response dated 11 March 2024 to the monitoring trustee’s request for information,
+         questions 2 and 3. The overall value of this project is calculated over a 12-year period and Mer
+      Mec is entitled each year to only part of the corresponding annual revenues, proportionally to its
+         participation to the consortium ([0-5]%).
+15     Mer Mec’s response dated 11 March 2024 to the monitoring trustee’s request for information,
+        question 3.
+16     Mer Mec’s response dated 11 March 2024 to the monitoring trustee’s request for information,
+         questions 2 and 3.
+17     Mer Mec’s response dated 11 March 2024 to the monitoring trustee’s request for information,
+         questions 2 and 3. The overall value of this project is calculated over a 4-year period and Mer Mec
+
+
+
+                                                      5
+
+[PÁGINA PDF 7]
+            –    ATI  joint  venture  for  the  supply  of ERTM  systems  to  Rete
+                   Ferroviaria  Italiana  (‘RFI’):  this temporary  joint  venture was
+                    created in 2022 following the award by RFI of a multi-technology
+                    tender for the design and construction of an ERTM system for an
+                     overall value of EUR 2.7 billion.18 The tender was divided into four
+                      distinct geographical lots. The first ‘Central North’ lot of an amount
+                    of EUR 1.3 billion and representing approx. 1 885 kilometres of
+                       lines, was assigned to the consortium headed by [Hitachi Rail,
+               Mer Mec and  three  other  undertakings]. Mer Mec  thus has a
+                   minority interest in this joint venture, which is currently supposed to
+                        last for only […] more years. The works expected to be executed by
+               Mer Mec amount to approx. EUR […] and represented only [<5]%
+                    of Mer Mec’s annual worldwide turnover for 2023.19
+
+(13)    Supply agreements and consortia between suppliers of rail signalling equipment
+       and rolling stock manufacturers are frequent in the railway sector.20 In the case
+          at hand, the agreements between Mer Mec and Hitachi Rail are limited to
+      [EU Member State] (where the Divestment Business is not active) and represent
+        a limited share of Mer Mec’s annual worldwide turnover (<5%). Therefore,
+         these ongoing and upcoming commercial links between Hitachi Rail and Mer
+      Mec remain limited and insufficient to cast doubt on Mer Mec’s independence
+         vis-à-vis Hitachi Rail.
+
+(14)     Third, the Commission considers that the supply and transitional agreements
+       stemming from the Commitments will not negatively affect the independence of
+         the Divestment  Business. To  the  contrary  they  intend and  contribute  to
+        improving the viability and competitiveness of the Divestment Business by
+        providing Mer Mec with the necessary technical support to meet customer
+        requirements and gain customers’ confidence, in particular during the start-up
+        period following the acquisition.
+
+(15)    The foregoing is consistent with the Trustee’s reasoned opinion which confirms
+         that Mer Mec is entirely independent of and unconnected to Hitachi Rail, Thales
+      GTS and their affiliated undertakings. It also confirms that Mer Mec does not
+        have any structural or significant commercial link with any of them.
+
+(16)    For the reasons above, the Commission concludes that Mer Mec is independent
+        from, and unconnected to, Hitachi Rail and its affiliated undertakings and that
+       any possible link does not put such independence into question.
+
+
+
+
+
+           is entitled each year to only part of the corresponding annual revenues, proportionally to its
+         participation to the joint venture ([5-10]%).
+18     Mer Mec’s response dated 11 March 2024 to the monitoring trustee’s request for information,
+        question 3.
+19     Mer Mec’s response dated 11 March 2024 to the monitoring trustee’s request for information,
+         questions 2 and 3. In 2023, Mer Mec’s revenues associated to this joint venture amounted to
+        approximately EUR […].
+20     Form CO, Annex S.7.1.0.
+
+
+
+                                                      6
+
+[PÁGINA PDF 8]
+2.3.2.   Financial resources, strength, proven expertise and experience in the  rail
+         infrastructure  industry,  international  presence,  incentive and  objective  to
+        maintain and develop the Divestment Business as a viable and active competitor
+
+(17)    According to paragraph 19(b) of the Commitments, the purchaser shall have the
+         financial resources and strength, proven expertise and experience in the rail
+         infrastructure industry, international presence, and incentive and objective to
+        maintain  and  develop  the  Divestment  Business  as  a  viable  and  active
+        competitive force in competition with Hitachi Rail-Thales GTS and other
+         competitors.
+
+2.3.2.1. Financial resources
+
+(18)    Based on the information provided by Hitachi Rail and the Trustee, the table
+       below provides an overview of the main financial indicators of Mer Mec and the
+        Divestment Business. This data shows that Mer Mec has sufficient financial
+        resources in order to maintain and develop the Divestment Business as a viable
+        competitive force on the market.
+
+Table  1: Comparison between the  financial  indicators  of Mer Mec and the
+Divestment Business
+
+                               Mer Mec                 Divestment Business
+                              2021      2022      202321     2021      2022      2023
+                                        […]       […]       […]       […]       […]  Turnover (EUR million)            […]
+                              […]       […]       […]       […]       […]       […]  EBITDA margin
+                              […]       […]       […]       […]       […]       […]  Net profit margin
+                              […]       […]       […]       […]       […]       […]  Net debt (EUR million)
+                              […]       […]       […]       […]       […]       […]  Current ratio22
+                              […]       […]       […]       […]       […]       […]  Quick ratio23
+                              […]       […]       […]       […]       […]       […]  Financial leverage24
+                              […]       […]       […]       […]       […]       […]  Return on equity
+                              […]       […]       […]       […]       […]       […]  Return on assets
+                              […]       […]       […]       […]       […]       […]  Operating cash flow (EUR million)
+                              […]       […]       […]       […]       […]       […]  Backlog (EUR million)
+
+Source: Hitachi Rail’s responses to purchaser approval RFI 1 (questions 6, 7 and Annex 1) and 2
+(questions 1, 3, 4 and 5; Mer Mec’s response to purchaser approval RFI 2 (question 5).
+
+(19)     First, Mer Mec  is a profitable company with strong financial performance
+         indicators:
+          (a)  Mer Mec’s turnover25 has been growing over the past three years while its
+          EBITDA has remained stable;
+
+
+21       Unaudited.
+22       Current assets / Current liabilities.
+23       (Current assets – Stock) / Current liabilities.
+24      Net debt / EBITDA.
+
+
+
+                                                      7
+
+[PÁGINA PDF 9]
+         (b)  Mer Mec has a solid balance sheet with EUR […] of equity and total
+               assets of a value of EUR […];26
+          (c)  Mer Mec’s net debt is de minimis (EUR […]) with almost no financial
+              leverage ([…]) in 2023;
+         (d)   In 2023, Mer Mec’s backlog has a value of EUR […] in 2023 compared to
+         EUR […] in 2022.
+
+(20)    Second,  the Divestment Business  also has  positive  financial performance
+         forecasts. According to the data submitted by Hitachi Rail and Mer Mec,
+       [30-40]% of the forecasted revenues of the Divestment Business are already
+        covered by existing projects and the Divestment Business is likely to win future
+         tenders for significant projects, which could help the Divestment Business to
+         self-finance its growth and development.27
+
+Figure 1 Divestment business – expected order intake
+
+[Confidential Mer Mec’s internal document presenting expected order intake of the
+Divestment Business]
+Source: Hitachi Rail’s response to purchaser approval RFI 1, Annex 3.
+
+(21)     Third, the projected financial indicators for the combined entity grouping Mer
+      Mec and the Divestment Business show that the latter’s acquisition by Mer Mec
+           is unlikely to degrade the financial situation of the Divestment Business.
+
+Table 2: Projected financial indicators of the combined entity
+
+                                    Mer Mec + Divestment Business
+                                      2024              2025              2026
+                                      […]               […]               […]  Turnover (EUR million)
+                                      […]               […]               […]  EBITDA margin
+                                      […]               […]               […]  Net profit margin
+                                      […]               […]               […]  Net debt (EUR million)
+                                      […]               […]               […]  Current ratio28
+                                      […]               […]               […]  Quick ratio29
+                                      […]               […]               […]   Financial leverage30
+                                      […]               […]               […]  Return on equity
+                                      […]               […]               […]  Return on assets
+                                      […]               […]               […]   Operating cash flow (EUR million)
+
+Source: Hitachi Rail’s response to purchaser approval RFI 1, question 8.
+
+
+25      The turnover of Mer Mec increased by […]% from 2020 to 2021 due to the acquisition of Sirti
+         in 2021.
+26       Trustee’s reasoned opinion of 25 March 2024, p 37-38.
+27       Hitachi Rail’s response to purchaser approval RFI 1, Annex 3.
+28       Current assets / Current liabilities.
+29       (Current assets – Stock) / Current liabilities.
+30      Net debt / EBITDA.
+
+
+
+                                                      8
+
+[PÁGINA PDF 10]
+(22)   As shown above:
+          (a)  The  turnover, EBITDA,  net  profit and  operating cash flow  of  the
+            combined entity are expected to increase over the next […] years;
+         (b)  The current and quick ratios of the combined entity are expected to
+              increase over the next […] years;
+          (c)  The net debt and financial leverage of the combined entity are expected to
+              decrease over the next […] years;
+         (d)  The projected average EBITDA margin of the combined entity over the
+              next […] years ([10-20]%)  is in the same order of magnitude as the
+             […]-year average EBITDA margins of Mer Mec ([10-20]%) and the
+             Divestment Business ([10-20]%).
+
+(23)    The Commission thus concludes that Mer Mec has sufficient financial resources
+         to maintain and develop the Divestment Business as a viable competitive force
+         in competition with Hitachi Rail-Thales GTS and other competitors.
+
+2.3.2.2. Strength, international presence, proven expertise, and experience in the rail
+         infrastructure industry
+
+(24)    In view of the information provided by Hitachi Rail and the Trustee, Mer Mec
+        has  the  strength,  international  presence,  proven  expertise, and  sufficient
+        experience in the rail infrastructure industry in order to maintain and develop the
+        Divestment Business as a viable competitive force.
+
+(25)     First, Mer Mec is an established player with sufficient experience in the rail
+         infrastructure industry in general and rail signalling in particular. Mer Mec was
+        founded in 1988 and is specialized in the supply of diagnostic and signalling
+        equipment for railway networks and vehicles. These two activities accounted for
+       [40-50]% and [40-50]% respectively of Mer Mec’s turnover for 2022.31
+
+(26)    With respect to Mer Mec’s diagnostic activities, the Commission notes that Mer
+      Mec has been awarded a number of significant projects for the supply of such
+        equipment in Italy, [as well as EU Member States and third countries].
+
+Table 3: Most significant tenders won by Mer Mec for the supply of diagnostic
+equipment over the past 10 years
+
+[Confidential list of most significant tenders won by Mer Mec in several EU Member
+States and third countries for the supply of diagnostic equipment over the past 10 years]
+
+Source: Mer Mec’s response dated 19 March 2024 to the monitoring trustee’s request for information,
+question 3.
+
+
+
+
+
+31       Trustee’s reasoned opinion of 25 March 2024, table 2, p 21.
+
+
+
+                                                      9
+
+[PÁGINA PDF 11]
+(27)   As to Mer Mec’s  rail signalling activities, these include both wayside and
+        onboard signalling projects:
+
+Table 4: Past mainline railway signalling projects awarded to Mer Mec in Italy over
+the past 10 years
+
+[Confidential list of most significant railway signalling projects awarded to Mer Mec in
+Italy over the past 10 years]
+
+Source: Mer Mec’s response dated 19 March 2024 to the monitoring trustee’s request for information,
+question 7.
+
+(28)    Second, Mer Mec has an  international presence since  it operates  in […]
+         countries and generates [30-40]% of its worldwide turnover outside of Italy.32
+
+(29)     Third, SNCF Réseau, SNCF Voyageurs and Deutsche Bahn have  given
+         sufficient comfort to the Commission that they would not withhold their consent
+         for the transfer of their contracts to Mer Mec.33 These assurances were given
+          after several exchanges between SNCF, Deutsche Bahn and Mer Mec to assess
+         the credibility of Mer Mec as a supplier of mainline railway signalling projects,
+        including in terms of strength, international presence, expertise and experience.
+
+(30)   By way of illustration, Deutsche Bahn explained that ‘Mermec seems to be an
+        experienced provider of railway infrastructure solutions who aims at expanding
+           its portfolio and who likely has the necessary know-how and financial back-
+         up’.34
+
+(31)    Fourth, Mer Mec appears  to have the required expertise  to  integrate the
+          activities  of  the  Divestment  Business  thanks  to  several  successful  past
+         acquisitions of companies active in railway infrastructure, including railway
+         signalling. In particular, the data submitted by Mer Mec shows that Mer Mec
+       managed to successfully integrate the activities of Sirti after  its acquisition
+         in 2021:
+Table 5: Financial performance indicators of Mer Mec’s railway signalling business
+after the acquisition of Sirti in 2021
+
+                                    Sirti                    Mer Mec STE  Financial                        Transportation       (corresponding business line post Mer Mec acquisition) Performance
+                           2020            2021            2022             2023  Indicators                           (EUR million)       (EUR million)        (EUR million)        (EUR million)
+ Turnover                […]           […]           […]            […]
+ EBITDA                 […]           […]           […]            […]
+ EBITDA margin           […]           […]           […]            […]
+ Net profit                […]           […]           […]            […]
+ Net profit margin          […]           […]           […]            […]
+Source: Mer Mec’s response dated 19 March 2024 to the monitoring trustee’s request for information,
+question 12.
+
+
+
+
+32       Trustee’s reasoned opinion of 25 March 2024, p. 19.
+33      See section 2.3.4 below.
+34      Minutes of a call with a customer of the Divestment Business on 22 February 2024.
+
+
+
+                                                     10
+
+[PÁGINA PDF 12]
+(32)    The assessment above  is  consistent with  the  Trustee’s reasoned opinion
+        according to which Mer Mec fulfils the criteria set out in paragraph 19(b) of the
+        Commitments.35
+
+(33)    Against this background, the Commission concludes that Mer Mec has the
+         strength, international presence, proven expertise and experience in the  rail
+         infrastructure industry to maintain and develop the Divestment Business as a
+         viable and active competitive force in competition with Hitachi Rail and other
+        competitors going forward.
+
+2.3.2.3. Incentive and objective to maintain and develop the Divestment Business
+
+(34)    In light of the information provided by Hitachi Rail and the Trustee, Mer Mec
+        appears  to have the incentive and objective  to maintain and develop the
+        Divestment Business.
+
+(35)     First, Mer Mec realised close to [a large majority]36 of its wayside signalling
+          activities in Italy and plans to expand its mainline railway signalling activities
+        abroad through this transaction.
+
+Figure 2: Ark’s and Mer Mec’s business plans
+
+[Confidential Mer Mec’s internal document presenting the Divestment Business’s and
+Mer Mec’s business plans]
+
+Source: Hitachi Rail’s response to purchaser approval RFI 1, Annex 3.
+
+(36)    Second, wayside signalling represents [60-70]% of the Divestment Business’
+        turnover for 2023,37 of which [90-100]% is achieved in France, Germany and
+         the UK.38 Mer Mec has never won any railway signalling project in these
+         countries, which will give  it a strong incentive to maintain and develop the
+          activities of the Divestment Business in these three Member States.
+
+(37)     Third,  the  Information  Memorandum  prepared  by  Hitachi  Rail   lists
+      [EU Member State] and [EU Member State] as logical markets on which the
+        Divestment Business could easily expand in the future.
+
+Figure 3: Extract from the information memorandum prepared by Hitachi Rail
+
+[Figure  containing  confidential information on  the Divestment Business’s  internal
+strategy not in the public domain]
+
+Source: Information Memorandum prepared by Hitachi Rail, p. 39.
+
+(38)    Given that Mer Mec has never participated to any mainline railway signalling
+         project in these countries it will have a strong incentive to enter and develop the
+          activities of the Divestment Business in these countries.
+
+
+35       Trustee’s reasoned opinion of 25 March 2024, p. 39.
+36       [Confidential information about de minimis signalling project carried out by the Mer Mec Group
+         in the EU but outside of Italy].
+37       Hitachi Rail’s response to purchaser approval RFI 2, question 5.
+38       Confidential Information Memorandum, p. 19.
+
+
+
+                                                     11
+
+[PÁGINA PDF 13]
+(39)    This is consistent with the Trustee’s reasoned opinion, which confirms that Mer
+       Mec’s strategy is to expand internationally in rail signalling and develop the
+        Divestment Business.39 In view of the foregoing, the Commission concludes that
+      Mer Mec will have the incentive and objective to maintain and develop the
+        Divestment Business.
+
+2.3.3.   Absence of prima facie competition problems or risk of delayed implementation
+
+(40)    According to paragraph 19(c) of the Commitments, the acquisition of the
+        Divestment Business by the purchaser must neither be likely to create prima
+         facie competition concerns nor give rise to a risk that the implementation of the
+       Commitments will be delayed.
+
+(41)    In light of the data submitted by Mer Mec and Hitachi Rail, the acquisition by
+      Mer Mec of the Divestment Business is unlikely to raise prima facie competition
+        concerns. This  is because such an acquisition would give  rise  to limited
+         horizontal overlaps at EEA level only,40 with regard to41 (i) ETCS ATP wayside
+         resignalling projects in the EEA, (ii) ETCS ATP wayside overlay projects in the
+     EEA and (iii) ETCS OBU projects in the EEA. However, none of these markets
+           is affected as the combined market shares of the new entity would remain below
+        [0-5]% under any plausible market definition.42
+
+(42)    The acquisition of the Divestment Business by Mer Mec is also unlikely to face
+         additional obstacles which could delay its implementation. In particular, the
+         acquisition does not trigger merger control filings and only triggers two foreign
+         direct investments (‘FDI’) filings in [EU Member State] and [third country].
+      Mer Mec has already formally notified the transaction, in [EU Member State],
+       on [confidential information on date of notification], and in [third country], on
+         [confidential information on date of notification]. According to Mer Mec, the
+         acquisition of the Divestment Business should be cleared by [EU Member State]
+       and [third country] authorities by early June 2024.43
+
+(43)    This is consistent with the reasoned opinion of the Trustee, who does not expect
+       any obstacle in obtaining the relevant clearances from the relevant [EU Member
+         State] and [third country] authorities within the standard review period.44
+
+(44)    In view of the foregoing, the Commission concludes that the acquisition of the
+        Divestment Business by Mer Mec does not create prima facie competition
+        concerns nor does  it give  rise  to a  risk  that  the implementation of  the
+       Commitments will be delayed.
+
+
+39       Trustee’s reasoned opinion of 25 March 2024, p. 47.
+40      The activities of Mer Mec and the Divestment Business do not overlap at national level in
+         the EEA.
+41      The activities of Mer Mec and the Divestment Business do not overlap for the supply of any other
+        mainline railway signalling project or product in the EEA.
+42       This conclusion  is based on  all plausible market definitions  left open in the Commission’s
+         decision of 30 October 2023 in case M.10507 – Hitachi Rail / Ground Transportation Systems
+        Business of Thales.
+        For ETCS OBU projects, these market share estimates take account of 100% of the sales of the
+        AngelStar joint venture between Mer Mec and Stadler (see Mer Mec’s response to purchaser
+        approval RFI 3, question 1).
+43       Hitachi Rail’s response to purchaser approval RFI 1, question 17.
+44       Trustee’s reasoned opinion of 25 March 2024, pp. 44-45.
+
+
+
+                                                     12
+
+[PÁGINA PDF 14]
+2.3.4.  Main customers’ consents to the transfer of their contracts to Mer Mec
+
+(45)    According to paragraph 20 of the Commitments, in order to approve the
+         purchaser, the Commission shall be satisfied that the consents from SNCF and
+        Deutsche Bahn in relation to the transfer of their relevant backlog contracts (as
+        defined in the schedule of the Commitments) to the purchaser would not be
+        withheld.
+
+(46)   On 25 March 2024, SNCF Réseau, SNCF Voyageurs and Deutsche Bahn signed
+         three consent letters by which they expressly confirmed that they do not intend
+         to withhold their consents for the transfer of their ongoing contracts with Hitachi
+         Rail, as a result of the acquisition of the Divestment Business by Mer Mec.
+
+(47)   As Deutsche Bahn explained: ‘Mermec does not seem new to the signalling
+         business, and they seem to have a good base to build up a future business.
+      Mermec would  still need to go through certification processes to have their
+        products  certified by  the Company  [Deutsche  Bahn]. However, Mermec
+        probably fulfils requirements in other countries that might be similar to those in
+         application in Germany’. 45
+
+(48)    In view of the foregoing, the Commission is satisfied that SNCF Réseau, SNCF
+       Voyageurs and Deutsche Bahn will not withhold their consent to the transfer of
+          their contracts to Mer Mec.
+
+2.3.5.   Conclusion on the purchaser criteria
+
+(49)   On the basis of the above considerations and the information provided by
+        Hitachi Rail, and taking into account the reasoned opinion submitted by the
+         Trustee, the Commission concludes that Mer Mec meets all purchaser criteria
+          set out in clauses 19 and 20 of the Commitments.
+
+2.4.     Sale in accordance with the Commitments
+
+(50)    The acquisition of the Divestment Business will be made through a newly
+         established special purpose vehicle (‘SPV’) which will acquire the Divestment
+        Business. Mer Mec will hold [a majority]% of the share capital of the SPV
+        alongside Bpifrance (‘BPI’) and BNP Paribas Développement (‘BNPP’) which
+         will each own [10-15]%. The board of directors of the SPV will be composed of
+      […] members. BPI and BNPP will each have […] representative while Mer Mec
+         will appoint the […] remaining members, including the CEO and Chairman. The
+        veto rights granted to BPI and BNPP will concern inter alia decisions regarding
+         the entry into material contracts of a certain value and any material change in
+         the nature of the activities or strategy of the Divestment Business.46 As such,
+         these veto rights are limited to what is necessary to protect the investment of
+       BPI and BNPP. Therefore, they will not confer joint control to BPI and/or BNPP
+        over the SPV.
+
+(51)    For the purpose of the transaction, Hitachi Rail and Mer Mec first entered on
+       22 December 2023 into (i) an exclusivity agreement, (ii) a put option agreement
+
+
+
+45      Minutes of a call with a customer of the Divestment Business on 22 February 2024.
+46       Hitachi Rail’s response to purchaser approval RFI 1, question 16.
+
+
+
+                                                     13
+
+[PÁGINA PDF 15]
+       and (iii) a draft of the share purchase agreement in agreed form. In addition,
+        Hitachi Rail and Mer Mec entered into several ancillary agreements.47
+
+(52)    The Trustee has conducted a thorough review of the Proposed Agreements and
+          their ancillary agreements. According to the Trustee, these agreements are
+        compliant with the Commitments.48 Two main adaptations to the Commitments
+       must however be highlighted.
+
+(53)     First, the Proposed Agreements stipulate that only [0-5] ‘Italy-based suitably
+         qualified engineers from Hitachi Rail’ will be seconded to the Divestment
+        Business, contrary to the minimum number of [5-10] initially foreseen in the
+        Commitments.49 The purpose of this secondment program was to achieve the
+        homologation of the signalling platforms being divested, to ensure the effective
+         transfer of the divested platforms and to further strengthen the competitiveness
+         of the Divestment Business.
+
+(54)    Based on the Trustee’s assessment, the Commission considers that the range of
+         technological skills required by the Divestment Business is potentially wide and
+      may therefore require input from a large number of specialists, though only
+        a limited number of hours from each. A secondment of a large number of
+        engineers would therefore not be the optimal solution to address the Divestment
+        Business’ needs. In this context, Mer Mec, the Hold-Separate Manager and
+        Hitachi Rail commonly agreed that it would be in the interest of Mer Mec and
+         the Divestment Business to ensure that the new entity has access to a limited
+       number of hours of a broad range of specialized people. As a  result, the
+        Divestment Business has carefully selected [0-5] individuals that not only have
+         the right skills but also know the Divestment Business, and can serve as contact
+         points to personnel retained by Hitachi Rail which may hold required expertise.
+        In any event, Mer Mec will remain able to request further seconded employees
+        according to its business needs (up to [5-10]).50
+
+(55)    This  is consistent with the view expressed by the Trustee in his reasoned
+         opinion,  according  to which  this  solution  will  not  adversely impact  the
+         effectiveness of the Commitments.51
+
+(56)    Second, Hitachi Rail committed to provide  all reasonable further additional
+         contractual assurances required to ensure the proper transfer to Mer Mec of the
+         divested technologies, with appropriately measurable milestones and KPIs.52
+        Yet,  the Proposed Agreements do  not  include  or  define any  additional
+         contractual assurance, measurable milestones or KPI in this respect.
+
+
+
+
+
+47      These agreements include: (i) a transitional services agreements (‘TSA’), (ii) a Reverse TSA
+        (‘RTSA’), (iii) a CBTC agreement, (iv) a sublease agreement, (v) a supply agreements, (vi) a
+         reverse supply agreement, (vii) a license agreement, (viii) a reverse license agreement and (ix) two
+        technology transfer agreements.
+48       Trustee’s reasoned opinion of 25 March 2024, p. 35.
+49      Schedule of the Commitments, clause 2(g).
+50      See clause 11.1 of the ARGOS Transfer of Technology and German WSP Transfer of Technology
+        Agreements.
+51       Trustee’s reasoned opinion of 25 March 2024, pp. 31-32.
+52      Schedule of the Commitments, clause 2(i)(1).
+
+
+
+                                                     14
+
+[PÁGINA PDF 16]
+(57)    Based on the Trustee’s assessment, Mer Mec and the Divestment Business do
+        not  consider  necessary  to  have  additional  contractual  assurances  with
+        measurable milestones or KPIs for the transfer of the divested technologies.53
+        This is because:
+          (a)  The fact that Mer Mec would have a direct recourse against Hitachi Rail
+            and [confidential information about commercial agreements],54 clarifies
+              the conditions under which Hitachi Rail can be held liable in case it fails
+               to perform its respective duties and obligations.
+         (b)   Hitachi Rail and Mer Mec negotiated and agreed [confidential information
+             about commercial agreements], as reflected in the SPA, which would be
+               triggered in case of delay in the homologation of the ARGOS IXL or
+         ARGOS RBC platforms.55
+
+(58)    This is in line with the view expressed by the Trustee in the reasoned opinion,
+      who  confirmed  that Mer Mec  considered  the  combined  effect  of  the
+        aforementioned [confidential information about commercial agreements] regime
+       and [confidential information about commercial agreements] sufficient to ensure
+         the proper transfer of the divested technologies.56
+
+(59)    The Hold-Separate Manager also confirmed  that  (i) the intensive  training
+         currently being carried out, (ii) the secondment of […] Hitachi Rail engineers,
+            (iii) the transitional service agreement entered into between Hitachi Rail and the
+        Divestment  Business and  (iv) [confidential  information  about  commercial
+        agreements] entered into between Hitachi Rail, SNCF Réseau, SNCF Voyageurs
+       and Deutsche Bahn provide sufficient support for the transfer of the divested
+        technology to the new entity.57
+
+(60)    In view of the foregoing and taking into account the Trustee’s reasoned opinion,
+         as well as the information submitted by Hitachi Rail, the Commission concludes
+         that the Proposed Agreements are consistent with the Commitments and that the
+        Divestment  Business   is  being  sold  in  a  manner  consistent  with  the
+       Commitments.
+
+3.     CONCLUSION
+
+(61)   On the basis of the above assessment, the Commission approves Mer Mec as
+        a suitable purchaser of the Divestment Business. The Commission  further
+        concludes that the Divestment Business is being sold in a manner consistent
+        with the Commitments.
+
+(62)    This decision only constitutes approval of the proposed purchaser identified
+        herein and of the Proposed Agreements. This decision does not constitute
+        a confirmation that Hitachi Rail has complied with its Commitments.
+
+
+
+
+
+53       Trustee’s reasoned opinion of 25 March 2024, pp. 33-34.
+54       Trustee’s reasoned opinion of 25 March 2024, pp. 33-34.
+55       Trustee’s reasoned opinion of 25 March 2024, pp. 33-34.
+56       Trustee’s reasoned opinion of 25 March 2024, pp. 33-34.
+57       Trustee’s reasoned opinion of 25 March 2024, p. 34.
+
+
+
+                                                     15
+
+[PÁGINA PDF 17]
+(63)    This decision is based on clauses 19 and 20 of the Commitments attached to the
+       Commission Decision of 30 October 2023.
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                     Olivier GUERSENT
+                                                Director-General
+
+
+
+
+
+                                                     16

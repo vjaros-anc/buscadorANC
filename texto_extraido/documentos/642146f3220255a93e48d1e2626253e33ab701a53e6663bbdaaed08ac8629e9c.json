@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "642146f3220255a93e48d1e2626253e33ab701a53e6663bbdaaed08ac8629e9c",
+  "extraido_utc": "2026-10-22T19:44:08+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20250124163537+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11564_CP_01",
+      "caso": "M.11564",
+      "universo": "principal",
+      "titulo": "Commission approves International Paper's acquisition of DS Smith subject to conditions*",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_322/IP_25_322_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_322",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11564/M.11564_CP_01_642146f32202.pdf",
+      "sha256": "642146f3220255a93e48d1e2626253e33ab701a53e6663bbdaaed08ac8629e9c",
+      "coincide_inventario": "",
+      "bytes": "42873",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_322/IP_25_322_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:04+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission approves International Paper's acquisition of DS Smith\nsubject to conditions*\n\nBrussels, 24 January 2025\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition of\nDS Smith Plc (‘DS Smith') by International Paper Company (‘International Paper'). The approval is\nconditional upon full compliance with the commitments offered by the parties.\n\nThe Commission's investigation\n\nInternational Paper and DS Smith are two vertically integrated paper and packaging companies. The\nCommission's investigation showed that the transaction, as initially notified, would have reduced\ncompetition in the markets for the manufacture and supply of (i) corrugated sheets in the North\nand West of Portugal; (ii) heavy-duty corrugated sheets in North-East Spain; and (iii)\ncorrugated cases in North-West France.\n\nNotably, the Commission found that the transaction would have resulted in high combined shares,\nas well as high concentration levels, in several local markets. The Commission also found that,\nafter the merger, there would not be enough alternative competitors to exert sufficient competitive\npressure on the merged entity. This would have led to higher prices for consumers in the affected\nmarkets.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, the parties offered to divest five of\nInternational Paper's plants in Europe: (i) three plants in Normandy, France (namely, one box\nplant in Saint-Amand-Villages, one box plant in Mortagne, and one sheet plant in Cabourg); (ii) one\nbox plant in Ovar, Portugal; and (iii) one box plant in Bilbao, Spain.\n\nThese commitments fully address the competition concerns identified by the Commission, by fully\nremoving the overlaps between the parties' activities in the corrugated cases markets in North-West\nFrance. The commitments also eliminate the overlap as regards the supply of corrugated sheets in the\nproblematic local markets in Portugal and Spain and, as such, any vertical foreclosure concerns\nregarding corrugated cases.\n\nThe Commission will subsequently approve the suitable purchaser or purchasers of the divested\nbusinesses.\n\nFollowing the positive feedback received during the market test, the Commission concluded that the\ntransaction, as modified by the commitments, would no longer raise competition concerns.\n\nThe decision is conditional upon full compliance with the commitments. Under the supervision of the\nCommission, an independent trustee will monitor their implementation.\n\nCompanies and products\n\nInternational Paper, headquartered in the US, is a provider of renewable fibre-based packaging and\npulp products, as well as a recycler of fibre-based waste. It serves customers from manufacturing\noperations in North America, South America, North Africa, and Europe.\n\nDS Smith, headquartered in the UK, is an international provider of sustainable fibre-based packaging,\nfocused mainly in the European and North American markets. It also has recycling and paper-making\noperations.\n\nFor More Information\n\nThe transaction was notified to the Commission on 25 November 2024.",
+      "caracteres": 3161,
+      "caracteres_utiles": 2576,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "The Commission has the duty to assess mergers and acquisitions involving companies with a turnover\nabove certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent concentrations\nthat would significantly impede effective competition in the European Economic Area or any\nsubstantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of 25\nworking days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working days,\nbringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.11564.\n\n*Updated on 24 January 2025 at 16:30 CET.\n\n                                                                                                               IP/25/322\n\nQuote(s):\n\n\n \"International Paper and DS Smith are two leading paper and packaging companies. As initially notified, this deal would have\n further increased the concentration levels in local markets for the supply of corrugated sheets and cases in Portugal, Spain, and\n France. It would have likely resulted in higher costs for businesses relying on boxes for the delivery of their products, and\n ultimately for consumers buying them. The divestments offered by the parties address all our concerns, ensuring that these\n markets remain competitive.\"\n Teresa Ribera, Executive Vice-President for Clean, Just and Competitive Transition - 24/01/2025\n\n\n Press contacts:\n\n      Lea ZUBER (+32 2 29 56298)\n      Sara SIMONINI (+32 2 29 83367)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1915,
+      "caracteres_utiles": 1439,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

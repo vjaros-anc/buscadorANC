@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "8dc601bb9ec0926027f04f849e722dacf11720b18b69ec0be1b2f581a106dfc1",
+  "extraido_utc": "2026-10-22T19:30:03+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20220719154756+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10575_CP_01",
+      "caso": "M.10575",
+      "universo": "principal",
+      "titulo": "Mergers: Commission approves Bouygues' acquisition of Equans, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_4603/IP_22_4603_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_4603",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10575/M.10575_CP_01_8dc601bb9ec0.pdf",
+      "sha256": "8dc601bb9ec0926027f04f849e722dacf11720b18b69ec0be1b2f581a106dfc1",
+      "coincide_inventario": "",
+      "bytes": "43143",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_4603/IP_22_4603_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission approves Bouygues' acquisition of Equans, subject\nto conditions\n\nBrussels, 19 July 2022\n\nThe European Commission has approved, under the EU Merger Regulation, Bouygues' acquisition of\nEquans. The approval is conditional on full compliance with commitments offered by Bouygues.\n\nExecutive Vice-President Margrethe Vestager, in charge of competition policy, said: \"Bouygues and\nEquans are leading providers of electrical engineering services for railway contact lines in Belgium.\nWith their transaction, they would have a combined leading position in the market. The\ncommitments offered by them ensure that a player will remain in the market continuing to exert\ncompetitive pressure in the relevant Belgian market while customers will preserve choice of suppliers\nand competitive prices.”\n\nBouygues and Equans are both global providers of multi-technical and engineering services for a\nwide range of sectors. Bouygues, via Colas Rail Belgium, and Equans are among very few providers\nof electrical engineering services for railway contact lines in Belgium and two of only three providers\nnationwide. Railway contact lines are transmission systems for supplying trains with electric power\nvia current collectors, in most cases, through overhead lines suspended above the locomotives.\n\nThe merger is also subject to review by the Competition and Markets Authority in the UK, which has\nalso issued a decision on its investigation on 19 July 2022.\n\nThe Commission's investigation\n\nGiven that the merger combines two of the leading providers of installation and maintenance\nservices for railway contact lines in Belgium, the Commission had concerns that the transaction,\nas originally notified, would have reduced competition in that market.\n\nThe Commission's investigation showed that this market is characterised by significant barriers to\nentry. In addition, the merged entity would have very large market shares and only face\ncompetition from very few participants in calls for tenders. The Commission was therefore concerned\nthat this would give rise to higher prices for electrical engineering services for railway contact lines\nin Belgium.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, Bouygues offered to divest Colas Rail Belgium\nin its entirety, including all assets, personnel and ongoing and future contracts of both its railway\ncontact lines and track installation businesses. As a result, Colas Rail Belgium will remain an\nindependent competitor to Bouygues and Equans in the relevant market in Belgium.\n\nThese commitments fully address the competition concerns identified by the Commission. Feedback\nreceived from several customers and competitors in the market test of the proposed commitments\nconfirmed the Commission's view that Colas Rail Belgium constitutes a viable and attractive business\nthat would enable suitable buyers to effectively compete with the merged entity.\n\nThe Commission therefore concluded that the proposed transaction, as modified by the\ncommitments, would no longer raise competition concerns in the European Economic Area. The\ndecision is conditional upon full compliance with the commitments.\n\nBackground\n\nBouygues, based in France, is the holding company of a diversified industrial group active in the\nconstruction, transport infrastructure construction and maintenance, real estate development, media\nand telecommunications sectors through the following main subsidiaries: Bouygues Construction\n(construction); Colas (transport infrastructure construction and maintenance); Bouygues Immobilier\n(real estate development); TF1 (media); and Bouygues Telecom (telecommunications). Bouygues is\nactive in the multi-technical services sector, and in electrical, mechanical and heat, ventilation and\nair-conditioning (‘HVAC') engineering services.",
+      "caracteres": 3883,
+      "caracteres_utiles": 3223,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Equans, based in France, is active in the multi-technical services sector and it is ultimately owned\nby the French utility company Engie. Its activities focus on: (i) electrical, mechanical and HVAC\nengineering, (ii) refrigeration solutions, (iii) facility management, and (iv) digitization and\nInformation and Communication Technology. Equans also provides railway electrification services\n(installation and maintenance of catenaries and overhead contact lines) through Powerlines, Ineo\nSCLE Ferroviaire and Fabricom.\n\nMerger control rules\n\nThe transaction was notified to the Commission on 30 May 2022.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working\ndays, bringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information on this case is available on the Commission's competition website, in the\npublic case register under the case number M.10575.\n\n                                                                                                              IP/22/4603\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1824,
+      "caracteres_utiles": 1373,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

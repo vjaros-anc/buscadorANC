@@ -1,0 +1,588 @@
+[PÁGINA PDF 1]
+       EUROPEAN COMMISSION
+          DG Competition
+
+
+
+
+           Case M.10560 - SIKA / MBCC GROUP
+
+
+
+
+
+                           Only the English text is available and authentic.
+
+
+          REGULATION (EC) No 139/2004
+              MERGER PROCEDURE
+
+
+
+Decision on the implementation of the commitments -
+                                Purchaser approval
+                                  Date: 20/04/2023
+
+[PÁGINA PDF 2]
+              EUROPEAN COMMISSION
+
+
+
+
+                                                     Brussels, 20.4.2023
+                                             C(2023) 2775 final
+
+                                     PUBLIC VERSION
+
+                                                               In the published version of this decision,
+                                                  some   information   has  been   omitted
+                                                             pursuant  to  Article  17(2)  of  Council
+                                                            Regulation (EC) No 139/2004 concerning
+                                                              non-disclosure of business secrets and other
+                                                                  confidential information. The omissions are
+                                                  shown  thus  […].  Where  possible  the
+                                                             information omitted has been replaced by
+                                                            ranges of figures or a general description.
+
+                                                Sika AG
+                                                   Zugerstrasse 50
+                                           6341 Baar
+                                                 Switzerland
+
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.10560 – SIKA / MBCC GROUP
+         Approval of Cinven as purchaser of the Divestment Business following your
+            letter of 22 March 2023 and the Trustee’s opinion of 24 March 2023
+
+
+1.     FACTS AND PROCEDURE
+
+(1)    By decision of 8 February 2023 (the ‘Decision’) based on Article 6(1)(b) in
+        connection with Article 6(2) of Council Regulation No 139/20041, the Commission
+        declared the operation by which Sika AG  (‘Sika’ or the ‘Notifying  Party’,
+        Switzerland)  acquires  within  the meaning  of  Article  3(1)(b)  of  the Merger
+        Regulation sole control over MBCC Group (‘MBCC’ or the ‘Target’, Germany),
+        compatible  with  the  internal  market,  subject  to  conditions and  obligations
+         (the ‘Commitments’). Sika and MBCC are together referred to as the ‘Parties’.
+
+(2)      In particular, the Commitments provide that Sika divest the worldwide chemical
+        admixture business (‘EBA’)2 of MBCC as well as the other construction materials
+
+
+1      OJ L 24, 29.1.2004, p. 1 (the “Merger Regulation”). With effect from 1 December 2009, the Treaty
+       on the Functioning of the European Union (“TFEU”) has introduced certain changes, such as the
+        replacement  of “Community” by “Union” and “common market” by  “internal market”. The
+        terminology of the TFEU will be used throughout this decision.
+2      The worldwide EBA business included MBCC's chemical admixture business in the EEA, Australia,
+        Canada, New Zealand, Switzerland, the UK and US, including global research and development
+
+
+
+Commission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111
+
+[PÁGINA PDF 3]
+        business (‘EBC’) of MBCC in Australia and New Zealand (the ‘Divestment
+         Business’).
+
+(3)     Within that scope, the Divestment Business would include the following:34
+          (a)   All  shares  in  all  legal  entities  (including  Construction  Research &
+            Technology GmbH);
+         (b)   All production sites;
+          (c)   All warehouses;
+         (d)   All offices;
+          (e)   All R&D facilities (including the Treviso (Italy) and Trostberg (Germany)
+        R&D sites) such as laboratories, laboratory devices, measuring and testing
+             equipment, computer hardware and software;
+           (f)    all (other) tangible assets, such as production and packaging machinery,
+              storage  tanks,  mixing  tanks,  tools  and  equipment,  health  and  safety
+             equipment, electronic hardware, and on-site vehicles;
+         (g)    all licences, permits and authorisations;
+         (h)    all contracts, agreements, leases, commitments and understandings, such as
+             customer  contracts  and  cooperation  agreements,  raw  material  supply
+               contracts, power contracts, building and office leases;
+           (i)    all customer, credit and other records related to the customer base;
+           (j)    all  (other)  intangible  assets,  such  as  all  patent  families,  trademarks,
+           knowhow, pipeline products, BoMs, and internet domains;
+         (k)    all personnel, including but not limited to global R&D and IP personnel, sales
+            and marketing, procurement, operations and global support functions;
+           (l)    all Key Personnel, as listed in Schedule B of the Commitments;
+       (m)  the arrangements for the supply with the following products or services by
+             Sika  or  Affiliated  Undertakings  at  cost  (i.e.  applying  current MBCC
+             intracompany pricing policies) for a transitional period of up to 12 or 24
+            months (as specified below) after the closing of the sale of the Divestment
+             Business :
+            –    Finance;
+            –   HR;
+            –     IT;
+            –     selected underground construction (“UGC”) products;
+
+
+
+           facilities. EBA business in other parts of the world was carved out and remained with the Retained
+         Business, see main decision M.10560 – Sika / MBCC.
+3      As described in Schedule A of the Commitments.
+4        All capitalised terms used in this decision shall have the meaning as set out in the Decision or in the
+       Commitments, as the case may be, unless otherwise specified.
+
+
+                                                    2
+
+[PÁGINA PDF 4]
+            –     selected EBC powder and powder intermediate products;
+            –    miscellaneous MVA5 and EBC products, including Ucrete, MSeal,
+                MFlow, MEmaco NAX, MTop.
+
+(4)    By letter of […], Sika proposed Seventh Cinven Fund […] (‘Cinven’, United
+       Kingdom), for approval by the Commission as purchaser of the Divestment
+        Business (the ‘Reasoned Proposal’) and submitted the […] Agreement formally
+        executed by Sika on […], which attached a Share Purchase Agreement in agreed
+       form and its exhibits, including ancillary agreements (the ‘Proposed Agreements’).
+
+(5)    On […] 2023, Evelyn Partners (the ‘Trustee’) submitted an assessment of Cinven’s
+          suitability as a purchaser and, in particular, concluded that Cinven  fulfils the
+        purchaser requirements specified in section D of the Commitments attached to the
+        Decision  (‘Reasoned  Opinion’).  In  its Reasoned  Opinion,  the  Trustee  also
+        concluded that, on the basis of the Proposed Agreements, the Divestment Business
+       would be sold in a manner consistent with the Commitments.
+
+2.     ASSESSMENT OF THE PROPOSAL
+
+2.1.    Legal framework
+
+(6)     Pursuant to paragraph 19 of the Commitments, the Commission has to verify that
+         the purchaser fulfils the purchaser criteria and that the Divestment Business is
+        being sold in a manner consistent with the Commitments.
+
+(7)     According to paragraph 17 of the Commitments, in its assessment of the proposed
+         purchaser, the Commission should ensure in particular that:
+
+
+          (a)  The Purchaser shall be independent of and unconnected to Sika and  its
+               Affiliated Undertakings (this being assessed having regard to the situation
+              following the divestiture);
+
+
+         (b)  The Purchaser  shall have the  financial resources, proven expertise and
+              incentive to maintain and develop the Divestment Business as a viable and
+               active  competitive  force  in  competition  with  the  Parties  and  other
+              competitors;
+
+
+          (c)  The Purchaser must not be active in downstream industries into which
+             chemical admixtures are supplied, and in particular, must not be active
+            downstream in the production and supply of cement and/or concrete;
+
+
+
+
+
+5    MVA products are polymers used in the production of chemical admixtures.
+
+
+                                                    3
+
+[PÁGINA PDF 5]
+         (d)  The Purchaser shall have a proven track record of viably operating businesses
+             over the long-term and a proven incentive to continue investing in the R&D
+                activities of the Divestment Business globally;
+
+
+          (e)  The acquisition of the Divestment Business by the Purchaser must neither be
+                likely to create, in light of the information available to the Commission,
+            prima  facie  competition  concerns  nor  give  rise  to  a  risk  that  the
+             implementation of the Commitments will be delayed. In  particular, the
+              Purchaser must reasonably be expected to obtain all necessary approvals
+            from the relevant regulatory authorities for the acquisition of the Divestment
+              Business.
+
+2.2.     Description of the proposed purchaser
+
+(8)     Cinven is a private equity firm engaged in the provision of investment management
+       and investment advisory services to a number of investment funds. [Confidential
+        information relating to Cinven’s funds and management structure.]
+
+(9)     The companies in the Cinven funds’ portfolio of investments are active in a wide
+        range  of  subsectors, mainly  business  services, consumer,  financial  services,
+         healthcare, industrials, and technology, media and telecommunications.
+
+2.3.    Purchaser criteria
+
+2.3.1.   Independence from the Parties
+
+(10)    According to Section D, paragraph 17(a) of the Commitments, the Purchaser must
+        be independent from and unconnected to Sika and its Affiliated Undertakings.
+
+(11)    According to the information provided by Sika6 and by the Trustee,7 there are no
+        cross-shareholdings between the Parties and Cinven. In particular, Cinven is not
+         controlled by Sika or MBCC Group and has no common directors with either Sika
+         or MBCC nor is it involved in any joint venture with Sika, MBCC or any of its
+         Affiliated Undertakings. Cinven also does not have any equity interest, common
+         significant shareholders, shared directors, or continuing financial assistance with
+         the Parties.
+
+(12)   On the basis of the information available to the Commission, Cinven can therefore
+        be  considered  as independent  from, and unconnected  to, Sika  in terms  of
+        ownerships and investments.
+
+(13)    Furthermore, other than the Transitional Services Agreements provided for in the
+       Commitments,  Sika  and MBCC’s  retained  business8  have two  commercial
+
+6        Notifying Party’s Reasoned Proposal, section 2.3.a.
+7       Monitoring Trustee’s Reasoned Opinion, section 4.
+8     MBCC’s retained business corresponds to the activities acquired by Sika in the context of the
+         transaction cleared by the Commission in decision M.10560 – Sika / MBCC conditionally upon the
+         sale of the Divestment Business.
+
+
+                                                    4
+
+[PÁGINA PDF 6]
+         relationships with Cinven. In 2022, Sika and MBCC’s retained business sourced
+         certain raw materials (in particular, cross-linker for Sika and biocides for the
+         retained business) from two portfolio companies jointly controlled by Cinven and
+         third parties.
+
+(14)    However, those pre-existing commercial relationships should not impede Cinven’s
+        independence from Sika as they  are not  material.  In  fact, Cinven  portfolio
+        companies' sales to Sika or MBCC’s retained business account for less than […]%
+         of the relevant Cinven portfolio companies’ sales in 2022.9 In addition, Sika’s
+        purchases from Cinven are negligible (approximately CHF […] in total in 2022) as
+        they account on average for only about […]% (and at most […]%) of Sika’s total
+       raw material expenditure for the final applications (such as adhesives, flooring,
+       membranes, packaging, and roofing) in which those products are used. As regards
+         the MBCC retained business, purchases from Cinven portfolio companies only
+       amounted to EUR […] worldwide in 2022.10
+
+(15)   On the basis of the information provided by Sika and taking into account the
+       Reasoned Opinion submitted by the Trustee, the Commission therefore concludes
+         that Cinven is, and will continue to be, independent from, and unconnected to, Sika
+       and its Affiliated Undertakings.
+
+2.3.2.   Financial resources, proven expertise and incentive to maintain and develop the
+        Divestment Business as a viable and active competitor
+
+(16)    Pursuant to Section D, paragraphs 17(b) of the Commitments, the Purchaser shall
+        have the financial resources, proven expertise and incentive to maintain and
+        develop the Divestment Business as a viable and active competitive force in
+        competition with the Parties and other competitors.
+
+(17)     First, as regards financial resources, the Trustee confirmed that, at the most recent
+         reporting date (June 2022), Cinven […] had EUR […] available for drawdown. In
+         addition, based on the financial information provided by Cinven to the Trustee,
+       Cinven is currently investing in […] with EUR […] of committed capital, of which
+         circa […]% remains available for the acquisition of the Divestment Business. The
+        Trustee therefore considers that between EUR […] and EUR […] is available to
+       Cinven for the Divestment Business.11
+
+(18)    Given that Cinven’s final offer reflects an acquisition price of EUR […] on a cash
+       and debt-free basis, Cinven will have sufficient financial capabilities to fund the
+         acquisition of the Divestment Business. This conclusion is also supported by the
+         Trustee.12
+
+
+
+
+
+9       Cinven’s response to request for information dated 5 April 2023.
+10       Sika’s response to request for information I-10, question 1.
+11      Reasoned Opinion, section 5.2.5 to 5.2.7.
+12      Reasoned Opinion, section 5.2.26.
+
+
+                                                    5
+
+[PÁGINA PDF 7]
+(19)   As regards future development plans, Cinven endeavours to maintain [confidential
+        information on Cinven’s investment strategy]..13
+
+(20)    Moreover, Cinven signed final documentation14 for the setting up of […] of EUR
+      […] to cover ongoing capital needs of the Divestment Business post-acquisition,
+       and in particular future ordinary liquidity needs of the Divestment Business,
+        without putting excess burden on  its cash flow margin or additional financial
+         constraints.  Cinven  has  [confidential  information  on  the  financing  of  the
+         transaction], which would be put in place post-closing for future liquidity needs.
+         [Confidential information on the financing of the transaction.]15
+
+(21)    Second, as regards proven expertise and incentive to maintain and develop the
+        Divestment Business, as also developed in sections 2.3.4 and 2.3.5 below, Cinven
+           is a leading European private equity firm which was founded in 1977 with a
+         strategic focus on industrial sectors,16  where  it has a proven track record of
+        maintaining and developing businesses with […]% of Cinven portfolio companies
+        having benefited from revenue growth under Cinven’s ownership.17
+
+(22)   On the basis of the information provided by Sika and taking into account the
+       Reasoned Opinion submitted by the Trustee, the Commission therefore considers
+         that Cinven has the financial resources to maintain and develop the Divestment
+        Business as a viable and active competitive force in competition with the Parties
+       and other competitors.
+
+2.3.3.  No activities downstream of the production of chemical admixtures
+
+(23)    According to Section D, paragraph 17(c) of the Commitments, the Purchaser of the
+        Divestment Business shall not be active in downstream industries into which
+        chemical admixtures are supplied and in particular not in the production and supply
+         of cement and/or concrete.
+
+(24)    Sika submits that neither Cinven nor any of its portfolio companies is active in
+       downstream industries into which chemical admixtures are supplied. In particular,
+       Cinven is not active in the production and supply of cement and/or concrete.18 This
+       was confirmed by the Trustee.19
+
+(25)   On the basis of the information provided by Sika and taking into account the
+       Reasoned Opinion submitted by the Trustee, the Commission therefore considers
+         that Cinven is not active in downstream industries into which chemical admixtures
+         are supplied.
+
+
+
+13       Cinven’s Business Plan of 13 January 2023, section 8.7.
+14      Response to request for information I-10, Annex 1.
+15      Reasoned Opinion, section 5.2.21 to 5.2.24.
+16      Cinven presentation to the EC, slide 2.
+17      Cinven presentation to the EC, slide 17.
+18      Reasoned Proposal, section 49.
+19      Reasoned Opinion, section 5.4.32.
+
+
+                                                    6
+
+[PÁGINA PDF 8]
+2.3.4.   Proven track record of viably operating businesses over the long-term
+
+(26)    Pursuant to Section D, paragraphs 17(d) of the Commitments, the Purchaser shall
+        have a proven track record of viably operating businesses over the long term.
+
+(27)     First, Cinven is a leading European private equity firm which was founded in 1977
+        with a strategic focus on industrial sectors,20 where it has a proven track record of
+         viably operating businesses over the long term.
+
+(28)    Cinven’s average holding period is […] years, with […]% of Cinven portfolio
+       companies having benefited from revenue growth under Cinven’s ownership.21 In
+         addition, no Cinven portfolio company acquired in the past 15 years has gone into
+         bankruptcy.22
+
+(29)    Second, Cinven also has a track record of viably operating businesses over the
+        long-term in chemical admixtures business, through its prior investment in Chryso,
+       one of the leading players in concrete admixtures globally.23 Cinven’s ownership of
+       Chryso lasted 4 years. Under Cinven’s ownership, Chryso grew significantly: its
+        revenues grew by […]% (from EUR […] of revenue to EUR […]), through a mix
+         of organic and inorganic growth.24 Cinven also increased investment in R&D with
+     R&D expenses growing by […]% with total cumulated spend of more than EUR
+      […] under its ownership.25 In addition, Cinven increased investments in industrial
+        manufacturing of Chryso (capex […]% in the 12 months ending June 2021) despite
+       Covid lockdowns during that period.26
+
+(30)     In  addition,  Cinven’s  funds  have made  multiple  successful  manufacturing
+        investments in the construction market in the EEA.27
+
+(31)    Based on the above, the Trustee considers that Cinven has a proven track record of
+         viably operating businesses over the long term.28
+
+(32)   On the basis of the information provided by Sika and taking into account the
+       Reasoned Opinion submitted by the Trustee, the Commission considers that Cinven
+        has a proven track record of viably operating businesses over the long-term.
+
+
+
+
+
+20      Cinven presentation to the EC, slide 2.
+21      Cinven presentation to the EC, slide 17.
+22      Cinven presentation to the EC, slide 25.
+23       Cinven’s Business Plan of 13 January 2023, section 4.1.
+24       Cinven’s Business Plan of 13 January 2023, section 4.3.
+25       Cinven’s Business Plan of 13 January 2023, section 4.3.
+26       Cinven’s Business Plan of 13 January 2023, section 4.3
+27       Investments include Ahlsell, a distributor of construction products in the Nordic region, Tractel, a
+          specialist provider of working-at-height products, SLV, a provider of residential and technical
+         lighting products and TK Elevator, leading international provider of elevator technology.
+28      Reasoned Opinion, section 5.5.4.
+
+
+                                                    7
+
+[PÁGINA PDF 9]
+2.3.5.   Proven incentive to continue investing in the R&D activities of the Divestment
+        Business globally
+
+(33)    Pursuant to Section D, paragraphs 17(d) of the Commitments, the Purchaser shall
+        have a proven incentive  to continue investing in the R&D  activities of the
+        Divestment Business globally.
+
+(34)     First, according to  its Business Plan, Cinven plans to increase investments in
+       R&D,29 [details on R&D investments].30 Cinven’s business plan assumes continued
+        investment in R&D and product innovation, and R&D expenses are assumed to rise
+       by EUR […] from EUR […] to EUR […] from 2022 to 2027.31 In the past, Cinven
+         invested heavily in R&D capabilities of its portfolio companies, for instance in
+       Amadeus  in which Cinven  invested more  than EUR […]  in  research and
+        development with annual investment in product development increasing by more
+        than […]%, or Cinven’s investment in Envirotrainer, with spendings in research
+       and developments […] under Cinven’s ownership.32
+
+(35)    Cinven is committed to grow the Divestment Business over the long term globally,
+         as well as improve margins and profitability. This is because Cinven believes that
+         the concrete admixtures market will grow over the long term, and ahead of the
+        growth  in  the  general  construction  market,  as  it  is  a key  enabler  of  the
+        decarbonisation of the construction sector.33
+
+(36)    Cinven would therefore have an incentive to invest into the Divestment Business
+        even in the event of a downturns in the construction market driven by normal
+       macroeconomic cycles. Cinven considers the Divestment Business, as the global
+        market leader in concrete admixtures, to be well placed to grow over the longer
+        term and supporting the business through cyclical downturns will enable it to be a
+         successful investment, as Cinven will achieve a higher price when selling  it.34
+       Cinven plans to ensure the Divestment Business has adequate liquidity and balance
+         sheet strength in case of a prolonged or severe market contraction.35 [Details on the
+        financing of the transaction.] Besides the initial extra costs, Cinven expects the
+        Divestment Business to generate sufficient cash to cover future CapEx.36
+
+(37)    Second, Cinven also aims to [confidential information on Cinven’s business
+          strategy].373839
+
+
+
+
+29       Cinven’s Business Plan of 13 January 2023, section 10.3.
+30       Cinven’s presentation to the EC, slide 17.
+31       Cinven’s Business Plan of 13 January 2023, section 10.3.
+32       Cinven’s presentation to the EC, slide 16.
+33       Cinven’s Business Plan of 13 January 2023, section 8.2.
+34       Cinven’s Business Plan of 13 January 2023, section 8.2.
+35       Cinven’s Business Plan of 13 January 2023, section 9.6.
+36       Cinven’s reply to RFI I-10.
+37      […].
+38      […].
+39      […].
+
+
+                                                    8
+
+[PÁGINA PDF 10]
+(38)    This  is confirmed by the Trustee who has not identified any issues affecting
+        Cinven’s incentive to develop the Divestment Business as a viable and competitive
+          force.40
+
+(39)   On the basis of the information provided by Sika and taking into account the
+       Reasoned Opinion submitted by the Trustee, the Commission therefore considers
+         that Cinven has a proven incentive to continue investing in the R&D activities of
+         the Divestment Business globally.
+
+2.3.6.   Absence of prima facie competition concerns
+
+(40)    According to Section D, paragraph 17I of the Commitments, the acquisition of the
+        Divestment Business by the Purchaser must neither be likely to create, in light of
+         the information available to the Commission, prima facie competition concerns nor
+        give rise to a risk that the implementation of the Commitments will be delayed.
+
+(41)    There are no horizontal overlaps or vertical relationships between the activities of
+       any of Cinven’s portfolio companies and the Divestment Business given that
+       Cinven does not hold any company that is active in the market for chemical
+        admixtures or any other market where the Divestment Business is active, nor
+        upstream or downstream of such markets.
+
+(42)    The Commission  therefore  considers  that  the  acquisition  of  the Divestment
+        Business by Cinven would not be likely to create prima facie competition concerns
+         (nor a fortiori give rise to a risk that the implementation of the Commission will be
+         delayed).41 In particular, it can be reasonably expected that Cinven will obtain all
+        necessary approvals from the relevant regulatory authorities for the acquisition of
+         the Divestment Business.
+
+(43)    This prima  facie  assessment  is  based on  the  information  available  to  the
+       Commission for the purpose of this decision and does not prejudge the competition
+        assessment  of  the  acquisition  of  the Divestment Business by Cinven by a
+        competent competition authority under applicable merger control rules. According
+         to the notifying party, the acquisition of the Divestment Business will have to be
+         notified in the US and Canada.42
+
+2.3.7.   Conclusion on the Purchaser Criteria
+
+(44)     In light of the above considerations and taking into account the Reasoned Opinion
+        submitted by the Trustee, the Commission concludes  that Cinven meets the
+        Purchaser Criteria set out in paragraph 17 of the Commitments.
+
+
+
+
+
+40      Reasoned Opinion, section 5.4.23.
+41      See also Commission’s clearance decision under the simplified procedure, case M.11099 – Cinven /
+     MBCC Divestment Business.
+42       Global Regulatory Timeline from 16.3.2023.
+
+
+                                                    9
+
+[PÁGINA PDF 11]
+2.4.     Sale in a manner consistent with the Commitments
+
+(45)    The Proposed Agreements consist of a […] and a Share Purchase Agreement in
+        agreed form and its exhibits, including ancillary agreements.
+
+(46)    The Trustee considers that the assets that are listed as included and excluded in the
+        scope of the business to be sold under the Proposed Agreements are in line with the
+         provisions of the Commitments.43 In particular, the Proposed Agreements cover the
+       worldwide EBA business of MBCC Group and the EBC business of MBCC Group
+         in Australia and New Zealand, including all relevant productions sites (including
+        warehouses and offices), all R&D facilities (including the Treviso and Trostberg
+     R&D sites), all other tangible and intangible assets envisaged in the Commitments,
+         as well as all personnel including key personnel.
+
+(47)    The  Trustee  therefore  considers  that  the  full  perimeter  as  set  out  in  the
+       Commitments will be divested pursuant to the Proposed Agreements.44
+
+(48)     In addition, the Trustee has not identified any issue in the Proposed Agreements
+       which would hinder the Purchaser’s ability to maintain and grow the Divestment
+        Business as a competitive force or would be inconsistent with the Commitments.45
+
+(49)    The Trustee also considers that the Transitional Service Agreements,46 to be
+        entered into by Sika and the Divestment Business in relation to IT, Finance, HR,
+          fleet management, leasing etc., do not raise concerns.47
+
+(50)     In  light of the above considerations and taking into account the information
+        provided by Sika and  the Reasoned Opinion submitted by the Trustee, the
+       Commission therefore considers that the Proposed Agreements are consistent with
+         the Commitments and that, accordingly, the Divestment Business is being sold to
+       Cinven in a manner consistent with the Commitments.
+
+3.     CONCLUSION
+
+(51)   On the basis of the above assessment, the Commission approves Cinven as a
+         suitable purchaser for the above-mentioned reasons.
+
+(52)   On the basis of the Proposed Agreements, the Commission further concludes that
+         the  Divestment  Business  is  being  sold  in  a  manner  consistent  with  the
+       Commitments.
+
+(53)    This decision only constitutes approval of the proposed purchaser identified herein
+       and of the Proposed Agreement. This decision does not constitute a confirmation
+         that Sika has complied with its Commitments.
+
+
+43      Reasoned Opinion, section 6.2.
+44      Reasoned Opinion, section 6.2.80.
+45      Reasoned Opinion, section 6.3.
+46     As prescribed in Section A of the Commitments.
+47      Reasoned Opinion, section 6.5.12.
+
+
+                                                    10
+
+[PÁGINA PDF 12]
+(54)    This  decision  is based on Section D  of  the Commitments  attached  to  the
+       Commission Decision of 8 February 2023.
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                     Olivier GUERSENT
+                                                Director-General
+
+
+
+
+
+                                                    11

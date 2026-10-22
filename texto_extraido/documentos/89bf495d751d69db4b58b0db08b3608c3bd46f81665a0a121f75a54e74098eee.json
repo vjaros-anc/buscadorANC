@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "89bf495d751d69db4b58b0db08b3608c3bd46f81665a0a121f75a54e74098eee",
+  "extraido_utc": "2026-10-22T19:28:40+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20221130180020+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10433_CP_APERTURA_01",
+      "caso": "M.10433",
+      "universo": "principal",
+      "titulo": "Comunicado de apertura de fase II — VIVENDI / LAGARDERE",
+      "tipo_documental": "CP_APERTURA",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_7243/IP_22_7243_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_7243",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10433/M.10433_CP_APERTURA_01_89bf495d751d.pdf",
+      "sha256": "89bf495d751d69db4b58b0db08b3608c3bd46f81665a0a121f75a54e74098eee",
+      "coincide_inventario": "",
+      "bytes": "39902",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_7243/IP_22_7243_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission opens in-depth investigation into the proposed\nacquisition of Lagardère by Vivendi\n\nBrussels, 30 November 2022\n\nThe European Commission has opened an in-depth investigation to assess, under the EU Merger\nRegulation, the proposed acquisition of Lagardère by Vivendi. The Commission is concerned that the\nproposed acquisition may reduce competition on a number of markets across the entire book value\nchain in French-speaking countries of the European Economic Area (EEA) and in a segment of\nmagazine publishing in France.\n\nVivendi and Lagardère are both French multi-media groups active, among others, in book and\nmagazine publishing. For what concerns these markets, Vivendi (via Editis) and Lagardère (via\nHachette) are leading players in the publishing of French-language books in French-speaking\ncountries of the European Union. Both companies are active throughout the book value chain, from\nthe acquisition of publishing rights to the marketing, distribution and sale of books to retailers.\n\nThe Commission's preliminary competition concerns\n\nThe Commission's preliminary market investigation indicates that the transaction may significantly\nreduce competition on the markets for (i) the purchasing of authors' rights for French-language\nbooks, (ii) the distribution and marketing of French-language books, and (iii) the sales of\nFrench-language books to retailers. The Commission also identified competition concerns in\nrelation to the sale of celebrity magazines.\n\nAt this stage, the Commission is concerned that:\n\n    By acquiring Lagardère, Vivendi would become the number one player in the French-\n    language book publishing sector, as well as the main integrated group active on that\n    market. The parties are the first and second largest companies active on most of the markets\n     of the book value chain. Other competitors, such as Madrigall or Média-Participations, have a\n    more limited market presence. The Commission is concerned that the transaction may reduce\n    French-language book diversity, accessibility and affordability. In particular, the Commission\n    considers that, because of the strengthened market position of the combined entity: (i)\n     publishers may be deprived of critical sources of revenues to sustain their activities stemming\n    from the publishing of best-selling authors, (ii) publishers may be restricted in their access to\n     crucial services for the marketing and distribution of their books, and (iii) bookshops and\n    readers may face reduced margins and increased prices, respectively.\n\n    The transaction would combine three celebrity magazines, namely Paris Match of Lagardère\n    and Gala and Voici of Vivendi, and may create a strong leader on the market. The Commission\n      is concerned that this could negatively impact quality, diversity and prices for readers of this\n    type of magazines.\n\nThe Commission will now carry out an in-depth investigation into the potential effects of the\ntransaction to determine whether its initial competition concerns are confirmed.\n\nThe transaction was notified to the Commission on 24 October 2022. Vivendi publicly communicated\nthat it considered the possibility of a divestment of Editis through a distribution and stock market\nlisting but it decided not to submit commitments to address the Commission's preliminary\nconcerns during the initial investigation. The Commission now has 90 working days, until 19 April\n2023, to take a decision. The opening of an in-depth inquiry does not prejudge the outcome of the\ninvestigation.\n\nCompanies\n\nVivendi is a French global media and entertainment group active in different markets through its\nsubsidiaries: in television and cinema (Canal+ Group), book publishing (Editis), magazines (Prisma\nMedia), video games (Gameloft), and advertising (Havas Group). Vivendi is controlled by the Bolloré\ngroup, a global company active in three main areas: transportation and logistics, media and\ncommunications, electricity storage.",
+      "caracteres": 4056,
+      "caracteres_utiles": 3274,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Lagardère is a French global media and entertainment group active different markets through its\nsubsidiaries: in book publishing (Hachette), travel retail (Lagardère Travel Retail), press and radio\n(Europe 1), and live entertainment (Lagardère Live Entertainment).\n\nMerger control and procedure\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nIn addition to the current transaction, there are five ongoing Phase II merger investigations:  (i) the\nproposed acquisition of OMV Slovenija by MOL; (ii) the proposed acquisition of VOO and Brutélé by\nOrange; (iii) the proposed acquisition of Alumetal by Hydro; (iv) the proposed acquisition of\nActivision Blizzard by Microsoft; and (v) the proposed acquisition of eTraveli by Booking.\n\nMore information will be available on the Commission's competition website, in the Commission's\npublic case register under the case number M.10433.\n\n                                                                                                              IP/22/7243\n\nQuotes:\n\n\n Competitive markets in book publishing foster the diversity of ideas. It enables each part of the value chain to thrive, from the\n creation of content to the distribution. The acquisition of Lagardère by Vivendi brings together two leading publishers of French-\n language books and of popular magazines. Therefore, the transaction needs to be carefully assessed as it could reduce choice\n and lead to higher prices, less accessibility and lower quality for readers of French-language books and of certain French\n magazines.\n Margrethe Vestager, Executive Vice-President in charge of competition policy - 30/11/2022\n\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Nina FERREIRA (+32 2 299 81 63)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2351,
+      "caracteres_utiles": 1798,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

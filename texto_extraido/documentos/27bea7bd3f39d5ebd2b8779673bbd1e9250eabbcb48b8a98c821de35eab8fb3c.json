@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "27bea7bd3f39d5ebd2b8779673bbd1e9250eabbcb48b8a98c821de35eab8fb3c",
+  "extraido_utc": "2026-10-22T19:46:17+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20260908175131+02'00'",
+    "modDate": "D:20260908175131+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.12278_OTRO_01",
+      "caso": "M.12278",
+      "universo": "principal",
+      "titulo": "Trustee details — PARAMOUNT SKYDANCE / WARNER BROS DISCOVERY",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202637/M_12278_4261.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202637/M_12278_4261.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_12278/M.12278_OTRO_01_27bea7bd3f39.pdf",
+      "sha256": "27bea7bd3f39d5ebd2b8779673bbd1e9250eabbcb48b8a98c821de35eab8fb3c",
+      "coincide_inventario": "",
+      "bytes": "86213",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202637/M_12278_4261.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                MONITORING TRUSTEE IN CASE\n\n      M.12278 – PARAMOUNT SKYDANCE / WARNER BROS DISCOVERY\n\n\n\nOn 28 August 2026 the Commission approved the appointment of:\n\n             Monitoring Trustee Partners B.V.\n            Koninginneweg 215\n            1075 CS Amsterdam\n            The Netherlands\n\n              Contact:\n\n              Jan Jaap Snel, Managing Director, janjaapsnel@mtp.international\n              Astrid Bellon, Director, astridbellon@mtp.international\n\n\nas Monitoring Trustee in the above-mentioned case.\n\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of Paramount Skydance\nCorporation and Warner Bros. Discovery,  Inc. with the Commitments attached  to the\nCommission’s Decision of 22 July 2026 and to report to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee through\nthe above contact details.\n\nThe  foregoing  is  without  prejudice  to  the Commission’s  jurisdiction  to  oversee  the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 1056,
+      "caracteres_utiles": 764,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

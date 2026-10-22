@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "5e91a3e1a535c8abd4ecddf6d7d4874806a30e5f771394aee78cc252b33e8613",
+  "extraido_utc": "2026-10-22T19:41:08+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20231201102204+01'00'",
+    "modDate": "D:20231201102204+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11071_NOT_PREVIA_02",
+      "caso": "M.11071",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — DEUTSCHE LUFTHANSA / MEF / ITA",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202349/M_11071_9738277_1369_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202349/M_11071_9738277_1369_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11071/M.11071_NOT_PREVIA_02_5e91a3e1a535.pdf",
+      "sha256": "5e91a3e1a535c8abd4ecddf6d7d4874806a30e5f771394aee78cc252b33e8613",
+      "coincide_inventario": "",
+      "bytes": "110252",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202349/M_11071_9738277_1369_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.11071 - DEUTSCHE LUFTHANSA / MEF/ ITA\n\n                       SECTION 1.2\n\n                           Description of the concentration\n\nThis notification concerns the following undertakings:\n\n         • Deutsche Lufthansa AG (DLH), Germany, a publicly traded company listed on the\n      German Stock Exchanges and the holding company of the Lufthansa Group.\n\n    DLH is one of the major airlines in Europe and its air transport business includes, inter\n         alia, Lufthansa Passenger Airlines, Swiss International Airlines Ltd, Brussels Airlines\n       S.A./N.V., Austrian Airlines AG, Air Dolomiti L.A.R.E. S.p.A., Eurowings GmbH,\n      Eurowings Discover GmbH, Edelweiss Air AG and its joint venture with Türk Hava\n       Yolları A. O. (Turkish Airlines), Güneş Ekspres Havacılık A.Ş (“SunExpress”).  It\n       operates hubs in Frankfurt, Munich, Brussels, Zurich and Vienna.\n\n         • Italia Trasporto Aereo S.p.A. (ITA), Italy, a fully state-owned company whose\n       shares are currently 100% owned by the Italian Ministry of Economy and Finance\n      (MEF).\n\n     ITA is mainly active in the field of passenger air transport services on domestic and\n        international routes. ITA started to operate in October 2021.\n\nDLH acquires within the meaning of Article 3(1), point (b) of the Merger Regulation control\nover ITA from MEF.\n\nThe concentration is accomplished by means of acquiring by DLH of a minority stake with\nadditional governance rights in ITA from MEF.\n\nFollowing the process of privatization of ITA, DLH has entered into an agreement to make a\ncapital injection into ITA which will issue new shares to be held by DLH. The initial shares to\nbe held by DLH will amount to 41% upon closing of the Proposed Transaction. The Parties\nhave agreed on mutual options to be exercised at a later stage to sell the remaining shares to\nDLH as well. The Italian State intends to exit the capital in the medium term.\n\nThe activities of DLH and ITA mainly overlap with respect to the provision of air passenger\ntransport services. Due to ITA’s limited presence outside Italy, the Proposed Transaction only\ngives rise to a small number of direct/direct short-haul overlaps on routes from Rome and\nMilan to cities in Germany, Belgium and Switzerland. There are also direct/indirect overlaps\non medium and long-haul routes from Italy and Switzerland to America, Africa and Asia.\n\n\n\n\n\nCommission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111",
+      "caracteres": 2965,
+      "caracteres_utiles": 2266,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "The Proposed Transaction would also give rise to a marginal horizontal overlap on the market\nfor air cargo transport where both Parties are active and technical potential vertical links in\nrelation to further services (among others MRO and ground handling) where only DLH has\nactivities.\n\nPursuant to the Proposed Transaction, and as stipulated by the DPCM, DLH and ITA intend\nto develop ITA’s current flight programme to ameliorate the customer offer particularly from\nand to Italy, and to enhance connectivity within the Common Market.\n\nThe business activities of the undertakings concerned are:\n\n    a)  for DLH: passengers air transport services, air cargo transport, MRO services, ground\n       handling, cargo handling and flight training services.\n    b)  for ITA: passengers air transport services, air cargo transport.\n\n\n\n\n\nCommission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111",
+      "caracteres": 934,
+      "caracteres_utiles": 750,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

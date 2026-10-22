@@ -1,0 +1,150 @@
+[PÁGINA PDF 1]
+                 European Commission - Press release
+
+
+
+
+
+Commission approves joint venture between Orange and MásMóvil in
+Spain, subject to conditions
+
+Brussels, 20 February 2024
+
+The European Commission has approved, under the EU Merger Regulation, the proposed creation of a
+joint venture by Orange and MásMóvil. The approval is conditional upon full compliance with a
+commitments package offered by Orange and MásMóvil.
+
+Today's decision follows an in-depth investigation of the proposed transaction. Orange is a full
+mobile network operator while MásMóvil is a hybrid mobile network operator. MásMóvil relies
+on its own mobile network, which does not cover the entire Spanish territory, and on a national
+roaming agreement with Orange to provide retail mobile services. There are two other mobile
+network operators active in Spain (Telefónica and Vodafone). There are also several mobile virtual
+network operators (‘MVNOs') which use the mobile network operators' infrastructure to offer retail
+mobile services to consumers. Digi is the largest MVNO in Spain.
+
+The Commission's investigation
+
+During its in-depth investigation, the Commission gathered extensive information and received
+feedback from market participants and other stakeholders.
+
+Following its investigation, the Commission had concerns that the transaction, as initially notified,
+would restrict competition in the retail markets for the supply of mobile and fixed internet services
+in Spain, whether offered standalone or in bundles.
+
+In particular, the Commission found that:
+
+    The transaction will create the largest operator by customer numbers in Spain, with a
+     significant market share increment across all relevant retail markets.
+
+    Orange and MásMóvil are direct competitors in the Spanish retail markets for the supply of
+    mobile and fixed internet services. MásMóvil has been making very competitive offers and has
+    been steadily growing over the years. Its main brands, Yoigo and MásMóvil, have attracted a
+     significant number of customers from Orange in Spain. The transaction would therefore
+    eliminate a close and important competitor.
+
+    The transaction may also have led to significant price increases for consumers in Spain,
+     well above 10%.
+
+    Any efficiencies that the transaction could have created, such as cost savings or incremental
+   5G or fibre roll-out, would not have offset the transaction's significant anticompetitive
+     effects.
+
+The remedies
+
+To address the Commission's competition concerns, Orange and MásMóvil committed to:
+
+   i. Divest spectrum held by MásMóvil to Digi across three frequency spectrum bands, two
+   medium frequency bands (1,800 MHz and 2,100 MHz) and one high frequency band (3.5 GHz).
+    The mobile spectrum to be divested will enable Digi to build its own mobile network and
+     to exert a strong competitive constraint on the joint venture; and
+
+  ii. Enter an optional national roaming agreement, which Digi can decide to use or not. The
+     possibility to use the JV's network will complement Digi's own network, which Digi will start
+     rolling out with the use of the divested spectrum. This option is critical given that, like
+    MásMóvil's network today, Digi's future mobile network would likely not cover the entirety of
+    Spain. As the national roaming agreement is optional, Digi will be free to remain with its current
+    wholesale provider (Telefónica) or choose another mobile network operator in Spain (i.e., the
+     joint venture or Vodafone).
+
+[PÁGINA PDF 2]
+Today's decision also approves Digi as a remedy taker following a careful review of Digi's business
+plan with the help of an independent adviser. Digi is a suitable purchaser for the divested spectrum
+as it is currently the largest and fastest-growing MVNO in Spain. Digi also has experience as a mobile
+network operator in other EU Member States such as Romania. Moreover, Digi has a relatively large,
+fixed broadband (fibre) network in Spain, which it continues to build. As a result, the commitments
+do not include any fixed broadband assets.
+
+After collecting the feedback from a wide variety of market participants during a market test of the
+proposed commitments, the Commission concluded that they fully address the identified competition
+concerns and will preserve a competitive telecom market in Spain, both in terms of price and quality,
+as well as in terms of 5G network deployment, to the benefit of consumers.
+
+The Commission therefore concluded that the proposed transaction, as modified by the
+commitments, would no longer raise competition concerns. The decision is conditional upon full
+compliance with the commitments. Under supervision of the Commission, an independent trustee
+will monitor their implementation.
+
+Companies and products
+
+Orange, headquartered in France, is a global telecommunications operator active in the Spanish
+electronic communications market through its subsidiary OSP. OSP provides mobile and fixed
+electronic communication services to residential customers, business customers and wholesale
+customers in Spain. It operates under three brands: Orange, Jazztel, and Simyo.
+
+MásMóvil is controlled by Lorca, a holding company headquartered in the UK. MásMóvil provides
+fixed and mobile electronic communication services mainly to residential customers in Spain. It
+operates under a wide variety of brands, such as Yoigo, MásMóvil, and Virgin, as well as digital-
+focused brand Pepephone, regional brands Euskaltel, R., Guuk, Embou and Telecable and
+international customers brands Llamaya, Lebara, Lycamobile. MásMóvil's own network is based on
+mid-band and high-band spectrum, which are mainly suited for providing mobile services in urban
+areas. It does not own any low-band spectrum, which is generally used for deploying mobile
+networks in rural areas.
+
+Merger control rules and procedure
+
+The transaction was notified to the European Commission on 13 February 2023 and the Commission
+opened an in-depth investigation on 3 April 2023. On 27 June 2023, the Commission issued a
+
+[PÁGINA PDF 3]
+Statement of Objections to Orange and MásMóvil setting out its preliminary competition concerns.
+
+The Commission has the duty to assess mergers and acquisitions involving companies with a
+turnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent
+concentrations that would significantly impede effective competition in the European Economic Area
+or any substantial part of it.
+
+The vast majority of notified mergers do not pose competition problems and are cleared after a
+routine review. From the moment a transaction is notified, the Commission generally has 25 working
+days to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).
+
+In addition to this transaction, there are currently two ongoing Phase II merger investigations: (i)
+the proposed acquisition of ITA Airways by Lufthansa; and (ii) the proposed acquisition of Air Europa
+by IAG.
+
+For more information
+
+More information will be available on the Commission's competition website, in the public case
+register under the case number M.10896.
+
+
+
+
+                                                                                                                IP/24/928
+
+Quotes:
+
+
+ "Orange and MásMóvil’s joint venture threatened competition in the retail supply of mobile and fixed internet services in Spain.
+ But the commitments offered by the parties will enable Digi, the largest and fastest-growing mobile virtual network operator in
+ Spain, to replicate the strong competitive pressure exerted by MásMóvil. They will ensure that consumers in Spain continue to
+ benefit from a competitive telecom market, in terms of prices, quality and 5G connectivity."
+ Margrethe Vestager, Executive Vice-President in charge of competition policy - 20/02/2024
+
+
+
+ Press contacts:
+
+      Lea ZUBER (+32 2 29 56298)
+      Sara SIMONINI (+32 2 298 33 67)
+
+ General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email

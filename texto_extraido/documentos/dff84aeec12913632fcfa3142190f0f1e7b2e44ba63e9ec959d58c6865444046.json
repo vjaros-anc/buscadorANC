@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "dff84aeec12913632fcfa3142190f0f1e7b2e44ba63e9ec959d58c6865444046",
+  "extraido_utc": "2026-10-22T19:44:08+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDF CoDe 5.2409.855.0 (c) 2002-2024 European Commission",
+    "producer": "PDF CoDe 5.2409.855.0 (c) 2002-2024 European Commission",
+    "creationDate": "D:20241126123322+01'00'",
+    "modDate": "D:20241126123332+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11564_NOT_PREVIA_01",
+      "caso": "M.11564",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — INTERNATIONAL PAPER / DS SMITH",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202448/M_11564_10392127_1303_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202448/M_11564_10392127_1303_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11564/M.11564_NOT_PREVIA_01_dff84aeec129.pdf",
+      "sha256": "dff84aeec12913632fcfa3142190f0f1e7b2e44ba63e9ec959d58c6865444046",
+      "coincide_inventario": "",
+      "bytes": "9634",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202448/M_11564_10392127_1303_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.11564 - INTERNATIONAL PAPER / DS SMITH\n\n                         SECTION 1.2\n\n                           Description of the concentration\n\n\nThe Proposed Transaction concerns the acquisition of sole control of DSS by IP within the\nmeaning of Art. 3(1)(b) of Council regulation (EC) No 139/2004 in an all-share transaction.\n\nInternational Paper, whose shares are traded on the New York Stock Exchange, is a provider\nof renewable fibre-based packaging and pulp products, and a recycler of fibrebased waste.\nHeadquartered in Memphis, Tennessee, the company serves customers from manufacturing\noperations in North America, Latin America, North Africa, and Europe.\n\nDSS is a public company incorporated in the United Kingdom, whose shares are traded on the\nmain market of the London Stock Exchange. It is an international provider of sustainable\nfibre-based packaging mainly in Europe and North America which is supported by recycling\nand paper-making operations.\n\n\n\n\n\nCommission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111",
+      "caracteres": 1535,
+      "caracteres_utiles": 1208,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

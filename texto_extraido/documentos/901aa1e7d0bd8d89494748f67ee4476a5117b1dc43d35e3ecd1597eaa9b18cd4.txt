@@ -1,0 +1,966 @@
+[PÁGINA PDF 1]
+Competition mergerbrief                                                        Issue 2/2022 – December
+
+
+
+
+
+More briefs:
+https://competition-
+policy.ec.europa.eu/publications/co
+mpetition-policy-briefs_en                               In this issue:
+
+                      Page 1: M.9564     LSEG/Refinitiv
+                                      On 13 January 2021, the Commission cleared the acquisition of
+                                                           Refinitiv by the London Stock Exchange Group (“LSEG”), subject
+                                                     to several remedies, following an in-depth investigation.
+
+                      Page 6: M.9076     Novelis/Aleris
+More publications:
+https://competition-                                     Following an in-depth investigation, the Commission conditionally
+policy.ec.europa.eu/publications_en                          cleared the acquisition of Aleris by Novelis. The Parties are two
+http://bookshop.europa.eu
+                                                    global manufacturers of flat-rolled aluminium products.
+Competition merger briefs are
+written by the staff of the        Page 10: M.9343    Hyundai/Daewoo
+Competition Directorate-General
+and provide background to policy                     On 13 January 2022, the European Commission prohibited the
+discussions. They represent the
+                                                      acquisition of DSME by HHIH, two South Korean shipbuilder.authors’ view on the matter and
+do not bind the Commission in any                       The Commission considered that the acquisition would create a
+way.                                          dominant position in the worldwide market for the construction
+© European Union, 2022                                 of large LNG carriers.
+Reproduction is authorised
+provided the source is          Page 12: M.10249   Derichebourg/Ecore
+acknowledged.
+                                                 Derichebourg/Ecore was a transaction involving leading players
+                                                            in the French metal recycling sector. This case is a good example
+KD-AL-22-002-EN-N                                    of how the Commission runs its competitive assessment on local
+doi 10.2763/79715                                 markets defined by catchment areas.ISBN 978-92-76-61526-2
+ISSN 2363-2534
+
+[PÁGINA PDF 2]
+Competition Merger Brief 2/2022 – Article 1
+Competition mergerbrief
+
+  LSEG/Refinitiv– Safeguarding Access to        majority of EGB trades are    In a nutshell                                                                     executed electronically on
+  Financial Data and Infrastructure                   trading   venues.    Their     The   USD   27     billion
+                                                                            trading takes place at two      acquisition    of    Refinitiv
+   Sophie  Ahlswede,  Charles  Cleret  de  Langavant,  Aude-Laure        trading  levels:  (i) dealer-      (previously    known    as
+   Delbac, Christos Malamataris, Irmak Uzumcu                            to-dealer   (“D2D”),     i.e.,     Thomson  Reuters  F&R), by
+                                                       among large traders such      the London Stock Exchange
+  Introduction                                                  as   major   investment      Group, a UK-based financial
+  On 13 January 2021, the Commission cleared the acquisition of       banks and   (ii)  dealer-to-     market        infrastructure
+   Refinitiv by the London Stock Exchange Group (“LSEG”), subject to         client (“D2C”), i.e., between      provider, was  conditionally
+   several  remedies,  following an  in-depth  investigation. LSEG      a  larger  trader  and  a      cleared,   subject   to   the
+   operates a global financial market infrastructure business. It also        financial   investor   that     divestment of Borsa Italiana
+   offers financial data products. Refinitiv is a provider of financial       trades    for     its   own     as well as a package of non-
+   data products, which also controls Tradeweb, a trading venue       investment purpose (e.g. a      structural remedies in over-
+   operator. By combining one of the largest global financial market       pension fund).                 the-counter     interest-rate
+   infrastructure providers and a leading financial data provider, the                                       derivatives  and   financial
+   transaction was transformational in key areas of the European     The    Commission’s      data.
+   financial market infrastructure.                             assessment
+
+   The  transaction  raised  horizontal  and  vertical  competition       Absent the remedies, this concentration would have combined
+   concerns resulting from the parties’ activities in the trading and      two major electronic trading venues for EGBs, namely LSEG's
+   clearing of financial instruments and in the provision of financial     MTS and Refinitiv's Tradeweb. It would have resulted in very large
+   data products.0F1 Absent the remedies, the transaction would have      combined market shares, up to 70-80%,  in the provision of
+   created a  financial  data and  infrastructure  giant  with  the        electronic trading  services  for EGBs.  In  addition, the market
+   potential to set higher prices and reduce choice for businesses        investigation indicated that the parties’ trading venues were in a
+  and end-users and would have likely led to less innovation for       leading position in the market, and were close competitors in this
+   financial data-based products and services. This would have had       space, in particular for D2C trading. Evidence collected in the
+  a detrimental impact on the financial markets where an efficient       market investigation also showed that the provision of trading
+   flow of data  is essential for informed trading decisions and        services for EGBs is characterised by strong network effects and
+   investment planning. In addition, the transaction would have also       high  barriers to  entry, which  further entrenched the  parties’
+   led to a loss of competition in trading services of key financial      market   position.  The  Commission  thus  found  that  the
+   assets for European states and companies’ liquidity (European       concentration significantly impeded effective competition (SIEC)
+   government   bonds   and   over-the-counter   interest   rate         in this market.
+   derivatives).
+                                                    The divestment of Borsa Italiana to Euronext
+  Horizontal overlap  in the trading of European
+  Government Bonds                                                    In order to remedy the Commission’s concerns in the provision of
+                                                                                electronic trading services for EGBs, LSEG proposed to divest its
+   European government bonds  (“EGBs”), as  referred  to  in the                                                           99.9% stake in Borsa Italiana, the parent company of MTS, to
+   decision, relate to bonds issued by the governments of the EEA                                                                           Euronext. LSEG and Euronext signed a definitive and binding sale
+   countries (including the UK at the time) and Switzerland. The                                                              and purchase agreement on 9 October 2020. The Commission
+                                                                       considered that this remedy fully removed the horizontal overlap
+    1 While the transaction led to more than 50 affected markets that the      between the parties’  activities. In addition, the results of the
+     Commission had to assess, this merger brief focuses on the affected       market test confirmed that Borsa Italiana was a viable stand-
+     markets that led to competitive concerns (i.e., for which the transaction
+                                                                      alone business that,  if operated by a suitable purchaser, could      significantly impeded effective competition).
+                                                              compete effectively on the market for EGB trading services (and
+
+
+   The content of this article does not necessarily reflect the
+     official position of the European Commission. Responsibility
+    for the information and views expressed lies entirely with
+    the authors.
+
+[PÁGINA PDF 3]
+                    M.9564 LSEG/Refinitiv  | Competition Merger Brief No 2/2022
+
+
+
+its D2C and D2D potential sub-segments) on a lasting basis. In a      The Commission found that LCH SwapClear was dominant in the
+decision  adopted  on  26  February  2021,  the  Commission      OTC IRD clearing market, as evidenced by very high market share,
+approved Euronext as a suitable purchaser for Borsa Italiana.          a unique liquidity pool and attractiveness across currencies. The
+                                                             Commission also found that such dominance was entrenched,
+The purchase price agreed between Euronext and LSEG for the       despite the upcoming  Brexit, as the downstream market was
+sale of Borsa Italiana exceeded EUR 4.3 billion making the sale of       characterised by strong network effects, high barriers to entry,
+Borsa Italiana to Euronext one of the largest divestitures required         difficulties to switch, as well as limited customers’ countervailing
+to remedy the Commission’s competition concerns  in  recent       buyer power. The investigation also showed that  it was legally
+years. From the Commission’s point of view, the sale of Borsa      and technically possible to engage in the foreclosure strategies.
+Italiana was a clear-cut remedy that fully removed the overlap        In addition, the Commission undertook a quantitative  vertical
+between  the  parties’  activities  in EGB  trading  services, and        arithmetic modelling confirming that LSEG would have incentives
+constituted a self-standing and viable entity (as opposed to, for        to foreclose its upstream rivals. The model was based on the
+instance, a scenario where only MTS would have been divested        parties’ financial data and identified the critical switching rate,
+instead of the whole of Borsa Italiana).                                                        i.e., the percentage of customers  switching away from LCH
+                                                               SwapClear needed  for  the  foreclosure  strategies  to  not be
+Vertical relationship between the trading and clearing        profitable. The model showed that the critical switching rate was
+of over-the-counter interest-rate derivatives              much higher than the actual switching rate resulting from the
+                                                              market  investigation,  thus  confirming  LSEG  incentives  to
+Interest-rate derivatives (“IRDs”) are contracts used to speculate        foreclose its trading rivals.
+on or hedge against a movement in interest rates, for instance by
+transforming a floating or variable interest-rate exposure to a       Brexit
+fixed interest rate exposure or vice versa, depending on the
+respective trader’s position/risk to be insured. The main types of       Generally speaking, Brexit constituted an important source of
+IRD  contracts  are   options,  futures/forwards  and  swaps.        uncertainty as LSEG is UK-based and Brexit had an impact on its
+Derivatives can be traded on a regulated market (“on-venue”) or       regulatory framework. This led the Commission to consider the
+outside a regulated venue  (i.e., over-the-counter, or “OTC”). EU        possible regulatory scenarios related to Brexit, to the extent that
+regulation mandates that the trading of some OTC IRDs  (e.g.,       they could be predicted at the time.
+futures), takes place on electronic venues.
+                                                                                In particular, Brexit had important implications for the regulatory
+Clearing occurs downstream of trading. It refers to the procedure      framework applicable to OTC IRDs. Before Brexit, LCH SwapClear,
+by which trades are “settled”  (i.e., when the seller has delivered      was located in the EEA and authorised to clear OTC IRDs in the
+the rights to the financial asset to the buyer and the buyer has      EEA under the European regulatory framework. After Brexit, LCH
+paid the agreed funds to the seller). The main function of clearing       SwapClear would be henceforth located in a non-EEA country and
+is to insure each party to a trade against the  risk of non-      would therefore no longer be an authorised  clearing house.
+fulfilment of the commitments agreed to by the other party. EU        Instead, it would become a recognised clearing house (by virtue
+regulation mandates the clearing of certain OTC IRD contracts.           of an equivalence decision dated 21 September 2020), allowed
+                                                                         to clear OTC IRDs in the EEA. However, as a recognised clearing
+The Commission’s assessment                                  house, LCH SwapClear would no longer be bound as of 1 January
+                                                      2021 by the same provisions, and in particular it would no longer
+In OTC IRDs, the parties were active at different supply chain      be bound by the open-access provisions of the European Market
+levels: (a) Refinitiv was active upstream in the provision of D2C        Infrastructure Regulation  (EMIR),1F2 which would otherwise have
+and D2D electronic trading services for OTC IRDs, via Tradeweb,       prevented the full foreclosure of Tradeweb’s rivals.
+and (b) LSEG was active downstream in the provision of clearing
+services for OTC IRDs, via the UK-based LCH SwapClear.             Access remedy  for  over-the-counter  interest-rate
+                                                             derivatives trading rivals
+The Commission was concerned that the transaction would lead
+to customer foreclosure. The investigation showed that absent                                                              To  address  the  Commission's  competition  concerns,  LSEG
+remedies the concentration would have provided LSEG with the                                                              committed  to  continue  offering  its  global OTC IRD  clearing
+ability and incentive to foreclose its upstream rivals active in the                                                                          services performed by LCH SwapClear on an open access basis
+provision of electronic trading services for OTC IRDs. LSEG could                                                           and  to  not  engage  in  commercial  strategies  that  would
+have foreclosed Tradeweb’s rivals by ceasing to clear, increasing                                                                         discriminate customers based on where they execute their OTC
+charges,  degrading  the  quality,  imposing  disadvantageous                                                                 IRD trade, for a period of 10 years. By this commitment, LSEG
+requirements for trades executed by its rivals, or by degrading
+LSEG's cooperation with Tradeweb's rivals for the introduction of          2                                                                                 Regulation (EU) No 648/2012 of the European Parliament and of the
+new products.                                                                                   Council of 4 July 2012 on OTC derivatives, central counterparties and
+                                                                                 trade repositories, OJ L 201, 27.7.2012, p. 1–59.
+
+
+
+                                                   2
+
+[PÁGINA PDF 4]
+                    M.9564 LSEG/Refinitiv  | Competition Merger Brief No 2/2022
+
+
+
+undertook especially to  (i) comply with the provisions of EMIR      The Commission identified a vertical relationship between the
+regarding the non-discriminatory and transparent clearing of OTC       markets for LSE venue data and UK equity indices (upstream)
+IRDs despite Brexit, and comply with these requirements vis-à-vis      and the markets for CRTDs and desktop services (downstream).
+trading venues and also middleware providers (as they also
+execute trades); and (ii) not discriminate between Tradeweb and       Following an in-depth investigation, the Commission found that
+third party trading venues and middleware providers in relation to       the combined entity would have the ability and the incentive to
+clearing  charges,  service  levels,  technical  specifications and        foreclose  rivals  in  the downstream  markets  by:   (i)  totally
+operational  standards,  as  well  as  the  introduction  of new        foreclosing access to LSE venue data or FTSE UK equity indices;
+products. The commitments are subject to continuous monitoring       and/or  (ii) degrading the quality of the data offered through
+by a monitoring trustee to ensure that LSEG adheres to  its         Refinitiv’s downstream rivals to end-customers. The Commission
+commitments.                                                          also  concluded  that  such  input  foreclosure  would  have a
+                                                                              significant  detrimental impact on  competition  in CRTDs and
+Vertical  relationship  between  venue  data  and       desktop solutions downstream.
+financial  indices  (upstream)  and  datafeeds  and
+                                                                            Ability. The Commission established that while the two inputs
+desktop solutions (downstream)                                                                   (LSE venue data and FTSE UK equity indices) represented a small
+                                                                        cost factor in the downstream products, these types of data were
+Introduction                                                      important inputs for CRTDs and desktop solutions because:  (i)
+                                                                    they were re-distributed by the majority of data vendors; (ii) they
+Each  trading  venue  generates  pricing  data  regarding  the                                                             were licensed by the majority of end-customers (at least for
+instruments that are traded on  it (“venue data”). Put simply,                                                                     CRTDs); and   (iii) end-customers valued the  availability  of a
+venue data are a result of the trading activity that takes place on                                                                    dataset through a downstream product even  if they did not
+a venue. LSEG controls several trading venues and out-licenses                                                                           actually license the specific dataset. This is consistent with the
+the generated trading data. The vast majority of LSEG’s revenues                                                                Commission’s Non-Horizontal Merger Guidelines, which state that
+from venue data comes from real-time information which  is                                                           an  input can be  considered  important even  if  it does  not
+typically used by on-trading floor customers to inform trading                                                                      represent a significant percentage of the cost of the downstream
+decisions.                                                                                        3                                                                                         product.2F  This   is  particularly  relevant  for  cases  of  total
+                                                                        foreclosure or non-price based foreclosure, as the Commission’s
+Venue data is typically distributed to end-customers (e.g., traders)
+                                                                          findings in this case suggest.
+through a data vendor product. Both the end-customer and the
+data vendor need to in-license the venue data to be able to                                                              To find that the combined entity would have the ability to engage
+access it. The data vendor products through which venue data is                                                                                   in input foreclosure of LSE venue data and FTSE UK equity
+typically accessed  are   (i)  consolidated  real-time data feeds                                                                                 indices, the Commission also considered the market power that
+(“CRTDs”) and (ii) desktop solutions.                                                         LSEG held in both LSE venue data (100% market share in 2019)
+                                                           and UK equity indices (80-90%).
+End-customers do not use data vendor products only to access
+venue data. Through these products, they consume many other                                                                    Incentive.  The  Commission  conducted  a  detailed  vertical
+types of financial data, including indices. An index  is a figure
+                                                                         arithmetic analysis showing that in case of total foreclosure, the
+calculated based on the value of underlying assets or prices and
+                                                                     gains  in  the downstream  markets  for CRTDs and  desktop
+often serves as a benchmark  for the performance of other
+                                                                          solutions would be higher than any losses  in the upstream
+assets. The Commission’s market investigation showed that there
+                                                                     markets. This also suggested that the combined entity would
+are  different  relevant  product markets  for  indices  covering
+                                                             have  the  incentive  to  engage  in  partial  non-price-based
+different asset classes (e.g., equity, fixed income, etc.). Within the
+                                                                            foreclosure, as the upstream losses would be, by definition, lower.
+same asset class (e.g., equities), there are indices with different
+                                                             The Commission also took into account the parties’ past conduct
+geographic coverage (e.g., US or UK equities). The Commission’s
+                                                       when  considering  potential  input  foreclosure  involving venue
+market investigation showed that equities indices with different
+                                                                          data. Notably, LSEG had faced  antitrust scrutiny  in  Italy for
+geographic coverage are not substitutable with each other.
+                                                                          foreclosing access to Borsa Italiana’s venue data to the detriment
+                                                                      of  its  data  vendor   rivals.3F 4 Moreover,  at  the  time  of  theLSEG  offers venue  data,  including from  the London  Stock
+                                                                         concentration,  Refinitiv distributed exclusively through  its ownExchange (“LSE”). LSEG is also active in financial indices through
+                                                                 data vendor, product data from its most popular trading venueFTSE Russell, including  in indices for UK  equities.  Refinitiv  is
+                                                                      (Tradeweb). As regards the incentive to foreclose downstreamactive  in data vendor products, including CRTDs and desktop
+solutions.
+                                                                                                  3  Guidelines on the assessment of non-horizontal mergers under the
+                                                                                   Council  Regulation  on  the  control  of  concentrations  between
+The Commission’s assessment                                          undertakings, OJ C265/6, para. 34.
+                                                                                                  4 A482 – E-Class/Borsa Italiana, Provvedimento n. 25859, Bolletino N. 4,
+                                                               22 February 2016.
+
+
+
+                                                   3
+
+[PÁGINA PDF 5]
+                    M.9564 LSEG/Refinitiv  | Competition Merger Brief No 2/2022
+
+
+
+rivals in CRTDs, the Commission also considered that Refinitiv             benefit, simply to replicate the data access conditions that
+was dominant in the relevant market.                                      they had before the transaction.
+
+Regarding LSE venue data, LSEG argued that it would not have      Access remedy for datafeed and desktop solutions
+the incentive to engage  in foreclosure because such conduct
+                                                                    rivalswould be in breach of Article 13 of the Markets in Financial
+Instruments Regulation (MiFIR).4F5  This provision requires trading                                                              To address the Commission's competition concerns, LSEG offered
+venues  to make venue  data  available  to  the  public on a
+                                                                         to provide access to LSE venue data and FTSE UK equity indices
+reasonable  commercial  basis  (“RCB”)  and  to  ensure  non-
+                                                                         to all existing and future downstream competitors, for a period of
+discriminatory access to the information. The existence of Article
+                                                       10 years. Furthermore, LSEG committed not to: (i) change pricing
+13 MiFIR did not change the Commission’s conclusions regarding
+                                                               terms to such an extent that  it would have amounted to a de
+the incentive of the combined entity to foreclose access to LSE
+                                                                        facto refusal to supply LSE venue data and FTSE UK equity
+venue data, given that:
+                                                                           indices nor (ii) to degrade technology, quality or service compared
+                                                                         to that provided intragroup. LSEG also committed to maintain ana)   Almost 50% of LSE’s real-time venue data do not fall within
+                                                                     information  barrier between the personnel handling  sensitive     the scope of Article 13 MiFIR;
+                                                                     information  of  LSEG's  customers and  Refinitiv's CRTD andb)  Had Article 13 MiFIR rendered any foreclosure clearly or
+                                                                  desktop solution businesses, to ensure that there is no exchange     highly probably unlawful, it may have affected the combined
+                                                                      of such information with Refinitiv that could negatively impact     entity’s incentives. But in 2019, ESMA recognized that there
+                                                                                third party data vendors.    was room for clarifications regarding Article 13 MiFIR and
+     that “RCB provisions have not delivered on their objectives”
+                                                                Vertical relationship between foreign exchange rate    and more guidance was needed;5F6
+c)   The UK’s withdrawal from the EEA introduced additional     benchmarks   (upstream)  and   financial   indices
+     legal uncertainty in the application of Article 13 MiFIR by     (downstream)
+    LSEG post-merger.
+                                                            Introduction
+Impact on effective competition. The Commission concluded
+that input foreclosure strategies involving LSE venue data and/or       Foreign exchange (“FX”) benchmark providers supply reference
+FTSE UK  equity  indices  would  have  significantly  impeded      exchange rates of various currency pairs to index providers for
+effective competition in CRTDs and desktop solutions.                   the design and calculation of indices. These FX benchmarks allow
+                                                                      index providers to compare the performance of assets traded in
+a)   Rivals. In CRTDs, an input foreclosure strategy would have                                                                            different currencies.
+    strengthened  Refinitiv’s dominance. Post-merger,  it would
+    have been even harder for  rivals to compete effectively      LSEG  is active  in index design and calculation through FTSE
+     against Refinitiv, because they would have been missing an        Russell. Refinitiv offers FX benchmarks under the brand WM/R. Its
+    important input for their CRTD. In desktop solutions, Refinitiv        flagship product  is the WM/R London 4PM Closing Spot Rate,
+    does  not  hold a dominant  position. However, an  input       which is used by most market participants, in particular asset
+     foreclosure  strategy would  still have impeded  effective      managers who are the key customers of indices.
+     competition because Refinitiv’s rivals would only have been
+     able to offer a desktop solution of lesser quality, which     The Commission’s assessment
+    would not allow (high-quality) access to LSE venue data or
+    FTSE UK equity indices.                                      The Commission considered that there is a vertical relationship
+b)   End-customers. In addition to the impact on downstream      between the market for FX benchmarks (upstream) and index
+     rivals of the combined entity, an input foreclosure strategy        licensing (downstream).
+    would have harmed end-customers directly. Many of them
+    would have been  forced  to add a  Refinitiv product  to      The Commission found that the combined entity would have had
+     continue  accessing LSE venue data  or FTSE UK  equity       the ability and the incentive to foreclose rivals in the downstream
+     indices. As a result, end-customers would have had to pay      market by totally foreclosing access to Refinitiv’s FX benchmarks.
+    more for CRTDs or desktop services without any additional      The Commission  also concluded  that such  input  foreclosure
+                                                              would have had a significant detrimental impact on competition
+                                                               downstream.
+5  Regulation (EU) No 600/2014 of the European Parliament and of the
+  Council of 15 May 2014 on markets in financial instruments, OJ L        Ability. Refinitiv’s benchmarks held a market share of 70-80% in
+  173/84, 12.6.2014 (“MiFIR”).
+6 ESMA, MiFID II/MIFIR Review Report No. 1, 5 December 2019, pp. 32       the EEA in 2019 and were recognised as the “market standard”.
+  and             34                  (available                  at      They were adopted not only by index providers but also by asset
+  https://www.esma.europa.eu/sites/default/files/library/mifid_ii_mifir_rev      managers and other investors who are the customers of index
+  iew_report_no_1_on_prices_for_market_data_and_the_equity_ct.pdf).
+                                                                        providers and want to use in their internal systems the same FX
+
+
+
+                                                   4
+
+[PÁGINA PDF 6]
+                    M.9564 LSEG/Refinitiv  | Competition Merger Brief No 2/2022
+
+
+
+benchmark as in the indices they are tracking. The Commission       of Brexit – a process that started when LSEG was an EEA-based
+acknowledged that the fees for an FX benchmark represent only      company and ended after the end of the transitional period, when
+a low proportion of the total costs of index providers. However,      LSEG was, for certain aspects, not subject to the same financial
+the Commission also found that  it would be very hard for an       regulatory rules as before Brexit.
+index provider to switch away from Refinitiv’s FX benchmarks
+because by doing  so, the index provider would  risk losing a      The commitments offered by LSEG are far-reaching. For EGB
+meaningful percentage of their customers.                               trading services, LSEG offered to divest the entirety of Borsa
+                                                                                   Italiana, going beyond the perimeter that raised concerns, and
+Incentive.  The  Commission  conducted  a  detailed  vertical       with  that  enabled an  efficient and  swift  clearance  of  the
+arithmetic analysis showing that in the case of total foreclosure,       Commission’s concerns in this respect. With respect to trading
+the gains in the downstream markets for index licensing would be      and clearing of OTC IRDs, the non-structural commitments are
+higher  than  any  losses  in  the  upstream  market  for  FX       robust and long-lasting (10 years) and also take account of
+benchmarks.                                                               different possible scenarios in terms of applicable law following
+                                                                                    Brexit.  Effectively, the commitments mean that LSEG  will be
+LSEG argued that  it would not have the incentive to engage in      bound by rules akin to EMIR and even beyond (e.g., ensuring fast
+foreclosure because such conduct would be in breach of Article        track dispute resolution in maximum 25 days).
+22  BMR.6F 7 This  provision  requires  that  licenses  of  critical
+benchmarks should be provided to all users on a fair, reasonable,     On financial data, in addition to committing to provide its data on
+transparent,  and   non-discriminatory   basis.  However,   the       equivalent terms to competitors, LSEG also established effective
+Commission noted that “users” within the meaning of Article 22       information barriers to avoid unfair disclosure of commercially
+BMR do not include index providers.                                       sensitive information to the detriment of its competitors.
+
+Impact on effective competition. The Commission concluded
+that input foreclosure strategies involving FX benchmarks would
+have  significantly  impeded  effective  competition  in  index
+licensing. These strategies would have allowed the combined
+entity to entrench its position as the top player (or one of the few
+top players) in the relevant markets for different indices and  it
+would have made   it  harder  for  smaller  rivals  to compete
+effectively. A total input foreclosure strategy would also have
+increased barriers to entry in the downstream markets.
+
+Access remedy for financial index rivals
+
+To address the Commission's competition concerns, LSEG offered
+to provide access to WM/R FX benchmarks to all existing and
+future customers active in index licensing, for a period of 10
+years. Furthermore, LSEG committed not to change pricing terms
+to such an extent that it would amount to a de facto refusal to
+supply WM/R FX benchmarks.
+
+Conclusion
+
+The LSEG/Refinitiv case illustrates the Commission’s scrutiny of
+complex mergers, including of  vertical theories of harm. The
+transaction took place in the context of ongoing debate on the
+value of, and access to, data, highlighting the essential nature of
+this input for many markets such as indices, data providers, and
+financial infrastructure providers such as trading and clearing
+service providers and other financial market intermediaries. The
+Commission’s investigation also took place against the backdrop
+
+7  Regulation (EU) 2016/1011 of 8 June 2016, on  indices used as
+  benchmarks  in  financial instruments and  financial contracts or to
+  measure  the  performance  of  investment  funds  and  amending
+  Directives  2008/48/EC  and  2014/17/EU  and  Regulation  (EU) No
+  596/2014, OJ L 171/1, 29.6.2016 (“BMR”).
+
+
+
+                                                   5
+
+[PÁGINA PDF 7]
+Competition Merger Brief 2/2022 – Article 2
+Competition mergerbrief
+
+  Novelis/Aleris: Firm Competition Rules in     The  relevant  product                                                                               In a nutshell
+  a Soft Metal Merger                          market
+                                                                                                       Following    an    in-depth
+                                                           The aluminium industry
+                                                                                                                 investigation,            the   Marianne  Auffret, Otmane  Sbitri, Andreas Sowa, Maria Zafra
+                                                                 Aluminium is one of the most     Commission     conditionally   Saura
+                                                                 abundant  elements   in  the      cleared  the  acquisition  of
+                                                                              Earth’s crust, and  it is one of      Aleris by Novelis. The Parties
+                                                                       the most commonly used non-     are       two        global
+  Introduction                                                        ferrous    metals.    Metallic     manufacturers of flat-rolled
+                                                                 aluminium can be produced     aluminium products.
+  On 1 October 2019, following an in-depth  investigation, the                                                                                either    from    aluminium-
+   Commission conditionally cleared the acquisition of  Aleris by                                                                          containing  minerals  (primary     The  case  focused  on  the
+   Novelis (referred to also as the ‘Transaction’ and the ‘Parties’).                                                                    aluminium)     or    through      Parties’ overlap in aluminium
+   Novelis, based in the U.S., is a global manufacturer of flat-rolled                                                                              recycling  metallic aluminium     automotive body  sheets  in
+   aluminium  products  and  a  recycler  of  aluminium.  Novelis                                                                       (secondary aluminium).            Europe,  and   in  particular
+   operates manufacturing  facilities across North America, South                                                                                                                    relied on an assessment of
+   America, Europe and  Asia. Novelis’ parent company, Hindalco      Once  primary  or  secondary
+                                                                                                    the merged  entity’s  pivotal
+   Industries Limited (India), is a supplier of aluminium and copper.       aluminium  is molten, certain
+                                                                                                              position     in    addressing   Prior to the Transaction, Aleris was a global manufacturer of flat-        alloying  elements  can  be
+                                                                                           market demand.   rolled aluminium products with production  facilities  in North      added to obtain the desired
+   America, Europe and Asia.                                                   characteristics.   The    liquid                                                                                           The case also features the
+                                                                 aluminium can thereafter be
+   The Parties’ activities mainly overlapped in the production and                                     Commission’s response to a                                                                          cast into various forms, such
+   supply of aluminium automotive body sheets (‘Aluminium ABS’).                                             failure     to    implement                                                                  as  ingots,  extrusion   billets,
+   Aluminium ABS are used  in the production of vehicles’ body                                     remedies within the timeline                                                                         wire rods, foundry alloys and
+   closures and body structures. Novelis and Aleris are among the                                       foreseen  in  the  clearance                                                                                 slabs, which are typically used
+   largest producers of Aluminium ABS in Europe.                                                                decision.                                                                 by  rolling  mills  to  produce
+   The  in-depth  investigation  in  this case sought  to  establish       aluminium flat rolled products
+   whether, as a consequence of the Transaction, the merged entity       (‘Aluminium FRPs’). Aluminium FRPs are produced in rolling mills
+   would have increased its market power and been able to impose      and can be used for various different end-uses, such as  foil,
+   higher prices for Aluminium ABS, while reducing its incentive to       beverage/food   cans,   aerospace   applications,   construction
+  add  capacity  to  the  market. Competitors had  limited spare        applications and automotive applications. Within the automotive
+   capacity and they would have been  unlikely  to  offset  price        applications, Aluminium ABS are used for vehicles’ body closures
+   increases resulting from the Transaction. Such higher prices could      and structures.
+   have harmed direct customers in the EEA, which include European                                                                            Certain alloying elements can be added to aluminium to achieve
+   companies  active  in  the  automotive  sector,  such  as  car                                                                       the desired characteristics of the final product. Depending on the
+   manufacturers and other companies active  in the automotive                                                             main   alloying   element(s),   certain   alloy   series  can  be
+   supply chain. In particular, these European industrial customers                                                                               distinguished. Aluminium ABS are almost exclusively made of the
+   need to be able to source Aluminium ABS at competitive prices to                                                                 aluminium alloys series called ‘5xxx’ and ‘6xxx’.
+  compete with imported products  in the EEA, or export  their
+   products outside Europe and compete globally. In addition, higher      Aluminium vs. steel
+   prices  for Aluminium ABS could  potentially lead  to  vehicles                                                                The amount of aluminium in an average car has increased from
+   becoming more expensive. Moreover, the use of light materials,                                                         50 kg in 1990 to about 150 kg today. The increased use of
+   such as aluminium, allows car manufacturers to produce vehicles                                                                 aluminium in cars has primarily been driven by more demanding
+   that are more fuel-efficient and reduce emissions.                                                                    carbon dioxide (CO2) emission standards worldwide. To reduce
+
+
+   The content of this article does not necessarily reflect the
+     official position of the European Commission. Responsibility
+    for the information and views expressed lies entirely with
+    the authors.
+
+[PÁGINA PDF 8]
+                     M.9076 Novelis/Aleris  | Competition Merger Brief No 2/2022
+
+
+
+the weight of cars and thereby lowering fuel consumption, lighter       concerned about cannibalising each other’s sales through price
+materials such as aluminium are used – a process referred to as        competition, but  this changes once the combined capacity  is
+‘light weighting’. Despite  this, steel remains by far the most        controlled by a single entity; (ii) after the transaction competitors
+prevalent material  in passenger  cars.  Overall, aluminium has        control less capacity than the rival capacity faced by the merged
+certain technical advantages over steel, such as its strength-to-        entity  pre-transaction.  Second, merging  producers may  also
+weight  ratio. Nevertheless, using steel has other advantages,      compete  less  aggressively  on  capacity  expansions  post-
+including lower cost.                                                       transaction, as they will take account of the negative effect that
+                                                      new capacity in the market has on the sales of the respective
+Definition of the relevant markets
+                                                               merging partner. Otherwise stated, pre-transaction each merging
+The Commission  found  that  the  production and  supply  of       party only took  into account the negative impact  that new
+Aluminium ABS constitutes a distinct product market, separate       capacity would have on its own sales (via the decrease in overall
+from the production and supply of other types of Aluminium      market price due to the additional capacity) but did not take into
+FRPs.                                                             account the negative effect on the sales of the other merging
+                                                                              party. This is internalised post–transaction, which results in a loss
+Notably, the Commission found that Aluminium ABS and  flat
+                                                                      of competition on the market.
+steel products used in automotive bodies are not in the same
+relevant product market.  Overall,  steel and aluminium have      Whether these theories of harm apply in a concrete case depends
+different physical and commercial characteristics. There  is no      on two important factors:  (i) the level of the parties’ market
+supply-side substitutability, as different equipment is required to        position (as characterised by their market shares and capacity
+manufacture these distinct products, and neither the Parties nor       shares) and  (ii) the extent of spare capacities in the market (in
+their main competitors supply both Aluminium ABS and flat steel        particular  those  held by  rivals).  All  else  being  equal,  anti-
+products. Demand-side substitutability is limited at most – there       competitive effects are more likely if merging parties control a
+is no substitution during a vehicle’s production phase (typically 5-        large part of the market after the transaction, and if the extent of
+7 years) and the potential to substitute steel and aluminium       spare capacities in the market (in particular those held by rivals)
+during the design phase  is limited  (e.g., due to the need to          is moderate relative to projected demand.
+achieve certain light weighting objectives).
+                                           Outcome of the assessmentOn the other hand; the Commission considered that all types of
+Aluminium ABS (5xxx series and 6xxx series, and within the latter,      The Commission found that the Transaction would lead to very
+6xxx-skin, used for the car exterior, and 6xxx-structure, used for        large combined sales and capacity shares of the merged entity in
+the interior) belong to the same relevant product.                       the EEA market for Aluminium ABS. In particular, the merged
+                                                                              entity would have sales and capacity shares in excess of 50%;
+Both Parties were active in 5xxx and 6xxx alloys, although Aleris                                                                      with  the  merger  bringing  about  important  market  share
+focused on 6xxx alloys. The Parties also both supplied automotive                                                                   increments  in a  highly  concentrated  market.  These  shares
+original  equipment  manufacturers  (‘OEMs’)  as  well  as  tier                                                                 suggested the creation or strengthening of a dominant position in
+components  suppliers  and  distributors,  and  overlap  at  a                                                                     the market.
+significant number of customers.
+With respect to the geographic scope, the Commission reached        Further, the Commission concluded that the merged entity would
+the conclusion that competition for the production and supply of       not only control a large share of the market (in terms of sales
+Aluminium ABS  is homogeneous EEA-wide. This was because      and  capacity)  after  the  Transaction  but  would  also  face
+there  are  significant  obstacles  for EEA-based customers  to       competitors with limited capacity in light of the level of market
+source from outside the EEA and constraints for intercontinental      demand. The inability of competitors’ overall capacity to cover
+supply lead to a demand-side preference for EEA-based suppliers.       the whole market demand meant that Novelis held maket power
+Trade flows between different world regions exist but are limited       already before the Transaction. Moreover, by acquiring  Aleris’
+and producers sell the majority of their products in the region in        capacity, Novelis would face even less rival capacity after the
+which their production sites are located. The aging of some alloys        Transaction.  Post-Transaction,  Novelis would therefore be an
+(specifically  6xxx-skin  series)  appears  to  be  a  significant      even more pivotal player in addressing demand on the market.
+constraint for long distance shipping and a hindrance to imports
+                                                           By reducing the competitive constraint on Novelis, the mergerinto the EEA. As a result, the Commission found that the relevant
+                                                              would have allowed the merged entity to increase prices after themarket was EEA-wide in scope.
+                                                                      Transaction without facing competitors able to readily expand
+Theory of harm                                                      supply. The limited available spare capacity in the market, and
+                                                                     the limited competitor spare capacity in particular, resulted in
+In  a  basic  industry  characterised  by  capacity  constraints                                                                       affording further pricing power to Novelis; the market leader. It
+unilateral effects may arise through at least two channels. First,                                                                        also made it unlikely that competitors would have had the ability
+given the available capacities in the market, a merged entity may                                                                         to offset the merged entity’s potential price increase by readily
+compete less aggressively on price for two reasons: (i) before the                                                                         increasing  supply through spare  capacity.  Moreover,  Novelis’
+transaction  the two  independent  merging  parties were  not
+
+
+                                                   7
+
+[PÁGINA PDF 9]
+                     M.9076 Novelis/Aleris  | Competition Merger Brief No 2/2022
+
+
+
+acquisition of Aleris reduced its incentives to increase capacity,      The Commission  granted  several  extensions  of  the  closing
+and enabled it to maintain its market leadership without facing       deadline following requests from Novelis. Nevertheless, Novelis
+detrimental decreasing pressure on prices.                                 failed to close the sale of the Duffel plant within the extended
+                                                                           closing  deadline.  As  the 2019  clearance  decision and  the
+Further, neither imports nor potential new entrants could be      commitments attached to it became inapplicable as soon as the
+considered as sufficient competitive constraints. In this context,       deadline expired, on 1 September 2020, the Commission ordered
+the merged  entity would have had  the  incentive and  the        provisional interim measures pursuant to  Article 8(5) of the
+capability  to  reduce  the  output  below  the  combined  pre-       Merger Regulation. These were meant to ensure that damage to
+Transaction levels and thereby raise market prices.                     competition could be avoided pending the consideration of final
+                                                                 measures.  The  interim  measures  were  therefore aimed  at
+The Commission also found that buyer power was likely already                                                                     ensuring the preservation of the Duffel  plant's  viability and
+limited pre-Transaction, and that any residual buyer power would                                                                    competitiveness  and  reproduced  mutatis  mutandis  Novelis’
+have been further reduced as a consequence of the Transaction.                                                                          obligations under the Commitments. They included  inter  alia
+Specifically, EEA Aluminium ABS customers would not have been                                                                          obligations ensuring that the divestment business would remain
+able to switch significant volumes away from the merged entity                                                                  independent from Novelis up until its sale as well as a prohibition
+(in particular due to limited spare capacity of competitors) and                                                             from re-acquiring the divestment business within 10 years after
+would thus not have been able to avoid price increases by the                                                                                             its transfer.
+merged entity. The Transaction was therefore likely to result in
+higher prices for Aluminium ABS.                                       Novelis appealed the Commission’s decision not to further extend
+                                                                     the deadline to complete the sale of the Duffel plant, but later
+In light of all these elements, the Commission considered that the       withdrew its appeal.0F1
+Transaction would significantly impede effective competition in
+                                                                   Definitive measures and US processrelation  to  the  market  for  the  production  and  supply  of
+Aluminium ABS in the EEA because the Transaction would create       Before the Commission adopted final measures, and within the
+or strengthen a dominant market position in the relevant market.      framework of the interim measures, Novelis closed the sale of
+In any event, the Transaction would also give rise to horizontal       the Duffel plant to Liberty House (‘Liberty’). The Commission still
+non-coordinated effects in relation to the production and supply       decided to adopt definitive measures under article 8(4) to restore
+of Aluminium ABS in the EEA resulting from the elimination of an        competition. The Commission can adopt  these measures  in
+important competitive constraint.                                           particular  situations,  including  in  cases  where  companies
+                                                              implement a transaction absent a clearance, or fail to implement
+Commitments and their implementation                a condition to clearance. While those can typically result in a
+                                                                            dissolution of the main transaction, given the circumstances ofTo address the Commission's competition concerns, the Parties
+                                                                     the case the Commission took a more targeted approach. Theseoffered to divest Aleris' entire aluminium automotive body sheet
+                                                                 measures,  which  were  needed  as  the  decision  and  thebusiness  in  Europe,  including  its  production  plant  in  Duffel,
+                                                           commitments became inapplicable, included, among others, aBelgium.  In order to preserve  its  viability, the Duffel  plant's
+                                                                        non-reacquisition measure preventing Novelis from re-acquiringdivestiture also included other products manufactured at that
+                                                                                            all or part of the Duffel  plant, as well as a non-solicitationplant.
+                                                           measure preventing Novelis from  soliciting the Duffel plant's
+The proposed divestiture removed the entire overlap created by       customers  or  standing  orders.  They  also  reproduced  other
+the Transaction in aluminium automotive body sheets in Europe.       safeguards  and  obligations   typically  required  under  the
+Furthermore,  the  Duffel  plant  consisted  of  an  integrated      commitments, which in this case had become inapplicable. The
+production site that produced almost the entirety of the upstream        decision also provided for transitional agreements, measures on
+inputs required for its downstream operations.                         the trustee's mandate, as well as on investment funding for the
+                                                                         benefit  of  the  plant.  Finally,  daily  penalty payments were
+The Commission therefore concluded that the Transaction, as       foreseen in the event Novelis failed to comply with the measures.
+modified by the commitments, would no longer raise competition
+                                                                         This approach was justified not only in view of the fact that the
+concerns.
+                                                                      divested business identified in the initial decision was eventually
+                                                                      divested shortly after the interim measures, but also of theFailure to close the divestiture & interim measures
+                                                                   circumstance that other parts of the initial business had been
+After the Commission approved a purchaser for the divestment       divested as part of a remedy process in the United States.
+business, Novelis seemed unable to proceed to a sale within the
+deadlines foreseen for closing after a purchaser approval. These
+deadlines are generally short because, when the parties submit a          1 See  order  of  the  General  Court  to  discontinue  the  proceedings:
+purchaser for approval, they typically also have to ensure a swift          https://curia.europa.eu/juris/document/document.jsf?text=&docid=24
+closing and alleviate implementation risks.                                2101&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid
+                                                                         =1179738.
+
+
+
+                                                   8
+
+[PÁGINA PDF 10]
+                     M.9076 Novelis/Aleris  | Competition Merger Brief No 2/2022
+
+
+
+In the US, Novelis also failed to sell the divestment business
+within the deadline set by the US Department of  Justice. A
+divestiture trustee was appointed to complete the sale of the
+divestment business.1F2
+
+In the EU, the Commission considered that the adoption of final
+measures were  necessary  to ensure  that  the  sale remains
+effective, and that the plant's viability and competitiveness are
+protected. Therefore, pursuant to Article 8(4)(b) of the Merger
+Regulation and in order to restore as far as possible the situation
+that  existed before the implementation of the  Novelis/Aleris
+Transaction, the Commission ordered the measures described
+above, with which Novelis had to comply.
+
+Conclusion
+
+The Commission’s  decision ensured  that the  Transaction, as
+modified  by  the  commitments,  would  not  result  in  the
+combination  of  two  important  producers  of  aluminium
+automotive body sheets thereby creating an even more pivotal
+player in addressing demand on the EEA market.
+
+This  case  also  constitutes  the  first  instance  in  which  the
+Commission adopted interim and final measures under Articles
+8(5) and 8(4) of the 2004 Merger Regulation. It thus provides a
+clear and instructive example of the Commission’s commitment
+to maintain the integrity and effectiveness of its processes: when
+clearing mergers conditionally upon the sale of a business, the
+Commission will use the full extent of its toolbox to ensure a
+timely divestiture and the preservation of the structure of the
+market.
+
+
+
+
+
+2 See US Department of justice application to appoint divestiture trustee:
+  https://www.justice.gov/atr/case-document/file/1306291/download.
+
+
+
+                                                   9
+
+[PÁGINA PDF 11]
+Competition Merger Brief 2/2022 – Article 3
+Competition policy brief
+
+  The Hyundai/Daewoo Shipbuilding            Foreign-to-foreign                                                                                 In a nutshell
+  prohibition 0F1                                       concentration  and  the
+                                                    reach of the EUMR          On 13 January 2022, the
+                                                                                              European     Commission
+   Zlata Jakubovic, Helena Malikova,  Itai Rabinovici, Andrea Usai,      The undertakings concerned are                                                                                                             prohibited  the  acquisition
+   Fabiola Zarrelli                                                two foreign shipbuilders, located                                                                                                         of DSME  by  HHIH,  two
+                                                                          outside of the EEA. They build
+  Introduction                                              and sell the vessels concerned,     South Korean shipbuilder.
+                                                                 LLNGCs, in shipyards located in  On 13 January 2022, the European Commission prohibited the                                      The          Commission
+                                                                  South  Korea.  Delivery  of  the   acquisition of Daewoo Shipbuilding & Marine Engineering CO., Ltd                                          considered    that    the
+                                                                          vessels is also done outside of   (DSME) by Hyundai Heavy Industries Holdings (HHIH). HHIH is a                                              acquisition would create a
+                                                                       the  EEA  as  customers  take   privately held South Korean company that  is mainly active in                                      dominant  position  in  the
+                                                                       possession of the vessels at the   shipbuilding. It produces a range of commercial vessels, marine                                        worldwide market for the
+                                                                             shipyard.   engines and offshore  facilities used to explore, produce and                                            construction of large LNG
+   process  oil and gas under the sea. DSME  is a South Korean                                                  carriers.                                                                   However,  EU  merger  control
+  company that is also mainly active in shipbuilding. It produces a
+                                                                            applies   regardless   of   the   range of commercial vessels and offshore facilities.
+                                                                 merging parties’ location, provided that they are active in Europe
+                                                              and that the transaction has an impact within the EEA. First, as a   The Parties are active in the construction of a wide array of
+                                                                           purely jurisdictional issue, the case was notified under the EUMR   vessels and offshore  facilities. The Commission’s decision to
+                                                              due to the geographical allocation of turnover. Indeed, for the   block the transaction  relied on  its  significant impediment to
+                                                                    purpose of assessing whether the EU turnover thresholds were   effective competition in large liquefied natural gas (LNG) carriers
+                                                                     met, the  Parties’ sales were geographically attributed to the   (‘LLNGCs’). LLNGCs are vessels with capacity to carry at least
+                                                        Member States in which their customers were based.  145,000 cubic meters of LNG at a temperature of -162 degrees
+   Celsius. The Commission considered that the acquisition would
+                                                                       Furthermore, although the Parties’ products were built in South
+   have created a dominant position and reduced competition in the
+                                                                         Korea, the market for the construction and sale of LLNGCs is   worldwide market for the construction and sale of LLNGCs. Both
+                                                                        worldwide. A significant part of demand in the market originates
+   companies are global leaders in the construction and sale of
+                                                               from the EEA and the Parties, as all LLNGC shipbuilders, compete
+   LLNGCs, and two of the three largest players that compete very
+                                                                                for customers that are based  in the EEA. Consequently, the
+   closely in this very concentrated market.
+                                                                         Transaction was likely to affect competition in the EEA.
+   The Commission’s decision  is currently on appeal before the
+   General Court of the EU.1F2                               LLNGCs,  a  sophisticated  and  differentiated
+                                                     product
+   The   decision,  a   classic   horizontal   case,   illustrates  the
+                                                           LLNGCs are an essential element in the supply chain of LNG and
+   Commission’s methodology in assessing unilateral effects and
+                                                                          therefore contribute to the diversification of Europe’s source of
+   the  existence  of  potential  competitive  constraints.   It  also
+                                                                          energy, improving energy security. Over the past five years, the
+   exemplifies the reach of the EU Merger Regulation.
+                                                                    worldwide market for the construction of LLNGCs represented up
+                                                                             to €40 billion, with European customers accounting for almost
+                                                 50% of all orders.
+
+                                                           LLNGCs are highly sophisticated and expensive vessels that can
+                                                                            carry large quantities of LNG at an extremely low temperature,
+    1 Decision  of 13 January 2022  in case M.9343 – Hyundai Heavy                                                              and thus require specific skills and expertise. LLNGCs are also a
+      Industries Holdings/Daewoo Shipbuilding (“HHIH/DSME”).
+    2 T-156/22 – HHIH v Commission.                                             differentiated product as there are differences by type  (e.g.,
+                                                           LLNGCs that can store and transport LNG, LLNGCs that are used
+
+
+   The content of this article does not necessarily reflect the
+     official position of the European Commission. Responsibility
+    for the information and views expressed lies entirely with
+    the authors.
+
+[PÁGINA PDF 12]
+    M.9343 Hyundai Heavy Industries Holdings/Daewoo Shipbuilding  | Competition Policy Brief No 2/2022
+
+
+
+to store and degasify LNG, and LLNGCs that can sail iced waters        Fourth, the Commission’s market investigation showed that the
+without the help of an  ice-breaker  vessel), by type of gas      LLNGC market is characterised by very high barriers to entry and
+containment system and gas handling technologies (membrane v       expansion. These barriers consist in, for example, licences, know-
+non-membrane),  by  innovative  technologies, and  by  overall      how and  project management, technology,  track-record, dock
+quality of the vessel.                                                             size, special equipment and  facilities, delivery time and quay
+                                                                                      slots. In this context, the Commission found that there have been
+The transaction’s significant horizontal effects          no recent entries in the LLNGC market. Rather, the market was
+                                                                       characterized by  multiple  exits and the absence of  credible
+The Commission’s assessment focused on the proposed merger’s
+                                                                   evidence that any future entry or expansion was likely, timely and
+horizontal effects  in LLNGCs, where the merger would have
+                                                                              sufficient  to  constrain  the merged  entity.  In  addition,  the
+combined a very significant market share and left customers with
+                                                             Commission found that customers do not and would not have
+fewer alternative suppliers and the absence of likely, timely and
+                                                                     exerted a  sufficient degree  of buyer power as  the LLNGC
+sufficient entry and/or expansion.
+                                                               customer base is relatively fragmented and customers have a
+                                                                      very limited choice of shipbuilders as possible suppliers.First, the proposed transaction would have consolidated a very
+large market share in the combined entity’s hands. The combined
+                                                                                     Finally,  the Commission found  that  the  present and  future
+entity would have been by far the largest LLNGC supplier in the
+                                                      demand outlook for LLNGCs remained positive in spite of the
+world, in a market that was already concentrated pre-merger. The
+                                                           COVID-19 outbreak. Thus, post-Transaction demand for LLNGCs
+parties' combined market shares have attained at least 60%,
+                                                              would not have been affected by the pandemic. As a result, the
+which  in  itself  is consistent with the finding of a dominant
+                                                              assessment of the relevant counterfactual showed that, absent
+position in the relevant market. The quantitative indication of
+                                                                     the  Transaction, DSME would  likely  continue  to  exercise an
+dominance was even stronger in the case at hand, in that both
+                                                                           effective competitive pressure in the market for LLNGCs.
+Parties’ market shares had been increasing significantly in the
+past 10 years.
+                                              The  absence  of  any  formal  commitment
+Second, very few shipbuilders are active in this market because     submission
+LLNGCs are very difficult and expensive vessels to build. Besides                                                                  Pursuant to paragraph 6 of the Commission’s Remedy Notice,
+the  parties, there  is only one other large competitor  in the                                                               once the Commission has communicated its competition concerns
+market. However, this competitor's capacity would not have been                                                                         to the merging parties,  it is then up to  them to put forward
+sufficient to act as a credible constraint on the new company                                                              commitments. In the present case, the merging parties did not
+resulting  from  the  merger.  Although  another  independent                                                                      formally offer remedies to address the Commission’s concerns.
+shipbuilder exists, that manufacturer has limited activities in the
+LLNGC market and focuses on domestic projects.  Finally, the     Conclusion
+Commission  found  that  other  shipbuilders  that  constructed
+LLNGCs in the past had not receive orders for LLNGCs in recent      The merger between HHIH and DSME would have led  to a
+years and had effectively exited this market.                         dominant position in the global market for LLNGCs, for which
+                                                                       there is significant demand from European customers. Given that
+Third, HHIH and DSME account for a very significant share of the      no remedies were submitted, the merger would have led to fewer
+total capacity to  build LLNGCs. The balance between supply        suppliers and higher prices for LLNGCs. In line with paragraph 6
+(capacity) and demand in the market was assessed in different       of the Commission’s Remedy Notice, the Commission prohibited
+scenarios  with a  range  of demand  forecasts and  capacity       the transaction given that, in the absence of any remedy, the
+estimates  for the  Parties’ competitors. The Commission thus      merger would have significantly impeded effective competition in
+performed a pivotality analysis, examining whether, as result of       the market for LLNGCs.
+the Transaction, the Parties would have a production capacity
+large enough to make them indispensable, or “pivotal”, to meet
+the demand. Put differently, the pivotality analysis examines if
+the Parties’ rivals would have sufficient capacity post-Transaction
+to  satisfy  the  entire  LLNGC  demand  so  that  customers
+demanding LLNGCs would not have to rely on the Parties.
+
+Under  the  most  plausible  scenarios,  the  combined  entity
+appeared pivotal for a large share of demand, as the remaining
+competitors had  insufficient  capacity  to  absorb  the  entire
+demand of the market. Consequently, the Parties’ competitors’
+capacity would not have been sufficient to constrain the merged
+entity in such a way as to avoid the creation of a dominant
+position by the combined entity as a result of the Transaction.
+
+
+
+                                                   11
+
+[PÁGINA PDF 13]
+Competition Merger Brief 2/2022 – Article 4
+Competition mergerbrief
+
+ Derichebourg/Ecore– Ensuring fair                together    with    additional
+                                                                        safeguards, in order to ensure
+  competition in metal scrap recycling             the  viability  of  the remedy    In a nutshell
+  markets                                                       package.                        Derichebourg/Ecore was  a
+                                                                                                         transaction involving leading
+   Eider Echeverria-Alvarez, Anne Jussiaux                     The  relevant  product                                                                                                        players in the French metal
+                                                 markets                         recycling sector. This case is
+  Introduction                                                                                      a good example of how the
+                                                          Product markets  On 16 December 2022, the European Commission cleared the                                   Commission     runs       its
+                                                                The recycling market  is sub-   acquisition  of Groupe  Ecore by  Derichebourg  subject  to an                                        competitive  assessment on
+                                                              segmented      into     three   extensive remedy package. Both companies are active  in the                                             local  markets  defined  by
+                                                                          categories  of  activities:  the   recycling of metal scrap, and are number 1 and 2 players in                                    catchment  areas.  At  local
+                                                                                 collection of the metal scrap,   France with their activities overlapping along the entire value                                                 level, the Commission found
+                                                                                                 its valorisation and the sale of
+   chain, from the collection of the scrap, to its valorisation and                                        competitive  concerns  in  a
+                                                                           recycled  metal.  In  line  with
+   sale.                                                                                                          significant    number    of
+                                                                         previous      cases,      the
+                                                                                                    markets.
+                                                               Commission found that each   The metal recycling industry contributes to a circular economy
+                                                                         of these activities constitutes  and to the objectives of the Green Deal. Most metals can be                                    To address the Commission’s
+                                                             a separate product market.   recycled indefinitely while losing almost none of their properties,                                         concerns,      Derichebourg
+   which implies important savings of CO2, energy and natural                                        offered to divest 8 recycling                                                                                   In addition, the different types
+   resources. The metal and steel industries in particular are subject                                             sites in a commitment that                                                                         of metal scrap are subject to
+   to CO2 savings objectives, and request secondary raw materials                                         also   included    additional                                                                               different           regulatory
+   with as much added value as possible and of better quality (i.e.,                                      safeguards  to  ensure  the                                                                         requirements, do not always
+   increasingly free of residues). Recycled metal scrap is thus crucial                                                viability  of  the  divestment                                                                        request  the same  tools  for   for a green transition while ensuring the competitiveness of the                                                                                                         businesses.                                                                                    their  recycling and  are  not   European manufacturing industry.
+                                                                  always  collected/treated  by
+                                                                       the same players.   Metal scrap can be found in products such as end-of-life vehicles,
+   windows, washing machines, batteries, railways, or metal scrap
+                                                                As a result, the Commission found out that there are separate   resulting from industrial activities such as the manufacture of car
+                                                                  markets for each recycling activity, depending on the different   parts. Contrary to other waste (such as plastic or paper), metal
+                                                                       types of metal waste: (i) non-hazardous waste (including ferrous   scrap has a significant market value.
+                                                                waste and non-ferrous  waste),  (ii)  specific waste  subject  to
+                                                                                  specific regulatory requirements (such as end-of-life vehicles and   The Derichebourg/Ecore decision provided the Commission with
+                                                                                     electrical and electronic equipment waste) and  (iii) hazardous  an opportunity to carry out a comprehensive assessment of the
+                                                                waste (such as batteries and accumulators), that are also subject   metal scrap recycling markets.0F1 The case is also illustrative of
+                                                                             to specific regulatory requirements.  how the Commission runs its competitive assessment in markets
+   defined by catchment areas. Finally, to secure clearance in Phase
+                                                                                   In its decision, notably in view of the market investigation, the  1 the Parties had to offer a significant divestment package,
+                                                               Commission considered that the following product markets were
+                                                                                relevant:
+
+    1  Prior to Derichebourg/Ecore, few decisions either at the Commission              -    Within  collection  activities:  (i) the collection of non-
+      level or at Member State level have analysed this market. Recent               hazardous metals, without distinction between ferrous
+      decisions  involving an  in-depth  analysis  of metal  scrap  recycling
+                                                                      and  non-ferrous;   (ii)  the  collection  of  end-of-life     markets include the Commission’s decision of 4 May 2020 in case
+     M.9409 – Aurubis/Metallo and the CMA’s decision of 14 August 2018 in                   vehicles;  (iii) the collection of electrical and electronic
+     Ausurus Group Ltd/Metal & Waste Recycling.
+
+
+
+   The content of this article does not necessarily reflect the
+     official position of the European Commission. Responsibility
+    for the information and views expressed lies entirely with
+    the authors.
+
+[PÁGINA PDF 14]
+                  M.10249 Derichebourg/Ecore  | Competition Merger Brief No 2/2022
+
+
+
+        equipment waste and  (iv) the collection of batteries       neighbouring countries (mainly Spain and Belgium) while exports
+          (with a further sub-segmentation for lead car batteries);        to more distant countries account for a smaller share of the
+                                                             volumes sold.
+     -    Within  valorisation  activities:  (v) the  valorisation of
+         ferrous  metals;  (vi)  the  valorisation  of  non-ferrous      The Commission defined the relevant catchment areas as circles
+         metals; (vii) the valorisation of end-of-life vehicles; and       around the  Parties’ recycling  sites. To determine the  specific
+              (viii)  the  valorisation  of  electrical  and  electronic       catchment areas of each product market where a local dimension
+        equipment  waste  (with  further  sub-segmentations      was applicable, the Commission analysed, for each of the Parties’
+        depending on the type of equipment, in the case at         sites, the distances travelled by the Parties to purchase (or sell)
+         stake a separate market was considered  for  large      70%, 80% and 90%  of  the  scrap.  The Commission  then
+           electrical and electronic equipment). Indeed, each of      compared  the  results  with  feedback  received from  market
+         these waste types present some distinct features as to       players and, in line with previous cases, considered that the 80%
+           their  valorisation.  For  example,  according  to  the       cut was appropriate to define the geographic markets in this
+          applicable regulations, only shredders can valorise end-        case.
+           of-life vehicles.
+                                                    Local competitive assessment: dealing with a
+     -    Within    commercialisation     activities:     (x)    the     high number of affected markets
+         commercialisation of recycled ferrous scrap  (with a
+          further sub-segmentation for the sale of shredded steel     Methodology to calculate market shares
+          scrap, also referred to as E40, and non-shredded steel                                                             The transaction involved a very high number of product and
+          scrap) (xi) the commercialisation of recycled stainless                                                                   geographic   markets.   For   this   reason,   the  Commission
+          steel and  (xi) the commercialisation of recycled non-                                                              implemented a consistent methodology to identify areas where
+         ferrous scrap (with further sub-segmentations per type                                                                     competition problems would be likely to arise.
+         of metal such as copper,  tin, lead,  nickel,  etc.). For
+         recycled ferrous scrap, the Commission found that the      The Parties submitted the volumes of metal scrap  collected,
+          sale of shredded steel scrap (also referred to as E40)        valorised and sold in each of their sites, as well as their best
+          constituted a separate segment from the sale of other       estimates of the competitors’ volumes. Based on this data, the
+         recycled metal scrap because of its higher quality, price      Commission calculated the Parties’ market shares as well as their
+        and use. Steel makers could not substitute E40 with       competitors’ shares. The Commission included  all the volumes
+         other  recycled  non-ferrous  scrap  in  case  of  price       processed by a site located in the relevant catchment area, while
+          increase.                                                                                   it excluded the volumes of sites located outside of the catchment
+                                                                           area.
+The scope of the different geographic markets
+Previous decisions had concluded that the collection of metal       Nevertheless and in order to mitigate the potential limitations
+scrap had a  local dimension (around catchment  areas), the        that using specific catchment areas may entail, the Commission
+valorisation a national dimension and the commercialisation of       also considered rival sites located at the immediate outset of the
+the different recycled metals at least a European dimension.            considered catchment area to assess whether they could exert a
+                                                                      competitive pressure on the Parties’ sites.
+The results of the Commission’s investigation partially called into
+question the current relevance of the approach adopted in past      The Commission also performed a partial market reconstruction
+decisions, as they highlighted the local nature of both the metal       of the market for the valorisation of end-of-life vehicles through
+waste collection and valorisation  activities, the importance of       shredders  to  determine  the  importance  of  the  competitive
+transport costs at these stages of the value chain, and the fact       pressure exerted by Spanish and Belgian competitors in the Ile-
+that only few competitors had a national footprint, which resulted       de-France region. Indeed, the Parties claimed that these players
+in diverging conditions of competition  in different geographic       placed a significant competitive constraint over French players
+zones of the French  territory. Belgian or Spanish competitors        that the Commission should fully take into account. Nevertheless,
+active in France also limited their activity in France within specific       the market reconstitution showed  that, while Belgian players
+catchment areas around their collection and valorisation sites.          were  present  with  non-negligible volumes  exported, Spanish
+                                                                       players were purchasing only marginal volumes from  Ile-de-
+The  commercialisation  of  recycled  ferrous  scrap  (including        France.  Therefore,  the  Commission  concluded  that  Spanish
+shredded ferrous scrap) also revealed having a supra-national       players did not exercise a significant competitive constraint on
+dimension, given the role of transport costs in the case of ferrous       the Parties in the catchment areas located in Ile-de-France.
+scrap (being heavier and cheaper than non-ferrous scrap). The
+purchase of scrap from remote suppliers is more expensive and      Identifying problematic markets
+increases security and safety risks. As a result, buyers of recycled        In view of the large (more than 500) number of markets affected
+ferrous waste prefer supplies located near their factories. The      by  the  transaction  at  every  level  of  the  value  chain,  the
+majority  of  export volumes from  France  are  thus  sold  to
+
+
+
+
+                                                   13
+
+[PÁGINA PDF 15]
+                  M.10249 Derichebourg/Ecore  | Competition Merger Brief No 2/2022
+
+
+
+Commission identified prima facie problematic markets based on       Following the Commission’s market test, and in view of feedback
+market shares  filters designed to identify material horizontal       received from market participants, the Parties further improved
+effects.  In view of the market  specificities, the Commission       the remedy package by offering additional assets and services,
+considered that prima facie problematic markets were the ones        including:
+where the Parties overlapped and held the following market
+shares:                                                                               -   Up to 5 additional feeder sites  (i.e. collection sites) to
+                                                                           ensure the supply of the  sites divested which had
+     -   above 50%; or                                                         shredders;
+     -   above 40%, with the Transaction  bringing about a              -   The trucks needed for transportation purposes when not
+        market share increment of at least 5%.                                      directly located on the divestment site;
+                                                                                       -   An option to acquire the land on which the divested site
+However,  in  light  of  the  heterogeneity  of  the  product and                      is located;
+geographic markets, the Commission complemented its analysis              -   Commercial and environment/safety/quality employees
+with a  site-by-site  competitive assessment  for  all markets               as  well  as  drivers  (not  directly employed on  the
+identified as prima facie problematic.                                            divested sites).
+
+In many problematic areas, the Parties appeared as very close         Finally,  the commitments  mention  that,  in  addition  to  the
+competitors in terms of market shares, distance between their       standard purchaser criteria, the purchaser should have experience
+sites, footprint or assets, whereas the other competitors were         in metal scrap recycling or in a vertically related sector. This
+often much smaller or with a reduced local presence. In addition,       requirement ensured, among other things, that the purchaser
+the Parties also appeared particularly strong in the valorisation of      would have the necessary skills and knowledge to operate the
+end-of-life vehicles when looking at the number of shredders       divested sites.
+they owned in France and their shredding power. In the end, the
+Commission raised serious doubts for many of the prima facie        This substantial remedy package allowed the Commission to
+problematic areas.                                                         clear the merger in Phase I.
+
+In other instances; however, the Commission was able to dismiss
+competition concerns in specific catchment areas in view of the
+particular features of those areas, such as the existence of
+competitor(s) located at the fringe that represented a significant
+competitive constraint on the Parties.
+
+Remedies:   ensuring   the   viability   of   the
+divestment business
+
+As a  general  rule,  in  Phase 1  conditional  clearances,  the
+Commission encourages the merging parties to initiate remedy
+negotiations as early as possible. This is because the procedure
+allows for very limited time for the Commission to both conduct a
+merger investigation and assess remedy proposals. As a result, in
+order  to  be  remediable,  competition  concerns  must  be
+straightforward and the proposed remedy clear-cut.
+
+In this case, as per the Commission’s well-established policy in
+cases involving horizontal effects, a structural remedy was the
+favoured  solution. To address  the Commission's  competition
+concerns, Derichebourg thus offered to divest 8 sites (including 4
+sites equipped with shredders).
+
+The main challenge in this case was to ensure the divestment
+business’ viability. To do so, the Commission obtained significant
+safeguards. Notably, the Parties committed to an agreement to
+supply certain quantities of metal scrap to the purchaser(s) of the
+divested sites equipped with shredders to ensure that, during a
+start-up period, those divested sites remained viable and covered
+the high fixed costs such assets entail, and that the purchaser
+had the time to seek new suppliers of metal scrap.
+
+
+
+
+
+                                                   14

@@ -1,0 +1,1372 @@
+[PÁGINA PDF 1]
+Non-confidential version
+
+
+
+DISCLAIMER: This is an interim text of the non-confidential version of the commitments
+  in Case 11956 – UMG / DOWNTOWN. Parts of this text have been edited to ensure that
+ confidential information is not disclosed; those parts are enclosed in square brackets. The
+   text is made available for information purposes only and does not constitute an official
+ publication. The full text of the decision and the commitments in Annex will be published
+                         on DG Competition's website.
+
+                      Case M.11956 – UMG / DOWNTOWN
+
+          COMMITMENTS TO THE EUROPEAN COMMISSION
+
+                                15 January 2026
+
+Pursuant to Article 8(2) of Council Regulation (EC) No 139/2004 (the ‘Merger Regulation’),
+Universal Music Group N.V. (‘UMG’) and Downtown Music Holdings LLC (‘Downtown’)
+(together,  the ‘Committing  Parties’) hereby  enter  into  the  following commitments  (the
+‘Commitments’) vis-à-vis the European Commission (the ‘Commission’) with a view to rendering
+UMG’s proposed acquisition of sole control of Downtown (the ‘Concentration’) compatible with
+the internal market and the functioning of the EEA Agreement.
+
+This text shall be interpreted in light of the Commission’s decision pursuant to Article 8(2) of the
+Merger Regulation, to declare the Concentration compatible with the internal market and the
+functioning of the EEA Agreement (the ‘Decision’), in the general framework of European Union law,
+in particular in light of the Merger Regulation, and by reference to the Commission Notice on remedies
+acceptable under Council Regulation (EC) No 139/2004 and under Commission Regulation (EC) No
+802/2004 (the ‘Remedies Notice’).1
+
+Section A.    Definitions
+
+1.     For the purpose of the Commitments, the following terms shall have the following
+      meaning:
+
+        Affiliated Undertakings: undertakings controlled by the Committing Parties and/or by the
+        ultimate parents of the Committing Parties, whereby the notion of control shall be interpreted
+       pursuant to Article 3 of the Merger Regulation and in light of the Commission Consolidated
+        Jurisdictional Notice under Council Regulation (EC) No 139/2004 on the control of
+       concentrations between undertakings (the ‘Consolidated Jurisdictional Notice’).
+
+       Assets: the assets that contribute to the current operation or are necessary to ensure the
+        viability and competitiveness of the Divestment Business as indicated in Section B,
+       paragraph 5 and described more in detail in the Schedule.
+
+       Closing: the transfer of the legal title to the Divestment Business to the Purchaser(s).
+
+
+1   For completeness it is noted that Commission Regulation (EC) No 802/2004 has been replaced by Commission
+    Regulation (EC) 914/2023.
+
+
+
+                                              1
+
+[PÁGINA PDF 2]
+Non-confidential version
+
+
+       Closing Period: the period of [Confidential information on timing] from the approval of
+       the Purchaser(s) and the terms of sale by the Commission.
+
+      Committing Parties: UMG and Downtown. This includes also any legal successors of the
+      Committing Party/Committing Parties (notably the merged entity).
+
+       Confidential Information: any business secrets, know-how, commercial information not in
+       the public domain, or any other information of a proprietary nature that is not in the public
+       domain.
+
+       Conflict of Interest: any conflict of interest that impairs the Trustee’s objectivity and
+       independence in discharging its duties under the Commitments.
+
+      Curve: Curve Royalty Systems, Ltd.
+
+      Curve Customers: all (i) existing standalone Curve customer contracts; and (ii) customers
+        that  utilize Curve’s royalty accounting services alongside Downtown’s  distribution,
+       publishing and/or neighbouring rights services, at the time of Closing.
+
+      Curve Platform: Curve’s cloud-based royalty accounting software platform.
+
+      Divestment Business: the business or businesses as defined in Section B and in the
+       Schedule which the Committing Parties commit to divest.
+
+       Divestiture Trustee: one or more natural or legal person(s) who is/are approved by the
+      Commission and appointed by the Committing Parties and who has/have received from the
+      Committing Parties the exclusive Trustee Mandate to sell the Divestment Business to a
+       Purchaser at no minimum price.
+
+      Downtown: Downtown Music Holdings LLC incorporated under the laws of Delaware,
+       with its registered office at 155 6th Avenue, Floor 15, New York, United States and
+        registered with the Commercial/Company Register at 10/15/2021 under number 6311648.
+
+       Effective Date: the date of adoption of the Decision.
+
+       First Divestiture Period: the period of [Confidential information on timing] from the
+       Effective Date.
+
+      Hold Separate Manager: the person appointed by the Committing Parties for the
+       Divestment Business to manage the day-to-day business under the supervision of the
+       Monitoring Trustee.
+
+     Key Personnel: all personnel necessary to maintain the viability and competitiveness of
+       the Divestment Business, as listed in the Schedule, including the Hold Separate Manager.
+
+      Monitoring Trustee: one or more natural or legal person(s) who is/are approved by the
+      Commission and appointed by the Committing Parties, and who has/have the duty to
+
+
+
+
+                                              2
+
+[PÁGINA PDF 3]
+Non-confidential version
+
+
+       monitor the Committing Parties’ compliance with the conditions and obligations attached
+        to the Decision.
+
+       Personnel: all staff currently employed by the Divestment Business, including staff
+      seconded to the Divestment Business, shared personnel as well as the additional personnel
+        listed in the Schedule.
+
+       Purchaser(s): the entity(ies) approved by the Commission as acquirer(s) of the Divestment
+       Business in accordance with the criteria set out in Section D.
+
+      Purchaser Criteria: the criteria laid down in paragraph 19 of these Commitments that the
+       Purchaser must fulfil in order to be approved by the Commission.
+
+       Schedule: the schedule to these Commitments describing the Divestment Business in more
+        detail.
+
+       Seller in the Concentration: the legal or natural person currently controlling the
+       undertaking that is the target of the Concentration, if applicable.
+
+       Trustee(s): the Monitoring Trustee and/or the Divestiture Trustee as the case may be.
+
+      Trustee Divestiture Period: the period of [Confidential information on timing] from the
+      end of the First Divestiture Period.
+
+     UMG: Universal Music Group N.V.
+
+       [Confidential information on a customer contract which forms part of the Divestment
+       Business]
+
+2.     Should issues arise relating to the interpretation of terms listed in paragraph 1 of these
+      Commitments or terms not defined, the Commission will retain the interpretation that is
+       the most favourable for an effective implementation of the Commitments.
+
+Section B.   The commitment to divest and the Divestment Business
+
+      Commitment to divest
+
+3.     In order to maintain effective competition, the Committing Parties commit to divest, or
+       procure the divestiture of the Divestment Business as a going concern to a purchaser(s) and
+      on terms of sale approved by the Commission in accordance with the procedure described
+        in paragraph 20 of these Commitments. To carry out the divestiture, the Committing Parties
+      commit to find a purchaser(s) and to enter into a final binding sale and purchase agreement
+        for the sale of the Divestment Business within the First Divestiture Period.  If the
+      Committing Parties have not entered into such an agreement at the end of the First
+       Divestiture Period, the Committing Parties shall grant the Divestiture Trustee an exclusive
+      mandate to sell the Divestment Business in accordance with the procedure described in
+       paragraph 33.
+
+
+
+
+                                              3
+
+[PÁGINA PDF 4]
+Non-confidential version
+
+
+4.    The Committing Parties shall be deemed to have complied with this commitment if they
+         fulfil the following conditions:
+
+        (a)    a  final binding  sale and purchase agreement has been entered into by the
+            Committing Parties by the end of the First Divestiture Period or by the Divestiture
+              Trustee by the end of the Trustee Divestiture Period, and the Commission approves
+               the Purchaser(s) and the terms of sale as being consistent with the Commitments in
+             accordance with the procedure described in paragraph 20; and
+
+        (b)     the Closing of the sale of the Divestment Business to the Purchaser(s) takes place
+              within the Closing Period on the basis of the transaction documents approved by
+               the Commission without any modification, unless explicitly approved by the
+            Commission.
+
+       Structure and definition of the Divestment Business
+
+5.    The Divestment Business consists of a pre-existing subsidiary of Downtown which is a
+      music royalty technology company that provides the Curve Platform and processing,
+       accounting, payment and distributions services in relation to royalties as well as rights
+      management for both record labels and music publishers. The legal and functional structure
+       of the Divestment Business as operated to date  is described in the Schedule. The
+       Divestment Business, described in more detail in the Schedule, includes the transfer of all
+        assets and staff that contribute to the current operation or are necessary to ensure the
+        viability and competitiveness of the Divestment Business, in particular:
+
+        (a)      all tangible and intangible assets (including products under development and
+               related rights, intellectual property rights, and know how);
+
+        (b)      all licences, permits and authorisations issued by any governmental organisation
+               for the benefit of the Divestment Business;
+
+        (c)      all contracts, leases, commitments and customer orders of the Divestment Business;
+                  all customer, credit and other records of the Divestment Business; all cooperation
+             agreements with third parties; and
+
+        (d)      all Key Personnel and Personnel.
+
+6.     In addition, the Divestment Business includes the benefit, for a transitional period of up to
+       [Confidential information on the divestment package] after Closing and [Confidential
+       information on the divestment package], of  all current arrangements under which
+     Downtown or its Affiliated Undertakings supply products or services to the Divestment
+       Business or of any other current or new arrangements which are necessary for the viability
+       of the Divestment Business, as detailed in the Schedule, unless otherwise agreed with the
+       Purchaser and with the approval of the Commission. Strict firewall procedures shall be
+       adopted so as to ensure that any competitively sensitive information related to, or arising
+       from, such supply arrangements (for example, product roadmaps) will not be shared with,
+       or passed on to, anyone outside those operations.
+
+
+
+
+                                              4
+
+[PÁGINA PDF 5]
+Non-confidential version
+
+
+Section C.    Related commitments
+
+       Preservation of viability, marketability and competitiveness
+
+7.    From the Effective Date until Closing, the Committing Parties shall preserve or procure
+       the preservation of the economic viability, marketability and competitiveness of the
+       Divestment Business, in accordance with good business practice, and shall minimise as far
+       as possible any risk of loss of the competitive potential of the Divestment Business. In
+        particular the Committing Parties undertake:
+
+        (a)    not to carry out any action that might have a significant adverse impact on the value,
+            management, viability or competitiveness of the Divestment Business or that might
+                 alter the nature and scope of activity, or the industrial or commercial strategy or the
+              investment policy of the Divestment Business;
+
+        (b)     to make available, or procure to make available, sufficient financial and other
+              resources needed for the development of the Divestment Business, including the
+             development of pipeline products or services where relevant, on the basis of the
+              continuation of the existing business plans;
+
+        (c)     to take all reasonable steps, or procure that all reasonable steps are being taken, to
+                 assist the Divestment Business in the process of IT migration and/or IT separation
+                until the full process is completed;
+
+        (d)     to  the  extent  the Divestment Business  includes any  licences,  permits and
+               authorisations  issued by any governmental  organisation  or any  other  third
+                party/parties for the benefit of the Divestment Business, to take all reasonable steps,
+              or procure that all reasonable steps are being taken, to obtain consent from any
+             governmental organisation or any other third party/parties for all required licences,
+              permits and authorisations;
+
+        (e)     to take all reasonable steps, or procure that all reasonable steps are being taken,
+              including appropriate incentive schemes, to encourage all Key Personnel to remain
+              with the Divestment Business, and not to solicit or move any Personnel to the
+            Committing Parties’ remaining business. Incentives schemes should not be linked
+               to the sale of the Divestment Business within a certain period or to the sale price of
+               the Divestment Business. Where, nevertheless, individual members of the Key
+              Personnel exceptionally leave the Divestment Business, the Committing Parties
+                shall provide a reasoned proposal to replace the person or persons concerned to the
+            Commission and the Monitoring Trustee. The Committing Parties must be able to
+              demonstrate to the Commission that the replacement is well suited to carry out the
+               functions exercised by those individual members of the Key Personnel. The
+              replacement shall take place under the supervision of the Monitoring Trustee, who
+                shall report to the Commission.
+
+
+
+
+
+                                              5
+
+[PÁGINA PDF 6]
+Non-confidential version
+
+
+       Hold-separate obligations
+
+8.    The Committing Parties commit, from the Effective Date until Closing, to keep, or procure
+        to keep, the Divestment Business separate from the businesses the Committing Parties are
+        retaining, and to ensure that unless explicitly permitted under these Commitments: (i)
+      management and staff of the business(es) retained by the Committing Parties have no
+       involvement in the Divestment Business; (ii) the Key Personnel and Personnel of the
+       Divestment Business have no involvement in any business retained by the Committing
+        Parties and do not report to any individual outside the Divestment Business.
+
+9.      Until Closing, the Committing Parties shall assist the Monitoring Trustee in ensuring that
+       the Divestment Business is managed as a distinct and saleable entity separate from the
+       business(es) which the Committing Parties are retaining. Immediately after the adoption of
+       the Decision, the Committing Parties shall appoint a Hold Separate Manager. The Hold
+       Separate Manager shall be the current head of the Divestment Business and shall be part
+       of the Key Personnel. If the Hold Separate Manager is not the head of the Divestment
+       Business at the time of the submission of the Commitments, the appointment should occur
+        in agreement with the Commission. The Hold Separate Manager shall manage the
+       Divestment Business independently and in the best interest of the business with a view to
+       ensuring  its continued economic viability, marketability and competitiveness and  its
+       independence from the businesses retained by the Committing Parties. The Hold Separate
+      Manager shall closely cooperate with and report to the Monitoring Trustee and,  if
+        applicable, the Divestiture Trustee. The Committing Parties shall ensure that the Hold
+       Separate Manager  is available for an  initial call with the Monitoring Trustee and the
+      Commission, as well as to discuss any significant matter at the request of the Monitoring
+       Trustee or  the Commission during  his/her mandate. The Monitoring Trustee or  the
+      Commission can discuss any matter relevant for the implementation of the Commitments with
+        the Hold Separate Manager without the presence or explicit agreement of representatives of
+        the Committing Parties. The Hold Separate Manager should provide all information requested
+      by the Commission, including confidential information.
+
+10.   Any replacement of the Hold Separate Manager shall be subject to the procedure laid down
+        in paragraph 7(e) of these Commitments. The Commission may, after having heard the
+      Committing Parties, require the Committing Parties to replace the Hold Separate Manager.
+      The Hold Separate Manager shall not be employed by the Committing Parties or their affiliated
+       undertakings for a period of two years after Closing.
+
+       Ring-fencing obligations
+
+11.   The Committing Parties shall implement, or procure to implement, all necessary measures
+        to ensure that it does not, after the Effective Date, obtain any Confidential Information
+        relating to the Divestment Business and that any such Confidential Information obtained
+      by the Committing Parties before the Effective Date will be eliminated and not be used by
+       the Committing  Parties. This includes measures  vis-à-vis  the Committing  Parties’
+       appointees on the supervisory board and/or board of directors of the Divestment Business.
+       In particular, the participation of the Divestment Business in any central information
+       technology network shall be severed to the extent possible, without compromising the
+
+
+
+                                              6
+
+[PÁGINA PDF 7]
+Non-confidential version
+
+
+        viability of the Divestment Business. All personnel in the Committing Parties’ remaining
+       business who have had access to Confidential Information relating to the Divestment
+       Business shall sign non-disclosure agreements preventing them from using or disclosing
+      any such information. To that effect, within [Confidential aspects of the implementation of
+       the commitments] of the Effective Date, the Committing Parties shall provide a detailed
+      work plan on the implementation of the ring-fencing measures to the Monitoring Trustee
+        for its review. The Committing Parties may obtain or keep information relating to the
+       Divestment Business which is reasonably necessary for the divestiture of the Divestment
+       Business or the disclosure of which to the Committing Parties is required by law.
+
+       Transitional obligations
+
+12.    Until the end of the term of the relevant obligations, the Committing Parties shall fulfil and
+       respect their obligations under any and all of the agreements between the Committing
+        Parties and the Purchaser, as detailed in the Schedule.
+
+       Non-solicitation obligation
+
+13.   The Committing Parties undertake, subject to customary limitations, not to solicit, and to
+       procure that Affiliated Undertakings do not solicit, the Key Personnel transferred with the
+       Divestment Business for a period of [Confidential aspects of the implementation of the
+      commitments] after Closing.
+
+14.   The Committing Parties undertake, subject to customary limitations, not to solicit, and to
+       procure that Affiliated Undertakings do not solicit, Curve Customers for royalty accounting
+       services for a period of [Confidential aspects of the implementation of the commitments]
+        after Closing.
+
+       Non-reacquisition obligation
+
+15.    In order to maintain the structural effect of the Commitments, the Committing Parties shall,
+        for a period of 10 years after Closing, not acquire, whether directly or indirectly, the
+        possibility of exercising influence (as defined in paragraph 43 of the Remedies Notice,
+       footnote 3) over the whole or part of the Divestment Business, unless, following the
+       submission of a reasoned request from the Committing Parties showing good cause and
+      accompanied by a report from the Monitoring Trustee (as provided in paragraph 55 of these
+      Commitments), the Commission finds that the structure of the market has changed to such
+      an extent that the absence of influence over whole or part of the Divestment Business is no
+       longer necessary to render the Concentration compatible with the internal market.
+
+     Due diligence related obligations
+
+16.    In order to enable potential purchasers to carry out a reasonable due diligence of the
+       Divestment Business, the Committing Parties shall, provide them with the confidential
+       version (or a meaningful non confidential version) of the Commitments. Subject to
+      customary confidentiality assurances and dependent on the stage of the divestiture process,
+       the Committing Parties shall also provide potential purchasers with:
+
+
+
+
+                                              7
+
+[PÁGINA PDF 8]
+Non-confidential version
+
+
+        (a)     sufficient information as regards the Divestment Business;
+
+        (b)     sufficient information relating to the Personnel and allow them reasonable access
+               to the Personnel.
+
+       Reporting obligations
+
+17.   The Committing Parties shall submit written reports in English on potential purchasers of
+       the Divestment Business and developments in the negotiations with such potential
+       purchasers to the Monitoring Trustee no later than 10 days after the end of every month
+       following the Effective Date (or otherwise at the Monitoring Trustee’s request). The
+      Committing Parties shall submit a list of all potential purchasers having expressed interest
+        in acquiring the Divestment Business to the Commission and the Monitoring Trustee at
+       each and every stage of the divestiture process, as well as a copy of all the offers made by
+        potential purchasers within five days of their receipt.
+
+18.   The Committing Parties shall inform the Monitoring Trustee on the preparation of the data
+      room documentation and the due diligence procedure and shall submit a copy of any
+       information memorandum to the Monitoring Trustee before sending the memorandum out
+        to potential purchasers.
+
+Section D.   The Purchaser
+
+19.    In order to be approved by the Commission, the Purchaser must fulfil the following criteria:
+
+        (a)    The Purchaser shall be independent of and unconnected to the Committing Parties
+            and their Affiliated Undertakings (this being assessed having regard to the situation
+              following the divestiture). In addition, the Purchaser should not be the Seller in the
+              Concentration nor any of its Affiliated Undertakings.
+
+        (b)    The Purchaser shall have the financial resources to maintain and develop the
+             Divestment Business as a viable and active competitive force in competition with
+               the Committing Parties and other competitors. In particular, the Purchaser shall not
+             be excessively leveraged, shall have sufficient equity and profitability, shall have a
+              turnover significantly larger than the turnover of the Divestment Business, shall
+             have sufficient means to finance the acquisition of the Divestment Business and the
+              execution of its business plan, including investments.
+
+        (c)    The Purchaser shall also have the proven expertise, ability and incentive to maintain
+            and develop the Divestment Business as a viable and active competitive force in
+              competition with the Committing Parties and other competitors.
+
+        (d)    The acquisition of the Divestment Business by the Purchaser must neither be likely
+               to create, in light of the information available to the Commission, prima facie
+              competition concerns nor give rise to a risk that the implementation of the
+            Commitments will be delayed. In particular, the Purchaser must reasonably be
+             expected to obtain all necessary approvals from the relevant regulatory authorities
+               for the acquisition of the Divestment Business.
+
+
+
+                                              8
+
+[PÁGINA PDF 9]
+Non-confidential version
+
+
+20.   The final binding sale and purchase agreement (as well as ancillary agreements) relating to
+       the divestment of the Divestment Business shall be conditional on the Commission’s
+       approval. When the Committing Parties have reached an agreement with a purchaser, they
+        shall submit a fully documented and reasoned proposal, including a copy of the final
+       agreement(s), within [Confidential aspects of the implementation of the commitments] to
+       the Commission and the Monitoring Trustee. For the approval, the Committing Parties
+      must be able to demonstrate and the Commission shall verify that the purchaser fulfils the
+       Purchaser Criteria and that the Divestment Business is being sold in a manner consistent
+       with the Commission’s Decision and the Commitments including their objective to bring
+       about a lasting structural change in the market. The Commission may approve the sale of
+       the Divestment Business without one or more of the Assets or parts of the Personnel, or by
+        substituting one or more Assets or parts of the Personnel with one or more different assets
+       or different personnel, if this does not affect the implementation of the Commitments and
+       the viability and competitiveness of the Divestment Business after the sale, taking account
+       of the Purchaser.
+
+21.   Any change to the final binding sale and purchase agreement (as well as ancillary
+       agreements) taking place after the Commission’s approval referred to in the previous
+       paragraph shall be approved by the Commission, following consultation of the Monitoring
+       Trustee.
+
+Section E.    Trustee
+
+          I.     Appointment procedure
+
+22.   The Committing Parties shall appoint a Monitoring Trustee to carry out the functions
+       specified in these Commitments for a Monitoring Trustee. The Committing Parties commit
+       not to close the Concentration before the appointment of a Monitoring Trustee.
+
+23.     If the Committing Parties have not entered into a binding sale and purchase agreement
+       regarding the Divestment Business [Confidential aspects of the implementation of the
+      commitments] before the end of the First Divestiture Period or if the Commission has
+        rejected a purchaser proposed by the Committing Parties at that time or thereafter, the
+      Committing Parties shall appoint a Divestiture Trustee. The appointment of the Divestiture
+       Trustee shall take effect upon the commencement of the Trustee Divestiture Period.
+
+24.   The Trustee shall:
+
+        (a)     at the time of appointment, be independent of the Committing Parties and their
+               Affiliated Undertakings;
+
+        (b)    possess the necessary qualifications to carry out its mandate, for example have
+                sufficient relevant experience as an investment banker or consultant or auditor;
+
+        (c)     neither have nor become exposed to a Conflict of Interest;
+
+
+
+
+
+                                              9
+
+[PÁGINA PDF 10]
+Non-confidential version
+
+
+        (d)    demonstrate sufficient capacity and resources to take on the Trustee role with all
+               the obligations that the role entails, including to report regularly to the Commission;
+            and
+
+        (e)    have a sufficient presence in the EU/EEA, and sufficient expertise in the relevant
+          EU/EEA countries covered by the Commitments.
+
+25.   The Trustee shall be remunerated by the Committing Parties in a way that does not impede
+       the independent and  effective  fulfilment  of  its mandate.  In  particular, where  the
+       remuneration package of a Divestiture Trustee includes a success premium linked to the
+        final sale value of the Divestment Business, such success premium may only be earned if
+       the divestiture takes place within the Trustee Divestiture Period.
+
+             Proposal by the Committing Parties
+
+26.     If not already approved at the Effective Date, no later than [Confidential aspects of the
+       implementation of the commitments] after the Effective Date, the Committing Parties shall
+       submit the names of at least three natural or legal persons whom the Committing Parties
+       propose to appoint as the Monitoring Trustee to the Commission for approval and a list of
+      two or more persons, who can be the same as the persons proposed as Monitoring Trustee,
+     whom the Committing Parties propose to appoint as Divestiture Trustee to the Commission
+        for approval. The proposal shall contain sufficient information for the Commission to
+        verify that the persons proposed as Trustee fulfil the requirements set out in paragraph 24
+      and shall include:
+
+        (a)     the full terms of the proposed mandate, which shall include all provisions necessary
+               to enable the Trustee to fulfil its duties under these Commitments; and
+
+        (b)     the outline of a work plan which describes how the Trustee intends to carry out its
+              assigned tasks.
+
+             Approval or rejection by the Commission
+
+27.   The Commission shall have the discretion to approve or reject the proposed Trustee(s) and
+        to approve the proposed mandate subject to any modifications it deems necessary for the
+       Trustee to fulfil its obligations. If only one name is approved, the Committing Parties shall
+       appoint or cause to be appointed the person or persons concerned as Trustee, in accordance
+       with the mandate approved by the Commission. If more than one name is approved, the
+      Committing Parties shall be free to choose the Trustee to be appointed from among the
+      names approved. The Trustee shall be appointed within [Confidential aspects of the
+       implementation of the commitments] of the Commission’s approval, in accordance with
+       the mandate approved by the Commission.
+
+          New proposal by the Committing Parties
+
+28.     If all the proposed Trustees are rejected, the Committing Parties shall submit the names of
+        at  least two more  natural  or  legal  persons  within  [Confidential  aspects  of  the
+
+
+
+
+                                              10
+
+[PÁGINA PDF 11]
+Non-confidential version
+
+
+       implementation of the commitments] of being informed of the rejection, in accordance with
+       paragraphs 22 and 27 of these Commitments.
+
+              Trustee nominated by the Commission
+
+29.     If all further proposed Trustees are rejected by the Commission, the Commission shall
+      nominate a Trustee, whom the Committing Parties shall appoint, or cause to be appointed,
+        in accordance with a trustee mandate approved by the Commission.
+
+          II.     Functions of the Trustee
+
+30.   The Trustee shall assume its specified duties and obligations in order to ensure compliance
+       with the Commitments. The Commission may, on its own initiative or at the request of the
+       Trustee or the Committing Parties, give any orders or instructions to the Trustee in order
+        to ensure compliance with the conditions and obligations attached to the Decision.
+
+              Duties and obligations of the Monitoring Trustee
+
+31.   The Monitoring Trustee shall:
+
+        (a)    propose in its first report to the Commission a detailed work plan describing how it
+               intends to monitor compliance with the obligations and conditions attached to the
+              Decision.
+
+        (b)    oversee, in close co-operation with the Hold Separate Manager, the on-going
+            management of the Divestment Business with a view to ensuring its continued
+            economic viability, marketability and competitiveness and monitor compliance by
+               the Committing  Parties with the conditions and obligations attached to the
+              Decision. To that end the Monitoring Trustee shall:
+
+                   (i)     monitor the preservation of the economic  viability, marketability and
+                     competitiveness of the Divestment Business, and the keeping separate of
+                      the Divestment Business from the business retained by the Committing
+                        Parties, in accordance with paragraphs 7, 8 and 9 of these Commitments;
+
+                    (ii)    monitor that the Committing Parties make available sufficient resources for
+                      the Divestment Business to develop, including for the development of
+                      pipeline products or services where relevant (including to reach completion,
+                     approval or registration of pipeline products or services), based on the
+                      continuation of existing business plans and relevant milestones or of any
+                      other future or ongoing projects that are important for the viability of the
+                    Divestment Business to the extent that there are any support obligations
+                  from the Committing Parties;
+
+                    (iii)    to the extent that the Commitments include transitional agreements or the
+                      obligation to supply certain inputs, products or services, the Trustee shall
+                    monitor the strict compliance with the terms approved and inform the
+
+
+
+
+                                              11
+
+[PÁGINA PDF 12]
+Non-confidential version
+
+
+                  Commission promptly of any changes or compliance problems during the
+                    term of such agreements;
+
+                 (iv)    supervise the management of the Divestment Business as a distinct and
+                      saleable  entity,  in  accordance  with  paragraphs  9  to 10  of  these
+                  Commitments;
+
+               (v)    with respect to Confidential Information:
+
+                 −  determine all necessary measures to ensure that the Committing
+                           Parties do not after the Effective Date obtain any Confidential
+                        Information relating to the Divestment Business,
+
+                 −  in particular strive for the severing of the Divestment Business’
+                           participation in a central information technology network to the
+                          extent possible, without compromising the  viability of the
+                       Divestment Business,
+
+                 −  make sure that any Confidential Information relating to the
+                       Divestment Business obtained by the Committing Parties before
+                          the Effective Date is eliminated and will not be used by the
+                      Committing Parties and
+
+                 −  decide whether such information may be disclosed to or kept by
+                          the Committing Parties as the disclosure is reasonably necessary
+                           to allow the Committing Parties to carry out the divestiture or as
+                          the disclosure is required by law;
+
+                 (vi)   monitor the splitting of assets and the allocation of Personnel between the
+                    Divestment  Business  and  the  Committing   Parties  or   Affiliated
+                     Undertakings;
+
+        (c)    propose to the Committing Parties such measures as the Monitoring Trustee
+              considers necessary to ensure the Committing  Parties’ compliance with the
+              conditions and obligations attached to the Decision, in particular the maintenance
+              of the full economic viability, marketability or competitiveness of the Divestment
+              Business, the holding separate of the Divestment Business and the non-disclosure
+              of competitively sensitive information;
+
+        (d)    review and assess potential purchasers as well as the progress of the divestiture
+              process and verify that, dependent on the stage of the divestiture process:
+
+                   (i)     potential purchasers receive sufficient and correct information relating to
+                      the Divestment Business and the Personnel in particular by reviewing, if
+                       available, the data room documentation, the information memorandum and
+                      the due diligence process, and by ensuring their access to a confidential
+                     version (or a meaningful non-confidential) version of the Commitments,
+                   and
+
+
+                                              12
+
+[PÁGINA PDF 13]
+Non-confidential version
+
+
+                    (ii)     potential purchasers are granted reasonable access to the Personnel and Key
+                     Personnel;
+
+        (e)     act as a contact point for any requests by third parties, in particular potential
+               purchasers, in relation to the Commitments;
+
+         (f)     provide to the Commission, sending the Committing Parties a non-confidential
+            copy at the same time, a written report within 15 days after the end of every month
+                that shall cover the operation and management of the Divestment Business as well
+              as the splitting of assets and the allocation of Personnel so that the Commission can
+               assess whether the business is held in a manner consistent with the Commitments
+            and the progress of the divestiture process as well as potential purchasers. The
+            Committing Parties shall neither receive nor comment on draft reports that the
+             Monitoring Trustee prepares for the purposes of reporting to the Commission:
+
+        (g)    promptly report in writing to the Commission, sending the Committing Parties a
+               non-confidential copy at the same time, if it concludes on reasonable grounds that
+               the Committing  Parties  is  failing to comply with these Commitments. The
+            Committing Parties shall neither receive nor comment on draft reports that the
+             Monitoring Trustee prepares for the purposes of reporting to the Commission;
+
+        (h)    promptly report in writing to the Commission as soon as it becomes aware of
+               potential exposure to a Conflict of Interest appearing  after  its appointment,
+              including if it becomes aware of any potential lack of independence or Conflict of
+                Interest with any purchaser participating in the sale process;
+
+         (i)     to the extent that the Commitments include transitional services agreements,
+              support for projects under development, or the obligation to supply certain inputs,
+              products or services, assess that these obligations are satisfactorily reflected in the
+               sale and purchase agreement and other transaction documents, and inform the
+            Commission  promptly  of  any  deviation  from  the  terms  included  in  the
+            Commitments or approved by the Commission or any dispute as to the compliance
+              with such terms during the full duration of the agreement;
+
+         (j)    promptly report in writing to the Commission risks of degradation of the value or
+              operation of the Divestment Business, or risks that the Purchaser does not or is not
+              able to carry out or maintain investments that are essential for the viability of the
+             Divestment Business;
+
+        (k)    within [Confidential aspects of the implementation of the commitments] after
+               receipt  of  the documented  proposal  referred  to  in  paragraph 20  of  these
+            Commitments, submit to the Commission, sending the Committing Parties a non-
+               confidential copy at the same time, a reasoned opinion as to the suitability and
+             independence of the proposed purchaser and the viability of the Divestment
+             Business after the sale and as to whether the Divestment Business is sold in a
+            manner consistent with the conditions and obligations attached to the Decision, in
+                particular, if relevant, whether the Sale of the Divestment Business without one or
+
+
+
+                                              13
+
+[PÁGINA PDF 14]
+Non-confidential version
+
+
+            more Assets or not all of the Personnel affects the viability of the Divestment
+             Business after the sale, taking account of the proposed purchaser;
+
+         (l)    remain throughout the term of the Commitments a point of contact for the
+            Committing Parties, potential purchasers, the Purchaser, the Commission and any
+               other interested third party, in case of issues arising from the implementation and
+             monitoring of the Commitments, including by producing ad hoc reports upon
+               request of the Commission;
+
+      (m)    contact potential purchasers that submitted a bid for the Divestment Business and
+              ask for relevant information;
+
+        (n)    assume the other functions assigned to the Monitoring Trustee under the conditions
+            and obligations attached to the Decision.
+
+32.     If the Monitoring and Divestiture Trustee are not the same legal or natural persons, the
+       Monitoring Trustee and the Divestiture Trustee shall cooperate closely with each other
+       during and for the purpose of the preparation of the Trustee Divestiture Period in order to
+         facilitate each other’s tasks.
+
+              Duties and obligations of the Divestiture Trustee
+
+33.    Within the Trustee Divestiture Period, the Divestiture Trustee shall sell at no minimum
+       price the Divestment Business to a purchaser; provided that the Commission has approved
+       both the purchaser and the final binding sale and purchase agreement (and ancillary
+       agreements) as  in  line with the Commission’s Decision and the Commitments  in
+       accordance with paragraphs 19 and 20 of these Commitments. The Divestiture Trustee
+        shall include in the sale and purchase agreement (as well as in any ancillary agreements)
+       such terms and conditions as it considers appropriate for an expedient sale in the Trustee
+       Divestiture Period. In particular, the Divestiture Trustee may include in the sale and
+       purchase agreement such customary representations and warranties and indemnities as are
+       reasonably required to effect the sale. The Divestiture Trustee shall protect the legitimate
+        financial  interests  of  the Committing  Parties,  subject  to  the Committing  Parties’
+       unconditional obligation to divest at no minimum price (including at a negative price if
+       considered appropriate and reasonably required) in the Trustee Divestiture Period.
+
+34.    In the Trustee Divestiture Period (or otherwise  at the Commission’s  request), the
+       Divestiture Trustee shall provide the Commission with a comprehensive monthly report
+       written in English on the progress of the divestiture process. Such reports shall be submitted
+       within 15 days after the end of every month with a simultaneous copy to the Monitoring
+       Trustee and a non-confidential copy to the Committing Parties.
+
+          III.    Duties and obligations of the Committing Parties
+
+35.   The Committing Parties shall provide and shall cause their respective advisors to provide
+       the Trustee with all such co-operation, assistance and information as the Trustee may
+       reasonably require to perform its tasks. The Trustee shall have full and complete access to
+      any of the Committing Parties’ or the Divestment Business’ books, records, documents,
+
+
+                                              14
+
+[PÁGINA PDF 15]
+Non-confidential version
+
+
+      management or other personnel, facilities, sites and technical information necessary for
+        fulfilling its duties under the Commitments and the Committing Parties and the Divestment
+       Business shall provide the Trustee upon request with copies of any document. The
+      Committing Parties and the Divestment Business shall make available to the Trustee one
+       or more offices on their premises and shall be available for meetings in order to provide
+       the Trustee with all information necessary for the performance of its tasks.
+
+36.   The Committing Parties shall provide the Monitoring Trustee with all managerial and
+       administrative support that it may reasonably request on behalf of the management of the
+       Divestment Business. This shall include all administrative support functions relating to the
+       Divestment Business which are currently carried out at headquarters level. The Committing
+        Parties shall provide and shall cause their respective advisors to provide the Monitoring
+       Trustee, on request, with the information submitted to potential purchasers, in particular
+       give the Monitoring Trustee access to the data room documentation and  all other
+       information  granted  to  potential  purchasers  in  the due  diligence  procedure. The
+      Committing Parties shall inform the Monitoring Trustee on possible purchasers, submit
+         lists of potential purchasers at each stage of the selection process, including the offers made
+      by potential purchasers at those stages, and keep the Monitoring Trustee informed of all
+      developments in the divestiture process.
+
+37.   The Committing  Parties  shall  grant  or  procure  Affiliated  Undertakings  to  grant
+      comprehensive powers of attorney, duly executed, to the Divestiture Trustee to effect the
+        sale (including ancillary agreements), the Closing and all actions and declarations which
+       the Divestiture Trustee considers necessary or appropriate to achieve the sale and the
+       Closing, including the appointment of advisors to assist with the sale process. Upon request
+       of the Divestiture Trustee, the Committing Parties shall cause the documents required for
+        effecting the sale and the Closing to be duly executed.
+
+38.   The Committing Parties shall indemnify the Trustee and its employees and agents (each an
+       'Indemnified Party') and hold each Indemnified Party harmless against, and hereby agree
+        that an Indemnified Party shall have no liability to the Committing Parties for, any
+         liabilities arising out of the performance of the Trustee’s duties under the Commitments,
+       except to the extent that such liabilities result from the wilful default, recklessness, gross
+       negligence or bad faith of the Trustee, its employees, agents or advisors.
+
+39.    At the expense of the Committing Parties, the Monitoring Trustee may appoint advisors
+        (in particular for corporate finance or legal advice), subject to the Committing Parties’
+       approval (this approval not to be unreasonably withheld or delayed) if the Monitoring
+       Trustee considers the appointment of such advisors necessary or appropriate for the
+       performance of its duties and obligations under the Mandate; provided that any fees and
+       other expenses incurred by the Monitoring Trustee are in line with business practice.
+      Should the Committing Parties refuse to approve the advisors proposed by the Monitoring
+       Trustee the Commission may approve the appointment of such advisors instead, at the
+       expense of the Committing Parties, after having heard the Committing Parties. Only the
+       Trustee shall be entitled to issue instructions to the advisors. Paragraph 38 of these
+      Commitments  shall apply mutatis mutandis. In the Trustee Divestiture Period, the
+       Divestiture Trustee may use advisors who served the Committing Parties during the
+
+
+
+                                              15
+
+[PÁGINA PDF 16]
+Non-confidential version
+
+
+       Divestiture Period  if the Divestiture Trustee considers this in the best interest of an
+       expedient sale. At the expense of the Committing Parties, the Divestiture Trustee may
+       appoint advisors  (in  particular  for corporate finance or  legal advice), without the
+      Committing Parties’ approval if the Divestiture Trustee considers the appointment of such
+       advisors necessary or appropriate for the performance of its duties and obligations under
+       the Mandate, provided that any fees and other expenses incurred by the Divestiture Trustee
+       are in line with business practice.
+
+40.   The Committing Parties agree that the Commission may share Confidential Information
+       proprietary to the Committing Parties with the Trustee. The Trustee shall not disclose such
+       information and the principles contained in Article 17 (1) and (2) of the Merger Regulation
+       apply mutatis mutandis.
+
+41.   The Committing Parties agree that the contact details of the Monitoring Trustee are
+       published on the website of the Commission’s Directorate-General for Competition and
+       they shall inform interested third parties, in particular any potential purchasers, of the
+        identity and the tasks of the Monitoring Trustee. The Committing Parties agree that the
+       contact details of the Divestiture Trustee are published on the website of the Commission’s
+       Directorate-General for Competition upon the commencement of the Trustee Divestiture
+       Period begins.
+
+42.    For a period of 10 years from the Effective Date the Commission may request  all
+       information from the Committing Parties that is reasonably necessary to monitor the
+        effective implementation of these Commitments.
+
+       IV.    Replacement, discharge and reappointment of the Trustee
+
+43.     If the Trustee ceases to perform its functions under the Commitments or for any other good
+       cause, including for failure to comply with the requirements in paragraph 24:
+
+        (a)     the Commission may, after hearing the Trustee and the Committing Parties, require
+               the Committing Parties to replace the Trustee; or
+
+        (b)     the Committing Parties may, with the prior approval of the Commission, replace
+               the Trustee.
+
+44.     If the Trustee is removed according to paragraph 43 of these Commitments, the Trustee
+     may be required to continue in its function until a new Trustee is in place to whom the
+       Trustee has effected a full hand over of all relevant information. The new Trustee shall be
+       appointed in accordance with the procedure referred to in paragraphs 22-29 of these
+      Commitments.
+
+45.    Unless removed according to paragraph 43 of these Commitments, the Trustee shall cease
+        to act as Trustee only after the Commission has discharged it from its duties after all the
+      Commitments with which the Trustee has been entrusted have been implemented.
+      However, the Commission may at any time require the reappointment of the Monitoring
+       Trustee if it subsequently appears that the relevant remedies might not have been fully and
+       properly implemented.
+
+
+                                              16
+
+[PÁGINA PDF 17]
+Non-confidential version
+
+
+Section F.    Interpretation of the Commitments
+
+46.    In case of a conflict between the wording of the text of the present Commitments and the
+       contractual instruments executed by the Committing Parties, the Purchaser or any other
+       party  for  the  purposes  of  implementing  the Commitments,  the wording  of  the
+      Commitments shall prevail, without prejudice to the fact that the interpretation of the
+      Commitments shall take into account the solution that is more favourable to the Divestment
+       Business. Deviations from the Commitments in such contractual instruments are only valid
+          if they have been expressly approved by the Commission. A clause implementing this
+       paragraph should be included in the contractual instruments executed by the Committing
+        Parties.
+
+Section G.   Dispute Resolution Procedure
+
+47.   The following dispute resolution procedure applies in case of conflict between the
+      Committing Parties and the Purchaser in relation to the Commitments.
+
+48.   The Committing Parties and the Purchaser shall appoint a panel of experts (the ‘Experts’).
+       This panel shall comprise:
+
+        (a)    one expert appointed jointly by the Committing Parties;
+
+        (b)    one expert appointed by the Purchaser; and
+
+        (c)    one expert appointed by the two experts appointed under (a) and (b) provided that
+                    if they  fail to appoint the  third expert within 15 working days from  their
+              appointment, either the Committing Parties or the Purchaser may request the
+             Monitoring Trustee to appoint the third expert, provided that each person so
+              appointed shall be independent of the Committing Parties and the Purchaser, and a
+               suitably qualified and experienced expert.
+
+49.   The process shall be conducted in private and shall be confidential but under supervision
+       of the Monitoring Trustee. The language of the process shall be English.
+
+50.   The Experts shall act on the following basis:
+
+        (a)     the Experts shall act fairly and impartially;
+
+        (b)    each party shall submit to the Experts its brief and its submission in relation to the
+              matter in dispute within 5 working days of the Experts’ appointment;
+
+        (c)     the Experts shall decide the procedure to be followed within 5 working days of their
+              appointment, which may be the rules of arbitration under the ICC;
+
+        (d)     the Committing Parties and the Purchaser shall assist and provide documentation
+              as the Experts reasonably requires to consider the matters referred to them;
+
+        (e)     decisions of the Experts shall be based on majority votes of the panel;
+
+
+
+                                              17
+
+[PÁGINA PDF 18]
+Non-confidential version
+
+
+         (f)     the Experts’ determination in relation to any matter referred to them shall be given
+              within a maximum period of one month of the Experts’ appointment;
+
+        (g)     the Experts’ determination in relation to any matter referred to them shall (save for
+              manifest error or fraud) be final and binding on the Committing Parties and the
+              Purchaser;
+
+        (h)    any challenge to the Experts’ determination shall be made in the courts of the
+              Netherlands;
+
+         (i)    each party shall carry out the actions required to comply with the obligations set
+              out in the Experts’ determination in relation to any matter pursuant referred to them
+              within any time-limits specified by the Experts; and
+
+         (j)     the Experts shall determine how and by whom the costs of the determination in
+                relation to any matter referred to it including the fees and expenses of the Experts
+               are to be paid.
+
+51.   The Commission shall be allowed and enabled to participate in all stages of the dispute
+       resolution procedure by:
+
+        (a)     receiving all written submissions (including documents and reports, etc.) made by
+               the Committing Parties and the Purchaser to the procedure;
+
+        (b)    receiving all documents exchanged by the Experts with the Committing Parties and
+               the Purchaser to the procedure;
+
+        (c)     filing any written submissions; and
+
+        (d)    being present at the hearing(s) and being allowed to ask questions.
+
+52.   The Experts shall forward, or shall order the Committing Parties and the Purchaser to
+       forward, the documents mentioned to the Commission without delay.
+
+53.   The Monitoring Trustee shall receive copies of:
+
+        (a)      all submissions made by the Committing Parties and the Purchaser in relation to
+               the matters they wish to have resolved by the Experts, on the day when these have
+             been submitted to the Experts;
+
+        (b)      all other documentation provided by the Committing Parties and the Purchaser, on
+               the day when these have been submitted to the Experts; and
+
+        (c)     the determination made by the Experts, on the day when the determination has been
+             provided to the Committing Parties and the Purchaser.
+
+       This dispute resolution procedure is without prejudice to any other rights and remedies that
+     may be available to the Committing Parties and the Purchaser as the case may be in respect
+
+
+
+                                              18
+
+[PÁGINA PDF 19]
+Non-confidential version
+
+
+       of any breach of the transaction documents. This procedure is also without prejudice to any
+      Commission decision related to the compliance of the Committing Parties with the
+      Commitments.
+
+Section H.   The review clause
+
+54.   The Commission may extend the time periods foreseen in the Commitments in response to
+       a request from the Committing Parties or, in appropriate cases, on its own initiative. Where
+       the Committing Parties request an extension of a time period, it shall submit a reasoned
+       request to the Commission no later than one month before the expiry of that period,
+      showing good cause. This request shall be accompanied by a report from the Monitoring
+       Trustee, who shall, at the same time send a non-confidential copy of the report to the
+      Committing Parties. Only in exceptional circumstances shall the Committing Parties be
+        entitled to request an extension within the last month of any period.
+
+55.   The Commission may further, in response to a reasoned request from the Committing
+        Parties, showing good cause waive, modify or substitute, in exceptional circumstances, one
+       or more of the undertakings in these Commitments. This request shall be accompanied by
+       a report from the Monitoring Trustee, who shall, at the same time send a non-confidential
+      copy of the report to the Committing Parties. The request shall not have the effect of
+       suspending the application of the undertaking and, in particular, of suspending the expiry
+       of any time period in which the undertaking has to be complied with.
+
+Section I.    Entry into force
+
+56.   The Commitments shall take effect upon the date of adoption of the Decision.
+
+
+
+   ……………………………………
+
+       duly authorised for and on behalf of
+
+       Universal Music Group N.V.
+
+
+
+   ……………………………………
+
+       duly authorised for and on behalf of
+
+     Downtown Music Holdings LLC
+
+
+
+
+
+                                              19
+
+[PÁGINA PDF 20]
+Non-confidential version
+
+
+                SCHEDULE– DIVESTMENT BUSINESS
+
+1.    The Divestment Business as operated to date has the following legal and functional
+        structure:
+
+        (a)    General. The Divestment Business comprises the Curve royalty accounting
+               business. Curve is a royalty accounting software platform used by record labels and
+               publishers. Curve focuses on the following core activities: royalty processing,
+               royalty accounting services, publishing registration and payments.
+
+        (b)    Legal structure. The legal entity to be divested will be Curve Royalty Systems,
+                Ltd., which is incorporated in the United Kingdom and has its registered office at
+            7 Bell Yard, London WC2A 2JR, United Kingdom.
+
+        (c)    Functional Structure. The Divestment Business is managed by Richard Leach,
+               President of Curve. A high-level organization chart is shown at Figure 1 below, and
+           Annex 1 (Commitments) provides an overview of Downtown’s broader corporate
+               structure as of 16 July 2025.
+
+               [Confidential organizational chart of the Divestment Business]
+
+2.     In accordance with paragraph 5 of these Commitments, the Divestment Business includes,
+       but is not limited to:
+
+        (a)    the following main tangible assets:
+
+                             i.  Offices. None. The Divestment Business does not own or lease any office
+                    space given that the majority of its employees are remote workers. Curve’s
+                       registered office is not office space owned or leased by the Divestment
+                     Business.
+
+                            ii. Other assets. IT hardware used by the Divested Business (i.e., laptops and
+                      peripherals used by the Personnel).
+
+        (b)    the following main intangible assets:
+
+                             i.  Patents. None. The Divestment Business does not hold any patents.
+
+                            ii. Trademarks  and  Trademarks  applications.  All  trademarks  and
+                    trademark applications owned by Curve, i.e., the "Curve" mark (including
+                      the pending trademark registration in the UK).
+
+                          iii.  All other intangible assets. Any other intangible assets required to deliver
+                      royalty accounting services through the Curve Platform will also be
+                       divested.  This  includes  Curve’s domain  registrations, AWS  hosting
+                    environment and the source code, data and algorithms relating to Curve’s
+                      royalty accounting platform.
+
+
+
+
+                                              20
+
+[PÁGINA PDF 21]
+Non-confidential version
+
+
+                     iv.  Sales. All sales resources and operations.
+
+        (c)    the following main licenses, permits and authorizations:
+
+                             i.  Licenses. The Curve Platform is used exclusively by Curve and Curve
+                       licenses the platform on a non-exclusive basis to its customers, whether
+                      external or to group affiliates.
+
+        (d)    the  following  main  contracts,  agreements,  leases,  commitments  and
+             understandings:
+
+                             i. Customer contracts. All customer contracts, relationships and associated
+                     records pertaining to the provision of royalty accounting services to Curve
+                   Customers as well as the [Confidential information on a customer contract
+                  which forms part of the Divestment Business]. A list of the top 10 Curve
+                   Customers (excluding intercompany agreements) for 2024 and 2025 is set
+                     out in Annex 2 (Commitments).
+
+                      [Confidential information on a customer contract which forms part of the
+                    Divestment Business]
+
+                To the extent Curve Customers choose to return for royalty accounting
+                      services to the Committing Parties after transferring with the Divestment
+                    Business  or  if new  distribution  (digital  or  physical),  publishing,  or
+                    neighbouring rights customers of the Committing Parties require ancillary
+                      royalty accounting services (i.e. not on a standalone basis) post-Closing, the
+                   Committing Parties shall have the option to obtain these services from the
+                     Purchaser under the [Confidential information on a customer contract which
+                   forms part of the Divestment Business]. These provisions will be captured
+                       in the purchase agreement or equivalent.
+
+                            ii. Vendor  Agreements.  Vendor  contracts  that  relate  exclusively  or
+                    predominantly to the Divestment Business’ operations – such as those for
+                    cloud hosting and storage, payment services and outsourced technical
+                    development. These contracts will be transferred to the Purchaser, subject
+                       to the consent of the applicable vendor  (if required). The Divestment
+                    Business also includes certain shared vendor contracts, i.e., agreements that
+                     support both the Divestment Business and the retained business. With
+                      respect to these shared vendor contracts, the Committing Parties will
+                     cooperate in good faith and use best efforts to (i) enter into new, stand-alone
+                    agreements with the relevant vendors; or (ii) transfer the rights under the
+                       existing  contracts  to the Purchaser,  to the extent they  relate  to the
+                    Divestment Business. A  list of Curve vendor contracts with a value
+                    exceeding GBP 6,000 is set out in Annex 3 (Commitments).
+
+        (e)    the following customer, credit and other records:
+
+
+
+
+
+                                              21
+
+[PÁGINA PDF 22]
+Non-confidential version
+
+
+                             i. Customer records. All documentation and data (irrespective of the date of
+                    such data) relating to Curve Customers and former Curve customers whose
+                      data Curve still retains. This includes, but is not limited to, commercial
+                     correspondence,  contractual  and  billing  records,  configuration  and
+                       integration files, implementation and onboarding documentation, technical
+                       specifications, usage  statistics, and  all  other  operational  information
+                      required to ensure the uninterrupted provision of services and the full
+                   commercial continuity of the Divestment Business. Such data, which cannot
+                     include any data on the relationship between an artist and its record label,
+                       will only be retained by the Committing Parties following the divestment
+                  where  it  is required by law  (e.g., jurisdictions requiring retention of
+                       financial and accounting records for a period of time for companies to fulfil
+                         their applicable tax and corporate obligations).
+
+                            ii.  Credit and other records. All business records, books of accounts,
+                       financial records, and tax records; and all information, including pricing
+                      information, account histories, research data and commercial data used
+                      exclusively or predominantly for the Divestment Business.
+
+         (f)    the following Personnel:  Subject  to  their  consent,  all Personnel  currently
+            employed by the Divestment Business, including all personnel working on Curve
+          who are employed by other Downtown or third-party  entities. This includes
+               currently  [Confidential  details on  employees  of  the  Divestment  Business]
+              employees/contractors  across  engineering,  technical  support,  development,
+             customer management, product/project management, and sales. The individuals in
+               these roles are capable of effectively operating the Divestment Business as a
+               standalone, competitive business from the outset.
+
+        (g)    the following Key Personnel: Subject to their consent and at the option of the
+              Purchaser, the following Key Personnel, as the most senior individuals involved in
+               the Divestment Business:
+
+                             i.  [Confidential details on Key Personnel of the Divestment Business]
+
+                            ii.  [Confidential details on Key Personnel of the Divestment Business]
+
+                          iii.  [Confidential details on Key Personnel of the Divestment Business]
+
+                     iv.  [Confidential details on Key Personnel of the Divestment Business]
+
+                    v.  [Confidential details on Key Personnel of the Divestment Business]
+
+                     vi.  [Confidential details on Key Personnel of the Divestment Business]
+
+        A list of Key Personnel and Personnel is set out at Annex 4 (Commitments). All
+              personnel required to effectively operate the Divestment Business will transfer with
+               the Divestment Business.
+
+
+
+
+                                              22
+
+[PÁGINA PDF 23]
+Non-confidential version
+
+
+        (h)    the arrangements for the supply with the following products or services by
+          Downtown or Affiliated Undertakings for a transitional period of up to
+               [Confidential information on timing] after Closing: The Committing Parties
+            commit to enter into a transitional service agreement (TSA) covering central
+              corporate services currently shared across the Downtown and FUGA organisations.
+             These services include elements of Human Resources, Finance and Accounting,
+              Legal, IT, and Compliance. None of these shared services are essential to the
+             ongoing viability of the Divestment Business, and equivalent services can be
+               readily replicated by the Purchaser or outsourced under standard commercial
+              arrangements. However, to ensure operational continuity, the Committing Parties
+               will make these services available to the Purchaser for a limited period following
+             Closing under TSAs. These TSAs will be time-limited and shall not exceed
+               [Confidential information on timing] months in duration. The specific transitional
+               services to be provided are as follows:
+
+                             i. Human  Resources, Finance and Accounting  services:  transitional
+                     support for certain central corporate services currently offered to the
+                    Divestment Business by Downtown, where such services cannot be readily
+                     outsourced. This includes specific operational functions such as closing
+                       financial periods and operational payroll services which are necessary to
+                     ensure continuity during the transition.
+
+                            ii.  Misdirected Cash Payments: transitional support for settlement of any
+                    cash that is erroneously sent to Downtown instead of the Purchaser.
+
+                          iii.  IT: transitional IT support to assist the Purchaser during its migration to
+                    independent systems. This includes maintenance related to enterprise IT
+                    systems currently shared between Downtown and the Divestment Business.
+                       Specifically, Curve shares Salesforce as a CRM tool with other Downtown
+                          entities, while Slack and Airtable are centrally managed by Downtown.
+                  Hardware procurement and initial setup (including OneLogin and Google
+                   Workspace) are handled by FUGA’s IT team.
+
+                     iv. Data migration: transitional support to assist the Purchaser in extracting
+                      data from Downtown’s systems. This includes delivering the relevant data
+                   and offering guidance on data fields, formats and entries.
+
+                    v. Knowledge  transfer:  reasonable  transitional  support  to   facilitate
+                  knowledge transfer during the integration period. This includes responding
+                       to Purchaser inquiries where Downtown  is best positioned to provide
+                        clarification or guidance.
+
+           As noted above, the Committing Parties will implement appropriate safeguarding
+             measures to ensure that they will not have access to third-party data held on the
+            Curve Platform while providing transitional services under the TSA.
+
+
+
+
+
+                                              23
+
+[PÁGINA PDF 24]
+Non-confidential version
+
+
+         (i)    License-back arrangement: the Purchaser shall grant the Committing Parties a
+               license (without any data of the Curve Customers) enabling the Committing Parties
+               to continue to use the Curve Platform for internal purposes / use cases for a period
+              of up to [Confidential information on timing]. During this period, the Purchaser
+               will provide  sufficient (tech) support, including personnel and resources, to
+              maintain the internal purposes / use cases required by the Committing Parties with
+               relevant details to be set out in a service level agreement.
+
+3.    The Divestment Business shall not include:
+
+        (a)    Non-dedicated employees: Annex 5 (Commitments) provides an overview of
+              non-dedicated employees who will not transfer as part of the Divestment Business.
+             These individuals are employees of FUGA or Downtown group who currently
+              support Curve on a part-time basis (typically between [Confidential details on
+             employees of the Divestment Business] of their time) and whose services are
+             charged to Curve via a flat monthly management fee. Any tasks currently performed
+            by non-dedicated employees will either be assumed by the transferring Personnel,
+             handled by the Purchaser, or covered under a TSA offered by the Committing Parties
+                for a period of up to [Confidential information on timing] post-Closing, allowing
+               the Divestment Business sufficient time to internalise or outsource these functions
+              without any disruption to its operations.
+
+4.       If there is any asset or personnel which is not covered by paragraph 2 of this Schedule but
+      which contribute to the current operation (and are not excluded pursuant to paragraph 3 of
+        this Schedule) and  is necessary to ensure the viability and competitiveness of the
+       Divestment Business, that asset, personnel, or adequate substitute will be offered to
+        potential purchasers.
+
+
+
+
+
+                                              24
+
+[PÁGINA PDF 25]
+Non-confidential version
+
+
+            Annex 1 (Commitments) – Downtown Corporate Structure
+
+                                  […]
+
+
+
+           Annex 2 (Commitments) - Top 10 Curve Customers 2024–2025
+
+                                  […]
+
+
+
+              Annex 3 (Commitments) – List of Vendor Agreements
+
+                                  […]
+
+
+
+             Annex 4 (Commitments) – Key Personnel and Personnel
+
+                                  […]
+
+
+
+            Annex 5 (Commitments) – List of Non-Dedicated Employees
+
+                                  […]
+
+
+
+
+
+                                              25

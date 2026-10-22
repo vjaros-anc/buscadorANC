@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "b53abc04bf0b3333ded1406caa053879307f729064c51043a8a0cf97dd26f569",
+  "extraido_utc": "2026-10-22T19:44:55+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11956_DICT_02",
+      "caso": "M.11956",
+      "universo": "principal",
+      "titulo": "Informe final del Consejero Auditor — UMG / DOWNTOWN",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202617/M_11956_5591.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202617/M_11956_5591.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11956/M.11956_DICT_02_b53abc04bf0b.pdf",
+      "sha256": "b53abc04bf0b3333ded1406caa053879307f729064c51043a8a0cf97dd26f569",
+      "coincide_inventario": "",
+      "bytes": "145618",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202617/M_11956_5591.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "               EUROPEAN COMMISSION\n\n\n                                 Hearing Officer for competition proceedings\n\n            Final Report of the Hearing Officer (1)\n          Case M.11956 – UMG / DOWNTOWN\n\n    1. On 16 June 2025, following a referral pursuant to Article 22 of the Merger\n       Regulation, (2) the Commission received a notification of a proposed transaction\n       pursuant to Article 4 of the Merger Regulation by which Universal Music Group\n      N.V.  (the  ‘Notifying  Party’)  intends  to  acquire  within  the  meaning  of\n        Article 3(1)(b) of the Merger Regulation sole control of the whole of Downtown\n      Music Holdings LLC (together the ‘Parties’).\n\n    2. On 22 July 2025, the Commission adopted a decision initiating proceedings\n       pursuant to Article 6(1)(c) of the Merger Regulation and finding that the proposed\n        transaction raised serious doubts as to its compatibility with the internal market\n      and  with  the  functioning  of  the EEA  Agreement. On 20 August  2025,\n       the Notifying Party submitted written comments on the Article 6(1)(c) decision.\n\n    3. On 24 July 2025, the deadline was extended by 10 working days in accordance\n       with Article 10(3) second subparagraph, first sentence of the Merger Regulation.\n\n    4. On 3 September 2025, the Commission issued two decisions, on the basis of\n        Article 11(3) of the Merger Regulation, to each Party suspending the time limit\n        referred to in Article 10(3) of the Merger Regulation from 2 September 2025. The\n       time limit resumed on 20 October 2025.\n\n    5. On 24 November 2025, the Commission issued a statement of objections (‘SO’)\n       concluding  on  a  preliminary  basis  that  the  proposed  transaction  would\n        significantly impede effective competition in a substantial part of the internal\n       market.\n\n    6. On 8 December 2025, the Notifying Party submitted written comments  in\n       response to the SO. They did not ask for an Oral Hearing.\n\n    7.  Access to file was first provided on 24 November 2025 in connection with the\n       issue of the SO. Subsequent access to file was provided on 25 November 2025,\n      19 December 2025, 23 December 2025, 30 January 2026 and 4 February 2026.\n         I have not received any complaints or requests concerning access to file.\n\n    8.  Throughout the proceedings, I admitted two interested third persons, pursuant to\n        Article 5 of Decision 2011/695/EU. DG Competition informed the interested\n\n(1)  Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission\n    of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition\n    proceedings, OJ L 275, 20.10.2011, p. 29 (‘Decision 2011/695/EU’).\n(2)  Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between\n    undertakings,OJ L 24, 29.1.2004, p. 1 (‘the Merger Regulation’).",
+      "caracteres": 2968,
+      "caracteres_utiles": 2123,
+      "cobertura_imagen_maxima": 0.0115,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Final Report in Case M.11956 – UMG / DOWNTOWN\n\n        third persons about the nature and subject matter of the procedure, in accordance\n       with Article 16(1) of the Merger Implementing Regulation,(3) by providing them\n       with a non-confidential version of the SO. A third application to be admitted as\n        interested third person became obsolete after exchanges with the team of the\n       Hearing  Officer,  clarifying the purpose pursued by the application and  re-\n        directing the applicant to pertinent contact points.\n\n    9. On 11 December 2025, the Parties submitted a first set of commitments with\n       a view  to rendering  the  concentration compatible with  the  internal market\n       pursuant to Article 8(2) of the Merger Regulation (the ‘Initial Commitments’).\n      The Commission  launched  a  market  test  of  the  Initial Commitments on\n      12 December 2025.\n\n    10. The Commission gave the Parties detailed feedback on the outcome of the market\n         test on 22 December 2025.\n\n    11. On 15 January 2026, the Parties submitted a revised and final set of commitments\n        (the ‘Final Commitments’).\n\n    12. The draft decision declares the proposed transaction compatible with the internal\n      market  and  the EEA  Agreement,  subject  to  compliance  with  the  Final\n      Commitments.\n\n    13. I have reviewed  the  draft  decision pursuant  to  Article 16(1)  of Decision\n      2011/695/EU and I conclude that it deals only with objections in respect of which\n       the Parties have been afforded the opportunity of making their views known.\n\n    14. Overall, I consider that the effective exercise of the Parties’ procedural rights has\n      been respected.\n\n       Brussels, 5 February 2026\n\n\n                                                   Dorothe DALHEIMER\n                                                     Hearing Officer\n\n\n\n\n\n(3)  Commission Implementing Regulation (EU) 2023/914 of 20 April 2023 implementing Council\n    Regulation (EC) No 139/2004 on the control of concentrations between undertakings and repealing\n    Commission Regulation (EC) No 802/2004, OJ L 119, 5.5.2023, p. 22 (the ‘Merger Implementing\n    Regulation’).\n\n\n                                                     2",
+      "caracteres": 2259,
+      "caracteres_utiles": 1532,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

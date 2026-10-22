@@ -1,0 +1,458 @@
+[PÁGINA PDF 1]
+             COMMISSION EUROPÉENNE
+                 DG Concurrence
+
+
+
+                      Cas M.9969 – VEOLIA/SUEZ
+
+
+
+
+                    Le texte en langue française est le seul disponible et faisant foi.
+
+
+              RÈGLEMENT (CE) n° 139/2004
+               SUR LES CONCENTRATIONS
+
+
+Rejet de la demande d’agir en vertu des articles 7(1) et 8(5)
+                                            date: 17/12/2020
+
+[PÁGINA PDF 2]
+               COMMISSION EUROPÉENNE
+
+
+
+                                                    Bruxelles, le 17.12.2020
+                                                      C(2020) 8969 final
+                                 VERSION PUBLIQUE
+
+                                          Suez S.A.
+                                       Tour CB21, 16 place de l’Iris,
+                                           92040 Paris La Défense Cedex
+                                           France
+
+
+Mesdames, Messieurs,
+
+
+Objet :        Affaire M.9969 – Veolia / Suez
+              Décision de la Commission rejetant la demande de Suez concernant une
+             prétendue violation de l’article 7, paragraphe 1, du Règlement du
+              Conseil No 139/2004.
+
+
+1.    FAITS ET PROCÉDURES
+
+(1)   Le 30 août 2020, Veolia Environnement S.A. (« Veolia ») a annoncé son intention
+      de prendre le contrôle exclusif de Suez S.A. (« Suez »). Cette prise de contrôle
+       (« l’Opération ») devait se réaliser en deux étapes :
+
+         -   l’acquisition d’une participation minoritaire non-contrôlante de 29,9 % dans
+         Suez auprès d’Engie S.A. (« Engie »), acquisition réalisée le 6 octobre 2020
+           selon les termes d’un accord conclu entre Veolia et Engie le 5 octobre 2020 ; et
+
+         -   le lancement d’une offre publique d’achat (« OPA ») portant sur le solde des
+           actions de Suez.
+
+(2)   Le 16 octobre 2020, la Commission a reçu une lettre de Suez concernant l’affaire
+      M.9969  -  Veolia/Suez.  Par  cette  lettre, Suez  a  formellement demandé  à  la
+      Commission sur le fondement de l’article 265 du Traité sur le fonctionnement de
+       l’Union européenne (« TFUE ») :
+
+             (a)    de  constater qu’en acquérant une  participation  minoritaire  et non-
+                   contrôlante de 29,9 % du capital de Suez dès le 5 octobre 2020, Veolia
+
+
+
+
+
+Commission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE
+Europese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË
+
+Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.
+
+[PÁGINA PDF 3]
+                     aurait  enfreint  l’article  7, paragraphe  1, du Règlement du Conseil
+             No 139/2004 (le « Règlement »)1 ;
+
+             (b)    d’adopter, en vertu de l’article 8, paragraphe 5, a), du Règlement, des
+                 mesures provisoires à l’encontre de l’acquisition par Veolia de 29,9 %
+                  des titres de Suez précédemment détenus par Engie, ainsi que d’ouvrir
+                une procédure à l’encontre de Veolia en vue de lui infliger une amende,
+                 au titre de l’article 14, paragraphe 2, a) et b), du Règlement.
+
+(3)    Par courrier du 19 novembre 2020, l’équipe en charge du dossier a communiqué son
+       évaluation préliminaire à Suez et a invité Suez à communiquer toute observation
+       supplémentaire dans un délai de cinq jours ouvrés.
+
+(4)    Par  courrier  du  26  novembre  2020,  Suez  a communiqué  ses  observations
+       supplémentaires en réponse à l’évaluation préliminaire des services.
+
+(5)   La Commission considère qu’elle n’est pas juridiquement tenue de statuer sur la
+      demande de Suez concernant une prétendue violation de l’article 7, paragraphe 1, du
+      Règlement. Néanmoins, la présente décision est adoptée dans un souci de clarté dans
+        le cadre de la procédure d’examen de l’Opération.
+
+2.    LE CARACTÈRE UNIQUE DE L’OPÉRATION
+
+     2.1.  Rappel des dispositions applicables
+
+(6)   Le considérant 20 du Règlement stipule qu’« [i]l convient (…) de traiter comme une
+       concentration unique des opérations qui sont étroitement liées en ce qu'elles font
+        l'objet d'un lien conditionnel ou prennent la forme d'une série de transactions sur
+         titres effectuées dans un délai raisonnablement bref ».
+
+(7)    Les critères d’appréciation de l’existence d’une concentration unique, au sens de
+         l’article 3 du Règlement, ont été précisés par le Tribunal dans l’arrêt Cementbouw2,
+       qui  souligne que  la Commission  doit  tenir compte  de  toutes  circonstances
+       spécifiques de fait et de droit « dans un souci de rechercher la réalité économique
+       qui sous-tend les opérations, la finalité économique poursuivie par les parties »3. En
+        particulier,  le  Tribunal  a  précisé qu’« en  présence de  plusieurs  transactions
+       juridiquement  distinctes »  la Commission  doit  identifier  « si  les  entreprises
+       concernées auraient été disposées à conclure chaque transaction prise isolément ou
+          si, au contraire, chaque transaction ne constitue qu'un élément d'une opération plus
+       complexe, sans laquelle elle n'aurait pas été conclue par les parties. En d'autres
+       termes, afin de déterminer le caractère unitaire des transactions en cause, il s'agit,
+      dans chaque cas d'espèce, d'apprécier si ces transactions sont interdépendantes de
+       sorte que l'une n'aurait pas été réalisée sans l'autre »4.
+
+
+
+
+
+1  OJ L 24, 29.1.2004, p.1.
+2   T‑282/02, Cementbouw Handel & Industrie v Commission, EU:T:2006:64.
+3   T‑282/02, Cementbouw Handel & Industrie v Commission, EU:T:2006:64, point 106.
+4   T‑282/02, Cementbouw Handel & Industrie v Commission, EU:T:2006:64, points 106-107.
+
+                                                     2
+
+[PÁGINA PDF 4]
+(8)   La Communication Consolidée sur la compétence de la Commission en vertu du
+      Règlement (la « Communication Consolidée »)5 relève en particulier que le lien
+       conditionnel  peut  être « de  jure » ou « de  facto ».  Afin de  déterminer une
+       conditionnalité de facto, « il convient d'évaluer, sur le plan économique, si chacune
+       des opérations dépend de la réalisation des autres. L'interdépendance d'opérations
+       multiples peut apparaître au vu des déclarations faites par les parties elles-mêmes
+      ou de  la conclusion simultanée des accords en cause; en l'absence de  cette
+       simultanéité, il sera difficile de conclure à l'inter-conditionnalité de fait d'opérations
+        multiples. Une absence manifeste de simultanéité pour des opérations  faisant
+       juridiquement l'objet d'un lien conditionnel sera, elle aussi, de nature à susciter le
+       doute quant à leur véritable interdépendance »6.
+
+     2.2.  Arguments de Suez
+
+(9)   Dans ses observations, Suez affirme que les deux étapes de l’Opération décrites ci-
+       dessus constituent ensemble une opération de concentration unique, soumise dans
+      son entièreté au principe de l’effet suspensif du contrôle des concentrations prévu
+       par l’article 7, paragraphe 1, du Règlement. Ainsi, la mise en œuvre de la première
+       étape intervenue le 5 octobre dernier constituerait une violation manifeste de cette
+        disposition.
+
+(10)   Selon Suez, les deux étapes de l’Opération ne seraient pas réalisées l’une sans l’autre
+        et poursuivent un même objectif économique, c’est-à-dire la prise de contrôle de
+      Suez en vue de créer « le grand champion mondial français de la transformation
+       écologique »7.
+
+     2.3.  Appréciation de la Commission
+
+(11)  Au cas présent, les deux étapes de l’Opération décrites au paragraphe (1) ont été
+      conçues et planifiées simultanément par Veolia pour atteindre le même objectif
+      économique, à savoir l’acquisition du contrôle de Suez.  Il ressort en effet des
+       déclarations publiques  et des présentations internes, dont  la Commission a pu
+       prendre connaissance, de Veolia que cette dernière avait l’intention de réaliser la
+       première étape de l’Opération exclusivement en vue de l’acquisition du contrôle de
+       Suez, dans  le  but de  créer une  entreprise  intégrée  permettant  d’importantes
+       synergies. Même si l’OPA de Suez (i.e., la deuxième étape de l’Opération) devait
+       échouer,  l’acquisition préalable de 29,9 % des  titres de Suez a eu pour  effet
+      d’augmenter significativement les chances de succès d’une telle offre et il découle de
+       ses propres déclarations que Veolia n’aurait pas cherché à acquérir une participation
+      de 29,9 % dans Suez si elle n’avait pas l’intention d’en acquérir le contrôle. Il serait
+      donc artificiel de considérer cette acquisition préalable comme économiquement
+      autonome.
+
+(12)  De même, tandis que Veolia pouvait théoriquement lancer l’OPA sans l’acquisition
+       préalable de la participation de 29,9 % auprès d’Engie, elle n’a pas décidé de le faire
+        et n’a pas exprimé une telle intention. De fait, l’Autorité française des marchés
+
+
+
+5  OJ C 95, 16.4.2008, p. 1.
+6   Communication Consolidée, para. 43.
+7   Communiqué de presse de Veolia du 30 août 2020.
+
+                                                     3
+
+[PÁGINA PDF 5]
+       financiers a souligné que Veolia a exprimé « l’intention de déposer un projet d’offre
+       publique dans l’hypothèse où la proposition qu’elle a adressée à la société Engie
+       d’acquérir 29,9 % du capital de Suez serait acceptée ».8
+
+(13)   Par conséquent, la Commission estime que les deux étapes de l’Opération sont
+       interdépendantes  au  sens  de  la Communication  Consolidée  et du  jugement
+      Cementbouw et constituent une concentration unique.
+
+3.     L’APPLICABILITÉ DE LA DÉROGATION À L’OBLIGATION SUSPENSIVE AU TITRE DE
+      L’ARTICLE 7, PARAGRAPHE 2, DU RÈGLEMENT
+
+     3.1.  Rappel des dispositions applicables
+
+(14)   L’article 7, paragraphe 2, du Règlement dispose que l’obligation suspensive prévue
+      au premier paragraphe de cet article « ne fait pas obstacle à la réalisation d'une offre
+       publique d'achat ou d'échange ou d'opérations par lesquelles le contrôle au sens de
+         l'article 3 est acquis par l'intermédiaire de plusieurs vendeurs au moyen d'une série
+      de transactions sur titres, y compris sur ceux qui sont convertibles en d'autres titres
+      admis à être négociés sur un marché tel qu'une bourse de valeurs pour autant :
+
+             (a)    que  la  concentration  soit  notifiée  sans  délai  à  la  Commission
+                 conformément à l'article 4, et
+
+             (b)    que  l'acquéreur  n'exerce  pas  les  droits  de  vote  attachés  aux
+                    participations concernées ou ne les exerce qu'en vue de sauvegarder la
+                   pleine valeur de son investissement et sur la base d'une dérogation
+                  octroyée par la Commission conformément au paragraphe 3. »
+
+     3.2.  Arguments de Suez
+
+(15)   Suez considère que Veolia ne pouvait se prévaloir d’aucune dérogation au principe
+      de l’effet suspensif du contrôle des concentrations.
+
+(16)  En particulier, Suez estime que la dérogation à l’effet suspensif prévue à l’article 7,
+       paragraphe 2, du Règlement n’était pas applicable à la première étape de l’Opération
+       envisagée par Veolia (c’est-à-dire l’acquisition d’un bloc de 29,9 % des titres de
+      Suez auprès d’Engie), et ne serait pas non plus applicable aux deux étapes de
+       l’Opération envisagées ensemble. Suez soutient qu’une telle dérogation doit être
+        d’interprétation stricte.
+
+(17)   Premièrement, Suez considère que l’acquisition du bloc de 29,9 % des titres de Suez
+       auprès d’Engie ne correspondrait à aucun des cas de figure permettant à Veolia de
+       bénéficier de la dérogation à l’effet suspensif prévue à l’article 7, paragraphe 2, du
+      Règlement. Selon Suez, l’acquisition de gré à gré d’un bloc de titres auprès d’un seul
+       actionnaire n’étant ni une offre publique d’achat, ni une série de transactions sur
+         titres auprès de plusieurs vendeurs, la dérogation ne serait pas applicable. Suez
+
+
+
+
+8   Veolia/Suez : l'AMF considère qu’il n’y a pas lieu de constater l’ouverture d’une préoffre sur les titres de
+     la société Suez, Communiqué de l’Autorité des marchés financiers, 24 septembre 2020.
+
+                                                     4
+
+[PÁGINA PDF 6]
+       considère qu’une telle interprétation du Règlement a été validée par le Tribunal de
+       l’Union européenne dans l’affaire Marine Harvest9.
+
+(18)   Suez soutient par ailleurs que les deux étapes combinées de l’Opération, c’est-à-dire
+         (i) l’acquisition d’un bloc dans le cadre d’une transaction de gré à gré avec Engie et
+          (ii) la réalisation d’une offre publique, ne peuvent pas davantage être qualifiées de
+      « série de  transactions  sur  titres » au  sens de  l’article  7, paragraphe  2, du
+      Règlement. L’Opération, vue dans son ensemble, ne pourrait donc pas non plus
+       bénéficier de la dérogation à l’effet suspensif.
+
+(19)   Selon Suez, une interprétation permettant à Veolia de bénéficier de la dérogation
+      dans le cas présent serait contraire à l’intention du législateur. La référence à une
+      « série de transactions sur titres » dans le Règlement viserait les reprises dites
+      « rampantes » par l’intermédiaire de la bourse, c’est-à-dire l’acquisition du contrôle
+       par le rachat progressif de titres de la cible sur le marché auprès de différents
+       porteurs de titres. Cette hypothèse ne viserait donc pas l’achat d’un bloc de gré à gré
+       à un tiers identifié suivi d’une offre publique réglementés sur le reste des titres, ni
+        l’intervention d’une offre publique après l’obtention de l’autorisation de la prise de
+        contrôle.
+
+(20)   Par ailleurs, Suez soutient que Veolia ne pourrait pas non plus se prévaloir de la
+       dérogation relative à la réalisation d’une offre publique, dans la mesure où Veolia
+       n’envisagerait de lancer son offre publique qu’après la décision d’autorisation de la
+      Commission. La dérogation à l’effet suspensif serait donc sans objet et inapplicable,
+      dans  la mesure où Veolia n’entendrait acquérir  le contrôle de Suez qu’après
+        l’autorisation de la Commission.
+
+(21)   Deuxièmement, Suez soutient que l’objectif de protection de la sécurité juridique,
+       qui fonde  le mécanisme de dérogation prévu à  l’article  7, paragraphe  2, du
+      Règlement, n’est pas en jeu dans le cadre de l’Opération. Selon Suez, la dérogation a
+      pour objectif d’éviter que des acquéreurs puissent se trouver involontairement en
+        situation de violation de l’article 7, paragraphe 1, du Règlement, en acquérant le
+       contrôle de droit ou de fait avant une décision d’autorisation de la Commission. Or,
+      au cas d’espèce, Veolia aurait structuré l’Opération de sorte à ne pas acquérir le
+       contrôle de Suez au  sens du  droit de  la concurrence  avant  d’avoir obtenu
+        l’autorisation de la Commission. Il en résulte que la réalisation de l’Opération ne
+        serait aucunement susceptible de donner lieu à un risque d’insécurité juridique.
+
+(22)   Troisièmement, selon Suez, accorder à l’Opération le bénéfice d’une dérogation à
+        l’effet  suspensif  reviendrait  à  élargir  le champ  d’application  de  l’article  7,
+       paragraphe 2, du Règlement. Or, la dérogation constituant une exception au principe
+       général de l’obligation suspensive, elle doit être d’interprétation stricte, ainsi que l’a
+       rappelé le Tribunal dans l’affaire Marine Harvest.
+
+(23)   Enfin, quatrièmement, Suez  rappelle que  la dérogation accordée au terme de
+         l’article 7, paragraphe 2, du Règlement est conditionnée à l’obligation de notifier la
+       concentration à  la Commission « sans délai ». Selon Suez, cette condition n’a
+
+
+
+
+9   T-704/14, Marine Harvest ASA v Commission, EU:T:2017:753, points 201 et s.
+
+                                                     5
+
+[PÁGINA PDF 7]
+       manifestement pas été remplie, au vu des déclarations de Veolia selon lesquelles
+        celle-ci envisage d’obtenir une décision d’autorisation dans un délai de 12 mois.
+
+     3.3.  Appréciation de la Commission
+
+(24)   Ayant conclu que  les deux étapes de l’Opération formaient une concentration
+       unique, la Commission estime que l’entièreté de celle-ci bénéficie de la dérogation
+      au titre de l’article 7, paragraphe 2, du Règlement. Les arguments présentés par Suez
+      au soutien de sa requête ne peuvent donc être accueillis, au regard des éléments
+        suivants.
+
+(25)  En premier lieu, l’article 7, paragraphe 2, du Règlement s’applique aux situations
+      dans lesquelles le contrôle est acquis auprès de plusieurs vendeurs tant dans le cadre
+      d’une « série de transactions sur  titre » que dans celui d’une « offre publique
+       d’achat ». Aucune raison ne justifie donc d’exclure du champ d’application de cette
+       disposition une situation dans laquelle le contrôle est acquis auprès de différents
+       vendeurs à la fois par le biais d’une transaction privée sur titres, et par l’acquisition
+       des actions restantes dans le cadre d’une offre publique d’achat ultérieure. À l’avis
+      de  la Commission,  les deux  étapes de  l’Opération  constituent une  série de
+       transactions sur  titre conduisant à l’acquisition de contrôle auprès de plusieurs
+       vendeurs.
+
+(26)  En deuxième lieu, le motif de l’article 7, paragraphe 2, du Règlement – à savoir le
+       besoin de garantir la sécurité juridique dans le contexte des transactions portant sur
+       des titres cotés – est également pertinent dans un scénario hybride tel que celui de
+       l’Opération. Il n’y a en effet aucune raison pour que le besoin de sécurité juridique
+      ne soit pertinent que pour, d’une part, une série de transactions privées sur titres
+        (entreprises en vue de réaliser une acquisition rampante) ou, d’autre part, une simple
+        offre publique d’achat, mais qu’il ne s’applique pas également à la combinaison
+      d’une opération privée et d’une offre publique d’achat.
+
+(27)   Suez argue cependant que les deux étapes de l’Opération devraient être appréciées
+      de manière distincte puisque, selon elle, Veolia n’envisagerait pas de procéder à la
+      deuxième étape de l’Opération  (i.e., l’OPA ou, à tout  le moins,  la réalisation
+        effective de l’acquisition des titres) avant d’obtenir l’autorisation de la Commission
+      au titre du contrôle des concentrations.
+
+(28)  Même en supposant que cette hypothèse factuelle soit fondée,10 la Commission ne
+        saurait, sans contradiction, constater à la fois l’existence d’une concentration unique
+        et priver la première étape de cette concentration du bénéfice de la dérogation de
+         l’article  7, paragraphe  2, du Règlement,  considérant que  les deux  étapes de
+       l’Opération devraient s’analyser d’une manière distincte. En  effet, la définition
+     même d’une concentration unique au sens du Règlement aboutit à considérer que
+      « des opérations multiples constituent une seule et même opération de concentration
+      aux fins de l’article 3 dès lors qu’elles sont par essence unitaires »,11 évaluation que
+      ne  conteste nullement Suez au cas d’espèce. Par conséquent, l’ensemble des
+
+
+
+10  Dans ses déclarations publiques cependant, Veolia s’est réservée la possibilité de déposer une offre
+    publique à tout moment avant l’obtention des autorisations règlementaires de concurrence. Voir le
+   Communiqué de presse de Veolia du 30 août 2020.
+11  Communication juridictionnelle consolidée, paragraphe 38.
+
+                                                     6
+
+[PÁGINA PDF 8]
+       opérations contribuant à la prise de contrôle12 sont soumises au même régime
+       juridique et bénéficient de la dérogation prévue à l’article 7, paragraphe 2, du
+      Règlement.
+
+(29)  De  surcroit, une  interprétation  contraire  reviendrait à considérer que seule  la
+       première étape de l’Opération, à savoir l’acquisition de 29,9 % des actions de Suez
+       auprès d’Engie, serait soumise, sans dérogation, à l’effet suspensif, alors même que
+        cette prise de participation minoritaire, considérée isolément, n’entraînera aucun
+      changement du contrôle de Suez. Une telle conclusion contreviendrait donc aux
+       dispositions de l’article 7, paragraphe 1, du Règlement, en étendant le champ de
+        l’obligation suspensive à une opération n’entraînant aucun changement de contrôle,
+        tout en faisant bénéficier l’opération subséquente, qui entraînerait un tel changement,
+      de la dérogation prévue à l’article 7, paragraphe 2, du Règlement.
+
+(30)    Il s’ensuit que, au cas d’espèce, dès  lors que  les deux étapes de l’Opération
+       considérée constituent une concentration unique, le bénéfice de la dérogation prévue
+       à l’article 7, paragraphe 2, du Règlement bénéficie à la première étape de celle-ci.
+
+(31)  En  troisième  lieu,  l’appréciation  exposée  ci-dessus  résulte  également  de  la
+       jurisprudence des juridictions européennes. Le Tribunal de l’Union européenne a
+        d’ailleurs précisé, dans l’arrêt Marine Harvest qu’« il est possible que l’acquisition
+      d’une participation minoritaire, qui ne confère pas le contrôle de l’entreprise cible,
+        suivie d’une offre publique d’achat, puisse faire partie d’une concentration unique
+       qui relève du champ d’application de  l’article 7, paragraphe 2, du règlement
+      no 139/2004 »13.
+
+(32)   Suez  relève que  le  Tribunal,  s’étant borné à  considérer  cette  interprétation de
+      « possible », n’a pas conclu de manière définitive dans l’affaire Marine Harvest que la
+       dérogation serait applicable à une situation similaire au cas présent.
+
+(33)   Toutefois, Suez adopte une interprétation erronée du point 191 de l’arrêt Marine
+       Harvest. En  effet, ce point considère « possible » le  fait que l’acquisition d’une
+        participation minoritaire et une successive offre publique d’achat fassent « partie
+      d’une concentration unique ». Cela dépend des  circonstances du cas  d’espèce.
+       Toutefois, si dans un cas particulier ces deux étapes font partie d’une concentration
+       unique, ce considérant de l’arrêt Marine Harvest implique que la dérogation prévue
+       par  l’article  7, paragraphe  2, du Règlement  s’applique à l’ensemble de  cette
+       concentration unique, et non seulement à la deuxième étape de celle-ci. En effet, en
+       considérant « possible » que ces deux étapes fassent « partie d’une concentration
+       unique qui relève du champ d’application de l’article 7, paragraphe 2, du règlement
+
+
+
+12  Suez elle-même a souligné dans une note du 6 septembre 2020 adressée à la Commission que « dans
+    l’hypothèse où Veolia n’acquerrait pas le bloc de titres de 29,9% avant le lancement de son OPA, les
+    chances de succès de son OPA seraient extrêmement limitées. Dans une telle hypothèse, en effet, il serait
+     difficile pour Veolia d’espérer détenir à l’issue de son OPA au moins 50% des actions de Suez, soit le
+     seuil en deçà duquel son offre deviendrait automatiquement caduque ». En effet, dans le cas où il y aurait
+    un apport inférieur à 50 % des actions de Suez dans le cadre de l’OPA, l’acquisition préalable du bloc de
+    29,9 % pourrait significativement contribuer au franchissement du seuil de caducité, et donc au succès de
+    l’Opération.
+13  T-704/14, Marine Harvest ASA v Commission, EU:T:2017:753, point 191, dans lequel le Tribunal a
+     clarifié  la  signification  de  son  précédent  arrêt  T-411/07,  Aer  Lingus  Group  v  Commission,
+    EU:T:2010:281, point 83.
+
+                                                     7
+
+[PÁGINA PDF 9]
+      no 139/2004 », le Tribunal a jugé, par implication, qu’une application de la dérogation
+       à l’ensemble de la concentration unique ne contrevenait pas au principe d’interprétation
+         stricte auquel son arrêt fait également référence14.
+
+(34)  En quatrième lieu, aucun élément ne permet de constater un manque de célérité de la
+        part de Veolia dans la notification de l’Opération. La pratique de la Commission est par
+        ailleurs d’encourager les parties notifiantes à établir des contacts préliminaires avec la
+      Commission dans une période dites de « prénotification »15, ce qui peut avoir comme
+        effet de retarder la notification formelle. La Commission est soumise à un devoir de
+        confidentialité concernant ces contacts.
+
+(35)   Pour ces motifs, la Commission estime que l’Opération constitue une concentration
+       unique et que chaque étape de celle-ci bénéficie de la dérogation à l’obligation de
+       suspension prévue à l’article 7, paragraphe 2, du Règlement.
+
+4.    CONCLUSION
+
+(36)   Pour les raisons exposées ci-dessus, la Commission rejette la demande de Suez de
+       constater que Veolia aurait enfreint  l’article 7, paragraphe 1, du Règlement en
+       acquérant une participation minoritaire de 29,9 % dans Suez, et d’adopter, en vertu
+      de l’article 8, paragraphe 5, a) du Règlement, des mesures provisoires à l’encontre de
+       Veolia.
+
+(37)  La Commission enverra une copie de cette décision à Veolia, qui est directement
+       concerné par cette affaire.
+
+                                           Par la Commission
+
+
+                                                     (Signé)
+                                             Margrethe VESTAGER
+                                                   Vice-présidente exécutive
+
+
+
+
+
+14  T-704/14, Marine Harvest ASA v Commission, EU:T:2017:753, point 201.
+15  Voir le Règlement (CE) n° 802/2004 de la Commission du 7 avril 2004 concernant la mise en œuvre du
+    règlement (CE) n° 139/2004 du Conseil relatif au contrôle des concentrations entre entreprises, OJ L 133,
+    30.4.2004, p. 1, Annexe I, section 1.2.
+
+                                                     8

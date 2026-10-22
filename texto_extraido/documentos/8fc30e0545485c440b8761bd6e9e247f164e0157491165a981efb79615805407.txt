@@ -1,0 +1,401 @@
+[PÁGINA PDF 1]
+       EUROPEAN COMMISSION
+          DG Competition
+
+
+
+
+                Case M.10860 – ADVENT / GFK
+
+
+
+
+
+                           Only the English text is available and authentic.
+
+
+          REGULATION (EC) No 139/2004
+              MERGER PROCEDURE
+
+
+
+Decision on the implementation of the commitments -
+                                Purchaser approval
+                                  Date: 19/12/2023
+
+[PÁGINA PDF 2]
+              EUROPEAN COMMISSION
+
+
+
+
+                                                     Brussels, 19.12.2023
+                                             C(2023) 9179 final
+
+                                     PUBLIC VERSION
+
+                                                     In  the  published  version  of  this
+                                                       decision, some information has been
+                                                  omitted pursuant to Article 17(2) of
+                                                Council   Regulation   (EC)  No
+                                              139/2004 concerning non-disclosure
+                                                     of   business   secrets  and   other
+                                                       confidential    information.   The
+                                                 omissions  are  shown  thus  […].
+                                         Where  possible  the  information
+                                                  omitted has been replaced by ranges
+                                                     of figures or a general description.
+
+
+                                           Advent / NielsenIQ
+                                           200 West Jackson Boulevard
+                                               Chicago, Illinois 60606
+                                               United States of America
+
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.10860 – ADVENT / GFK
+         Approval of YouGov plc as purchaser of the global consumer panel services
+           business of GfK SE following your letter of 24 October 2023 and the
+           Trustee’s opinion of 7 December 2023
+
+
+1.     FACTS AND PROCEDURE
+
+(1)    By decision of 4 July 2023 (the ‘Decision’) based on Article 6(1)(b) in connection
+        with Article 6(2) of the Merger Regulation, the Commission declared the operation
+       by which Advent International (‘Advent’) acquired control over GfK SE (‘GfK’)
+        compatible  with  the  internal  market,  subject  to  conditions and  obligations
+         (the ‘Commitments’).
+
+(2)     The Commitments consist of the divestment of the global consumer panel services
+        (‘CPS’) business of GfK, excluding Russia (the ‘Divestment Business’). This
+         includes all CPS personnel, all CPS customer contracts, all CPS vendor contracts,
+           all CPS contracts with panellists, historical data and the rights emanating from the
+        Divestment Business, all core software applications used by GfK in operating its
+      CPS business worldwide and GfK CPS-related trademarks, existing corporate
+          entities in each of Croatia, Serbia and Slovakia, newly incorporated entities in each
+
+
+Commission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111
+
+[PÁGINA PDF 3]
+         of Austria, Belgium, Bulgaria, Czechia, Denmark, Germany, Hungary, Italy, the
+        Netherlands, Poland, Romania, Sweden and Ukraine, and all required office space
+       and associated standard office equipment. Moreover, the Commitments include a
+         licencing arrangement for the use of the ‘GfK’ brand by the Divestment Business,
+       […].
+
+(3)    By letter of 21 July 2023, Advent proposed YouGov plc (‘YouGov’) for approval
+       by the Commission as purchaser of the Divestment Business and submitted the
+        Sale and Purchase Agreement (the ‘Agreement’) signed by GfK and YouGov on 6
+         July 2023. The Agreement is conditional on the Commission approving YouGov
+         as the purchaser and the associated terms of the Agreement.
+
+(4)     Advent and YouGov amended and restated the Agreement on […] 2023, which
+       was submitted to the Commission on […] 2023.
+
+(5)     The Agreement, as amended and restated provides, in compliance with paragraph 2
+         of the Schedule of the Commitments,  that the Divestment Business  will be
+         transferred from GfK and its existing subsidiaries to a newly incorporated holding
+       company, Gold CP Holding B.V. (‘Gold Holdco’), the share capital of which will
+        subsequently be transferred to YouGov. Advent also submitted a draft Transitional
+        Services Agreement  with YouGov  (‘TSA’),  as  well  as  the Brand  License
+       Agreement (‘LA’), in relation to the transitional use of the ‘GfK’ brand by the
+        Divestment Business. Finally, Advent submitted the Asset Purchase Agreement
+        (‘APA’), reflecting the required internal restructuring of the Divestment Business
+        under Gold Holdco, before the transfer Gold Holdco’s share capital to YouGov.
+       The Agreement, the TSA, the LA and the APA are hereinafter together referred to
+         as the ‘Transaction Documents’.
+
+(6)    By  letter  of 7 December 2023, Monitoring Trustee  Partners  (the  ‘Trustee’)
+        submitted an assessment of YouGov’s suitability as a purchaser and, in particular,
+         indicated that it fulfils the criteria of the purchaser requirements in section 17 of the
+       Commitments attached  to the Decision. In  this assessment, the Trustee also
+         indicated that, based on the Agreement, the Divestment Business would be sold in
+        a manner consistent with the Commitments. Finally, the Trustee confirmed that the
+        Transaction Agreements are in their final form and that no material changes are
+        expected.
+
+2.     ASSESSMENT OF THE PROPOSAL
+
+(7)     Pursuant to paragraph 18 of the Commitments, the Commission has to verify that
+         the remedy-taker fulfils the purchaser criteria and that the Divestment Business is
+        being sold  in a manner  consistent with the Commission's Decision and the
+       Commitments.1
+
+(8)     According to paragraph 17 of the Commitments,2 in order to be approved by the
+       Commission, any remedy-taker must fulfil the following criteria:
+
+
+1       See paragraphs 101 and seq. of the Commission notice on remedies acceptable under Council
+        Regulation (EC) No 139/2004 and under Commission Regulation (EC) No 802/2004 (the ‘Remedies
+         Notice’).
+2       See Remedies Notice, paragraphs 48-49.
+
+
+                                                     2
+
+[PÁGINA PDF 4]
+          (a)    it shall be independent of and unconnected to Advent and  its affiliated
+              undertakings (this being assessed having regard to the situation following the
+                divestiture);
+         (b)    it  shall have the financial resources, proven expertise and incentive  to
+             maintain and develop the Divestment Businesses which it acquires as a viable
+            and active competitive force in competition with the  Parties and other
+              competitors;
+          (c)    it shall have experience in the market research sector, either directly or
+             through current or prior ownership of one or more businesses active in such
+               sector; and
+         (d)   the acquisition of the Divestment Businesses must neither be likely to create,
+               in  light  of  the  information  available  to  the Commission, prima  facie
+              competition concerns nor give rise to a risk that the implementation of the
+           Commitments  will  be  delayed.  In  particular,  the remedy  taker must
+              reasonably be expected to obtain all necessary approvals from the relevant
+              regulatory authorities for the acquisition of the Divestment Businesses, which
+                     it acquires.
+
+(9)      In  addition,  pursuant  to  paragraph 7  of  the Commitments  the Divestment
+        Businesses shall include the following:
+          (a)   [scope and duration of transitional arrangements];
+         (b)   [scope and duration of transitional arrangements]:
+                    i.   [scope and duration of transitional arrangements];
+                   ii.   [scope and duration of transitional arrangements];
+                  iii.   [scope and duration of transitional arrangements];
+              iv.   [scope and duration of transitional arrangements]; and
+              v.   [scope and duration of transitional arrangements].
+          (c)   a licensing arrangement for the use of the ‘GfK’ brand, [scope and duration
+              of 'GfK' brand licensing agreement].
+
+2.1.     Brief description of the proposed Purchaser
+
+(10)   YouGov is a multinational market research and data analytics group established in
+       2000 and headquartered in the UK. With operations in the UK, the Americas,
+        Europe, the Middle East, India and Asia Pacific, YouGov has one of the largest
+         research networks in the world.
+
+(11)   YouGov collects and analyses opinions and behavioural data from its proprietary
+         global panel of over 24 million registered members to provide its clients with data
+       and insights to help them explore, plan, activate and track the impact of their
+        marketing and communication activities.
+
+
+
+
+
+                                                     3
+
+[PÁGINA PDF 5]
+2.2.    Purchaser criteria
+
+2.2.1.   Independence from the Parties
+
+(12)    Pursuant to paragraph 17(a) of the Commitments, in order to be approved by the
+       Commission, a suitable purchaser must be independent from and unconnected to
+        each of Advent and its affiliated undertakings.
+
+(13)    According to the information provided by Advent and the Trustee, there are no
+         cross-investments,  shareholdings,  JVs,  consortia  or  partnerships,  common
+       management and/or advisory function of executive and non-executive directors,
+       between YouGov and  its affiliated undertakings and Advent and  its affiliated
+         undertakings.
+
+(14)    With respect to commercial links, there are only limited trading activities between
+      YouGov and Advent and its affiliates. In particular, […].
+
+(15)    The Trustee considers that these relationships are  all  at arms’ length, in the
+        ordinary course of business and of limited scope for the size of the Parties, and
+         therefore, do not affect the independence of the Purchaser.3
+
+(16)    Based on the information provided by Advent and taking into account the reasoned
+        opinion submitted by the Trustee, the Commission concludes that the Purchaser is
+        independent and unconnected to Advent and its affiliated undertakings.
+
+2.2.2.   Financial resources, proven expertise and incentive to maintain and develop the
+        Divested Business as a viable and active competitor
+
+(17)    Pursuant to Article 17(b) of the Commitments, the Purchaser shall have the
+         financial resources, proven expertise and incentive to maintain and develop the
+        Divestment Businesses which it acquires as a viable and active competitive force in
+        competition with the Parties and other competitors.
+
+2.2.2.1. Financial resources
+
+(18)    YouGov’s estimated revenues for 2023 are EUR […] million, representing an
+         increase of […]% compared to the previous year, with a gross profit of EUR […]
+         million, and net income of EUR […] million. Moreover, YouGov has currently no
+        debt and its latest available credit ratings confirm that  it is a financially sound
+       company. On  that  basis,  the  Monitoring  Trustee  concluded  that YouGov
+        demonstrates financial robustness.4
+
+2.2.2.2. Proven expertise and current activity in the market research sector
+
+(19)   YouGov  is  a  multinational market  research and  data  analytics group  with
+         operations in over 50 jurisdictions across the world, and a database of […] million
+          panellists.
+
+
+
+
+3       Reasoned Opinion, Section 4.4.
+4       Reasoned Opinion, Section 6.2.1.
+
+
+                                                     4
+
+[PÁGINA PDF 6]
+(20)   YouGov  serves numerous  sectors, such  as  agencies,  academia,  automotive,
+         charities & non-profit, financial services, fast moving consumer goods, health &
+        pharma, leisure and entertainment, media and content, retail, sports, technology,
+        telecommunications, travel and tourism, and video gaming and sports.
+
+(21)   YouGov therefore is active in the market research sector and has proven expertise
+         to allow them to maintain and develop the Divested Business as a viable and active
+        competitor to Advent and other competitors.
+
+2.2.2.3. Incentive
+
+(22)    The Monitoring Trustee notes that the acquisition of the Divestment Businesses
+        coincides with strategy of YouGov to (i) […], (ii) […], and (iii) […].5 Moreover,
+         the Trustee notes that the Divestment Business will comprise a […], accounting for
+       more than […]% of YouGov’s total revenues.6 YouGov therefore has the incentive
+         to maintain and develop the Divested Businesses as a viable and active competitor.
+
+2.2.2.4. Conclusions
+
+(23)    Based on the information provided by Advent and considering the Trustee's
+       Reasoned Opinion, the Commission considers that YouGov, who is already active
+         in market research, has sufficient financial resources, proven expertise and the
+         incentives to maintain and develop the Divestment Business as a viable and active
+        competitive force in competition with Advent and other competitors.
+
+2.2.3.   Activity in the market research sector
+
+(24)    Pursuant to Article 17(b) of the Commitments, the Purchaser shall have experience
+         in the market research sector.
+
+(25)   As described in Section 2.2.2.2 above, YouGov is already active in the market
+         research sector, and therefore has the relevant experience.
+
+2.2.4.   Absence of prima facie competition problems
+
+(26)    Pursuant to paragraph 17(c) of the Commitments, the transfer of the Divestment
+        Businesses to a suitable remedy-taker must neither be likely to create prima facie
+        competition concerns nor give  rise to a  risk  that the implementation of the
+       Commitments will be delayed.
+
+(27)    Advent submits that YouGov’s acquisition of the Divestment Business  is not
+         conditional on obtaining merger control clearances in any jurisdiction. YouGov’s
+         acquisition of the Divestment Business is conditional on obtaining foreign direct
+        investment approvals in […]. The Trustee submits that, at the point of submission
+         of  its Reasoned Opinion, these approvals have already been obtained  in  all
+          jurisdictions.7
+
+
+
+
+5       Reasoned Opinion, Section 6.4.
+6         Ibid.
+7       Reasoned Opinion, Section 5.2.3.
+
+
+                                                     5
+
+[PÁGINA PDF 7]
+(28)    Advent and the Trustee consider that the acquisition of the Divestment Business by
+      YouGov does not raise any prima facie competition concerns.8
+
+(29)    Based on the information provided by Advent, the acquisition of the Divestment
+        Business by YouGov does not give rise to any affected markets.
+
+(30)   On the basis of the above and taking into account the Reasoned Opinion submitted
+       by the Trustee, the Commission concludes that the acquisition of the Divestment
+        Businesses by YouGov is neither likely to create prima facie competition concerns,
+        nor give rise to a risk that the implementation of the Commitments will be delayed.
+
+(31)    This prima facie assessment is based on the information available for the purpose
+         of this buyer approval and does not prejudge the competition assessment of the
+         acquisition of the Divestment Business by YouGov by a competent competition
+         authority under applicable merger control rules.
+
+2.2.5.   Conclusion on purchaser criteria
+
+(32)     In light of the above considerations and taking into account the Reasoned Opinion
+        submitted by the Trustee, the Commission concludes that YouGov meets the
+        purchaser criteria set out in paragraph 17 of the Commitments.
+
+2.3.    Assessment of the Transaction Documents
+
+(33)   As indicated in paragraph (5) above, the Transaction Documents consist of the
+        Agreement, covering the sale of shares and transfer of the Divestment Business, the
+       TSA, which regulate the transitional services to be provided to the Divestment
+        Business by Advent, the LA, regulating the transitional use of the ‘GfK’ brand by
+         the  Divestment  Business,  and  the APA,  reflecting  the  required  internal
+         restructuring of the Divestment Business under Gold Holdco, before the transfer
+       Gold Holdco’s share capital to YouGov.
+
+(34)    The Trustee reviewed the Transaction Documents and confirmed that they fulfil the
+        condition of the Commitments to transfer the Divestment Businesses to a suitable
+         purchaser. The Commission agrees with that assessment.
+
+(35)    The Trustee considered  that the terms of the Transaction Documents  reflect
+        Advent’s obligations set out in the Commitments.9
+
+(36)     In particular, the Trustee notes that the APA lays out the internal restructuring steps
+        needed to ensure the relevant activities of the Divestment Business are transferred
+         to Gold Holdco, in line with clause 2 of the Schedule to the Commitments.
+        Moreover, the Trustee submits that the TSA includes […] as listed in clauses 3(h)
+       and 3(i) of the Schedule to the Commitments, except for […], for which the
+        Purchaser considers there to be no specific need. The Trustee submits that, […].
+        Furthermore, the Trustee confirms that the LA is compliant with clause 3(j) of the
+        Commitments.10 Lastly, the Trustee confirms that the duration of the transitional
+         services under the TSA and the brand licensing agreement under the LA is in line
+
+8       Reasoned Proposal, paragraph 65 et seqq.; Reasoned Opinion, paragraph 6.5.4.
+9       Reasoned Opinion, Section 5.3.2.
+10      Reasoned Opinion, footnote 18.
+
+
+                                                     6
+
+[PÁGINA PDF 8]
+        with the Commitments, while the transitional services are provided at cost and the
+     LA […].11
+
+(37)     In  light  of  the  above  considerations,  the Commission  concludes  that  the
+        Transaction  Documents  are  consistent  with  the  Commitments  and   that,
+         accordingly,  the  Divestment  Businesses  are  being  transferred  in  a manner
+         consistent with the Commitments.
+
+3.     CONCLUSION
+
+(38)    Based on the above assessment, the Commission approves YouGov as a suitable
+        purchaser for the above-mentioned reasons.
+
+(39)    Based on the Agreement, the Commission further concludes that the Divestment
+        Business is being sold in a manner consistent with the Commitments.
+
+(40)    This decision only constitutes approval of the proposed Purchaser identified herein
+       and of the Agreement. This decision does not constitute a confirmation that Advent
+        has complied with its Commitments.
+(41)    This  decision  is based on  Section D  of  the Commitments  attached  to  the
+       Commission Decision of 4 July 2023.
+
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                     Olivier GUERSENT
+                                                Director-General
+
+
+
+
+
+11      LA, Section 9.
+
+
+                                                     7

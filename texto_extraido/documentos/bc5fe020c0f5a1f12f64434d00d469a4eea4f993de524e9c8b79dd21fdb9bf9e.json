@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "bc5fe020c0f5a1f12f64434d00d469a4eea4f993de524e9c8b79dd21fdb9bf9e",
+  "extraido_utc": "2026-10-22T19:28:47+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20230517151551+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10438_CP_01",
+      "caso": "M.10438",
+      "universo": "principal",
+      "titulo": "Mergers: Commission clears acquisition of OMV Slovenija by MOL, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_2781/IP_23_2781_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_23_2781",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10438/M.10438_CP_01_bc5fe020c0f5.pdf",
+      "sha256": "bc5fe020c0f5a1f12f64434d00d469a4eea4f993de524e9c8b79dd21fdb9bf9e",
+      "coincide_inventario": "",
+      "bytes": "41229",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_2781/IP_23_2781_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission clears acquisition of OMV Slovenija by MOL, subject\nto conditions\n\nBrussels, 17 May 2023\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof OMV Slovenija by MOL. The approval is conditional on the divesture of 39 fuel stations in Slovenia\nto the Shell Group.\n\nToday's decision follows an in-depth investigation of the proposed acquisition of OMV Slovenija by\nMOL. MOL and OMV Slovenija are, respectively, the third and second largest retail fuel suppliers in\nSlovenia, right after Petrol (i.e. the national leading motor fuel retailer).\n\nThe Commission's investigation\n\nDuring its in-depth investigation, the Commission gathered extensive information and received\nfeedback from market participants and other stakeholders.\n\nFollowing its market investigation, the Commission had concerns that the transaction, as initially\nnotified, would harm competition in the retail supply of motor fuels (gasoline and diesel) to\nindividuals in Slovenia. In particular, the transaction would:\n\n   Reduce from three to two the number of significant retail motor fuel operators in\n    Slovenia in a market with high barriers to entry and expand. Given that the merging parties\n     currently compete head-to-head in many local areas throughout Slovenia and the competitors\n    other than Petrol are significantly smaller, the transaction would remove the main competitive\n     constraint that MOL and Petrol currently face in the market;\n\n     Significantly reduce competition in the market for the retail sale of motor fuel to\n     individuals from non-motorway fuel stations in Slovenia, given that MOL and OMV Slovenija are\n    very close competitors;\n\n    Increase the likelihood of coordination on the retail motor fuel market between MOL and\n     Petrol.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, MOL offered to divest a nationwide retail\nnetwork of 39 fuel stations in Slovenia, currently operating as part of the fuel station networks of\nboth MOL and OMV Slovenija, to the Shell Group.\n\nThe Shell Group, a large global group of energy and petrochemical companies, currently operates a\nnetwork of nine stations in Slovenia, eight of which are dedicated to trucks.\n\nThese commitments fully address the competition concerns identified by the Commission. Feedback\nreceived from customers and competitors in the market test of the proposed commitments confirmed\nthe Commission's view that the divested assets constitute a viable business that would enable the\nShell Group to effectively compete with the merged entity.\n\nThe Commission therefore concluded that the proposed transaction, as modified by the\ncommitments, would no longer raise competition concerns. The decision is conditional upon full\ncompliance with the commitments.\n\nCompanies and products\n\nMOL Hungarian Oil and Gas Plc (‘MOL'), headquartered in Hungary, is the parent company of the\nMOL Group, an integrated oil and gas group whose principal activities are (i) the exploration,\nproduction and refining of crude oil; and (ii) the distribution of refined oil products. At the retail\nlevel, MOL Group has a network of around 2,000 fuel stations in nine countries (Hungary, Romania,\nRepublic of Serbia, Montenegro, Republic of Bosnia-Herzegovina, Republic of Croatia, Republic of\nSlovenia, Czech Republic and Slovakia). In Slovenia, MOL operates 53 fuel stations offering a range\nof standard and premium fuels and various other ancillary products and services.",
+      "caracteres": 3570,
+      "caracteres_utiles": 2884,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "OMV Slovenija Trgovina Z Nafto In Naftnimi Derivati, D.O.O. (‘OMV Slovenija'),\nheadquartered in Slovenia, is active in the retail sale of motor fuel via its network of 119 fuel\nstations. OMV Slovenija's fuel stations offer a range of standard and premium fuels, automotive LPG,\nheating oil and various ancillary products and services. OMV Slovenija is also active (i) on the fuel\nwholesale markets, supplying some customers in Slovenia and Croatia; and (ii) in the wholesale\nsupply of bitumen and heating oil.\n\nMerger control rules and procedure\n\nThe transaction was notified to the Commission on 13 May 2022 and the Commission opened an in-\ndepth investigation on 22 June 2022.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nThere are currently six Phase II merger investigations: (i) the proposed acquisition of eTraveli by\nBooking; (ii) the proposed acquisition of Lagardère by Vivendi,(iii) the proposed acquisition of\nVMware by Broadcom; (iv) the proposed acquisition of Inmarsat by Viasat; (v) the proposed\nacquisition of Asiana by Korean Air: and (vi) the proposed creation of a joint venture by Orange and\nMasMovil.\n\nMore information will be available on the competition website, in the Commission's public case\nregister under the case number M.10438.\n\n                                                                                                              IP/23/2781\n\nQuotes:\n\n\n MOL and OMV are among the largest fuel suppliers in Slovenia. We need to make sure that the motor fuel market remains open\n and competitive, especially in the context of the current energy crisis. Following the remedies offered by MOL, consumers in\n Slovenia will continue to have access to fuel at competitive prices.\n Margrethe Vestager, Executive Vice-President in charge of competition policy - 17/05/2023\n\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n      Sara SIMONINI (+32 2 298 33 67)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2527,
+      "caracteres_utiles": 1925,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

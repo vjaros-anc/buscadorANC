@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "314d29c0113e88163c1e1f9bf4580cb45ce6adcf4f80e23af0d7e609d453e88f",
+  "extraido_utc": "2026-10-22T19:41:37+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11253_OTRO_01",
+      "caso": "M.11253",
+      "universo": "principal",
+      "titulo": "Trustee details — SAFRAN / PART OF COLLINS AEROSPACE’s ACTUATION AND FLIGHT CONTROL ACTIVITIES",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202516/M_11253_10601691_2269_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202516/M_11253_10601691_2269_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11253/M.11253_OTRO_01_314d29c0113e.pdf",
+      "sha256": "314d29c0113e88163c1e1f9bf4580cb45ce6adcf4f80e23af0d7e609d453e88f",
+      "coincide_inventario": "",
+      "bytes": "103026",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202516/M_11253_10601691_2269_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "            MONITORING TRUSTEE IN CASE M.11253\n\n (SAFRAN / PART OF COLLINS AEROSPACE’s ACTUATION AND FLIGHT\n                 CONTROL ACTIVITIES)\n\n\nOn 9 April 2025 the Commission approved the appointment of:\n\n             ING Bank N.V., London Branch\n                 8-10 Moorgate London\n             EC2R 6DA London\n                 United Kingdom\n\n                  Contact: Jamie Priestley\n                 Jamie.Priestley@ing.com\n\nas Monitoring Trustee in the above-mentioned case.\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of Safran S.A. with the\nCommitments attached to the Commission's Decision of 4 April 2025 and to report to the\nCommission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 949,
+      "caracteres_utiles": 669,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

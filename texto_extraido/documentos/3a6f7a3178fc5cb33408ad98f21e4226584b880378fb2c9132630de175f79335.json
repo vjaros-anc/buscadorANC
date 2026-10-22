@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "3a6f7a3178fc5cb33408ad98f21e4226584b880378fb2c9132630de175f79335",
+  "extraido_utc": "2026-10-22T19:35:32+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20221025180106+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10792_CP_01",
+      "caso": "M.10792",
+      "universo": "principal",
+      "titulo": "Mergers: Commission approves Philip Morris International's acquisition of Swedish Match, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_6372/IP_22_6372_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_6372",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10792/M.10792_CP_01_3a6f7a3178fc.pdf",
+      "sha256": "3a6f7a3178fc5cb33408ad98f21e4226584b880378fb2c9132630de175f79335",
+      "coincide_inventario": "",
+      "bytes": "39368",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_6372/IP_22_6372_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission approves Philip Morris International's acquisition of\nSwedish Match, subject to conditions\n\nBrussels, 25 October 2022\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof Swedish Match by Philip Morris International. The approval is conditional on full compliance with\ncommitments offered by Philip Morris International.\n\nPhilip Morris International and Swedish Match are suppliers of tobacco and nicotine products.\nThey compete, among others, in the manufacture and supply of oral tobacco and nicotine products,\nsuch as snus and nicotine pouches. Swedish Match holds a de facto monopoly on distribution of\ntobacco and nicotine products in Sweden through its subsidiary SMD Logistics.\n\nThe Commission's investigation\n\nThe Commission's preliminary investigation showed that SMD Logistics has a dominant position in\nthe supply of combustible tobacco, smoke-free, and related products in Sweden. Philip Morris\nInternational is a leading supplier of combustible tobacco, including factory-manufactured cigarettes\n(‘FMC'), and roll-your-own tobacco (‘RYO'), as well as heated tobacco products.\n\nThe transaction could have led to foreclosure effects in Sweden, given that SMD is the only\ndistributor of combustible tobacco, smoke-free, and related products in Sweden.\n\nThe Commission did not find competition concerns in other markets in which the parties compete,\nincluding the manufacture and supply of snus in Sweden and Norway, and of nicotine pouches in\nSweden and Slovenia, as sufficient alternative suppliers would remain active following the\ntransaction.\n\nThe proposed remedies\n\nTo address the Commission's preliminary competition concerns, Philip Morris International offered to\ndivest Swedish Match's logistics arm, SMD Logistics.\n\nThe commitments consist of the structural divestiture of a stand-alone business, which fully removes\nthe vertical links between the manufacture of tobacco and nicotine products and their distribution in\nSweden. This will enable a purchaser to run the divested business as a viable competitive force in\nthe market on a lasting basis. The Commission will closely monitor the divestment process, including\nthe choice of a suitable purchaser for the divested business that will have to be approved by the\nCommission.\n\nFollowing the market test, the Commission concluded that the transaction, as modified by the\ncommitments, would no longer raise competition concerns. The decision is conditional upon full\ncompliance with the commitments.\n\nCompanies and products\n\nPhilip Morris International, headquartered in the US, is active worldwide in the manufacturing and\nsale of various tobacco related products, including cigarettes, oral tobacco products (e.g. snus),\nnicotine pouches and accessories, under various brands, including Marlboro and Chesterfield.\n\nSwedish Match, headquartered in Sweden, manufactures and sells various oral tobacco products\n(e.g. snus), nicotine pouches, cigars, matches, lighters and other accessories. Swedish Match\ndistributes its own and third parties' tobacco and nicotine-containing products in Sweden through its\nwholly owned subsidiary SMD Logistics.\n\nFor More Information\n\nThe transaction was notified to the Commission on 6 September 2022.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the European Economic Area",
+      "caracteres": 3610,
+      "caracteres_utiles": 2979,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "or any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working\ndays, bringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.10792.\n\n                                                                                                              IP/22/6372\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n       Nina FERREIRA (+32 2 299 81 63)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 989,
+      "caracteres_utiles": 671,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

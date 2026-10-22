@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "04d29a71a84f629d9e7d8d23fa0f876929ffa697f667ea4556e51914fdb668fb",
+  "extraido_utc": "2026-10-22T19:45:55+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "Jonas RASIMAS",
+    "subject": "",
+    "keywords": "EL4",
+    "creator": "Acrobat PDFMaker 25 for Word",
+    "producer": "Adobe PDF Library 25.1.5",
+    "creationDate": "D:20260105163424+01'00'",
+    "modDate": "D:20260105163425+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11974_OTRO_01",
+      "caso": "M.11974",
+      "universo": "principal",
+      "titulo": "Trustee details — VANDEMOORTELE / DELIFRANCE",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202602/M_11974_10854010_3623_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202602/M_11974_10854010_3623_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11974/M.11974_OTRO_01_04d29a71a84f.pdf",
+      "sha256": "04d29a71a84f629d9e7d8d23fa0f876929ffa697f667ea4556e51914fdb668fb",
+      "coincide_inventario": "",
+      "bytes": "87484",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202602/M_11974_10854010_3623_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "    MONITORING TRUSTEE IN CASE M.11974 – VANDEMOORTELE /\n                      DELIFRANCE\n\n\nOn 23/12/2025 the Commission approved the appointment of:\n\n           RSM UK Corporate Finance LLP\n               25 Farringdon Street\n               London EC4A 4AB\n                 United Kingdom\n                 Tel:+44 20 3201 8620 / +44 020 3201 8070\n                 Email: paul.elliot@rsmuk.com / matthew.rose@rsmuk.com\n\nas Monitoring Trustee in the above-mentioned case.\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of Vandemoortele NV\nand Délifrance S.A. with the Commitments attached to the Commission's Decision of\n18/12/2025 and to report to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 957,
+      "caracteres_utiles": 679,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "5593f310c54f7651fa80070b4761a32d0ead72250fa134e5291140a304d046a8",
+  "extraido_utc": "2026-10-22T19:45:55+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20251222172425+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11974_CP_01",
+      "caso": "M.11974",
+      "universo": "principal",
+      "titulo": "Commission approves Vandemoortele's acquisition of Délifrance, subject to conditions*",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_3111/IP_25_3111_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_3111",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11974/M.11974_CP_01_5593f310c54f.pdf",
+      "sha256": "5593f310c54f7651fa80070b4761a32d0ead72250fa134e5291140a304d046a8",
+      "coincide_inventario": "",
+      "bytes": "44122",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_3111/IP_25_3111_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:04+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission approves Vandemoortele's acquisition of Délifrance, subject\nto conditions*\n\nBrussels, 18 December 2025\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nby Vandemoortele Group of Délifrance. The approval is conditional upon full compliance with the\ncommitments offered by the companies.\n\nThe Commission's investigation\n\nVandemoortele Group and Délifrance are both global manufacturers and suppliers of frozen bakery\nproducts. The Commission was concerned that the transaction, as initially notified, would significantly\nreduce competition in the markets for the production and supply of frozen laminated dough products\n(such as croissants and pains au chocolat) to retail and foodservice customers in France and retail\ncustomers in Italy.\n\nIn particular, the Commission's investigation found that, following the transaction, the merged entity\nwould:\n\n    hold significant market shares, becoming either the largest or the second largest supplier of\n     frozen laminated dough products, in highly concentrated markets; and\n    face limited competitive constraints, given that there would be only few alternative credible\n     suppliers for retail and foodservice customers in France and Italy. The merged entity, which\n    operates local production facilities, would most likely not be sufficiently restrained from raising\n     prices (i) by imports of frozen laminated dough products; or (ii) by competitors, which have\n     limited spare production capacity allowing them to ramp up production in the short to medium\n    term.\n\nThe proposed remedies\n\nTo address the Commission's preliminary competition concerns, the companies offered to divest two\nDélifrance production sites dedicated to the production and supply of frozen laminated dough\nproducts – one located in Avignon (South-East of France), and one located in Béthune (North of\nFrance). The divestments include all necessary tangible and intangible assets, equipment, contracts,\nagreements and personnel.\n\nThese structural commitments fully address the competition concerns. In particular, the\nCommission found that the capacity and actual production volumes of the divested plants would be\nenough for a (suitable) buyer to exercise sufficient competitive pressure on the merged entity. In\naddition, by enabling the transfer of relevant customer contracts to the buyer, the divestment will\nestablish the buyer company as a strong independent competitive force in the markets concerned.\n\nFollowing positive feedback received after the market test, the Commission has concluded that the\ntransaction, as modified by the commitments, would no longer raise competition concerns.\n\nThe decision is conditional upon full compliance with the commitments. Under the supervision of the\nCommission, an independent trustee will monitor their implementation.\n\nThe Commission will assess the suitability of buyers proposed by Vandemoortele in the context of a\nseparate buyer approval procedure.\n\nCompanies\n\nVandemoortele, headquartered in Belgium, is a global manufacturer and supplier of frozen bakery\nproducts and plant-based food solutions such as fats, sauces, margarines and oils. Vandemoortele is\nmainly active in the production and supply of frozen bakery products on a business-to-business basis",
+      "caracteres": 3364,
+      "caracteres_utiles": 2757,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "to both retail and foodservice customers across the European Economic Area (‘EEA').\n\nDélifrance, headquartered in France, is a global manufacturer and supplier of frozen bakery products\nand certain consumer packaged products. The company sells frozen bakery products on a business-to-\nbusiness basis to both retail and foodservice customers across the EEA, mainly in France, Italy and\nthe UK. Délifrance is part of the Vivescia Group, a cooperative owned by 7,500 cooperative farmers.\nIts ultimate parent company is S.C.A Vivescia, Société Coopérative Agricole.\n\nMerger control rules and procedure\n\nThe transaction was notified to the Commission on 30 October 2025.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a turnover\nabove certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent concentrations\nthat would significantly impede effective competition in the EEA or any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of 25\nworking days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working days,\nbringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.11974.\n\n\n* updated on 22 December 2025 - 17.24\n\n                                                                                                            IP/25/3111\n\nQuote(s):\n\n\n \"Vandemoortele’s acquisition of Délifrance could have given them a significant market position in certain Member States, possibly\n leaving European consumers facing higher prices for common daily food staples. The commitments offered by the two companies\n  will enable them to proceed with their transaction, while preserving the competitive pressure that keep food prices affordable.\"\n Teresa Ribera, Executive Vice-President for Clean, Just and Competitive Transition\n\n\n Press contacts:\n\n       Ricardo CARDOSO (+32 2 29 80100)\n      Sara SIMONINI (+32 2 29 83367)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2401,
+      "caracteres_utiles": 1843,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

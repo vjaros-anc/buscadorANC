@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "d562e310809a371f849f6a13ace8c0ee61de3a754518d17faf5c8d0f6e3a2635",
+  "extraido_utc": "2026-10-22T19:34:42+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10702_OTRO_01",
+      "caso": "M.10702",
+      "universo": "principal",
+      "titulo": "Trustee details — KPS CAPITAL PARTNERS / REAL ALLOY EUROPE",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202247/M_10702_8623906_1774_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202247/M_10702_8623906_1774_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10702/M.10702_OTRO_01_d562e310809a.pdf",
+      "sha256": "d562e310809a371f849f6a13ace8c0ee61de3a754518d17faf5c8d0f6e3a2635",
+      "coincide_inventario": "",
+      "bytes": "75239",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202247/M_10702_8623906_1774_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "  MONITORING TRUSTEE IN CASE M.10702 – KPS CAPITAL PARTNERS /\n                   REAL ALLOY EUROPE\n\n\nOn 8.11.2022 the Commission approved the appointment of:\n\n                   Advolis\n                 Square de Meeûs 37\n               1000 Brussels\n                 Belgium\n\n                   Contact:  Antoni Vassileff\n                           Phone: +32 2 791 7670\n                              Email: avassileff@advolis.com\n\n\nas Monitoring Trustee in the above-mentioned case.\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of KPS Capital Partners with\nthe Commitments attached to the Commission's Decision of 19.10.2022 and to report to the\nCommission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee through\nthe above contact details.\n\nThe  foregoing  is  without  prejudice  to  the  Commission's  jurisdiction  to  oversee  the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 965,
+      "caracteres_utiles": 641,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

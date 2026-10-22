@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "abfa9df9c6a06e3686f74e128ed6fac6ca20290dc360cca9c7003251bc8c3133",
+  "extraido_utc": "2026-10-22T19:44:02+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11485_NOT_PREVIA_01",
+      "caso": "M.11485",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — BRASSERIE NATIONALE / BOISSONS HEINTZ",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "FR",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202443/M_11485_10300975_1085_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202443/M_11485_10300975_1085_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11485/M.11485_NOT_PREVIA_01_abfa9df9c6a0.pdf",
+      "sha256": "abfa9df9c6a06e3686f74e128ed6fac6ca20290dc360cca9c7003251bc8c3133",
+      "coincide_inventario": "",
+      "bytes": "144707",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202443/M_11485_10300975_1085_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "FR\n\nClause de non-responsabilité:\n\nLa DG Concurrence met à la disposition du public, dans un souci de transparence accrue, les renseignements\ncommuniqués par les parties notifiantes dans la section 1.2 du formulaire CO. Ces informations ont été\nélaborées par les parties notifiantes, qui en sont seules responsables, et leur teneur ne préjuge nullement la\nposition de la Commission sur l'opération envisagée. La Commission ne peut pas davantage être tenue pour\nresponsable des renseignements inexacts ou dénaturés qui y figureraient.\n\nM.11485 – BRASSERIE NATIONALE / BOISSONS HEINTZ\n\n                         SECTION 1.2\n\n                           Description de la concentration\n\nParties à la concentration\n\nMunhowen S.A., établie et ayant son siège social à L-4385 Ehlerange, 14, Zare Est, inscrite\nau Registre de Commerce et des Sociétés de Luxembourg sous le numéro B 29.728.\nBoissons Heintz S.à r.l., établie et ayant son siège social à L-9809 Hosingen, 34, Z.A.E.R.\nOp der Héi, inscrite au Registre de Commerce et des Sociétés de Luxembourg sous le numéro\nB 92.581.\n\nType d’opération\n\nAcquisition de 100% des titres à faire suivre d’une fusion.\n\nEntité contrôlante (après l’acquisition de 100% des titres)\n\nBrasserie Nationale S.A., établie et ayant son siège social à L-4930 Bascharage, 2, boulevard\nJ.F. Kennedy, inscrite au Registre de Commerce et des Sociétés de Luxembourg sous le\nnuméro B 66.334.\n\nActivités\n\nMunhowen S.A. : distribution de boissons en gros et en détail.\nBoissons Heintz S. à r.l.: distribution de boissons en gros.\n\n\n\n\n\nCommission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111",
+      "caracteres": 1652,
+      "caracteres_utiles": 1268,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,493 @@
+[PÁGINA PDF 1]
+       EUROPEAN COMMISSION
+          DG Competition
+
+
+
+    Case M.10108 – S&P GLOBAL / IHS MARKIT
+
+
+
+
+                          Only the English text is available and authentic.
+
+
+          REGULATION (EC) No 139/2004
+              MERGER PROCEDURE
+
+
+Decision on the implementation of the commitments -
+                                Purchaser approval
+                                  Date: 24/05/2022
+
+[PÁGINA PDF 2]
+              EUROPEAN COMMISSION
+
+
+
+                                                     Brussels, 24.5.2022
+                                             C(2022) 3541 final
+                                     PUBLIC VERSION
+
+                                                               In the published version of this decision,
+                                                  some   information   has  been   omitted
+                                                             pursuant  to  Article  17(2)  of  Council
+                                                            Regulation (EC) No 139/2004 concerning
+                                                              non-disclosure  of  business  secrets  and
+                                                                other    confidential   information.   The
+                                                           omissions  are shown  thus […]. Where
+                                                                possible the information omitted has been
+                                                              replaced by ranges of figures or a general
+                                                                   description.
+
+                                 S&P Global, Inc.
+                                          55 Water Street
+                                 New York, NY 10041
+                                              United States of America
+
+                                       IHS Markit Ltd.
+                                                             4th Floor, Ropemaker Place
+                                         Ropemaker Street
+                                            London, EC2Y 9LY
+                                            England
+
+
+Dear Sir or Madam,
+
+Subject:  Case M.10108 – S&P Global/IHS Markit
+         Approval of Morningstar as purchaser of the LCD Divestment Business
+           following your letter of 7 April 2022 and the Trustee’s opinion of 16 May
+         2022
+
+1.     FACTS AND PROCEDURE
+
+(1)    By decision of 22 October 2021 (“the Decision”) based on Article 6(1)(b) in
+        connection with Article 6(2) of Council Regulation (EC) No 139/2004,1 the
+       Commission declared the operation by which S&P Global, Inc. (“S&P”, USA)
+        acquired sole control of IHS Markit Ltd. (“IHSM”, UK) (“the Transaction”)
+        compatible with the internal market following modification by S&P and IHSM,
+
+
+1      OJ L 24, 29.1.2004, p.1 (the “Merger Regulation”).
+
+Commission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE
+Europese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË
+
+Tel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.
+
+[PÁGINA PDF 3]
+         subject to conditions and obligations laid down in the commitments annexed to the
+        Decision  (“the Commitments”). S&P  and IHSM  are  hereinafter  collectively
+         referred to as the “Parties”.
+
+(2)     The Commitments consist of three components, that is the CUSIP Commitments,
+         the LCD/LLI Commitments and the OPIS/CMM Commitments.2
+
+(3)     Under the LCD/LLI Commitments  (hereinafter  referred  to as the “LCD/LLI
+       Commitments”), the Parties commit to divest the entirety of S&P’s business in the
+        supply of:
+           (i)   Leveraged loan market intelligence, namely its Leveraged Commentary and
+             Data business (“LCD Business”), including the European Leveraged Loan
+              Index, and the Leveraged Loan Index; as well as
+            (ii)  The Leveraged Loan 100 Index family (the “LLI100 Business”).
+       The LCD Business and the LLI100 Business are hereinafter together referred to as
+         the “LCD Divestment Businesses”.
+(4)   The main Transaction closed on 28 February 2022. Hereinafter, S&P therefore refers
+        to S&P post-Transaction by which it acquired sole control over IHSM.
+
+(5)   On 3 April 2022, S&P entered into an Asset Purchase Agreements (the “APA”),
+       pursuant to which it agreed to sell and transfer the LCD Divestment Businesses to
+       Morningstar,  Inc.  (“Morningstar”). The APA,  alongside  the  relevant  ancillary
+      documents  in agreed form, including the Transition Services Agreement, was
+       submitted to the Commission on 7 April 2022. The APA, alongside the ancillary
+      documents, is hereinafter referred to as the “Transaction Agreement”.
+
+(6)   By a reasoned proposal on 7 April 2022, the Parties proposed Morningstar for
+       approval by the Commission as the purchaser of the LCD Divestment Businesses.
+
+(7)    In its opinion of 16 May 2022 (the “Reasoned Opinion”), pursuant to paragraph
+       26(h)  of  the LCD/LLI Commitments, Monitoring Trustee  Partners,  acting  as
+       monitoring trustee (the “Trustee”), concludes that:
+
+         (i)    Morningstar fulfils the criteria of the purchaser requirements as set out in
+              Section D of the LCD/LLI Commitments (the “Purchaser Criteria”); and
+
+          (ii)   on the basis of the Transaction Agreement, the LCD Divestment Business
+            would be sold in a manner consistent with the LCD/LLI Commitments.
+
+2.     ASSESSMENT OF THE PROPOSAL
+(8)    According to paragraphs 15 and 16 of the LCD/LLI Commitments, in its assessment
+       of the Transaction Agreement, the Commission has to verify:
+
+         (i)    That the purchaser fulfils the Purchaser Criteria; and
+
+
+
+
+2      The CUSIP Commitments and the OPIS/CMM Commitments are not further discussed in this
+         decision, as they have been addressed in separate Commission purchaser approval decisions both of
+       22 February 2022.
+                                                    2
+
+[PÁGINA PDF 4]
+          (ii)    That the LCD Divestment Businesses are being sold in a manner consistent
+             with the LCD/LLI Commitments including their objective to bring about a
+               lasting structural change in the market.
+
+2.1.    Assessment of the Purchaser Criteria
+
+(9)     Morningstar  is a Chicago-based investment research firm  that compiles and
+        analyses fund, stock, and general market data. It provides financial data and related
+         services in North America, Europe, Australia, and Asia. Morningstar offers an
+        extensive line of products and services for individual investors, financial advisors,
+         asset managers and owners, retirement plan providers and sponsors, institutional
+         investors and service providers in the debt and private capital markets. Morningstar
+        generated approximately EUR 1.5 billion of revenues during the 12-month period
+        ending 31 December 2021, with approximately 70% of its revenues generated in
+         the US.
+
+(10)   As set out in paragraph 15 of the LCD/LLI Commitments, in order to be approved
+       by the Commission, the Purchaser3 must fulfil the following criteria:
+           (i)   The Purchaser shall be independent of and unconnected to S&P and  its
+               Affiliated Undertakings (this being assessed having regard to the situation
+              following the divestiture).
+            (ii)  The Purchaser  shall have the  financial resources, proven expertise and
+              incentive to maintain and develop the LCD Divestment Businesses as a
+              viable and active competitive force in competition with the Parties and other
+              competitors.
+            (iii)  The Purchaser shall have obtained the consent of the Loan Syndications and
+             Trading Association (“LSTA”) for the assignment or transfer of the existing
+              partnership agreement with the LCD Divestment Businesses.
+          (iv)  The acquisition of the LCD Divestment Businesses by the Purchaser must
+               neither be likely to  create, in  light of the information available to the
+            Commission, prima facie competition concerns nor give rise to a risk that the
+             implementation of the Commitments will be delayed. In  particular, the
+              Purchaser must reasonably be expected to obtain all necessary approvals
+            from the relevant regulatory authorities for the acquisition of the LCD
+             Divestment Businesses.
+         (v)  The Purchaser shall have the relevant capabilities or access to the resources
+            and infrastructure required for the calculation, administration and operation
+              of an index business to operate successfully long-term.
+
+(11)    The following paragraphs provide an assessment of each of the Purchaser Criteria
+          listed above. Sections 2.1.1., 2.1.3., and 2.1.4. respectively provide an assessment
+         of the Purchaser Criteria  (i),  (iii), and (iv) listed above, while Section 2.1.2.
+        provides a joint assessment of the Purchaser Criteria listed under points (ii) and
+         (v) above.
+
+
+
+
+
+3        Capitalised terms in this decision will have the meaning as set out in the LCD/LLI Commitments,
+         unless indicated otherwise.
+                                                    3
+
+[PÁGINA PDF 5]
+2.1.1.   Independence from the Parties
+
+(12)    According to paragraph 15(a) of the LCD/LLI Commitments, the Purchaser shall
+        be independent of and unconnected to S&P and its Affiliated Undertakings (this
+        being assessed having regard to the situation following the divestiture). In this
+         respect, the Commission notes the following.
+
+(13)     First, S&P and Morningstar are publicly listed, S&P is listed on the New York
+        Stock Exchange and Morningstar is listed on the Nasdaq Stock Market. S&P and
+        Morningstar do not hold directly or indirectly any shares in each other. While a
+       number of institutional investors are shareholders of both S&P and Morningstar,
+         the Trustee’s review revealed that these common shareholders (i) have modest
+         individual shares in S&P and Morningstar, typically below 5% and in no instance
+        exceeding 15%, and (ii) that one common shareholder that holds more than 5% of
+        both S&P’s and Morningstar’s outstanding share is a company active mostly in
+        passive equity asset management that typically has no incentive to allocate any
+        resources to affect the corporate strategy of the companies  it invests  in.   In
+         addition, no shares of common shareholders confer any special rights and do not
+         constitute a situation of control within the meaning of Article 3 of the Merger
+        Regulation.
+
+(14)    Second, none of the members of the board of directors of S&P is active as a
+       member of the board of directors of Morningstar or vice versa.
+
+(15)     Third, S&P and Morningstar have a number of ordinary course of business
+        commercial relationships (with the two companies purchasing from and selling to
+        each other certain products). In relation to these, the Trustee’s review has shown
+         that (i) they can be considered common practice in the financial data industry; and
+            (ii) are immaterial to the overall activities of all parties involved, presenting less
+        than […]% of each S&P’s and Morningstar’s total revenues or expenses.
+
+(16)     Fourth, in accordance with the LCD/LLI Commitments, S&P will offer certain
+         transitional services to Morningstar. These agreements, however, have a pre-
+        defined termination date in line with the LCD/LLI Commitments or will be
+        terminated  before  that  date  once  the  services  are no  longer  required by
+        Morningstar. The Trustee therefore considers that the transitional services do not
+       impede the independence of Morningstar from S&P (and vice versa).
+
+(17)     In light of the above, and in line with the Reasoned Opinion,4 the Commission
+        concludes that Morningstar is independent of and unconnected to S&P and  its
+         Affiliated Undertakings.
+
+2.1.2.   Financial resources, proven expertise and incentive to maintain and develop the
+        Divested Business as a viable and  active competitor, including the relevant
+         capabilities for the operation of an index business
+
+2.1.2.1. Financial resources
+
+(18)    According to paragraph 15(b) of the LCD/LLI Commitments, the Purchaser shall
+        have  the  financial  resources  to maintain and develop  the LCD Divestment
+        Businesses as viable and active competitive forces in competition with the Parties
+       and other competitors. In this respect, the Commission notes the following.
+
+4       Reasoned Opinion, Section 4.5.
+                                                    4
+
+[PÁGINA PDF 6]
+(19)    Morningstar has a market value of over EUR 10.3 billion (as per 23 March 2022)
+       and is profitable with good financial performance over the past three years. In FY
+        2021, it generated revenues of approximately EUR 1.5 billion (an increase of more
+        than 22% compared to the previous year). On an EBITDA level, Morningstar
+       shows an average margin of approximately 27.5% during the last three years,
+        during which it demonstrates a continuously improved financial performance. The
+         analysis of Morningstar’s financial documentation shows a strong balance sheet
+        with significant cash balances and additional loan capacity if needed.
+
+(20)     In view of the foregoing, the Commission concludes, in line with the Reasoned
+        Opinion,5 that Morningstar has sufficient financial resources to develop the LCD
+        Divestment Businesses going forward.
+
+2.1.2.2. Proven expertise, including the relevant capabilities for the operation of an index
+        business
+
+(21)    According to paragraph 15(b) of the LCD/LLI Commitments, the Purchaser shall
+        have the proven expertise to maintain and develop the LCD Divestment Businesses
+         as viable and active competitive force in competition with the Parties and other
+         competitors.  In  addition,  pursuant  to  paragraph  15(e)  of  the  LCD/LLI
+       Commitments, the Purchaser shall have the relevant capabilities or access to the
+        resources and  infrastructure  required  for  the  calculation,  administration and
+        operation of an index business to operate successfully long-term.6
+
+(22)     First,  the Commission  considers,  in  line with  the Reasoned  Opinion,7  that
+        Morningstar has proven relevant expertise as an established player in the global
+         financial services sector. Morningstar has more than 20 years of experience in the
+        index business with over 25,000 indexes being calculated, over 185 investment
+        products  linked  to  Morningstar  indexes, EUR 126  billion  in  assets  under
+       management and EUR 406 billion benchmarked to Morningstar indexes. The
+        Trustee further explains that Morningstar provides index solutions across all major
+         asset  classes  and  strategies,  including  fixed  income,  equity,  multi-asset,
+          alternatives, thematic, and sustainable. Importantly, Morningstar has significant
+        proven expertise in operating both indices and news/research focussed businesses.
+
+(23)    Second,  specifically  in  relation  to the  relevant  capabilities or access  to the
+        resources and  infrastructure  required  for  the  calculation,  administration and
+        operation of an index business to operate successfully long-term, the Commission
+        notes  the  following.  Morningstar’s  wholly  owned  subsidiary  Moorgate
+       Benchmarks GmbH  (“Moorgate”)   is  registered  by  the  Bundesanstalt  für
+         Finanzdienstleistungsaufsicht in Germany under article 34 of the EU Benchmark
+        Regulation8 to carry on the regulated activity of administering a benchmark, and
+
+5       Reasoned Opinion, Section 6.2.
+6      Any potential purchaser that would currently be considered a third country benchmark administrator
+        under EU-Regulation 2016/1011 of the European Parliament and of the Council of June 8, 2016 on
+         indices used as benchmarks in financial instruments and financial contracts or to measure the
+        performance  of investment funds and amending  Directives 2008/48/EC and 2014/17/EU and
+        Regulation (EU) No 596/2014 (the “EU Benchmark Regulation”) would need to show credible plans
+         to acquire equivalence or prior recognition following the end of relevant transition periods currently
+         applicable, i.e. 31.12.2023. Given that Morningstar operates an EEA-based benchmark administrator,
+        through its subsidiary Moorgate, it is not to be regarded a third country benchmark administrator
+        under the EU Benchmark Regulation.
+7       Reasoned Opinion, Section 6.3.2.
+8       See footnote 6 above.
+                                                    5
+
+[PÁGINA PDF 7]
+        Morningstar would therefore not require any additional regulatory licensees to
+        operate the LCD Business. Moorgate currently calculates more than 300 indices,
+         distributing index values through several dissemination agents including Nasdaq
+       and  Börse  Stuttgart GmbH.  Moorgate  provides  governance  and  regulatory
+         oversight  services  for  certain  of  its  clients.  Additionally,  it  takes on index
+         administration for certain other clients, which provides appropriate structures and
+         policies to satisfy those clients’ regulatory requirements.
+
+(24)     In view of the foregoing, the Commission concludes, in line with the Reasoned
+        Opinion,9 that Morningstar has sufficient proven expertise to develop the LCD
+        Divestment Businesses going forward, including the relevant capabilities or access
+         to the resources and infrastructure required for the calculation, administration and
+        operation of an index business to operate successfully long-term.
+
+2.1.2.3. Incentives to maintain and develop the business
+
+(25)   As per paragraph 15(b) of the LCD/LLI Commitments, the Purchaser shall have the
+         incentive to maintain and develop the LCD Divestment Businesses as a viable and
+         active competitive force in competition with the Parties and other competitors.
+
+(26)     In this respect, according to the Reasoned Opinion, Morningstar’s business plan
+        demonstrates that Morningstar is an industrial buyer, who intends to maintain the
+         strong market position and further develop the LCD Divestment Businesses.
+        Morningstar explains that LCD Divestment Businesses’ news and market insights
+       on the private debt/loan markets align with the capabilities of Morningstar in
+         private equity markets, and anticipates that LCD Divestment Businesses’ data and
+         research would closely complement Morningstar’s current offering. In this respect,
+        Morningstar has  the  incentives  to  further expand  the combined  offering  of
+        Morningstar and the LCD Divestment Businesses and its penetration, which would
+         contribute to Morningstar’s broader strategic goals and open important new market
+         opportunities.
+
+(27)     Further, Morningstar's history of past acquisitions underlines  its capacity and
+         incentives to integrate acquired businesses successfully. Some of the relevant
+        previous acquisitions include the acquisitions of DBRS,10 the fourth largest global
+         credit rating agency, and of Pitchbook, a provider of data, research, and technology
+        covering the private capital markets. In both those cases, Morningstar demonstrated
+         the ability to develop and grow the acquired businesses.
+
+(28)    Based on the information above, and in line with the Reasoned Opinion,11 the
+       Commission considers that Morningstar has the incentives to maintain and develop
+         the LCD Divestment Businesses.
+
+2.1.2.4. Conclusion
+
+(29)    Based on the above considerations, and in line with the Reasoned Opinion,12 the
+       Commission concludes that Morningstar fulfils the criteria of having the financial
+         resources, proven expertise and incentive  to maintain and develop the LCD
+
+
+9       Reasoned Opinion, Section 6.3.
+10       Acquisition of Ratings Acquisitions Corp., the parent company for DBRS Limited (Canada), DBRS
+         Inc. (US), DBRS Ratings Limited (UK) and DBRS Ratings GmbH (Germany).
+11      Reasoned Opinion, Section 6.4.
+12      Reasoned Opinion, Section 6.
+                                                    6
+
+[PÁGINA PDF 8]
+        Divestment Businesses as a viable and active competitive force in competition with
+         the Parties and other competitors, as well as the relevant capabilities or access to
+         the resources and infrastructure required for the calculation, administration and
+        operation of an index business to operate successfully long-term.
+
+2.1.3.   Consent of LSTA
+
+(30)    According to paragraph 15(c) of the LCD/LLI Commitments, the Purchaser shall
+        have obtained the consent of the LSTA for the assignment or transfer of the
+         existing agreement between  itself and the LCD Divestment Businesses to the
+        Purchaser.
+
+(31)     In this respect, the Commission notes that LSTA expressed its consent for the
+        assignment or the existing agreement between LSTA and the LCD Divestment
+        Businesses to Morningstar, as evidenced by the consent letter signed by S&P and
+      LSTA, dated 4 April 2022.
+
+(32)    Based on the information above, and in line with the Reasoned Opinion,13 the
+       Commission notes that Morningstar has received the consent of LSTA as required
+       by the LCD/LLI Commitments.
+
+2.1.4.   Absence of prima facie competition concerns
+
+(33)    According to paragraph 15(d) of the LCD/LLI Commitments, the acquisition of the
+     LCD Divestment Businesses by the Purchaser must neither be likely to create, in
+          light of the information available to the Commission, prima facie competition
+        concerns nor give rise to a risk that the implementation of the Commitments will be
+        delayed. In particular, the Purchaser must reasonably be expected to obtain all
+        necessary approvals from the relevant regulatory authorities for the acquisition of
+         the LCD Divestment Businesses.
+
+(34)     First, according to the information available to the Commission, Morningstar is not
+         active in the provision of leveraged loan market intelligence or leveraged loan
+         indices. With respect to other plausible relevant markets (the broader debt-related
+        market intelligence market or fixed income indices market) in which the LCD
+        Divestment Businesses are active, the Commission notes that Morningstar has only
+        very limited activities in fixed income indices.14 Therefore, the acquisition of the
+     LCD Divestment Businesses by Morningstar does not lead to any prima facie
+        competition concerns in this respect.
+
+(35)    Second,  certain  vertical  relationships  exist  between  the LCD  Divestment
+        Businesses and Morningstar, whereby Morningstar is active in certain markets that
+        could be  considered  as  vertically  linked  to  those  of  the LCD Divestment
+         Businesses.15 However, the Commission notes, in accordance with the Trustee’s
+         review,16 that in any potentially adjacent or vertically related markets (i) the market
+
+13      Reasoned Opinion, Section 6.6.
+14       Morningstar licenses US fixed income indices for the creation of funds and in the form of market
+         data, but its position is small overall. The most important position is in the market of US SA long-
+        term bonds indices for the creation of funds (level 3) where Morningstar has a market share of
+       [10-20]% in 2020 according to data provided by the Parties, see Form CO, Annex A1. The Parties are
+        not active in this specific market.
+15       In particular, Morningstar has  activities in desktop services (which include the distribution of
+          indices), index calculation and administration services, and credit rating issuance.
+16      Reasoned Opinion, Section 6.5.2.
+                                                    7
+
+[PÁGINA PDF 9]
+        share of Morningstar and the LCD Divestment Businesses is below 30%, and (ii)
+         the  links concern  inputs  that could  not be considered  as important  inputs.
+        Therefore, any vertical relationships arising from the acquisition of the LCD
+        Divestment  Businesses by  Morningstar  are  unlikely  to  create  prima  facie
+        competition concerns.
+
+(36)     Finally,  the  acquisition  of  the LCD Divestment  Business does  not  require
+         regulatory licenses or merger control filings in the EEA or any other jurisdiction,
+         apart from an approval process in the United States under the HSR Act, which was
+          filed on 15 April 2022 and for which the waiting period under the HSR Act expired
+       on 16 May 2022 with no action from the US DoJ. As Morningstar has already
+        obtained  all other necessary approvals, these  are not expected  to delay the
+        implementation of the LCD/LLI Commitments.
+
+(37)     In light of the above, and in line with the Reasoned Opinion,17 the Commission
+        considers that the acquisition of the LCD Divestment Businesses by Morningstar is
+         unlikely to create, in light of the information available to the Commission, prima
+         facie competition concerns or give rise to a risk that the implementation of the
+       Commitments will be delayed.
+
+2.2.    The LCD Divestment Businesses are being sold in a manner consistent with
+        the LCD/LLI Commitments
+
+(38)    According to paragraph 16 of the LCD/LLI Commitments, in its assessment of the
+        Transaction Agreement, the Commission has to verify that the LCD Divestment
+        Businesses are being sold in a manner consistent with the LCD/LLI Commitments
+        including their objective to bring about a lasting structural change in the market.
+
+(39)    The Trustee performed a detailed comparison between the Transaction Agreement
+       and the LCD/LLI Commitments, and observed no deviations between the LCD/LLI
+       Commitments and  the  Transaction Agreement. For  completeness,  the APA
+         explicitly specifies that if there is any conflict between the terms of the Transaction
+       Agreement and the requirements of the LCD/LLI Commitments, the Parties will
+       comply with the LCD/LLI Commitments. In addition, the Trustee discussed this
+        matter with Morningstar and confirms that Morningstar is fully satisfied with the
+       manner the LCD/LLI Commitments are reflected in the Transaction Agreement.
+
+(40)    Based on the information above, and in line with the Reasoned Opinion,18 the
+       Commission considers that the LCD Divestment Businesses are being sold in a
+       manner consistent with the LCD/LLI Commitments including their objective to
+        bring about a lasting structural change in the market.
+
+3.     CONCLUSION
+
+(41)   On the basis of the above assessment, the Commission approves Morningstar as a
+         suitable purchaser for the above-mentioned reasons.
+
+(42)   On the basis of the Transaction Agreement, the Commission further concludes that
+         the LCD Divestment Business  is being sold in a manner consistent with the
+      LCD/LLI Commitments.
+
+
+17      Reasoned Opinion, Section 6.5.
+18      Reasoned Opinion, Section 5.4.
+                                                    8
+
+[PÁGINA PDF 10]
+(43)    This decision only constitutes approval of the proposed purchaser identified herein
+       and of the Transaction Agreement. This decision does not constitute a confirmation
+         that Parties have complied with their Commitments.
+
+(44)    This decision is based on paragraph 16 of the LCD/LLI Commitments attached to
+         the Commission Decision of 22 October 2021.
+
+                                           For the Commission
+
+
+                                                  (Signed)
+                                                     Olivier GUERSENT
+                                                Director-General
+
+
+
+
+
+                                                    9

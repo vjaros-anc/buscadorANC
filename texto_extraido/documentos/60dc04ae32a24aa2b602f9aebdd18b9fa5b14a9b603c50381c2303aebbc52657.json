@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "60dc04ae32a24aa2b602f9aebdd18b9fa5b14a9b603c50381c2303aebbc52657",
+  "extraido_utc": "2026-10-22T19:28:47+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10438_DICT_02",
+      "caso": "M.10438",
+      "universo": "principal",
+      "titulo": "Informe final del Consejero Auditor — MOL / OMV SLOVENIJA",
+      "tipo_documental": "DICT",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202447/M_10438_10358879_2982_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202447/M_10438_10358879_2982_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10438/M.10438_DICT_02_60dc04ae32a2.pdf",
+      "sha256": "60dc04ae32a24aa2b602f9aebdd18b9fa5b14a9b603c50381c2303aebbc52657",
+      "coincide_inventario": "",
+      "bytes": "128625",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202447/M_10438_10358879_2982_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "               EUROPEAN COMMISSION\n\n\n                                 Hearing Officer for competition proceedings\n\n                                                    Brussels, 4 May 2023\n\n              Final Report of the Hearing Officer1\n\n          Case M.10438 – MOL / OMV Slovenija\n\n1.  On 13 May 2022, the European Commission received notification of a proposed\n     concentration pursuant to Article 3(1)(b) of Council Regulation (EC) No 139/2004\n     (the ‘Merger Regulation’)2 by which MOL Hungarian Oil and Gas Plc. (‘MOL’ or the\n     ‘Notifying Party’) intends to acquire from the OMV Group sole control over OMV\n    SLOVENIJA, trgovina z nafto in naftnimi derivati, d.o.o. (‘OMV’) (the ‘Proposed\n     Transaction’). For the purposes of this report, MOL and OMV are together referred to\n     as the ‘Parties’.\n\n2.  On 22 June 2022, the Commission adopted a decision to initiate proceedings pursuant\n     to Article 6(1)(c) of the Merger Regulation (the ‘Article 6(1)(c) Decision’), in which\n       it raised serious doubts as to the compatibility of the Proposed Transaction with the\n     internal market and with the functioning of the EEA Agreement.\n\n3.  On 2 July 2022, the Parties submitted written comments on the Article 6(1)(c)\n     Decision.\n\n4.  On 15 July 2022, the Commission adopted two decisions pursuant to Article 11(3) of\n     the Merger Regulation (the ‘Article 11(3) Decisions’), requiring the Parties to supply\n     certain information. The Article 11(3) Decisions suspended the time limit referred to\n     in Article 10(3) of the Merger Regulation, pursuant to Article 10(4) of the Merger\n     Regulation. The Parties complied with the information requests contained in the\n     Article 11(3) Decisions on 17 March 2023, which ended the suspension of the above-\n    mentioned time limit.\n\n5.   Throughout the proceedings, the Commission had numerous exchanges with the\n     Parties, the Parties’ competitors and customers concerning, in particular, the effects of\n     the Proposed Transaction on competition and possible commitments.\n\n\n\n\n\n1   Pursuant to Articles 16 and 17 of Decision 2011/695/EU of the President of the European Commission\n    of 13 October 2011 on the function and terms of reference of the hearing officer in certain competition\n    proceedings, OJ L 275, 20.10.2011, p. 29 (‘Decision 2011/695/EU’).\n2   Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between\n    undertakings, OJ L 24, 29.1.2004, p. 1.",
+      "caracteres": 2495,
+      "caracteres_utiles": 1775,
+      "cobertura_imagen_maxima": 0.0114,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "6.  On 17 March 2023, MOL submitted commitments, with a view to rendering the\n    Proposed Transaction compatible with the internal market and the functioning of the\n   EEA  Agreement,  pursuant  to  Article  8(2)  of  the  Merger  Regulation  (the\n    ‘Commitments’). On 20 March 2023, the Commission launched a market test of the\n    Commitments. The Parties were informed by the Commission about the results of the\n    market test on 30 March 2023.\n\n7.  The draft decision declares the Proposed Transaction compatible with the internal\n    market and the EEA Agreement, subject to compliance with the Commitments.\n\n8.   In view of all of the above, I consider that the effective exercise of the procedural\n     rights has been respected in the present proceedings.\n\n\n\n\n\n                                                    Dorothe DALHEIMER\n                                                        Hearing Officer\n\n\n\n\n\n                                                          2",
+      "caracteres": 979,
+      "caracteres_utiles": 618,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

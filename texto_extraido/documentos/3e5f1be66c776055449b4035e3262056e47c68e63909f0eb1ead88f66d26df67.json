@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "3e5f1be66c776055449b4035e3262056e47c68e63909f0eb1ead88f66d26df67",
+  "extraido_utc": "2026-10-22T19:41:11+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20240223154635+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11143_CP_01",
+      "caso": "M.11143",
+      "universo": "principal",
+      "titulo": "Commission clears acquisition of Bolloré Logistics by CMA CGM, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_973/IP_24_973_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_973",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11143/M.11143_CP_01_3e5f1be66c77.pdf",
+      "sha256": "3e5f1be66c776055449b4035e3262056e47c68e63909f0eb1ead88f66d26df67",
+      "coincide_inventario": "",
+      "bytes": "42883",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_973/IP_24_973_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:04+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission clears acquisition of Bolloré Logistics by CMA CGM, subject to\nconditions\n\nBrussels, 23 February 2024\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof Bolloré Logistics SE (‘Bolloré Logistics') by CMA CGM S.A. (‘CMA CGM'). The approval is conditional\nupon full compliance with the commitments offered by the parties.\n\nCMA CGM and Bolloré Logistics are both international transport and logistics companies. CMA CGM\nprovides container liner shipping and port terminal services while Bolloré Logistics offers freight\nforwarding and contract logistics services.\n\nThe Commission's investigation\n\nThe Commission's investigation showed that the merger, as initially notified, would have reduced\ncompetition in the markets for the provision of sea freight forwarding services in Martinique,\nGuadeloupe, and French Guiana.\n\nIn particular, the Commission found that the transaction would have created important vertical\nlinks between: (i) CMA CGM's upstream container lining shipping activities on routes connecting\nEurope with Martinique, Guadeloupe, and French Guiana; and (ii) Bolloré Logistics' downstream sea\nfreight forwarding activities in those territories.\n\nThe Commission found that CMA CGM could have the ability and incentive to favour Bolloré\nLogistics at the expense of rival freight forwarders, in particular in view of CMA CGM's very\nhigh market shares on these overseas routes and the competitive structures in these territories.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, the parties offered to divest:\n\n     All of Bolloré Logistics' activities in Guadeloupe, Martinique, Saint Martin, and French\n    Guiana; and\n\n   A number of assets in metropolitan France linked to these activities.\n\nThese commitments fully address the competition concerns identified by the Commission, by\nremoving the vertical link between CMA CGM's container liner shipping activities and Bolloré\nLogistics' sea freight transport activities in the concerned territories.\n\nFollowing the positive feedback received in the context of the commitments' market test, the\nCommission concluded that the transaction, as modified by the commitments, would no longer\nraise competition concerns.\n\nIn the course of its investigation, the Commission worked in cooperation with the competition\nauthorities of French Polynesia and New Caledonia.\n\nThe decision is conditional upon full compliance with the commitments. Under supervision of the\nCommission, an independent trustee will monitor their implementation.\n\nCompanies and products\n\nCMA CGM, headquartered in France, is an international group providing container liner shipping\nservices, port services, as well as sea and air freight forwarding services. It is also active in the press\nsector in France via La Provence S.A. CMA CGM is solely controlled by Merit.\n\nBolloré Logistics, headquartered in France, is an international group providing freight forwarding\nservices (sea, air, and land), contract logistics, as well as other value-added services. Bolloré\nLogistics is solely controlled by Bolloré SE.\n\nFor More Information\n\nThe transaction was notified to the Commission on 5 January 2024.",
+      "caracteres": 3267,
+      "caracteres_utiles": 2672,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "The Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the European Economic Area\nor any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working\ndays, bringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.11143.\n\n                                                                                                                IP/24/973\n\nQuotes:\n\n\n \"Competitive maritime transport markets are crucial to strengthen territorial cohesion within the European Union, ensuring that\n remote and insular territories remain well connected and can develop economically. The remedies offered by the parties will\n ensure that the local sea freight forwarding markets remain competitive and that, ultimately, local customers do not end up\n paying higher prices for products imported from mainland Europe.\"\n Margrethe Vestager, Executive Vice-President in charge of competition policy - 23/02/2024\n\n\n\n Press contacts:\n\n      Lea ZUBER (+32 2 29 56298)\n      Sara SIMONINI (+32 2 298 33 67)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1772,
+      "caracteres_utiles": 1334,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

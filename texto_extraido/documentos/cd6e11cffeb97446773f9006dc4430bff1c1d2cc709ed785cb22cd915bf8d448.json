@@ -1,0 +1,95 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "cd6e11cffeb97446773f9006dc4430bff1c1d2cc709ed785cb22cd915bf8d448",
+  "extraido_utc": "2026-10-22T19:28:06+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20220127141302+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10262_CP_01",
+      "caso": "M.10262",
+      "universo": "principal",
+      "titulo": "Mergers: Commission clears acquisition of Kustomer by Meta (formerly Facebook), subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_652/IP_22_652_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_652",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10262/M.10262_CP_01_cd6e11cffeb9.pdf",
+      "sha256": "cd6e11cffeb97446773f9006dc4430bff1c1d2cc709ed785cb22cd915bf8d448",
+      "coincide_inventario": "",
+      "bytes": "49877",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_652/IP_22_652_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:02+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission clears acquisition of Kustomer by Meta (formerly\nFacebook), subject to conditions\n\nBrussels, 27 January 2022\n\nThe European Commission has today approved under the EU Merger Regulation the proposed\nacquisition of Kustomer by Meta (formerly Facebook). The approval is conditional on full compliance\nwith commitments offered by Meta.\n\nExecutive Vice-President Margrethe Vestager, responsible for competition policy, said: “We must\ncarefully review transactions that could further strengthen large players that increasingly dominate\nthe digital economy, irrespective of the target company's size. Our decision today will ensure that\ninnovative rivals and new entrants in the customer relationship management software market can\neffectively compete. The commitments offered by Meta ensure that its rivals will continue to have\nfree and comparable access to Meta's important messaging channels.”\n\nToday's decision follows an in-depth investigation of Meta's proposed acquisition of Kustomer.\nKustomer, although small, is an innovative, and fast growing, player in the customer service and\nsupport customer relationship management (‘CRM') software market. Such software applications are\nused by businesses for engaging with their customers by answering questions, solving problems and\ngiving advice in the context of the business-customer relation. The popular messaging channels,\nWhatsApp, Instagram and Messenger of Meta, are important means through which businesses\ninteract with their customers, and are inputs for customer service and support CRM software\nproviders. Meta and Kustomer therefore operate in vertically-related markets. The Commission's\ninvestigation focused on whether Meta may disadvantage Kustomer's rival providers of customer\nservice and support CRM software.\n\nThe Commission's investigation\n\nDuring its in-depth investigation, the Commission gathered extensive information and feedback from\ncompetitors and customers, and worked in close cooperation with competition authorities of the\nMember States and around the world.\n\nFollowing its market investigation, the Commission had concerns that the transaction, as initially\nnotified, would have harmed competition in:\n\n    the market for the supply of CRM software and\n\n    the market for the supply of customer service and support CRM software.\n\nIn particular, the Commission found that Meta would have the ability, as well as an economic\nincentive, to engage in foreclosure strategies vis-à-vis Kustomer's close rivals and new entrants,\nsuch as denying or degrading access to the application programming interfaces ('APIs') for Meta's\nmessaging channels. Similar to Kustomer, these players have a focus on small and medium business\ncustomers (‘SMBs') and are particular drivers of innovation. Such foreclosure strategies could reduce\ncompetition in the market for the supply of CRM software and the market for the supply of customer\nservice and support CRM software, leading to higher prices, lower quality and less innovation for\nbusiness customers, SMBs in particular, which may in turn be passed on to consumers.\n\nWith respect to the market for the supply of online display advertising services, where the\nCommission had raised preliminary concerns, the Commission found that the merger was not likely\nto lead to a significant impediment of effective competition.\n\nIn particular, the Commission investigated what data Meta would obtain from Kustomer's customers.\nKustomer offers a business-to-business product and does not own the data of its business\ncustomers. Access to data would be dependent on agreements with its business customers who need\nconsent from their end customers. In any event, because of Kustomer's small size, even taking into\naccount its potential growth, the amount of additional data will not be significant. Moreover, rival\nproviders of online display advertising services have, and will continue to have, access to similar\ncommercial data because of the strong commercial interest of businesses in sharing such data with\nboth Meta and rival advertising platforms in order to measure and optimise the performance of their",
+      "caracteres": 4194,
+      "caracteres_utiles": 3456,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "ad campaigns.\n\nTherefore, the Commission concluded that any additional data that Meta may gain access to for the\npurposes of improving its online display advertising service would not result in a significant negative\nimpact on competition between providers of online display advertising services.\n\nThe proposed remedies\n\nTo address the competition concerns identified by the Commission, Meta offered comprehensive\naccess commitments with a 10-year duration:\n\n   A public API access commitment: Meta commits to guarantee non-discriminatory access,\n    without charge to its publicly available APIs for its messaging channels to competing customer\n     service CRM software providers and new entrants.\n\n   A core API access-parity commitment: To the extent any features or functionalities of\n    Messenger, Instagram messaging or WhatsApp that are used by Kustomer's customers today\n   may be improved or updated, Meta commits to also make available equivalent improvements\n     to Kustomer's rivals and new entrants. This would also hold for any new features or\n     functionalities of Meta messaging channels in the future if used by a sizeable proportion of\n    Kustomer's customers.\n\nA trustee, to be appointed before the transaction can close, will monitor the implementation of the\ncommitments. To fulfil its duties, the trustee will have far-reaching powers, including access to\nMeta's records, personnel, facilities or technical information, and can appoint a technical expert to\nassist in the performance of its duties. The commitments also include a fast track and binding\ndispute resolution mechanism that can be invoked by third parties. They also include the\nrequirement for Meta to publish details of relevant APIs and functionalities on its website, in addition\nto quarterly reporting to the monitoring trustee on any ongoing beta testing of new messaging\nfeatures.\n\nThe Commission concluded that the proposed transaction, as modified by the commitments, would\nno longer raise competition concerns. The Commission's decision is conditional upon full compliance\nwith the commitments.\n\nCompanies and product\n\nMeta (formerly Facebook), founded in 2004, is a US based multinational company that provides\nvarious websites and applications for mobile devices offering social networking, consumer\ncommunications and photo and video-sharing functionalities. These include Facebook, Messenger,\nInstagram and WhatsApp. Meta offers most of its services at no cost to users. Meta's primary\nrevenue-generating activity is offering ads space and related services to third parties, which\ncurrently accounts for the vast majority of its annual revenues globally. Meta's messaging channels,\nWhatsApp, Messenger and Instagram messaging, are increasingly important channels for\ninteractions between businesses and their customers.\n\nKustomer, founded in 2015, is a US based company that offers a CRM Software as a Service (SaaS)\ntool specialising in customer service, which displays all interactions that a consumer has had with\nthe business in a single timeline view, including the consumer's purchase history, refunds,\ncomplaints and all other communications. Kustomer's CRM software integrates with a wide range of\nB2C communication channels and supports agent communications with consumers through\ncommunication channels including phone, email, webchat, SMS, Messenger, WhatsApp, Instagram\nand Twitter.\n\nMerger control rules and procedure\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe proposed transaction did not meet the turnover thresholds of the EU Merger Regulation.\nHowever, the transaction was required to be notified to Austria for regulatory clearance. Following\nsuch notification, on 2 April 2021, Austria submitted a referral request to the Commission pursuant\nto Article 22(1) of the EU Merger Regulation. On 12 May 2021, the Commission accepted the request\nfrom Austria, which was joined by Belgium, Bulgaria, France, Iceland, Ireland, Italy, the\nNetherlands, Portugal and Romania. Following this acceptance, the referring Member States will not\napply their own national legislation on competition to the transaction. The Commission assessed the\nimpact of the acquisition of Kustomer by Meta within the territory of these Member States under the\nEU Merger Regulation.",
+      "caracteres": 4531,
+      "caracteres_utiles": 3733,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 3,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "The vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nThere are currently five on-going Phase II merger investigations: the proposed acquisition of\nRectiecel by Greiner, the proposed acquisition of Arm by NVIDIA, the proposed acquisition of Grail by\nIllumina, the proposed merger between Cargotec and Konecranes, and the proposed acquisition of\nTrimo by Kingspan Group.\n\nMore information will be available on the Commission's competition website, in the\nCommission's public case register under the case number M.10262.\n\n                                                                                                                IP/22/652\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1063,
+      "caracteres_utiles": 751,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

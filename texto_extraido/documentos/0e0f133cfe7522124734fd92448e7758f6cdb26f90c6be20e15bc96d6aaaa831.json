@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "0e0f133cfe7522124734fd92448e7758f6cdb26f90c6be20e15bc96d6aaaa831",
+  "extraido_utc": "2026-10-22T19:34:25+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20220802154806+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10687_CP_01",
+      "caso": "M.10687",
+      "universo": "principal",
+      "titulo": "Mergers: Commission approves D'Ieteren's acquisition of PHE, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_4825/IP_22_4825_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_4825",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10687/M.10687_CP_01_0e0f133cfe75.pdf",
+      "sha256": "0e0f133cfe7522124734fd92448e7758f6cdb26f90c6be20e15bc96d6aaaa831",
+      "coincide_inventario": "",
+      "bytes": "45348",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_4825/IP_22_4825_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission approves D'Ieteren's acquisition of PHE, subject to\nconditions\n\nBrussels, 2 August 2022\n\nThe European Commission has approved, under the EU Merger Regulation, D'Ieteren's acquisition of\nPHE. The approval is conditional on full compliance with commitments offered by D'Ieteren.\n\nExecutive Vice-President Margrethe Vestager, in charge of competition policy, said: “More than 90%\nof French motorists buy glass breakage insurance, and more than 3 million windshields are repaired\neach year. Lack of competition on this market could therefore result in higher insurance premiums for\nall consumers. D'Ieteren and PHE are both leading providers of vehicle glass repair and replacement\nservices in France. With the divestments approved today, the parties will be able to bring together\ntheir activities in the automobile repair and spare parts sectors, while ensuring that the transaction\nwill not have a harmful impact on French motorists.”\n\nD'Ieteren is active, through its subsidiary Belron, in the repair and replacement of vehicle glass in a\nnumber of Member States, including in France. The brands of workshops under its control include\nCarglass, Safelite and Autoglass. PHE is active in the repair of vehicle glass in France, through a\nnetwork of workshops under the brand Mondial Pare-Brise and through the Glass Auto Service label.\n\nThe Commission's investigation\n\nGiven Carglass's leading position in the French market for the provision of vehicle glass repair and\nreplacement services, the Commission had concerns that the transaction would have reduced\ncompetition in vehicle glass repair and replacement services in France.\n\nSince the majority of car owners in France are insured for vehicle glass damages, insurance\ncompanies account for approximately 80-90% of the demand for vehicle glass repair and\nreplacement. They usually also bear almost the entire cost of the repair. Therefore, insurance\ncompanies aim at subscribing framework agreements with networks of specialised glass repairers, in\norder to offer a comprehensive choice of repairers to their customers across the French territory and\nto negotiate the price of the repair.\n\nThe Commission's investigation showed that:\n\n    The transaction would have resulted in an entity combining the market leader and an\n    unavoidable trading partner for many insurers (Carglass) with its closest competitor\n    (Mondial Pare-Brise) and another close competitor (Glass Auto Service). Carglass already\n     carries out three times as many vehicle glass repair jobs as the next largest competitor. It also\n    stands out from competing networks in having a strong brand image, recognised by most\n    consumers.\n\n    For these reasons, post-transaction, insurers would not be able to redirect a significant\n     portion of their business to other specialist networks, different from the ones involved in\n    the transaction.\n\n    Furthermore, this market is characterised by high barriers to entry, due to the time and\n    expense needed to develop a nationwide network.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, D'Ieteren offered to divest Mondial Pare-Brise\nand the Glass Auto Service label in their entirety.\n\nThese commitments fully remove the overlap between D'Ieteren and PHE's vehicle glass repair and\nreplacement services activities in France.\n\nFollowing the market test, the Commission therefore concluded that the transaction, as modified by\nthe commitments, would no longer raise competition concerns. The decision is conditional upon full\ncompliance with the commitments.\n\nBackground",
+      "caracteres": 3659,
+      "caracteres_utiles": 2965,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "D'Ieteren, based in Belgium, through its jointly controlled subsidiary Belron, provides vehicle glass\nrepair and replacement services under several brands, including Carglass, Safelite and Autoglass, in\nseveral EU Member States, including in France and in other countries around the world. D'Ieteren\nAutomotive is the official importer and distributor of the Volkswagen brands in Belgium. It also\nmanages a network of dealerships in Belgium and operates dealerships between Brussels and\nAntwerp, as well as the Wondercar franchise, a network of bodywork repair shops, in Belgium.\n\nPHE, based in France, provides vehicle glass repair and replacement services in France, through a\nnetwork of workshops under the brand Mondial Pare-Brise, which are either wholly owned by PHE or\nfranchises. PHE also owns Glass Auto Service, which is a network of independent garages with\nvehicle glass repair and replacement services. PHE is also active in the independent distribution of\nspare parts for motor vehicles in several EU Member States, primarily in France and, to a lesser\nextent, in Belgium, the Netherlands, Italy and Spain. PHE also provides services and business\nsupport to independent garages which operate under one of PHE's brands (e.g. 1,2,3 Autoservice,\nAD, Autoprimo, Staff Auto in France, or 1,2,3 Autoservice, Requal and AD Expert in Belgium).\n\nMerger control rules\n\nThe transaction was notified to the Commission on 13 June 2022.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). If commitments are proposed in Phase I, the Commission has 10 additional working\ndays, bringing the total duration of a Phase I case to 35 working days, such as in this case.\n\nMore information on this case is available on the Commission's competition website, in the\npublic case register under the case number M.10687.\n\n                                                                                                              IP/22/4825\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Nina FERREIRA (+32 2 299 81 63)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2658,
+      "caracteres_utiles": 2047,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

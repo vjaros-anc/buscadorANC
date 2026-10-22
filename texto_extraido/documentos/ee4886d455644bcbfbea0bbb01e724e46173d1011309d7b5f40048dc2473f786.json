@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "ee4886d455644bcbfbea0bbb01e724e46173d1011309d7b5f40048dc2473f786",
+  "extraido_utc": "2026-10-22T19:23:56+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20211026103149+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10108_CP_01",
+      "caso": "M.10108",
+      "universo": "principal",
+      "titulo": "Mergers: Commission approves acquisition of IHS Markit by S&P Global, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_21_5461/IP_21_5461_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_21_5461",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10108/M.10108_CP_01_ee4886d45564.pdf",
+      "sha256": "ee4886d455644bcbfbea0bbb01e724e46173d1011309d7b5f40048dc2473f786",
+      "coincide_inventario": "",
+      "bytes": "45791",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_21_5461/IP_21_5461_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:02+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission approves acquisition of IHS Markit by S&P Global,\nsubject to conditions\n\nBrussels, 22 October 2021\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition\nof IHS Markit by S&P Global. The approval is conditional on the divestment of businesses in the areas\nof commodity price assessments and financial data.\n\nExecutive Vice-President Margrethe Vestager, in charge of competition policy, said: “S&P Global and\nIHS Markit are leaders in the commodity and financial data markets. Without remedies, the merger\nwould have limited customers access to some competitive and reliable data which is essential to\nensure fairness of physical trades and financial markets. With this conditional approval the\nproblematic overlaps in commodity price assessments, and also in the area of loan identifiers and\nindices are fully removed, to the benefit of competition”.\n\nThe Commission's investigation\n\nS&P Global and IHS Markit are major global providers of commodity and financial data. The\nCommission's investigation focused on the global markets for commodity price assessments and\nmarket intelligence, as well as for credit ratings, financial data, indices, identifiers, and market\nintelligence products, especially in the loan value chain.\n\nFollowing its investigation, the Commission was concerned that the acquisition would reduce\ncompetition, leading to potential price increases and a reduction of choice and innovation in the\nmarkets for:\n\n    price assessments for oil, coal, biofuels and petrochemicals, where both companies are\n   among the four global price assessment reporting agencies, and markets are characterised by\n    strong network effects and high barriers to entry;\n\n    loan identifiers, where IHS Markit provides the leading LoanX ID (LXID) identifiers globally\n    and S&P Global provides loan CUSIPs (named after the Committee on Uniform Securities\n     Identification Procedures that developed the identifier standard originally);\n\n    leveraged loan market intelligence, for which S&P Global is a strong global supplier and\n    IHS Markit a provider of very important inputs, including its LXIDs; and\n\n    leveraged loan indices, where both companies are active and would face limited competition\n     following the merger.\n\nThe proposed remedies\n\nTo address the Commission's competition concerns, S&P Global and IHS Markit offered the following\ncommitments:\n\n    In commodity price assessments, the divestment of IHS Markit's Oil Price Information\n    Service (“OPIS”), including PetroChemWire, and Coal, Metals and Mining (“CMM”)\n    businesses. The divestment of OPIS and CMM fully removes the problematic overlap in\n     relation to price assessments for oil, coal, biofuels and petrochemicals.\n\n    In financial data and infrastructure, the divestment of a number of S&P Global businesses.\n\n        The divestment of S&P Global's CUSIP issuance and data licensing business\n        (“CUSIP Global Services”). This divestment covers the issuance and data licensing of\n         loan CUSIP identifiers, and thus removes fully the overlap in the area of loan identifiers.\n\n        The divestment of S&P Global's leveraged loan 100 index family and its leveraged\n        loan market intelligence product Leveraged* Commentary and Data (LCD). This\n        divestment (i) fully removes the overlap between S&P Global and IHS Markit in relation\n         to leveraged loan indices, and (ii) ensures that the merged entity will not have any\n         incentive to foreclose competitors in leveraged loan market intelligence.\n\nThese businesses will have to be divested to one or more purchaser(s) to be approved by the",
+      "caracteres": 3742,
+      "caracteres_utiles": 2949,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Commission.\n\nThese structural commitments fully remove the competition concerns identified by the Commission\nin the markets for commodity price assessments, loan identifiers, leveraged loan indices and\nleveraged loan market intelligence. The Commission therefore considered that the proposed\ntransaction, as modified by the commitments, would no longer raise competition concerns. The\ndecision is conditional upon full compliance with the commitments.\n\nCompanies and products\n\nS&P Global is a US-based company which offers credit ratings, commodity price assessments,\nsecurity identifiers, as well as data and analytics to the capital and commodity markets worldwide.\n\nIHS Markit is a UK-based provider of data and analytics to industries, financial markets, and\ngovernments. IHS Markit provides pricing and reference data, identifiers, financial indices, valuation\nand trading services, as well as data feeds and data management solutions.\n\nMerger control rules and procedures\n\nThe transaction was notified to the Commission on 3 September 2021.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has a total of\n25 working days to decide whether to grant approval (Phase I) or to start an in-depth investigation\n(Phase II). This deadline is extended to 35 working days in cases where remedies are submitted by\nthe parties, such as in this case.\n\nMore information will be available on the Commission's competition website, in the\nCommission's public case register under the case number M.10108.\n\n\n\n*Modified on 26 Oct., at 10:30.\n\n                                                                                                              IP/21/5461\n\n\n Press contacts:\n\n       Daniel FERRIE (+32 2 298 65 00)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2250,
+      "caracteres_utiles": 1729,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

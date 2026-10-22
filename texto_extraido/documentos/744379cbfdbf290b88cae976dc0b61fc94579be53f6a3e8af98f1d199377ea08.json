@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "744379cbfdbf290b88cae976dc0b61fc94579be53f6a3e8af98f1d199377ea08",
+  "extraido_utc": "2026-10-22T19:46:12+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20260612180004+02'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.12201_CP_01",
+      "caso": "M.12201",
+      "universo": "principal",
+      "titulo": "Commission approves Holcim's acquisition of Xella, subject to conditions",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_1338/IP_26_1338_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1338",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_12201/M.12201_CP_01_744379cbfdbf.pdf",
+      "sha256": "744379cbfdbf290b88cae976dc0b61fc94579be53f6a3e8af98f1d199377ea08",
+      "coincide_inventario": "",
+      "bytes": "72181",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_1338/IP_26_1338_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:05+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                           European Commission - Press\n                               release\n\n\n\n\n\nCommission approves Holcim's acquisition of Xella, subject to conditions\n\nBrussels, 12 June 2026\n\nThe European Commission has approved, under the EU Merger Regulation, the proposed acquisition of\nXella international S.A. ('Xella') by Holcim Ltd ('Holcim'). The approval is conditional upon full\ncompliance with the commitment offered by Holcim, which entails the full divestment of Holcim's AAC\nblocks plant in Adjud, Romania.\n\nHolcim and Xella are both active in the construction sector in several countries in the European\nEconomic Area ('EEA'). Holcim is mostly active as a supplier of cement, aggregates and ready-mix\nconcrete, as well as building materials, while Xella is a supplier of building materials.\n\nThe Commission's investigation\n\nThe Commission had concerns that the transaction, as initially notified, would significantly reduce\ncompetition in the market for the supply of autoclaved aerated concrete ('AAC') blocks, a specific type\nof building material designed to provide energy-efficient and sustainable solutions for construction\nprojects.\n\nIn particular, the Commission's investigation found that Holcim and Xella are leading suppliers of AAC\nblocks in Romania, with a strong market presence and well-established brands.\n\nThe proposed remedies\n\nTo address the Commission's preliminary competition concerns, Holcim offered to divest Holcim's AAC\nblocks plant in Adjud (Romania).\n\nThis commitment fully addresses the competition concerns identified by the Commission by\nremoving the horizontal overlap between the parties' AAC blocks businesses in Romania.\n\nFollowing the positive feedback received in the context of the market test, the Commission concluded\nthat the transaction, as modified by the commitment, would no longer raise competition\nconcerns.\n\nThe decision is conditional upon full compliance with the commitment. Under the supervision of the\nCommission, an independent trustee will monitor its implementation.\n\nThe Commission will assess the suitability of buyers proposed by Holcim in the context of a separate\nbuyer approval procedure.\n\nCompanies and products\n\nHolcim Ltd, headquartered in Switzerland, is a global supplier of cement, aggregates, ready-mix\nconcrete, building materials, insulation products and mortars.\n\nXella international S.A., headquartered in Germany, is a building material manufacturer, active,\nmostly in the EEA, in the supply of masonry materials, insulation products, mortars and lime.\n\nMerger control rules and procedure\n\nThe transaction was notified to the Commission on 20 April 2026.\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a turnover\nabove certain thresholds (see Article 1 of the EU Merger Regulation) and to prevent concentrations\nthat would significantly impede effective competition in the EEA or any substantial part of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working",
+      "caracteres": 3137,
+      "caracteres_utiles": 2529,
+      "cobertura_imagen_maxima": 0.0196,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "days to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II). If\ncommitments are proposed in Phase I, the Commission has 10 additional working days, bringing the\ntotal duration of a Phase I case to 35 working days, such as in this case.\n\nFor more information\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.12201.\n\n                                                                                                            IP/26/1338\n\n\n Press contacts:\n\n       Ricardo CARDOSO (+32 2 29 80100)\n       Paula Clara RITTER-MOSCHUTZ (+32 2 29 64083)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 747,
+      "caracteres_utiles": 488,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "04b2d00ee34b50bef96179f0a3d4cc8dfab0fdf1f1b894139da2d983d3ffd896",
+  "extraido_utc": "2026-10-22T19:23:56+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.7",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDF CoDe 5.2109.568.0 (c) 2002-2021 European Commission",
+    "producer": "PDF CoDe 5.2109.568.0 (c) 2002-2021 European Commission",
+    "creationDate": "D:20210907154118+02'00'",
+    "modDate": "D:20210907154118+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10108_NOT_PREVIA_01",
+      "caso": "M.10108",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — S&P GLOBAL / IHS MARKIT",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202137/m10108_1351_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202137/m10108_1351_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10108/M.10108_NOT_PREVIA_01_04b2d00ee34b.pdf",
+      "sha256": "04b2d00ee34b50bef96179f0a3d4cc8dfab0fdf1f1b894139da2d983d3ffd896",
+      "coincide_inventario": "",
+      "bytes": "13610",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202137/m10108_1351_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:00+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": "1",
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\n\nM. 10108 - S&P GLOBAL / IHS MARKIT\n\n\n                         SECTION 1.2\n\n\n                           Description of the concentration\n\n\nOn 29 November 2020, S&P and IHSM, both public companies listed on the New York Stock\nExchange, entered into a binding merger agreement to combine in an all-stock transaction.\nUnder the terms of the merger agreement each share of IHSM common stock will be\nexchanged for a fixed ratio of 0.2838 shares of S&P common stock. Upon completion of the\ntransaction, current S&P shareholders will own approximately 67.75% of the combined\ncompany on a fully diluted basis, while IHSM shareholders will own approximately 32.25%.\nThe Transaction values IHSM at an enterprise value of $44 billion, including $4.8 billion of\nnet debt.\n\n\nS&P, a US company headquartered in New York, is a supplier of transparent and independent\nratings, price assessments  / benchmarks, analytics, and data to the capital and commodity\nmarkets worldwide.\n\n\nIHSM, a Bermuda company headquartered in London, delivers next-generation information,\nanalytics and solutions to customers in business, finance and government.\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 1822,
+      "caracteres_utiles": 1417,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

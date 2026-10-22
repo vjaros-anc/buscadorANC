@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "ce7f9e573c385893d79b88bee455b9311dd98a2a74f9de9949064a627972f78b",
+  "extraido_utc": "2026-10-22T19:28:47+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.5",
+    "title": "Disclaimer :",
+    "author": "Administrator",
+    "subject": "",
+    "keywords": "",
+    "creator": "PDF CoDe 5.2109.568.0 (c) 2002-2021 European Commission",
+    "producer": "PDF CoDe 5.2109.568.0 (c) 2002-2021 European Commission",
+    "creationDate": "D:20220516104311+02'00'",
+    "modDate": "D:20220516104445+02'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10438_NOT_PREVIA_01",
+      "caso": "M.10438",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — MOL / OMV SLOVENIJA",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202221/M_10438_8320003_653_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202221/M_10438_8320003_653_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10438/M.10438_NOT_PREVIA_01_ce7f9e573c38.pdf",
+      "sha256": "ce7f9e573c385893d79b88bee455b9311dd98a2a74f9de9949064a627972f78b",
+      "coincide_inventario": "",
+      "bytes": "200983",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202221/M_10438_8320003_653_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.10438 – MOL / OMV SLOVENIJA\n\n                         SECTION 1.2\n\n                           Description of the concentration\n\nMOL Hungarian Oil and Gas Plc. (\"MOL\"), the parent company of an integrated oil and gas\ngroup (\"MOL Group\") intends to acquire via its solely controlled subsidiaries sole control\nover OMV SLOVENIJA, trgovina z nafto in naftnimi derivati, d.o.o. (\"OMV Slovenija\")\nfrom OMV Downstream GmbH, part of the OMV Group (hereinafter jointly referred to as\n\"Seller\") (“Proposed Transaction”).\n\nMOL Group is a vertically integrated oil and gas conglomerate whose principal activities are:\n(i) the exploration, production and refining of crude oil, (ii) the distribution of refined oil\nproducts both at wholesale and retail level, (iii) the production and sale of petrochemicals, (iv)\nthe exploration and production of natural gas and (v) the transmission of natural gas in\nHungary. In Slovenia, MOL Group operates a network of 53 fuel stations and has also\npresence in the wholesale supply of motor fuels, bitumen, heating oil, LPG, lubricants and\nselected chemicals.\n\nOMV Slovenija operates 119 fuel stations in Slovenia under the OMV, OMV Viva, Diskont,\nAvanti and EuroTruck brands and is also active in the wholesale supply of motor fuels,\nheating oil and bitumen.\n\n\n\n\n\nCommission européenne, DG COMP MERGER REGISTRY, 1049 Bruxelles, BELGIQUE\nEuropese Commissie, DG COMP MERGER REGISTRY, 1049 Brussel, BELGIË\n\nTel: +32 229-91111. Fax: +32 229-64301. E-mail: COMP-MERGER-REGISTRY@ec.europa.eu.",
+      "caracteres": 1983,
+      "caracteres_utiles": 1539,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

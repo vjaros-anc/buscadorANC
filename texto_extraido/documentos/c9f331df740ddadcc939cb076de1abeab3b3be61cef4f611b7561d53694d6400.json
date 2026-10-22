@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "c9f331df740ddadcc939cb076de1abeab3b3be61cef4f611b7561d53694d6400",
+  "extraido_utc": "2026-10-22T19:24:16+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": " ",
+    "author": "Jonas RASIMAS",
+    "subject": "",
+    "keywords": "EL4",
+    "creator": "Acrobat PDFMaker 23 for Word",
+    "producer": "Adobe PDF Library 23.8.246",
+    "creationDate": "D:20240315105034+01'00'",
+    "modDate": "D:20240315105036+01'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10149_OTRO_01",
+      "caso": "M.10149",
+      "universo": "principal",
+      "titulo": "Trustee details — KOREAN AIR LINES / ASIANA AIRLINES",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202412/M_10149_9963947_17766_3.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202412/M_10149_9963947_17766_3.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10149/M.10149_OTRO_01_c9f331df740d.pdf",
+      "sha256": "c9f331df740ddadcc939cb076de1abeab3b3be61cef4f611b7561d53694d6400",
+      "coincide_inventario": "",
+      "bytes": "86901",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202412/M_10149_9963947_17766_3.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:00+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 MONITORING TRUSTEE\n\n       IN CASE M.10149 – KOREAN AIR LINES / ASIANA AIRLINES\n\n\nOn 26.02.2024 the Commission approved the appointment of:\n\nMazars LLP\n\n30 Old Bailey\n\nLondon EC4M 7AU\n\nUnited Kingdom\n\n\nContact: Fernanda Salomon\n\nMobile: +44 (0)788 128 3388\n\nfernanda.salomon@mazars.co.uk\n\nwww.mazars.co.uk\n\nas Monitoring Trustee in the above-mentioned case.\n\n\nThe role of the Monitoring Trustee is to monitor the compliance of Korean Air Lines\nwith the Commitments attached to the Commission's Decision of 13/02/2024 and to\nreport to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 841,
+      "caracteres_utiles": 655,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

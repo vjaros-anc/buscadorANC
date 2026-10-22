@@ -1,0 +1,982 @@
+[PÁGINA PDF 1]
+DISCLAIMER:  This  is an  interim  text  of  the  non-confidential  version  of  the
+commitments in Case M.11383 – COOPER / VIATRIS (EUROPEAN OTC BUSINESS).
+Parts of this text have been edited to ensure that confidential information is not disclosed;
+those parts are enclosed in square brackets. The text is made available for information
+purposes only and does not constitute an official publication. The full text of the decision
+and the commitments in Annex will be published on DG Competition's website.
+
+
+     CASE M.11383 – COOPER / VIATRIS (EUROPEAN OTC BUSINESS)
+
+         COMMITMENTS TO THE EUROPEAN COMMISSION
+
+Pursuant to Article 6(2) of Council Regulation (EC) No 139/2004 (the "Merger Regulation"),
+Cooper Consumer Health S.A.S. ("Cooper") and Viatris Inc. ("Viatris") hereby enter into the
+following Commitments (the "Commitments") vis-à-vis the European Commission (the
+"Commission") with a view to rendering the acquisition by Cooper of sole control of the
+European over-the-counter ("OTC") business of Viatris  (the "Proposed Transaction")
+compatible with the internal market and the functioning of the EEA Agreement.
+
+This text shall be interpreted in light of the Commission's decision pursuant to Articles 6(1)(b)
+and 6(2) of the Merger Regulation to declare the Proposed Transaction compatible with the
+internal market and the functioning of the EEA Agreement (the "Decision"), in the general
+framework of European Union law, in particular in light of the Merger Regulation, and by
+reference to the Commission Notice on remedies acceptable under Council Regulation (EC)
+No 139/2004 and under Commission Regulation (EC) No 802/2004 (the "Remedies Notice").
+
+
+Section A. Definitions
+
+1.   For the Commitments, the following terms shall have the following meaning:
+
+Affiliated Undertakings: undertakings controlled by the Parties and/or by the ultimate parents
+of the Parties, whereby the notion of control shall be interpreted pursuant to Article 3 of the
+Merger Regulation and in light of the Commission Consolidated Jurisdictional Notice under
+Council Regulation (EC) No 139/2004 on the control of concentrations between undertakings
+(the "Consolidated Jurisdictional Notice").
+
+Assets: the assets that contribute to the current operation or are necessary to ensure the viability
+and competitiveness of the Divestment Businesses as indicated in Section B, paragraph 6.1 (a),
+(b) and (c) and paragraph 6.2 (a), (b) and (c) and described more in detail in the Schedules.
+
+Bebegel Divestment Business: the Divestment Business described in more detail in Schedule
+A.
+
+Bebegel Divestment Business Closing: the transfer of the legal title to the Bebegel Divestment
+Business to the Purchaser.
+
+Closings: the Bebegel Divestment Business Closing and the Otowaxol Divestment Business
+Closing, and "Closing" shall mean any one of the Closings, as relevant.
+
+
+
+                                        1
+
+[PÁGINA PDF 2]
+Closing Period: for each Divestment Business, the period of [time period] from the approval
+of the Purchaser and the terms of sale by the Commission for that Divestment Business.
+
+Commission: European Commission.
+
+Commitments: these commitments offered by the Parties to the Commission.
+
+Completion: the closing of the Proposed Transaction.
+
+Confidential Information: any business secrets, know-how, commercial information, or any
+other information of a proprietary nature that is not in the public domain.
+
+Conflict of Interest: any conflict of interest that impairs the Trustee's objectivity and
+independence in discharging its duties under the Commitments.
+
+Cooper: Cooper Consumer Health S.A.S.
+
+Decision: the Commission's decision pursuant to Article 6(1)(b) and Article 6(2) of the Merger
+Regulation to declare the Proposed Transaction compatible with the internal market and the
+functioning of the EEA Agreement.
+
+Divestment Businesses: the Bebegel Divestment Business and the Otowaxol Divestment
+Business, and "Divestment Business" shall mean any one of the Divestment Businesses, as
+relevant.
+
+Divestiture Trustee: one or more natural or legal person(s) who is/are approved by the
+Commission and appointed by Cooper and who has/have received from Cooper the exclusive
+Trustee mandate to sell the Divestment Businesses to one or more Purchasers at no minimum
+price.
+
+Effective Date: the date of adoption of the Decision.
+
+First Divestiture Period: the period of [time period] from the Effective Date.
+
+Hold Separate Manager: the person appointed by Cooper to manage the day-to-day
+operations of the Divestment Businesses under the supervision of the Monitoring Trustee.
+
+Key Personnel: all personnel necessary to maintain the viability and competitiveness of the
+Divestment Businesses, as listed in the Schedules, including the Hold Separate Manager.
+
+Merger Regulation: Council Regulation (EC) No. 139/2004.
+
+Monitoring Trustee: one or more natural or legal person(s) approved by the Commission and
+appointed by Cooper, and who has the duty to monitor Cooper’s compliance with the
+conditions and obligations attached to the Decision.
+
+Notifying Party: Cooper Consumer Health S.A.S.
+
+OTC: Over-the-counter.
+
+
+
+                                        2
+
+[PÁGINA PDF 3]
+Otowaxol Divestment Business: the Divestment Business described in more detail in
+Schedule B.
+
+Otowaxol Divestment Business Closing: the transfer of the legal  title to the Otowaxol
+Divestment Business to the Purchaser.
+
+Parties: Cooper and Viatris.
+
+Personnel: the staff currently employed in relation to and required to maintain the viability of
+the Divestment Businesses.
+
+Proposed Transaction: Cooper's proposed acquisition of sole control of the European OTC
+business of Viatris.
+
+Purchaser(s): one or more entities approved by the Commission as the acquirer(s) of one or
+both of the Divestment Businesses in accordance with the criteria set out in Section D.
+
+Purchaser Criteria: the criteria laid down in paragraph 16 of these Commitments that the
+Purchaser(s) must fulfil in order to be approved by the Commission.
+
+Remedies Notice: Commission Regulation (EC) No 802/2004.
+
+Schedules: the schedules to these Commitments describing more in detail the Divestment
+Businesses.
+
+Trustee(s): the Monitoring Trustee and/or the Divestiture Trustee as the case may be.
+
+Trustee Divestiture Period: the period of [time period] from the end of the First Divestiture
+Period.
+
+Viatris: Viatris Inc. a corporation incorporated under the laws of the state of Delaware, the
+United States of America, with its corporate seat in Delaware, the United States of America.
+
+
+
+
+
+                                        3
+
+[PÁGINA PDF 4]
+           Section B. The commitment to divest and the Divestment Business
+
+    Commitment to divest
+
+2.    In order to maintain effective competition, the Parties commit to divest, or procure the
+      divestiture of, the Bebegel Divestment Business and Otowaxol Divestment Business by
+      the end of the Trustee Divestiture Period as a going concern to a Purchaser or Purchasers
+     on terms of sale approved by the Commission in accordance with the procedure described
+      in paragraph 17 of these Commitments.
+
+3.   To carry out the divestiture, the Parties commit to finding a Purchaser or Purchasers and
+      to enter into a final binding sale and purchase agreement with Cooper for the sale of the
+     Divestment Businesses within the First Divestiture Period. If Cooper has not entered into
+     such an agreement at the end of the First Divestiture Period in relation to either
+     Divestment Business, Cooper shall grant the Divestiture Trustee an exclusive mandate to
+       sell the relevant Divestment Business in accordance with the procedure described in
+     paragraph 29 in the Trustee Divestiture Period and subject to Completion.
+
+4.   The Parties shall be deemed to have complied with this commitment if:
+
+      (a)   by the end of the Trustee Divestiture Period, Cooper or the Divestiture Trustee has
+           entered into a final binding sale and purchase agreement(s) and the Commission
+          approves the proposed Purchaser(s) and the terms of sale as being consistent with
+           these Commitments in accordance with the procedure described in paragraph 17;
+          and
+
+      (b)   the Closings take place within the Closing Period.
+
+          Following Completion, Viatris will only remain bound by paragraphs 6, 7, 11, 36,
+           37, 38, 42 and 43 of these Commitments.
+
+5.    In order to maintain the structural effect of the Commitments, the Notifying Party shall,
+      for a period of 10 years after Closing of the relevant Divestment Business, not acquire,
+     whether directly or indirectly, the possibility of exercising influence (as defined in
+     paragraph 43 of the Remedies Notice, footnote 3) over the whole or part of the
+     Divestment Business, unless, following the submission of a reasoned request from the
+     Notifying Party showing good cause and accompanied by a report from the Monitoring
+      Trustee (as provided in paragraph 43 of these Commitments), the Commission finds that
+      the structure of the market has changed to such an extent that the absence of influence
+     over the Divestment Business is no longer necessary to render the proposed concentration
+     compatible with the internal market.
+
+      Structure and definition of the Divestment Businesses
+
+6.   The Divestment Businesses comprise  the Bebegel Divestment Business and  the
+     Otowaxol Divestment Business:
+
+      6.1.    The legal and functional structure of the Bebegel Divestment Business as
+      operated to date is described in Schedule A. The Bebegel Divestment Business, described
+      in more detail in Schedule A, includes all assets and staff that contribute to the current
+
+
+                                        4
+
+[PÁGINA PDF 5]
+operation or are necessary to ensure the viability and competitiveness of the Bebegel
+Divestment Business, in particular:
+
+   (a)      all tangible and intangible assets (including intellectual property rights);
+   (b)     all  licences,  permits  and  authorisations  issued  by  any  governmental
+          organisation for the benefit of the Bebegel Divestment Business;
+   (c)      all contracts, commitments and customer orders of the Bebegel Divestment
+          Business; all customer, credit and other records of the Bebegel Divestment
+          Business;
+   (d)     all advertising, marketing, sales, publicity and presentational materials related
+           to the Bebegel Divestment Business, as applicable; and
+   (e)    a full transfer of any trademarks related to the Bebegel Divestment Business
+         and relating to any EU Member State or States except, at the Purchaser's
+          option, trademarks relating to France and French Polynesia.
+
+In addition, the Parties will endeavour on a best-efforts basis to obtain the assignment (at
+the  Purchaser's  option)  of  the  existing manufacturing  contracts  for  the Bebegel
+Divestment Business on substantially the same terms and conditions (including price) or,
+in the event that consent for the assignment cannot be obtained on substantially the same
+terms and conditions (including price) and, at the Purchaser's option, the benefit of back-
+to-back arrangements for the supply by Cooper of the products to the Purchaser for the
+duration of the relevant contracts and, in any case, for no longer than three years.
+
+6.2.    The legal and functional structure of the Otowaxol Divestment Business as
+operated to date  is described in Schedule B. The Otowaxol Divestment Business,
+described in more detail in Schedule B, includes all assets and staff that contribute to the
+current operation or are necessary to ensure the viability and competitiveness of the
+Otowaxol Divestment Business, in particular:
+
+   (a)      all tangible and intangible assets (including intellectual property rights);
+   (b)     all  licences,  permits  and  authorisations  issued  by  any  governmental
+          organisation for the benefit of the Otowaxol Divestment Business;
+   (c)      all contracts, commitments and customer orders of the Otowaxol Divestment
+          Business; all customer, credit and other records of the Otowaxol Divestment
+          Business;
+   (d)     all advertising, marketing, sales, publicity and presentational materials related
+           to the Otowaxol Divestment Business, as applicable; and
+   (e)    a full transfer of any trademarks related to the Otowaxol Divestment Business
+         and relating to any EU Member State or States except, at the Purchaser's
+          option, the trademark relating to Ireland.
+
+  In addition, the Parties will endeavour on a best-efforts basis to obtain the assignment
+   (at the Purchaser's option) of the existing manufacturing contracts for the Otowaxol
+  Divestment Business on substantially the same terms and conditions (including price)
+   or, in the event that consent for the assignment cannot be obtained on substantially the
+  same terms and conditions (including price) and, at the Purchaser's option, the benefit
+  of back-to-back arrangements for the supply by Cooper of the products to the
+  Purchaser for the duration of the relevant contracts and, in any case, for no longer than
+  three years.
+
+
+
+                                   5
+
+[PÁGINA PDF 6]
+                           Section C. Related commitments
+
+      Preservation of viability, marketability and competitiveness
+
+7.   The Parties shall from the Effective Date until the Closings, preserve or procure the
+      preservation of the economic viability, marketability and competitiveness of the Bebegel
+     Divestment Business (including in France) and the Otowaxol Divestment Business
+      (including in Ireland), in accordance with good business practice, and shall minimise as
+      far as possible any risk of loss of competitive potential of the Divestment Businesses. In
+      particular, the Parties undertake:
+
+      (a)   not to carry out any action that might have a significant adverse impact on the
+            value, management or competitiveness of the Divestment Businesses or that might
+             alter the nature and scope of activity, or the industrial or commercial strategy or
+            the investment policy of the Divestment Businesses;
+      (b)   to make available, or procure to make available, sufficient resources for the
+          development of the Divestment Businesses, on the basis and continuation of the
+            existing business plans; and
+      (c)   to take all reasonable steps, or procure that all reasonable steps are being taken,
+           including appropriate incentive schemes (based on industry practice), to encourage
+              all Key Personnel to remain with the Divestment Businesses, and not to solicit or
+        move any Personnel to the Parties' remaining business. Where, nevertheless,
+            individual members of the Key Personnel exceptionally leave the Divestment
+           Businesses, Cooper shall provide a reasoned proposal to replace the person or
+           persons concerned to the Commission and the Monitoring Trustee. Cooper must be
+           able to demonstrate to the Commission that the replacement is well suited to carry
+           out the functions exercised by those individual members of the Key Personnel. The
+           replacement shall take place under the supervision of the Monitoring Trustee, who
+             shall report to the Commission.
+
+     Hold-separate obligations
+
+8.   Cooper commit(s), from the Effective Date until Closings, to keep the Divestment
+     Businesses separate from the business it is retaining and to ensure that unless explicitly
+      permitted under these Commitments:  (i) management and staff of the business(es)
+      retained by Cooper have no involvement in the Divestment Businesses; (ii) the Key
+     Personnel and Personnel of the Divestment Businesses have no involvement in any
+      business retained by Cooper and do not report to any individual outside the Divestment
+      Businesses.
+
+9.    Until Closings, Cooper  shall  assist  the Monitoring Trustee  in ensuring  that the
+     Divestment Businesses are managed as a distinct and saleable businesses separate from
+      the retained business. Immediately after the adoption of the Decision, Cooper shall
+      appoint a Hold Separate Manager. The Hold Separate Manager shall manage the
+     Divestment Businesses independently and in the best interest of the business with a view
+      to ensuring their continued economic viability, marketability and competitiveness and
+      their independence from the retained business. The Hold Separate Manager shall closely
+     cooperate with and report to the Monitoring Trustee and, if applicable, the Divestiture
+      Trustee. Any replacement of the Hold Separate Manager shall be subject to the procedure
+
+
+
+                                        6
+
+[PÁGINA PDF 7]
+      laid down in paragraph 7(c) of these Commitments. The Commission may, after having
+     heard Cooper, require Cooper to replace the Hold Separate Manager.
+
+     Ring-fencing
+
+10.  Cooper shall implement, or procure to implement, all necessary measures to ensure that
+        it does not, after the Effective Date, obtain any Confidential Information relating to the
+     Divestment Businesses and that any such Confidential Information obtained by Cooper
+      before the Effective Date will be eliminated and not be used by Cooper. In particular, the
+      participation of the Divestment Businesses in any central information technology
+     network shall be severed to the extent possible, without compromising the viability of
+      the Divestment Businesses. The Parties may obtain or keep information relating to the
+     Divestment Businesses which  is reasonably necessary  for  the  divestiture of  the
+     Divestment Businesses or the disclosure of which to the Parties is required by law.
+
+      Non-solicitation clause
+
+11.  The Parties undertake, subject to customary limitations, not to solicit, and to procure that
+      Affiliated Undertakings do not solicit, the Key Personnel transferred with the Divestment
+     Businesses for a period of two years after Closings.
+
+    Due diligence
+
+12.   In order to enable potential purchasers to carry out a reasonable due diligence of the
+     Divestment Businesses, the Parties shall, subject to customary confidentiality assurances
+     and dependent on the stage of the divestiture process:
+
+      (a)   provide to potential purchasers sufficient information as regards the Divestment
+           Businesses; and
+      (b)   provide to potential purchasers sufficient information relating to the Personnel and
+           allow them reasonable access to the Personnel.
+
+     Reporting
+
+13.  The Parties shall submit written reports in English on potential purchasers of the
+     Divestment Businesses and developments in the negotiations with such potential
+      purchasers to the Commission and the Monitoring Trustee no later than 10 days after the
+     end of every month following the Effective Date (or otherwise at the Commission's
+      request).
+
+14.  The Parties shall submit a list of all potential purchasers having expressed interest in
+      acquiring the Divestment Businesses to the Commission at each and every stage of the
+      divestiture process, as well as a copy of all the offers made by potential purchasers within
+     5 days of their receipt.
+
+15.  The Parties shall inform the Commission and the Monitoring Trustee on the preparation
+      of the data room documentation and the due diligence procedure and shall submit a copy
+      of any information memorandum to the Commission and the Monitoring Trustee before
+     sending the memorandum out to potential purchasers.
+
+
+
+                                        7
+
+[PÁGINA PDF 8]
+                                 Section D. The Purchaser
+
+16.   In order to be approved by the Commission, the Purchaser(s) must fulfil the following
+       criteria:
+
+      (a)  The Purchaser(s) shall be independent of and unconnected to the Notifying Party
+          and their Affiliated Undertakings (this being assessed having regard to the situation
+           following the divestiture);
+      (b)  The Purchaser(s) shall have the financial resources, proven expertise and incentive
+            to maintain and develop the relevant Divestment Business as a viable and active
+           competitive force in competition with Cooper and other competitors;
+      (c)  The acquisition of the relevant Divestment Business by the Purchaser(s) must
+            neither be likely to create, in light of the information available to the Commission,
+          prima facie competition concerns nor give rise to a risk that the implementation of
+            the Commitments will be delayed. In particular, the Purchaser(s) must reasonably
+          be expected  to obtain  all necessary approvals from the relevant regulatory
+            authorities for the acquisition of the Divestment Businesses; and
+      (d)  The Purchaser of the Bebegel Divestment Business must have a sales and
+          marketing presence and access to an appropriate distribution network in Portugal
+            in the relevant sales channels (including wholesalers, hospitals and pharmacies)
+          and the Purchaser of the Otowaxol Divestment Business must have a sales and
+          marketing presence and access to an appropriate distribution network in Germany
+            in the relevant sales channels (including wholesalers and pharmacies).
+
+17.  The final binding sale and purchase agreement(s) (as well as any ancillary agreements)
+      relating to the divestment of the Divestment Businesses shall be conditional on the
+     Commission's approval. When Cooper has reached an agreement with a purchaser, it
+      shall submit a fully documented and reasoned proposal, including a copy of the final
+      agreement(s), within one week to the Commission and the Monitoring Trustee. Cooper
+     must be able to demonstrate to the Commission that the purchaser(s) fulfils the Purchaser
+      Criteria and that the Divestment Businesses is being sold in a manner consistent with the
+     Commission's Decision and the Commitments. For the approval, the Commission shall
+      verify that the purchaser fulfils the Purchaser Criteria and that the Divestment Businesses
+       is being sold in a manner consistent with the Commitments including their objective to
+      bring about a lasting structural change in the market. The Commission may approve the
+      sale of the Divestment Businesses without one or more Assets or parts of the Personnel,
+      or by substituting one or more Assets or parts of the Personnel with one or more different
+      assets or different personnel, if this does not affect the viability and competitiveness of
+      the Divestment Businesses after the sale, taking account of the proposed purchaser.
+
+                                  Section E. Trustee
+
+        I. Appointment procedure
+
+18.  Cooper shall appoint a Monitoring Trustee to carry out the functions specified in these
+     Commitments for a Monitoring Trustee. The Notifying Party commit(s) not to close the
+     Proposed Transaction before the appointment of a Monitoring Trustee.
+
+19.   If Cooper has not entered into a binding sale and purchase agreement regarding either
+     Divestment Business one month before the end of the First Divestiture Period or if the
+
+
+                                        8
+
+[PÁGINA PDF 9]
+     Commission has rejected a purchaser proposed by Cooper at that time or thereafter,
+     Cooper shall appoint a Divestiture Trustee in respect of the relevant Divestment
+      Business. The appointment of the Divestiture Trustee  shall take  effect upon the
+    commencement of the Trustee Divestiture Period.
+
+20.  The Trustee shall:
+      (a)    at the time of appointment, be independent of the Notifying Party and its Affiliated
+           Undertakings;
+      (b)   possess the necessary qualifications to carry out its mandate, for example have
+             sufficient relevant experience as an investment banker or consultant or auditor; and
+      (c)   neither have nor become exposed to a Conflict of Interest.
+
+21.  The Trustee shall be remunerated by the Notifying Party in a way that does not impede
+      the independent and effective fulfilment of  its mandate. In particular, where the
+     remuneration package of a Divestiture Trustee includes a success premium linked to the
+      final sale value of the Divestment Business, such success premium may only be earned
+        if the divestiture takes place within the Trustee Divestiture Period.
+
+     Proposal by Cooper
+
+22.  No later than two weeks after the Effective Date, Cooper shall submit the name or names
+      of one or more natural or legal persons whom Cooper proposes to appoint as the
+     Monitoring Trustee to the Commission for approval. No later than one month before the
+     end of the First Divestiture Period or on request by the Commission, Cooper shall submit
+     a list of one or more persons whom Cooper proposes to appoint as Divestiture Trustee to
+      the Commission for approval. The proposal shall contain sufficient information for the
+     Commission to verify  that the person or persons proposed as Trustee  fulfil the
+     requirements set out in paragraph 20 and shall include:
+      (a)   the full terms of the proposed mandate, which shall include all provisions necessary
+            to enable the Trustee to fulfil its duties under these Commitments;
+      (b)   the outline of a work plan which describes how the Trustee intends to carry out its
+           assigned tasks;
+      (c)   an indication whether the proposed Trustee is to act as both Monitoring Trustee
+          and Divestiture Trustee or whether different trustees are proposed for the two
+            functions.
+
+     Approval or rejection by the Commission
+
+23.  The Commission shall have the discretion to approve or reject the proposed Trustee(s)
+     and to approve the proposed mandate subject to any modifications it deems necessary for
+      the Trustee to fulfil its obligations. If only one name is approved, Cooper shall appoint
+      or cause to be appointed the person or persons concerned as Trustee, in accordance with
+      the mandate approved by the Commission. If more than one name is approved, Cooper
+      shall be free to choose the Trustee to be appointed from among the names approved. The
+      Trustee shall be appointed within one week of the Commission's approval, in accordance
+     with the mandate approved by the Commission.
+
+
+
+
+
+                                        9
+
+[PÁGINA PDF 10]
+    New proposal by Cooper
+
+24.   If all the proposed Trustees are rejected, Cooper shall submit the names of at least two
+     more natural or legal persons within one week of being informed of the rejection, in
+     accordance with paragraphs 18 and 23 of these Commitments.
+
+      Trustee nominated by the Commission
+
+25.   If all further proposed Trustees are rejected by the Commission, the Commission shall
+     nominate a Trustee, whom Cooper shall appoint, or cause to be appointed, in accordance
+     with a trustee mandate approved by the Commission.
+
+        II. Functions of the Trustee
+
+26.  The Trustee shall assume  its specified duties and obligations in order to ensure
+     compliance with the Commitments. The Commission may, on its own initiative or at the
+      request of the Trustee or Cooper, give any orders or instructions to the Trustee in order
+      to ensure compliance with the conditions and obligations attached to the Decision.
+
+     Duties and obligations of the Monitoring Trustee
+
+27.  The Monitoring Trustee shall:
+
+(i)   propose in its first report to the Commission a detailed work plan describing how it
+      intends to monitor compliance with the obligations and conditions attached to the
+      Decision.
+(ii)   oversee,  in  close  co-operation  with  the Hold  Separate Manager,  the  on-going
+     management of the relevant Divestment Business with a view to ensuring its continued
+     economic viability, marketability and competitiveness and monitor compliance by
+     Cooper with the conditions and obligations attached to the Decision. To that end the
+     Monitoring Trustee shall:
+      (a)   monitor  the  preservation  of  the  economic   viability,  marketability  and
+           competitiveness of the Divestment Business, and the keeping separate of the
+          Divestment Business from the retained business, in accordance with paragraphs 7
+          and 8 of these Commitments;
+      (b)   supervise the management of the Divestment Business as a distinct and saleable
+             entity, in accordance with paragraph 9 of these Commitments;
+      (c)   with respect to Confidential Information:
+            determine all necessary measures to ensure that Cooper does not after the
+               Effective Date obtain any Confidential Information relating to the Divestment
+               Business,
+             in particular strive for the severing of the Divestment Business' participation in
+              a central information technology network to the extent possible, without
+             compromising the viability of the Divestment Business,
+            make sure  that any Confidential Information relating to the Divestment
+              Business obtained by Cooper before the Effective Date is eliminated and will
+               not be used by Cooper and
+
+
+
+
+                                        10
+
+[PÁGINA PDF 11]
+            decide whether such information may be disclosed to or kept by Cooper as the
+               disclosure is reasonably necessary to allow Cooper to carry out the divestiture
+               or as the disclosure is required by law;
+      (d)   monitor the  splitting of assets and the allocation of Personnel between the
+          Divestment Business and Cooper or its Affiliated Undertakings;
+(iii)  propose to Cooper such measures as the Monitoring Trustee considers necessary to
+     ensure Cooper's compliance with the conditions and obligations attached to the Decision,
+      in  particular  the  maintenance  of  the  full  economic  viability,  marketability  or
+     competitiveness of the Divestment Business, the holding separate of the Divestment
+     Business and the non-disclosure of competitively sensitive information;
+(iv)  review and assess potential purchasers as well as the progress of the divestiture process
+     and verify that, dependent on the stage of the divestiture process:
+      (a)   potential purchasers receive sufficient and correct information relating to the
+          Divestment Business and the Personnel in particular by reviewing, if available, the
+           data room documentation, the information memorandum and the due diligence
+            process, and
+      (b)   potential purchasers are granted reasonable access to the Personnel;
+(v)   act as a contact point for any requests by third parties, in particular potential purchasers,
+      in relation to the Commitments;
+(vi)  provide to the Commission, sending Cooper a non-confidential copy at the same time, a
+      written report within 15 days after the end of every month that shall cover the operation
+     and management of the Divestment Business as well as the splitting of assets and the
+      allocation of Personnel so that the Commission can assess whether the business is held
+      in a manner consistent with the Commitments and the progress of the divestiture process
+      as well as potential purchasers;
+(vii) promptly report in writing to the Commission, sending Cooper a non-confidential copy
+       at the same time, if it concludes on reasonable grounds that Cooper is failing to comply
+     with these Commitments;
+(viii) within one week after receipt of the documented proposal referred to in paragraph 17 of
+      these Commitments, submit to the Commission, sending Cooper a non-confidential copy
+       at the same time, a reasoned opinion as to the suitability and independence of the
+     proposed purchaser and the viability of the Divestment Business after the Sale and as to
+     whether the Divestment Business is sold in a manner consistent with the conditions and
+      obligations attached to the Decision, in particular, if relevant, whether the sale of the
+     Divestment Business without one or more Assets or not all of the Personnel affects the
+      viability of the Divestment Business after the sale, taking account of the proposed
+      purchaser; and
+(ix)  assume the other functions assigned to the Monitoring Trustee under the conditions and
+      obligations attached to the Decision.
+
+28.   If the Monitoring and Divestiture Trustee are not the same legal or natural persons, the
+     Monitoring Trustee and the Divestiture Trustee shall cooperate closely with each other
+     during and for the purpose of the preparation of the Trustee Divestiture Period in order
+      to facilitate each other's tasks.
+
+     Duties and obligations of the Divestiture Trustee
+
+29.  Within the Trustee Divestiture Period, the Divestiture Trustee shall sell at no minimum
+      price the relevant Divestment Business to a purchaser or purchasers, provided that the
+     Commission has approved both the purchaser(s) and the final binding sale and purchase
+
+                                         11
+
+[PÁGINA PDF 12]
+     agreement(s)  (and  ancillary  agreements)  as  in  line  with  the  Decision and  the
+     Commitments in accordance with paragraphs 16 and 17 of these Commitments. The
+      Divestiture Trustee shall include in the sale and purchase agreement (as well as in any
+      ancillary agreements) such terms and conditions as  it considers appropriate for an
+     expedient sale in the Trustee Divestiture Period. In particular, the Divestiture Trustee
+    may include in the sale and purchase agreement such customary representations and
+      warranties and indemnities as are reasonably required to effect the sale. The Divestiture
+      Trustee shall protect the legitimate financial interests of Cooper, subject to Cooper's
+      unconditional obligation to divest at no minimum price in the Trustee Divestiture Period.
+
+30.   In the Trustee Divestiture Period (or otherwise at the Commission's request), the
+      Divestiture Trustee shall provide the Commission with a comprehensive monthly report
+      written in English on the progress of the divestiture process. Such reports shall be
+     submitted within 15 days after the end of every month with a simultaneous copy to the
+     Monitoring Trustee and a non-confidential copy to Cooper.
+
+        III. Duties and obligations of Cooper and Viatris
+
+31.  The Parties shall provide and shall cause its advisors to provide the Trustee with all such
+      co-operation, assistance and information as the Trustee may reasonably require to
+     perform its tasks. The Trustee shall have full and complete access to any of the Parties'
+      or the relevant Divestment Business' books, records, documents, management or other
+      personnel, facilities, sites and technical information necessary for fulfilling its duties
+     under the Commitments and the Parties and the Divestment Business shall provide the
+      Trustee upon request with copies of any document. The Parties and the Divestment
+     Business shall make available to the Trustee one or more offices on their premises and
+      shall be available for meetings in order to provide the Trustee with all information
+     necessary for the performance of its tasks.
+
+32.  The Parties shall provide the Monitoring Trustee with all managerial and administrative
+      support that it may reasonably request on behalf of the management of the Divestment
+      Business. This  shall  include  all  administrative support  functions  relating  to  the
+     Divestment Business which are currently carried out at headquarters level. The Parties
+      shall provide and shall cause its advisors to provide the Monitoring Trustee, on request,
+     with the information submitted to potential purchasers, in particular give the Monitoring
+      Trustee access to the data room documentation and all other information granted to
+      potential purchasers in the due diligence procedure. The Parties shall inform the
+     Monitoring Trustee on possible purchasers, submit lists of potential purchasers at each
+      stage of the selection process, including the offers made by potential purchasers at those
+      stages, and keep the Monitoring Trustee informed of all developments in the divestiture
+      process.
+
+33.  Cooper shall grant or procure Affiliated Undertakings to grant comprehensive powers of
+      attorney, duly executed, to the Divestiture Trustee to effect the sale (including ancillary
+      agreements), the Closings and all actions and declarations which the Divestiture Trustee
+      considers necessary or appropriate to achieve the sale and the Closings, including the
+     appointment of advisors to assist with the sale process. Upon request of the Divestiture
+      Trustee, Cooper shall cause the documents required for effecting the sale and the
+     Closings to be duly executed.
+
+
+
+                                        12
+
+[PÁGINA PDF 13]
+34.  Cooper shall indemnify the Trustee and its employees and agents (each an "Indemnified
+      Party") and hold each Indemnified Party harmless against, and hereby agrees that an
+     Indemnified Party shall have no liability to Cooper for, any liabilities arising out of the
+     performance of the Trustee's duties under the Commitments, except to the extent that
+     such liabilities result from the wilful default, recklessness, gross negligence or bad faith
+      of the Trustee, its employees, agents or advisors.
+
+35.  At the expense of Cooper, the Trustee may appoint advisors (in particular for corporate
+      finance or  legal  advice),  subject  to Cooper's approval  (this approval not  to be
+     unreasonably withheld or delayed) if the Trustee considers the appointment of such
+      advisors necessary or appropriate for the performance of its duties and obligations under
+      the mandate, provided that any fees and other expenses incurred by the Trustee are
+      reasonable. Should Cooper refuse to approve the advisors proposed by the Trustee the
+     Commission may approve the appointment of such advisors instead, after having heard
+     Cooper. Only the Trustee shall be entitled to issue instructions to the advisors. Paragraph
+     34 of these Commitments shall apply mutatis mutandis. In the Trustee Divestiture Period,
+      the Divestiture Trustee may use advisors who served Cooper during the First Divestiture
+     Period if the Divestiture Trustee considers this in the best interest of an expedient sale.
+
+36.  The Parties agree that the Commission may share Confidential Information proprietary
+      to either of the Parties with the Trustee. The Trustee shall not disclose such information
+     and the principles contained in Article 17 (1) and (2) of the Merger Regulation apply
+      mutatis mutandis.
+
+37.  The Parties agree that the contact details of the Monitoring Trustee are published on the
+     website of the Commission's Directorate-General for Competition and they shall inform
+      interested third parties, in particular any potential purchasers, of the identity and the tasks
+      of the Monitoring Trustee.
+
+38.  For a period of 10 years from the Effective Date, the Commission may request all
+      information from the Parties that  is reasonably necessary to monitor the effective
+     implementation of these Commitments.
+
+     IV. Replacement, discharge and reappointment of the Trustee
+
+39.   If the Trustee ceases to perform its functions under the Commitments or for any other
+     good cause, including the exposure of the Trustee to a Conflict of Interest:
+      (a)   the Commission may, after hearing the Trustee and Cooper, require Cooper to
+           replace the Trustee; or
+      (b)  Cooper may, with the prior approval of the Commission, replace the Trustee.
+
+40.   If the Trustee is removed according to paragraph 39 of these Commitments, the Trustee
+    may be required to continue in its function until a new Trustee is in place to whom the
+      Trustee has effected a full hand over of all relevant information. The new Trustee shall
+     be appointed in accordance with the procedure referred to in paragraphs 18-25 of these
+     Commitments.
+
+41.  Unless removed according to paragraph 39 of these Commitments, the Trustee shall
+     cease to act as Trustee only after the Commission has discharged it from its duties after
+       all the Commitments with which the Trustee has been entrusted have been implemented.
+
+
+                                        13
+
+[PÁGINA PDF 14]
+     However, the Commission may at any time require the reappointment of the Monitoring
+      Trustee if it subsequently appears that the relevant remedies might not have been fully
+     and properly implemented.
+
+                             Section F. The review clause
+
+42.  The Commission may extend the time periods foreseen in these Commitments in
+     response to a request from the Parties or, in appropriate cases, on its own initiative. Where
+     a Party requests an extension of a time period, it shall submit a reasoned request to the
+     Commission no later than one month before the expiry of that period, showing good
+      cause. This request shall be accompanied by a report from the Monitoring Trustee, who
+       shall, at the same time send a non-confidential copy of the report to the Parties. Only in
+      exceptional circumstances shall the Parties be entitled to request an extension within the
+       last month of any period.
+
+43.  The Commission may further, in response to a reasoned request from the Parties showing
+     good cause waive, modify or substitute, in exceptional circumstances, one or more of the
+     undertakings in these Commitments. This request shall be accompanied by a report from
+      the Monitoring Trustee, who shall, at the same time send a non-confidential copy of the
+      report to Cooper. The request shall not have the effect of suspending the application of
+      the undertaking and, in particular, of suspending the expiry of any time period in which
+      the undertaking has to be complied with.
+
+                             Section G. Entry into force
+
+44.  The Commitments shall take effect upon the date of adoption of the Decision.
+
+
+
+
+
+[signed]
+duly authorised for and on behalf of Cooper Consumer Health S.A.S.
+
+
+
+
+
+[signed]
+duly authorised for and on behalf of Viatris Inc.
+
+
+
+
+
+                                        14
+
+[PÁGINA PDF 15 | texto OCR: verificar contra el PDF]
+                        SCHEDULES
+
+
+                                Schedule A (Bebegel)
+
+1.     The Bebegel Divestment Business consists of the rights, title and interests in Bebegel
+       including the right to develop, manufacture and use Bebegel with a view to its sale and
+       marketing in any form in Portugal and, at the Purchaser's option, in France. Bebegel is
+      used to treat constipation in infants.
+
+2.     The Bebegel Divestment Business includes the transfer of all assets predominantly or
+       exclusively used for the purposes of marketing Bebegel  in Portugal and,  at the
+       Purchaser's option, in France. It includes in particular:
+
+         (a)       existing Bebegel finished product inventory, sales and promotional material to
+                 the extent available;
+        (b)        all Bebegel-related contracts, commitments, and customer records, meaning
+              customer  credit records, customer invoices, purchase orders and contact
+                   details, redacting from such material any information which is not related to
+               Bebegel; 1
+         (c)      the transfer of the marketing authorization for Bebegel in Portugal and, at the
+                Purchaser's option, in France, including all relevant dossiers, as well as the
+               information contained in the relevant full registration dossier(s), relating to the
+                current and/or pending marketing authorizations available to the Parties;
+        (d)     an irrevocable,  assignable,  sub-licensable and royalty-free  license for  all
+                relevant  intellectual  property  rights,  data  books,  records  and  effective
+               arrangements for the transfer of all know-how to the extent that these are
+                 related to the development, manufacture, use of the Bebegel Divestment
+                Business;
+         (e)        all advertising, marketing, sales, publicity and presentational materials related
+                  to the Bebegel Divestment Business, as applicable; and
+          (f)       a full transfer of any trademarks related to the Bebegel Divestment Business
+              and relating to any EU Member State or States (set out at Table  1 below)
+                 except, at the Purchaser's option, trademarks relating to France and French
+                Polynesia.
+
+
+                    Table 1: Trademarksfor the Bebegel Divestment Business
+
+
+ Trademark | Country | Application  | Application  | Registration | Registration | Renewal
+                         #            Date          #             Date         Date
+
+
+
+
+ BEBEGEL |  French      1284471       09/19/1984  | 1284471        09/19/1984  | 09/19/2024 | Registered
+                 Polynesia
+
+
+
+
+
+' The Parties will include customer lists and records in the Bebegel Divestment Business, but not provide any
+accounts receivable or payable.
+
+
+                                                 15
+
+[PÁGINA PDF 16]
+3.    The  Parties  will  transfer  all  information  (orders,  price,  etc.)  concerning  their
+        relationship  regarding  Bebegel  with  contract  manufacturer  [name  of  contract
+       manufacturer] to the Purchaser in accordance with applicable law. The Parties will
+      endeavour on a best-efforts basis to obtain the assignment (at the Purchaser's option) of
+       the  existing manufacturing  contracts  for  the Bebegel Divestment  Business on
+        substantially the same terms and conditions (including price) or, in the event that
+       consent for the assignment cannot be obtained on substantially the same terms and
+       conditions (including price) and, at the Purchaser's option, the benefit of back-to-back
+       arrangements for the supply by Cooper of the products to the Purchaser for the duration
+       of the relevant contracts and, in any case, for no longer than three years.
+
+4.     In relation to the existing tender contracts, the Parties will transfer all information
+        (orders; price; etc.). The Parties commit to use their best efforts to support the Purchaser
+        to obtain the hospital's consent for the transfer the tender contracts.
+
+5.    The Parties commit to use their best efforts to cooperate with the Purchaser to effectuate
+       the transfer of the Bebegel Divestment Business and to undertake all regulatory changes
+        that would be required as a result of such transfer. Until transfer of the Bebegel
+      Divestment Business, Cooper will bear the costs for updates to maintain the current
+        registration of the dossier of the Bebegel Divestment Business. In addition, Cooper will
+       bear the dossier preparation and regulatory filing costs for all the updates of the dossier
+       triggered by the transfer of the Bebegel Divestment Business to the Purchaser.
+
+6.    The Bebegel Divestment Business shall not include:
+        (a)     any manufacturing facility;
+        (b)     raw materials;
+        (c)     any other asset not part of the Bebegel Divestment Business or which is used
+                 in relation to a business of the Parties other than the Bebegel Divestment
+               Business; and
+        (d)      the "Viatris" name, Viatris trademark and Viatris trade dress or trade dress of
+              any of its subsidiaries.
+
+7.       If there are any assets or personnel which are not covered by paragraph 2 of this
+      Schedule but which are both used (exclusively or not) in the Bebegel Divestment
+       Business and necessary for the continued viability and competitiveness of the Bebegel
+      Divestment Business, that asset or an adequate substitute will be offered by Cooper to
+       the Purchaser.
+
+
+                               Schedule B (Otowaxol)
+
+8.    The Otowaxol Divestment Business consists of the  rights,  title and  interests in
+      Otowaxol including the right to develop, manufacture and use Otowaxol, with a view
+        to its sale and marketing in any form in Germany and, at the Purchaser's option, in
+        Ireland. Otowaxol is used to remove excess earwax and earwax build-up.
+
+9.   The Otowaxol Divestment Business includes the transfer of all assets predominantly or
+      exclusively used for the purposes of marketing Otowaxol in Germany and, at the
+      Purchaser's option, in Ireland. It includes in particular:
+
+
+
+                                        16
+
+[PÁGINA PDF 17]
+        (a)      existing Otowaxol finished product inventory, sales and promotional material
+                 to the extent available;
+        (b)       all Otowaxol-related contracts, commitments, and customer records, meaning
+              customer credit records, customer invoices, purchase orders and contact
+                  details, redacting from such material any information which is not related to
+                                2
+              Otowaxol;
+        (c)     an irrevocable, assignable, sub-licensable and royalty-free license for  all
+                relevant  intellectual  property  rights,  data  books,  records and  effective
+               arrangements for the transfer of all know-how to the extent that these are
+                 related to the development, manufacture, use of the Otowaxol Divestment
+               Business;
+        (d)       all advertising, marketing, sales, publicity and presentational materials related
+                 to the Otowaxol Divestment Business, as applicable; and
+        (e)      a full transfer of any trademarks related to the Otowaxol Divestment Business
+                (including Otowaxol and Waxsol) and relating to any EU Member State or
+                States (set out at Table 2 below) except, at the Purchaser's option, the
+              trademark relating to Ireland.
+
+10.   The  Parties  will  transfer  all  information  (orders,  price,  etc.)  concerning  their
+        relationship  regarding Otowaxol with  contract manufacturer [name  of  contract
+       manufacturer] to the Purchaser in accordance with applicable law. The Parties will
+      endeavour on a best-efforts basis to obtain the assignment (at the Purchaser's option) of
+       the existing manufacturing contracts  for the Otowaxol Divestment Business on
+        substantially the same terms and conditions (including price) or, in the event that
+       consent for the assignment cannot be obtained on substantially the same terms and
+       conditions (including price) and, at the Purchaser's option, the benefit of back-to-back
+       arrangements for the supply by Cooper of the products to the Purchaser for the duration
+       of the relevant contracts and, in any case, for no longer than three years.
+
+11.   The Parties commit to use their best efforts to cooperate with the Purchaser to effectuate
+       the transfer of the Otowaxol Divestment Business and to undertake all regulatory
+      changes that would be required as a result of such transfer. Until transfer of the
+      Otowaxol Divestment Business, Cooper will bear the costs for updates to maintain the
+       current registration of the dossier of the Otowaxol Divestment Business. In addition,
+      Cooper will bear the dossier preparation and regulatory filing costs for all the updates
+       of the dossier triggered by the transfer of the Otowaxol Divestment Business to the
+       Purchaser.
+
+12.   The Otowaxol Divestment Business shall not include:
+        (a)     any manufacturing facility;
+        (b)     raw materials;
+        (c)     any other asset not part of the Otowaxol Divestment Business or which is used
+                 in relation to a business of the Parties other than the Otowaxol Divestment
+               Business; and
+        (d)      the "Viatris" name, Viatris trademark and Viatris trade dress or trade dress of
+              any of its subsidiaries.
+
+
+
+
+
+2
+ The Parties will include customer lists and records in the Otowaxol Divestment Business, but not provide any
+  accounts receivable or payable.
+
+                                        17
+
+[PÁGINA PDF 18 | texto OCR: verificar contra el PDF]
+13.       ‘If there are any assets or personnel which are not covered by paragraph 9 of this
+      Schedule but which are both used (exclusively or not) in the Otowaxol Divestment
+       Business and necessary for the continued viability and competitiveness of the Otowaxol
+      Divestment Business, that asset or an adequate substitute will be offered by Cooper to
+       the Purchaser.
+
+
+                   Table 2: Trademarksfor the Otowaxol Divestment Business
+
+
+ Trademark    Country      Application | Application | Registration | Registration | Renewal
+                             #           Date        #            Date         Date
+
+ OTOWAXOL               N15578       10/11/1977   | 976545        09/18/1978  | 10/31/2027
+ WAXSOL                  B72169       06/02/1967  | B72169        06/02/1967  | 06/02/2032
+
+ OTOWAXOL | World        445517       06/18/1979  | 445517        06/18/1979 | 06/18/2029 | Registered
+                    Intellectual
+
+                 Property
+                 Organization
+               (WIPO),
+
+                  covers
+
+                   Austria,
+
+                 Benelux,
+
+               Morocco
+
+                 Switzerland
+
+
+
+
+ WAXSOL      Benelux      0331345      03/05/1975  | 0331345
+                  Office for
+
+                    Intellectual
+
+                 Property
+               (BOIP)
+
+
+ WAXSOL     WIPO,       435287B      02/03/1978 | 435287B
+
+                 covers
+
+                   Austria,
+
+                BOIP,
+
+                  Switzerland,
+
+              Monaco
+
+
+
+
+
+                                                 18

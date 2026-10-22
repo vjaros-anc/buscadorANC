@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "b7ff8d73de6b8c11c491e89a41b28bb793dc946150b7a0128938b7b5069e75d3",
+  "extraido_utc": "2026-10-22T19:44:42+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11578_OTRO_01",
+      "caso": "M.11578",
+      "universo": "principal",
+      "titulo": "Trustee details — BOEING / SPIRIT",
+      "tipo_documental": "OTRO",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202543/M_11578_10782157_2855_4.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202543/M_11578_10782157_2855_4.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11578/M.11578_OTRO_01_b7ff8d73de6b.pdf",
+      "sha256": "b7ff8d73de6b8c11c491e89a41b28bb793dc946150b7a0128938b7b5069e75d3",
+      "coincide_inventario": "",
+      "bytes": "73891",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202543/M_11578_10782157_2855_4.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "     MONITORING TRUSTEE IN CASE M.11578 – BOEING / SPIRIT\n\n\nOn 16 October 2025 the Commission approved the appointment of:\n\n                  Alcis Advisers GmbH\n                   Fasanenstr. 73\n               10719 Berlin\n              Germany\n\n                  Contact:\n                David Cayet; Dr. Ulrich Puls\n                  david.cayet@alcis-advisers.com; ulrich.puls@alcis-advisers.com\n\n\nas Monitoring Trustee in the above-mentioned case.\n\nThe role of the Monitoring Trustee is to monitor the compliance of The Boeing Company\nand Spirit AeroSystems, Inc. with the Commitments attached to the Commission's\nDecision of 14 October 2025 and to report to the Commission thereon.\n\nThird parties who have queries in relation to the Commitments may contact the Trustee\nthrough the above contact details.\n\nThe foregoing  is without prejudice to the Commission's jurisdiction to oversee the\nimplementation of the Commitments attached to its Decision.",
+      "caracteres": 954,
+      "caracteres_utiles": 677,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

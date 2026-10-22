@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "a031c66f3c70f20d5a57110182789d1334a7c04bb93daeb61f016d762da008c6",
+  "extraido_utc": "2026-10-22T19:41:08+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20241129201051+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.11071_CP_M01",
+      "caso": "M.11071",
+      "universo": "principal",
+      "titulo": "Commission approves EasyJet, IAG and AFKLM as remedy takers",
+      "tipo_documental": "CP",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_6123/IP_24_6123_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_6123",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_11071/M.11071_CP_M01_a031c66f3c70.pdf",
+      "sha256": "a031c66f3c70f20d5a57110182789d1334a7c04bb93daeb61f016d762da008c6",
+      "coincide_inventario": "",
+      "bytes": "41058",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_6123/IP_24_6123_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:04+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nCommission approves EasyJet, IAG and AFKLM as remedy takers in the\ncontext of ITA Airways merger control investigation\n\nBrussels, 29 November 2024\n\nThe European Commission has approved, under the EU Merger Regulation, EasyJet Airline Company\nPLC (‘EasyJet'), International Airlines Group (‘IAG') and Air France-KLM S.A., Société Air France and\nKoninklijke Luchtvaart Maatschappij N.V. (together ‘AFKLM') as suitable remedy takers under the\ncommitments made by Lufthansa AG (‘Lufthansa') and the Italian Ministry of Economy and Finance\n(‘MEF') in order to acquire joint control over ITA Airways (‘ITA'). The approval of suitable remedy\ntakers is a condition for Lufthansa and the MEF to implement the transaction.\n\nIn July 2024, the Commission approved the acquisition of joint control of ITA by Lufthansa and the\nMEF, conditional upon full compliance with a remedy package submitted by Lufthansa and the MEF\nconsisting of:\n\n    Commitments for short-haul routes: Lufthansa and the MEF had to make available to one\n     or two rival airlines the necessary assets to enable them to start non-stop flights between Rome\n     or Milan and certain airports in Central Europe. They also had to ensure that one of those rival\n     airlines would have access to ITA's domestic network to offer indirect connections between\n     certain airports in Central Europe and certain Italian cities other than Rome and Milan.\n    Commitments for long-haul routes: Lufthansa and the MEF had to enter into agreements\n    with rivals to improve their competitiveness on the long-haul routes of concern between Italy\n    and North America, for instance through interlining agreements or slot swaps. This would lead\n     to increased frequencies of non-stop flights and/or improved connections for one-stop flights on\n    each of the routes.\n    Commitments for Milan Linate airport: Lufthansa and MEF also had to transfer take-off\n    and landing slots at Linate airport to the remedy taker(s) for the short-haul routes to address\n    competition concerns at the airport.\n\nPursuant to the commitments, Lufthansa and the MEF can only implement the transaction following\nthe Commission's approval of suitable remedy takers for each of the short-haul, long-haul and Milan\nLinate commitments.\n\nLufthansa and the MEF notified to the Commission their choice of (i) EasyJet as the remedy taker for\nthe short-haul routes and for the transfer of take-off and landing slots at Milan Linate airport; and (ii)\nIAG and AFKLM as the remedy takers for the long-haul routes. Lufthansa and the MEF submitted also\nthe related proposed agreements with the relevant remedy takers for the Commission's approval.\n\nApproval of EasyJet, IAG and AFKLM as suitable remedy takers\n\nToday, the Commission has concluded that EasyJet, IAG and AFKLM are suitable remedy takers. In\nparticular, the Commission found that they fulfilled the relevant criteria of (i) independence from\nLufthansa, the MEF and ITA; (ii) financial resources, proven expertise and incentives to act as viable\nand active competitive forces in competition with Lufthansa and ITA; and (iii) absence of prima facie\ncompetition concerns or risks in delaying the implementation of the commitments.\n\nIn addition, the Commission has concluded that the remedy agreements entered by Lufthansa and\nthe MEF with the suitable remedy takers to implement the remedy package are consistent with the\ncommitments.\n\nFor its assessment, the Commission gathered extensive information from Lufthansa, MEF, ITA and the\nproposed remedy takers and consulted closely with the monitoring trustee appointed in this case.\n\nFollowing today's approval, Lufthansa and the MEF can implement the transaction.",
+      "caracteres": 3753,
+      "caracteres_utiles": 3001,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Background\n\nThe proposed acquisition of joint control of ITA by Lufthansa and the MEF was notified to the\nCommission on 30 November 2023. On 23 January 2024, the Commission opened an in-depth\ninvestigation into the transaction, which was followed by the sending of a Statement of Objections. On\n3 July 2024, the Commission approved the proposed acquisition subject to conditions.\n\nFollowing the conditional clearance of the joint acquisition of ITA by Lufthansa and MEF, it was the\nresponsibility of Lufthansa and MEF to find and propose to the Commission suitable remedy taker(s)\nunder the commitments.\n\nTo ensure that the implementation of the commitments will solve the competition concerns, the\nCommission assesses the suitability of the proposed remedy taker(s) according to the purchaser\ncriteria set out in the text of the commitments. The Commission only accepts the proposed remedy\ntaker(s), when it is convinced that they have the ability and incentive to continue to operate in the\nfuture in a way that they will constitute a competitive force on a lasting basis in the market.\n\nMore information will be available on the Commission's competition website, in the public case\nregister under the case number M.11071.\n\n\n\n                                                                                                            IP/24/6123\n\n\n Press contacts:\n\n      Lea ZUBER (+32 2 29 56298)\n      Sara SIMONINI (+32 2 298 33 67)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 1519,
+      "caracteres_utiles": 1128,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

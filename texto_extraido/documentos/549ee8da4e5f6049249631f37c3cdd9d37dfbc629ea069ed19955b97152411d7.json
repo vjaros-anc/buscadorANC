@@ -1,0 +1,83 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "549ee8da4e5f6049249631f37c3cdd9d37dfbc629ea069ed19955b97152411d7",
+  "extraido_utc": "2026-10-22T19:31:36+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "wkhtmltopdf 0.12.6",
+    "producer": "Qt 4.8.7",
+    "creationDate": "D:20221108173016+01'00'",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.10646_CP_APERTURA_01",
+      "caso": "M.10646",
+      "universo": "principal",
+      "titulo": "Comunicado de apertura de fase II — MICROSOFT / ACTIVISION BLIZZARD",
+      "tipo_documental": "CP_APERTURA",
+      "grupo": "comunicados",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_6578/IP_22_6578_EN.pdf",
+      "url_referencia": "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_6578",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_10646/M.10646_CP_APERTURA_01_549ee8da4e5f.pdf",
+      "sha256": "549ee8da4e5f6049249631f37c3cdd9d37dfbc629ea069ed19955b97152411d7",
+      "coincide_inventario": "",
+      "bytes": "43620",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_22_6578/IP_22_6578_EN.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:03+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "                 European Commission - Press release\n\n\n\n\n\nMergers: Commission opens in-depth investigation into the proposed\nacquisition of Activision Blizzard by Microsoft\n\nBrussels, 8 November 2022\n\nThe European Commission has opened an in-depth investigation to assess the proposed acquisition\nof Activision Blizzard by Microsoft under the EU Merger Regulation. The Commission is concerned that\nthe proposed acquisition may reduce competition in the markets for the distribution of console and\npersonal computers (‘PCs') video games and for PC operating systems.\n\nMicrosoft and Activision Blizzard are both developers and publishers of games for PCs, game\nconsoles and mobile devices as well as distributors of games for PCs. In addition, Microsoft also\ndistributes games for consoles, offers the Xbox gaming console and related services as well a wide\nrange of products and services, including the PC operating system Windows and the cloud computing\nservice Azure.\n\nThe Commission's preliminary competition concerns\n\nThe Commission's preliminary investigation shows that the transaction may significantly reduce\ncompetition on the markets for the distribution of console and PC video games, including multi-\ngame subscription services and/or cloud game streaming services, and for PC operating systems.\n\nIn particular, the Commission is concerned that, by acquiring Activision Blizzard, Microsoft may\nforeclose access to Activision Blizzard's console and PC video games, especially to high-profile and\nhighly successful games (so-called ‘AAA' games) such as ‘Call of Duty'.\n\nThe preliminary investigation suggests that Microsoft may have the ability, as well as a potential\neconomic incentive, to engage in foreclosure strategies vis-à-vis Microsoft's rival distributors of\nconsole video games, such as preventing these companies from distributing Activision Blizzard's\nconsole video games on consoles or degrading the terms and conditions for their use of or access to\nthese video games.\n\nWhen it comes to multi-game subscription services and/or cloud game streaming services in\nparticular, the Commission is concerned that, by acquiring Activision Blizzard, Microsoft may\nforeclose access, to the detriment of its rival distributors of console and PC video games that offer\nsuch services, to its own PC and console video games, which are key for the provision of the nascent\nservices of multi-game subscription and cloud game streaming.\n\nSuch foreclosure strategies could reduce competition in the markets for the distribution of console\nand PC video games, leading to higher prices, lower quality and less innovation for console game\ndistributors, which may in turn be passed on to consumers.\n\nFinally, at this stage of the investigation, the Commission has concerns that the proposed acquisition\nmay reduce competition on the market for PC operating systems. In particular, the Commission is\nconcerned that Microsoft may reduce the ability of rival providers of PC operating systems to\ncompete with Microsoft's operating system Windows, by combining Activision Blizzard's games and\nMicrosoft's distribution of games via cloud game streaming to Windows. This would discourage users\nto buy non-Windows PCs.\n\nThe preliminary investigation suggests that Microsoft may have the ability, as well as a potential\neconomic incentive, to engage in such conduct vis-à-vis rival providers of PC operating systems.\n\nThe Commission will now carry out an in-depth investigation into the effects of the transaction to\ndetermine whether its initial competition concerns are confirmed.\n\nThe proposed transaction was notified to the Commission on 30 September 2022.\n\nThe Commission now has 90 working days, until 23 March 2023, to take a decision. The opening of\nan in-depth inquiry does not prejudge the outcome of the investigation.\n\nCompanies and products",
+      "caracteres": 3847,
+      "caracteres_utiles": 3165,
+      "cobertura_imagen_maxima": 0.0127,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    },
+    {
+      "pagina_pdf": 2,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Microsoft is a global technology company headquartered in Redmond, Washington, US. Microsoft\noffers a wide range of products and services to customers through the following operating segments:\n(i) Productivity and Business Processes; (ii) Intelligent Cloud; and (iii) More Personal Computing.\nMicrosoft is active as a developer and publisher of games for PCs, game consoles and mobile devices\nas well as a distributor of games for PCs and consoles. In addition, Microsoft offers the Xbox gaming\nconsole and related services.\n\nActivision Blizzard is a publicly listed company headquartered in Santa Monica, California, US.\nActivision Blizzard is active as a developer and publisher of games for PCs, game consoles and\nmobile devices as well as a distributor of games for PCs.\n\nMerger control and procedure\n\nThe Commission has the duty to assess mergers and acquisitions involving companies with a\nturnover above certain thresholds (see Article 1 of the Merger Regulation) and to prevent\nconcentrations that would significantly impede effective competition in the EEA or any substantial\npart of it.\n\nThe vast majority of notified mergers do not pose competition problems and are cleared after a\nroutine review. From the moment a transaction is notified, the Commission generally has 25 working\ndays to decide whether to grant approval (Phase I) or to start an in-depth investigation (Phase II).\n\nIn addition to the current transaction, there are currently four on-going Phase II merger\ninvestigations: (i) the proposed acquisition of Pfleiderer Polska by Kronospan; (ii) the proposed\nacquisition of OMV Slovenija by MOL; (iii) the proposed acquisition of VOO and Brutélé by Orange;\nand (iv) the proposed acquisition of Alumetal by Hydro.\n\nMore information will be available on the Commission's competition website, in the Commission's\npublic case register under the case number M.10646.\n\n                                                                                                              IP/22/6578\n\nMembers of the college said:\n\n\n “Video games attract billions of users all over the world and are among the fastest growing forms of digital entertainment. For\n years, Microsoft has been a major player across the gaming supply chain. It is acquiring Activision Blizzard, a highly successful\n producer of gaming content. We must ensure that opportunities remain for future and existing distributors of PC and console\n video games, as well as for rival suppliers of PC operating systems. The point is to ensure that the gaming ecosystem remains\n vibrant to the benefit of users in a sector that is evolving at a fast pace. Our in-depth investigation will assess how the deal\n affects the gaming supply chain.”\n\n\n\n Press contacts:\n\n       Arianna PODESTA (+32 2 298 70 24)\n       Maria TSONI (+32 2 299 05 26)\n\n General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email",
+      "caracteres": 2896,
+      "caracteres_utiles": 2237,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}

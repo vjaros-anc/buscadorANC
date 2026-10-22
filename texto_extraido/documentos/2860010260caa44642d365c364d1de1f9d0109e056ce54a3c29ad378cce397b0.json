@@ -1,0 +1,71 @@
+{
+  "version_esquema": 1,
+  "version_extractor": "1.1.0",
+  "configuracion": {
+    "version_extractor": "1.1.0",
+    "pymupdf": "2.0",
+    "metodo": "get_text(text, sort=True)",
+    "min_caracteres": 30,
+    "ocr": true,
+    "ocr_dpi": 300
+  },
+  "sha256_pdf": "2860010260caa44642d365c364d1de1f9d0109e056ce54a3c29ad378cce397b0",
+  "extraido_utc": "2026-10-22T19:46:17+00:00",
+  "metadatos_pdf": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "alertas_documento": [],
+  "referencias": [
+    {
+      "documento_id": "M.12278_NOT_PREVIA_01",
+      "caso": "M.12278",
+      "universo": "principal",
+      "titulo": "Aviso de notificación previa — PARAMOUNT SKYDANCE / WARNER BROS DISCOVERY",
+      "tipo_documental": "NOT_PREVIA",
+      "grupo": "procedimiento",
+      "idioma": "EN",
+      "formato_esperado": "pdf",
+      "url_origen": "https://ec.europa.eu/competition/mergers/cases1/202624/M_12278_1429.pdf",
+      "url_referencia": "https://ec.europa.eu/competition/mergers/cases1/202624/M_12278_1429.pdf",
+      "estado": "ya_descargado",
+      "archivo": "archivos/M_12278/M.12278_NOT_PREVIA_01_2860010260ca.pdf",
+      "sha256": "2860010260caa44642d365c364d1de1f9d0109e056ce54a3c29ad378cce397b0",
+      "coincide_inventario": "",
+      "bytes": "149029",
+      "formato_real": "pdf",
+      "content_type": "application/pdf",
+      "http_status": "200",
+      "url_final": "https://ec.europa.eu/competition/mergers/cases1/202624/M_12278_1429.pdf",
+      "intentos": "0",
+      "fecha_utc": "2026-10-22T18:51:01+00:00",
+      "detalle": "Archivo existente; tamaño, SHA-256 y formato comprobados",
+      "paginas_compromisos": "",
+      "ejecucion_id": "20261022T185059-1853"
+    }
+  ],
+  "paginas": [
+    {
+      "pagina_pdf": 1,
+      "etiqueta_pdf": null,
+      "origen_texto": "pdf",
+      "texto": "Disclaimer :\n\nThe Competition DG makes the information provided by the notifying parties in section 1.2 of Form CO\navailable to the public in order to increase transparency. This information has been prepared by the notifying\nparties under their sole responsibility, and its content in no way prejudges the view the Commission may take of\nthe planned operation. Nor can the Commission be held responsible for any incorrect or misleading information\ncontained therein.\n\nM.12278 – PARAMOUNT SKYDANCE / WARNER BROS DISCOVERY\n\n                         SECTION 1.2\n\n                           Description of the concentration\n\n\nThis notification concerns a concentration pursuant to Article 4 of Council Regulation (EC)\n139/2004 of 20 January 2004 on the control of concentrations between undertakings.\n\nPursuant to the Merger Agreement entered into by the Parties on 27 February 2026, PSKY\nwill acquire sole control over WBD within the meaning of Article 3(1)(b) EUMR, by way of\nan all-cash offer of all outstanding shares of WBD at a price of USD 31.00 per share. The\nTransaction  is subject to customary closing conditions, including regulatory clearances.\nWBD’s shareholders approved the transaction on 23 April 2026.10\n\nPSKY, a U.S. publicly listed company headquartered in New York,  is a global media,\nstreaming and entertainment company that creates content and experiences for audiences\nworldwide. PSKY’s portfolio includes Paramount Pictures, Paramount Television, CBS, CBS\nNews, CBS Sports, Nickelodeon, MTV, BET, Comedy Central, Showtime, Paramount+,\nPluto TV and Skydance Media’s animation, interactive/games and sports divisions.\n\nWBD, a U.S. publicly listed company headquartered in New York, is a global media and\nentertainment company that creates and distributes a diverse portfolio of content and products\nacross television, film, streaming and interactive gaming. WBD’s portfolio of brands and\nproduction assets includes, among others, Discovery Channel, CNN, DC Studios, New Line\nCinema, TNT Sports, Eurosport, Max, HBO, WBMPG, WBTVG, and Warner Bros. Games.\n\n\n\n\n\nCommission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË - Tel. +32 22991111",
+      "caracteres": 2181,
+      "caracteres_utiles": 1725,
+      "cobertura_imagen_maxima": 0.0,
+      "posible_ocr": false,
+      "requiere_revision": false,
+      "alertas": []
+    }
+  ],
+  "alertas_referencias": []
+}
