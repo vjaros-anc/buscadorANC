@@ -412,7 +412,9 @@ def medir(filas: list[dict], descargar: bool, verificar: bool) -> None:
         ok = f["http_status"] == "200" and ("pdf" in f["tipo_contenido"] or "html" in f["tipo_contenido"])
         if f["tipo_doc"] == "COMP" and f.get("version") == "anexo de la decisión":
             inicio = medida.get("inicio_compromisos", "")
-            if inicio:
+            if f.get("paginas_compromisos"):
+                pass  # cargadas a mano: decisiones viejas sin anexo con el titulo estandar
+            elif inicio:
                 f["paginas_compromisos"] = f"{inicio}–{medida['paginas']}"
             else:
                 ok = False
@@ -459,8 +461,10 @@ def resumen(filas: list[dict], casos: list[dict]) -> None:
         if not grupo:
             continue
         c = Counter(f.get("estado", "") for f in grupo)
-        mb = sum(int(f["tamano_bytes"]) for f in grupo if (f.get("tamano_bytes") or "").isdigit()
-                 and not (tipo == "COMP" and f.get("version") == "anexo de la decisión")) / 1e6
+        # cada archivo una vez: un Merger Brief cubre varios casos y el anexo COMP es el PDF de la DEC
+        unicos = {f["url"]: int(f["tamano_bytes"]) for f in grupo if (f.get("tamano_bytes") or "").isdigit()
+                  and not (tipo == "COMP" and f.get("version") == "anexo de la decisión")}
+        mb = sum(unicos.values()) / 1e6
         print("  " + tipo.ljust(12) + "".join(str(c[e]).rjust(16) for e in estados) + f"{mb:9.1f}")
 
     principales = {c["caso_id"] for c in casos}
@@ -499,9 +503,14 @@ def main() -> int:
         filas += numerar(r["caso_id"], "revisiones", filas_revision(r, datos[r["caso_id"]]))
     print(f"{len(filas)} documentos armados para {len(casos)} casos + {len(revisiones)} del anexo")
 
+    existentes = inv.leer_csv(DOCUMENTOS_CSV, clave="doc_id")
+    for f in filas:  # paginas de compromisos cargadas a mano cuando el anexo no tiene el titulo estandar
+        previa = existentes.get(f["doc_id"], {})
+        if previa.get("url") == f.get("url") and previa.get("paginas_compromisos"):
+            f["paginas_compromisos"] = previa["paginas_compromisos"]
+
     medir(filas, descargar=not args.sin_descarga, verificar=not args.sin_verificar)
 
-    existentes = inv.leer_csv(DOCUMENTOS_CSV, clave="doc_id")
     # las filas manuales no surgen de las fuentes y se conservan tal cual
     manuales = [f for f in existentes.values() if es_manual(f)]
     automaticas = {k: f for k, f in existentes.items() if not es_manual(f)}

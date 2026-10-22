@@ -72,13 +72,16 @@ En 2026 el JSON suma un caso posterior al cierre de la estadística: M.12330 Kim
   - M.11485: la decisión dice "Bruxelles, le 17.7.2025, article 6, paragraphe 1, point b), en combinaison avec l'article 6, paragraphe 2". Coincide. La decisión está publicada solo en francés.
   - M.12201: la decisión todavía no está publicada; el comunicado IP/26/1338 del 12/06/2026 confirma la aprobación condicionada. Coincide.
 - **Chequeos automáticos del script**: sin duplicados, todas las fechas dentro del período, solo las dos bases legales y sin campos obligatorios vacíos. Todo OK.
+- **Inventario ANC en Excel** ("ANC – Concentraciones UE con compromisos – Inventario 2021–2026", 22/10/2026), armado por otra vía: tiene los mismos 47 casos, con la misma fecha y fase en todos. Sus 28 exclusiones son coherentes con el criterio; las cotejé contra el JSON con `importar_inventario_xlsx.py`. Su "reseña orientativa del remedio" coincide con la clasificación preliminar en los 47 casos y quedó en la columna `resena_remedio` de `casos.csv`.
 
 ## Casos límite incluidos
 
 | Caso | Situación | Tratamiento |
 |---|---|---|
 | M.10108 S&P Global/IHS Markit | Adoptado el primer día del período (22/10/2021) | Entra (período inclusive). Con período exclusivo serían 46 casos |
-| M.10262 Meta/Kustomer | "Decisión sobre implementación de remedios" del 10/11/2023: sería la dispensa total de los compromisos | Entra; se confirma con el documento en la etapa 2 |
+| M.10262 Meta/Kustomer | La "decisión sobre implementación de remedios" del 10/11/2023 es la dispensa total de los compromisos (confirmado con el documento) | Entra, anotado |
+| M.10078 Cargotec/Konecranes | La operación se canceló después de la autorización (según el inventario en Excel) | Entra, anotado en `resena_remedio` |
+| M.11071 Lufthansa/ITA, M.10806 Broadcom/VMware | Autorizaciones recurridas ante el Tribunal General (T-320/25, T-522/25, T-503/25), sin sentencia | Entran, anotado en `notas` |
 | M.10149 Korean Air/Asiana | Decisión sobre implementación de remedios (15/11/2024) | Entra, anotado |
 | M.11936 Naspers/Just Eat Takeaway | Decisión por cláusula de revisión (29/05/2026) | Entra, anotado |
 | M.10262, M.11485, M.11956 | Llegaron a la Comisión por remisión del art. 22 | Entran, anotado en `notas` |
@@ -105,9 +108,10 @@ Surgen del JSON: casos con "Commitments submitted" y una decisión final en el p
 | M.11751 TPG/Techem | Notificación retirada (07/05/2025) |
 | M.12076 RTL/Sky DACH | Ofreció compromisos en fase I (27/03/2026), pero se autorizó **sin condiciones** (22/04/2026) |
 
-Caso en curso: **M.11944 MMG/negocio de níquel de Anglo American**. Está en fase II, con
-compromisos presentados en fase I y pliego de cargos del 16/09/2026; todavía no hay
-decisión.
+Casos en curso, sin decisión al 22/10/2026:
+
+- **M.11944 MMG/negocio de níquel de Anglo American**: fase II, con compromisos presentados en fase I y pliego de cargos del 16/09/2026.
+- **M.12269 AkzoNobel/Axalta**: compromisos presentados el 15/10/2026, plazo al 06/11/2026. Lo aportó el inventario en Excel.
 
 ## Anexo: revisiones de remedios de casos anteriores
 

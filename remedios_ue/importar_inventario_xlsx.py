@@ -8,10 +8,13 @@ Incorpora a la biblioteca el inventario de la ANC en Excel
   2. casos.csv: completa la columna resena_remedio con la 'Resena orientativa
      del remedio' del Excel (solo celdas vacias).
   3. documentos.csv: agrega como filas MANUALES los documentos de la hoja
-     'Documentos' cuya URL todavia no figura para ese caso: Merger Briefs,
-     sentencias y autos, publicaciones de EUR-Lex y actos que el JSON de DG COMP
-     no trae. No importa fuentes secundarias ni fichas de buscadores. Verifica
-     cada enlace nuevo (EUR-Lex y curia no se pueden verificar automaticamente).
+     'Documentos' que todavia no figuran para ese caso: Merger Briefs,
+     sentencias y autos, avisos del Diario Oficial con su enlace preciso y actos
+     que el JSON de DG COMP no trae. No importa fuentes secundarias, fichas de
+     buscadores ni copias de documentos que ya figuran (la version EUR-Lex de
+     una decision que el JSON ya trae, el mismo comunicado en otro idioma o
+     sitio). Verifica cada enlace nuevo (EUR-Lex y curia no se pueden
+     verificar automaticamente).
   4. Compara la ubicacion de los compromisos que informa el Excel con las
      paginas que ubico relevar_documentos.py, para revisar a mano.
 
@@ -56,7 +59,7 @@ TIPOS_XLSX = {
     "Comunicado de aprobación de comprador": "CP",
     "Comunicado de representación de la Comisión": "CP",
     "Noticia oficial": "CP",
-    "Apertura de fase II": "CP_APERTURA",
+    "Apertura de fase II": "RES_DO",  # en el Excel son avisos del Diario Oficial, no comunicados
     "Publicación del Diario Oficial": "RES_DO",
     "Resumen oficial de decisión": "RES_DO",
     "Aviso de no oposición del Diario Oficial": "RES_DO",
@@ -65,7 +68,7 @@ TIPOS_XLSX = {
     "Decisión de implementación": "POST",
     "Dispensa": "POST",
     "Prórroga": "POST",
-    "Otra decisión procesal": "POST",
+    "Otra decisión procesal": "OTRO",
     "Anuncio de notificación": "NOT_PREVIA",
     "Descripción de notificación": "NOT_PREVIA",
     "Retirada de notificación previa": "NOT_PREVIA",
@@ -77,16 +80,18 @@ TIPOS_XLSX = {
     "Ficha de recurso judicial": "SENT",
     "Anuncio de recurso judicial": "SENT",
     "Información del supervisor": "OTRO",
-    "Informe anual": "OTRO",
 }
 # fuentes secundarias, fichas de buscadores y rastros de busqueda: no son documentos del caso
 NO_IMPORTAR = {
+    "Informe anual",
     "Ficha del registro", "Cronología oficial de control", "Pista secundaria sobre publicación",
     "Listado oficial de noticias", "Decisión reproducida por fuente secundaria",
     "Compromisos reproducidos por fuente secundaria", "Intento de acceso a ficha de decisión",
     "Estado ante otra autoridad", "Expediente relacionado", "Cita secundaria de decisión original",
     "Referencia a actos relacionados", "Comunicado de autoridad remitente",
 }
+# tipos que el JSON ya trae completos: lo del Excel suele ser la copia en EUR-Lex
+COPIAS = {"DEC", "NOT_PREVIA", "DICT"}
 # hosts que bloquean la verificacion automatica
 NO_VERIFICABLES = {"eur-lex.europa.eu", "curia.europa.eu", "publications.europa.eu", "webgate.ec.europa.eu"}
 
@@ -106,8 +111,21 @@ def normalizar(url: str) -> str:
 
 
 def ref_comunicado(url: str) -> str:
-    m = re.search(r"/(ip|mex|statement|speech)_(\d{2})_(\d+)", url.lower())
+    m = re.search(r"/(ip|mex|statement|speech)[_-](\d{2})[_-](\d+)", url.lower())
     return f"{m.group(1).upper()}/{m.group(2)}/{m.group(3)}" if m else ""
+
+
+def es_copia(tipo: str, caso: str, url: str, documentos: dict[str, dict]) -> bool:
+    """Otra copia de un documento que ya figura: la version EUR-Lex de una
+    decision, aviso o dictamen que el JSON ya trae, o el mismo comunicado en
+    PDF, en otro idioma o en el sitio de una representacion de la Comision."""
+    del_caso = [f for f in documentos.values() if f["caso_id"] == caso]
+    if tipo in COPIAS:
+        return any(f["tipo_doc"] == tipo and f.get("estado") == "localizado_verificado" for f in del_caso)
+    if tipo == "CP":
+        ref = ref_comunicado(url)
+        return not ref or any(f.get("ref") == ref for f in del_caso)
+    return False
 
 
 def verificar(url: str) -> tuple[dict, str]:
@@ -186,6 +204,9 @@ def main() -> int:
             salteados["ya figura"] += 1
             continue
         tipo = TIPOS_XLSX[tipo_xlsx]
+        if es_copia(tipo, caso, url, documentos):
+            salteados["copia de un documento que ya figura"] += 1
+            continue
         prefijo = f"{caso}_{tipo}_M"
         usados[prefijo] += 1
         notas = "; ".join(x for x in (
@@ -199,6 +220,7 @@ def main() -> int:
             "tipo_doc": tipo, "prioridad": rd.PRIORIDAD[tipo], "titulo": texto(d["Título"]),
             "fecha_doc": texto(d.get("Fecha registrada"))[:10], "idioma": texto(d.get("Idioma")),
             "url": url, "fuente": f"Inventario ANC (xlsx) {texto(d['Documento ID'])}",
+            "ref": ref_comunicado(url) if tipo == "CP" else "",
         }
         medida, nota = ({}, "") if args.sin_verificar else verificar(url)
         fila.update(medida)
