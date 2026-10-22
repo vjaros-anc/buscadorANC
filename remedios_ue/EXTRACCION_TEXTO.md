@@ -173,6 +173,28 @@ Después del piloto, revisar `documentos.csv`, `paginas.csv`, `resumen.json` y
 una muestra de JSON contra los PDF originales. Ese corpus permite construir
 las fichas problema competitivo → remedio, con citas verificables.
 
+### Validación con el corpus real (22/10/2026)
+
+Corrida sobre los 276 PDF bajados por `descargar_remedios.py` 1.1.0 (`--todos`),
+con PyMuPDF 2.0 y Tesseract 5.3.4.
+
+| Control | Resultado |
+|---|---|
+| Cobertura | 276 PDF y 9.100 páginas extraídos; sin errores de archivo ni de extracción |
+| Sin OCR | 3 min 42 s, 195 MB de memoria; volver a correrlo reutiliza todo en 4 s |
+| Páginas que son imagen | 505, en 27 documentos (sobre todo decisiones con tablas de cuotas) |
+| Párrafos "(n)" de las 44 decisiones (~30.000) | sin OCR faltan 1.124 (3,7 %), todos en páginas-imagen; **con `--ocr` faltan como máximo 29** |
+| Corrida con `--ocr` | 31,6 min; 505 páginas leídas por OCR, 0 errores, 3 con menos de 30 caracteres útiles |
+| Compromisos | en las 44 decisiones, el título del anexo está en la página de inicio de `paginas_compromisos` |
+| Integridad | todos los SHA-256 coinciden con el reporte; 0 diferencias con el inventario |
+| Texto | 0 caracteres de sustitución; acentos franceses correctos; se conservan "[…]" (13.999) y los rangos "[n-n]%" (24.781) |
+| Comparación manual | 3 páginas al azar: 99–100 % de similitud con `pdftotext` |
+
+Los 29 párrafos que siguen "faltando" son una cota superior. En los que revisé
+(Vandemoortele, párrs. 115–121) el texto está, pero la medición se confunde porque el
+OCR lee algunos números de nota al pie entre paréntesis. Las cifras de las páginas
+OCR tienen errores de reconocimiento y se verifican contra el PDF.
+
 ## Compatibilidad con el descargador activo
 
 Integrado con `descargar_remedios.py` 1.1.0 de la rama
