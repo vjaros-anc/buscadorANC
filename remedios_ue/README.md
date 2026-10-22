@@ -10,7 +10,7 @@ Esta carpeta está separada del buscador de la CNDC (raíz del repo) y no lo toc
 |---|---|---|
 | 1. Universo de casos | `casos.csv`, `revisiones_remedios.csv`, `conciliacion.md` | hecha y validada |
 | 2. Inventario documental | `documentos.csv` | hecha, **a validar** |
-| 3. Descarga y extracción | `descargar_remedios.py` (descarga); extracción de texto | descarga lista; extracción pendiente |
+| 3. Descarga y extracción | `descargar_remedios.py`, `extraer_texto.py` | descarga lista; extractor por página implementado, pendiente de validación sobre el corpus UE |
 | 4–5. Fichas problema–remedio | fichas por caso | pendiente |
 
 ---
@@ -323,7 +323,9 @@ Otras opciones: `--casos M.10341 M.10646`, `--grupos nucleo`, `--limite 2`, `--f
 python -m unittest discover -s remedios_ue/tests -v
 ```
 
-Son 30 pruebas sin red: usan un servidor local o, si no hay sockets, transporte en memoria.
+Las 30 pruebas del descargador usan un servidor local o, si no hay sockets,
+transporte en memoria. Las pruebas del extractor generan PDF válidos y también
+se ejecutan con este comando; ninguna requiere sitios públicos.
 
 ### Prueba real (22/10/2026)
 
@@ -351,3 +353,20 @@ desde el entorno donde se armó esto; en otra conexión pueden variar.
 - **Reporte:** suma `paginas_compromisos` para la extracción de texto.
 - **Archivos retirados:** el manifiesto, `preparar_manifiesto.py` y los metadatos del ZIP. Las
   copias del Excel y `FUENTES.md` están en `inventario_excel/`.
+
+## Etapa 3 — Extracción de texto por página
+
+Al terminar la descarga, desde la raíz del repositorio:
+
+```bash
+python -m pip install -r remedios_ue/requirements.txt
+python remedios_ue/extraer_texto.py --entrada descargas_anc --limite 5
+```
+
+Usa `reporte.csv` del descargador 1.1.0, comprueba los SHA-256 y genera JSON
+y TXT por PDF, más informes de documentos y páginas. Conserva `universo`,
+`paginas_compromisos`, `coincide_inventario` y las fuentes de cada referencia.
+Marca páginas que necesitan revisión o posible OCR; esta versión no ejecuta OCR.
+Para completar el lote, repetí el comando sin `--limite 5`.
+
+Instrucciones, formato de salida y límites: [EXTRACCION_TEXTO.md](EXTRACCION_TEXTO.md).
