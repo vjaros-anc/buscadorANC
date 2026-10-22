@@ -211,6 +211,24 @@ class Verificacion(Base):
         self.assertNotIn("2021", rangos)
         self.assertNotIn("1", {n for n, (p, _) in rangos.items() if p >= 5})  # el anexo no cuenta
 
+    def test_notas_al_pie_con_parentesis_no_son_parrafos(self):
+        carpeta = self.texto_extraido()
+        datos = {"paginas": [
+            {"texto": "Asunto: Reglamento 139/2004 (1)\n(1) La Comisión recibió la notificación de la "
+                      "operación (2).\n(1) OJ L 24, 29.1.2004.\n(2) OJ C 1.\n", "origen_texto": "pdf"},
+            {"texto": "(2) Las partes (3).\n(3) BPM es un banco.\n(3) OJ C 2.\n", "origen_texto": "pdf"},
+        ]}
+        (carpeta / "documentos" / "M.10001_DEC_01.json").write_text(json.dumps(datos), encoding="utf-8")
+        rangos = vf.Texto(carpeta).parrafos("M.10001")
+        self.assertEqual(rangos, {"1": (1, 2), "2": (2, 2), "3": (2, 2)})
+
+    def test_cadena_de_parrafos_ignora_saltos_espurios(self):
+        # el (8) de la p. 2 es una llamada a nota que quedó al comienzo de una línea entre (3) y (4)
+        candidatos = [(1, 1), (2, 1), (3, 2), (8, 2), (4, 3), (5, 3), (2022, 3), (6, 4), (7, 4), (8, 4)]
+        self.assertEqual(vf.cadena_de_parrafos(candidatos),
+                         [(1, 1), (2, 1), (3, 2), (4, 3), (5, 3), (6, 4), (7, 4), (8, 4)])
+        self.assertEqual(vf.cadena_de_parrafos([(40, 1), (2021, 2)]), [])
+
     def test_citas_correctas(self):
         self.assertEqual(self.verificar(
             "DEC párrs. 2–3 [pp. 1–2], 5 [p. 3]; COMP cl. 2 [p. 5]; COMP cl. 3 [p. 6]; M.10001_POST_01 [p. 1]"),

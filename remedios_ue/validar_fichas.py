@@ -175,6 +175,41 @@ def chequear_filas(filas: list[dict], columnas: list[str], vocab: dict[str, set[
     return errores
 
 
+def es_nota_al_pie(texto: str, inicio: int, numero: str) -> bool:
+    """En algunas decisiones las notas al pie tambien se numeran "(n)" al comienzo de linea.
+    La nota n esta en la misma pagina que su llamada "(n)" dentro del texto y despues del
+    parrafo (n) si los dos estan en esa pagina: es el ultimo "(n)" de comienzo de linea de
+    una pagina que tiene la llamada."""
+    if re.search(rf"(?m)^\s{{0,12}}\({numero}\)\s", texto[inicio + 1:]):
+        return False
+    for llamada in re.finditer(rf"(?<!\w)\({numero}\)", texto[:inicio]):  # no "Article 8(2)"
+        if texto[texto.rfind("\n", 0, llamada.start()) + 1:llamada.start()].strip():
+            return True
+    return False
+
+
+def cadena_de_parrafos(candidatos: list[tuple[int, int]], salto: int = 5) -> list[tuple[int, int]]:
+    """De los "(n)" de comienzo de linea (numero, pagina), en orden, elige la cadena creciente
+    mas larga con saltos de hasta `salto` (parrafos que el texto no separo bien). Asi una
+    llamada a nota que cae al comienzo de una linea no corta la numeracion, como pasaria
+    tomando siempre el primer numero que sigue."""
+    largo, previo, mejor = [0] * len(candidatos), [None] * len(candidatos), {}
+    for k, (n, _) in enumerate(candidatos):
+        base = max((mejor[m] for m in range(n - salto, n) if m in mejor), default=None)
+        if base is None and n > salto:
+            continue  # la numeracion empieza en (1)
+        largo[k], previo[k] = (base[0] + 1, base[1]) if base else (1, None)
+        if largo[k] > mejor.get(n, (0, None))[0]:
+            mejor[n] = (largo[k], k)
+    if not any(largo):
+        return []
+    k, cadena = max(range(len(candidatos)), key=lambda i: (largo[i], -i)), []
+    while k is not None:
+        cadena.append(candidatos[k])
+        k = previo[k]
+    return cadena[::-1]
+
+
 class Texto:
     """Acceso al texto_extraido/ de extraer_texto.py por documento_id."""
 
@@ -200,22 +235,19 @@ class Texto:
 
     def parrafos(self, caso: str) -> dict[str, tuple[int, int]]:
         """Parrafo n -> (pagina donde empieza, pagina donde empieza el siguiente), en la
-        decision y antes del anexo de compromisos. Sigue la secuencia (n), (n+1)... para no
-        confundir anios o notas al pie entre parentesis con numeros de parrafo; tolera
-        saltos cortos (parrafos que el texto no separo bien)."""
+        decision y antes del anexo de compromisos. Descarta las notas al pie "(n)" y sigue la
+        numeracion (cadena_de_parrafos) para no confundir anios o llamadas entre parentesis
+        con numeros de parrafo."""
         doc_id = f"{caso}_DEC_01"
         if doc_id in self._parrafos:
             return self._parrafos[doc_id]
         paginas = self.paginas(doc_id) or []
         comp = self.rango_compromisos(caso)
         hasta = comp[0] - 1 if comp else len(paginas)
-        inicios, ultimo = [], 0
-        for i, p in enumerate(paginas[:hasta], 1):
-            for m in re.finditer(r"(?m)^\s{0,12}\((\d{1,4})\)\s", p["texto"]):
-                n = int(m[1])
-                if ultimo < n <= ultimo + 5:
-                    inicios.append((n, i))
-                    ultimo = n
+        candidatos = [(int(m[1]), i) for i, p in enumerate(paginas[:hasta], 1)
+                      for m in re.finditer(r"(?m)^\s{0,12}\((\d{1,4})\)\s", p["texto"])
+                      if not es_nota_al_pie(p["texto"], m.start(), m[1])]
+        inicios = cadena_de_parrafos(candidatos)
         rangos = {}
         for k, (n, pag) in enumerate(inicios):
             fin = inicios[k + 1][1] if k + 1 < len(inicios) else pag
