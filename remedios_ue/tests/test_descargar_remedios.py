@@ -50,6 +50,8 @@ class Handler(http.server.BaseHTTPRequestHandler):
             self.send_response(302); self.send_header('Location', '/pagina'); self.end_headers(); return
         if name == '/forbidden.pdf':
             self.send_response(403); self.end_headers(); return
+        if name == '/missing.pdf':
+            self.send_response(404); self.end_headers(); return
         if name == '/retry.pdf' and self.server.calls[name] == 1:
             self.send_response(503); self.send_header('Retry-After', '0'); self.end_headers(); return
         data = self.server.body
@@ -95,6 +97,8 @@ class MemoryOpener:
             name = '/pagina'
         if name == '/forbidden.pdf':
             raise urllib.error.HTTPError(url,403,'Forbidden',Message(),io.BytesIO())
+        if name == '/missing.pdf':
+            raise urllib.error.HTTPError(url,404,'Not Found',Message(),io.BytesIO())
         if name == '/retry.pdf' and self.server.calls[name] == 1:
             headers=Message(); headers['Retry-After']='0'
             raise urllib.error.HTTPError(url,503,'Unavailable',headers,io.BytesIO())
@@ -311,6 +315,18 @@ class Downloads(unittest.TestCase):
         self.assertEqual(rows['M.10341_DEC_01']['coincide_inventario'], 'si')
         self.assertEqual(rows['M.10341_COMP_01']['coincide_inventario'], '')
         self.assertEqual(rows['M.10341_COMP_01']['paginas_compromisos'], '40–55')
+
+    def test_press_release_without_print_pdf_is_not_an_error(self):
+        rows = [{'documento_id':'D0001', 'caso':'M.10341', 'titulo':'Comunicado', 'grupo':'comunicados',
+                 'formato':'pdf', 'url':self.base+'/missing.pdf', 'url_referencia':'', 'impresion':'si'},
+                {'documento_id':'D0002', 'caso':'M.10341', 'titulo':'Otro PDF', 'grupo':'nucleo',
+                 'formato':'pdf', 'url':self.base+'/missing.pdf?otro=1', 'url_referencia':'', 'impresion':''}]
+        self.write_manifest(rows)
+        self.assertEqual(self.run_cli(), 2)  # el 404 de un PDF comun sigue siendo un error
+        estados = {r['documento_id']: r['estado'] for r in self.report()}
+        self.assertEqual(estados, {'D0001':'sin_version_pdf', 'D0002':'error_http'})
+        self.write_manifest(rows[:1])
+        self.assertEqual(self.run_cli(), 0)
 
     def test_inventory_hash_mismatch_is_flagged_but_file_is_kept(self):
         self.write_inventory([{'doc_id':'M.10341_DEC_01', 'url':self.base+'/valid.pdf', 'sha256':'0'*64}])

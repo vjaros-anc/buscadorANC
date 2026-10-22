@@ -189,7 +189,7 @@ def filas_desde_inventario(rows: list[dict[str, str]]) -> list[dict[str, str]]:
         if not url or not estado.startswith("localizado"):
             fila["formato"] = "sin_url"
         elif tipo in ("CP", "CP_APERTURA") and url_impresion(r.get("ref", "")):
-            fila["formato"], fila["url"] = "pdf", url_impresion(r["ref"])
+            fila["formato"], fila["url"], fila["impresion"] = "pdf", url_impresion(r["ref"]), "si"
         else:
             fila["formato"] = formato_de(url, r.get("tipo_contenido", ""))
             fila["url"] = "" if fila["formato"] == "indice_do" else url
@@ -286,7 +286,8 @@ def make_plan(rows: list[dict[str, str]], args: argparse.Namespace):
                 statuses[rid] = ("url_invalida", str(e))
                 continue
             if key not in jobs:
-                jobs[key] = {"key": key, "url": row["url"], "format": row["formato"], "rows": []}
+                jobs[key] = {"key": key, "url": row["url"], "format": row["formato"], "rows": [],
+                             "impresion": row.get("impresion") == "si"}
             jobs[key]["rows"].append(row)
             statuses[rid] = ("pendiente", "")
     joblist = list(jobs.values())
@@ -545,6 +546,10 @@ class Downloader:
                 principal = job["principal"]
                 print(f"[{number}/{len(self.jobs)}] {principal['caso']} — {principal['titulo'][:90]}", flush=True)
                 result = self.perform(job)
+                if job.get("impresion") and result["estado"] == "error_http" and str(result.get("http_status")) == "404":
+                    # Presscorner no publica version de impresion de todos los comunicados
+                    result.update(estado="sin_version_pdf",
+                                  detalle="Presscorner no tiene versión PDF de este comunicado; queda la página en url_referencia")
                 for row in job["rows"]:
                     res = self.results[row["documento_id"]]
                     res.update({k: v for k, v in result.items() if k in REPORT_FIELDS})
@@ -571,7 +576,7 @@ class Downloader:
         finally:
             lock.unlink(missing_ok=True)
         self.save_report("interrumpida" if interrupted else "finalizada")
-        success = {"descargado", "contenido_reutilizado", "ya_descargado"}
+        success = {"descargado", "contenido_reutilizado", "ya_descargado", "sin_version_pdf"}
         errors = sum(n for status, n in self.completed_jobs.items() if status not in success)
         print(f"\nReporte: {self.out / 'reporte.csv'}")
         print(f"Resumen: {self.out / 'resumen.json'}")

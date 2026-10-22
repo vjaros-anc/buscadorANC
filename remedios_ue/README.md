@@ -305,6 +305,8 @@ descargas_anc/
   versión nueva. Los casos se listan en `resumen.json`.
 - **Estados principales del reporte:**
   - `descargado`, `ya_descargado`, `contenido_reutilizado`: correcto;
+  - `sin_version_pdf`: Presscorner no publica versión PDF de ese comunicado (pasa con
+    algunos); no cuenta como error y la página queda en `url_referencia`;
   - `sin_url`, `requiere_url_individual`, `sitio_bloqueado`, `html_no_solicitado`,
     `fuera_grupo`: no se intentó, por diseño;
   - `bloqueado`, `html_en_lugar_pdf`, `pdf_incompleto`, `error_http`, `error_red`: falló.
@@ -321,14 +323,26 @@ Otras opciones: `--casos M.10341 M.10646`, `--grupos nucleo`, `--limite 2`, `--f
 python -m unittest discover -s remedios_ue/tests -v
 ```
 
-Son 29 pruebas sin red: usan un servidor local o, si no hay sockets, transporte en memoria.
+Son 30 pruebas sin red: usan un servidor local o, si no hay sockets, transporte en memoria.
+
+### Prueba real (22/10/2026)
+
+| Corrida | Resultado |
+|---|---|
+| `--piloto` | 35 de 35 URL bajadas y verificadas en 1 min 14 s; las 5 decisiones coinciden con el SHA-256 del inventario |
+| `--piloto`, segunda vez | 35 `ya_descargado`, menos de 1 s |
+| `--todos` | 280 URL en ~9 min, ~200 MB (165 MB son decisiones). 276 bajadas, 3 comunicados sin versión PDF y 1 URL rota del Excel (compromisos de pasajeros de Korean Air, que están en el anexo de la decisión; corregida en el inventario) |
+| `--todos`, segunda vez | 276 `ya_descargado` + 3 `sin_version_pdf`, 0 errores, código 0, 8 s |
+
+Las 44 decisiones publicadas coinciden con el SHA-256 de `documentos.csv`. Los tiempos son
+desde el entorno donde se armó esto; en otra conexión pueden variar.
 
 ### Cambios respecto del descargador original
 
 - **Entrada:** lee `documentos.csv` en lugar de su manifiesto propio, armado desde el Excel.
   Con ese manifiesto faltaban las decisiones de 9 casos.
 - **Grupo nuevo `analisis`:** los Merger Briefs.
-- **Comunicados:** se bajan como PDF de impresión.
+- **Comunicados:** se bajan como PDF de impresión; si Presscorner no tiene esa versión, el estado es `sin_version_pdf` y no cuenta como error.
 - **Comprobación contra el inventario:** columna `coincide_inventario`.
 - **`sitio_bloqueado`:** para EUR-Lex y Curia, con la opción `--intentar-bloqueados`.
 - **Universo:** `--incluir-revisiones` suma el anexo.
