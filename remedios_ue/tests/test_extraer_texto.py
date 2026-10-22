@@ -147,6 +147,78 @@ class ExtractionTests(unittest.TestCase):
         self.assertTrue(pages[2]["posible_ocr"])
         self.assertEqual(self.documents()[0]["estado_extraccion"], "requiere_revision")
 
+    # --- OCR opcional (--ocr) ---
+
+    def run_ocr(self, *args, reconocido="(12) Texto reconocido por OCR"):
+        calls = []
+
+        def fake_ocr(page, language, dpi, tessdata):
+            calls.append((page.number + 1, language, dpi))
+            if isinstance(reconocido, Exception):
+                raise reconocido
+            return reconocido
+        with patch.object(extractor, "ocr_page", side_effect=fake_ocr), \
+                patch.object(extractor, "tessdata_disponible", return_value=str(self.root)):
+            return self.run_cli("--ocr", *args), calls
+
+    def test_ocr_reads_only_image_or_empty_pages(self):
+        self.row(self.pdf(pages=["The remedy removes the competition concerns.", ""], image_page=True), idioma="FR")
+        code, calls = self.run_ocr()
+        self.assertEqual(code, 0)
+        self.assertEqual(calls, [(2, "fra", 300), (3, "fra", 300)])
+        pages = self.data()["paginas"]
+        self.assertEqual([p["origen_texto"] for p in pages], ["pdf", "ocr", "ocr"])
+        self.assertIn("competition concerns", pages[0]["texto"])
+        self.assertEqual(pages[2]["texto"], "(12) Texto reconocido por OCR")
+        self.assertIn("texto_ocr", pages[2]["alertas"]); self.assertTrue(pages[2]["requiere_revision"])
+        text = next((self.out / "documentos").glob("*.txt")).read_text()
+        self.assertIn("[PÁGINA PDF 3 | etiqueta PDF: iii | texto OCR: verificar contra el PDF]", text)
+        summary = json.loads((self.out / "resumen.json").read_text())
+        self.assertEqual(summary["paginas_texto_ocr"], 2); self.assertTrue(summary["configuracion"]["ocr"])
+
+    def test_ocr_toggle_invalidates_cache(self):
+        self.row(self.pdf(image_page=True))
+        self.assertEqual(self.run_cli(), 0)
+        self.assertEqual(self.data()["paginas"][1]["origen_texto"], "pdf")
+        code, calls = self.run_ocr()
+        self.assertEqual(code, 0); self.assertEqual(len(calls), 1)
+        self.assertEqual(self.documents()[0]["reutilizado"], "False")
+        self.assertEqual(self.data()["paginas"][1]["origen_texto"], "ocr")
+
+    def test_ocr_error_is_recorded_and_run_continues(self):
+        self.row(self.pdf(image_page=True))
+        code, _ = self.run_ocr(reconocido=RuntimeError("falta el idioma fra"))
+        self.assertEqual(code, 0)
+        page = self.data()["paginas"][1]
+        self.assertEqual(page["origen_texto"], "pdf"); self.assertIn("error_ocr", page["alertas"])
+        self.assertIn("falta el idioma", page["error"])
+
+    def test_ocr_without_tesseract_is_a_configuration_error(self):
+        self.row(self.pdf(image_page=True))
+        self.report()
+        with patch.object(pymupdf, "get_tessdata", side_effect=RuntimeError("No tessdata")), \
+                redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()) as err:
+            self.assertEqual(extractor.main(["--entrada", str(self.root), "--ocr"]), 1)
+        self.assertIn("Tesseract", err.getvalue()); self.assertFalse(self.out.exists())
+
+    @unittest.skipUnless(shutil.which("tesseract"), "Tesseract no está instalado")
+    def test_real_tesseract_recovers_text_from_image_page(self):
+        with pymupdf.open() as fuente:
+            page = fuente.new_page(width=600, height=300)
+            page.insert_text((40, 120), "(165) MARKET SHARES REMEDY", fontsize=28)
+            png = page.get_pixmap(dpi=200).tobytes("png")
+        path = self.root / "archivos" / "M_10646" / "imagen.pdf"
+        path.parent.mkdir(parents=True, exist_ok=True)
+        with pymupdf.open() as doc:
+            doc.new_page(width=600, height=300).insert_image(pymupdf.Rect(0, 0, 600, 300), stream=png)
+            doc.save(path)
+        self.row(path)
+        self.report()
+        with redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()):
+            self.assertEqual(extractor.main(["--entrada", str(self.root), "--ocr"]), 0)
+        page = self.data()["paginas"][0]
+        self.assertEqual(page["origen_texto"], "ocr"); self.assertIn("REMEDY", page["texto"].upper())
+
     def test_hash_mismatch_and_missing_files_reported(self):
         path = self.pdf()
         self.row(path, sha256="0" * 64)

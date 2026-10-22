@@ -96,9 +96,37 @@ cobertura de al menos el 50 % y menos de 200 letras/dígitos.
 `posible_ocr` es una **alerta heurística**: una portada breve o una página
 en blanco también pueden activarla. Puede pasar por alto escaneos con mucho
 texto digital superpuesto o imágenes fragmentadas. No mide exactitud jurídica
-ni garantiza que el resto esté completo. Esta versión **no ejecuta OCR**:
-deja identificadas las páginas para decidir y probar ese paso con el corpus real.
-Un error del motor en una página queda registrado como `error_pagina`.
+ni garantiza que el resto esté completo. Un error del motor en una página queda
+registrado como `error_pagina`.
+
+### OCR (`--ocr`)
+
+En el corpus real, la Comisión guarda como **imagen páginas enteras de las
+decisiones**: texto normal y tablas de cuotas de mercado. Pasa en 505 de las 9.100
+páginas, sobre todo en las que tienen datos confidenciales. Sin OCR faltan 1.124
+párrafos numerados (3,7 %) de 22 decisiones.
+
+```bash
+python remedios_ue/extraer_texto.py --entrada descargas_anc --ocr
+```
+
+- **Qué páginas lee:** solo las que son imagen o no tienen texto (`sin_texto` o
+  `imagen_con_texto_escaso`). Una página con poco texto digital y sin imagen no se toca.
+- **Cómo lo lee:** Tesseract, vía PyMuPDF, a 300 dpi (`--ocr-dpi`). El idioma se elige
+  según el `idioma` del reporte (EN → `eng`, FR → `fra`, …).
+- **Cómo queda marcado:** la página tiene `origen_texto = "ocr"` y la alerta `texto_ocr`,
+  y sigue marcada para revisión. El TXT la señala con
+  `[PÁGINA PDF n | texto OCR: verificar contra el PDF]`. Las demás páginas tienen
+  `origen_texto = "pdf"`.
+- **Calidad:** el OCR recupera los párrafos pero comete errores ("combmed",
+  "[80-901 %") y lee mal las tablas. **Una cifra tomada de una página OCR se
+  verifica contra el PDF.**
+- **Errores:** si falla en una página, queda la alerta `error_ocr` y la corrida sigue.
+- **Caché:** activar o desactivar `--ocr` cambia la configuración y vuelve a extraer.
+- **Sin Tesseract:** `--ocr` termina con código 1 y un mensaje.
+- **Instalación:** Tesseract con los idiomas `eng` y `fra`. En Windows, el
+  instalador de UB Mannheim. Si no se encuentra solo, se indica la carpeta con
+  `--tessdata RUTA` o con la variable `TESSDATA_PREFIX`.
 
 Una salida `requiere_revision` contiene lo que se pudo extraer y necesita
 control humano. `error_archivo` indica un problema de ruta, archivo ausente o
@@ -159,9 +187,13 @@ extrae el PDF descargado y se marca la referencia para revisión de versión.
 Esto es distinto de un SHA que no coincide con el **reporte de descarga**:
 ese último caso es un error de integridad y no se extrae.
 
-`paginas_compromisos` se conserva como metadato literal del inventario: no
-se interpreta como paginación física ni se usa para recortar texto. Se extrae
-el archivo completo, incluidos los anexos integrados. Los Merger Briefs y
+`paginas_compromisos` se conserva tal como viene del inventario y no se usa
+para recortar: se extrae el archivo completo, incluidos los anexos integrados.
+Esas páginas **son físicas** (posición en el PDF, desde 1), porque
+`relevar_documentos.py` las ubicó con PyMuPDF sobre el mismo archivo. Coinciden
+con `pagina_pdf` y sirven para separar el texto de los compromisos. En el corpus
+real, en las 44 decisiones el título del anexo aparece en la página de inicio
+indicada. Los Merger Briefs y
 comunicados que el descargador entrega como PDF siguen el mismo circuito.
 `sin_version_pdf`, `sitio_bloqueado` y otros estados sin archivo quedan como
 omisiones con su URL de referencia.

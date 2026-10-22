@@ -20,7 +20,9 @@ from contextlib import contextmanager
 from datetime import datetime, timezone
 from pathlib import Path, PureWindowsPath
 
-VERSION = "1.0.0"
+VERSION = "1.1.0"
+# Idioma del reporte -> idioma de Tesseract para el OCR opcional
+IDIOMAS_OCR = {"EN": "eng", "FR": "fra", "DE": "deu", "ES": "spa", "IT": "ita", "NL": "nld", "PT": "por"}
 SUCCESS = {"descargado", "ya_descargado", "contenido_reutilizado"}
 REQUIRED = {"documento_id", "caso", "estado", "archivo", "sha256", "formato_real"}
 DOCUMENT_FIELDS = (
@@ -31,7 +33,7 @@ DOCUMENT_FIELDS = (
     "paginas_posible_ocr", "json", "txt", "reutilizado",
 )
 PAGE_FIELDS = (
-    "sha256", "casos", "documentos", "pagina_pdf", "etiqueta_pdf",
+    "sha256", "casos", "documentos", "pagina_pdf", "etiqueta_pdf", "origen_texto",
     "caracteres", "caracteres_utiles", "cobertura_imagen_maxima",
     "posible_ocr", "requiere_revision", "alertas", "error", "json",
 )
@@ -136,9 +138,35 @@ def make_plan(rows: list[dict], root: Path, cases: set[str], limit: int | None):
     return selected, results, chosen
 
 
-def page_data(page, minimum: int) -> dict:
+def ocr_idiomas(referencias: list[dict]) -> str:
+    """Idiomas de Tesseract para un PDF, según el idioma de sus filas del reporte."""
+    codes = sorted({IDIOMAS_OCR[r.get("idioma", "").upper()] for r in referencias
+                    if r.get("idioma", "").upper() in IDIOMAS_OCR})
+    return "+".join(codes) or "eng"
+
+
+def ocr_page(page, language: str, dpi: int, tessdata: str | None) -> str:
+    """Texto de la página por OCR (Tesseract, vía PyMuPDF)."""
+    textpage = page.get_textpage_ocr(language=language, dpi=dpi, full=True, tessdata=tessdata)
+    return page.get_text("text", textpage=textpage, sort=True)
+
+
+def tessdata_disponible(engine, tessdata: str | None) -> str:
+    """Ubica tessdata antes de empezar: sin Tesseract, --ocr es un error de configuración."""
+    detail = ""
+    try:
+        path = engine.get_tessdata(tessdata)
+    except Exception as e:
+        path, detail = None, f" Detalle: {e}"
+    if not path or not Path(path).is_dir():
+        raise ValueError("No se encontró Tesseract para --ocr. Instalalo con los idiomas eng y fra "
+                         "(en Windows, el instalador de UB Mannheim) o indicá la carpeta con --tessdata." + detail)
+    return str(path)
+
+
+def page_data(page, minimum: int, ocr: dict | None = None) -> dict:
     label = page.get_label() or None
-    record = {"pagina_pdf": page.number + 1, "etiqueta_pdf": label,
+    record = {"pagina_pdf": page.number + 1, "etiqueta_pdf": label, "origen_texto": "pdf",
               "texto": "", "caracteres": 0, "caracteres_utiles": 0,
               "cobertura_imagen_maxima": 0.0, "posible_ocr": False,
               "requiere_revision": False, "alertas": []}
@@ -169,12 +197,25 @@ def page_data(page, minimum: int) -> dict:
         quality.append("imagen_con_texto_escaso")
     if text.count("\ufffd") / max(len(text), 1) > 0.01:
         quality.append("caracteres_dudosos")
+    # OCR opcional solo para p\u00e1ginas que son imagen o no tienen texto: la Comisi\u00f3n guarda
+    # como imagen p\u00e1ginas enteras de la decisi\u00f3n (p. ej. las de tablas de cuotas). Una
+    # p\u00e1gina con poco texto digital y sin imagen no se reemplaza.
+    if ocr and ("sin_texto" in quality or "imagen_con_texto_escaso" in quality):
+        try:
+            recognized = ocr_page(page, ocr["idiomas"], ocr["dpi"], ocr.get("tessdata"))
+            record.update(texto=recognized, caracteres=len(recognized),
+                          caracteres_utiles=sum(c.isalnum() for c in recognized),
+                          origen_texto="ocr", idioma_ocr=ocr["idiomas"])
+            alerts.append("texto_ocr")
+        except Exception as e:
+            alerts.append("error_ocr")
+            record["error"] = str(e)
     record.update(cobertura_imagen_maxima=round(coverage, 4),
                   posible_ocr=bool(quality), requiere_revision=bool(alerts or quality), alertas=alerts + quality)
     return record
 
 
-def extract_pdf(job: dict, config: dict, engine) -> dict:
+def extract_pdf(job: dict, config: dict, engine, tessdata: str | None = None) -> dict:
     with engine.open(job["path"]) as doc:
         if not doc.is_pdf:
             raise ValueError("El archivo no es un PDF, aunque su extensión lo indique")
@@ -182,7 +223,10 @@ def extract_pdf(job: dict, config: dict, engine) -> dict:
             raise ValueError("PDF protegido con contraseña; requiere intervención manual")
         if len(doc) == 0:
             raise ValueError("PDF sin páginas")
-        pages = [page_data(page, config["min_caracteres"]) for page in doc]
+        ocr = None
+        if config.get("ocr"):
+            ocr = {"idiomas": ocr_idiomas(job["referencias"]), "dpi": config["ocr_dpi"], "tessdata": tessdata}
+        pages = [page_data(page, config["min_caracteres"], ocr) for page in doc]
         warnings = ["pdf_reparado_por_motor"] if doc.is_repaired else []
         return {"version_esquema": 1, "version_extractor": VERSION, "configuracion": config,
                 "sha256_pdf": job["sha256"], "extraido_utc": utcnow(),
@@ -194,6 +238,8 @@ def rendered_text(data: dict) -> str:
     pieces = []
     for page in data["paginas"]:
         label = "" if page["etiqueta_pdf"] is None else " | etiqueta PDF: " + page["etiqueta_pdf"]
+        if page.get("origen_texto") == "ocr":
+            label += " | texto OCR: verificar contra el PDF"
         pieces.append(f"[PÁGINA PDF {page['pagina_pdf']}{label}]\n{page['texto']}")
     return "\n\n".join(pieces) + "\n"
 
@@ -231,8 +277,11 @@ def cached_document(root: Path, sha: str, config: dict, entry: dict | None) -> d
 
 
 def run(args, selected, results, jobs, report: Path, report_sha: str, root: Path, out: Path, engine) -> int:
+    # La configuración se guarda con cada salida y decide si la caché sirve: activar o
+    # desactivar el OCR vuelve a extraer. La ruta de tessdata no entra (depende del equipo).
     config = {"version_extractor": VERSION, "pymupdf": engine.VersionBind,
-              "metodo": "get_text(text, sort=True)", "min_caracteres": args.min_caracteres}
+              "metodo": "get_text(text, sort=True)", "min_caracteres": args.min_caracteres,
+              "ocr": bool(args.ocr), "ocr_dpi": args.ocr_dpi if args.ocr else None}
     statepath = out / "estado.json"
     page_rows, counts = [], Counter()
     interrupted = False
@@ -250,7 +299,7 @@ def run(args, selected, results, jobs, report: Path, report_sha: str, root: Path
                     data = None if args.rehacer else cached_document(out, sha, config, state["documentos"].get(sha))
                     reused = data is not None
                     if data is None:
-                        data = extract_pdf(job, config, engine)
+                        data = extract_pdf(job, config, engine, getattr(args, "tessdata_resuelto", None))
                     # Una referencia nueva no obliga a volver a extraer el mismo PDF.
                     data["referencias"] = job["referencias"]
                     data["alertas_referencias"] = [
@@ -307,6 +356,7 @@ def run(args, selected, results, jobs, report: Path, report_sha: str, root: Path
             "procesamiento_pdf": dict(counts), "estados_filas": dict(statuses),
             "paginas": len(page_rows), "paginas_con_alerta": sum(p["requiere_revision"] for p in page_rows),
             "paginas_posible_ocr": sum(p["posible_ocr"] for p in page_rows),
+            "paginas_texto_ocr": sum(p.get("origen_texto") == "ocr" for p in page_rows),
             "nota": "Alertas heurísticas: requieren revisión. No se ejecutó OCR ni análisis jurídico.",
         }
         write_csv(out / "documentos.csv", DOCUMENT_FIELDS, list(results.values()))
@@ -324,6 +374,10 @@ def parser() -> argparse.ArgumentParser:
     p.add_argument("--limite", type=int, help="Máximo de PDF únicos, por orden del reporte")
     p.add_argument("--min-caracteres", type=int, default=30, help="Umbral de letras/dígitos por página para revisión (30)")
     p.add_argument("--rehacer", action="store_true", help="Extraer de nuevo aunque haya caché válida")
+    p.add_argument("--ocr", action="store_true",
+                   help="Leer con OCR (Tesseract) las páginas que son imagen o no tienen texto")
+    p.add_argument("--ocr-dpi", type=int, default=300, help="Resolución del OCR (300)")
+    p.add_argument("--tessdata", help="Carpeta tessdata de Tesseract, si no se encuentra sola")
     p.add_argument("--plan", action="store_true", help="Validar selección y SHA-256, sin extraer ni escribir")
     p.add_argument("--version", action="version", version=VERSION)
     return p
@@ -336,6 +390,8 @@ def main(argv: list[str] | None = None) -> int:
         p.error("--limite debe ser al menos 1")
     if args.min_caracteres < 1:
         p.error("--min-caracteres debe ser al menos 1")
+    if not 72 <= args.ocr_dpi <= 600:
+        p.error("--ocr-dpi debe estar entre 72 y 600")
     root = args.entrada.resolve()
     out = args.destino.resolve() if args.destino else root / "texto_extraido"
     report = root / "reporte.csv"
@@ -362,6 +418,8 @@ def main(argv: list[str] | None = None) -> int:
             import pymupdf
         except ImportError as e:
             raise ValueError("Falta PyMuPDF. Ejecutá: python -m pip install -r remedios_ue/requirements.txt") from e
+        if args.ocr:
+            args.tessdata_resuelto = tessdata_disponible(pymupdf, args.tessdata)
         return run(args, selected, results, jobs, report, report_sha, root, out, pymupdf)
     except (OSError, ValueError) as e:
         print(f"Error: {e}", file=sys.stderr)
