@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Área interna — ANC</title>
+<link rel="icon" href="data:,">
+<!-- Protegida con Cloudflare Access (path /interna). Sin Google Analytics a proposito. -->
+<style>
+  :root { --azul:#08519c; --azul2:#2c7fb8; --naranja:#d95f0e; }
+  * { box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0; color: #1a1a1a; background: #f7f8fa; line-height: 1.45; }
+  .bm-header { background: #fff; border-bottom: 1px solid #e2e2e2; padding: 1.1rem 1.2rem .6rem; }
+  .bm-header h1 { margin: 0 0 .15rem; font-size: 1.5rem; color: var(--azul); }
+  .bm-header p { margin: 0; font-size: .9rem; color: #555; max-width: 70ch; }
+  .bm-main { max-width: 760px; margin: 0 auto; padding: 1.2rem 1.2rem 2rem; }
+  .card { background: #fff; border: 1.5px solid #b6c9de; border-top: 4px solid #6f8fb3;
+    border-radius: 10px; padding: 1rem 1.1rem; }
+  .card h2 { margin: 0 0 .4rem; font-size: 1.1rem; color: #486590; }
+  .card p { margin: .4rem 0; }
+  .quien { font-size: .95rem; color: #333; overflow-wrap: anywhere; }
+  .quien b { color: var(--azul); }
+  .acciones { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1rem; }
+  .btn { display: inline-block; font-size: .92rem; padding: .5rem .9rem; border-radius: 8px;
+    text-decoration: none; border: 1.5px solid #9db6d3; color: var(--azul); background: #fff; }
+  .btn:hover { background: #f2f6fb; }
+  .btn.salir { border-color: #e0b08f; color: var(--naranja); }
+  .btn.salir:hover { background: #fdf3ec; }
+  .btn:focus-visible { outline: 3px solid rgba(111,143,179,.45); outline-offset: 2px; }
+</style>
+</head>
+<body>
+<header class="bm-header">
+  <h1>Área interna</h1>
+  <p>Agencia Nacional de la Competencia · solo personas autorizadas</p>
+</header>
+<main class="bm-main">
+  <section class="card">
+    <h2>Área interna, en construcción</h2>
+    <p>Esta página es una prueba del acceso con usuario. El contenido real se agrega más adelante.</p>
+    <p class="quien" id="quien">Leyendo con qué mail entraste…</p>
+    <div class="acciones">
+      <a class="btn" href="/">← Volver al buscador</a>
+      <a class="btn salir" href="/cdn-cgi/access/logout">Salir</a>
+    </div>
+  </section>
+</main>
+<script>
+// Cloudflare Access informa la identidad de la sesion en /cdn-cgi/access/get-identity.
+// Fuera de Cloudflare (por ejemplo con python -m http.server) ese pedido falla y se avisa.
+(function () {
+  var el = document.getElementById('quien');
+  fetch('/cdn-cgi/access/get-identity', { credentials: 'same-origin', cache: 'no-store' })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (id) {
+      if (!id || !id.email) throw new Error('sin mail');
+      el.textContent = '';
+      el.appendChild(document.createTextNode('Entraste como '));
+      var b = document.createElement('b');
+      b.textContent = id.email;
+      el.appendChild(b);
+      el.appendChild(document.createTextNode('.'));
+    })
+    .catch(function () {
+      el.textContent = 'No se pudo leer el mail de la sesión (fuera de Cloudflare Access no está disponible).';
+    });
+})();
+</script>
+</body>
+</html>

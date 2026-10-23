@@ -6,7 +6,7 @@ de firm.xlsx. Reutiliza la logica de clasificacion del nomenclador existente
 sectores/sinonimos/productos; el HTML no contiene logica de clasificacion.
 
 Uso:
-    python generar_pagina.py            # escribe index.html
+    python generar_pagina.py            # escribe index.html y pdf/index.html
 
 Caracteristicas (ademas de las del generador original):
   - Panel colapsable "Busqueda avanzada por producto": elegis un mercado
@@ -30,6 +30,7 @@ import json
 import re
 from collections import Counter
 from pathlib import Path
+from urllib.parse import quote
 
 import pandas as pd
 
@@ -53,8 +54,10 @@ SALIDA = AQUI / "index.html"
 # --------------------------------------------------------------------------- #
 PDF_DIR = "pdf"
 
-# Carpeta de PDFs en GitHub para el boton "Archivo" (se abre en pestaña nueva).
-ARCHIVO_URL = "https://github.com/vjaros-anc/buscadorANC/tree/main/pdf"
+# Boton "Archivo" (se abre en pestaña nueva): el listado pdf/index.html que
+# escribe escribir_listado_pdf() en cada corrida. El repo es privado, asi que
+# un link a la carpeta en github.com le daria 404 al publico.
+ARCHIVO_URL = f"{PDF_DIR}/"
 
 # nombres reales de columnas en firm.xlsx
 C_CARPETA = "Carpeta"
@@ -275,6 +278,29 @@ def tabla_nomenclador(recs: list[dict]) -> str:
     )
 
 
+def _orden_pdf(nombre: str) -> tuple:
+    """Orden natural: CONC-2 antes que CONC-10; lo que no sea TIPO-NUMERO va al final."""
+    m = re.match(r"([A-Za-z]+)-(\d+)(.*)$", Path(nombre).stem)
+    if m:
+        return (0, m.group(1).upper(), int(m.group(2)), m.group(3).lower())
+    return (1, nombre.lower(), 0, "")
+
+
+def escribir_listado_pdf() -> int:
+    """Escribe pdf/index.html: el listado de los PDFs que estan directo en pdf/
+    (sin subcarpetas). Es lo que abre el boton "Archivo". Devuelve la cantidad."""
+    carpeta = AQUI / PDF_DIR
+    nombres = sorted((f.name for f in carpeta.iterdir()
+                      if f.is_file() and f.suffix.lower() == ".pdf"), key=_orden_pdf)
+    items = "\n".join(
+        f'<li><a href="{quote(n)}">{htmllib.escape(n)}</a></li>' for n in nombres)
+    (carpeta / "index.html").write_text(
+        LISTADO_PDF.replace("__N__", f"{len(nombres):,}".replace(",", "."))
+                   .replace("__ITEMS__", items),
+        encoding="utf-8")
+    return len(nombres)
+
+
 def main() -> None:
     recs = build_records()
     sectores = sorted({s for r in recs for s in r["sectores"]})
@@ -318,11 +344,13 @@ def main() -> None:
     html = html.replace("__TOTAL__", str(len(recs)))
 
     SALIDA.write_text(html, encoding="utf-8")
+    n_pdfs = escribir_listado_pdf()
 
     cont = Counter(s for r in recs for s in r["sectores"])
     n_prod = len({p for r in recs for p in r["productos"]})
     n_con_prod = sum(1 for r in recs if r["productos"])
     print(f"OK -> {SALIDA.name}  ({len(recs)} expedientes)")
+    print(f"OK -> {PDF_DIR}/index.html  ({n_pdfs} PDFs)")
     print(f"  {len(decisiones)} decisiones distintas | PDFs esperados en ./{PDF_DIR}/")
     print(f"  {n_prod} productos distintos (columna `productos` del Excel) en "
           f"{len(productos_sector)} sectores | {n_con_prod} expedientes con productos cargados")
@@ -605,7 +633,7 @@ TEMPLATE = r"""<!doctype html>
     <div class="bm-actions">
       <button class="bm-btn ghost" id="bm-reset"><span class="bm-ic">🧹</span> Limpiar filtros<span class="bm-reset-n" id="bm-reset-n"></span></button>
       <a class="bm-btn arch" id="bm-archivo" href="__ARCHIVO__" target="_blank"
-        rel="noopener" title="Abrir la carpeta de PDFs en GitHub">📁 Archivo (PDFs)</a>
+        rel="noopener" title="Abrir el listado de PDFs">📁 Archivo (PDFs)</a>
     </div>
 
     <div class="bm-filtros" id="bm-tipos"><span class="bm-lbl">TIPO:</span></div>
@@ -944,6 +972,49 @@ TEMPLATE = r"""<!doctype html>
   render();
 })();
 </script>
+</body>
+</html>
+"""
+
+
+# --------------------------------------------------------------------------- #
+# Listado pdf/index.html (lo escribe escribir_listado_pdf). Tokens: __N__ __ITEMS__
+# Los links son relativos a pdf/, asi que sirven igual en local y publicado.
+# --------------------------------------------------------------------------- #
+LISTADO_PDF = r"""<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Archivo de PDFs — ANC</title>
+<link rel="icon" href="data:,">
+<style>
+  :root { --azul:#08519c; --azul2:#2c7fb8; }
+  * { box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0; color: #1a1a1a; background: #f7f8fa; line-height: 1.45; }
+  .bm-header { background: #fff; border-bottom: 1px solid #e2e2e2; padding: 1.1rem 1.2rem .6rem; }
+  .bm-header h1 { margin: 0 0 .15rem; font-size: 1.5rem; color: var(--azul); }
+  .bm-header p { margin: 0; font-size: .9rem; color: #555; }
+  .bm-header a { color: var(--azul2); }
+  .bm-main { max-width: 1100px; margin: 0 auto; padding: 1rem 1.2rem 2rem; }
+  ul { list-style: none; margin: 0; padding: .6rem .8rem; background: #fff;
+    border: 1px solid #dfe3e8; border-radius: 10px; columns: 14rem; column-gap: 1.5rem; }
+  li { padding: .12rem 0; break-inside: avoid; font-size: .92rem; }
+  li a { color: var(--azul); text-decoration: none; overflow-wrap: anywhere; }
+  li a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<header class="bm-header">
+  <h1>Archivo de PDFs</h1>
+  <p>__N__ archivos · <a href="../">Volver al buscador</a></p>
+</header>
+<main class="bm-main">
+<ul>
+__ITEMS__
+</ul>
+</main>
 </body>
 </html>
 """

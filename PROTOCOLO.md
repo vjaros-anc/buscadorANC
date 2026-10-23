@@ -132,6 +132,9 @@ antes de mover.)
 python generar_pagina.py
 ```
 
+Escribe `index.html` y también `pdf/index.html`, el listado que abre el botón
+"📁 Archivo (PDFs)".
+
 Antes, guardá el index anterior para poder compararlo:
 
 ```bash
@@ -168,6 +171,42 @@ git add -A && git commit -m "act $(date +%d-%m)"
 git push
 ```
 
+El push a `main` publica solo en **Cloudflare Pages** (`https://buscadoranc.pages.dev`), en un par
+de minutos. GitHub Pages ya no se usa: el repo es privado. Si el deploy falla, Cloudflare deja
+publicado el anterior; el detalle está en Workers & Pages → `buscadoranc` → Deployments.
+
+Una rama distinta de `main` sale como *preview* (`<rama>.buscadoranc.pages.dev`) y pide login.
+
+---
+
+## Qué se publica y área interna
+
+Cloudflare no publica el repo entero. Antes de cada deploy corre `build_site.py`, que arma
+`dist/` con una **lista blanca**: `index.html`, los PDFs de primer nivel de `pdf/` con su listado,
+`interna/` y dos páginas viejas que alguien puede tener guardadas. `firm.xlsx`, los `.py`,
+`varios/`, `viejos/`, `pdf/escaneados/` y `pdf/lectura_opi/` quedan en el repo pero **no** salen en
+el sitio. Para ver qué se publicaría:
+
+```bash
+python -B build_site.py --reporte
+```
+
+En Cloudflare, el proyecto tiene *Build command* `python3 build_site.py` y *Build output
+directory* `dist`. Si `build_site.py` encuentra un Excel, un `.py` o un insumo interno en lo que
+iba a publicar, falla y queda el deploy anterior.
+
+**Área interna (`/interna/`).** La protege Cloudflare Access: piden un código que llega por mail y
+solo entran los mails autorizados.
+
+- **Agregar o quitar personas:** dash.cloudflare.com → Zero Trust → Access → Applications →
+  **buscadoranc interna** → la política (*Allow*, *Include → Emails*) → editar la lista. Hay una
+  segunda aplicación, la de los previews (`*.buscadoranc.pages.dev`), con su propia lista: quien
+  pruebe ramas tiene que estar también ahí.
+- **Todo lo interno va dentro de `interna/`.** Lo que esté afuera es público, aunque nadie lo
+  enlace.
+- **El repo no se vuelve a hacer público.** El historial de git guarda todo lo que pasó por el
+  repo, incluidos `Res_firmadas.xlsm` (9/10) y lo que se suba a `interna/`.
+
 ---
 
 ## Orden que no se puede alterar
@@ -202,6 +241,9 @@ está sin construir.
 |---|---|
 | `firm.xlsx` | **el maestro**, hoja `firmadas`, 20 columnas. Único insumo del buscador. |
 | `index.html` | la página publicada. Se genera, no se edita. |
+| `pdf/index.html` | el listado de PDFs del botón "Archivo". Se genera, no se edita. |
+| `interna/` | el área interna, con login (Cloudflare Access). |
+| `_headers` | encabezados de Cloudflare: `interna/` sin indexar y sin caché. |
 | `Res_firmadas.xlsm` | seguimiento del área. Fuente de las filas nuevas. No lo toca ningún script. |
 | `nuevas/` | los PDFs del mes, antes de procesarlos. |
 | `pdf/` | los PDFs publicados. El buscador enlaza acá. |
@@ -220,7 +262,8 @@ está sin construir.
 | `mergear_firmadas.py` | `firmadas3.xlsx` → `firm.xlsx` |
 | `extraer_empresas_ia.py` | completa empresas con la API (lo único que cuesta plata) |
 | `extraer_productos.py` | completa las 3 columnas de productos |
-| `generar_pagina.py` | `firm.xlsx` → `index.html` |
+| `generar_pagina.py` | `firm.xlsx` → `index.html` (y el listado `pdf/index.html`) |
+| `build_site.py` | lo corre Cloudflare: arma `dist/` con lo que se publica |
 | `comparar_index.py` | compuerta: ¿se perdió algún expediente? |
 | `estado.py` | en qué paso del mes estás |
 | `nomenclador_mercados.py` | catálogos de sectores y productos. No se ejecuta solo. |

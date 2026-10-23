@@ -37,3 +37,6 @@ viejas/
 # --- Salidas de unificar_maestro.py (uso unico) ---
 firm_unificado.xlsx
 unificacion_reporte.txt
+
+# --- Salida de build_site.py (la arma Cloudflare al publicar) ---
+dist/
