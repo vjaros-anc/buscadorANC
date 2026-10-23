@@ -10,6 +10,8 @@ Responden "¿lo que se va a publicar es coherente?" y fallan con un mensaje que 
   - el buscador y su plantilla llevan la barra comun
   - los fixtures estan marcados como ejemplo; el seguimiento y el monitor reales solo pasan fuera de main
   - la lista blanca de build_site.py no deja pasar el Excel, los scripts ni los insumos internos
+  - la biblioteca de remedios (remedios/) es la que sale de las fichas de remedios_ue/, y --aditivo acepta
+    .gitignore con lineas nuevas y lo que main ya no tiene
   - actualizar_sitio.py: orden de los pasos, de donde sale el Excel (Descargas), que monitor.json acepta
     y que frena si hay un Excel interno suelto en la carpeta del repo
   - (si hay openpyxl y el Excel) regenerar el seguimiento desde Res_firmadas.xlsm da lo que esta versionado
@@ -28,6 +30,7 @@ import os
 import re
 import shutil
 import statistics
+import subprocess
 import sys
 import tempfile
 import unittest
@@ -39,6 +42,7 @@ sys.path.insert(0, str(RAIZ))
 
 import actualizar_sitio as aus      # noqa: E402
 import build_site as bs             # noqa: E402
+import generar_remedios as gr       # noqa: E402
 import generar_seguimiento as gs    # noqa: E402
 import integrar_opis as io          # noqa: E402
 import verificar_sitio as vs        # noqa: E402
@@ -260,7 +264,8 @@ class PublicacionTest(unittest.TestCase):
                 continue
             self.assertIsNone(prohibido.search(rel), rel + " no debería publicarse")
         for rel in ("index.html", "404.html", "_headers", "assets/anc.css", "assets/nav.js", "assets/charts.js", "assets/csv.js",
-                    "opis/index.html", "conc/index.html", "herramientas/index.html", "data/conc.json"):
+                    "opis/index.html", "conc/index.html", "herramientas/index.html", "data/conc.json",
+                    "remedios/index.html", "remedios/relaciones.csv"):
             self.assertIn(rel, sel)
 
     def test_la_demo_no_llega_a_produccion(self):
@@ -279,7 +284,7 @@ class PublicacionTest(unittest.TestCase):
         # un sitio chico sin la demo: con INTERNO = false pasa la compuerta; con INTERNO = true faltan sus paginas
         with tempfile.TemporaryDirectory() as tmp:
             raiz = Path(tmp)
-            for carpeta in ("assets", "herramientas", "opis", "conc", "data"):
+            for carpeta in ("assets", "herramientas", "opis", "conc", "remedios", "data"):
                 shutil.copytree(RAIZ / carpeta, raiz / carpeta)
             for archivo in ("index.html", "404.html"):
                 shutil.copy(str(RAIZ / archivo), str(raiz / archivo))
@@ -530,6 +535,93 @@ class ActualizarSitioTest(unittest.TestCase):
 
 @unittest.skipUnless(os.environ.get("ANC_TEST_REGENERAR") or __import__("importlib").util.find_spec("pandas"),
                      "requiere pandas (y firm.xlsx) para regenerar el tablero")
+class RemediosTest(unittest.TestCase):
+    def test_markdown_de_las_fichas(self):
+        md = ("| | |\n|---|---|\n| **Partes** | A <b> & B |\n\n"
+              "- uno **dos** *tres* `M.1_DEC_01`\n  sigue\n  - hijo\n    continúa\n\n  Párrafo del item.\n"
+              "- **29/05 (`x`):** fin\n\n### P1 — Mercado\n\nTexto *market test*.")
+        h = gr.md_a_html(md)
+        self.assertIn('<th scope="row">Partes</th><td>A &lt;b&gt; &amp; B</td>', h)
+        self.assertNotIn("<thead>", h)
+        self.assertIn("<li>uno <strong>dos</strong> <em>tres</em> <code>M.1_DEC_01</code> sigue"
+                      "<ul><li>hijo continúa</li></ul><p>Párrafo del item.</p></li>", h)
+        self.assertIn("<li><strong>29/05 (<code>x</code>):</strong> fin</li>", h)
+        self.assertIn('<h3 id="p1">P1 — Mercado</h3>', h)
+        self.assertIn("<p>Texto <em>market test</em>.</p>", h)
+        self.assertNotRegex(h, r"[*`]")
+
+    def test_remedios_versionado_es_el_que_sale_de_las_fichas(self):
+        salida = gr.construir(RAIZ)
+        self.assertEqual(gr.diferencias(RAIZ, salida), [], "correr 'python -B generar_remedios.py'")
+        self.assertEqual(salida, gr.construir(RAIZ), "la salida no es determinista")
+        fichas = sorted(p.stem for p in (RAIZ / "remedios_ue" / "fichas").glob("M.*.md"))
+        paginas = sorted(r.split("/")[1].replace("-", ".") for r in salida if r.count("/") == 2)
+        self.assertEqual(paginas, fichas)
+        indice = salida["remedios/index.html"].decode("utf-8")
+        self.assertEqual(indice.count('class="anc-tool"'), len(fichas))
+        self.assertIn('<meta name="remedios-huella" content="%s">' % vs.huella_remedios(RAIZ), indice)
+
+    def test_aviso_si_cambia_una_ficha(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raiz = Path(tmp)
+            (raiz / "remedios_ue" / "fichas").mkdir(parents=True)
+            shutil.copy(str(RAIZ / "remedios_ue" / "casos.csv"), str(raiz / "remedios_ue" / "casos.csv"))
+            for f in (RAIZ / "remedios_ue" / "fichas").glob("*.*"):
+                shutil.copy(str(f), str(raiz / "remedios_ue" / "fichas" / f.name))
+            shutil.copytree(str(RAIZ / "remedios"), str(raiz / "remedios"))
+            aviso = lambda: [m for n, m in vs.verificar(raiz, solo_dist=True) if "generar_remedios" in m]
+            self.assertEqual(aviso(), [])
+            ficha = next((raiz / "remedios_ue" / "fichas").glob("M.*.md"))
+            ficha.write_text(ficha.read_text(encoding="utf-8") + "\nUna línea nueva.\n", encoding="utf-8")
+            self.assertEqual(len(aviso()), 1)
+
+    def test_barra_mapa_y_publicacion(self):
+        nav = (RAIZ / "assets" / "nav.js").read_text(encoding="utf-8")
+        self.assertIn("h: 'remedios/'", nav)
+        self.assertIn("rel.indexOf('remedios/') === 0) best = 'remedios'", nav)
+        self.assertIn('href="../remedios/"', (RAIZ / "herramientas" / "index.html").read_text(encoding="utf-8"))
+        self.assertIn("remedios", bs.CARPETAS)
+
+    @unittest.skipUnless(shutil.which("git"), "sin git")
+    def test_aditivo_gitignore_y_lo_que_main_revirtio(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            raiz = Path(tmp)
+
+            def git(*args):
+                subprocess.run(["git", "-C", tmp, "-c", "user.name=t", "-c", "user.email=t@t", *args],
+                               check=True, capture_output=True)
+
+            def commit(**archivos):
+                for nombre, texto in archivos.items():
+                    (raiz / nombre.replace("_", ".")).write_text(texto, encoding="utf-8")
+                git("add", "-A")
+                git("commit", "-q", "-m", "x")
+
+            git("init", "-q")
+            git("checkout", "-q", "-b", "main")
+            commit(_gitignore="a\n", viejo_txt="x\n")
+            git("checkout", "-q", "-b", "rama")
+            commit(nuevo_txt="1\n")
+            git("checkout", "-q", "main")
+            git("merge", "-q", "--no-ff", "rama", "-m", "merge")
+            git("rm", "-q", "nuevo.txt")
+            git("commit", "-q", "-m", "revertir")          # main revierte el merge de la rama
+            git("checkout", "-q", "rama")
+            commit(_gitignore="a\nb\n", nuevo_txt="2\n")
+            errores = lambda: [m for n, m in vs.verificar(raiz, aditivo=True, rama="rama") if n == "ERROR"]
+            self.assertEqual(errores(), [])
+            commit(viejo_txt="y\n")
+            self.assertEqual(len(errores()), 1)
+            commit(_gitignore="b\n", viejo_txt="x\n")
+            self.assertEqual(len(errores()), 1)
+            self.assertIn(".gitignore", errores()[0])
+            commit(_gitignore="a\nb\n")
+            git("mv", "viejo.txt", "otro.txt")
+            git("commit", "-q", "-m", "renombrar")         # renombrar algo de main tambien lo modifica
+            self.assertEqual(len(errores()), 1)
+            self.assertIn("viejo.txt", errores()[0])
+
+
 class RegenerarTest(unittest.TestCase):
     def test_el_tablero_versionado_es_el_que_sale_de_firm_xlsx(self):
         import generar_tablero as gt

@@ -12,13 +12,15 @@ Revisa lo que se va a publicar y devuelve codigo de salida 1 si hay algun ERROR:
     y el seguimiento real (origen "interno") son ERROR en la rama main y en el dist/ que se publica, y solo una
     nota (INFO) en la rama del area interna, que se publica detras de Cloudflare Access (ver SITIO.md)
   - los JSON de data/ son validos y traen schema_version
+  - la biblioteca de remedios (remedios/) corresponde a las fichas de remedios_ue/ (aviso si no)
   - la demo del monitor esta marcada como ejemplo; uno real (origen "artefacto", lo baja el boton del artefacto)
     solo puede estar fuera de main, y es schema_version 1
   - el seguimiento es schema_version 2: el fixture esta marcado como ejemplo; uno real solo puede ser "interno"
   - las paginas del area interna no cargan Analytics y piden noindex
   - que el buscador (index.html) lleve la barra comun (aviso si no)
-  - (opcional, --aditivo) que la rama solo agregue archivos respecto de main; unica excepcion: index.html y
-    generar_pagina.py pueden recibir lineas nuevas (la barra), nunca perder ninguna
+  - (opcional, --aditivo) que la rama solo agregue archivos respecto de main; unica excepcion: index.html,
+    generar_pagina.py y .gitignore pueden recibir lineas nuevas (la barra, reglas nuevas), nunca perder ninguna.
+    Lo que main ya no tiene (p. ej. si revirtio un merge de esta rama) cuenta como alta
 
 No usa nada fuera de la biblioteca estandar (Python 3.7+): sirve tambien como paso de build en Cloudflare.
 
@@ -45,13 +47,15 @@ AQUI = Path(__file__).resolve().parent
 
 # Paginas cuyos links y recursos se revisan. index.html (el buscador) entra por la barra comun; sus links
 # a PDF los revisa comparar_index.py.
-PAGINAS = ["index.html", "404.html", "herramientas/index.html", "opis/index.html", "conc/index.html",
+PAGINAS = ["index.html", "404.html", "herramientas/index.html", "opis/index.html", "conc/index.html", "remedios/index.html",
            "demo-interno/index.html", "demo-interno/noticias/index.html", "demo-interno/seguimiento/index.html"]
-PUBLICAS = ("index.html", "conc/index.html", "opis/index.html", "herramientas/index.html")
+# ademas, una pagina por ficha de la biblioteca de remedios (las escribe generar_remedios.py)
+PAGINAS_FICHAS = "remedios/*/index.html"
+PUBLICAS = ("index.html", "conc/index.html", "opis/index.html", "herramientas/index.html", "remedios/index.html")
 BARRA = ("assets/anc.css", 'id="anc-nav"', "assets/nav.js")
 # Unicos archivos que ya existian en main y esta rama puede cambiar, y solo agregando lineas: el buscador
-# recibe la barra comun (3 lineas en la plantilla y en su salida).
-MODIFICABLES = ("index.html", "generar_pagina.py")
+# recibe la barra comun (3 lineas en la plantilla y en su salida) y .gitignore las reglas de remedios_ue/.
+MODIFICABLES = ("index.html", "generar_pagina.py", ".gitignore")
 LIMITE_BYTES = 20 * 1024 * 1024        # Cloudflare Pages: 25 MiB por archivo; se avisa antes
 LIMITE_ARCHIVOS = 20000
 LISTA_NEGRA_SIEMPRE = ["api_key*", "*.key", ".env", "~$*", "*.db"]
@@ -121,6 +125,19 @@ def huella_corpus(registros) -> str:
     return h.hexdigest()
 
 
+def huella_remedios(raiz: Path) -> str:
+    """Huella de las entradas de la biblioteca de remedios: remedios_ue/casos.csv, las fichas M.*.md y relaciones.csv.
+    Fines de linea normalizados, para que una copia de Windows (CRLF) de la misma huella."""
+    base = raiz / "remedios_ue"
+    rutas = [base / "casos.csv", base / "fichas" / "relaciones.csv"] + sorted((base / "fichas").glob("M.*.md"))
+    h = hashlib.sha256()
+    for p in rutas:
+        if p.exists():
+            h.update(p.relative_to(raiz).as_posix().encode("utf-8") + b"\0")
+            h.update(p.read_bytes().replace(b"\r\n", b"\n") + b"\0")
+    return h.hexdigest()
+
+
 def corpus_del_buscador(index_html: Path):
     """Registros embebidos en <script id="bm-data"> de un index.html del buscador (None si no se encuentran)."""
     m = re.search(r'<script id="bm-data"[^>]*>(.*?)</script>', index_html.read_text(encoding="utf-8"), re.S)
@@ -175,6 +192,7 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False, rama=N
 
     # 1. links y recursos de las paginas del sitio
     paginas = [p for p in PAGINAS if (raiz / p).exists()]
+    paginas += sorted(f.relative_to(raiz).as_posix() for f in raiz.glob(PAGINAS_FICHAS))
     if not paginas:
         avi("no hay paginas para revisar")
     for rel in paginas:
@@ -196,7 +214,7 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False, rama=N
                 err("%s: una página del área interna no debe cargar Analytics" % rel)
             if 'name="robots"' not in txt or "noindex" not in txt:
                 err("%s: falta <meta name=\"robots\" content=\"noindex…\">" % rel)
-        if rel in PUBLICAS:
+        if rel in PUBLICAS or rel.startswith("remedios/"):
             if re.search(r"fetch\(\s*['\"][^'\"]*(interno|monitor)[^'\"]*['\"]", txt):
                 err("%s: una página pública no debe pedir datos del área interna" % rel)
         if rel == "index.html" and not all(s in txt for s in BARRA):
@@ -242,6 +260,13 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False, rama=N
                 avi("conc/index.html no corresponde a data/conc.json: correr 'python -B generar_tablero.py'")
         except ValueError:
             pass  # el JSON invalido ya se informo en el punto 3
+
+    # 3c. la biblioteca de remedios (remedios/) corresponde a las fichas de remedios_ue/ (en un dist/ no estan: se saltea)
+    pag = raiz / "remedios" / "index.html"
+    if pag.exists() and (raiz / "remedios_ue" / "fichas").is_dir():
+        m = re.search(r'<meta name="remedios-huella" content="([0-9a-f]+)"', pag.read_text(encoding="utf-8"))
+        if not m or m.group(1) != huella_remedios(raiz):
+            avi("remedios/ no corresponde a las fichas de remedios_ue/: correr 'python -B generar_remedios.py'")
 
     # 4. monitor: el fixture esta marcado como ejemplo; el real (origen "artefacto", lo baja el boton del artefacto y lo
     #    copia actualizar_sitio.py --monitor) solo puede estar fuera de main, como el seguimiento real
@@ -344,6 +369,11 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False, rama=N
                 if not l or l.startswith("A"):
                     continue
                 estado, _, ruta = l.partition("\t")
+                # main...HEAD compara contra la base comun: si main revirtio un merge de esta rama, sus archivos
+                # aparecen como modificados aunque main ya no los tenga. Eso no toca nada de main.
+                if subprocess.run(["git", "-C", str(raiz), "cat-file", "-e", "main:" + ruta.split("\t")[0]],
+                                  capture_output=True).returncode != 0:
+                    continue
                 if estado == "M" and ruta in MODIFICABLES:
                     num = subprocess.run(["git", "-C", str(raiz), "diff", "--numstat", "main...HEAD", "--", ruta],
                                          capture_output=True, check=True).stdout.decode("utf-8", "replace").split()

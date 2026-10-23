@@ -604,3 +604,29 @@ body:has(#list) select:focus-visible { outline: 3px solid #2873b5; outline-offse
   :is(.anc-dashboard, .anc-tracking) .anc-filter-panel { position: static; }
   .anc-nav-hint { display: none !important; }
 }
+
+/* ---------- biblioteca de remedios (remedios/, la escribe generar_remedios.py) ---------- */
+.anc-remedios .anc-tool[hidden] { display: none; }
+.anc-remedios .anc-tool .anc-meta .anc-pill { white-space: normal; }
+.anc-remedios a.anc-btn { display: inline-flex; align-items: center; text-decoration: none; }
+.anc-ficha { margin-top: 1.5rem; padding: 1.4rem 1.6rem 1.6rem; line-height: 1.6; font-size: .95rem; }
+.anc-ficha > .anc-tablewrap:first-child { margin-top: 0; }
+.anc-ficha > .anc-tablewrap:first-child th[scope="row"] { width: 9.5rem; white-space: nowrap; vertical-align: top; }
+.anc-ficha .anc-table td, .anc-ficha .anc-table th { vertical-align: top; }
+.anc-ficha-sec { margin-top: 1.7rem; padding-top: 1.1rem; border-top: 1px solid var(--anc-line); }
+.anc-ficha h2 { margin: 0 0 .5rem; font-size: 1.18rem; color: var(--anc-azul); }
+.anc-ficha h3 { margin: 1.2rem 0 .35rem; font-size: 1.02rem; color: var(--anc-ink); }
+.anc-ficha p { margin: .45rem 0; max-width: 88ch; }
+.anc-ficha ul { margin: .35rem 0 .6rem; padding-left: 1.25rem; max-width: 88ch; }
+.anc-ficha li { margin: .22rem 0; }
+.anc-ficha li > p { margin: .45rem 0 .2rem; }
+.anc-ficha li > ul { margin: .25rem 0 .3rem; }
+.anc-ficha code { font-size: .86em; background: #eef2f7; border-radius: 4px; padding: .05rem .3rem; overflow-wrap: anywhere; }
+.anc-ficha-sec.propio { background: #fff8e6; border: 1px solid #f0d99a; border-radius: 12px; padding: 1rem 1.2rem; }
+.anc-ficha-sec.propio > h2 { color: #6b4a00; }
+.anc-ficha-sec.propio + .anc-ficha-sec { border-top: 0; }
+@media (max-width: 640px) {
+  .anc-ficha { padding: 1rem; font-size: .92rem; }
+  .anc-ficha > .anc-tablewrap:first-child th[scope="row"] { width: auto; white-space: normal; }
+  .anc-ficha-sec.propio { padding: .8rem .85rem; }
+}

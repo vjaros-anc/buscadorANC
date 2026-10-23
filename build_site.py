@@ -13,7 +13,7 @@ Para probarlo SIN tocar el proyecto real, crea un segundo proyecto de Pages (ver
 
 Que se publica:
   - sitio:   index.html, googlea22b4e4d6a289f30.html, 404.html, _headers, _redirects, robots.txt,
-             assets/, opis/, conc/, herramientas/, data/   (solo extensiones web: no .py ni .md)
+             assets/, opis/, conc/, herramientas/, remedios/, data/   (solo extensiones web: no .py ni .md)
   - pdf:     los pdf/*.pdf de primer nivel (no los CSV, ni escaneados/, ni lectura_opi/)
   - legado:  URLs que hoy sirven y alguien puede usar: productos buscador/index.html,
              pdf/lectura_opi/buscador_opis.html   (--sin-legado las saca)
@@ -43,7 +43,7 @@ sys.path.insert(0, str(AQUI))
 import verificar_sitio as vs  # noqa: E402
 
 ARCHIVOS_RAIZ = ["index.html", "googlea22b4e4d6a289f30.html", "404.html", "_headers", "_redirects", "robots.txt"]
-CARPETAS = ["assets", "opis", "conc", "herramientas", "data"]
+CARPETAS = ["assets", "opis", "conc", "herramientas", "remedios", "data"]
 CARPETA_DEMO = "demo-interno"
 LEGADO = ["productos buscador/index.html", "pdf/lectura_opi/buscador_opis.html"]
 EXT_WEB = {".html", ".css", ".js", ".json", ".csv", ".txt", ".png", ".jpg", ".jpeg", ".svg", ".ico", ".xml",

@@ -3,12 +3,13 @@
 Esta rama (`claude/dreamy-cray-mxaf3v`) **agrega archivos nuevos** y toca solo **dos archivos existentes, únicamente para
 agregar líneas**: `index.html` y `generar_pagina.py` reciben la barra común del sitio (3 líneas cada uno: el `<link>` a
 `assets/anc.css`, el `<div id="anc-nav">` y el `<script src="assets/nav.js">`). Es la única excepción a «no tocar el buscador»
-y se pidió expresamente. No cambia `comparar_index.py`, `estado.py`, `PROTOCOLO.md`, `.gitignore`, `firm.xlsx`, `pdf/**` ni
-`pdf/lectura_opi/**`, así que el circuito mensual del buscador sigue exactamente igual (los 2.069 elementos del buscador
+y se pidió expresamente. No cambia `comparar_index.py`, `estado.py`, `PROTOCOLO.md`, `firm.xlsx`, `pdf/**` ni
+`pdf/lectura_opi/**` (`.gitignore` solo recibe, al final, las reglas de la biblioteca de remedios), así que el circuito mensual del buscador sigue exactamente igual (los 2.069 elementos del buscador
 conservan estilos, posición y tamaño; solo bajan el alto de la barra). Se puede adoptar entera, por carpeta, o descartar.
 
 Se comprueba con: `python -B verificar_sitio.py --aditivo` (falla si la rama modifica o borra algo que ya estaba en `main`; la
-única excepción admitida es sumar líneas a `index.html` y `generar_pagina.py`, nunca perder alguna).
+única excepción admitida es sumar líneas a `index.html`, `generar_pagina.py` y `.gitignore`, nunca perder alguna. Lo que `main` ya
+no tiene, como `remedios_ue/` después de revertir el merge del PR #5, cuenta como agregado).
 
 ## Qué hay
 
@@ -18,16 +19,19 @@ Se comprueba con: `python -B verificar_sitio.py --aditivo` (falla si la rama mod
 | `/herramientas/` | mapa de herramientas, agrupadas | HTML estático (lee la fecha de `data/conc.json`) |
 | `/opis/` | buscador de OPIs (96 dictámenes) | `python -B integrar_opis.py` |
 | `/conc/` | estadísticas de resoluciones firmadas, con filtros por año, tipo y sector y CSV | `python -B generar_tablero.py` |
+| `/remedios/` | biblioteca de remedios UE: una tarjeta por ficha, con filtros por tipo y subtipo de remedio, efecto, fase y texto, y el CSV de `relaciones.csv` | `python -B generar_remedios.py` (lee `remedios_ue/`) |
+| `/remedios/M-xxxxx/` | cada ficha problema–remedio (`remedios_ue/fichas/M.xxxxx.md`) con el estilo del sitio | ídem |
 | `/demo-interno/` | portada del área interna (demo) | HTML estático |
 | `/demo-interno/noticias/` | Monitor M&A: el último informe bajado del artefacto de Claude (si todavía no hay `monitor.json`, muestra ejemplos) | HTML + `demo-interno/data/monitor.json`, que copia `python -B actualizar_sitio.py --monitor RUTA` |
 | `/demo-interno/seguimiento/` | concentraciones **en trámite** del Excel `Res_firmadas.xlsm`, que llega por mail (datos reales en esta rama; si no hay `seguimiento.json`, muestra ejemplos) | HTML + `demo-interno/data/seguimiento.json`, que escribe `python -B generar_seguimiento.py` |
 | `/mercados/ /participaciones/ /redes/ /informes/` | reservadas (un `README.md` cada una) | — |
 
 Piezas de apoyo: `assets/` (`anc.css`, `nav.js`, `charts.js`, `csv.js`), `data/conc.json`, `_headers`, `robots.txt`, `404.html`,
-`verificar_sitio.py`, `build_site.py`, `tests/test_sitio.py`.
+`verificar_sitio.py`, `build_site.py`, `tests/test_sitio.py`. La biblioteca de remedios trae su propia carpeta de trabajo, `remedios_ue/`
+(scripts, inventario, fichas; ver su `README.md`), que no se publica: el sitio publica solo `remedios/`.
 
-**La barra.** Está en todas las páginas, también en el buscador (`/`): Buscador · OPIs · Estadísticas · Mercados (pronto) · Área
-interna · Mapa; marca la sección en la que estás y «Herramientas ANC» lleva al mapa. En pantallas angostas es una sola fila que se
+**La barra.** Está en todas las páginas, también en el buscador (`/`): Buscador · OPIs · Estadísticas · Remedios UE · Mercados (pronto) ·
+Área interna · Mapa; marca la sección en la que estás y «Herramientas ANC» lleva al mapa. En pantallas angostas es una sola fila que se
 desliza (se reserva su alto para que la página no salte al dibujarla). No es fija: el buscador tiene encabezados de tabla pegajosos que
 quedarían tapados. Los destinos y el interruptor `INTERNO` están al principio de `assets/nav.js`.
 
@@ -68,6 +72,7 @@ ramas están activos). Qué mirar:
 | Sin las demos del área interna | borrar `demo-interno/` y `robots.txt` y la regla de `_headers` para `/demo-interno/*`; poner `var INTERNO = false;` en `assets/nav.js` (la barra y el mapa dejan de mencionarla) |
 | Sin OPIs | borrar `opis/` y `integrar_opis.py` (el original no se tocó) |
 | Sin estadísticas | borrar `conc/`, `data/` y `generar_tablero.py` |
+| Sin la biblioteca de remedios | borrar `remedios/` y `generar_remedios.py` (y `remedios_ue/` si tampoco se quiere la carpeta de trabajo); sacar `remedios` de `ITEMS` y de `current()` en `assets/nav.js`, de `CARPETAS` en `build_site.py` y de `PAGINAS`/`PUBLICAS` en `verificar_sitio.py`, la sección «Antecedentes internacionales» de `herramientas/index.html` y `RemediosTest` de las pruebas |
 | Nada | no mergear; borrar la rama |
 
 Si borrás una carpeta, sacala también de `PAGINAS` en `verificar_sitio.py` y del arreglo `ITEMS` de `assets/nav.js`.
@@ -143,10 +148,11 @@ bloquearía las altas siguientes. Todavía no pasó (no hay filas así). Se arre
 ```
 python -B generar_tablero.py     # lee firm.xlsx -> conc/index.html y data/conc.json
 python -B integrar_opis.py       # copia pdf/lectura_opi/buscador_opis.html a opis/index.html (+barra)
+python -B generar_remedios.py    # remedios_ue/fichas/*.md, relaciones.csv y casos.csv -> remedios/ (ver «Biblioteca de remedios UE»)
 python -B actualizar_sitio.py    # todo lo de abajo en orden, más el seguimiento y el monitor (ver «Actualización semanal»)
 python -B generar_seguimiento.py --excel RUTA  # Res_firmadas.xlsm (solo lectura) -> demo-interno/data/seguimiento.json (solo en la rama del área interna)
 python -B verificar_sitio.py     # compuerta: links con mayúsculas exactas, tamaños, lista negra, ejemplo vs real, tablero al día
-python -B -m unittest discover -s tests -v   # pruebas de coherencia del sitio (31 pruebas, unos 12 s)
+python -B -m unittest discover -s tests -v   # pruebas de coherencia del sitio (38 pruebas, unos 18 s)
 ```
 
 Usá siempre `-B`: hay dos `.pyc` versionados que si no Python reescribiría y aparecerían como modificados.
@@ -157,6 +163,28 @@ mismo `firm.xlsx`. Si se corre a mano y te olvidás del tablero, `verificar_siti
 
 Las pruebas (`tests/test_sitio.py`) usan solo la biblioteca estándar; regenerar el tablero necesita pandas, y regenerar el seguimiento,
 openpyxl y el Excel (`ANC_RES_FIRMADAS` o `~/.anc_sitio.json`): si falta algo, esas dos se saltean. Cada una dice qué script volver a correr.
+
+## Biblioteca de remedios UE
+
+Las fichas se escriben en la rama de trabajo de la biblioteca, `claude/gallant-bardeen-y00h2a` (carpeta `remedios_ue/`: universo
+de casos, descargas, extracción de texto, fichas y `validar_fichas.py`). Esta rama las trae con un merge y las publica en
+`/remedios/`. Cuando haya fichas nuevas o corregidas:
+
+```
+git fetch origin claude/gallant-bardeen-y00h2a
+git merge origin/claude/gallant-bardeen-y00h2a
+python -B generar_remedios.py
+python -B verificar_sitio.py --aditivo
+python -B -m unittest discover -s tests
+```
+
+- `generar_remedios.py` usa solo la biblioteca estándar, no modifica `remedios_ue/` y no pone fecha: si las fichas no cambiaron,
+  correrlo no cambia nada. `remedios/index.html` lleva la huella de las entradas; si alguien cambia una ficha y se olvida de
+  regenerar, `verificar_sitio.py` avisa y `test_remedios_versionado_es_el_que_sale_de_las_fichas` falla.
+- Las páginas no piden datos con `fetch`: todo va dentro del HTML. El CSV (`remedios/relaciones.csv`) va con `;` y BOM, para Excel.
+- Es contenido público (decisiones de la Comisión Europea): `build_site.py` lo publica también en `main`, con la barra igual.
+- El conversor de Markdown cubre lo que usa `remedios_ue/fichas/PLANTILLA.md` (títulos, tablas, listas anidadas, negrita, cursiva y
+  código). La sección «Para la ANC» se destaca porque es análisis propio, no texto de la Comisión.
 
 ## `build_site.py` y la lista blanca (opcional)
 
