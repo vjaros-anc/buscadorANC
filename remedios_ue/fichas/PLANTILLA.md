@@ -5,7 +5,8 @@ Cada caso tiene una ficha legible (`fichas/M.xxxxx.md`) y una o más filas en
 revisar; el CSV, para filtrar y comparar casos.
 
 **Estado:** plantilla aprobada por la ANC junto con las dos fichas modelo (M.11253
-Safran/Collins y M.10646 Microsoft/Activision). Piloto de 9 casos en curso.
+Safran/Collins y M.10646 Microsoft/Activision). Piloto de 9 casos en revisión. El 24/10/2026
+se agregó la sección «Mercado relevante» con cuotas, IHH y su variación, a pedido de la ANC.
 `validar_fichas.py` controla el formato, los vocabularios y las citas.
 
 ## Estructura de la ficha
@@ -13,19 +14,69 @@ Safran/Collins y M.10646 Microsoft/Activision). Piloto de 9 casos en curso.
 1. **Encabezado:** caso, partes, decisión (fecha, fase, base legal), sector y documentos
    fuente por `doc_id` de `documentos.csv`.
 2. **Resumen** en 3–4 líneas.
-3. **Problemas (P1, P2…):** mercado de producto y geográfico, tipo de efecto, mecanismo
-   de daño y evidencia clave.
-4. **Remedios (R1, R2…):** tipo y subtipo, obligación concreta, alcance, duración,
+3. **Mercado relevante:** la definición de producto o servicio y la geográfica de cada
+   mercado con problema, y la tabla **Cuotas y concentración** (ver abajo).
+4. **Problemas (P1, P2…):** mercado (el mismo nombre que en «Mercado relevante»), tipo
+   de efecto, mecanismo de daño y evidencia clave.
+5. **Remedios (R1, R2…):** tipo y subtipo, obligación concreta, alcance, duración,
    comprador, trustee y cláusula de revisión.
-5. **Relación problema–remedio** y por qué la Comisión consideró suficiente el remedio,
+6. **Relación problema–remedio** y por qué la Comisión consideró suficiente el remedio,
    incluido lo que cambió tras el *market test*.
-6. **Implementación y cambios posteriores:** comprador aprobado, dispensas, recursos.
-7. **Para la ANC:** qué condiciones habría que examinar para usarlo como precedente.
+7. **Implementación y cambios posteriores:** comprador aprobado, dispensas, recursos.
+8. **Para la ANC:** qué condiciones habría que examinar para usarlo como precedente.
    **Es análisis propio, no texto de la Comisión**, y va marcado así.
-8. **Dudas y pendientes.**
+9. **Dudas y pendientes.**
 
 Lo que no es problema de competencia (mercados donde la Comisión descartó dudas) se
 menciona en una línea en el resumen, para dar contexto.
+
+## Mercado relevante, cuotas e IHH
+
+Para la ANC son centrales la definición del mercado relevante, las cuotas de mercado, el
+IHH y su variación. **Siempre que la decisión los publique, van en la ficha**, en la
+sección `## Mercado relevante`, antes de los problemas.
+
+**Definición.** Una entrada por cada mercado donde hay un problema; si el problema es
+vertical o de conglomerado, también el mercado vinculado (aguas arriba, aguas abajo o
+vecino). Cada entrada lleva:
+- **Producto o servicio:** la definición que adopta la Comisión, o las alternativas que
+  deja abiertas y en cuál basa su conclusión;
+- **Geográfico:** mundial, EEE, nacional, regional o local (radio, departamento, área de
+  captación, ruta origen–destino), o abierto, con las alternativas;
+- la cita.
+
+**Tabla «Cuotas y concentración».** Una fila por mercado con problema y por base de
+medición que use la Comisión (volumen, valor, capacidad, población servida…):
+
+| Mercado | Período | Base | Parte 1 | Parte 2 | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+
+- En «Parte 1» y «Parte 2» va el nombre de cada parte en el encabezado (p. ej. `Orange`,
+  `MásMóvil`).
+- **Período:** el último completo que usa la Comisión para concluir. Si la Comisión basa
+  la conclusión en otro, se usa ese y se dice por qué.
+- **Valores tal cual los publica la decisión:** `20%`, `[40-50]%`, `[2000-3000]`, `> 2.000`.
+- **Nunca una celda vacía ni un cero inventado.** Si falta el dato:
+  - `tachado`: la decisión lo publica como `[…]`;
+  - `n/d`: no figura en la decisión (no prueba que no exista: puede estar en una tabla
+    que no se leyó bien);
+  - `no corresponde`: no aplica (p. ej. la conjunta o el Δ IHH de dos mercados distintos).
+- **No se calcula nada**: no se convierten rangos en un valor ni se arma un IHH propio. Si
+  alguna vez hace falta, va como «cálculo propio», con la fórmula y los datos, fuera de la
+  tabla.
+- **Vertical y conglomerado:** cada mercado en su fila; no se suman cuotas de mercados
+  distintos.
+- **No son cuotas** y no van en la tabla: participaciones accionarias, porcentajes de
+  uso, tasas de desvío o umbrales de una obligación. Si importan, van en el problema.
+- **Muchos mercados locales o rutas:** hasta 10, una fila por mercado; si son más, las
+  filas de los mercados que la decisión analiza en detalle, más una fila de resumen
+  (cantidad de mercados y rango de cuotas) que remite a la tabla de la decisión.
+- Si la decisión no publica cuotas de un mercado, se dice en una línea debajo de la tabla.
+- Las cifras de páginas con `origen_texto = ocr` se verifican contra la imagen del PDF, y
+  se aclara debajo de la tabla.
+
+`validar_fichas.py` exige la sección, las líneas de producto y geográfico, y que cada
+fila de la tabla tenga sus 11 celdas completas.
 
 ## Citas
 

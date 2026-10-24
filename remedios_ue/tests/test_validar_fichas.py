@@ -4,6 +4,7 @@ from __future__ import annotations
 import csv
 import importlib.util
 import io
+import re
 import json
 import sys
 import tempfile
@@ -49,6 +50,15 @@ PLANTILLA = """# Plantilla
 FICHA = """# M.10001 — A / B
 
 | **Documentos** | `M.10001_DEC_01` (decisión, 6 p.), `M.10001_POST_01` (aprobación) |
+
+## Mercado relevante
+
+- **Producto:** algo (DEC párr. 2 [p. 1]).
+- **Geográfico:** nacional (DEC párr. 2 [p. 1]).
+
+| Mercado | Período | Base | A | B | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Algo | 2024 | valor | [20-30]% | [10-20]% | [40-50]% | C [10-20]% | n/d | tachado | > 250 | DEC párr. 3 [p. 2] |
 
 ## Problemas
 
@@ -312,6 +322,26 @@ class Main(Base):
         codigo, salida = self.correr([fila()], ficha=FICHA.replace("DEC párr. 7 [p. 4]", "DEC párr. 7 [p. 1]"))
         self.assertEqual(codigo, 1)
         self.assertIn("el párrafo (7) está en p. 4", salida)
+
+    def test_mercado_relevante(self):
+        self.assertEqual(vf.chequear_mercado("M.1", FICHA), [])
+        sin = FICHA.replace("## Mercado relevante", "## Otra cosa")
+        self.assertEqual(vf.chequear_mercado("M.1", sin), ["M.1.md: falta la sección '## Mercado relevante'"])
+        vacia = FICHA.replace("| tachado |", "|  |").replace("- **Geográfico:** nacional (DEC párr. 2 [p. 1]).\n", "")
+        errores = vf.chequear_mercado("M.1", vacia)
+        self.assertEqual(len(errores), 2, errores)
+        self.assertIn("**Geográfico", errores[0])
+        self.assertIn("celda vacía", errores[1])
+        corta = FICHA.replace("| > 250 | DEC", "| DEC")
+        self.assertIn("celdas", vf.chequear_mercado("M.1", corta)[0])
+        sin_tabla = re.sub(r"(?m)^\|.*\n", "", FICHA.split("## Problemas")[0]) + "## Problemas"
+        self.assertIn("no publica cuotas", vf.chequear_mercado("M.1", sin_tabla)[0])
+        self.assertEqual(vf.chequear_mercado("M.1", sin_tabla.replace("## Problemas", "La decisión no publica cuotas.\n\n## Problemas")), [])
+
+    def test_cita_sin_documento(self):
+        self.assertEqual(vf.citas_sin_fuente("M.1", FICHA), [])
+        self.assertEqual(len(vf.citas_sin_fuente("M.1", "en la edición (párrs. 303 [p. 67]) y (párr. 614 [p. 147])")), 2)
+        self.assertEqual(vf.citas_sin_fuente("M.1", "(`M.1_POST_01` párr. 3 [p. 2]; DEC\npárrs. 1–2 [p. 1])"), [])
 
     def test_sin_texto_solo_formato(self):
         codigo, salida = self.correr([fila()], texto=False)

@@ -125,6 +125,52 @@ def parsear_citas(texto: str) -> tuple[list[dict], list[str]]:
     return citas, errores
 
 
+SECCION_MERCADO = re.compile(r"(?ms)^## Mercado relevante[ \t]*$(?P<cuerpo>.*?)(?=^## |\Z)")
+CELDAS_CONCENTRACION = 11       # columnas de la tabla "Cuotas y concentración" de PLANTILLA.md
+# "párrs. 303 [p. 67]" sin "DEC" (ni doc_id) adelante: la cita no dice de qué documento es
+PARRAFO_SIN_FUENTE = re.compile(rf"(?<!DEC\s)(?<!DEC)(?<![\w`]\s)\bpárrs?\.\s+{LISTA}\s*\[pp?\.")
+
+
+def chequear_mercado(caso: str, ficha: str) -> list[str]:
+    """Sección '## Mercado relevante' (PLANTILLA.md): líneas de producto y geográfico, y cada fila de la tabla
+    de cuotas y concentración con sus 11 celdas completas (o la aclaración de que la decisión no publica cuotas)."""
+    m = SECCION_MERCADO.search(ficha)
+    if not m:
+        return [f"{caso}.md: falta la sección '## Mercado relevante'"]
+    sec = m["cuerpo"]
+    errores = []
+    for etiqueta in ("**Producto", "**Geográfico"):
+        if etiqueta not in sec:
+            errores.append(f"{caso}.md: 'Mercado relevante' sin la línea {etiqueta}...**")
+    tablas, actual = [], []
+    for linea in sec.splitlines() + [""]:
+        if linea.startswith("|"):
+            actual.append(linea)
+        elif actual:
+            tablas.append(actual)
+            actual = []
+    if not tablas and "no publica cuotas" not in sec:
+        errores.append(f"{caso}.md: 'Mercado relevante' sin tabla de cuotas ni la aclaración 'no publica cuotas'")
+    for tabla in tablas:
+        celdas = [[c.strip() for c in f.strip().strip("|").split("|")] for f in tabla]
+        if len(celdas[0]) != CELDAS_CONCENTRACION or "IHH" not in tabla[0]:
+            errores.append(f"{caso}.md: la tabla de cuotas no tiene el encabezado de PLANTILLA.md "
+                           f"({CELDAS_CONCENTRACION} columnas, con IHH)")
+            continue
+        for fila in celdas[2:]:
+            if len(fila) != CELDAS_CONCENTRACION:
+                errores.append(f"{caso}.md: fila de cuotas con {len(fila)} celdas: {' | '.join(fila)[:80]}")
+            elif not all(fila):
+                errores.append(f"{caso}.md: fila de cuotas con una celda vacía (usar tachado, n/d o no corresponde): "
+                               f"{' | '.join(fila)[:80]}")
+    return errores
+
+
+def citas_sin_fuente(caso: str, ficha: str) -> list[str]:
+    plano = re.sub(r"\s+", " ", ficha)          # "DEC" al final de una línea y "párrs." al principio de la otra
+    return [f"{caso}.md: cita sin documento (falta 'DEC'): {m.group(0)!r}" for m in PARRAFO_SIN_FUENTE.finditer(plano)]
+
+
 def ids_ficha(texto: str) -> set[str]:
     return {m["id"] for m in ENCABEZADO.finditer(texto)}
 
@@ -336,7 +382,7 @@ def main() -> int:
     verificadas = 0
     for caso, ficha in fichas.items():
         citas, mal = citas_de_caso(caso, ficha, filas)
-        errores += mal
+        errores += mal + chequear_mercado(caso, ficha) + citas_sin_fuente(caso, ficha)
         if not texto:
             continue
         vistas = set()
