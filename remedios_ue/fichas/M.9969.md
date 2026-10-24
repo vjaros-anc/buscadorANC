@@ -29,6 +29,66 @@ Veolia resolvió el problema con **tres paquetes de venta** (DEC párr. 1212 [p.
 
 Hubo cinco aprobaciones de compradores en 2022 (`M.9969_POST_01` a `POST_05`).
 
+## Mercado relevante
+
+**Agua municipal en Francia** (P1)
+- **Producto:** dos mercados distintos: producción y distribución de agua potable, y
+  recolección y tratamiento de aguas residuales. La gestión directa por el municipio («en
+  régie») no forma parte del mercado (DEC párrs. 69–70 [p. 29]).
+- **Geográfico:** nacional, Francia (DEC párrs. 75–76 [p. 30]).
+
+**Agua industrial en Francia** (P2)
+- **Producto:** gestión del agua industrial; queda abierto si se separan la operación y el
+  mantenimiento de sistemas de agua de proceso y de efluentes industriales (DEC párrs.
+  253–254 [p. 78]). No cuenta los contratos de *facility management* (DEC párr. 281 [p. 89]).
+- **Geográfico:** nacional, Francia (DEC párrs. 265–266 [p. 81]).
+
+**Servicios móviles de agua** (P2)
+- **Producto:** un mercado distinto (unidades móviles de tratamiento) (DEC párr. 335 [p. 105]).
+- **Geográfico:** EEE (DEC párr. 342 [p. 107]).
+
+**Residuos banales, reglamentados y peligrosos en Francia** (P3 y P4)
+- **Producto:** un mercado por actividad: recolección de residuos domésticos (DMA) y de
+  empresas (DBE), clasificación de la recolección selectiva, incineración, relleno sanitario,
+  valorización de residuos verdes, biorresiduos, papel y cartón y lodos; en reglamentados,
+  tratamiento de residuos hospitalarios (DASRI), recolección de muebles (DEA) y aeronaves al
+  final de su vida útil; en peligrosos, relleno, incineración y tratamiento físico-químico
+  (DEC párr. 1206 [pp. 353–354]).
+- **Geográfico:** según la actividad: nacional (recolección de DMA y DBE, aeronaves, y relleno
+  e incineración de peligrosos), regional, departamental, zonas de un departamento y sus
+  limítrofes, zonas de 200 km (incineración y relleno de banales) o de 300 km alrededor de
+  cada sitio (peligrosos) (DEC párr. 1206 [pp. 353–354]).
+
+**Cuotas y concentración** (Francia, salvo los servicios móviles de agua)
+
+| Mercado | Período | Base | Veolia | Suez | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Producción y distribución de agua potable | n/d (estable en los últimos tres años) | población servida | [50-60]% | [20-30]% | [80-90]% | n/d | > 2.000 (valor tachado) | tachado | > 250, «muy ampliamente» (valor tachado) | DEC párrs. 81 [p. 32], 84 [p. 33] |
+| Producción y distribución de agua potable | n/d | valor | [50-60]% | [30-40]% | [80-90]% | n/d | > 2.000 (valor tachado) | tachado | > 250 (valor tachado) | DEC párrs. 81 [p. 32], 84 [p. 33] |
+| Recolección y tratamiento de aguas residuales | n/d | población servida | [40-50]% | [40-50]% | [80-90]% | n/d | tachado | tachado | tachado | DEC párrs. 81 [p. 32], 84 [p. 33] |
+| Recolección y tratamiento de aguas residuales | n/d | valor | [30-40]% | [40-50]% | [70-80]% | n/d | tachado | tachado | tachado | DEC párr. 81 [p. 32] |
+| Gestión del agua industrial | 2020 | n/d | [20-30]% | [20-30]% | [50-60]% | Saur (tercero, sin cifra) | tachado | tachado | > 250, «muy ampliamente» (valor tachado) | DEC párrs. 282 [p. 89], 284–285 [p. 90] |
+| Servicios móviles de agua (EEE) | n/d | estimación de la notificante | [5-10]% | [0-5]% | [10-20]% | n/d | n/d | n/d | n/d | DEC párr. 343 [p. 107] |
+| Recolección de residuos domésticos (DMA) | 2019 | volumen | [20-30]% | [10-20]% | [40-50]% | n/d | n/d | n/d | n/d | DEC tabla 11 [p. 158] |
+| Recolección de residuos domésticos (DMA) | 2019 | población | [20-30]% | [10-20]% | [30-40]% | n/d | n/d | n/d | n/d | DEC tabla 11 [p. 158] |
+| Relleno de residuos peligrosos | 2019 | volumen | [10-20]% | [40-50]% | [60-70]% | Séché [20-30]%, otros [10-20]% | n/d | n/d | n/d | DEC tabla 28 [p. 279] |
+| Incineración de residuos peligrosos | 2019 | volumen | [30-40]% | [30-40]% | [50-60]% | Séché [10-20]%, otros [20-30]% | n/d | n/d | n/d | DEC tabla 34 [p. 298] |
+| Tratamiento físico-químico de residuos peligrosos (tres regiones) | n/d | n/d | n/d | n/d | cerca de [80-90]% | n/d | n/d | n/d | n/d | DEC párr. 1087 [p. 324] |
+| Gestión de aeronaves al final de su vida útil | n/d | estimación conservadora de la notificante | n/d | n/d | [90-100]% | Tarmac | n/d | n/d | n/d | DEC párr. 813 [p. 247] |
+
+- En agua municipal la decisión publica el IHH solo como desigualdad («ya ampliamente
+  superior a 2.000» antes y Δ «muy ampliamente superior a 250»); los valores exactos están
+  tachados (DEC párr. 84 [p. 33]).
+- En los servicios móviles de agua la Comisión no se apoyó en cuotas sino en las licitaciones:
+  después de la operación, [70-80]% de las licitaciones (en número) y [80-90]% de su valor
+  tendrían un solo participante (DEC párr. 368 [p. 114]).
+- En el relleno de residuos peligrosos, contando las minas de sal de Alemania la conjunta
+  baja a [50-60]% (DEC párr. 952 [p. 279]).
+- Los residuos banales y reglamentados tienen decenas de mercados locales (departamentos,
+  zonas de 200 km, regiones), con conjuntas que van de [20-30]% a [90-100]% según el mercado y
+  la zona. No se transcriben acá: están en las tablas de la decisión (DEC párrs. 541 [p. 161]
+  a 631 [p. 196], y 779 [p. 237] a 817 [p. 248]).
+
 ## Problemas
 
 Todos son horizontales no coordinados, por creación o refuerzo de una posición dominante.

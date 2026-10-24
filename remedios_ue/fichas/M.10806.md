@@ -29,11 +29,46 @@ La Comisión descartó dudas en:
   párrs. 888 [p. 184], 931 [p. 190], 956 [p. 195]);
 - el empaquetamiento de VMware con software de Broadcom (DEC párr. 1017 [p. 205]).
 
+## Mercado relevante
+
+**Adaptadores de bus de host Fibre Channel (FC HBA)** (donde está el problema)
+- **Producto:** un mercado separado de FC HBA, sin más segmentación (DEC párr. 207
+  [p. 49]). Tampoco se segmenta por tipo de cliente o uso final (servidores o
+  almacenamiento) (DEC párr. 796 [p. 168]).
+- **Geográfico:** mundial (DEC párr. 212 [p. 50]).
+
+**Software de virtualización de servidores** (de donde viene el apalancamiento)
+- **Producto:** un mercado de software de virtualización de servidores, sin el software de
+  contenedores, con el de código abierto y el propietario, segmentado por modelo de
+  despliegue: (i) instalaciones propias y nube privada, y (ii) nube pública (DEC párr. 189
+  [p. 47]). El problema está en el primer segmento.
+- **Geográfico:** mundial (DEC párr. 195 [p. 48]).
+
+**Cuotas y concentración** (mundial, por ingresos)
+
+| Mercado | Período | Base | Broadcom | VMware | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+| FC HBA | 2022 (ene.–sept.) | ingresos | [60-70]% | no activa | no corresponde | Marvell [30-40]% (era [50-60]% en 2017), otros [0-5]% | n/d | n/d | no corresponde | DEC tabla 22 [p. 168] |
+| Virtualización de servidores x86 (Gartner) | 2021 | ingresos | no activa | [90-100]% | no corresponde | IBM, Huawei, Citrix, Oracle y otros: [0-5]% cada uno | n/d | n/d | no corresponde | DEC tabla 8 [p. 68] |
+| Software de máquinas virtuales (IDC) | 2021 | ingresos | no activa | [70-80]% | no corresponde | IBM [5-10]%, Huawei [5-10]%, Microsoft [0-5]% | n/d | n/d | no corresponde | DEC tabla 10 [p. 70] |
+
+- Las partes no compiten en estos mercados: el problema es de **conglomerado**, por eso la
+  conjunta y el Δ IHH no corresponden. La decisión no publica IHH para ellos.
+- Las cuotas de virtualización **no separan los modelos de despliegue** que define la
+  Comisión, y no captan a los proveedores que no cobran el software aparte (por ejemplo,
+  quienes lo empaquetan con su nube o usan código abierto) (DEC párr. 291 [pp. 67–68]). Las de
+  Gartner cubren solo servidores x86 y las de IDC miden el submercado de hipervisores (DEC
+  párrs. 292–293 [p. 68]). Por eso la Comisión también miró la base instalada y las licencias
+  nuevas (DEC tablas 11–14 [pp. 71–73]). Para la conclusión pesó que VMware tiene poder de
+  mercado significativo en instalaciones propias y nube privada (DEC párr. 615 [p. 133]).
+- Las tablas de las pp. 68–73 y 168 son imagen: las cifras salen de OCR y se verificaron
+  contra la imagen del PDF.
+
 ## Problemas
 
 ### P1 — Cierre de Marvell en FC HBA por degradación de la interoperabilidad con VMware
 
-- **Mercado:**
+- **Mercado** (ver «Mercado relevante»):
   - FC HBA, mundial;
   - software de virtualización de servidores en instalaciones propias y nube privada, de
     donde viene el apalancamiento.
@@ -85,7 +120,10 @@ La Comisión descartó dudas en:
   - **Tarifas:** mínimas y en línea con la práctica previa (DEC párr. 1074 [p. 216]).
 - **Beneficiarios:** Marvell y **cualquier nuevo entrante** en FC HBA (COMP cl. 7 [p. 225];
   DEC párr. 1070 [pp. 215–216]).
-- **Duración:** **10 años** desde la decisión (COMP cl. 53 [p. 232]).
+- **Vigencia y duración:** rigen desde el cierre (COMP cl. 51 [p. 232]) y duran **10 años**
+  desde la fecha de la decisión (COMP cl. 53 [p. 232]; `M.10806_COMP_01` [p. 221],
+  definición de *Effective Date*). La licencia de código fuente es irrevocable (COMP cl. 4
+  [p. 224]).
 - **Control:**
   - *trustee* de monitoreo nombrado antes del cierre, con informes trimestrales los dos
     primeros años (COMP cl. 8 [p. 225]; DEC párr. 1068 [p. 215]);
@@ -124,8 +162,13 @@ No hizo falta un segundo *market test* (DEC párr. 1071 [p. 216]).
 ## Implementación y cambios posteriores
 
 - **Recurso:** CISPE pidió la anulación de la autorización ante el Tribunal General (T-503/25).
-  Al 22/10/2026 está pendiente (`M.10806_MB_M01` [p. 2]; filas `M.10806_SENT_M01` a `M03` de
-  `documentos.csv`, no verificadas por el bloqueo de EUR-Lex y Curia).
+  Al 22/10/2026 está pendiente: no hay sentencia sobre el fondo (`M.10806_MB_M01` [p. 2]; filas
+  `M.10806_SENT_M01` y `M.10806_SENT_M02` de `documentos.csv`).
+- **Resoluciones procesales:** según el registro judicial, un auto del 03/02/2026 rechazó la
+  intervención de VOICE en ese recurso, y hay una resolución sobre un recurso contra ese auto.
+  Son decisiones sobre quién participa en el proceso, no sobre la autorización (filas
+  `M.10806_SENT_M01` y `M.10806_SENT_M03` de `documentos.csv`). Ninguna de estas tres filas se
+  pudo verificar en la fuente, por el bloqueo de EUR-Lex y Curia: fecha y estado a confirmar.
 - No hay en el corpus decisiones de dispensa ni de modificación.
 
 ## Para la ANC (análisis propio, no de la Comisión)
@@ -138,11 +181,13 @@ No hizo falta un segundo *market test* (DEC párr. 1071 [p. 216]).
   asimetría de información y le da al rival una base para verificar el cumplimiento.
 - **Cuidado con las excepciones "de desarrollo y prueba":** pueden vaciar la obligación de
   igualdad. La Comisión las eliminó.
-- **Lo que no es efecto de la operación no se remedia.** Las quejas por subas de precios y
-  cambios de licencias de VMware se refieren a un poder de mercado que VMware ya tenía. No
-  son un cambio estructural causado por la operación, que es lo que mira el control de
-  concentraciones (`M.10806_MB_M01` [p. 2]). Para la ANC: separar el análisis de fusiones de
-  las conductas explotativas, que van por otra vía.
+- **Precios y licencias de VMware: en este caso no se remediaron.** El Merger Brief explica
+  que las quejas por subas de precios y cambios de licencias se referían a un poder de
+  mercado que VMware ya tenía, no a un cambio causado por la operación (`M.10806_MB_M01`
+  [p. 2]). Es una valoración de este caso, no una regla: una práctica de precios o de
+  licencias puede ser efecto de una concentración si la operación cambia la capacidad o el
+  incentivo para aplicarla. Para la ANC: preguntar siempre qué cambia por la operación, y
+  llevar por la vía de conductas lo que no cambia.
 - **Remedios de comportamiento a 10 años** necesitan un *trustee* técnico y un arbitraje
   rápido. Si no, el único beneficiario (Marvell) carga con todo el control.
 

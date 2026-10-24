@@ -28,6 +28,46 @@ La Comisión descartó dudas en:
 - los aviones de alerta temprana (AEW&C) (DEC párr. 198 [p. 47]);
 - los helicópteros militares pesados (DEC párr. 225 [p. 51]).
 
+## Mercado relevante
+
+**Aeroestructuras** (aguas arriba: el insumo de Airbus)
+- **Producto:** la Comisión deja abierta la definición exacta y evalúa cada aeroestructura:
+  fuselajes, alas con segmentos de *slats* y *flaps*, pilones, góndolas (con inversores de
+  empuje y otros componentes) y empenajes (DEC párrs. 18–19 [p. 5]).
+- **Geográfico:** mundial (DEC párr. 23 [p. 6]).
+
+**Aviones comerciales grandes** (aguas abajo)
+- **Producto:** queda abierto; la Comisión evalúa el mercado más estrecho plausible: pasillo
+  único, con segmentos de 90–120 y de 120–200 asientos, y pasillo doble (DEC párr. 28 [p. 7]).
+- **Geográfico:** mundial (DEC párr. 31 [p. 8]).
+
+**Jets ejecutivos basados en aviones comerciales grandes** (aguas abajo)
+- **Producto:** queda abierto si hay un solo mercado de jets ejecutivos o segmentos por
+  tamaño; la Comisión evalúa el más estrecho plausible, los jets ejecutivos basados en aviones
+  comerciales grandes (DEC párr. 45 [p. 11]).
+- **Geográfico:** mundial (DEC párr. 48 [p. 11]).
+
+**Cuotas y concentración** (mundial, 2024)
+
+| Mercado | Período | Base | Spirit | Boeing | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Fuselajes | 2024 | valor | [10-20]% | [0-5]% | [20-30]% | Airbus Atlantic [0-5]%, Leonardo [0-5]%; otros [60-70]% | n/d | n/d | n/d | DEC tabla 1 [p. 18] |
+| Alas | 2024 | valor | [5-10]% | no figura | no corresponde | GKN [10-20]%, MHI [5-10]% | n/d | n/d | n/d | DEC tabla 2 [p. 19] |
+| Sistemas de *slats* | 2024 | valor | [10-20]% | no figura | no corresponde | GKN [10-20]% | n/d | n/d | n/d | DEC tabla 3 [p. 19] |
+| Sistemas de *flaps* | 2024 | valor | [5-10]% | no figura | no corresponde | GKN [10-20]% | n/d | n/d | n/d | DEC tabla 4 [p. 19] |
+| Pilones | 2024 | valor | [20-30]% | [0-5]% | [20-30]% | Collins Aerospace [30-40]% | n/d | n/d | n/d | DEC tabla 5 [p. 20] |
+| Aviones de pasillo único | 2024 | entregas | no activa | [20-30]% | no corresponde | Airbus [60-70]%, Embraer [0-5]%, COMAC [0-5]% | n/d | n/d | no corresponde | DEC tabla 10 [p. 22] |
+| Aviones de pasillo único de 120–200 asientos | 2024 | entregas | no activa | [30-40]% | no corresponde | Airbus [50-60]%, Embraer [5-10]%, COMAC [0-5]% | n/d | n/d | no corresponde | DEC tabla 11 [p. 22] |
+| Aviones de pasillo doble | 2024 | entregas | no activa | [40-50]% | no corresponde | Airbus [50-60]% | n/d | n/d | no corresponde | DEC tabla 12 [p. 23] |
+
+- **La cuota no mide el problema.** La Comisión dice que, sea cual sea la cuota de Spirit o
+  la concentración del mercado, Spirit tiene un poder de mercado significativo frente a
+  Airbus por el *lock-in* contractual: una vez elegido el proveedor de un programa, cambiarlo
+  es muy difícil (DEC párr. 82 [p. 23]).
+- Las cuotas de aeroestructuras son por valor; las partes no pudieron darlas por volumen. Las
+  de aviones son por entregas; la decisión también trae pedidos. No publica IHH.
+- La tabla no incluye los jets ejecutivos basados en aviones comerciales grandes.
+
 ## Problemas
 
 ### P1 — Cierre de insumos a Airbus: aeroestructuras para aviones comerciales grandes y jets ejecutivos derivados

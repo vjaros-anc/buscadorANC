@@ -28,11 +28,53 @@ La Comisión descartó dudas en:
 - los efectos verticales sobre el acceso mayorista a redes móviles y a banda ancha (DEC
   párrs. 1305 [p. 257], 1496 [p. 290]).
 
+## Mercado relevante
+
+**Telefonía móvil minorista**
+- **Producto:** servicios móviles minoristas, prepagos y pospagos. No incluye los servicios
+  OTT ni los M2M, que son un mercado aparte (DEC párr. 180 [p. 44]).
+- **Geográfico:** nacional, España (DEC párr. 186 [p. 44]).
+
+**Internet fijo minorista**
+- **Producto:** un solo mercado de acceso a internet fijo, con todas las tecnologías y sin
+  segmentar. No incluye el LTE fijo (fLTE) ni los grandes clientes empresariales (DEC párr.
+  209 [p. 48]).
+- **Geográfico:** nacional, España (DEC párr. 215 [p. 48]).
+
+**Paquetes múltiples (*multiple-play*) y paquetes fijo-móvil (FMC)**
+- **Producto:** la Comisión deja abierto si los paquetes son un mercado separado de los
+  servicios que los componen. También deja abierto si los paquetes fijo-móvil son un
+  mercado aparte y si se separan los paquetes con y sin fútbol de TV paga. Los analiza como
+  **mercados hipotéticos**: encuentra el problema ya en los más amplios (DEC párrs. 257
+  [p. 56], 261–262 [p. 57]).
+- **Geográfico:** nacional, España (DEC párr. 267 [p. 58]).
+
+**Cuotas y concentración** (2022; la Comisión concluye con este año)
+
+| Mercado | Período | Base | Orange | MásMóvil | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Telefonía móvil minorista | 2022 | volumen (SIM) | [20-30]% | [10-20]% | [40-50]% | Telefónica [20-30]%, Vodafone [20-30]%, Digi [5-10]% | [2000-3000] | [3000-4000] | [500-1000] | DEC tablas 5 [p. 68], 22 [p. 75] |
+| Telefonía móvil minorista | 2022 | valor | [20-30]% | [10-20]% | [30-40]% | Telefónica [30-40]%, Vodafone [20-30]%, Digi [0-5]% | [2000-3000] | [3000-4000] | [500-1000] | DEC tablas 5 [p. 68], 22 [p. 75] |
+| Internet fijo minorista | 2022 | volumen (líneas) | [20-30]% | [10-20]% | [30-40]% | Telefónica [30-40]%, Vodafone [10-20]%, Digi [0-5]% | [2000-3000] | [2000-3000] | [500-1000] | DEC tablas 7 [p. 69], 22 [p. 75] |
+| Internet fijo minorista | 2022 | valor | [20-30]% | [10-20]% | [30-40]% | Telefónica [40-50]%, Vodafone [10-20]%, Digi [0-5]% | [2000-3000] | [3000-4000] | [500-1000] | DEC tablas 7 [p. 69], 22 [p. 75] |
+| Paquetes múltiples | 2022 | volumen (paquetes) | [20-30]% | [10-20]% | [40-50]% | Telefónica [30-40]%, Vodafone [10-20]%, Digi [5-10]% | [2000-3000] | [3000-4000] | [500-1000] | DEC tablas 13 [p. 71], 22 [p. 75] |
+| Paquetes múltiples | 2022 | valor | [20-30]% | [10-20]% | [30-40]% | Telefónica [40-50]%, Vodafone [10-20]%, Digi [0-5]% | [2000-3000] | [3000-4000] | [500-1000] | DEC tablas 13 [p. 71], 22 [p. 75] |
+| Paquetes fijo-móvil (FMC) | 2022 | volumen (paquetes) | [20-30]% | [10-20]% | [40-50]% | Telefónica [30-40]%, Vodafone [10-20]%, Digi [0-5]% | [2000-3000] | [3000-4000] | [500-1000] | DEC tablas 15 [p. 71], 22 [p. 75] |
+| Paquetes fijo-móvil (FMC) | 2022 | valor | [20-30]% | [10-20]% | [30-40]% | Telefónica [40-50]%, Vodafone [10-20]%, Digi [0-5]% | [2000-3000] | [3000-4000] | [500-1000] | DEC tablas 15 [p. 71], 22 [p. 75] |
+
+- En los segmentos **sin fútbol de TV paga**, que la Comisión dejó abiertos, el Δ IHH es
+  más alto: [1000-2000] por cantidad de paquetes (DEC tabla 22 [p. 75]).
+- Las tablas de las pp. 68–75 son imagen: las cifras salen de OCR y se verificaron contra la
+  imagen del PDF.
+- La propia decisión no es pareja en la cuota de MásMóvil en telefonía móvil por volumen:
+  la tabla 5 dice [10-20]% en 2022, y el texto dice que llegó a [20-30]% ese año, con un
+  incremento de [20-30]% (DEC párrs. 416–417 [p. 88]). La tabla transcribe la tabla 5.
+
 ## Problemas
 
 ### P1 — Telefonía móvil minorista
 
-- **Mercado:** suministro minorista de servicios móviles, España.
+- **Mercado:** telefonía móvil minorista, España (ver «Mercado relevante»).
 - **Efecto:** horizontal no coordinado.
 - **Mecanismo:**
   - la JV tendría [40-50]% en volumen y [30-40]% en valor (DEC párr. 416 [p. 88]);
@@ -51,7 +93,7 @@ La Comisión descartó dudas en:
 ### P2 — Internet fijo y paquetes convergentes (*multiple-play* y FMC)
 
 - **Mercado:** internet fijo minorista y los mercados hipotéticos de paquetes múltiples y
-  fijo-móvil, con y sin fútbol en TV paga, en España.
+  fijo-móvil, con y sin fútbol en TV paga, en España (ver «Mercado relevante»).
 - **Efecto:** horizontal no coordinado.
 - **Mecanismo:**
   - las mismas razones que en P1: cuotas e índice HHI altos, cercanía y el rol de MásMóvil;
@@ -85,9 +127,12 @@ La Comisión descartó dudas en:
 - **Obligación:**
   - la JV ofrece a Digi un roaming nacional optativo con precio por capacidad y tramos a
     tarifas anuales fijas;
-  - cubre todas las tecnologías, de 2G a 5G SA, y obliga a negociar de buena fe el acceso a
-    las futuras, como 6G (DEC párrs. 1762–1764 [p. 372]; COMP cl. 9 [p. 459], 14 [p. 460],
-    20 [p. 460]).
+  - cubre todas las tecnologías, de 2G a 5G SA (DEC párrs. 1762–1764 [p. 372]; COMP cl. 9
+    [p. 459], 14 [p. 460]);
+  - para las tecnologías futuras, como 6G, Digi tiene **derecho a pedir el acceso** dentro de
+    [6-18] meses desde su lanzamiento comercial en la red de la JV, o antes si la JV las
+    ofrece a otro cliente mayorista. Las condiciones se negocian de buena fe, en términos
+    razonables y no discriminatorios (COMP cl. 18 [p. 460]).
 - **Opción:** Digi decide si la ejerce, sin penalidad, y puede contratar con otro operador
   (DEC párrs. 1765 [p. 372], 1836 [p. 387]).
 - **Duración:** si se ejerce, hasta un año entre 2033 y 2038, que está tachado (COMP cl. 19

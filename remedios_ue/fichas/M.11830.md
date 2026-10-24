@@ -26,6 +26,44 @@ La Comisión descartó dudas en:
 - efectos coordinados con Intesa Sanpaolo o Crédit Agricole, pese a las participaciones
   cruzadas y los vínculos de gobierno entre las partes (DEC párr. 249 [p. 54]).
 
+## Mercado relevante
+
+**Banca minorista** (P1)
+- **Producto:** los servicios bancarios a personas y a empresas muy pequeñas. La Comisión deja
+  abierta la división en cuentas, depósitos, préstamos, banca privada y fondos: los remedios
+  resuelven el problema con cualquier segmentación (DEC párr. 17 [p. 5]). Incluye a las
+  empresas muy pequeñas (DEC párr. 18 [p. 5]).
+- **Geográfico:** **local**: áreas de captación de 20 minutos en auto alrededor de cada
+  sucursal de UniCredit y de BPM, según el percentil 80 del tiempo de viaje de los clientes
+  (DEC párr. 26 [p. 7]).
+
+**Banca de empresas** (P2)
+- **Producto:** se separan pymes y grandes empresas, y dentro de cada una préstamos, depósitos
+  y ahorros, y crédito documentario (DEC párr. 36 [p. 8]).
+- **Geográfico:** queda abierto y se evalúa en varios niveles: pymes, en las mismas áreas de 20
+  minutos; grandes empresas, por región; crédito documentario, nacional (DEC párrs. 47
+  [p. 10], 48 [p. 11]).
+
+**Cuotas y concentración** (2024, por valor y según la ubicación del cliente; datos del
+Banco de Italia)
+
+| Mercado | Período | Base | UniCredit | Banco BPM | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Depósitos de hogares, provincia de Verona (la más alta) | 2024 | valor | [20-30]% | [20-30]% | [40-50]% | n/d | n/d | n/d | n/d | DEC tabla 2 [p. 19] |
+| Depósitos de hogares, áreas de 20 minutos (resumen) | 2024 | valor | n/d | n/d | máx. [90-100]% (un área en Aosta); otras 20 áreas > 50% y 158 entre 40% y 50% | n/d | n/d | n/d | n/d | DEC párr. 95 [p. 19] |
+| Préstamos a hogares, áreas de 20 minutos (resumen) | 2024 | valor | n/d | n/d | máx. [80-90]%; dos áreas > 70% (Aosta y Verona) y otras 28 > 50% | n/d | n/d | n/d | n/d | DEC párr. 96 [p. 20] |
+| Préstamos a pymes, provincia de Lodi (la más alta) | 2024 | valor | [0-5]% | [30-40]% | [30-40]% | n/d | n/d | n/d | n/d | DEC tabla 7 [p. 26] |
+| Depósitos y ahorros de pymes, provincia de Verona (la más alta) | 2024 | valor | [10-20]% | [30-40]% | [40-50]% | n/d | n/d | n/d | n/d | DEC tabla 8 [p. 27] |
+
+- El problema está en las **áreas locales**, no en las provincias ni en el país: la decisión
+  publica las provincias y regiones afectadas (cuota conjunta mayor al 25%) y resume las áreas
+  de captación. Áreas afectadas: 717 en depósitos de hogares, 707 en préstamos a hogares, 935
+  en préstamos a pymes y 1.245 en depósitos de pymes (DEC párrs. 95 [p. 19], 96 [p. 20], 118
+  [p. 25]).
+- Los porcentajes de P1 y P2 (40%–50%, 35%–45%, más de 50%) son **la regla con la que la
+  Comisión eligió las áreas con problema**, no cuotas observadas en un área.
+- La decisión no publica IHH ni los rivales de cada área.
+
 ## Problemas
 
 ### P1 — Banca minorista: depósitos y préstamos a hogares

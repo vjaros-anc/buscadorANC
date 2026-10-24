@@ -28,6 +28,41 @@ La Comisión descartó dudas en:
   [p. 162]);
 - empaquetamiento de publicidad online con software CRM (DEC párr. 617 [p. 168]).
 
+## Mercado relevante
+
+**Software CRM de atención y soporte al cliente** (aguas abajo, donde está el problema)
+- **Producto:** la Comisión deja abierto si el CRM de atención al cliente es un mercado
+  separado o parte del CRM en general. Las plataformas de comunicación como servicio
+  (CPaaS) no forman parte de ninguno. También deja abiertas las segmentaciones por modo de
+  instalación, tamaño del cliente e industria: el problema aparece con cualquiera de ellas
+  (DEC párr. 79 [p. 25]).
+- **Geográfico:** al menos el EEE, si no mundial (DEC párr. 85 [p. 26]).
+
+**Servicios de comunicación de empresa a consumidor (B2C)** (aguas arriba, el insumo)
+- **Producto:** un mercado amplio de comunicación B2C. Dentro de él, la Comisión considera
+  un mercado intermedio de comunicación **asincrónica** y, dentro de este, uno más estrecho
+  de **mensajería OTT B2C**, que puede incluir mensajería basada en RCS, chat web y
+  comentarios públicos en redes sociales. Evalúa el caso en el mercado amplio, teniendo en
+  cuenta los dos más estrechos (DEC párr. 123 [pp. 36–37]).
+- **Geográfico:** al menos el EEE, si no mundial (DEC párr. 134 [p. 39]).
+
+**Cuotas y concentración** (EEE, 2020; las partes no compiten entre sí: la operación es
+vertical)
+
+| Mercado | Período | Base | Meta | Kustomer | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+| CRM de atención al cliente (aguas abajo) | 2020 | valor | no activa | [0-5%] | no corresponde | Salesforce 19,9%, SAP 8,5%, Genesys 7,0%, Oracle 6,9% (datos de 2019; los de 2020 no están) | n/d | n/d | no corresponde | DEC tabla 2 [p. 48] |
+| Comunicación B2C (aguas arriba, amplio) | 2020 | valor | [0-5%] (mundial: [5-10%]) | no activa | no corresponde | teléfono 67%, correo electrónico 24% | n/d | n/d | no corresponde | DEC párr. 177 [p. 51] |
+| Comunicación B2C asincrónica | 2020 | valor | [5-10%] (mundial: [10-20%]) | no activa | no corresponde | correo electrónico 71,2%, otra mensajería [10-20%] | n/d | n/d | no corresponde | DEC tabla 4 [p. 50] |
+| Mensajería OTT B2C | 2020 | valor | [40-50%] (Messenger, WhatsApp e Instagram: [10-20%] cada uno) | no activa | no corresponde | otra mensajería [50-60%] (fragmentada) | n/d | n/d | no corresponde | DEC tabla 5 [pp. 50–51] |
+
+- No hay superposición horizontal entre las partes (DEC párr. 168 [p. 46]): por eso la
+  conjunta y el Δ IHH no corresponden. La decisión no publica IHH.
+- En el CRM, Salesforce es el mayor jugador, con alrededor del 20%; el resto del mercado está
+  muy fragmentado (DEC párr. 175 [p. 48]). En la mensajería OTT B2C, Meta es el mayor jugador
+  individual (DEC párr. 179 [p. 52]).
+- Las pp. 47–51 son imagen: las cifras salen de OCR y se verificaron contra la imagen del PDF.
+
 ## Problemas
 
 ### P1 — Cierre de insumos: acceso de los CRM rivales a las API de mensajería de Meta
@@ -79,8 +114,8 @@ La Comisión descartó dudas en:
     lista incluye todo lo que Kustomer tenía integrado y la respuesta privada a comentarios
     públicos (DEC párrs. 677 [p. 180], 679 [p. 181]).
   - **Funciones nuevas:** si más del 25% de los usuarios de Kustomer usa por semana una
-    función nueva, pasa a ser central. Meta debe ofrecerla a todos en 12 meses (DEC párr. 677
-    [p. 180]).
+    función nueva, medido en el trimestre anterior, pasa a ser central. Meta debe ofrecerla
+    a todos en 12 meses (DEC párr. 677 [p. 180]).
   - **Pruebas beta:** solo con hasta el 25% de los clientes de Kustomer, con informe
     trimestral (DEC párr. 678 [pp. 180–181]).
   - **Transparencia:** lista trimestral de API y funciones disponibles (COMP cl. 3
@@ -107,7 +142,9 @@ accediendo a los canales de Meta en las mismas condiciones (DEC párrs. 684 [p. 
 - un compromiso de acceso puede equivaler a una desinversión si es efectivo, si lo usarán los
   competidores y si se puede hacer cumplir. Lo ideal es que lo controlen los propios rivales,
   con arbitraje (DEC párrs. 627–628 [p. 170]);
-- **los 10 años** lo hacen equivalente en efectos a una desinversión (DEC párr. 685 [p. 182]).
+- con **10 años** de duración, la Comisión consideró que, en este caso, el compromiso era
+  "equivalente a una desinversión en sus efectos", como prevé la Comunicación sobre remedios
+  (DEC párr. 685 [p. 182]).
 
 **Qué cambió con el *market test*:** la Comisión encontró nueve carencias en los compromisos
 iniciales (DEC párrs. 663–672 [pp. 178–179]). Cambios:
@@ -143,8 +180,9 @@ iniciales (DEC párrs. 663–672 [pp. 178–179]). Cambios:
 
 - **Cierre selectivo:** la Comisión no exigió que Meta pudiera cerrar todo el mercado.
   Bastó la capacidad y el incentivo de apuntar a los competidores cercanos y a los entrantes
-  que más innovan. La teoría importa cuando el comprador es un adquirente chico de un
-  ecosistema grande.
+  que más innovan. La teoría sirve cuando un gran ecosistema compra una empresa chica de un
+  mercado vecino: aunque la adquirida tenga una cuota mínima, el cierre selectivo puede
+  dañar la competencia.
 - **Diseño de remedios de acceso a plataformas:**
   - gratuidad, o cargos por uso razonables;
   - paridad con la filial;
@@ -154,7 +192,9 @@ iniciales (DEC párrs. 663–672 [pp. 178–179]). Cambios:
   - arbitraje rápido a cargo de los rivales.
 
   Es una lista de verificación útil para remedios de interoperabilidad.
-- **La duración importa:** 5 años no alcanzaban; 10 años lo acercan a una desinversión.
+- **La duración importa:** 5 años no alcanzaban. Que 10 años lo hicieran equivalente a una
+  desinversión fue una valoración de este caso, junto con el resto del diseño (gratuidad,
+  paridad, arbitraje), no una regla automática.
 - **La dispensa por cambio de estructura:** cuando desaparece el control, puede desaparecer
   el fundamento del remedio. La Comisión igual revisó si la participación minoritaria dejaba
   algún incentivo. La ANC puede seguir el mismo enfoque ante pedidos de levantamiento.

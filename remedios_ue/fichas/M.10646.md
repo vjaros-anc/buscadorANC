@@ -18,21 +18,65 @@ ligados al **juego en la nube** (*cloud game streaming*), un canal todavía inci
 - **P2:** Microsoft podría atar esos juegos y su propio servicio de juego en la nube a Windows,
   perjudicando a los sistemas operativos rivales.
 
-El remedio es **conductual**: licencias gratuitas, por 10 años, para que los consumidores puedan
-jugar en la nube los juegos de Activision que compraron y para que los servicios de juego en
-la nube los ofrezcan. La Comisión lo consideró **tan eficaz como una desinversión**.
+El remedio es **conductual**: licencias sin regalías, por 10 años desde el cierre, para que
+los consumidores puedan jugar en la nube los juegos de Activision que ya tienen y para que
+los servicios de juego en la nube los ofrezcan. La licencia es gratuita para el servicio de
+juego en la nube; el consumidor sigue pagando el juego y, si corresponde, la suscripción a
+ese servicio. La Comisión lo consideró **tan eficaz como una desinversión**.
 
 Además, la Comisión descartó problemas en:
-- la edición de juegos (párrs. 303 [p. 67]);
-- la distribución de juegos de consola y de PC (párrs. 443–444 [p. 110]);
-- el atado de juegos nativos a Windows (párr. 614 [p. 147]).
+- la edición de juegos (DEC párr. 303 [p. 67]);
+- la distribución de juegos de consola y de PC (DEC párrs. 443–444 [p. 110]);
+- el atado de juegos nativos a Windows (DEC párr. 614 [p. 147]).
+
+## Mercado relevante
+
+**Desarrollo y edición de videojuegos de PC y consola** (aguas arriba: los juegos de
+Activision son el insumo)
+- **Producto:** un mercado de desarrollo y edición de juegos de PC y consola. La Comisión
+  deja abiertas las segmentaciones por plataforma, género y tipo de juego (AAA o no) (DEC
+  párr. 84 [p. 23]).
+- **Geográfico:** al menos el EEE; queda abierto si es mundial (DEC párr. 88 [p. 24]).
+
+**Distribución de videojuegos de PC y consola** (aguas abajo, donde compiten los servicios
+de juego en la nube)
+- **Producto:** un mercado de distribución de juegos de PC y consola, **sin segmentar por
+  forma de acceso**: física, descarga o juego en la nube son parte del mismo mercado (DEC
+  párr. 109 [p. 29]). El daño se evalúa sobre los servicios de juego en la nube dentro de
+  ese mercado.
+- **Geográfico:** EEE o mundial, abierto (DEC párr. 114 [p. 30]).
+
+**Sistemas operativos para PC** (P2)
+- **Producto:** sistemas operativos para PC, separados de los de servidores (DEC párr. 122
+  [p. 31]).
+- **Geográfico:** mundial (DEC párr. 125 [p. 31]).
+
+**Cuotas y concentración** (EEE, 2022, por ingresos salvo que se indique otra base)
+
+| Mercado | Período | Base | Microsoft | Activision Blizzard | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Desarrollo y edición de juegos AAA de PC y consola | 2022 | ingresos | [0-5]% | [5-10]% | [10-20]% | EA [20-30]%, Valve [10-20]%, Tencent [5-10]%, Nintendo [5-10]% | n/d | n/d | n/d | DEC tabla 1 [pp. 40–41] |
+| Distribución de juegos de PC y consola | 2022 | ingresos | [10-20]% | [0-5]% | [10-20]% | Sony [30-40]%, Valve [20-30]%, Tencent [5-10]%, Nintendo [5-10]% | n/d | n/d | n/d | DEC tabla 6 [p. 46] |
+| Juego en la nube en PC (segmento, no mercado) | n/d | usuarios activos mensuales | [10-20]% (Xbox Cloud Gaming; mundial: [20-30]%) | no ofrece | no corresponde | n/d | n/d | n/d | no corresponde | DEC párr. 476 [p. 116] |
+| Sistemas operativos para PC | 2022 | participación mensual promedio | [70-80]% (Windows; mundial igual) | no activa | no corresponde | macOS [10-20]%, Linux [0-5]%, Chrome OS [0-5]% | n/d | n/d | no corresponde | DEC tabla 7 [p. 47] |
+
+- La tabla 1 cubre solo juegos AAA: la Comisión dice que nada indica que las cuotas cambien
+  mucho al sumar los no AAA (DEC tabla 1 [p. 40]).
+- La cuota del juego en la nube en PC es un **dato de la notificante**, no una conclusión de
+  la Comisión (DEC párr. 476 [p. 116]).
+- La decisión no publica IHH para estos mercados. La cuota de los juegos no mide su peso
+  como insumo: para eso la Comisión usó también usuarios activos y tiempo de juego (DEC
+  párrs. 156 [p. 39], 160 [p. 40]).
+- Las tablas de las pp. 40–47 son imagen: las cifras salen de OCR y se verificaron contra la
+  imagen del PDF.
 
 ## Problemas
 
 ### P1 — Cierre del acceso de servicios rivales de juego en la nube a los juegos de Activision
 
-- **Mercado:** distribución de juegos de consola y PC mediante juego en la nube, al menos a
-  nivel del EEE (DEC párrs. 571 [p. 140], 900 [p. 209]).
+- **Mercado:** distribución de juegos de PC y consola, en particular por servicios de juego
+  en la nube, al menos a nivel del EEE (DEC párrs. 571 [p. 140], 900 [p. 209]; ver «Mercado
+  relevante»).
 - **Efecto:** vertical, cierre de insumos.
 - **Mecanismo:** los juegos AAA de Activision son un insumo importante para los servicios de
   juego en la nube y tienen poder de mercado. Microsoft podría restringirlos o degradarlos en
@@ -84,7 +128,9 @@ Además, la Comisión descartó problemas en:
   en el servicio de juego en la nube que elijan, en cualquier dispositivo propio. Vale para
   juegos actuales y futuros, de PC y consola, y para licencias por compra, juego gratuito o
   suscripción. Se implementa modificando el contrato de licencia de usuario final de Microsoft
-  (COMP cl. 2 [p. 243]; DEC párr. 760 [pp. 182–183]).
+  (COMP cl. 1 [pp. 240–241], definición de *Eligible Games*, y cl. 2 [p. 243]). Los compromisos
+  iniciales cubrían solo juegos de PC; los finales suman los de consola (DEC párr. 760
+  [pp. 182–183]).
 - **Duración:** 10 años desde el cierre.
 
 ### R2 — Licencia a los servicios de juego en la nube (*Streaming Provider License*)
@@ -95,8 +141,9 @@ Además, la Comisión descartó problemas en:
   - los lanzamientos nuevos, betas y accesos anticipados desde que salen en una tienda de
     Microsoft, en Game Pass o en otra tienda autorizada (COMP cl. 3–4 [p. 243]);
   - acceso a las tiendas de Microsoft, incluida Battle.net, y a los datos de qué juegos tiene
-    cada usuario, mediante una interfaz estándar y con su consentimiento (COMP cl. 5
-    [p. 243]);
+    cada usuario, mediante una interfaz estándar y con su consentimiento. **Solo para los
+    servicios que ya tengan licencia de al menos un gran editor de juegos** cuando piden el
+    acceso (COMP cl. 5 [p. 243]);
   - no cortar ni degradar el acceso por API existente al cierre (COMP cl. 6 [p. 243]);
   - licencias a Nvidia, Boosteroid y Ubitus en los términos ya pactados con ellos (COMP cl. 7
     [p. 243]).
@@ -158,8 +205,11 @@ Además, la Comisión descartó problemas en:
 
 ## Implementación y cambios posteriores
 
-- Los compromisos rigen desde la adopción de la decisión (COMP cl. 34 [p. 248]). La licencia a
-  consumidores, desde el cierre (DEC párr. 897 [p. 209]).
+- Los compromisos rigen desde la adopción de la decisión (COMP cl. 34 [p. 248]). Las licencias
+  duran 10 años desde el cierre (COMP cl. 1 [pp. 240–242], definición de *Term*); la de los
+  consumidores también arranca en el cierre (DEC párr. 897 [p. 209]).
+- El cierre fue el 13/10/2023 (dato externo al corpus, de la información pública de
+  Microsoft): los 10 años corren hasta octubre de 2033.
 - El inventario no registra decisiones posteriores, dispensas ni recursos ante el Tribunal
   General al 22/10/2026. Hay publicados datos del *trustee* (`M.10646_OTRO_01`).
 

@@ -380,10 +380,15 @@ Instrucciones, formato de salida y límites: [EXTRACCION_TEXTO.md](EXTRACCION_TE
 Cada caso tiene una ficha legible (`fichas/M.xxxxx.md`) y filas en `fichas/relaciones.csv`,
 una por par problema–remedio. Las reglas están en [fichas/PLANTILLA.md](fichas/PLANTILLA.md):
 - estructura de la ficha;
+- **mercado relevante, cuotas e IHH**: definición de producto y geográfica de cada mercado
+  con problema y una tabla de cuotas y concentración (cuotas de las partes y de los rivales,
+  IHH previo y posterior, Δ IHH), siempre que la decisión los publique;
 - formato de las citas, con párrafo o cláusula y página física del PDF;
 - vocabularios controlados.
 
-La ANC aprobó la plantilla y las dos fichas modelo.
+La ANC aprobó la plantilla y las dos fichas modelo. El 24/10/2026, a pedido de la ANC, se
+agregó la sección «Mercado relevante» a la plantilla y a las 11 fichas, y se corrigieron las
+fichas de Meta, Microsoft, Broadcom y Orange según una revisión externa.
 
 ### Fichas del piloto
 
@@ -415,7 +420,10 @@ Sin `--texto`, controla:
 - los vocabularios, que lee de `PLANTILLA.md`;
 - que cada caso exista en `casos.csv`;
 - que los P/R coincidan con la ficha;
-- el formato de cada cita.
+- el formato de cada cita, y que ninguna cite párrafos sin decir de qué documento
+  («párrs. 303 [p. 67]» sin `DEC`);
+- la sección «Mercado relevante»: líneas de producto y geográfico, y cada fila de la tabla de
+  cuotas con sus 11 celdas completas (`tachado`, `n/d` o `no corresponde` cuando falta el dato).
 
 Con `--texto` usa la salida de `extraer_texto.py` y verifica:
 - que cada párrafo citado esté en la página indicada. Distingue las notas al pie numeradas
@@ -424,7 +432,7 @@ Con `--texto` usa la salida de `extraer_texto.py` y verifica:
 - que las tablas citadas estén en la página indicada;
 - que los documentos citados tengan esas páginas.
 
-También avisa cuando una página citada se leyó por OCR. Sobre las 11 fichas verifica 584 citas
+También avisa cuando una página citada se leyó por OCR. Sobre las 11 fichas verifica 722 citas
 sin errores. Durante el piloto detectó varias páginas mal citadas, que se corrigieron.
 
 ### Método
