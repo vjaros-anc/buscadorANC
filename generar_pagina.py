@@ -334,6 +334,9 @@ def main() -> None:
 # --------------------------------------------------------------------------- #
 # Plantilla HTML (self-contained). Tokens: __DATA__ __SEC__ __REL__ __TIPO__
 #                       __DEC__ __PROD__ __ARCHIVO__ __TABLA__ __TOTAL__
+# La barra para moverse entre herramientas (assets/anc.css + assets/nav.js) son 3 lineas
+# de la plantilla: el <link>, el <div id="anc-nav"> y el <script src="assets/nav.js">.
+# Para sacarla del buscador, borrar esas 3 lineas (y las mismas 3 en index.html).
 # --------------------------------------------------------------------------- #
 TEMPLATE = r"""<!doctype html>
 <html lang="es">
@@ -536,8 +539,10 @@ TEMPLATE = r"""<!doctype html>
     .bm-actions { flex-wrap: wrap; }
   }
 </style>
+<link rel="stylesheet" href="assets/anc.css">
 </head>
 <body>
+<div id="anc-nav"></div>
 <div class="bm-header">
   <h1>Buscador de Mercados Relevantes</h1>
   <p>Nomenclador de resoluciones y dictámenes firmados — ANC. Encontrá en qué expediente se
@@ -944,6 +949,7 @@ TEMPLATE = r"""<!doctype html>
   render();
 })();
 </script>
+<script src="assets/nav.js" defer></script>
 </body>
 </html>
 """
