@@ -20,7 +20,8 @@ no tiene, como `remedios_ue/` después de revertir el merge del PR #5, cuenta co
 | `/opis/` | buscador de OPIs (96 dictámenes) | `python -B integrar_opis.py` |
 | `/conc/` | estadísticas de resoluciones firmadas, con filtros por año, tipo y sector y CSV | `python -B generar_tablero.py` |
 | `/remedios/` | biblioteca de remedios UE: una tarjeta por ficha, con filtros por tipo y subtipo de remedio, efecto, fase y texto, y el CSV de `relaciones.csv` | `python -B generar_remedios.py` (lee `remedios_ue/`) |
-| `/remedios/M-xxxxx/` | cada ficha problema–remedio (`remedios_ue/fichas/M.xxxxx.md`) con el estilo del sitio | ídem |
+| `/remedios/M-xxxxx/` | cada ficha problema–remedio (`remedios_ue/fichas/M.xxxxx.md`) con el estilo del sitio; cada cita `[p. x]` abre nuestra copia del PDF en esa página | ídem |
+| `/remedios/documentos/` | los documentos de los 47 casos y de las revisiones: nuestra copia en PDF (`remedios/pdf/`, 276 archivos) y el original de la Comisión | ídem; los PDF, con `--pdf-desde` |
 | `/demo-interno/` | portada del área interna (demo) | HTML estático |
 | `/demo-interno/noticias/` | Monitor M&A: el último informe bajado del artefacto de Claude (si todavía no hay `monitor.json`, muestra ejemplos) | HTML + `demo-interno/data/monitor.json`, que copia `python -B actualizar_sitio.py --monitor RUTA` |
 | `/demo-interno/seguimiento/` | concentraciones **en trámite** del Excel `Res_firmadas.xlsm`, que llega por mail (datos reales en esta rama; si no hay `seguimiento.json`, muestra ejemplos) | HTML + `demo-interno/data/seguimiento.json`, que escribe `python -B generar_seguimiento.py` |
@@ -72,6 +73,7 @@ ramas están activos). Qué mirar:
 | Sin las demos del área interna | borrar `demo-interno/` y `robots.txt` y la regla de `_headers` para `/demo-interno/*`; poner `var INTERNO = false;` en `assets/nav.js` (la barra y el mapa dejan de mencionarla) |
 | Sin OPIs | borrar `opis/` y `integrar_opis.py` (el original no se tocó) |
 | Sin estadísticas | borrar `conc/`, `data/` y `generar_tablero.py` |
+| Solo sin los PDF de remedios | borrar `remedios/pdf/` y correr `python -B generar_remedios.py`: las fichas y la página de documentos quedan con los enlaces a la Comisión |
 | Sin la biblioteca de remedios | borrar `remedios/` y `generar_remedios.py` (y `remedios_ue/` si tampoco se quiere la carpeta de trabajo); sacar `remedios` de `ITEMS` y de `current()` en `assets/nav.js`, de `CARPETAS` en `build_site.py` y de `PAGINAS`/`PUBLICAS` en `verificar_sitio.py`, la sección «Antecedentes internacionales» de `herramientas/index.html` y `RemediosTest` de las pruebas |
 | Nada | no mergear; borrar la rama |
 
@@ -152,7 +154,7 @@ python -B generar_remedios.py    # remedios_ue/fichas/*.md, relaciones.csv y cas
 python -B actualizar_sitio.py    # todo lo de abajo en orden, más el seguimiento y el monitor (ver «Actualización semanal»)
 python -B generar_seguimiento.py --excel RUTA  # Res_firmadas.xlsm (solo lectura) -> demo-interno/data/seguimiento.json (solo en la rama del área interna)
 python -B verificar_sitio.py     # compuerta: links con mayúsculas exactas, tamaños, lista negra, ejemplo vs real, tablero al día
-python -B -m unittest discover -s tests -v   # pruebas de coherencia del sitio (38 pruebas, unos 18 s)
+python -B -m unittest discover -s tests -v   # pruebas de coherencia del sitio (40 pruebas, unos 20 s)
 ```
 
 Usá siempre `-B`: hay dos `.pyc` versionados que si no Python reescribiría y aparecerían como modificados.
@@ -185,6 +187,24 @@ python -B -m unittest discover -s tests
 - Es contenido público (decisiones de la Comisión Europea): `build_site.py` lo publica también en `main`, con la barra igual.
 - El conversor de Markdown cubre lo que usa `remedios_ue/fichas/PLANTILLA.md` (títulos, tablas, listas anidadas, negrita, cursiva y
   código). La sección «Para la ANC» se destaca porque es análisis propio, no texto de la Comisión.
+
+**Los PDF.** Son las copias de la rama `corpus-remedios-ue` (276 PDF, 192 MiB; el más grande, 14 MiB). No se mergea esa rama:
+`generar_remedios.py` las copia con `git show`, sin checkout, y verifica el SHA-256 contra su `reporte.csv`:
+
+```
+git fetch origin corpus-remedios-ue
+python -B generar_remedios.py --pdf-desde origin/corpus-remedios-ue
+```
+
+- Quedan en `remedios/pdf/` con el nombre sin el hash (`M.9969_DEC_01.pdf`), más `catalogo.csv` (una fila por documento: archivo,
+  página donde empieza, páginas, tamaño, SHA-256 y URL original; con `;` para Excel). Los compromisos que van dentro de la decisión
+  apuntan al PDF de la decisión, desde su primera página.
+- Son los mismos blobs que ya están en el repo por la rama del corpus: git no los duplica.
+- `verificar_sitio.py` revisa que cada documento del catálogo tenga su PDF con el tamaño anotado; la prueba
+  `test_catalogo_de_pdf` además compara el SHA-256. `build_site.py` publica `remedios/pdf/*.pdf`.
+- **Antes de mergear a `main`:** con los PDF, `main` pasaría de ~903 MiB a ~1,1 GB. Si GitHub Pages sigue activo, supera su límite
+  de 1 GB (Cloudflare Pages no tiene límite total: 25 MiB por archivo y 20.000 archivos). Desactivar GitHub Pages o dejar los PDF
+  fuera de `main`.
 
 ## `build_site.py` y la lista blanca (opcional)
 

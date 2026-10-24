@@ -23,6 +23,7 @@ Uso (desde la raiz del repo):
 import collections
 import contextlib
 import datetime as dt
+import hashlib
 import io as _io
 import json
 import math
@@ -550,12 +551,40 @@ class RemediosTest(unittest.TestCase):
         self.assertIn("<p>Texto <em>market test</em>.</p>", h)
         self.assertNotRegex(h, r"[*`]")
 
+    def test_citas_enlazadas_a_los_pdf(self):
+        docs = {"M.1_DEC_01": ("M.1_DEC_01.pdf", ""), "M.1_COMP_01": ("M.1_DEC_01.pdf", "8"), "M.1_POST_01": ("M.1_POST_01.pdf", "")}
+        enl = gr.enlazador("M.1", docs)
+        h = gr.md_a_html("Algo (DEC párrs. 1 [p. 2], 3–4 [pp. 5–6]; COMP cl. 2 [p. 9]; `M.1_POST_01` [p. 1]).\n\n"
+                         "Sin fuente [p. 7]. Otro `M.1_DICT_01` [p. 3].", citas=enl)
+        self.assertIn('<a class="anc-cita" href="../pdf/M.1_DEC_01.pdf#page=2">[p. 2]</a>', h)
+        self.assertIn('<a class="anc-cita" href="../pdf/M.1_DEC_01.pdf#page=5">[pp. 5–6]</a>', h)
+        self.assertIn('<a class="anc-cita" href="../pdf/M.1_DEC_01.pdf#page=9">[p. 9]</a>', h)
+        self.assertIn('<a href="../pdf/M.1_POST_01.pdf"><code>M.1_POST_01</code></a>', h)
+        self.assertIn('<a class="anc-cita" href="../pdf/M.1_POST_01.pdf#page=1">[p. 1]</a>', h)
+        self.assertIn('<a href="../pdf/M.1_DEC_01.pdf#page=8"><code>M.1_COMP_01</code></a>', gr.md_a_html("`M.1_COMP_01`", citas=enl))
+        self.assertIn("<p>Sin fuente [p. 7]. Otro <code>M.1_DICT_01</code> [p. 3].</p>", h)   # sin copia: queda texto
+
+    def test_catalogo_de_pdf(self):
+        filas = gr.leer_catalogo(RAIZ)
+        if not filas:
+            self.skipTest("todavía no se trajeron los PDF (generar_remedios.py --pdf-desde)")
+        carpeta = RAIZ / "remedios" / "pdf"
+        archivos = {f["archivo"]: f for f in filas}
+        self.assertEqual(sorted(p.name for p in carpeta.glob("*.pdf")), sorted(archivos))
+        for nombre, f in archivos.items():
+            datos = (carpeta / nombre).read_bytes()
+            self.assertEqual(str(len(datos)), f["bytes"], nombre)
+            self.assertEqual(hashlib.sha256(datos).hexdigest(), f["sha256"], nombre)
+        sel = bs.seleccionar(RAIZ, bs.todos_los_archivos(RAIZ, Path(tempfile.gettempdir()) / "dist_no_creado"), False, True)
+        self.assertIn("remedios/pdf/" + next(iter(archivos)), sel)
+        self.assertIn("remedios/pdf/catalogo.csv", sel)
+
     def test_remedios_versionado_es_el_que_sale_de_las_fichas(self):
         salida = gr.construir(RAIZ)
         self.assertEqual(gr.diferencias(RAIZ, salida), [], "correr 'python -B generar_remedios.py'")
         self.assertEqual(salida, gr.construir(RAIZ), "la salida no es determinista")
         fichas = sorted(p.stem for p in (RAIZ / "remedios_ue" / "fichas").glob("M.*.md"))
-        paginas = sorted(r.split("/")[1].replace("-", ".") for r in salida if r.count("/") == 2)
+        paginas = sorted(r.split("/")[1].replace("-", ".") for r in salida if gr.RX_CARPETA_FICHA.match(r.split("/")[1]))
         self.assertEqual(paginas, fichas)
         indice = salida["remedios/index.html"].decode("utf-8")
         self.assertEqual(indice.count('class="anc-tool"'), len(fichas))
@@ -568,8 +597,9 @@ class RemediosTest(unittest.TestCase):
             shutil.copy(str(RAIZ / "remedios_ue" / "casos.csv"), str(raiz / "remedios_ue" / "casos.csv"))
             for f in (RAIZ / "remedios_ue" / "fichas").glob("*.*"):
                 shutil.copy(str(f), str(raiz / "remedios_ue" / "fichas" / f.name))
-            shutil.copytree(str(RAIZ / "remedios"), str(raiz / "remedios"))
-            aviso = lambda: [m for n, m in vs.verificar(raiz, solo_dist=True) if "generar_remedios" in m]
+            shutil.copy(str(RAIZ / "remedios_ue" / "documentos.csv"), str(raiz / "remedios_ue" / "documentos.csv"))
+            shutil.copytree(str(RAIZ / "remedios"), str(raiz / "remedios"), ignore=shutil.ignore_patterns("*.pdf"))
+            aviso = lambda: [m for n, m in vs.verificar(raiz, solo_dist=True) if "no corresponde a las fichas" in m]
             self.assertEqual(aviso(), [])
             ficha = next((raiz / "remedios_ue" / "fichas").glob("M.*.md"))
             ficha.write_text(ficha.read_text(encoding="utf-8") + "\nUna línea nueva.\n", encoding="utf-8")

@@ -12,7 +12,8 @@ Revisa lo que se va a publicar y devuelve codigo de salida 1 si hay algun ERROR:
     y el seguimiento real (origen "interno") son ERROR en la rama main y en el dist/ que se publica, y solo una
     nota (INFO) en la rama del area interna, que se publica detras de Cloudflare Access (ver SITIO.md)
   - los JSON de data/ son validos y traen schema_version
-  - la biblioteca de remedios (remedios/) corresponde a las fichas de remedios_ue/ (aviso si no)
+  - la biblioteca de remedios (remedios/) corresponde a las fichas de remedios_ue/ (aviso si no), y cada documento de
+    remedios/pdf/catalogo.csv tiene su PDF con el tamaño anotado (y no sobran PDF)
   - la demo del monitor esta marcada como ejemplo; uno real (origen "artefacto", lo baja el boton del artefacto)
     solo puede estar fuera de main, y es schema_version 1
   - el seguimiento es schema_version 2: el fixture esta marcado como ejemplo; uno real solo puede ser "interno"
@@ -32,8 +33,10 @@ Uso:
 from __future__ import annotations
 
 import argparse
+import csv
 import fnmatch
 import hashlib
+import io
 import json
 import os
 import re
@@ -126,10 +129,12 @@ def huella_corpus(registros) -> str:
 
 
 def huella_remedios(raiz: Path) -> str:
-    """Huella de las entradas de la biblioteca de remedios: remedios_ue/casos.csv, las fichas M.*.md y relaciones.csv.
-    Fines de linea normalizados, para que una copia de Windows (CRLF) de la misma huella."""
+    """Huella de las entradas de la biblioteca de remedios: remedios_ue/casos.csv y documentos.csv, las fichas M.*.md,
+    relaciones.csv y el catalogo de PDF (remedios/pdf/catalogo.csv). Fines de linea normalizados, para que una copia
+    de Windows (CRLF) de la misma huella."""
     base = raiz / "remedios_ue"
-    rutas = [base / "casos.csv", base / "fichas" / "relaciones.csv"] + sorted((base / "fichas").glob("M.*.md"))
+    rutas = ([base / "casos.csv", base / "documentos.csv", base / "fichas" / "relaciones.csv"]
+             + sorted((base / "fichas").glob("M.*.md")) + [raiz / "remedios" / "pdf" / "catalogo.csv"])
     h = hashlib.sha256()
     for p in rutas:
         if p.exists():
@@ -267,6 +272,24 @@ def verificar(raiz: Path, aditivo: bool = False, solo_dist: bool = False, rama=N
         m = re.search(r'<meta name="remedios-huella" content="([0-9a-f]+)"', pag.read_text(encoding="utf-8"))
         if not m or m.group(1) != huella_remedios(raiz):
             avi("remedios/ no corresponde a las fichas de remedios_ue/: correr 'python -B generar_remedios.py'")
+
+    # 3d. PDF de la biblioteca de remedios: cada documento del catalogo tiene su archivo (nombre exacto) con el tamaño
+    #     anotado, y no hay PDF fuera del catalogo
+    cat = raiz / "remedios" / "pdf" / "catalogo.csv"
+    if cat.exists():
+        filas = list(csv.DictReader(io.StringIO(cat.read_text(encoding="utf-8-sig")), delimiter=";"))
+        archivos = {}
+        for f in filas:
+            archivos.setdefault(f.get("archivo") or "", f.get("bytes"))
+        for nombre, tam in sorted(archivos.items()):
+            p = raiz / "remedios" / "pdf" / nombre
+            if not nombre or not existe_exacto(raiz, "remedios/pdf/" + nombre):
+                err("remedios/pdf/catalogo.csv: falta el PDF '%s' (correr 'python -B generar_remedios.py --pdf-desde ...')" % nombre)
+            elif str(p.stat().st_size) != tam:
+                err("remedios/pdf/%s: pesa %d bytes y el catálogo dice %s" % (nombre, p.stat().st_size, tam))
+        for p in sorted((raiz / "remedios" / "pdf").glob("*.pdf")):
+            if p.name not in archivos:
+                avi("remedios/pdf/%s no está en el catálogo" % p.name)
 
     # 4. monitor: el fixture esta marcado como ejemplo; el real (origen "artefacto", lo baja el boton del artefacto y lo
     #    copia actualizar_sitio.py --monitor) solo puede estar fuera de main, como el seguimiento real

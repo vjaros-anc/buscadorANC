@@ -14,7 +14,8 @@ Para probarlo SIN tocar el proyecto real, crea un segundo proyecto de Pages (ver
 Que se publica:
   - sitio:   index.html, googlea22b4e4d6a289f30.html, 404.html, _headers, _redirects, robots.txt,
              assets/, opis/, conc/, herramientas/, remedios/, data/   (solo extensiones web: no .py ni .md)
-  - pdf:     los pdf/*.pdf de primer nivel (no los CSV, ni escaneados/, ni lectura_opi/)
+  - pdf:     los pdf/*.pdf de primer nivel (no los CSV, ni escaneados/, ni lectura_opi/) y los remedios/pdf/*.pdf
+             (copias de los documentos de la Comision que usa la biblioteca de remedios)
   - legado:  URLs que hoy sirven y alguien puede usar: productos buscador/index.html,
              pdf/lectura_opi/buscador_opis.html   (--sin-legado las saca)
   - demo:    demo-interno/ (prototipos con datos de ejemplo). NO entra cuando CF_PAGES_BRANCH == "main",
@@ -92,6 +93,8 @@ def seleccionar(raiz: Path, todos, con_demo: bool, con_legado: bool):
         if partes[0] in carpetas and os.path.splitext(rel)[1].lower() in EXT_WEB:
             sel[rel] = "demo" if partes[0] == CARPETA_DEMO else "sitio"
         elif len(partes) == 2 and partes[0] == "pdf" and rel.lower().endswith(".pdf"):
+            sel[rel] = "pdf"
+        elif partes[:2] == ["remedios", "pdf"] and len(partes) == 3 and rel.lower().endswith(".pdf"):
             sel[rel] = "pdf"
     if con_legado:
         for rel in LEGADO:
