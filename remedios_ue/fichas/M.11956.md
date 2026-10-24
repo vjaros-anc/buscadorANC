@@ -29,6 +29,36 @@ rivales** a través de Curve (DEC párrs. 559 [p. 134], 590 [p. 141]). UMG lo re
 compradores a Jamen Capital y a Merlin, la agencia de licencias de los sellos independientes
 (`M.11956_POST_01` [p. 2]).
 
+## Mercado relevante
+
+**Distribución mayorista de música grabada** (donde UMG compite con los sellos que usan Curve)
+- **Producto:** queda abierto si se separa la distribución digital de la física: el
+  resultado es el mismo (DEC párr. 89 [p. 23]).
+- **Geográfico:** al menos el EEE (DEC párr. 104 [p. 26]). La decisión da también las cuotas
+  de Austria y Países Bajos.
+
+**Servicios de administración de regalías** (el mercado de Curve)
+- **Producto:** un mercado distinto de la distribución mayorista y de los servicios a artistas
+  y sellos, para la administración de regalías ofrecida por separado (DEC párrs. 121–122
+  [p. 30]).
+- **Geográfico:** mundial (DEC párr. 129 [p. 31]).
+
+**Cuotas y concentración** (2024)
+
+| Mercado | Período | Base | UMG | Downtown | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Distribución mayorista de música grabada, total (EEE) | 2024 | ingresos | [30-40]% | [0-5]% | [30-40]% | Sony Music [20-30]%, Warner [10-20]% | n/d | n/d | tachado (< 150 a nivel mundial) | DEC tabla 1 [p. 35] |
+| Distribución mayorista digital (EEE) | 2024 | ingresos | [20-30]% | [0-5]% | [30-40]% | Sony Music [20-30]%, Warner [10-20]% | n/d | > 2.000 (valor tachado) | < 150 (valor tachado) | DEC tabla 2 [p. 36]; DEC párr. 205 [p. 52] |
+| Administración de regalías (mundial) | 2024 | n/d | tachado | [5-10]% (Curve) | [5-10]% | Vistex/Music Maestro [30-40]%, Synchtank [10-20]% | n/d | n/d | n/d | DEC tabla 9 [p. 45] |
+
+- En distribución, UMG tiene menos del 40% en el EEE y no es dominante (DEC párr. 228 [p. 55]);
+  con IHH posterior > 2.000 y Δ < 150, la Comisión descartó el problema horizontal (DEC párr.
+  205 [p. 52]). **El remedio no responde a la concentración** sino al acceso a la información
+  sensible de los sellos rivales que pasa por Curve.
+- En la administración de regalías la decisión trae cuotas iguales para el mundo, el EEE,
+  Austria y Países Bajos. La cuota de Curve que importa para el problema es otra: procesa
+  alrededor del [5-10]% de las regalías mundiales (DEC párr. 556 [pp. 133–134]).
+
 ## Problemas
 
 ### P1 — Acceso de UMG a datos sensibles de sellos rivales vía Curve

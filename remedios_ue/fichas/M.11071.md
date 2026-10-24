@@ -28,6 +28,62 @@ El remedio final tiene cuatro piezas:
 Todo con **cláusula de *upfront buyer***. Los tomadores aprobados son easyJet en corto radio
 y Air France-KLM e IAG en largo radio (`M.11071_POST_01` [p. 2]).
 
+## Mercado relevante
+
+**Transporte aéreo regular de pasajeros, corto radio** (P1)
+- **Producto:** transporte aéreo regular de pasajeros por par de ciudades de origen y
+  destino (O&D), teniendo en cuenta la competencia entre redes y la fuerza de las partes en
+  ciertos aeropuertos (DEC párrs. 83 [p. 25], 87 [p. 26]). No se separan los pasajeros
+  sensibles y no sensibles al tiempo (DEC párr. 103 [p. 30]). Los vuelos con escala entran en
+  el mercado solo si son al menos el 10% de los pasajeros de la ruta (DEC párr. 257
+  [pp. 66–67]).
+- **Geográfico:** cada par O&D, según las áreas de captación de los aeropuertos. En Milán,
+  LIN y MXP son sustituibles; queda abierto si se suma BGY, porque el problema aparece con
+  las dos definiciones (DEC párrs. 193 [p. 50], 195 [p. 51]). Las tablas de cada ruta usan la
+  definición más amplia (DEC párr. 743 [p. 181]).
+
+**Transporte aéreo regular de pasajeros, largo radio** (P2)
+- **Producto:** por par O&D, con vuelos directos y con escala en el mismo mercado (DEC párr.
+  259 [p. 67]). Queda abierto si se separan los pasajeros sensibles al tiempo: no cambia el
+  resultado (DEC párr. 105 [p. 30]).
+- **Geográfico:** cada par O&D (Roma–Washington, Roma–San Francisco, Roma–Toronto).
+
+**Servicios de infraestructura aeroportuaria en Milán Linate** (P3)
+- **Producto:** servicios de infraestructura aeroportuaria (acceso a *slots*) en LIN. LIN no
+  está en el mismo mercado que BGY (DEC párr. 331 [p. 81]).
+- **Geográfico:** el aeropuerto de LIN (DEC párr. 331 [p. 81]).
+
+**Cuotas y concentración** (temporada IATA de verano 2023, la última completa; pasajeros)
+
+| Mercado | Período | Base | ITA | Lufthansa (en largo radio, la JV A++) | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Milán–Bruselas (directos) | verano 2023 | pasajeros | 18% | 40% | 57% | Ryanair 43% | n/d | 5.109 | 1.405 | DEC tabla 25 [pp. 180–181] |
+| Milán–Düsseldorf (directos) | verano 2023 | pasajeros | 11% | 42% | 52% | Ryanair 47% | n/d | 4.959 | 896 | DEC tabla 28 [pp. 190–191] |
+| Milán–Fráncfort (directos) | verano 2023 | pasajeros | 16% | 72% | 88% | Ryanair 12% | n/d | 7.854 | 2.284 | DEC tabla 31 [pp. 200–201] |
+| Milán–Hamburgo (directos y con escala) | verano 2023 | pasajeros | 19% | 42% | 60% | Ryanair 29%, Neos 10% | n/d | 4.575 | 1.563 | DEC tabla 34 [pp. 210–211] |
+| Roma–Bruselas (directos) | verano 2023 | pasajeros | 20% | 36% | 56% | Ryanair 44% | n/d | 5.065 | 1.417 | DEC tabla 40 [pp. 222–223] |
+| Roma–Fráncfort (directos) | verano 2023 | pasajeros | 19% | 81% | 100% | Ryanair <1% | n/d | 9.962 | 3.067 | DEC tabla 43 [pp. 231–232] |
+| Roma–Múnich (directos) | verano 2023 | pasajeros | 18% | 69% | 87% | Ryanair 9%, Wizz Air 4% | n/d | 7.667 | 2.505 | DEC tabla 46 [pp. 240–241] |
+| Roma–Zúrich (directos) | verano 2023 | pasajeros | 18% | 44% | 62% | easyJet 26%, Wizz Air 12% | n/d | 4.669 | 1.573 | DEC tabla 49 [pp. 249–250] |
+| Roma–Hamburgo (directos y con escala) | verano 2023 | pasajeros | 3% | 80% | 83% | Marabu 10%, Air France-KLM 1% | n/d | 7.100 | 550 | DEC tabla 52 [pp. 258–259] |
+| Milán–Viena (directos) | verano 2023 | pasajeros | no vuela (competidor potencial) | 27% | 27% | Ryanair 73% | n/d | 6.037 | no corresponde | DEC tabla 55 [pp. 268–269] |
+| Roma–Washington | verano 2023 | pasajeros (directos y con escala) | 17% | 54% (United 49%) | 71% | AA-IAG 9%, Blue Skies (Delta y Air France-KLM) 8% | n/d | 5.293 | 1.867 | DEC tabla 66 [p. 351] |
+| Roma–San Francisco | verano 2023 | pasajeros (directos y con escala) | 14% | 53% (United 42%) | 67% | AA-IAG 11%, Blue Skies 8% | n/d | 4.774 | 1.517 | DEC tabla 70 [pp. 360–361] |
+| Roma–Toronto | verano 2023 | pasajeros (directos y con escala) | <1% (empezó a volar en mayo de 2024) | 55% (Air Canada 53%) | 55% | Air Transat 39% | n/d | 4.577 | 6 | DEC tabla 73 [pp. 369–370] |
+| *Slots* en Linate | verano 2023 | *slots* disponibles en horario operativo | 53,5% | 6,9% | 60,4% | easyJet 5,5%, Air France-KLM 4,8%, IAG 4,8% | n/d | n/d | n/d | DEC tabla 77 [p. 383] |
+| Pasajeros en Linate | verano 2023 | pasajeros | 52% | 7,2% | 59,2% | n/d | n/d | n/d | n/d | DEC tabla 80 [p. 395] |
+
+- La decisión publica el IHH posterior y su variación, no el previo.
+- La temporada de invierno 2023/2024 solo tiene datos de noviembre a enero (DEC tabla 25
+  [p. 180]); por eso la tabla usa el verano 2023. La decisión trae también las cuotas por
+  capacidad (asientos) y por definiciones alternativas de aeropuertos, que pueden diferir.
+- En Roma–Hamburgo y Milán–Viena el problema es la pérdida de **competencia potencial** de
+  ITA, así que el Δ IHH actual no mide el daño (DEC párrs. 1131 [p. 261], 1179 [p. 271]). En
+  Roma–Toronto, ITA recién empezó a volar en mayo de 2024 (DEC tabla 73 [pp. 369–370]).
+- Las rutas con escala desde Bari, Brindisi, Cagliari y Nápoles a Fráncfort, Múnich,
+  Düsseldorf y Hamburgo se analizan aparte en la decisión; sus cuotas no se transcriben acá
+  (DEC párrs. 1917–1919 [pp. 468–469]).
+
 ## Problemas
 
 ### P1 — Rutas de corto radio Italia–Europa central

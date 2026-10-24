@@ -23,6 +23,32 @@ La Comisión descartó dudas en el resto de los mercados que analizó:
 - relaciones verticales entre válvulas y contratación principal de lanzadores (DEC párr. 259 [p. 67]);
 - efectos de conglomerado (DEC párr. 292 [p. 74]).
 
+## Mercado relevante
+
+**Suministro de actuadores del estabilizador horizontal (THSA)**
+- **Producto:** el suministro de THSA es un mercado separado. Quedan abiertas las
+  segmentaciones por destino (civil o militar) y por tamaño de la aeronave, porque el
+  resultado no cambia (DEC párrs. 61 [p. 18], 64 [p. 20]). Los THSA hidráulicos y los
+  eléctricos compiten en el mismo mercado: la elección se hace al diseñar la aeronave (DEC
+  párrs. 65–66 [p. 20]). La Comisión evalúa el mercado total y los posibles mercados de
+  aeronaves civiles, aviones comerciales grandes y aeronaves militares (DEC párr. 148 [p. 41]).
+- **Geográfico:** mundial. Queda abierto si, para uso militar, el mercado se limita al EEE
+  (DEC párr. 130 [p. 37]).
+
+**Cuotas y concentración** (mundial, 2024, por valor)
+
+| Mercado | Período | Base | Safran | Objetivo (actuación de Collins) | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+| THSA, mercado total | 2024 | valor | [20-30]% | [40-50]% | [60-70]% | Parker [20-30]%, Moog [5-10]% | n/d | n/d | n/d | DEC tabla 1 [p. 42] |
+| THSA para aeronaves civiles | 2024 | valor | [20-30]% | [40-50]% | [60-70]% | Parker [20-30]%, Moog [5-10]% | n/d | n/d | n/d | DEC tabla 2 [p. 42] |
+| THSA para aviones comerciales grandes | 2024 | valor | [10-20]% | [70-80]% | [80-90]% ([90-100]% en 2021–2023) | Moog [5-10]%, Parker [0-5]% | n/d | n/d | n/d | DEC tabla 3 [p. 43] |
+
+- Por volumen, la conjunta es entre [0-5] y [10-20] puntos más alta según el segmento (DEC
+  párr. 148 [p. 41], nota 283).
+- La decisión no publica IHH.
+- Las tablas de las pp. 42–43 son imagen: las cifras salen de OCR y se verificaron contra la
+  imagen del PDF.
+
 ## Problemas
 
 ### P1 — Suministro de sistemas THSA
@@ -38,11 +64,7 @@ La Comisión descartó dudas en el resto de los mercados que analizó:
     173 [p. 47]).
   - Parker, el tercer proveedor grande, casi no participa en ese segmento (DEC párr. 174
     [p. 47]).
-  - Cuotas de 2024 (las tablas son imagen; cifras leídas de la imagen del PDF):
-    - mercado total y aeronaves civiles: objetivo [40-50]%, Safran [20-30]%, combinada
-      [60-70]%. Siguen Parker con [20-30]% y Moog con [5-10]% (DEC tablas 1–2 [p. 42]);
-    - aviones comerciales grandes: combinada [80-90]%, y [90-100]% entre 2021 y 2023
-      (DEC tabla 3 [p. 43]).
+  - Cuotas de 2024 por mercado: ver «Mercado relevante».
 - **Evidencia clave:**
   - **Competidores cercanos** aunque hoy uno venda THSA eléctricos y el otro hidráulicos. La
     competencia se da en la etapa de diseño de la aeronave, y el objetivo ya había

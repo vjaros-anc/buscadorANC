@@ -25,6 +25,36 @@ Naspers resolvió el problema con un remedio mixto:
 No hay mercados descartados: el único mercado relevante es la entrega de comida por
 plataformas, nacional y con rasgos locales (DEC párr. 49 [p. 12]).
 
+## Mercado relevante
+
+**Servicios de entrega de comida por plataformas online**
+- **Producto:** un mercado separado de servicios de entrega de comida por plataformas. Comer
+  en el restaurante, retirar comida, el reparto propio de los restaurantes, las comidas
+  listas del supermercado, las cajas para cocinar y el reparto rápido de almacén son
+  restricciones externas al mercado, que se evalúan aparte (DEC párrs. 30–31 [p. 9]).
+- **Geográfico:** nacional, con fuertes rasgos locales (DEC párr. 49 [p. 12]). Las partes se
+  superponen en Austria, Bulgaria, Italia, Polonia y España (DEC párr. 50 [p. 12]).
+
+**Cuotas y concentración** (2024, por valor de ventas)
+
+| Mercado | Período | Base | JET | Delivery Hero (27,4% de Prosus) | Conjunta | Principales rivales | IHH previo | IHH posterior | Δ IHH | Fuente |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Entrega de comida por plataformas, Austria | 2024 | valor de ventas | [40-50]% | [50-60]% | [90-100]% (suma descriptiva) | Wolt (DoorDash) [0-5]% | n/d | n/d | no corresponde | DEC tabla 1 [p. 30] |
+| Entrega de comida por plataformas, Bulgaria | 2024 | valor de ventas | [70-80]% | [20-30]% | [90-100]% (suma descriptiva) | Wolt y Bolt, recién entrados | n/d | n/d | no corresponde | DEC tabla 1 [p. 30] |
+| Entrega de comida por plataformas, Italia | 2024 | valor de ventas | [30-40]% | [30-40]% | [60-70]% (suma descriptiva) | Deliveroo [30-40]% | n/d | n/d | no corresponde | DEC tabla 1 [p. 30] |
+| Entrega de comida por plataformas, Polonia | 2024 | valor de ventas | [50-60]% | [20-30]% | [70-80]% (suma descriptiva) | Uber Eats [10-20]%, Wolt [10-20]%, Bolt [0-5]% | n/d | n/d | no corresponde | DEC tabla 1 [p. 30] |
+| Entrega de comida por plataformas, España | 2024 | valor de ventas | [20-30]% | [50-60]% | [70-80]% (suma descriptiva) | Uber Eats [20-30]% | n/d | n/d | no corresponde | DEC tabla 1 [p. 30] |
+
+- **JET y Delivery Hero no se fusionan.** La operación crea un vínculo estructural a través de
+  la participación minoritaria de Prosus, no una sola empresa (DEC párr. 125 [p. 30]). La
+  «conjunta» es una suma descriptiva y no la cuota de una empresa única; por la misma razón
+  el Δ IHH de una fusión plena no corresponde.
+- La decisión no publica IHH. Para mostrar la concentración cuenta jugadores: tres en Austria,
+  Italia y España, cuatro en Bulgaria (dos recién entrados) y cinco en Polonia (DEC tabla 4
+  [p. 33]).
+- Los 27,4% de Delivery Hero son una **participación accionaria** de Prosus, no una cuota de
+  mercado (ver «Partes»).
+
 ## Problemas
 
 ### P1 — Efectos unilaterales del vínculo minoritario con Delivery Hero
